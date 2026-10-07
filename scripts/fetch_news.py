@@ -47,8 +47,16 @@ CLUBS = {
 }
 CLUB_RX = {tid: re.compile("|".join(p), re.I) for tid, p in CLUBS.items()}
 
-# Transfers, Verträge und Personalien (Spieler wie Trainer)
-TRANSFER_RX = re.compile(
+# Transfers, Verträge und Personalien (Spieler wie Trainer).
+# TITLE_RX gilt nur für die Überschrift: Spielberichte erwähnen im Anrisstext oft beiläufig einen
+# "Neuzugang" oder "Vertrag". Im Anrisstext zählen deshalb nur eindeutige Begriffe (STRONG_RX).
+STRONG_RX = re.compile(
+    r"transfer|ablöse|leihgeschäft|ausgeliehen|verpflichtet|verpflichtung|unterschreibt|unterschrieben|"
+    r"wechselt (?:zu|nach|in|zum|zur)|wechsel (?:zu|nach|zum|zur)|vertragsverlängerung|verlängert (?:seinen|ihren|den) vertrag|"
+    r"ausstiegsklausel|transferfenster|neuer (?:cheft|t)rainer|als nachfolger",
+    re.I,
+)
+TITLE_RX = re.compile(
     r"transfer|wechsel|wechselt|ablöse|leihe|leihgeschäft|ausgeliehen|verlieh|verpflicht|neuzugang|zugang\b|abgang|"
     r"vertrag|verlänger|unterschreib|unterzeichn|kaderplanung|gerücht|interesse an|umworben|abwerb|"
     r"ausstiegsklausel|freigabe|trainersuche|nachfolger|entlass|freigestellt|trennt sich|trennung|übernimmt|"
@@ -114,8 +122,6 @@ def parse_feed(raw, source):
             continue
         desc = text_of(it, "description", "{http://purl.org/rss/1.0/modules/content/}encoded")
         published = parse_date(text_of(it, "pubDate", "{http://purl.org/dc/elements/1.1/}date"))
-        blob = f"{title} {clean(desc)}"
-        clubs = [tid for tid, rx in CLUB_RX.items() if rx.search(blob)]
         items.append({
             "id": link,
             "title": title,
@@ -123,10 +129,16 @@ def parse_feed(raw, source):
             "source": source,
             "published": published.isoformat().replace("+00:00", "Z") if published else None,
             "teaser": teaser(desc),
-            "clubs": clubs,
-            "transfer": bool(TRANSFER_RX.search(blob)),
         })
     return items
+
+
+def classify(item):
+    """Vereine und Thema aus Überschrift und Anriss bestimmen (auch für ältere Einträge neu)."""
+    title, blob = item["title"], f"{item['title']} {item.get('teaser', '')}"
+    item["clubs"] = [tid for tid, rx in CLUB_RX.items() if rx.search(blob)]
+    item["transfer"] = bool(TITLE_RX.search(title) or STRONG_RX.search(blob))
+    return item
 
 
 def main():
@@ -164,7 +176,7 @@ def main():
             continue
         seen.add(key)
         unique.append(i)
-    unique = unique[:MAX_ITEMS]
+    unique = [classify(i) for i in unique[:MAX_ITEMS]]
 
     if not ok_sources and old:
         print("Keine Quelle erreichbar, news.json bleibt unverändert.")
