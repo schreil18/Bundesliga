@@ -73,10 +73,11 @@ button { font: inherit; color: inherit; }
 .notice { margin-top: 8px; font-size: .82rem; color: var(--muted); border-left: 2px solid var(--line-strong); padding: 2px 0 2px 10px; }
 
 nav.tabs { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); padding-block: 10px; border-bottom: 1px solid var(--line); }
-.tabbar { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4px; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 4px; }
+.tabbar { display: grid; grid-template-columns: repeat(5, 1fr); gap: 4px; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 4px; }
 .tabbar button { border: 0; border-radius: 7px; background: none; padding: 9px 6px 8px; cursor: pointer; font-family: var(--f-display); font-weight: 600; font-size: 1.08rem; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); transition: background-color .15s, color .15s; white-space: nowrap; }
 .tabbar button:hover { color: var(--ink); background: var(--hover); }
 .tabbar button[aria-selected="true"] { background: var(--ink); color: #fff; }
+.tabbar .sh { display: none; }
 
 main { padding-block: 22px 56px; }
 h2 { font-family: var(--f-display); font-weight: 700; font-size: 1.75rem; text-transform: uppercase; letter-spacing: .02em; margin: 0; line-height: 1.05; text-wrap: balance; }
@@ -200,6 +201,27 @@ table { border-collapse: collapse; width: 100%; }
 .legend { display: flex; flex-wrap: wrap; gap: 6px 18px; margin-top: 12px; font-size: .8rem; color: var(--muted); }
 .legend i { display: inline-block; width: 4px; height: 13px; border-radius: 1px; margin-right: 7px; vertical-align: -2px; }
 
+/* News */
+.chips { display: flex; gap: 6px; overflow-x: auto; padding-block: 2px 8px; margin-bottom: 10px; scrollbar-width: thin; }
+.chip { flex: none; display: inline-flex; align-items: center; gap: 7px; border: 1px solid var(--line); background: var(--card); border-radius: 999px; padding: 4px 11px 4px 5px; cursor: pointer; font-size: .84rem; font-weight: 500; white-space: nowrap; transition: border-color .15s, background-color .15s; }
+.chip.all { padding-left: 11px; }
+.chip:hover { border-color: var(--ink); }
+.chip[aria-pressed="true"] { border-color: var(--ink); background: var(--ink); color: #fff; }
+.news-tools { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; margin-bottom: 12px; }
+.news-tools .seg { margin: 0; width: min(100%, 320px); grid-template-columns: repeat(2, 1fr); }
+.nitem { padding: 14px 16px; display: grid; gap: 5px; }
+.nitem + .nitem { border-top: 1px solid var(--line); }
+.nmeta { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; font-size: .76rem; color: var(--muted); }
+.nmeta .src { margin: 0; font-weight: 600; letter-spacing: .05em; text-transform: uppercase; color: var(--ink); font-size: .72rem; }
+.nmeta .cl { display: inline-flex; gap: 4px; margin-left: auto; }
+.ntitle { font-weight: 600; font-size: 1rem; line-height: 1.35; color: var(--ink); text-decoration: none; text-wrap: pretty; }
+.ntitle:hover { text-decoration: underline; text-underline-offset: 3px; }
+.ntitle::after { content: " ↗"; color: var(--muted); font-weight: 400; font-size: .85em; }
+.nteaser { margin: 0; color: var(--muted); font-size: .88rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.ttag { font-size: .66rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--ink); border: 1px solid var(--line-strong); border-radius: 4px; padding: 0 5px; }
+.club-news .nitem { padding-inline: 0; }
+.club-news .nitem:first-child { padding-top: 0; }
+
 /* Statistik */
 .tiles { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 16px; }
 .tile { background: var(--card); border: 1px solid var(--line); border-radius: var(--r); padding: 14px 16px; min-width: 0; }
@@ -254,7 +276,10 @@ table { border-collapse: collapse; width: 100%; }
   .score { font-size: 1.5rem; }
   .md-step { display: none; }
   .goal { grid-template-columns: 1fr 32px 40px 32px 1fr; gap: 4px; font-size: .83rem; }
-  .tabbar button { font-size: .9rem; letter-spacing: .02em; padding-inline: 0; min-width: 0; overflow: hidden; text-overflow: ellipsis; }
+  .tabbar { display: flex; gap: 2px; }
+  .tabbar button { flex: 1 1 auto; font-size: .88rem; letter-spacing: .02em; padding-inline: 5px; min-width: 0; overflow: hidden; text-overflow: ellipsis; }
+  .tabbar .lg { display: none; }
+  .tabbar .sh { display: inline; }
   .status .sep { display: none; }
   .tname { font-size: .9rem; }
   .side { gap: 6px; }
@@ -291,10 +316,11 @@ table { border-collapse: collapse; width: 100%; }
 <nav class="tabs" aria-label="Bereiche">
   <div class="wrap">
     <div class="tabbar" role="tablist">
-      <button type="button" role="tab" id="tab-spielplan" data-view="spielplan">Spielplan</button>
+      <button type="button" role="tab" id="tab-spielplan" data-view="spielplan"><span class="lg">Spielplan</span><span class="sh">Spiele</span></button>
       <button type="button" role="tab" id="tab-vereine" data-view="vereine">Vereine</button>
       <button type="button" role="tab" id="tab-tabelle" data-view="tabelle">Tabelle</button>
       <button type="button" role="tab" id="tab-statistik" data-view="statistik">Statistik</button>
+      <button type="button" role="tab" id="tab-news" data-view="news">News</button>
     </div>
   </div>
 </nav>
@@ -344,10 +370,11 @@ const CLUB_COLORS = {
 /* ================= Zustand ================= */
 const S = {
   view: "spielplan", md: null, teamId: null, open: new Set(),
-  sort: { key: "gf", dir: -1 }, allScorers: false, rankTab: "tore"
+  sort: { key: "gf", dir: -1 }, allScorers: false, rankTab: "tore", newsFilter: "transfer", newsClub: null
 };
 const D = { matches: [], table: [], scorers: [], teams: new Map(), currentMd: null, loadedOnce: false,
-  espn: { assists: [], scorers: [], status: "idle", at: null } };
+  espn: { assists: [], scorers: [], status: "idle", at: null },
+  news: { items: [], updated: null, status: "idle", loadedAt: 0 } };
 let lastScorersAt = 0, timer = null, busy = false, lastError = null, mdTouched = false;
 
 /* ================= Hilfen ================= */
@@ -448,13 +475,39 @@ async function loadEspn() {
   D.espn.status = "ok"; D.espn.at = nowBerlinClock().slice(0, 5);
 }
 
-/* parts: Teilmenge von ["matches","table","scorers","teams","current","espn"] */
+/* ================= News =================
+   Eine GitHub Action holt alle 30 Minuten die offenen Bundesliga-Feeds von kicker und Sportschau
+   und legt sie als news.json ins Repository. Die Seite liest diese Datei: zuerst direkt aus dem
+   Repository (sofort aktuell, funktioniert auch als lokale Datei), sonst die mitveröffentlichte Kopie. */
+const NEWS_URLS = ["https://raw.githubusercontent.com/schreil18/Bundesliga/main/news.json", "news.json"];
+async function loadNews() {
+  if (!D.news.items.length) D.news.status = "loading";
+  let lastErr;
+  for (const url of NEWS_URLS) {
+    try {
+      const data = await getJSON(url);
+      if (!data || !Array.isArray(data.items)) throw new Error("news.json unerwartet");
+      D.news.items = data.items.filter(i => i && i.title && /^https?:\/\//.test(i.link || "")).map(i => ({
+        title: String(i.title), link: String(i.link), source: String(i.source || ""), teaser: String(i.teaser || ""),
+        clubs: Array.isArray(i.clubs) ? i.clubs.map(Number).filter(n => !isNaN(n)) : [], transfer: !!i.transfer,
+        date: i.published ? new Date(i.published) : null
+      })).filter(i => !i.date || !isNaN(i.date)).sort((a, b) => (b.date || 0) - (a.date || 0));
+      D.news.updated = data.updated ? new Date(data.updated) : null;
+      D.news.status = "ok"; D.news.loadedAt = Date.now();
+      return;
+    } catch (e) { lastErr = e; }
+  }
+  D.news.status = "error"; console.warn("News", lastErr);
+}
+
+/* parts: Teilmenge von ["matches","table","scorers","teams","current","espn","news"] */
 async function refresh(parts, reason) {
   if (busy) return;
   busy = true; document.getElementById("refreshBtn").disabled = true;
-  const withEspn = parts.includes("espn");
-  parts = parts.filter(p => p !== "espn");
+  const withEspn = parts.includes("espn"), withNews = parts.includes("news");
+  parts = parts.filter(p => p !== "espn" && p !== "news");
   const espnJob = withEspn ? loadEspn().catch(e => { console.warn("ESPN", e); D.espn.status = "error"; }) : null;
+  const newsJob = withNews ? loadNews() : null;
   const results = await Promise.allSettled(parts.map(p => getJSON(URLS[p])));
   const failed = [];
   results.forEach((res, i) => {
@@ -463,8 +516,9 @@ async function refresh(parts, reason) {
     try { ingest(p, res.value); } catch (e) { failed.push(p); console.warn(p, e); }
   });
   if (espnJob) await espnJob;
+  if (newsJob) await newsJob;
   if (parts.includes("scorers") && !failed.includes("scorers")) lastScorersAt = Date.now();
-  const anyOk = failed.length < parts.length || (withEspn && D.espn.status === "ok");
+  const anyOk = failed.length < parts.length || (withEspn && D.espn.status === "ok") || (withNews && D.news.status === "ok");
   if (anyOk) {
     D.loadedOnce = D.loadedOnce || D.matches.length > 0;
     document.getElementById("lastUpd").textContent = nowBerlinClock();
@@ -651,12 +705,18 @@ function wikimediaThumb(url) {
   if (m) return `${m[1]}120px-${m[2]}`;
   return null;
 }
+/* Eigene, einheitlich zugeschnittene Wappen (crests/<Vereins-ID>.png) liegen neben der Seite.
+   Für Vereine ohne eigenes Wappen (z. B. Aufsteiger der nächsten Saison) gilt weiter die Ersatzkette. */
+const LOCAL_CRESTS = new Set([65, 80, 81, 6, 40, 7, 87, 91, 95, 9, 100, 1635, 112, 31, 198, 134, 175, 16]);
 function crestUrls(id) {
-  const t = teamById(id), list = [...(CREST_OVERRIDES[id] || [])];
+  const t = teamById(id), list = [];
+  if (LOCAL_CRESTS.has(id)) list.push(`crests/${id}.png`);
+  list.push(...(CREST_OVERRIDES[id] || []));
   if (t.icon && !DEAD_ICONS.some(d => t.icon.includes(d))) {
     const th = wikimediaThumb(t.icon);
     if (th) list.push(th);
-    list.push(t.icon);
+    // Wikimedia-SVGs ohne viewBox lassen sich nicht verkleinern und würden abgeschnitten: nur die PNG-Vorschau nutzen
+    if (!(th && /\.svg$/i.test(t.icon))) list.push(t.icon);
   }
   return [...new Set(list)];
 }
@@ -804,6 +864,7 @@ function viewVereine() {
         ${clubScorers(id)}
       </div>
     </div>
+    ${clubNewsCard(id)}
     <div class="card"><h3 class="acc-title">Alle Spiele der Saison</h3><div class="scroll-x"><table class="sched"><tbody>${sched}</tbody></table></div></div>`;
 }
 function clubScorers(id) {
@@ -958,12 +1019,69 @@ function rankingCard() {
     <p class="src">${src}</p></div>`;
 }
 
+function relTime(d) {
+  if (!d) return "";
+  const min = Math.round((Date.now() - d.getTime()) / 60000);
+  if (min < 1) return "gerade eben";
+  if (min < 60) return `vor ${min} Min.`;
+  if (min < 6 * 60) return `vor ${Math.round(min / 60)} Std.`;
+  const p = berlinParts(d), today = berlinParts(new Date());
+  const yest = berlinParts(new Date(Date.now() - 864e5));
+  const same = (a, b) => a.y === b.y && a.mo === b.mo && a.d === b.d;
+  if (same(p, today)) return `heute, ${p.hh}:${p.mi}`;
+  if (same(p, yest)) return `gestern, ${p.hh}:${p.mi}`;
+  return `${WD_S[p.wd]} ${p.d}.${p.mo}., ${p.hh}:${p.mi}`;
+}
+function newsItemHtml(n, showTag) {
+  const clubs = n.clubs.filter(id => D.teams.has(id)).slice(0, 3).map(id => crest(id, "sm")).join("");
+  return `<article class="nitem">
+    <div class="nmeta"><span class="src">${esc(n.source)}</span><span>${esc(relTime(n.date))}</span>${showTag && n.transfer ? `<span class="ttag">Transfer & Personalien</span>` : ""}<span class="cl">${clubs}</span></div>
+    <a class="ntitle" href="${esc(n.link)}" target="_blank" rel="noopener noreferrer">${esc(n.title)}</a>
+    ${n.teaser ? `<p class="nteaser">${esc(n.teaser)}</p>` : ""}
+  </article>`;
+}
+function viewNews() {
+  const st = D.news.status, all = D.news.items;
+  const club = S.newsClub != null && D.teams.has(S.newsClub) ? S.newsClub : null;
+  const byClub = club == null ? all : all.filter(n => n.clubs.includes(club));
+  const list = S.newsFilter === "transfer" ? byClub.filter(n => n.transfer) : byClub;
+  const ids = allTeamIds().sort((a, b) => teamById(a).short.localeCompare(teamById(b).short, "de"));
+  const chips = `<button type="button" class="chip all" data-nclub="" aria-pressed="${club == null}">Alle Vereine</button>` +
+    ids.map(id => `<button type="button" class="chip" data-nclub="${id}" aria-pressed="${club === id}">${crest(id, "sm")}${esc(teamById(id).short)}</button>`).join("");
+  const seg = [["transfer", "Transfers"], ["alle", "Alle News"]].map(([k, l]) => `<button type="button" role="tab" data-nfilter="${k}" aria-selected="${S.newsFilter === k}">${l}</button>`).join("");
+  let body;
+  if (!all.length) {
+    body = `<div class="card empty">${st === "error" ? (location.protocol === "file:" ? "News sind in der Online-Version verfügbar: schreil18.github.io/Bundesliga" : "Die News konnten gerade nicht geladen werden. Beim nächsten Aktualisieren geht es weiter.")
+      : st === "ok" ? "Noch keine Meldungen. Die News werden alle 30 Minuten abgerufen." : "Lade News …"}</div>`;
+  } else if (!list.length) {
+    const who = club != null ? ` zu ${esc(teamById(club).short)}` : "";
+    body = `<div class="card empty">${S.newsFilter === "transfer" ? `Gerade keine Meldungen zu Transfers und Personalien${who}.` : `Keine Meldungen${who} in den letzten drei Wochen.`}
+      ${S.newsFilter === "transfer" && byClub.length ? `<div style="margin-top:12px"><button type="button" class="btn" data-nfilter="alle">Alle News${who} anzeigen</button></div>` : ""}</div>`;
+  } else {
+    body = `<div class="list">${list.slice(0, 60).map(n => newsItemHtml(n, S.newsFilter === "alle")).join("")}</div>`;
+  }
+  const upd = D.news.updated ? `Stand ${relTime(D.news.updated)}` : "";
+  return `
+    <div class="head-row"><h2>News</h2><span class="sub">${S.newsFilter === "transfer" ? "Transfers, Verträge und Personalien" : "Alle Bundesliga-Meldungen"}${upd ? " · " + upd : ""}</span></div>
+    <div class="news-tools"><div class="seg" role="tablist" aria-label="Themen">${seg}</div></div>
+    <div class="chips" aria-label="Verein filtern">${chips}</div>
+    ${body}
+    <p class="src">Quellen: kicker und Sportschau (offene RSS-Feeds). Gezeigt werden Überschrift und Anriss, der Link führt zum vollständigen Artikel. Die Einordnung nach Verein und Thema erfolgt automatisch über Stichwörter.</p>`;
+}
+function clubNewsCard(id) {
+  const items = D.news.items.filter(n => n.clubs.includes(id)).slice(0, 4);
+  if (!items.length) return "";
+  return `<div class="card club-news" style="margin-bottom:16px"><h3 class="acc-title">News</h3>
+    ${items.map(n => newsItemHtml(n, true)).join("")}
+    <button type="button" class="btn" style="margin-top:6px" data-gonews="${id}">Alle News zu ${esc(teamById(id).short)}</button></div>`;
+}
+
 function emptyState(what) {
   return `<div class="card empty">${D.loadedOnce || lastError ? `${what}: Daten von OpenLigaDB sind gerade nicht verfügbar.` : "Lade Daten von OpenLigaDB …"}</div>`;
 }
 
 /* ================= Rendern & Navigation ================= */
-const VIEWS = { spielplan: viewSpielplan, vereine: viewVereine, tabelle: viewTabelle, statistik: viewStatistik };
+const VIEWS = { spielplan: viewSpielplan, vereine: viewVereine, tabelle: viewTabelle, statistik: viewStatistik, news: viewNews };
 let lastCenteredMd = null;
 function applyClubAccent() {
   const root = document.documentElement.style;
@@ -1006,7 +1124,11 @@ function readHash() {
   if (m) { S.view = "vereine"; S.teamId = +m[1]; } else if (VIEWS[h]) S.view = h;
 }
 
-document.querySelector(".tabbar").addEventListener("click", e => { const b = e.target.closest("[data-view]"); if (b) go(b.dataset.view); });
+document.querySelector(".tabbar").addEventListener("click", e => {
+  const b = e.target.closest("[data-view]"); if (!b) return;
+  go(b.dataset.view);
+  if (b.dataset.view === "news" && Date.now() - D.news.loadedAt > 10 * 60 * 1000 && D.news.status !== "loading") loadNews().then(() => { if (S.view === "news") render(); });
+});
 const view = document.getElementById("view");
 view.addEventListener("click", e => {
   const tl = e.target.closest("[data-team]"); if (tl) { e.preventDefault(); return go("vereine", { team: +tl.dataset.team, top: true }); }
@@ -1014,6 +1136,9 @@ view.addEventListener("click", e => {
   const so = e.target.closest("[data-sort]");
   if (so) { const k = so.dataset.sort; S.sort = S.sort.key === k ? { key: k, dir: -S.sort.dir } : { key: k, dir: k === "name" ? 1 : -1 }; return render(); }
   if (e.target.closest("[data-allsc]")) { S.allScorers = !S.allScorers; return render(); }
+  const nf = e.target.closest("[data-nfilter]"); if (nf) { S.newsFilter = nf.dataset.nfilter; return render(); }
+  const nc = e.target.closest("[data-nclub]"); if (nc) { S.newsClub = nc.dataset.nclub ? +nc.dataset.nclub : null; return render(); }
+  const gn = e.target.closest("[data-gonews]"); if (gn) { S.newsClub = +gn.dataset.gonews; S.newsFilter = "alle"; return go("news", { top: true }); }
   const rk = e.target.closest("[data-rank]"); if (rk) { S.rankTab = rk.dataset.rank; S.allScorers = false; return render(); }
   const pk = e.target.closest("[data-pick]"); if (pk) return go("vereine", { team: +pk.dataset.pick, top: S.view !== "vereine" });
   const chip = e.target.closest("[data-md]"); if (chip) { S.md = +chip.dataset.md; mdTouched = true; return render(); }
@@ -1052,7 +1177,7 @@ async function tick() {
   updateAutoState();
   if (autoActive()) {
     const parts = ["matches", "table"];
-    if (Date.now() - lastScorersAt >= SCORERS_MS) parts.push("scorers", "current", "espn");
+    if (Date.now() - lastScorersAt >= SCORERS_MS) parts.push("scorers", "current", "espn", "news");
     await refreshKeepingMd(parts);
   }
   if (document.visibilityState === "visible") schedule();
@@ -1068,11 +1193,11 @@ document.addEventListener("visibilitychange", () => {
   if (document.visibilityState === "hidden") { clearTimeout(timer); return; }
   if (isWeekendBerlin()) {
     const parts = ["matches", "table"];
-    if (Date.now() - lastScorersAt >= SCORERS_MS) parts.push("scorers", "current", "espn");
+    if (Date.now() - lastScorersAt >= SCORERS_MS) parts.push("scorers", "current", "espn", "news");
     refreshKeepingMd(parts).then(schedule);
   } else schedule();
 });
-document.getElementById("refreshBtn").addEventListener("click", () => refreshKeepingMd(["matches", "table", "scorers", "current", "espn"]));
+document.getElementById("refreshBtn").addEventListener("click", () => refreshKeepingMd(["matches", "table", "scorers", "current", "espn", "news"]));
 
 /* ================= Als App installieren ================= */
 (function installSupport() {
@@ -1107,7 +1232,7 @@ if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol)) {
 /* ================= Start ================= */
 readHash();
 updateAutoState();
-refresh(["teams", "current", "matches", "table", "scorers", "espn"]).then(() => {
+refresh(["teams", "current", "matches", "table", "scorers", "espn", "news"]).then(() => {
   if (S.md == null && D.matches.length) { S.md = D.currentMd || guessCurrentMd(); render(); }
   if (document.visibilityState === "visible") schedule();
 });

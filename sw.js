@@ -1,9 +1,9 @@
 /* Service Worker der Bundesliga-App.
-   - Die Seite selbst: erst aus dem Netz (damit Updates sofort ankommen), ohne Netz aus dem Speicher.
-   - Symbole und Manifest: aus dem Speicher.
-   - Spieldaten (OpenLigaDB, ESPN), Schriften und Wappen laufen nie über den Speicher,
-     damit Ergebnisse immer frisch sind. */
-const CACHE = "bundesliga-app-v1";
+   - Seite und news.json: erst aus dem Netz (damit Updates sofort ankommen), ohne Netz aus dem Speicher.
+   - Symbole, Wappen, Manifest: aus dem Speicher, beim ersten Abruf dort abgelegt.
+   - Live-Daten (OpenLigaDB, ESPN, News aus dem Repository), Schriften und fremde Bilder laufen nie über
+     diesen Speicher, damit Ergebnisse immer frisch sind. */
+const CACHE = "bundesliga-app-v2";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/apple-touch-icon.png", "./icons/favicon-32.png"];
 
 self.addEventListener("install", event => {
@@ -18,23 +18,33 @@ self.addEventListener("activate", event => {
   );
 });
 
+function networkFirst(req, key) {
+  return fetch(req)
+    .then(res => {
+      if (res.ok) { const copy = res.clone(); caches.open(CACHE).then(c => c.put(key, copy)); }
+      return res;
+    })
+    .catch(() => caches.match(key).then(hit => hit || Response.error()));
+}
+
 self.addEventListener("fetch", event => {
   const req = event.request;
   if (req.method !== "GET") return;
   const url = new URL(req.url);
-  if (url.origin !== self.location.origin) return;           // Live-Daten, Schriften, Wappen: direkt ins Netz
+  if (url.origin !== self.location.origin) return;
 
   if (req.mode === "navigate" || url.pathname.endsWith("/") || url.pathname.endsWith("/index.html")) {
-    event.respondWith(
-      fetch(req)
-        .then(res => {
-          if (res.ok) { const copy = res.clone(); caches.open(CACHE).then(c => c.put("./index.html", copy)); }
-          return res;
-        })
-        .catch(() => caches.match("./index.html"))
-    );
+    event.respondWith(networkFirst(req, "./index.html"));
     return;
   }
-
-  event.respondWith(caches.match(req).then(hit => hit || fetch(req)));
+  if (url.pathname.endsWith("/news.json")) {
+    event.respondWith(networkFirst(req, "./news.json"));
+    return;
+  }
+  event.respondWith(
+    caches.match(req).then(hit => hit || fetch(req).then(res => {
+      if (res.ok && /\/(crests|icons)\//.test(url.pathname)) { const copy = res.clone(); caches.open(CACHE).then(c => c.put(req, copy)); }
+      return res;
+    }))
+  );
 });
