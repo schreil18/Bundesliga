@@ -4,6 +4,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Bundesliga 2026/27 live</title>
+<meta name="description" content="Spielplan, Tabelle und Torstatistik der Bundesliga 2026/27, live von OpenLigaDB.">
+<meta name="theme-color" content="#FAF7F2">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Bundesliga">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600&display=swap">
@@ -53,6 +62,14 @@ button { font: inherit; color: inherit; }
 .btn { border: 1px solid var(--line-strong); background: var(--card); border-radius: 7px; padding: 5px 12px; cursor: pointer; font-size: .82rem; font-weight: 500; transition: background-color .15s, border-color .15s; }
 .btn:hover { border-color: var(--ink); }
 .btn:disabled { opacity: .5; cursor: default; }
+.install { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-top: 14px; margin-bottom: 4px; background: var(--card); border: 1px solid var(--line); border-radius: var(--r); padding: 10px 12px; font-size: .86rem; }
+.install img { width: 36px; height: 36px; border-radius: 8px; box-shadow: 0 0 0 1px var(--line); }
+.install .txt { flex: 1; min-width: 180px; }
+.install .txt b { display: block; font-weight: 600; }
+.install .txt span { color: var(--muted); }
+.install .x { border: 0; background: none; cursor: pointer; color: var(--muted); font-size: 1.2rem; line-height: 1; padding: 4px 6px; }
+.install .x:hover { color: var(--ink); }
+@media (display-mode: standalone) { .masthead { padding-top: 14px; } }
 .notice { margin-top: 8px; font-size: .82rem; color: var(--muted); border-left: 2px solid var(--line-strong); padding: 2px 0 2px 10px; }
 
 nav.tabs { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); padding-block: 10px; border-bottom: 1px solid var(--line); }
@@ -251,6 +268,12 @@ table { border-collapse: collapse; width: 100%; }
 <body>
 
 <header class="wrap">
+  <div class="install" id="installHint" hidden>
+    <img src="icons/icon-192.png" alt="">
+    <div class="txt"><b>Als App nutzen</b><span id="installText">Mit eigenem Symbol auf dem Startbildschirm, ohne Browserleiste.</span></div>
+    <button type="button" class="btn" id="installBtn" hidden>Installieren</button>
+    <button type="button" class="x" id="installClose" aria-label="Hinweis schließen">×</button>
+  </div>
   <div class="masthead">
     <h1><small>1. Bundesliga · Saison</small>2026/27</h1>
     <div>
@@ -1050,6 +1073,36 @@ document.addEventListener("visibilitychange", () => {
   } else schedule();
 });
 document.getElementById("refreshBtn").addEventListener("click", () => refreshKeepingMd(["matches", "table", "scorers", "current", "espn"]));
+
+/* ================= Als App installieren ================= */
+(function installSupport() {
+  const hint = document.getElementById("installHint"), btn = document.getElementById("installBtn"), txt = document.getElementById("installText");
+  const standalone = window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true;
+  let dismissed = false;
+  try { dismissed = localStorage.getItem("bl-install-hint") === "aus"; } catch (e) {}
+  if (standalone || dismissed) return;
+  document.getElementById("installClose").addEventListener("click", () => {
+    hint.hidden = true; try { localStorage.setItem("bl-install-hint", "aus"); } catch (e) {}
+  });
+  // Android / Chrome / Edge: echter Installationsdialog
+  let deferred = null;
+  window.addEventListener("beforeinstallprompt", e => {
+    e.preventDefault(); deferred = e; btn.hidden = false; hint.hidden = false;
+  });
+  btn.addEventListener("click", async () => {
+    if (!deferred) return;
+    deferred.prompt();
+    try { await deferred.userChoice; } catch (e) {}
+    deferred = null; hint.hidden = true;
+  });
+  window.addEventListener("appinstalled", () => { hint.hidden = true; });
+  // iPhone / iPad: Safari hat keinen Installationsdialog, nur den Weg über „Teilen“
+  const ios = /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  if (ios) { txt.textContent = "Unten auf „Teilen“ tippen, dann „Zum Home-Bildschirm“."; hint.hidden = false; }
+})();
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol)) {
+  window.addEventListener("load", () => { navigator.serviceWorker.register("sw.js").catch(e => console.warn("Service Worker", e)); });
+}
 
 /* ================= Start ================= */
 readHash();
