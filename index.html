@@ -72,8 +72,8 @@ h3 { font-family: var(--f-display); font-weight: 600; font-size: 1.12rem; text-t
 .empty { padding: 28px 18px; text-align: center; color: var(--muted); }
 
 /* Wappen */
-.crest { flex: none; width: 28px; height: 28px; display: inline-grid; place-items: center; }
-.crest img { width: 100%; height: 100%; object-fit: contain; display: block; }
+.crest { flex: none; width: 28px; height: 28px; display: inline-grid; place-items: center; overflow: hidden; }
+.crest img { width: 100%; height: 100%; max-width: 100%; max-height: 100%; object-fit: contain; display: block; }
 .crest .fb { width: 100%; height: 100%; border-radius: 50%; display: grid; place-items: center; font-family: var(--f-display); font-weight: 700; font-size: .66rem; letter-spacing: .02em; line-height: 1; }
 .crest.sm { width: 22px; height: 22px; }
 .crest.sm .fb { font-size: .56rem; }
@@ -547,16 +547,44 @@ function abbr(t) {
   const s = (t.short || t.name || "?").trim();
   return s.length <= 4 ? s.toUpperCase() : s.replace(/[^A-Za-zÄÖÜäöü0-9]/g, "").slice(0, 3).toUpperCase();
 }
-function crest(id, size = "") {
-  const t = teamById(id), c = clubColors(id);
-  const fb = `<span class="fb" style="background:${c.main};color:${c.ink}">${esc(abbr(t))}</span>`;
-  if (!t.icon) return `<span class="crest ${size}" aria-hidden="true">${fb}</span>`;
-  return `<span class="crest ${size}" aria-hidden="true"><img src="${esc(t.icon)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-fb="${esc(abbr(t))}" data-bg="${c.main}" data-ink="${c.ink}"></span>`;
+/* Wappen-Adressen: OpenLigaDB liefert für manche Vereine tote Links (Leverkusen) oder SVGs ohne viewBox,
+   die sich nicht verkleinern lassen (Bremen). Darum: eigene Ersatzadressen zuerst, Wikimedia-SVGs als
+   gerenderte PNG-Vorschau, danach die Original-Adresse, zuletzt der farbige Kreis mit Kürzel. */
+const CREST_OVERRIDES = {
+  6:   ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bayer_04_Leverkusen_logo.svg/120px-Bayer_04_Leverkusen_logo.svg.png",
+        "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/120px-Bayer_04_Leverkusen_logo.svg.png"],
+  134: ["https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/120px-SV-Werder-Bremen-Logo.svg.png"]
+};
+const DEAD_ICONS = ["bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png"];
+function wikimediaThumb(url) {
+  // https://upload.wikimedia.org/wikipedia/<site>/<a>/<ab>/<Datei>.svg  ->  …/thumb/<a>/<ab>/<Datei>.svg/120px-<Datei>.svg.png
+  let m = /^(https:\/\/upload\.wikimedia\.org\/wikipedia\/[^/]+)\/([0-9a-f])\/([0-9a-f]{2})\/([^/]+\.svg)$/i.exec(url);
+  if (m) return `${m[1]}/thumb/${m[2]}/${m[3]}/${m[4]}/120px-${m[4]}.png`;
+  m = /^(https:\/\/upload\.wikimedia\.org\/.+\/thumb\/.+\/)\d+px-([^/]+)$/i.exec(url);   // vorhandene Vorschau auf 120 px
+  if (m) return `${m[1]}120px-${m[2]}`;
+  return null;
 }
-// Ersatzanzeige, wenn ein Wappen nicht lädt
+function crestUrls(id) {
+  const t = teamById(id), list = [...(CREST_OVERRIDES[id] || [])];
+  if (t.icon && !DEAD_ICONS.some(d => t.icon.includes(d))) {
+    const th = wikimediaThumb(t.icon);
+    if (th) list.push(th);
+    list.push(t.icon);
+  }
+  return [...new Set(list)];
+}
+function crest(id, size = "") {
+  const t = teamById(id), c = clubColors(id), urls = crestUrls(id);
+  const fb = `<span class="fb" style="background:${c.main};color:${c.ink}">${esc(abbr(t))}</span>`;
+  if (!urls.length) return `<span class="crest ${size}" aria-hidden="true">${fb}</span>`;
+  return `<span class="crest ${size}" aria-hidden="true"><img src="${esc(urls[0])}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-alt="${esc(urls.slice(1).join(" "))}" data-fb="${esc(abbr(t))}" data-bg="${c.main}" data-ink="${c.ink}"></span>`;
+}
+// Lädt ein Wappen nicht: nächste Adresse versuchen, am Ende Kreis in Vereinsfarbe mit Kürzel
 document.addEventListener("error", e => {
   const img = e.target;
   if (!(img instanceof HTMLImageElement) || !img.dataset.fb) return;
+  const rest = (img.dataset.alt || "").split(" ").filter(Boolean);
+  if (rest.length) { img.dataset.alt = rest.slice(1).join(" "); img.src = rest[0]; return; }
   const span = document.createElement("span");
   span.className = "fb"; span.style.background = img.dataset.bg; span.style.color = img.dataset.ink; span.textContent = img.dataset.fb;
   img.replaceWith(span);
