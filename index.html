@@ -673,7 +673,9 @@ function guessCurrentMd() {
   const live = D.matches.find(m => m.status === "live"); if (live) return live.md;
   const open = D.matches.find(m => !m.fin); return open ? open.md : (D.matches.at(-1)?.md || 1);
 }
+const DEFAULT_TEAM = 16;   // VfB Stuttgart: wird in der Vereinsansicht zuerst gezeigt
 function firstTeamId() {
+  if (D.teams.has(DEFAULT_TEAM) || D.table.some(r => r.id === DEFAULT_TEAM)) return DEFAULT_TEAM;
   if (D.table.length && D.table[0].id != null) return D.table[0].id;
   const ids = [...D.teams.keys()]; return ids.length ? ids[0] : null;
 }
