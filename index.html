@@ -210,12 +210,18 @@ table { border-collapse: collapse; width: 100%; }
 .st .gbar { display: flex; align-items: center; gap: 8px; justify-content: flex-end; }
 .st .gbar i { display: block; height: 8px; border-radius: 0 3px 3px 0; min-width: 2px; }
 .st td.big { font-family: var(--f-display); font-weight: 700; font-size: 1.1rem; }
+.seg { display: grid; grid-template-columns: repeat(3, 1fr); gap: 3px; background: var(--bg); border: 1px solid var(--line); border-radius: 9px; padding: 3px; margin-bottom: 12px; }
+.seg button { border: 0; background: none; border-radius: 6px; padding: 7px 4px 6px; cursor: pointer; font-family: var(--f-display); font-weight: 600; font-size: 1rem; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); transition: background-color .15s, color .15s; }
+.seg button:hover { color: var(--ink); }
+.seg button[aria-selected="true"] { background: var(--card); color: var(--ink); box-shadow: 0 0 0 1px var(--line-strong); }
+.scorers .split { display: block; white-space: nowrap; font-size: .74rem; color: var(--muted); font-family: var(--f-body); font-weight: 500; letter-spacing: 0; }
+.src { margin: 10px 0 0; font-size: .78rem; color: var(--muted); }
 .scorers td { padding: 8px 6px; border-top: 1px solid var(--line); font-size: .92rem; }
 .scorers tr:first-child td { border-top: 0; }
 .scorers .rk { width: 34px; font-family: var(--f-display); font-weight: 600; color: var(--muted); font-size: 1rem; }
 .scorers .who { display: flex; align-items: center; gap: 10px; }
 .scorers .cl { color: var(--muted); font-size: .8rem; }
-.scorers .g { width: 44px; text-align: right; font-family: var(--f-display); font-weight: 700; font-size: 1.3rem; }
+.scorers .g { width: 1%; white-space: nowrap; padding-left: 12px; text-align: right; font-family: var(--f-display); font-weight: 700; font-size: 1.3rem; }
 .foot { color: var(--muted); font-size: .78rem; padding-block: 0 36px; }
 .foot a { color: inherit; }
 
@@ -315,9 +321,10 @@ const CLUB_COLORS = {
 /* ================= Zustand ================= */
 const S = {
   view: "spielplan", md: null, teamId: null, open: new Set(),
-  sort: { key: "gf", dir: -1 }, allScorers: false
+  sort: { key: "gf", dir: -1 }, allScorers: false, rankTab: "tore"
 };
-const D = { matches: [], table: [], scorers: [], teams: new Map(), currentMd: null, loadedOnce: false };
+const D = { matches: [], table: [], scorers: [], teams: new Map(), currentMd: null, loadedOnce: false,
+  espn: { assists: [], scorers: [], status: "idle", at: null } };
 let lastScorersAt = 0, timer = null, busy = false, lastError = null, mdTouched = false;
 
 /* ================= Hilfen ================= */
@@ -365,10 +372,66 @@ async function getJSON(url) {
   } finally { clearTimeout(t); }
 }
 
-/* parts: Teilmenge von ["matches","table","scorers","teams","current"] */
+/* ================= Vorlagen & Scorer von ESPN =================
+   OpenLigaDB speichert keine Vorlagen. ESPN bietet eine inoffizielle, kostenlose Schnittstelle ohne Schlüssel,
+   aber nur mit den besten 25 je Kategorie. Fällt sie aus, funktioniert der Rest der Seite unverändert weiter. */
+const ESPN_LEADERS = `https://sports.core.api.espn.com/v2/sports/soccer/leagues/ger.1/seasons/${SEASON}/types/1/leaders`;
+/* ESPN-Vereinsnummer → OpenLigaDB-Vereins-ID */
+const ESPN_TEAM = { 132: 40, 124: 7, 11420: 1635, 131: 6, 134: 16, 125: 91, 126: 112, 7911: 175, 2950: 81,
+  268: 87, 137: 134, 3841: 95, 598: 80, 122: 65, 127: 100, 133: 9, 3307: 31, 10388: 198 };
+const espnNames = new Map();   // Spielernamen ändern sich nicht: einmal laden, dann merken
+const https = u => String(u || "").replace(/^http:\/\//i, "https://");
+const refId = (ref, kind) => { const m = new RegExp(`/${kind}/(\\d+)`).exec(ref || ""); return m ? +m[1] : null; };
+async function pool(items, limit, fn) {
+  const out = new Array(items.length); let i = 0;
+  await Promise.all(Array.from({ length: Math.min(limit, items.length) }, async () => {
+    while (i < items.length) { const k = i++; try { out[k] = await fn(items[k]); } catch (e) { out[k] = null; } }
+  }));
+  return out;
+}
+function statValue(stats, name) {
+  for (const c of (stats && stats.splits && stats.splits.categories) || [])
+    for (const st of c.stats || []) if (st.name === name) return num(st.value, 0);
+  return null;
+}
+async function loadEspn() {
+  if (!D.espn.assists.length) D.espn.status = "loading";
+  const data = await getJSON(ESPN_LEADERS);
+  const cats = Array.isArray(data && data.categories) ? data.categories : [];
+  const cat = (...n) => cats.find(c => n.includes(c.name)) || { leaders: [] };
+  const entries = c => (c.leaders || []).map(l => ({
+    aid: refId(l.athlete && l.athlete.$ref, "athletes"), etid: refId(l.team && l.team.$ref, "teams"),
+    value: num(l.value), aref: https(l.athlete && l.athlete.$ref), sref: https(l.statistics && l.statistics.$ref)
+  })).filter(e => e.aid != null);
+  const goals = entries(cat("goals", "goalsLeaders")), assists = entries(cat("assists", "assistsLeaders"));
+  if (!goals.length && !assists.length) throw new Error("ESPN: keine Ranglisten");
+  const byId = new Map();
+  [...goals, ...assists].forEach(e => { if (!byId.has(e.aid)) byId.set(e.aid, { ...e }); });
+  const people = [...byId.values()];
+  // Namen (nur unbekannte) und Saisonstatistik je Spieler, höchstens 6 Abrufe gleichzeitig
+  await pool(people.filter(p => !espnNames.has(p.aid)), 6, async p => {
+    const a = await getJSON(p.aref || `https://sports.core.api.espn.com/v2/sports/soccer/leagues/ger.1/seasons/${SEASON}/athletes/${p.aid}`);
+    espnNames.set(p.aid, a.shortName || a.displayName || a.fullName || "");
+  });
+  const stats = await pool(people, 6, p => getJSON(p.sref || `https://sports.core.api.espn.com/v2/sports/soccer/leagues/ger.1/seasons/${SEASON}/types/1/athletes/${p.aid}/statistics/0`));
+  const person = (p, extra) => ({ id: p.aid, name: espnNames.get(p.aid) || "unbekannt", team: ESPN_TEAM[p.etid] ?? null, ...extra });
+  D.espn.assists = assists.filter(e => e.value > 0).map(e => person(e, { value: e.value }));
+  D.espn.scorers = people.map((p, i) => {
+    const st = stats[i]; if (!st) return null;              // ohne Statistik keine verlässliche Summe
+    const g = statValue(st, "totalGoals"), a = statValue(st, "goalAssists");
+    if (g == null && a == null) return null;
+    return person(p, { goals: g || 0, assists: a || 0, value: (g || 0) + (a || 0) });
+  }).filter(x => x && x.value > 0);
+  D.espn.status = "ok"; D.espn.at = nowBerlinClock().slice(0, 5);
+}
+
+/* parts: Teilmenge von ["matches","table","scorers","teams","current","espn"] */
 async function refresh(parts, reason) {
   if (busy) return;
   busy = true; document.getElementById("refreshBtn").disabled = true;
+  const withEspn = parts.includes("espn");
+  parts = parts.filter(p => p !== "espn");
+  const espnJob = withEspn ? loadEspn().catch(e => { console.warn("ESPN", e); D.espn.status = "error"; }) : null;
   const results = await Promise.allSettled(parts.map(p => getJSON(URLS[p])));
   const failed = [];
   results.forEach((res, i) => {
@@ -376,8 +439,9 @@ async function refresh(parts, reason) {
     if (res.status !== "fulfilled") { failed.push(p); return; }
     try { ingest(p, res.value); } catch (e) { failed.push(p); console.warn(p, e); }
   });
+  if (espnJob) await espnJob;
   if (parts.includes("scorers") && !failed.includes("scorers")) lastScorersAt = Date.now();
-  const anyOk = failed.length < parts.length;
+  const anyOk = failed.length < parts.length || (withEspn && D.espn.status === "ok");
   if (anyOk) {
     D.loadedOnce = D.loadedOnce || D.matches.length > 0;
     document.getElementById("lastUpd").textContent = nowBerlinClock();
@@ -813,16 +877,7 @@ function viewStatistik() {
       <td class="num">${s.sp ? fmt2(s.gf / s.sp) : "–"}</td></tr>`;
   }).join("");
 
-  const teamOf = scorerTeams();
-  let list = D.scorers;
-  const cut = list[19]?.goals;
-  const shortList = cut == null ? list : list.filter(p => p.goals > cut).length >= 10 ? list.filter(p => p.goals > cut) : list.slice(0, 20);
-  const shown = S.allScorers ? list : shortList;
-  const scorerRows = shown.map((p, i) => {
-    const rank = list.findIndex(q => q.goals === p.goals) + 1, prev = i > 0 && shown[i - 1].goals === p.goals;
-    const tid = teamOf.get(p.id);
-    return `<tr><td class="rk num">${prev ? "" : rank + "."}</td><td><span class="who">${tid != null ? crest(tid, "sm") : `<span class="crest sm"></span>`}<span>${esc(p.name)}${tid != null ? `<br><span class="cl">${esc(teamById(tid).short)}</span>` : ""}</span></span></td><td class="g num">${p.goals}</td></tr>`;
-  }).join("");
+  const ranking = rankingCard();
 
   return `
     <div class="head-row"><h2>Torstatistik</h2><span class="sub">${fin.length} beendete Spiele${D.matches.some(m => m.status === "live") ? ", laufende Spiele zählen nach Abpfiff" : ""}</span></div>
@@ -839,15 +894,45 @@ function viewStatistik() {
       <div class="vlabels">${byMd.map(x => `<span>${x.md}.${x.partial ? "*" : ""}</span>`).join("")}</div>
       ${byMd.some(x => x.partial) ? `<p class="sub" style="margin:10px 0 0">* Spieltag noch nicht abgeschlossen</p>` : ""}` : `<p class="sub">Noch keine beendeten Spiele.</p>`}
     </div>
-      <div class="card"><h3>Torschützenliste</h3>
-        ${list.length ? `<table class="scorers"><tbody>${scorerRows}</tbody></table>
-        ${list.length > shortList.length ? `<button type="button" class="btn" style="margin-top:12px" data-allsc>${S.allScorers ? "Weniger anzeigen" : `Alle ${list.length} Torschützen`}</button>` : ""}` : `<p class="sub">Noch keine Torschützen.</p>`}
-      </div>
+      ${ranking}
     </div>
     <div class="card"><h3>Tore pro Verein</h3>
       <div class="scroll-x"><table class="st"><thead><tr>${["name", "sp", "gf", "ga", "diff", "home", "away", "avg"].map(th).join("")}</tr></thead><tbody>${clubRows}</tbody></table></div>
       <p class="sub" style="margin:10px 0 0">Spaltenkopf antippen zum Sortieren. Heim und Auswärts als erzielt:kassiert.</p>
     </div>`;
+}
+
+const RANK_TABS = [["tore", "Tore"], ["vorlagen", "Vorlagen"], ["scorer", "Scorer"]];
+function rankingCard() {
+  const tab = RANK_TABS.some(t => t[0] === S.rankTab) ? S.rankTab : "tore";
+  let list, unit, empty, src;
+  if (tab === "tore") {
+    const teamOf = scorerTeams();
+    list = D.scorers.map(p => ({ name: p.name, team: teamOf.get(p.id) ?? null, value: p.goals }));
+    unit = "Torschützen"; empty = "Noch keine Torschützen."; src = "Quelle: OpenLigaDB";
+  } else {
+    list = (tab === "vorlagen" ? D.espn.assists : D.espn.scorers).slice();
+    unit = tab === "vorlagen" ? "Vorlagengeber" : "Scorer";
+    const st = D.espn.status;
+    empty = st === "error" ? "Die Vorlagen von ESPN sind gerade nicht abrufbar. Die Torjägerliste funktioniert weiter."
+      : st === "loading" || st === "idle" ? "Lade Vorlagen von ESPN …" : "Noch keine Vorlagen.";
+    src = `Quelle: ESPN, nur die besten 25 je Kategorie${tab === "scorer" ? " (Tore + Vorlagen)" : ""}${D.espn.at ? ` · Stand ${D.espn.at} Uhr` : ""}${st === "error" && list.length ? " · letzter Abruf fehlgeschlagen" : ""}`;
+  }
+  list.sort((a, b) => b.value - a.value || (b.goals || 0) - (a.goals || 0) || a.name.localeCompare(b.name, "de"));
+  const cut = list[19]?.value;
+  const shortList = cut == null ? list : list.filter(p => p.value > cut).length >= 10 ? list.filter(p => p.value > cut) : list.slice(0, 20);
+  const shown = S.allScorers ? list : shortList;
+  const rows = shown.map((p, i) => {
+    const rank = list.findIndex(q => q.value === p.value) + 1, prev = i > 0 && shown[i - 1].value === p.value;
+    const split = tab === "scorer" ? `<span class="split">${p.goals} T · ${p.assists} V</span>` : "";
+    return `<tr><td class="rk num">${prev ? "" : rank + "."}</td><td><span class="who">${p.team != null ? crest(p.team, "sm") : `<span class="crest sm"></span>`}<span>${esc(p.name)}${p.team != null ? `<br><span class="cl">${esc(teamById(p.team).short)}</span>` : ""}</span></span></td><td class="g num">${p.value}${split}</td></tr>`;
+  }).join("");
+  const tabs = RANK_TABS.map(([k, l]) => `<button type="button" role="tab" data-rank="${k}" aria-selected="${k === tab}">${l}</button>`).join("");
+  return `<div class="card"><h3>Rangliste</h3>
+    <div class="seg" role="tablist" aria-label="Kategorie">${tabs}</div>
+    ${list.length ? `<table class="scorers"><tbody>${rows}</tbody></table>
+    ${list.length > shortList.length ? `<button type="button" class="btn" style="margin-top:12px" data-allsc>${S.allScorers ? "Weniger anzeigen" : `Alle ${list.length} ${unit}`}</button>` : ""}` : `<p class="sub">${empty}</p>`}
+    <p class="src">${src}</p></div>`;
 }
 
 function emptyState(what) {
@@ -906,6 +991,7 @@ view.addEventListener("click", e => {
   const so = e.target.closest("[data-sort]");
   if (so) { const k = so.dataset.sort; S.sort = S.sort.key === k ? { key: k, dir: -S.sort.dir } : { key: k, dir: k === "name" ? 1 : -1 }; return render(); }
   if (e.target.closest("[data-allsc]")) { S.allScorers = !S.allScorers; return render(); }
+  const rk = e.target.closest("[data-rank]"); if (rk) { S.rankTab = rk.dataset.rank; S.allScorers = false; return render(); }
   const pk = e.target.closest("[data-pick]"); if (pk) return go("vereine", { team: +pk.dataset.pick, top: S.view !== "vereine" });
   const chip = e.target.closest("[data-md]"); if (chip) { S.md = +chip.dataset.md; mdTouched = true; return render(); }
   const st = e.target.closest("[data-step]"); if (st) { S.md = Math.min(34, Math.max(1, S.md + +st.dataset.step)); mdTouched = true; return render(); }
@@ -943,7 +1029,7 @@ async function tick() {
   updateAutoState();
   if (autoActive()) {
     const parts = ["matches", "table"];
-    if (Date.now() - lastScorersAt >= SCORERS_MS) parts.push("scorers", "current");
+    if (Date.now() - lastScorersAt >= SCORERS_MS) parts.push("scorers", "current", "espn");
     await refreshKeepingMd(parts);
   }
   if (document.visibilityState === "visible") schedule();
@@ -959,16 +1045,16 @@ document.addEventListener("visibilitychange", () => {
   if (document.visibilityState === "hidden") { clearTimeout(timer); return; }
   if (isWeekendBerlin()) {
     const parts = ["matches", "table"];
-    if (Date.now() - lastScorersAt >= SCORERS_MS) parts.push("scorers", "current");
+    if (Date.now() - lastScorersAt >= SCORERS_MS) parts.push("scorers", "current", "espn");
     refreshKeepingMd(parts).then(schedule);
   } else schedule();
 });
-document.getElementById("refreshBtn").addEventListener("click", () => refreshKeepingMd(["matches", "table", "scorers", "current"]));
+document.getElementById("refreshBtn").addEventListener("click", () => refreshKeepingMd(["matches", "table", "scorers", "current", "espn"]));
 
 /* ================= Start ================= */
 readHash();
 updateAutoState();
-refresh(["teams", "current", "matches", "table", "scorers"]).then(() => {
+refresh(["teams", "current", "matches", "table", "scorers", "espn"]).then(() => {
   if (S.md == null && D.matches.length) { S.md = D.currentMd || guessCurrentMd(); render(); }
   if (document.visibilityState === "visible") schedule();
 });
