@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T20:14:29Z",
+ "updated": "2026-10-07T20:15:36Z",
  "sources": [
   {
    "name": "kicker",
@@ -48,7 +48,7 @@
     80,
     198
    ],
-   "transfer": true
+   "transfer": false
   },
   {
    "id": "https://www.kicker.de/das-bundesliga-quiz-zum-5-spieltag-1259115/artikel",
@@ -62,8 +62,7 @@
     7,
     87,
     134,
-    95,
-    65
+    95
    ],
    "transfer": false
   },
@@ -258,7 +257,7 @@
    "clubs": [
     134
    ],
-   "transfer": true
+   "transfer": false
   },
   {
    "id": "https://www.sportschau.de/regional/wdr/wdr-neustart-mit-abwehrsorgen-bvb-vor-heissem-herbst-100.html",
@@ -295,7 +294,7 @@
    "clubs": [
     87
    ],
-   "transfer": false
+   "transfer": true
   },
   {
    "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-besiegt-braunschweig-adi-huetter-gruebelt-uebers-personal-100.html",
@@ -573,7 +572,7 @@
     65,
     100
    ],
-   "transfer": true
+   "transfer": false
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/leverkusen-kommt-dank-schicks-traumtor-ins-rollen,spielbericht-bayer-leverkusen-rb-leipzig-108.html",
@@ -612,7 +611,7 @@
     81,
     87
    ],
-   "transfer": true
+   "transfer": false
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/kein-sieger-beim-aufsteiger-duell-auf-schalke,video-bundesliga-fc-schalke-04-sv-elversberg-zusammenfassung-100.html",
