@@ -1,6 +1,641 @@
 {
- "updated": null,
- "sources": [],
- "reachable": [],
- "items": []
+ "updated": "2026-10-07T20:14:29Z",
+ "sources": [
+  {
+   "name": "kicker",
+   "url": "https://newsfeed.kicker.de/news/bundesliga"
+  },
+  {
+   "name": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/index~rss2.xml"
+  }
+ ],
+ "reachable": [
+  "kicker",
+  "Sportschau"
+ ],
+ "items": [
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Weltenbummler Brdaric zieht weiter - Silva kehrt aus dem Ruhestand zurück",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-10-07T20:06:31Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/engagierter-anwalt-fuer-menschlichkeit-soeder-ehrt-kompany-mit-sonderpreis-1259145/artikel",
+   "title": "\"Engagierter Anwalt für Menschlichkeit\": Söder ehrt Kompany mit Sonderpreis",
+   "link": "https://www.kicker.de/engagierter-anwalt-fuer-menschlichkeit-soeder-ehrt-kompany-mit-sonderpreis-1259145/artikel",
+   "source": "kicker",
+   "published": "2026-10-07T19:32:02Z",
+   "teaser": "Neben den sportlichen Erfolgen mit dem FC Bayern imponiert Vincent Kompany auch abseits des Fußballplatzes durch seinen Einsatz gegen Rassismus. Dafür wird der Trainer nun vom bayerischen Ministerpräsidenten Markus Söder mit einem …",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/mehr-als-nur-ein-edeljoker-krattenmacher-stellt-wagner-vor-die-wahl-1258992/artikel",
+   "title": "Mehr als nur ein Edeljoker? Krattenmacher stellt Wagner vor die Wahl",
+   "link": "https://www.kicker.de/mehr-als-nur-ein-edeljoker-krattenmacher-stellt-wagner-vor-die-wahl-1258992/artikel",
+   "source": "kicker",
+   "published": "2026-10-07T17:08:54Z",
+   "teaser": "Neuzugang Krattenmacher kam bei Aufsteiger Elversberg bislang immer \"nur\" von der Bank - wusste von dort jedoch mit einer starken Quote zu überzeugen. Gegen Union Berlin ist der 21-Jährige aus unterschiedlichen Gründen ein …",
+   "clubs": [
+    80,
+    198
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/das-bundesliga-quiz-zum-5-spieltag-1259115/artikel",
+   "title": "Das Bundesliga-Quiz zum 5. Spieltag",
+   "link": "https://www.kicker.de/das-bundesliga-quiz-zum-5-spieltag-1259115/artikel",
+   "source": "kicker",
+   "published": "2026-10-07T16:40:39Z",
+   "teaser": "Nach der langen Länderspielpause steht die Bundesliga wieder im Fokus. Legt der BVB gegen Bremen am 5. Spieltag vor und bleibt Spitzenreiter? Die Bayern müssen zu stark gestarteten Augsburgern. Gladbachs neuer Coach Alexander Blessin hat …",
+   "clubs": [
+    40,
+    7,
+    87,
+    134,
+    95,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bratwurst-mit-maradona-pokal-coup-mit-hannover-96-trauer-um-hans-dieter-schmidt-1259113/artikel",
+   "title": "Bratwurst mit Maradona, Pokal-Coup mit Hannover 96: Trauer um Hans-Dieter Schmidt",
+   "link": "https://www.kicker.de/bratwurst-mit-maradona-pokal-coup-mit-hannover-96-trauer-um-hans-dieter-schmidt-1259113/artikel",
+   "source": "kicker",
+   "published": "2026-10-07T15:40:37Z",
+   "teaser": "Der langjährige Trainer und Manager Hans-Dieter Schmidt ist verstorben. Er hinterließ seine Fußspuren beim FC Bayern, aber auch in der großen weiten Welt.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/blessins-neues-gladbach-und-das-derby-als-stresstest-1259058/artikel",
+   "title": "Blessins neues Gladbach und das Derby als Stresstest",
+   "link": "https://www.kicker.de/blessins-neues-gladbach-und-das-derby-als-stresstest-1259058/artikel",
+   "source": "kicker",
+   "published": "2026-10-07T15:03:24Z",
+   "teaser": "Es wird ernst für den neuen Cheftrainer der Borussia. Am Sonntag in Köln zeigt sich, wie viel Input der 53-Jährige schon liefern konnte. Plant der Coach eine Überraschung auf der Sechs?",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/union-braucht-aus-dem-spiel-mehr-chancen-und-mehr-effizienz-1259083/artikel",
+   "title": "Union braucht aus dem Spiel mehr Chancen und mehr Effizienz",
+   "link": "https://www.kicker.de/union-braucht-aus-dem-spiel-mehr-chancen-und-mehr-effizienz-1259083/artikel",
+   "source": "kicker",
+   "published": "2026-10-07T15:01:30Z",
+   "teaser": "Der 1. FC Union Berlin steht nach dem historisch schlechten Saisonstart gegen Elversberg unter Zugzwang. Die Defensive muss stabiler werden und auch nach vorne zulegen.",
+   "clubs": [
+    80,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kovac-verlaengerung-in-dortmund-nur-eine-frage-der-zeit-1259080/artikel",
+   "title": "Kovac-Verlängerung in Dortmund \"nur eine Frage der Zeit\"",
+   "link": "https://www.kicker.de/kovac-verlaengerung-in-dortmund-nur-eine-frage-der-zeit-1259080/artikel",
+   "source": "kicker",
+   "published": "2026-10-07T14:00:23Z",
+   "teaser": "Niko Kovac soll seinen auslaufenden Vertrag bei Borussia Dortmund zeitnah verlängern. Das unterstrich jetzt auch Klubboss Carsten Cramer.",
+   "clubs": [
+    7
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/zahlreiche-bvb-fragezeichen-nach-inakzeptabler-laenderspielpause-1259036/artikel",
+   "title": "Zahlreiche BVB-Fragezeichen nach \"inakzeptabler\" Länderspielpause",
+   "link": "https://www.kicker.de/zahlreiche-bvb-fragezeichen-nach-inakzeptabler-laenderspielpause-1259036/artikel",
+   "source": "kicker",
+   "published": "2026-10-07T13:19:40Z",
+   "teaser": "20 Profis stellte Borussia Dortmund in der ausgedehnten Länderspielperiode ab. Gleich fünf von ihnen sind mit Problemen zurückgekehrt - und zwei weitere werden erst kurzfristig erwartet.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/vertrag-laeuft-aus-raum-gibt-raum-fuer-spekulationen-1259068/artikel",
+   "title": "Vertrag läuft aus: Raum gibt Raum für Spekulationen",
+   "link": "https://www.kicker.de/vertrag-laeuft-aus-raum-gibt-raum-fuer-spekulationen-1259068/artikel",
+   "source": "kicker",
+   "published": "2026-10-07T13:14:57Z",
+   "teaser": "David Raum befindet sich bei RB Leipzig in seinem letzten Vertragsjahr. Ob der Kapitän der Sachsen über den 30. Juni 2027 hinaus bleibt, ist zurzeit ungewiss.",
+   "clubs": [
+    1635
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/sylla-muss-jetzt-auch-in-der-liga-seinen-lieferdienst-anbieten-1258958/artikel",
+   "title": "Sylla muss jetzt auch in der Liga seinen Lieferdienst anbieten",
+   "link": "https://www.kicker.de/sylla-muss-jetzt-auch-in-der-liga-seinen-lieferdienst-anbieten-1258958/artikel",
+   "source": "kicker",
+   "published": "2026-10-07T12:43:54Z",
+   "teaser": "Moussa Sylla hat in der Länderspielphase seine Kaltschnäuzigkeit unter Beweis gestellt, nach fünf Toren in zwei Tests muss Schalkes Mittelstürmer nun auch im Alltagsgeschäft Bundesliga seinen Lieferdienst anbieten.",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/vier-spiele-sind-definitiv-zu-viel-kovac-kritisiert-laenderspielpause-1259047/video",
+   "title": "\"Vier Spiele sind definitiv zu viel\": Kovac kritisiert Länderspielpause",
+   "link": "https://www.kicker.de/vier-spiele-sind-definitiv-zu-viel-kovac-kritisiert-laenderspielpause-1259047/video",
+   "source": "kicker",
+   "published": "2026-10-07T12:01:25Z",
+   "teaser": "Niko Kovac spricht von einer \"inakzeptablen\" Länderspielpause verbunden mit einigen Ausfällen bei Borussia Dortmund. Die vier Spiele am Stück wären definitiv zu viel.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/gejagter-statt-jaeger-kovac-geniessen-im-moment-die-position-1259037/video",
+   "title": "Gejagter statt Jäger? Kovac: \"Genießen im Moment die Position\"",
+   "link": "https://www.kicker.de/gejagter-statt-jaeger-kovac-geniessen-im-moment-die-position-1259037/video",
+   "source": "kicker",
+   "published": "2026-10-07T11:41:37Z",
+   "teaser": "Borussia Dortmund geht als Tabellenführer in den kommenden Spieltag. BVB-Trainer Niko Kovac sprach auf der Pressekonferenz vom Status des Gejagten.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/torwart-tore-ein-derby-held-ein-brisantes-duell-und-35-sekunden-fuer-die-geschichtsbuecher-1258993/video",
+   "title": "Torwart-Tore: Ein Derby-Held, ein brisantes Duell und 35 Sekunden für die Geschichtsbücher",
+   "link": "https://www.kicker.de/torwart-tore-ein-derby-held-ein-brisantes-duell-und-35-sekunden-fuer-die-geschichtsbuecher-1258993/video",
+   "source": "kicker",
+   "published": "2026-10-07T10:32:24Z",
+   "teaser": "Jeder auf dem Fußballplatz hat seinen Job. Der Stürmer soll Tore schießen, der Torwart soll Tore verhindern. Aber was, wenn sich die Rollen drehen? 38 Torwarttore wurden in der Bundesliga-Historie erzielt - von insgesamt 11 Torhütern. Hier …",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hsv-der-not-plan-gegen-die-sturm-sorgen-1259007/artikel",
+   "title": "HSV: Der Not-Plan gegen die Sturm-Sorgen",
+   "link": "https://www.kicker.de/hsv-der-not-plan-gegen-die-sturm-sorgen-1259007/artikel",
+   "source": "kicker",
+   "published": "2026-10-07T10:19:53Z",
+   "teaser": "Nach der frühen Auswechslung im Test gegen den FC Kopenhagen hatte Yussuf Poulsen am Sonntag umgehend Entwarnung gegeben. Zumindest beim Start in die neue Trainingswoche aber arbeitete der Sturm-Routinier noch individuell.",
+   "clubs": [
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/regenwolken-ueber-dem-geissbockheim-kommt-es-zum-sturm-beim-1-fc-koeln-1258591/artikel",
+   "title": "Regenwolken über dem Geißbockheim: Kommt es zum Sturm beim 1. FC Köln?",
+   "link": "https://www.kicker.de/regenwolken-ueber-dem-geissbockheim-kommt-es-zum-sturm-beim-1-fc-koeln-1258591/artikel",
+   "source": "kicker",
+   "published": "2026-10-07T09:59:06Z",
+   "teaser": "Der 1. FC Köln ist mit gemischten Gefühlen in die neue Saison gestartet. Ausgerechnet vor dem Rheinischen Duell mit Borussia Mönchengladbach steigt die Spannung am Geißbockheim immens.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/blitzstart-traumtore-platzverweis-das-unfassbare-rheinderby-25-26-1257860/video",
+   "title": "Blitzstart, Traumtore, Platzverweis: Das unfassbare Rheinderby 25/26",
+   "link": "https://www.kicker.de/blitzstart-traumtore-platzverweis-das-unfassbare-rheinderby-25-26-1257860/video",
+   "source": "kicker",
+   "published": "2026-10-07T09:49:38Z",
+   "teaser": "Das Rheinderby ist in der Regel schon emotional genug. Doch das Duell zwischen dem 1. FC Köln und Borussia Mönchengladbach im März 2026 setzte noch einen obendrauf.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/koeln-oder-gladbach-wer-gewinnt-das-rheinische-derby-1258972/artikel",
+   "title": "Köln oder Gladbach: Wer gewinnt das rheinische Derby?",
+   "link": "https://www.kicker.de/koeln-oder-gladbach-wer-gewinnt-das-rheinische-derby-1258972/artikel",
+   "source": "kicker",
+   "published": "2026-10-07T09:30:00Z",
+   "teaser": "Nach drei Wochen Länderspielpause meldet sich die Bundesliga zurück - unter anderem mit dem rheinischen Derby am Sonntagnachmittag zwischen dem 1. FC Köln und Borussia Mönchengladbach.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fuer-zwei-interne-rekorde-michel-will-spielen-und-treffen-1258874/artikel",
+   "title": "Für zwei interne Rekorde: Michel will spielen - und treffen",
+   "link": "https://www.kicker.de/fuer-zwei-interne-rekorde-michel-will-spielen-und-treffen-1258874/artikel",
+   "source": "kicker",
+   "published": "2026-10-07T08:01:02Z",
+   "teaser": "Er ist mit seiner Erfahrung wichtig auf dem Platz und für die Mannschaft von Trainer Ralf Kettemann. Nach mehrwöchiger Verletzungspause hofft der Angreifer nun auf seinen ersten Saisoneinsatz - gegen einen Gegner, auf den er im Dress …",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/weisers-14-monatige-leidenszeit-fast-eine-psychose-entwickelt-1258923/artikel",
+   "title": "Weisers 14-monatige Leidenszeit: \"Fast eine Psychose entwickelt\"",
+   "link": "https://www.kicker.de/weisers-14-monatige-leidenszeit-fast-eine-psychose-entwickelt-1258923/artikel",
+   "source": "kicker",
+   "published": "2026-10-07T06:24:29Z",
+   "teaser": "Nach über 14 Monaten Leidenszeit ist Mitchell Weiser zurück. Der Werder-Profi spricht über mentale Tiefpunkte, den emotionalen Moment seines Comebacks und seinen im Sommer auslaufenden Vertrag.",
+   "clubs": [
+    134
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-neustart-mit-abwehrsorgen-bvb-vor-heissem-herbst-100.html",
+   "title": "Neustart mit Abwehrsorgen - BVB vor heißem Herbst",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-neustart-mit-abwehrsorgen-bvb-vor-heissem-herbst-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-05T11:48:00Z",
+   "teaser": "Fast alle Profis unterwegs, neue Verletzungssorgen in der Abwehr: Für Borussia Dortmund hatte die Länderspielpause ihren Preis.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Verletzungen,hsv-2182.html",
+   "title": "Verletzungssorgen beim HSV - Viele Lädierte nach der Länderspielpause",
+   "link": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Verletzungen,hsv-2182.html",
+   "source": "Sportschau",
+   "published": "2026-10-05T10:46:26Z",
+   "teaser": "Merlin Polzin hat seit der Länderspielpause gleich drei Verletzte zu beklagen - und in Yussuf Poulsen ein weiteres Sorgenkind. Gegen Hoffenheim wird der Trainer erneut puzzlen müssen.",
+   "clubs": [
+    175,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/ndr/fc-st-pauli-viel-applaus-fuer-ex-coach-blessin,pauli-668.html",
+   "title": "FC St. Pauli gegen Borussia Mönchengladbach - Viel Applaus für Ex-Coach Blessin",
+   "link": "https://www.sportschau.de/regional/ndr/fc-st-pauli-viel-applaus-fuer-ex-coach-blessin,pauli-668.html",
+   "source": "Sportschau",
+   "published": "2026-10-03T20:08:02Z",
+   "teaser": "Alexander Blessin, neuer Trainer von Bundesliga-Schlusslicht Borussia Mönchengladbach, wurde beim Testspiel im Millerntorstadion herzlich empfangen.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-besiegt-braunschweig-adi-huetter-gruebelt-uebers-personal-100.html",
+   "title": "Frankfurts Trainer Hütter grübelt über Personal und System",
+   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-besiegt-braunschweig-adi-huetter-gruebelt-uebers-personal-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-03T07:14:23Z",
+   "teaser": "Eintracht-Trainer Adi Hütter zeigt sich mit dem Testsieg gegen Braunschweig zufrieden, sieht Fortschritte bei zwei Startelf-Kandidaten und verteilt ein Sonderlob an einen Teenager. Auf eine wesentliche Frage hat er jedoch (noch) keine …",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/rb/rb-testspiel-debakel-werder-verliert-mit-07-gegen-twente-100.html",
+   "title": "Werder Bremen verliert mit 0:7 gegen Twente",
+   "link": "https://www.sportschau.de/regional/rb/rb-testspiel-debakel-werder-verliert-mit-07-gegen-twente-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-02T14:27:00Z",
+   "teaser": "In der Bundesliga läuft es für Werder Bremen besser als erwartet. In einem Testspiel während der Länderspielpause erlebten die Grün-Weißen nun aber eine Blamage.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/rbb/rbb-linus-guether-wann-bringt-union-coach-lustrinelli-das-wunderkind-100.html",
+   "title": "Linus Güther - Wann bringt Union-Coach Lustrinelli das Wunderkind?",
+   "link": "https://www.sportschau.de/regional/rbb/rbb-linus-guether-wann-bringt-union-coach-lustrinelli-das-wunderkind-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-02T10:02:46Z",
+   "teaser": "Linus Güther vom 1. FC Union gilt als eines der größten Talente in Deutschland. In der U19 und DFB-Nachwuchsauswahl liefert er wöchentlich Argumente für Profi-Einsätze. Cheftrainer Mauro Lustrinelli zögert noch - aber der Druck wird immer …",
+   "clubs": [
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-ist-schalke-04-bundesligatauglich-oder-droht-der-abstieg-100.html",
+   "title": "Analyse: Schalke 04 - Bundesligatauglich oder droht der Abstieg?",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-ist-schalke-04-bundesligatauglich-oder-droht-der-abstieg-100.html",
+   "source": "Sportschau",
+   "published": "2026-09-24T09:22:00Z",
+   "teaser": "Der FC Schalke 04 hat die ersten vier Bundesligapartien hinter sich gebracht. Nach schlechtem Start haben sich die Königsblauen deutlich verbessert. Aber reicht das für den Klassenerhalt?",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-blessin-in-gladbach-das-ende-der-scheiss-zeit-100.html",
+   "title": "Blessin in Gladbach - Das Ende der Scheiß-Zeit",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-blessin-in-gladbach-das-ende-der-scheiss-zeit-100.html",
+   "source": "Sportschau",
+   "published": "2026-09-23T17:54:00Z",
+   "teaser": "Alexander Blessin hat seinen schweren Job in Mönchengladbach aufgenommen. Seine Botschaft: Es wird hart, aber wir schaffen das.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/swr/swr-im-sport-club-style-der-freiburger-weg-in-die-spitze-100.html",
+   "title": "Der Freiburger Weg in die Spitze",
+   "link": "https://www.sportschau.de/regional/swr/swr-im-sport-club-style-der-freiburger-weg-in-die-spitze-100.html",
+   "source": "Sportschau",
+   "published": "2026-09-23T05:43:10Z",
+   "teaser": "Mit sechs Siegen aus sieben Pflichtspielen hat der SC Freiburg einen tollen Start hingelegt. Der Erfolg ist kein Zufall, sondern Resultat kontinuierlicher Aufbauarbeit.",
+   "clubs": [
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/rbb/rbb-unions-fehlstart-lustrinelli-kaempft-gegen-sehnsucht-nach-alten-zeiten-100.html",
+   "title": "Lustrinelli kämpft gegen Sehnsucht nach alten Zeiten",
+   "link": "https://www.sportschau.de/regional/rbb/rbb-unions-fehlstart-lustrinelli-kaempft-gegen-sehnsucht-nach-alten-zeiten-100.html",
+   "source": "Sportschau",
+   "published": "2026-09-21T09:47:41Z",
+   "teaser": "Union muss nach dem 0:7 in München Antworten finden. Trainer Mauro Lustrinelli kämpft dabei nicht nur gegen die Krise, sondern auch gegen die Sehnsucht nach dem defensiven Union der Vergangenheit.",
+   "clubs": [
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-auf-platz-10-wo-kann-das-sportlich-hinfuehren-100.html",
+   "title": "Startbilanz: Eintracht Frankfurts DNA kehrt langsam zurück",
+   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-auf-platz-10-wo-kann-das-sportlich-hinfuehren-100.html",
+   "source": "Sportschau",
+   "published": "2026-09-21T04:45:50Z",
+   "teaser": "Die Eintracht ist in der frühen Saisonphase eine Suchende. Mal gut, mal schlecht, mal irgendwas dazwischen. Gerade an Halt fehlt es dem Team. Gefunden hat es dagegen die eigenen Prinzipien. Eine Einordnung des Starts.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/fuellkrugs-hammer-die-wende-werder-ueberrennt-fc-augsburg,spielbericht-werder-bremen-fc-augsburg-114.html",
+   "title": "Füllkrugs Hammer bringt die Wende - Werder überrennt Augsburg",
+   "link": "https://www.sportschau.de/fussball/bundesliga/fuellkrugs-hammer-die-wende-werder-ueberrennt-fc-augsburg,spielbericht-werder-bremen-fc-augsburg-114.html",
+   "source": "Sportschau",
+   "published": "2026-09-20T22:00:48Z",
+   "teaser": "Es war ein wildes Match zweier gleichstarker Teams - am Ende jubelte nur Werder. Die Bremer drehten eine tolle Partie gegen den FC Augsburg.",
+   "clubs": [
+    134,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/kein-sieger-im-duell-der-neu-nationalspieler,spielbericht-eintracht-frankfurt-sc-freiburg-114.html",
+   "title": "Frankfurt gegen Freiburg: Kein Sieger im Duell der Neu-Nationalspieler",
+   "link": "https://www.sportschau.de/fussball/bundesliga/kein-sieger-im-duell-der-neu-nationalspieler,spielbericht-eintracht-frankfurt-sc-freiburg-114.html",
+   "source": "Sportschau",
+   "published": "2026-09-20T22:00:48Z",
+   "teaser": "Gleich sechs neue Nationalspieler standen sich im Duell Eintracht Frankfurt gegen den SC Freiburg gegenüber. Einen Sieger in dieser Partie gab es nicht.",
+   "clubs": [
+    91,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/paderborn-ueberrascht-hoffenheim,video-bundesliga-sc-paderborn-tsg-1899-hoffenheim-zusammenfassung-100.html",
+   "title": "Paderborn überrascht Hoffenheim",
+   "link": "https://www.sportschau.de/fussball/bundesliga/paderborn-ueberrascht-hoffenheim,video-bundesliga-sc-paderborn-tsg-1899-hoffenheim-zusammenfassung-100.html",
+   "source": "Sportschau",
+   "published": "2026-09-20T22:00:47Z",
+   "teaser": "Der SC Paderborn 07 hat für eine Überraschung in der Bundesliga gesorgt und gegen die TSG 1899 Hoffenheim seinen ersten Saisonsieg eingefahren.",
+   "clubs": [
+    175,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/schalke-und-elversberg-belohnen-sich-nicht,spielbericht-schalke-04-sv-elversberg-100.html",
+   "title": "Schalke und Elversberg belohnen sich im Aufsteigerduell nicht",
+   "link": "https://www.sportschau.de/fussball/bundesliga/schalke-und-elversberg-belohnen-sich-nicht,spielbericht-schalke-04-sv-elversberg-100.html",
+   "source": "Sportschau",
+   "published": "2026-09-20T22:00:47Z",
+   "teaser": "Das Aufsteigerduell zwischen Schalke und Elversberg bietet defensiv anspruchsvollen Fußball und viel Kampf. Kurz vor Schluss hätten beide auch noch treffen können.",
+   "clubs": [
+    9,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/wieder-vier-gegentore-gladbach-verliert-auch-unter-lichte,spielbericht-borussia-moenchengladbach-mainz-05-100.html",
+   "title": "Gladbach verliert auch unter Lichte gegen Mainz",
+   "link": "https://www.sportschau.de/fussball/bundesliga/wieder-vier-gegentore-gladbach-verliert-auch-unter-lichte,spielbericht-borussia-moenchengladbach-mainz-05-100.html",
+   "source": "Sportschau",
+   "published": "2026-09-20T22:00:47Z",
+   "teaser": "Borussia Mönchengladbach hat in der Fußball-Bundesliga auch unter Interimstrainer Jan-Moritz Lichte eine Niederlage kassiert. Gegen den 1. FSV Mainz 05 war erneut die Abwehr schwach.",
+   "clubs": [
+    81,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/beiers-goldenes-tor-entscheidet-topspiel-in-stuttgart,video-bundesliga-vfb-stuttgart-borussia-dortmund-zusammenfassung-102.html",
+   "title": "Beiers goldenes Tor entscheidet Topspiel in Stuttgart",
+   "link": "https://www.sportschau.de/fussball/bundesliga/beiers-goldenes-tor-entscheidet-topspiel-in-stuttgart,video-bundesliga-vfb-stuttgart-borussia-dortmund-zusammenfassung-102.html",
+   "source": "Sportschau",
+   "published": "2026-09-20T22:00:43Z",
+   "teaser": "Borussia Dortmunds Lauf geht weiter. Auch im Topspiel beim VfB Stuttgart hält sich der BVB schadlos und steht plötzlich auf Platz eins.",
+   "clubs": [
+    7,
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/paderborn-schiesst-sich-aus-der-abstiegszone,spielbericht-sc-paderborn-tsg-hoffenheim-104.html",
+   "title": "Paderborn schießt sich gegen Hoffenheim aus der Abstiegszone",
+   "link": "https://www.sportschau.de/fussball/bundesliga/paderborn-schiesst-sich-aus-der-abstiegszone,spielbericht-sc-paderborn-tsg-hoffenheim-104.html",
+   "source": "Sportschau",
+   "published": "2026-09-20T22:00:38Z",
+   "teaser": "Der bislang torlose SC Paderborn hat sich den Frust vom Leib geschossen und gegen schwache Hoffenheimer verdient den ersten Saisonsieg eingefahren.",
+   "clubs": [
+    175,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bremen-feiert-matchwinner-mitchell-weiser,video-bundesliga-sv-werder-bremen-fc-augsburg-zusammenfassung-100.html",
+   "title": "Bremen feiert Matchwinner Mitchell Weiser",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bremen-feiert-matchwinner-mitchell-weiser,video-bundesliga-sv-werder-bremen-fc-augsburg-zusammenfassung-100.html",
+   "source": "Sportschau",
+   "published": "2026-09-20T22:00:32Z",
+   "teaser": "Mit einer 2:0-Führung sah der FC Augsburg bei Werder Bremen schon wie der Sieger aus. Dann stellte Werder in einem euphorisierten Weserstadion alles auf den Kopf.",
+   "clubs": [
+    134,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/hsv-trifft-und-siegt-gegen-ineffiziente-koelner,video-bundesliga-hamburger-sv-1-fc-koeln-zusammenfassung-100.html",
+   "title": "HSV trifft und siegt gegen ineffiziente Kölner",
+   "link": "https://www.sportschau.de/fussball/bundesliga/hsv-trifft-und-siegt-gegen-ineffiziente-koelner,video-bundesliga-hamburger-sv-1-fc-koeln-zusammenfassung-100.html",
+   "source": "Sportschau",
+   "published": "2026-09-20T22:00:31Z",
+   "teaser": "Der Hamburger SV kann doch noch Tore schießen - und auch gewinnen. Gegen den 1. FC Köln holen die \"Rothosen\" ihren ersten Bundesliga-Sieg.",
+   "clubs": [
+    65,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/schicks-geniestreich-bringt-leverkusen-in-die-spur,video-bundesliga-bayer-leverkusen-rb-leipzig-zusammenfassung-102.html",
+   "title": "Schicks Geniestreich bringt Leverkusen in die Spur",
+   "link": "https://www.sportschau.de/fussball/bundesliga/schicks-geniestreich-bringt-leverkusen-in-die-spur,video-bundesliga-bayer-leverkusen-rb-leipzig-zusammenfassung-102.html",
+   "source": "Sportschau",
+   "published": "2026-09-20T22:00:25Z",
+   "teaser": "Ein kunstvoller Rutscher von Patrik Schick öffnet Bayer 04 Leverkusen beim Bundesliga-Heimsieg gegen RB Leipzig die Tür.",
+   "clubs": [
+    1635,
+    6
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/frankfurt-und-freiburg-liefern-unterhaltsames-remis,video-bundesliga-eintracht-frankfurt-sc-freiburg-zusammenfassung-100.html",
+   "title": "Frankfurt und Freiburg liefern unterhaltsames Remis",
+   "link": "https://www.sportschau.de/fussball/bundesliga/frankfurt-und-freiburg-liefern-unterhaltsames-remis,video-bundesliga-eintracht-frankfurt-sc-freiburg-zusammenfassung-100.html",
+   "source": "Sportschau",
+   "published": "2026-09-20T22:00:17Z",
+   "teaser": "Im Bundesliga-Duell zwischen dem SC Freiburg und Eintracht Frankfurt treffen gleich sechs Nationalspieler aufeinander. Am Ende müssen sich alle mit einem Unentschieden begnügen.",
+   "clubs": [
+    91,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-demuetigt-ueberfordertes-union-berlin,video-bundesliga-fc-bayern-muenchen-union-berlin-zusammenfassung-102.html",
+   "title": "Bayern demütigt überfordertes Union Berlin",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-demuetigt-ueberfordertes-union-berlin,video-bundesliga-fc-bayern-muenchen-union-berlin-zusammenfassung-102.html",
+   "source": "Sportschau",
+   "published": "2026-09-20T22:00:12Z",
+   "teaser": "Der FC Bayern München deklassiert Union Berlin mit sieben Treffern. Eines davon ist das 100. Bundesliga-Tor von Harry Kane, der damit Geschichte schreibt.",
+   "clubs": [
+    40,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/beier-schiesst-bvb-nach-40-monaten-zurueck-an-die-spitze,spielbericht-vfb-stuttgart-borussia-dortmund-112.html",
+   "title": "Beier schießt den BVB gegen Stuttgart an die Spitze",
+   "link": "https://www.sportschau.de/fussball/bundesliga/beier-schiesst-bvb-nach-40-monaten-zurueck-an-die-spitze,spielbericht-vfb-stuttgart-borussia-dortmund-112.html",
+   "source": "Sportschau",
+   "published": "2026-09-20T22:00:10Z",
+   "teaser": "Borussia Dortmund ist Tabellenführer in der Bundesliga - was einst gar nicht so außergewöhnlich klang, ist nach dem Sieg beim VfB Stuttgart erstmals seit über drei Jahren Fakt.",
+   "clubs": [
+    7,
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/polzin-effekt-beim-hsv-koeln-baut-schlusslicht-auf,spielbericht-hamburger-sv-koeln-102.html",
+   "title": "Polzin-Effekt bei HSV-Sieg gegen den 1. FC Köln",
+   "link": "https://www.sportschau.de/fussball/bundesliga/polzin-effekt-beim-hsv-koeln-baut-schlusslicht-auf,spielbericht-hamburger-sv-koeln-102.html",
+   "source": "Sportschau",
+   "published": "2026-09-20T22:00:10Z",
+   "teaser": "Statt ihn zu feuern, hatte sich der Hamburger SV trotz des Fehlstarts entschlossen, mit Merlin Polzin zu verlängern. Gegen den 1. FC Köln hat sich das schon mal ausgezahlt.",
+   "clubs": [
+    65,
+    100
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/leverkusen-kommt-dank-schicks-traumtor-ins-rollen,spielbericht-bayer-leverkusen-rb-leipzig-108.html",
+   "title": "Leverkusen kommt gegen Leipzig dank Schick-Traumtor ins Rollen",
+   "link": "https://www.sportschau.de/fussball/bundesliga/leverkusen-kommt-dank-schicks-traumtor-ins-rollen,spielbericht-bayer-leverkusen-rb-leipzig-108.html",
+   "source": "Sportschau",
+   "published": "2026-09-20T22:00:09Z",
+   "teaser": "Die Formkurve von Bayer Leverkusen zeigt weiter steil nach oben. Ein außergewöhnlicher Treffer von Patrik Schick brachte die Werkself gegen RB Leipzig auf den Erfolgsweg.",
+   "clubs": [
+    1635,
+    6
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/ein-grandioser-kane-rekord-und-noch-so-viel-mehr,spielbericht-bayern-muenchen-union-berlin-102.html",
+   "title": "Kane-Rekord und noch mehr: Bayern-Sause gegen Union Berlin",
+   "link": "https://www.sportschau.de/fussball/bundesliga/ein-grandioser-kane-rekord-und-noch-so-viel-mehr,spielbericht-bayern-muenchen-union-berlin-102.html",
+   "source": "Sportschau",
+   "published": "2026-09-20T22:00:09Z",
+   "teaser": "Bayern-Angreifer Harry Kane hat gegen Union Berlin einen Torrekord pulverisiert, wurde in Sachen Spektakel aber noch von seinen Teamkollegen getoppt.",
+   "clubs": [
+    40,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/gladbach-verliert-torspektakel-gegen-mainz,video-bundesliga-borussia-moenchengladbach-fsv-mainz-05-zusammenfassung-100.html",
+   "title": "Gladbach verliert Torspektakel gegen Mainz",
+   "link": "https://www.sportschau.de/fussball/bundesliga/gladbach-verliert-torspektakel-gegen-mainz,video-bundesliga-borussia-moenchengladbach-fsv-mainz-05-zusammenfassung-100.html",
+   "source": "Sportschau",
+   "published": "2026-09-20T22:00:07Z",
+   "teaser": "Auch nach der Entlassung von Trainer Eugen Polanski muss Borussia Mönchengladbach gegen den 1. FSV Mainz 05 vier Tore und die nächste Niederlage einstecken",
+   "clubs": [
+    81,
+    87
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/kein-sieger-beim-aufsteiger-duell-auf-schalke,video-bundesliga-fc-schalke-04-sv-elversberg-zusammenfassung-100.html",
+   "title": "Kein Sieger beim Aufsteiger-Duell auf Schalke",
+   "link": "https://www.sportschau.de/fussball/bundesliga/kein-sieger-beim-aufsteiger-duell-auf-schalke,video-bundesliga-fc-schalke-04-sv-elversberg-zusammenfassung-100.html",
+   "source": "Sportschau",
+   "published": "2026-09-20T22:00:05Z",
+   "teaser": "Trotz zahlreicher und bester Chancen auf beiden Seiten konnten weder der FC Schalke 04 noch die SV Elversberg einen Torerfolg im Vergleich der zwei Bundesliga-Aufsteiger feiern.",
+   "clubs": [
+    9,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-freitag-re-live-1809-100.html",
+   "title": "Die Sportschau am Freitag in voller Länge",
+   "link": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-freitag-re-live-1809-100.html",
+   "source": "Sportschau",
+   "published": "2026-09-18T22:01:29Z",
+   "teaser": "Sehen Sie hier die Sportschau am Freitag mit den Zusammenfassungen der Bundesliga, 2. Bundesliga und Frauen-Bundesliga.",
+   "clubs": [],
+   "transfer": false
+  }
+ ]
 }
