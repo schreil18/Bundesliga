@@ -262,6 +262,24 @@ table { border-collapse: collapse; width: 100%; }
 .scorers .who { display: flex; align-items: center; gap: 10px; }
 .scorers .cl { color: var(--muted); font-size: .8rem; }
 .scorers .g { width: 1%; white-space: nowrap; padding-left: 12px; text-align: right; font-family: var(--f-display); font-weight: 700; font-size: 1.3rem; }
+/* Diagramm füllt die Kartenhöhe, wenn die Nachbarkarte höher ist */
+.chart-card { display: flex; flex-direction: column; }
+.chart-card .pbars { flex: 1 1 auto; height: auto; min-height: 150px; }
+/* Torschützen des Vereins: Top 5, auf Wunsch alle in einer Scrollbox */
+.cs-list { list-style: none; margin: 0; padding: 0; --row: 44px; }
+.cs-list.open { max-height: calc(var(--row) * 5.5); overflow-y: auto; overscroll-behavior: contain; scrollbar-width: thin;
+  -webkit-mask-image: linear-gradient(to bottom, #000 82%, transparent); mask-image: linear-gradient(to bottom, #000 82%, transparent); }
+.cs-list.open.end { -webkit-mask-image: none; mask-image: none; }
+.csr { display: grid; grid-template-columns: 26px 1fr auto; column-gap: 8px; row-gap: 5px; align-items: center; min-height: var(--row); padding: 7px 2px 8px; border-top: 1px solid var(--line); }
+.csr:first-child { border-top: 0; }
+.csr .rk { font-family: var(--f-display); font-weight: 600; color: var(--muted); font-size: 1rem; }
+.csr .nm { font-size: .92rem; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.csr .g { font-family: var(--f-display); font-weight: 700; font-size: 1.25rem; line-height: 1; }
+.csr .trk { grid-column: 2 / 4; height: 4px; border-radius: 2px; background: var(--line); overflow: hidden; }
+.csr .trk i { display: block; height: 100%; border-radius: 2px; background: var(--club-line); transition: width .25s ease, background-color .2s ease; }
+.cs-more { margin-top: 10px; display: inline-flex; align-items: center; gap: 6px; }
+.cs-more .ch { display: inline-block; transition: transform .2s; font-size: .8em; }
+.cs-more[aria-expanded="true"] .ch { transform: rotate(180deg); }
 .foot { color: var(--muted); font-size: .78rem; padding-block: 0 36px; }
 .foot a { color: inherit; }
 
@@ -380,7 +398,7 @@ const CLUB_COLORS = {
 /* ================= Zustand ================= */
 const S = {
   view: "spielplan", md: null, teamId: null, open: new Set(),
-  sort: { key: "gf", dir: -1 }, allScorers: false, rankTab: "tore", newsFilter: "transfer", newsClub: null
+  sort: { key: "gf", dir: -1 }, allScorers: false, rankTab: "tore", newsFilter: "transfer", newsClub: null, scorersOpenFor: null
 };
 const D = { matches: [], table: [], scorers: [], teams: new Map(), currentMd: null, loadedOnce: false,
   espn: { assists: [], scorers: [], status: "idle", at: null },
@@ -867,7 +885,7 @@ function viewVereine() {
       <div><b>${stats.sp ? fmt2(stats.gf / stats.sp) : "–"}</b><span>Tore pro Spiel</span></div>
     </div>
     <div class="grid2">
-      <div class="card">
+      <div class="card chart-card">
         <h3 class="acc-title">Tore pro Spiel</h3>
         <div class="key"><span><i style="background:var(--club-line)"></i>Erzielt</span><span><i style="background:#C9C1B4"></i>Kassiert</span></div>
         ${done.length ? `<div class="pbars">${bars}</div><div class="plabels">${done.map(m => `<span>${m.md}. ${esc(abbr(m.h.id === id ? m.a : m.h))}</span>`).join("")}</div>` : `<p class="sub">Noch keine beendeten Spiele.</p>`}
@@ -892,7 +910,18 @@ function clubScorers(id) {
   }
   const list = [...P.values()].sort((a, b) => b.n - a.n || a.name.localeCompare(b.name, "de"));
   if (!list.length) return `<p class="sub">Noch keine Tore.</p>`;
-  return `<table class="scorers"><tbody>${list.map(p => `<tr><td>${esc(p.name)}${p.pen ? ` <span class="tag">${p.pen}× Elfm.</span>` : ""}</td><td class="g num">${p.n}</td></tr>`).join("")}</tbody></table>`;
+  const TOP = 5, open = S.scorersOpenFor === id && list.length > TOP, max = list[0].n;
+  const shown = open ? list : list.slice(0, TOP);
+  const rows = shown.map((p, i) => {
+    const same = i > 0 && shown[i - 1].n === p.n, rank = list.findIndex(q => q.n === p.n) + 1;
+    return `<li class="csr"><span class="rk num">${same ? "" : rank + "."}</span>
+      <span class="nm">${esc(p.name)}${p.pen ? ` <span class="tag">${p.pen}× Elfm.</span>` : ""}</span>
+      <span class="g num">${p.n}</span>
+      <span class="trk" aria-hidden="true"><i style="width:${Math.max(6, p.n / max * 100)}%"></i></span></li>`;
+  }).join("");
+  const more = list.length > TOP
+    ? `<button type="button" class="btn cs-more" data-scorers="${id}" aria-expanded="${open}" aria-controls="csList">${open ? "Weniger anzeigen" : `Alle ${list.length} Torschützen`}<span class="ch" aria-hidden="true">▾</span></button>` : "";
+  return `<ol class="cs-list${open ? " open" : ""}" id="csList">${rows}</ol>${more}`;
 }
 
 /* ================= Ansicht: Tabelle ================= */
@@ -1151,6 +1180,12 @@ view.addEventListener("click", e => {
   const so = e.target.closest("[data-sort]");
   if (so) { const k = so.dataset.sort; S.sort = S.sort.key === k ? { key: k, dir: -S.sort.dir } : { key: k, dir: k === "name" ? 1 : -1 }; return render(); }
   if (e.target.closest("[data-allsc]")) { S.allScorers = !S.allScorers; return render(); }
+  const so2 = e.target.closest("[data-scorers]");
+  if (so2) {
+    const id = +so2.dataset.scorers; S.scorersOpenFor = S.scorersOpenFor === id ? null : id; render();
+    const box = document.getElementById("csList"); if (box) { box.scrollTop = 0; box.classList.toggle("end", box.scrollHeight <= box.clientHeight + 2); }
+    return;
+  }
   const nf = e.target.closest("[data-nfilter]"); if (nf) { S.newsFilter = nf.dataset.nfilter; return render(); }
   const nc = e.target.closest("[data-nclub]"); if (nc) { S.newsClub = nc.dataset.nclub ? +nc.dataset.nclub : null; return render(); }
   const gn = e.target.closest("[data-gonews]"); if (gn) { S.newsClub = +gn.dataset.gonews; S.newsFilter = "alle"; return go("news", { top: true }); }
@@ -1165,6 +1200,10 @@ view.addEventListener("keydown", e => {
   const tg = e.target.closest("[data-toggle]"); if (tg && e.target === tg) { e.preventDefault(); return toggleMatch(tg); }
   const row = e.target.closest("tr[data-pick]"); if (row && e.target === row) { e.preventDefault(); go("vereine", { team: +row.dataset.pick, top: true }); }
 });
+document.addEventListener("scroll", e => {
+  const box = e.target;
+  if (box instanceof Element && box.id === "csList") box.classList.toggle("end", box.scrollTop + box.clientHeight >= box.scrollHeight - 2);
+}, true);
 function toggleMatch(el) {
   const id = +el.dataset.toggle; S.open.has(id) ? S.open.delete(id) : S.open.add(id);
   el.closest(".match").classList.toggle("open", S.open.has(id)); el.setAttribute("aria-expanded", String(S.open.has(id)));
