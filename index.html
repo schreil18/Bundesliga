@@ -169,6 +169,7 @@ table { border-collapse: collapse; width: 100%; }
 .sched .c-r { text-align: right; white-space: nowrap; width: 1%; }
 .sched .c-r .score { font-size: 1.25rem; margin-right: 8px; vertical-align: middle; }
 .sched tr.next td { background: var(--hover); }
+.sched .m-only { display: none; }
 .sched tr.next .c-md { box-shadow: inset 3px 0 0 var(--club-line); padding-left: 10px; }
 .mdlink { color: inherit; text-decoration: none; }
 .mdlink:hover { text-decoration: underline; }
@@ -284,8 +285,17 @@ table { border-collapse: collapse; width: 100%; }
   .tname { font-size: .9rem; }
   .side { gap: 6px; }
   .sched .c-dt { display: none; }
+  .sched .d-only { display: none; }
+  .sched .m-only { display: inline; }
   .club-band { padding: 16px; gap: 14px; }
   .tile b { font-size: 2rem; }
+}
+@media (max-width: 400px) {
+  .card { padding: 14px; }
+  .sched td { padding-inline: 3px; font-size: .88rem; }
+  .sched .c-md { width: 30px; }
+  .sched .c-ha { width: 20px; }
+  .sched .opp { gap: 6px; }
 }
 @media (prefers-reduced-motion: reduce) { *, *::before { transition: none !important; animation: none !important; } }
 </style>
@@ -304,8 +314,8 @@ table { border-collapse: collapse; width: 100%; }
     <div>
       <div class="status" aria-live="polite">
         <span>Zuletzt aktualisiert: <b id="lastUpd" class="num">–</b></span>
-        <span class="sep" aria-hidden="true"></span>
-        <span id="autoState">Auto-Aktualisierung: wird geprüft</span>
+        <span class="sep" id="autoSep" aria-hidden="true" hidden></span>
+        <span id="autoState" hidden></span>
         <button type="button" class="btn" id="refreshBtn">Aktualisieren</button>
       </div>
       <div class="notice" id="notice" hidden></div>
@@ -327,7 +337,7 @@ table { border-collapse: collapse; width: 100%; }
 
 <main class="wrap" id="view"><div class="card empty">Lade Spielplan, Tabelle und Torschützen von OpenLigaDB …</div></main>
 
-<footer class="wrap foot">Daten live von <a href="https://www.openligadb.de" target="_blank" rel="noopener">OpenLigaDB</a> (Community-Datenbank, ohne Gewähr). Wappen werden von den dort hinterlegten Adressen geladen.</footer>
+<footer class="wrap foot">Daten live von <a href="https://www.openligadb.de" target="_blank" rel="noopener">OpenLigaDB</a> (Community-Datenbank, ohne Gewähr).</footer>
 
 <script>
 "use strict";
@@ -829,7 +839,12 @@ function viewVereine() {
     if (m.status === "fin") res = `<span class="score num">${isH ? m.score[0] : m.score[1]}:${isH ? m.score[1] : m.score[0]}</span><span class="res ${r}" title="${{ S: "Sieg", U: "Unentschieden", N: "Niederlage" }[r]}">${r}</span>`;
     else if (m.status === "live") res = `<span class="score num">${isH ? m.score[0] : m.score[1]}:${isH ? m.score[1] : m.score[0]}</span><span class="state live">Live</span>`;
     else if (m.status === "pending") res = `<span class="sub">Ergebnis offen</span>`;
-    else res = `<span class="sub num">${m.tbd ? "Zeit offen" : m.time + " Uhr"}</span>`;
+    else {
+      const wd = m.bp.d ? WD_S[m.bp.wd] : "";
+      // Desktop: Wochentag zur Uhrzeit (Datum steht in der eigenen Spalte). Handy: Datumsspalte fehlt, darum kompakt mit Datum.
+      res = `<span class="sub num"><span class="d-only">${wd ? wd + ", " : ""}${m.tbd ? "Zeit offen" : m.time + " Uhr"}</span>` +
+            `<span class="m-only">${wd ? `${wd} ${m.dshort}` : "offen"}${m.tbd ? "" : " " + m.time}</span></span>`;
+    }
     return `<tr class="${next && next.id === m.id && !live ? "next" : ""}">
       <td class="c-md num"><a class="mdlink" href="#spielplan" data-gomd="${m.md}">${m.md}.</a></td>
       <td class="c-dt num">${m.bp.d ? `${WD_S[m.bp.wd]} ${m.dshort}` : "offen"}</td>
@@ -1066,7 +1081,7 @@ function viewNews() {
     <div class="news-tools"><div class="seg" role="tablist" aria-label="Themen">${seg}</div></div>
     <div class="chips" aria-label="Verein filtern">${chips}</div>
     ${body}
-    <p class="src">Quellen: kicker und Sportschau (offene RSS-Feeds). Gezeigt werden Überschrift und Anriss, der Link führt zum vollständigen Artikel. Die Einordnung nach Verein und Thema erfolgt automatisch über Stichwörter.</p>`;
+`;
 }
 function clubNewsCard(id) {
   const items = D.news.items.filter(n => n.clubs.includes(id)).slice(0, 4);
@@ -1163,10 +1178,9 @@ document.addEventListener("keydown", e => {
 /* ================= Automatische Aktualisierung ================= */
 const autoActive = () => isWeekendBerlin() && document.visibilityState === "visible";
 function updateAutoState() {
-  const el = document.getElementById("autoState");
-  if (document.visibilityState !== "visible") el.textContent = "Auto-Aktualisierung: pausiert (Tab im Hintergrund)";
-  else if (isWeekendBerlin()) el.textContent = "Auto-Aktualisierung: aktiv, alle 60 s";
-  else el.textContent = "Auto-Aktualisierung: aus (Mo–Do), ab Freitag aktiv";
+  const el = document.getElementById("autoState"), on = autoActive();
+  el.textContent = on ? "Live-Update alle 60 s" : "";
+  el.hidden = !on; document.getElementById("autoSep").hidden = !on;
 }
 function schedule() {
   clearTimeout(timer);
