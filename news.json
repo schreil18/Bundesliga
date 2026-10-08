@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T19:52:05Z",
+ "updated": "2026-10-08T20:24:57Z",
  "sources": [
   {
    "name": "kicker",
@@ -35,6 +35,19 @@
    "source": "kicker",
    "published": "2026-10-08T18:41:57Z",
    "teaser": "Augsburgs Trainer Manuel Baum äußert sich auf der Pressekonferenz zur Herangehensweise gegen den FC Bayern und spricht mit einem Augenzwinkern über den Favoriten seines Sohnes, der in der Jugend der Münchner spielt.",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bayern-oder-fca-wem-drueckt-manuel-baums-sohn-die-daumen-1259420/video",
+   "title": "Bayern oder FCA: Wem drückt Manuel Baums Sohn die Daumen?",
+   "link": "https://www.kicker.de/bayern-oder-fca-wem-drueckt-manuel-baums-sohn-die-daumen-1259420/video",
+   "source": "kicker",
+   "published": "2026-10-08T18:41:57Z",
+   "teaser": "Augsburgs Trainer Manuel Baum spricht vor dem Duell mit dem FC Bayern mit einem Augenzwinkern über den Favoriten seines Sohnes, der in der Jugend der Münchner spielt.",
    "clubs": [
     40,
     95
