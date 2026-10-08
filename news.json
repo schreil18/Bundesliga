@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T07:24:48Z",
+ "updated": "2026-10-08T07:52:23Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/fernandez-aufstieg-als-andrichs-chance-warum-martinez-in-der-zwickmuehle-steckt-1258782/artikel",
+   "title": "Fernandez' Aufstieg als Andrichs Chance? Warum Martinez in der Zwickmühle steckt",
+   "link": "https://www.kicker.de/fernandez-aufstieg-als-andrichs-chance-warum-martinez-in-der-zwickmuehle-steckt-1258782/artikel",
+   "source": "kicker",
+   "published": "2026-10-08T07:47:30Z",
+   "teaser": "Die Hierarchie in Leverkusens defensivem Mittelfeld ist in dieser Saison bislang klar. Mit Aleix Garcia bildet Ezequiel Fernandez die Stamm-Doppelsechs. Der Aufstieg des Neu-Nationalspielers könnte Routinier Robert Andrich aber jetzt eine …",
+   "clubs": [
+    6
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/wdr/wdr-koeln-vor-gladbach-derby-mit-koelner-sturm-problem-100.html",
    "title": "Köln vor Gladbach - Derby mit Kölner Sturm-Problem",
