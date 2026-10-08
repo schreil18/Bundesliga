@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T20:52:34Z",
+ "updated": "2026-10-08T21:22:56Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/satter-millionengewinn-und-rekord-umsatz-freiburg-legt-beeindruckende-zahlen-vor-1259435/artikel",
+   "title": "Satter Millionengewinn und Rekord-Umsatz: Freiburg legt beeindruckende Zahlen vor",
+   "link": "https://www.kicker.de/satter-millionengewinn-und-rekord-umsatz-freiburg-legt-beeindruckende-zahlen-vor-1259435/artikel",
+   "source": "kicker",
+   "published": "2026-10-08T20:56:33Z",
+   "teaser": "Der SC Freiburg hat eine sportlich sehr erfolgreiche Saison hinter sich - und das schlägt sich auch in den Finanzen nieder. Die Breisgauer legten am Donnerstag beeindruckende Zahlen vor.",
+   "clubs": [
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/bayern-oder-fca-wem-drueckt-baums-sohn-die-daumen-1259420/video",
    "title": "Bayern oder FCA: Wem drückt Baums Sohn die Daumen?",
