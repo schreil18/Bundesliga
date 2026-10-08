@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T12:58:07Z",
+ "updated": "2026-10-08T13:26:41Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/bei-der-nationalmannschaft-verletzt-kofane-fehlt-bayer-in-den-kommenden-wochen-1259337/artikel",
+   "title": "Bei der Nationalmannschaft verletzt: Kofane fehlt Bayer in den kommenden Wochen",
+   "link": "https://www.kicker.de/bei-der-nationalmannschaft-verletzt-kofane-fehlt-bayer-in-den-kommenden-wochen-1259337/artikel",
+   "source": "kicker",
+   "published": "2026-10-08T13:12:55Z",
+   "teaser": "Bayer 04 Leverkusen muss vorerst ohne seinen zweitbesten Torschützen auskommen. Christian Kofane ist mit einer Oberschenkelverletzung von der Nationalmannschaft Kameruns zurückgekehrt.",
+   "clubs": [
+    6
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/von-jobsharing-will-ich-nicht-sprechen-hoeness-erklaert-entscheidung-pro-seimen-1259342/video",
+   "title": "\"Von Jobsharing will ich nicht sprechen\": Hoeneß erklärt Entscheidung pro Seimen",
+   "link": "https://www.kicker.de/von-jobsharing-will-ich-nicht-sprechen-hoeness-erklaert-entscheidung-pro-seimen-1259342/video",
+   "source": "kicker",
+   "published": "2026-10-08T13:00:52Z",
+   "teaser": "Sebastian Hoeneß verriet auf der PK vor dem Bundesligaspiel in Paderborn, dass Dennis Seimen den Platz im VfB-Tor einnehmen wird und erklärte die Entscheidung für den 20-Jährigen.",
+   "clubs": [
+    16,
+    31
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/platz-der-knoten-moore-hofft-auf-treffer-im-rheinderby-1259316/video",
    "title": "Platz der Knoten? Moore hofft auf Treffer im Rheinderby",
