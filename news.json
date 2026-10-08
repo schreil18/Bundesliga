@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T09:52:58Z",
+ "updated": "2026-10-08T10:25:00Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/bvb-stellt-klar-sammers-vertrag-laeuft-bis-2028-1259266/artikel",
+   "title": "BVB stellt klar: Sammers Vertrag läuft bis 2028",
+   "link": "https://www.kicker.de/bvb-stellt-klar-sammers-vertrag-laeuft-bis-2028-1259266/artikel",
+   "source": "kicker",
+   "published": "2026-10-08T10:03:13Z",
+   "teaser": "Matthias Sammer bleibt Borussia Dortmund als Berater erhalten. Klubchef Carsten Cramer bestätigte, dass Sammers Vertrag bis 2028 läuft.",
+   "clubs": [
+    7
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
    "title": "Rice vor Verlängerung - Montella verzichtet auf Abfindung - Matondo findet neuen Klub",
