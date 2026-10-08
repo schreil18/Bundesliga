@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T08:24:58Z",
+ "updated": "2026-10-08T08:52:49Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Rice vor Verlängerung - Montella verzichtet auf Abfindung - Matondo findet neuen Klub",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-10-08T08:43:16Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/fernandez-aufstieg-als-andrichs-chance-warum-martinez-in-der-zwickmuehle-steckt-1258782/artikel",
    "title": "Fernandez' Aufstieg als Andrichs Chance? Warum Martinez in der Zwickmühle steckt",
@@ -63,16 +73,6 @@
     134
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Weltenbummler Brdaric zieht weiter - Silva kehrt aus dem Ruhestand zurück",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-10-07T20:06:31Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/engagierter-anwalt-fuer-menschlichkeit-soeder-ehrt-kompany-mit-sonderpreis-1259145/artikel",
