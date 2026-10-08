@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T18:55:21Z",
+ "updated": "2026-10-08T19:23:16Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/baums-plan-gegen-die-bayern-intensitaet-wichtiger-als-inhalt-1259334/artikel",
+   "title": "Baums Plan gegen die Bayern: \"Intensität wichtiger als Inhalt\"",
+   "link": "https://www.kicker.de/baums-plan-gegen-die-bayern-intensitaet-wichtiger-als-inhalt-1259334/artikel",
+   "source": "kicker",
+   "published": "2026-10-08T19:20:27Z",
+   "teaser": "Der FC Bayern hat in den vergangenen eineinhalb Jahren nur ein Bundesligaspiel verloren: 1:2 gegen den FC Augsburg im Januar. Stellt sich vor dem Wiedersehen die Frage: Ist eine Überraschung wiederholbar? Und vor allem wie?",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/vor-spiel-gegen-bayern-so-will-augsburgs-trainer-baum-olise-stoppen-1259420/video",
+   "title": "Vor Spiel gegen Bayern: So will Augsburgs Trainer Baum Olise stoppen",
+   "link": "https://www.kicker.de/vor-spiel-gegen-bayern-so-will-augsburgs-trainer-baum-olise-stoppen-1259420/video",
+   "source": "kicker",
+   "published": "2026-10-08T18:41:57Z",
+   "teaser": "Augsburgs Trainer Manuel Baum äußert sich auf der Pressekonferenz zur Herangehensweise gegen den FC Bayern und spricht mit einem Augenzwinkern über den Favoriten seines Sohnes, der in der Jugend der Münchner spielt.",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/jaquez-ist-wieder-im-mannschaftstraining-1259409/artikel",
    "title": "Jaquez ist wieder im Mannschaftstraining",
