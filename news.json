@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T14:53:26Z",
+ "updated": "2026-10-08T15:24:53Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wie-huetter-die-eintracht-stabilisieren-will-und-ein-spannender-zweikampf-1259262/artikel",
+   "title": "Wie Hütter die Eintracht stabilisieren will - und ein spannender Zweikampf",
+   "link": "https://www.kicker.de/wie-huetter-die-eintracht-stabilisieren-will-und-ein-spannender-zweikampf-1259262/artikel",
+   "source": "kicker",
+   "published": "2026-10-08T14:52:25Z",
+   "teaser": "Auswärts ist die Eintracht noch ungeschlagen, doch in Leipzig wartet eine gewaltige Herausforderung. Historisch gesehen ist das kein gutes Pflaster für die Hessen. Vor allem ein Spiel macht Trainer Adi Hütter Mut.",
+   "clubs": [
+    1635
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/zur-neuen-saison-gladbach-muss-sich-auf-hauptsponsor-suche-begeben-1259361/artikel",
    "title": "Zur neuen Saison: Gladbach muss sich auf Hauptsponsor-Suche begeben",
