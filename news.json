@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T10:25:00Z",
+ "updated": "2026-10-08T10:51:57Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/vor-dortmund-nach-dem-debakel-weiser-ist-bereit-fuer-mehr-hein-vor-rueckkehr-1259244/artikel",
+   "title": "Vor Dortmund, nach dem Debakel: Weiser ist bereit für mehr - Hein vor Rückkehr",
+   "link": "https://www.kicker.de/vor-dortmund-nach-dem-debakel-weiser-ist-bereit-fuer-mehr-hein-vor-rueckkehr-1259244/artikel",
+   "source": "kicker",
+   "published": "2026-10-08T10:26:22Z",
+   "teaser": "Nach der enttäuschenden XXL-Länderspielpause wartet mit Borussia Dortmund direkt ein echtes Schwergewicht auf Werder Bremen. Niclas Füllkrug dürfte gegen seinen Ex-Klub eine entscheidende Rolle zukommen, zudem jagt der Stürmer einen …",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/bvb-stellt-klar-sammers-vertrag-laeuft-bis-2028-1259266/artikel",
    "title": "BVB stellt klar: Sammers Vertrag läuft bis 2028",
