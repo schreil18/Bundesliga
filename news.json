@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T13:52:24Z",
+ "updated": "2026-10-08T14:26:07Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,45 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/mit-halbvollem-tank-ans-ziel-auch-moffi-ist-eine-kaderoption-gegen-hoffenheim-1259346/artikel",
+   "title": "Mit \"halbvollem Tank\" ans Ziel? Auch Moffi ist eine Kaderoption gegen Hoffenheim",
+   "link": "https://www.kicker.de/mit-halbvollem-tank-ans-ziel-auch-moffi-ist-eine-kaderoption-gegen-hoffenheim-1259346/artikel",
+   "source": "kicker",
+   "published": "2026-10-08T14:20:02Z",
+   "teaser": "Der Hamburger SV kehrt aus der Länderspielpause zurück - mit Ausfällen, aber auch rechtzeitig fit gewordenen Rückkehrern. Hinter Zakaria El Ouahdi steht ein Fragezeichen.",
+   "clubs": [
+    175,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/elversberg-coach-wagner-favorit-das-dauert-noch-eine-weile-1259335/artikel",
+   "title": "Elversberg-Coach Wagner: \"Favorit? Das dauert noch eine Weile\"",
+   "link": "https://www.kicker.de/elversberg-coach-wagner-favorit-das-dauert-noch-eine-weile-1259335/artikel",
+   "source": "kicker",
+   "published": "2026-10-08T13:53:02Z",
+   "teaser": "Die SV Elversberg reist am Samstag zum Auswärtsspiel bei Union Berlin. Nach der Länderspielpause könnte es freiwillig wie unfreiwillig zu Personalrochaden kommen.",
+   "clubs": [
+    80,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/mannschaft-gleich-draussen-lassen-huetter-gefaellt-neururer-ansatz-1259351/video",
+   "title": "\"Mannschaft gleich draußen lassen\": Hütter gefällt Neururer-Ansatz",
+   "link": "https://www.kicker.de/mannschaft-gleich-draussen-lassen-huetter-gefaellt-neururer-ansatz-1259351/video",
+   "source": "kicker",
+   "published": "2026-10-08T13:36:52Z",
+   "teaser": "Frankfurt-Trainer Adi Hütter spricht auf der Pressekonferenz vor dem Spiel gegen Leipzig über die vielen Gegentore nach der Halbzeitpause und die Nationalspieler der Eintracht.",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/rassismus-und-gewalt-pherai-ueber-das-schlimmste-spiel-meiner-karriere-1259311/artikel",
    "title": "Rassismus und Gewalt: Pherai über \"das schlimmste Spiel meiner Karriere\"",
