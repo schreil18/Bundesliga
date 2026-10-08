@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T05:23:19Z",
+ "updated": "2026-10-08T05:50:35Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-koeln-vor-gladbach-derby-mit-koelner-sturm-problem-100.html",
+   "title": "Köln vor Gladbach - Derby mit Kölner Sturm-Problem",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-koeln-vor-gladbach-derby-mit-koelner-sturm-problem-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-08T05:41:15Z",
+   "teaser": "Die Stürmer-Not beim 1. FC Köln kommt vor dem Derby gegen Gladbach zur Unzeit. Welche Personaloptionen bieten sich Trainer Wagner?",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-bischof-auf-dfb-ueberholspur--droht-beim-fcb-wieder-die-bank-102.html",
+   "title": "Tom Bischof droht beim FC Bayern wieder die Bank",
+   "link": "https://www.sportschau.de/regional/br/br-bischof-auf-dfb-ueberholspur--droht-beim-fcb-wieder-die-bank-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-08T05:35:45Z",
+   "teaser": "Tom Bischof brillierte zuletzt in der DFB-Elf. Doch zurück beim FC Bayern wird es für ihn wieder eng: Joshua Kimmich und Aleksandar Pavlović sind im Mittelfeld wohl gesetzt.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/totalausfall-auf-allen-ebenen-wie-werder-mit-dem-testspiel-debakel-umgeht-1259181/artikel",
    "title": "\"Totalausfall auf allen Ebenen\": Wie Werder mit dem Testspiel-Debakel umgeht",
@@ -151,6 +176,18 @@
     1635
    ],
    "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/regional/ndr/Bundesliga-Werder-Bremen-Fuellkrug-Dortmund-Datenanalyse,werder-630.html",
+   "title": "Datenanalyse: So macht Niclas Füllkrug Werder Bremen besser",
+   "link": "https://www.sportschau.de/regional/ndr/Bundesliga-Werder-Bremen-Fuellkrug-Dortmund-Datenanalyse,werder-630.html",
+   "source": "Sportschau",
+   "published": "2026-10-07T12:59:34Z",
+   "teaser": "Ein Testspiel-Debakel, dafür aber der beste Saisonstart seit dem Wiederaufstieg in die Bundesliga: Werder ist im Aufwind und daran hat Niclas Füllkrug großen Anteil.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
   },
   {
    "id": "https://www.kicker.de/sylla-muss-jetzt-auch-in-der-liga-seinen-lieferdienst-anbieten-1258958/artikel",
