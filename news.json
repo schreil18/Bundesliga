@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T13:26:41Z",
+ "updated": "2026-10-08T13:52:24Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,18 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/rassismus-und-gewalt-pherai-ueber-das-schlimmste-spiel-meiner-karriere-1259311/artikel",
+   "title": "Rassismus und Gewalt: Pherai über \"das schlimmste Spiel meiner Karriere\"",
+   "link": "https://www.kicker.de/rassismus-und-gewalt-pherai-ueber-das-schlimmste-spiel-meiner-karriere-1259311/artikel",
+   "source": "kicker",
+   "published": "2026-10-08T13:23:14Z",
+   "teaser": "Immanuel Pherai war mit der Nationalmannschaft von Suriname auf Länderspielreise - und erlebte dort das schlimmste Spiel seiner Karriere. Nach seiner Rückkehr nach Hamburg sprach der HSV-Profi über das Geschehene.",
+   "clubs": [
+    100
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/bei-der-nationalmannschaft-verletzt-kofane-fehlt-bayer-in-den-kommenden-wochen-1259337/artikel",
    "title": "Bei der Nationalmannschaft verletzt: Kofane fehlt Bayer in den kommenden Wochen",
    "link": "https://www.kicker.de/bei-der-nationalmannschaft-verletzt-kofane-fehlt-bayer-in-den-kommenden-wochen-1259337/artikel",
@@ -24,6 +36,18 @@
    "teaser": "Bayer 04 Leverkusen muss vorerst ohne seinen zweitbesten Torschützen auskommen. Christian Kofane ist mit einer Oberschenkelverletzung von der Nationalmannschaft Kameruns zurückgekehrt.",
    "clubs": [
     6
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hoeness-bringt-reporter-zum-lachen-mich-ueberrascht-die-ueberraschung-1259344/video",
+   "title": "Hoeneß bringt Reporter zum Lachen: \"Mich überrascht die Überraschung\"",
+   "link": "https://www.kicker.de/hoeness-bringt-reporter-zum-lachen-mich-ueberrascht-die-ueberraschung-1259344/video",
+   "source": "kicker",
+   "published": "2026-10-08T13:10:09Z",
+   "teaser": "Der VfB Stuttgart veröffentlichte unter der Woche einen Trainingsclip, in dem Sebastian Hoeneß einen direkten Freistoß verwandelte. Darauf angesprochen brachte der VfB-Trainer die Reporter bei der PK zum Lachen.",
+   "clubs": [
+    16
    ],
    "transfer": false
   },
