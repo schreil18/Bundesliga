@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T03:52:00Z",
+ "updated": "2026-10-08T04:23:58Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/totalausfall-auf-allen-ebenen-wie-werder-mit-dem-testspiel-debakel-umgeht-1259181/artikel",
+   "title": "\"Totalausfall auf allen Ebenen\": Wie Werder mit dem Testspiel-Debakel umgeht",
+   "link": "https://www.kicker.de/totalausfall-auf-allen-ebenen-wie-werder-mit-dem-testspiel-debakel-umgeht-1259181/artikel",
+   "source": "kicker",
+   "published": "2026-10-08T04:05:34Z",
+   "teaser": "Die neue Folge kicker Daily!",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
    "title": "Weltenbummler Brdaric zieht weiter - Silva kehrt aus dem Ruhestand zurück",
