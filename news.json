@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T11:50:51Z",
+ "updated": "2026-10-08T12:30:11Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/platz-der-knoten-moore-hofft-auf-treffer-im-rheinderby-1259316/video",
+   "title": "Platz der Knoten? Moore hofft auf Treffer im Rheinderby",
+   "link": "https://www.kicker.de/platz-der-knoten-moore-hofft-auf-treffer-im-rheinderby-1259316/video",
+   "source": "kicker",
+   "published": "2026-10-08T12:08:32Z",
+   "teaser": "Vor seinem ersten Rheinderby gegen Borussia Mönchengladbach hofft Mikey Moore endlich zu treffen und nicht nur sich, sondern auch die Fans glücklich zu machen.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hoeness-legt-sich-fest-seimen-rueckt-ins-stuttgarter-tor-1259288/artikel",
+   "title": "Hoeneß legt sich fest: Seimen rückt ins Stuttgarter Tor",
+   "link": "https://www.kicker.de/hoeness-legt-sich-fest-seimen-rueckt-ins-stuttgarter-tor-1259288/artikel",
+   "source": "kicker",
+   "published": "2026-10-08T11:47:47Z",
+   "teaser": "Nach längerer Verletzungspause ist Dennis Seimen zurück und wird nun wie vorgesehen die Rolle als Nummer 1 beim VfB Stuttgart einnehmen. Das gab Trainer Sebastian Hoeneß vor dem Auswärtsspiel beim SC Paderborn bekannt - samt großem Lob für …",
+   "clubs": [
+    16,
+    31
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/bremens-0-7-klatsche-weckt-bei-kovac-erinnerungen-1259267/artikel",
    "title": "Bremens 0:7-Klatsche weckt bei Kovac Erinnerungen",
