@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T15:24:53Z",
+ "updated": "2026-10-08T15:53:29Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/dann-brennt-der-baum-richtig-grosse-derby-vorschau-auf-koeln-vs-gladbach-1259377/video",
+   "title": "\"Dann brennt der Baum richtig\": Große Derby-Vorschau auf Köln vs Gladbach",
+   "link": "https://www.kicker.de/dann-brennt-der-baum-richtig-grosse-derby-vorschau-auf-koeln-vs-gladbach-1259377/video",
+   "source": "kicker",
+   "published": "2026-10-08T15:10:46Z",
+   "teaser": "Nach der XXL-Länderspielpause bringt der kommende Bundesliga-Spieltag direkt einen Kracher: das Rheinderby zwischen Köln und Gladbach. In der neuen Folge \"Was geht, Bundesliga?\" sprechen wir mit Ex-Profi Patrick Herrmann und …",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wie-huetter-die-eintracht-stabilisieren-will-und-ein-spannender-zweikampf-1259262/artikel",
    "title": "Wie Hütter die Eintracht stabilisieren will - und ein spannender Zweikampf",
