@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T11:23:53Z",
+ "updated": "2026-10-08T11:50:51Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/bremens-0-7-klatsche-weckt-bei-kovac-erinnerungen-1259267/artikel",
+   "title": "Bremens 0:7-Klatsche weckt bei Kovac Erinnerungen",
+   "link": "https://www.kicker.de/bremens-0-7-klatsche-weckt-bei-kovac-erinnerungen-1259267/artikel",
+   "source": "kicker",
+   "published": "2026-10-08T11:24:48Z",
+   "teaser": "Niko Kovac könnte am Freitagabend etwas gelingen, das zuletzt Lucien Favre 2019 schaffte. Seither verteidigte Borussia Dortmund nie eine Tabellenführung. Das Testspiel-Debakel von Werder Bremen spielt im Kopf des Trainers allerdings keine …",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/vor-dortmund-nach-dem-debakel-weiser-ist-bereit-fuer-mehr-hein-vor-rueckkehr-1259244/artikel",
    "title": "Vor Dortmund, nach dem Debakel: Weiser ist bereit für mehr - Hein vor Rückkehr",
