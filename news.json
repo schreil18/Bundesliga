@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T17:22:42Z",
+ "updated": "2026-10-08T17:51:03Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,43 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/jaquez-ist-wieder-im-mannschaftstraining-1259409/artikel",
+   "title": "Jaquez ist wieder im Mannschaftstraining",
+   "link": "https://www.kicker.de/jaquez-ist-wieder-im-mannschaftstraining-1259409/artikel",
+   "source": "kicker",
+   "published": "2026-10-08T17:26:25Z",
+   "teaser": "Der Schweizer Nationalspieler Luca Jaquez wurde durch eine schwere Muskelverletzung mehrere Monate außer Gefecht gesetzt. Nun ist der Verteidiger beim VfB Stuttgart zurück im Mannschaftstraining.",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wie-sich-beim-fc-bayern-furcht-in-freude-verwandelte-1259314/artikel",
+   "title": "Wie sich beim FC Bayern Furcht in Freude verwandelte",
+   "link": "https://www.kicker.de/wie-sich-beim-fc-bayern-furcht-in-freude-verwandelte-1259314/artikel",
+   "source": "kicker",
+   "published": "2026-10-08T17:25:46Z",
+   "teaser": "Vincent Kompany darf sich zum Re-Start beim FC Bayern über formstarke Profis freuen. Der FC Augsburg eher weniger.",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/tsg-stuetzen-als-sorgenkinder-1259032/artikel",
+   "title": "TSG-Stützen als Sorgenkinder",
+   "link": "https://www.kicker.de/tsg-stuetzen-als-sorgenkinder-1259032/artikel",
+   "source": "kicker",
+   "published": "2026-10-08T17:21:43Z",
+   "teaser": "Sowohl Vladimir Coufal als auch Albian Hajdari legten während der Länderspielpause Knieprobleme zeitweise lahm. Und auch Hoffenheims Knipser Andrej Kramaric konnte die Zeit bei den Kroaten nicht dafür nutzen, Selbstvertrauen zu sammeln.",
+   "clubs": [
+    175
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/dann-brennt-der-baum-richtig-grosse-derby-vorschau-auf-koeln-vs-gladbach-1259377/video",
    "title": "\"Dann brennt der Baum richtig\": Große Derby-Vorschau auf Köln vs. Gladbach",
