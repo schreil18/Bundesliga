@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T19:21:09Z",
+ "updated": "2026-10-09T19:48:47Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/live-dortmund-uebt-viel-druck-aus-fuellkrug-scheitert-an-kobel-1258778/artikel",
+   "title": "LIVE! Dortmund übt viel Druck aus - Füllkrug scheitert an Kobel",
+   "link": "https://www.kicker.de/live-dortmund-uebt-viel-druck-aus-fuellkrug-scheitert-an-kobel-1258778/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T19:44:51Z",
+   "teaser": "Borussia Dortmund ist makellos in die neue Saison gestartet und hat bisher alle vier Spiele in der Bundesliga gewonnen. Nun geht es nach der Länderspielpause gegen die gut gestarteten Bremer, die mit Leipzig bereits einen Favoriten …",
+   "clubs": [
+    7,
+    1635
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/live-sabitzer-sorgt-fuer-wirbel-hein-rettet-stark-gegen-beier-1258778/artikel",
    "title": "LIVE! Sabitzer sorgt für Wirbel - Hein rettet stark gegen Beier",
@@ -43,11 +56,11 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194071/borussia-dortmund_werder-bremen/liveticker",
-   "title": "Jetzt live - BVB wird besser, Werder gefährlich",
+   "title": "Jetzt live - BVB drängt gegen Werder auf die Führung",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194071/borussia-dortmund_werder-bremen/liveticker",
    "source": "Sportschau",
    "published": "2026-10-09T18:41:40Z",
-   "teaser": "Nach einer schläfrigen Anfangsphase sucht Borussia Dortmund jetzt die Offensive. Aber auch Werder Bremen kommt zu Chancen.",
+   "teaser": "Nach einer schläfrigen Anfangsphase macht Borussia Dortmund jetzt richtig Druck. Werder Bremen kann sich nur selten befreien.",
    "clubs": [
     7,
     134
