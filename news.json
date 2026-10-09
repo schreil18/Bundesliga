@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T16:23:10Z",
+ "updated": "2026-10-09T16:52:22Z",
  "sources": [
   {
    "name": "kicker",
@@ -25,6 +25,18 @@
    "clubs": [
     7,
     134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wagner-ueber-el-malas-dfb-debuet-das-hat-etwas-mit-ihm-gemacht-1259645/video",
+   "title": "Wagner über El Malas DFB-Debüt: \"Das hat etwas mit ihm gemacht\"",
+   "link": "https://www.kicker.de/wagner-ueber-el-malas-dfb-debuet-das-hat-etwas-mit-ihm-gemacht-1259645/video",
+   "source": "kicker",
+   "published": "2026-10-09T16:42:04Z",
+   "teaser": "Said El Mala hat in der zurückliegenden Länderspielpause seine ersten beiden Partien für die A-Nationalmannschaft bestritten. Sein Trainer beim 1. FC Köln René Wagner sprach über den Eindruck, den El Mala seit seiner Rückkehr nach Köln auf …",
+   "clubs": [
+    65
    ],
    "transfer": false
   },
