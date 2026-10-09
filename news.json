@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T17:21:09Z",
+ "updated": "2026-10-09T17:50:25Z",
  "sources": [
   {
    "name": "kicker",
@@ -24,6 +24,20 @@
    "teaser": "5. Spieltag: Anpfiff des Spiels ist am 09.10.2026 um 20:30 Uhr. Werder Bremen spielt in Dortmund.",
    "clubs": [
     7,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-schlotterbeck-in-der-startelf-gegen-bremen-1258778/artikel",
+   "title": "LIVE! Schlotterbeck in der Startelf gegen Bremen",
+   "link": "https://www.kicker.de/live-schlotterbeck-in-der-startelf-gegen-bremen-1258778/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T17:22:11Z",
+   "teaser": "Borussia Dortmund ist makellos in die neue Saison gestartet und hat bisher alle vier Spiele in der Bundesliga gewonnen. Nun geht es nach der Länderspielpause gegen die gut gestarteten Bremer, die mit Leipzig bereits einen Favoriten …",
+   "clubs": [
+    7,
+    1635,
     134
    ],
    "transfer": false
