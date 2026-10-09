@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T11:22:34Z",
+ "updated": "2026-10-09T11:50:26Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/3-2-nach-0-2-in-der-89-minute-das-wundersame-werder-comeback-in-dortmund-1259148/video",
+   "title": "3:2 nach 0:2 in der 89. Minute: Das wundersame Werder-Comeback in Dortmund",
+   "link": "https://www.kicker.de/3-2-nach-0-2-in-der-89-minute-das-wundersame-werder-comeback-in-dortmund-1259148/video",
+   "source": "kicker",
+   "published": "2026-10-09T11:26:31Z",
+   "teaser": "2022 legte Bremen in Dortmund eines der beeindruckendsten Comebacks der Bundesliga-Geschichte hin. Zum gefeierten Helden wurde Last-Minute-Torschütze Oliver Burke.",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bestes-jahr-meiner-karriere-fuellkrug-freut-sich-auf-rueckkehr-nach-dortmund-1259534/artikel",
+   "title": "\"Bestes Jahr meiner Karriere\": Füllkrug freut sich auf Rückkehr nach Dortmund",
+   "link": "https://www.kicker.de/bestes-jahr-meiner-karriere-fuellkrug-freut-sich-auf-rueckkehr-nach-dortmund-1259534/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T11:22:40Z",
+   "teaser": "Nach eigener Aussage erlebte Niclas Füllkrug bei Borussia Dortmund das beste Jahr seiner Karriere. Nun kehrt der 33-Jährige mit Werder Bremen erstmals zurück an alte Wirkungsstätte - jedoch nicht nur, um alte Bekannte zu begrüßen.",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/vfb-spielplan-bis-zur-naechsten-laenderspielpause-das-xxl-programm-im-ueberblick-1259124/artikel",
    "title": "VfB-Spielplan bis zur nächsten Länderspielpause: Das XXL-Programm im Überblick",
