@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T22:22:42Z",
+ "updated": "2026-10-09T22:50:02Z",
  "sources": [
   {
    "name": "kicker",
@@ -19,6 +19,18 @@
    "id": "https://www.kicker.de/fuellkrug-scherzt-nach-spaetem-ausgleich-da-kommt-der-champions-league-fuelle-raus-1259697/artikel",
    "title": "Füllkrug scherzt nach spätem Ausgleich: \"Da kommt der Champions-League-Fülle raus\"",
    "link": "https://www.kicker.de/fuellkrug-scherzt-nach-spaetem-ausgleich-da-kommt-der-champions-league-fuelle-raus-1259697/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T22:00:20Z",
+   "teaser": "Beinahe hätten die Bremer ein Déjà-vu erlebt. Anders als vor vier Jahren reichte es beim BVB nach 2:0-Rückstand dieses Mal \"nur\" für ein Remis. Gute Laune hatten die Hanseaten dennoch. Allen voran Niclas Füllkrug, der gegen sein Ex-Team …",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fuellkrug-da-kommt-der-champions-league-fuelle-raus-1259697/artikel",
+   "title": "Füllkrug: \"Da kommt der Champions-League-Fülle raus\"",
+   "link": "https://www.kicker.de/fuellkrug-da-kommt-der-champions-league-fuelle-raus-1259697/artikel",
    "source": "kicker",
    "published": "2026-10-09T22:00:20Z",
    "teaser": "Beinahe hätten die Bremer ein Déjà-vu erlebt. Anders als vor vier Jahren reichte es beim BVB nach 2:0-Rückstand dieses Mal \"nur\" für ein Remis. Gute Laune hatten die Hanseaten dennoch. Allen voran Niclas Füllkrug, der gegen sein Ex-Team …",
