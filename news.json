@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T20:21:33Z",
+ "updated": "2026-10-09T20:51:04Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-schockiert-seinen-ex-verein-in-der-nachspielzeit,spielbericht-borussia-dortmund-werder-bremen-104.html",
+   "title": "Füllkrug schockiert den BVB in der Nachspielzeit",
+   "link": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-schockiert-seinen-ex-verein-in-der-nachspielzeit,spielbericht-borussia-dortmund-werder-bremen-104.html",
+   "source": "Sportschau",
+   "published": "2026-10-09T20:31:05Z",
+   "teaser": "Borussia Dortmund führt gegen Werder Bremen bis zur 88. Minute mit 2:0 - und lässt dann seinen Ex-Angreifer aus den Augen.",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ausgerechnet-fuellkrug-bremen-holt-in-dortmund-nach-0-2-einen-punkt-1258778/artikel",
+   "title": "Ausgerechnet Füllkrug: Bremen holt in Dortmund nach 0:2 einen Punkt",
+   "link": "https://www.kicker.de/ausgerechnet-fuellkrug-bremen-holt-in-dortmund-nach-0-2-einen-punkt-1258778/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T20:28:45Z",
+   "teaser": "Dortmund führte schon 2:0 gegen ein leidenschaftlich verteidigendes Werder Bremen - und gab diese Führung in einer flotten Schlussphase doch noch aus der Hand. Ausgerechnet Füllkrug sorgte an alter Wirkungsstätte für den späten Ausgleich …",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/live-svensson-bricht-den-bann-schlotterbeck-erhoeht-auf-2-0-1258778/artikel",
    "title": "LIVE! Svensson bricht den Bann - Schlotterbeck erhöht auf 2:0",
