@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T23:21:14Z",
+ "updated": "2026-10-09T23:48:30Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/ein-voellig-neues-bremer-qualitaetsmerkmal-1259724/video",
+   "title": "\"Ein völlig neues Bremer Qualitätsmerkmal\"",
+   "link": "https://www.kicker.de/ein-voellig-neues-bremer-qualitaetsmerkmal-1259724/video",
+   "source": "kicker",
+   "published": "2026-10-09T23:26:24Z",
+   "teaser": "Werder Bremen kommt nach einem 0:2 bei Borussia Dortmund zurück und stellt dank Niclas Füllkrug auf 2:2. Im kicker-Reportertalk nach dem Spiel analysieren Tim Lüddecke und Patrick Kleinmann die spektakuläre Schlussphase von Dortmund",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/fuellkrug-scherzt-nach-spaetem-ausgleich-da-kommt-der-champions-league-fuelle-raus-1259697/artikel",
    "title": "Füllkrug scherzt nach spätem Ausgleich: \"Da kommt der Champions-League-Fülle raus\"",
