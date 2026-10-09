@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T21:50:23Z",
+ "updated": "2026-10-09T22:22:42Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/fuellkrug-scherzt-nach-spaetem-ausgleich-da-kommt-der-champions-league-fuelle-raus-1259697/artikel",
+   "title": "Füllkrug scherzt nach spätem Ausgleich: \"Da kommt der Champions-League-Fülle raus\"",
+   "link": "https://www.kicker.de/fuellkrug-scherzt-nach-spaetem-ausgleich-da-kommt-der-champions-league-fuelle-raus-1259697/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T22:00:20Z",
+   "teaser": "Beinahe hätten die Bremer ein Déjà-vu erlebt. Anders als vor vier Jahren reichte es beim BVB nach 2:0-Rückstand dieses Mal \"nur\" für ein Remis. Gute Laune hatten die Hanseaten dennoch. Allen voran Niclas Füllkrug, der gegen sein Ex-Team …",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wir-hatten-alles-im-griff-schlotterbeck-schwankt-zwischen-stolz-frust-und-enttaeuschung-1259703/artikel",
    "title": "\"Wir hatten alles im Griff\": Schlotterbeck schwankt zwischen Stolz, Frust und Enttäuschung",
@@ -1426,16 +1438,6 @@
     9,
     198
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-freitag-re-live-1809-100.html",
-   "title": "Die Sportschau am Freitag in voller Länge",
-   "link": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-freitag-re-live-1809-100.html",
-   "source": "Sportschau",
-   "published": "2026-09-18T22:01:29Z",
-   "teaser": "Sehen Sie hier die Sportschau am Freitag mit den Zusammenfassungen der Bundesliga, 2. Bundesliga und Frauen-Bundesliga.",
-   "clubs": [],
    "transfer": false
   }
  ]
