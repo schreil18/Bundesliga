@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T21:22:01Z",
+ "updated": "2026-10-09T21:50:23Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wir-hatten-alles-im-griff-schlotterbeck-schwankt-zwischen-stolz-frust-und-enttaeuschung-1259703/artikel",
+   "title": "\"Wir hatten alles im Griff\": Schlotterbeck schwankt zwischen Stolz, Frust und Enttäuschung",
+   "link": "https://www.kicker.de/wir-hatten-alles-im-griff-schlotterbeck-schwankt-zwischen-stolz-frust-und-enttaeuschung-1259703/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T21:40:37Z",
+   "teaser": "Gegen Werder Bremen war Borussia Dortmund lange Zeit überlegen und führte kurz vor Schluss auch noch mit 2:0. Am Ende reichte das dann aber doch nicht zum Sieg, weil sich Geschichte wiederholte - zumindest fast.",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-schockiert-seinen-ex-verein-in-der-nachspielzeit,spielbericht-borussia-dortmund-werder-bremen-104.html",
    "title": "Fußball-Bundesliga: Werder Bremen punktet dank Füllkrug bei Borussia Dortmund",
