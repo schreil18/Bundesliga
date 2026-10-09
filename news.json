@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T13:26:19Z",
+ "updated": "2026-10-09T13:53:06Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/den-mut-habe-ich-wird-uno-blessins-ueberraschungsfaktor-fuers-derby-1259596/artikel",
+   "title": "\"Den Mut habe ich\": Wird Uno Blessins Überraschungsfaktor fürs Derby?",
+   "link": "https://www.kicker.de/den-mut-habe-ich-wird-uno-blessins-ueberraschungsfaktor-fuers-derby-1259596/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T13:45:00Z",
+   "teaser": "Borussias neuer Cheftrainer gab am Freitag ein Update zu den angeschlagenen Kleindienst und Itakura. Außerdem verriet der 53-Jährige, dass ein Sommereinkauf in Köln sein Pflichtspiel-Debüt für die Fohlen feiern wird.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/muslic-veraergert-und-hoffnungsvoll-sylla-soll-die-sturmflaute-beenden-1259599/video",
+   "title": "Muslic verärgert und hoffnungsvoll: Sylla soll die Sturmflaute beenden",
+   "link": "https://www.kicker.de/muslic-veraergert-und-hoffnungsvoll-sylla-soll-die-sturmflaute-beenden-1259599/video",
+   "source": "kicker",
+   "published": "2026-10-09T13:21:11Z",
+   "teaser": "Schalke gastiert am Sonntagabend in Freiburg. Nachdem zahlreiche Profis weite Reisen in der Länderspielpause auf sich nehmen mussten, hofft Coach Miron Muslic trotzdem auf frische Beine und Stürmer Moussa Sylla.",
+   "clubs": [
+    112,
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wagner-spuert-die-skepsis-es-ist-schwer-das-nicht-wahrzunehmen-1259589/artikel",
    "title": "Wagner spürt die Skepsis: \"Es ist schwer, das nicht wahrzunehmen\"",
