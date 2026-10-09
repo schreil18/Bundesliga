@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T12:56:27Z",
+ "updated": "2026-10-09T13:26:19Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wagner-spuert-die-skepsis-es-ist-schwer-das-nicht-wahrzunehmen-1259589/artikel",
+   "title": "Wagner spürt die Skepsis: \"Es ist schwer, das nicht wahrzunehmen\"",
+   "link": "https://www.kicker.de/wagner-spuert-die-skepsis-es-ist-schwer-das-nicht-wahrzunehmen-1259589/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T13:10:35Z",
+   "teaser": "An Trainer René Wagner entzündet sich im Umfeld des 1. FC Köln einige Kritik. Das geht auch am 38-Jährigen nicht spurlos vorbei. Doch der Coach steht bei den Geißböcken derzeit nicht zur Debatte.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/3-2-nach-0-2-in-der-89-minute-das-wundersame-werder-comeback-in-dortmund-1259148/video",
    "title": "3:2 nach 0:2 in der 89. Minute: Das wundersame Werder-Comeback in Dortmund",
