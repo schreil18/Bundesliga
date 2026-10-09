@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T18:25:31Z",
+ "updated": "2026-10-09T18:54:06Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/live-bvb-hat-muehe-pieper-muss-angeschlagen-raus-1258778/artikel",
+   "title": "LIVE! BVB hat Mühe - Pieper muss angeschlagen raus",
+   "link": "https://www.kicker.de/live-bvb-hat-muehe-pieper-muss-angeschlagen-raus-1258778/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T18:49:18Z",
+   "teaser": "Borussia Dortmund ist makellos in die neue Saison gestartet und hat bisher alle vier Spiele in der Bundesliga gewonnen. Nun geht es nach der Länderspielpause gegen die gut gestarteten Bremer, die mit Leipzig bereits einen Favoriten …",
+   "clubs": [
+    7,
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194071/borussia-dortmund_werder-bremen/liveticker",
+   "title": "Jetzt live - Spitzenreiter BVB empfängt Bremen",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194071/borussia-dortmund_werder-bremen/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-09T18:41:40Z",
+   "teaser": "Werder Bremen ist bei Borussia Dortmund zu Gast. Fährt der BVB den nächsten Dreier ein?",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/borussia-dortmund-gegen-werder-bremen,audiostream-borussia-dortmund-gegen-werder-bremen-108.html",
    "title": "Live hören: Borussia Dortmund gegen Werder Bremen - Bundesliga",
@@ -62,20 +88,6 @@
    "published": "2026-10-09T15:59:48Z",
    "teaser": "Mit markigen Worten kritisierte Friedhelm Funkel seine Freistellung bei Fortuna Düsseldorf Anfang 2020. Doch sein Gedächtnis hat dem 72-Jährigen offenbar einen dicken Streich gespielt.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194071/borussia-dortmund_werder-bremen/liveticker",
-   "title": "Ab 20.30 Uhr live - Spitzenreiter BVB empfängt Bremen",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194071/borussia-dortmund_werder-bremen/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-09T15:57:32Z",
-   "teaser": "Werder Bremen ist am Freitagabend beim Tabellenersten aus Dortmund zu Gast. Nach dem Fehlstart gegen Freiburg konnte sich Bremen in der Bundesliga stabilisieren.",
-   "clubs": [
-    7,
-    112,
-    134
-   ],
    "transfer": false
   },
   {
