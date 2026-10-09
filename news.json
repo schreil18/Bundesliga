@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T19:48:47Z",
+ "updated": "2026-10-09T20:21:33Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,42 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/live-svensson-bricht-den-bann-schlotterbeck-erhoeht-auf-2-0-1258778/artikel",
+   "title": "LIVE! Svensson bricht den Bann - Schlotterbeck erhöht auf 2:0",
+   "link": "https://www.kicker.de/live-svensson-bricht-den-bann-schlotterbeck-erhoeht-auf-2-0-1258778/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T20:16:52Z",
+   "teaser": "Borussia Dortmund ist makellos in die neue Saison gestartet und hat bisher alle vier Spiele in der Bundesliga gewonnen. Nun geht es nach der Länderspielpause gegen die gut gestarteten Bremer, die mit Leipzig bereits einen Favoriten …",
+   "clubs": [
+    7,
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194071/borussia-dortmund_werder-bremen/liveticker",
+   "title": "Jetzt live - Dortmund erhöht gegen Werder, doch auch Bremen trifft",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194071/borussia-dortmund_werder-bremen/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-09T20:11:16Z",
+   "teaser": "Spannende Schlussphase in Dortmund - der BVB führte scheinbar sicher gegen Werder Bremen. Doch dann wurde das Spiel nochmal richtig spannend.",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Storck wird Trainer in der Türkei - Gonzalez verlängert",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T19:54:21Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/live-dortmund-uebt-viel-druck-aus-fuellkrug-scheitert-an-kobel-1258778/artikel",
    "title": "LIVE! Dortmund übt viel Druck aus - Füllkrug scheitert an Kobel",
@@ -51,19 +87,6 @@
    "clubs": [
     7,
     1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194071/borussia-dortmund_werder-bremen/liveticker",
-   "title": "Jetzt live - BVB drängt gegen Werder auf die Führung",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194071/borussia-dortmund_werder-bremen/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-09T18:41:40Z",
-   "teaser": "Nach einer schläfrigen Anfangsphase macht Borussia Dortmund jetzt richtig Druck. Werder Bremen kann sich nur selten befreien.",
-   "clubs": [
-    7,
-    134
    ],
    "transfer": false
   },
@@ -689,16 +712,6 @@
    "clubs": [
     7
    ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Rice vor Verlängerung - Montella verzichtet auf Abfindung - Matondo findet neuen Klub",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-10-08T08:43:16Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
    "transfer": true
   },
   {
