@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T13:53:06Z",
+ "updated": "2026-10-09T14:26:13Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,41 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/was-erzaehlt-einem-dann-modric-freiburger-auf-laenderspielreise-1259609/video",
+   "title": "\"Was erzählt einem dann Modric?\": Freiburger auf Länderspielreise",
+   "link": "https://www.kicker.de/was-erzaehlt-einem-dann-modric-freiburger-auf-laenderspielreise-1259609/video",
+   "source": "kicker",
+   "published": "2026-10-09T13:59:48Z",
+   "teaser": "Freiburg-Coach Julian Schuster sprach über seine Nationalspieler und deren wertvollen Erfahrungen. Sowohl die deutschen, als auch zum Beispiel Igor Matanovic bei Kroatien.",
+   "clubs": [
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/blessin-vor-dem-rheinderby-wahnsinniges-vertrauen-in-die-jungs-1259611/video",
+   "title": "Blessin vor dem Rheinderby: \"Wahnsinniges Vertrauen in die Jungs\"",
+   "link": "https://www.kicker.de/blessin-vor-dem-rheinderby-wahnsinniges-vertrauen-in-die-jungs-1259611/video",
+   "source": "kicker",
+   "published": "2026-10-09T13:59:17Z",
+   "teaser": "Auf der Pressekonferenz vor dem Auswärtsspiel gegen den 1. FC Köln spricht Neu-Trainer Alexander Blessin über die Motivation der Mannschaft und wie Gladbach die Stimmung im Kölner Stadion für sich nutzen will.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/demichelis-zu-messi-abschied-war-ein-sehr-emotionaler-tag-1259607/video",
+   "title": "Demichelis zu Messi-Abschied: \"War ein sehr emotionaler Tag\"",
+   "link": "https://www.kicker.de/demichelis-zu-messi-abschied-war-ein-sehr-emotionaler-tag-1259607/video",
+   "source": "kicker",
+   "published": "2026-10-09T13:50:16Z",
+   "teaser": "In der Länderspielpause gab es durch den Abschied von Lionel Messi aus der Nationalmannschaft einen emotionalen Moment für alle Argentinier. Auch RB-Coach Martin Demichelis erlebte den letzten Auftritt seines ehemaligen Mitspielers am …",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/den-mut-habe-ich-wird-uno-blessins-ueberraschungsfaktor-fuers-derby-1259596/artikel",
    "title": "\"Den Mut habe ich\": Wird Uno Blessins Überraschungsfaktor fürs Derby?",
