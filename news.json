@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T15:52:50Z",
+ "updated": "2026-10-09T16:23:10Z",
  "sources": [
   {
    "name": "kicker",
@@ -20,10 +20,34 @@
    "title": "Live hören: Borussia Dortmund gegen Werder Bremen - Bundesliga",
    "link": "https://www.sportschau.de/fussball/bundesliga/borussia-dortmund-gegen-werder-bremen,audiostream-borussia-dortmund-gegen-werder-bremen-108.html",
    "source": "Sportschau",
-   "published": "2026-10-09T18:15:00Z",
+   "published": "2026-10-09T17:15:00Z",
    "teaser": "5. Spieltag: Anpfiff des Spiels ist am 09.10.2026 um 20:30 Uhr. Werder Bremen spielt in Dortmund.",
    "clubs": [
     7,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ausdruck-schweine-nie-gefallen-schaefer-und-pfannenstiel-widersprechen-funkel-1259555/artikel",
+   "title": "Ausdruck \"Schweine\" nie gefallen: Schäfer und Pfannenstiel widersprechen Funkel",
+   "link": "https://www.kicker.de/ausdruck-schweine-nie-gefallen-schaefer-und-pfannenstiel-widersprechen-funkel-1259555/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T15:59:48Z",
+   "teaser": "Mit markigen Worten kritisierte Friedhelm Funkel seine Freistellung bei Fortuna Düsseldorf Anfang 2020. Doch sein Gedächtnis hat dem 72-Jährigen offenbar einen dicken Streich gespielt.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194071/borussia-dortmund_werder-bremen/liveticker",
+   "title": "Ab 20.30 Uhr live - Spitzenreiter BVB empfängt Bremen",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194071/borussia-dortmund_werder-bremen/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-09T15:57:32Z",
+   "teaser": "Werder Bremen ist am Freitagabend beim Tabellenersten aus Dortmund zu Gast. Nach dem Fehlstart gegen Freiburg konnte sich Bremen in der Bundesliga stabilisieren.",
+   "clubs": [
+    7,
+    112,
     134
    ],
    "transfer": false
@@ -50,20 +74,6 @@
    "teaser": "Beim SC Freiburg gab es zuletzt nur positive Schlagzeilen: der Rekord-Saisonstart, die Debüts der Freiburger beim DFB-Team und Rekordzahlen bei der Mitgliederversammlung. Nach der Länderspielpause will der Sport-Club die Erfolgsgeschichte …",
    "clubs": [
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194071/borussia-dortmund_werder-bremen/liveticker",
-   "title": "Ab 20.30 Uhr live - Spitzenreiter BVB empfängt Bremen",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194071/borussia-dortmund_werder-bremen/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-09T14:52:35Z",
-   "teaser": "Werder Bremen ist am Freitagabend beim Tabellenersten aus Dortmund zu Gast. Nach dem Fehlstart gegen Freiburg konnte sich Bremen in der Bundesliga stabilisieren.",
-   "clubs": [
-    7,
-    112,
-    134
    ],
    "transfer": false
   },
