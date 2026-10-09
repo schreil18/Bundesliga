@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T05:51:19Z",
+ "updated": "2026-10-09T06:29:17Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wer-uebertraegt-borussia-dortmund-gegen-sv-werder-bremen-live-im-tv-und-stream-1257283/artikel",
+   "title": "Wer überträgt Borussia Dortmund gegen SV Werder Bremen live im TV und Stream?",
+   "link": "https://www.kicker.de/wer-uebertraegt-borussia-dortmund-gegen-sv-werder-bremen-live-im-tv-und-stream-1257283/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T06:00:00Z",
+   "teaser": "Zum erneuten Bundesliga-Auftakt nach der Länderspielpause treffen Borussia Dortmund und Werder Bremen aufeinander. Wo ihr die Partie live verfolgen könnt, erfahrt ihr hier.",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/satter-millionengewinn-und-rekord-umsatz-freiburg-legt-beeindruckende-zahlen-vor-1259435/artikel",
    "title": "Satter Millionengewinn und Rekord-Umsatz: Freiburg legt beeindruckende Zahlen vor",
