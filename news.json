@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T10:52:02Z",
+ "updated": "2026-10-09T11:22:34Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,42 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/vfb-spielplan-bis-zur-naechsten-laenderspielpause-das-xxl-programm-im-ueberblick-1259124/artikel",
+   "title": "VfB-Spielplan bis zur nächsten Länderspielpause: Das XXL-Programm im Überblick",
+   "link": "https://www.kicker.de/vfb-spielplan-bis-zur-naechsten-laenderspielpause-das-xxl-programm-im-ueberblick-1259124/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T11:10:45Z",
+   "teaser": "Nach der XXL-Länderspielpause im Herbst stehen für den VfB Stuttgart gleich neun Spiele in den nächsten gut vier Wochen an. Unter anderem geht es gegen Atletico Madrid. Ein Überblick.",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/leverkusen-plant-mit-maza-boniface-eine-option-1259536/artikel",
+   "title": "Leverkusen plant mit Maza - Boniface \"eine Option\"",
+   "link": "https://www.kicker.de/leverkusen-plant-mit-maza-boniface-eine-option-1259536/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T10:59:23Z",
+   "teaser": "Nach fast drei Wochen Pause meldet sich Bayer Leverkusen zurück, entspannt, aber nicht sorgenfrei. Spielmacher Ibrahim Maza kehrte mit einer Fußverletzung zurück, Torjäger Christian Kofane fällt sicher aus. Das könnte eine Chance für …",
+   "clubs": [
+    6
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bayerns-xxl-programm-bis-zur-naechsten-laenderspielpause-1259120/artikel",
+   "title": "Bayerns XXL-Programm bis zur nächsten Länderspielpause",
+   "link": "https://www.kicker.de/bayerns-xxl-programm-bis-zur-naechsten-laenderspielpause-1259120/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T10:52:33Z",
+   "teaser": "Nach der Länderspielpause ist vor der Länderspielpause. Bevor es aber Mitte November wieder für die Nationalteams weitergeht, warten auf die Bayern-Stars wettbewerbsübergreifend neun Spiele in den nächsten gut vier Wochen. Ein Überblick.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/warum-es-fuer-die-bayern-gegen-augsburg-um-wiedergutmachung-geht-1259540/video",
    "title": "Warum es für die Bayern gegen Augsburg um Wiedergutmachung geht",
