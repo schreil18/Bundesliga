@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T15:23:14Z",
+ "updated": "2026-10-09T15:52:50Z",
  "sources": [
   {
    "name": "kicker",
@@ -25,6 +25,31 @@
    "clubs": [
     7,
     134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/endspiel-fuer-wagner-intern-gibt-es-diese-stimmen-nicht-1259630/video",
+   "title": "Endspiel für Wagner? \"Intern gibt es diese Stimmen nicht\"",
+   "link": "https://www.kicker.de/endspiel-fuer-wagner-intern-gibt-es-diese-stimmen-nicht-1259630/video",
+   "source": "kicker",
+   "published": "2026-10-09T15:33:33Z",
+   "teaser": "René Wagner steht beim 1. FC Köln unter Druck - zumindest von Außen. Auf der Pressekonferenz vor dem Rheinderby gegen Borussia Mönchengladbach betonte der Trainer, dass er intern keine Zweifel wahrnehme.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/schuster-von-der-kabine-her-ein-top-team-1259623/artikel",
+   "title": "Schuster: \"Von der Kabine her ein Top-Team\"",
+   "link": "https://www.kicker.de/schuster-von-der-kabine-her-ein-top-team-1259623/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T15:28:25Z",
+   "teaser": "Beim SC Freiburg gab es zuletzt nur positive Schlagzeilen: der Rekord-Saisonstart, die Debüts der Freiburger beim DFB-Team und Rekordzahlen bei der Mitgliederversammlung. Nach der Länderspielpause will der Sport-Club die Erfolgsgeschichte …",
+   "clubs": [
+    112
    ],
    "transfer": false
   },
