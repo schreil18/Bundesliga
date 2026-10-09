@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T08:53:37Z",
+ "updated": "2026-10-09T09:24:46Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,43 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/diehl-und-al-dakhil-kommen-beim-vfb-nicht-auf-die-beine-1259325/artikel",
+   "title": "Diehl und Al-Dakhil kommen beim VfB nicht auf die Beine",
+   "link": "https://www.kicker.de/diehl-und-al-dakhil-kommen-beim-vfb-nicht-auf-die-beine-1259325/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T09:02:13Z",
+   "teaser": "Sie kamen gemeinsam im Sommer 2024 und mit großen Erwartungen nach Stuttgart. Doch das Verletzungspech lässt Ameen Al-Dakhil und Justin Diehl nicht aus seinen Fängen.",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kompany-die-jungs-muessen-erstmal-muede-werden-1259507/artikel",
+   "title": "Kompany: \"Die Jungs müssen erstmal müde werden\"",
+   "link": "https://www.kicker.de/kompany-die-jungs-muessen-erstmal-muede-werden-1259507/artikel",
+   "source": "kicker",
+   "published": "2026-10-09T08:55:23Z",
+   "teaser": "Der FC Bayern reist am Samstag zum kleinen Derby nach Augsburg. Und hat dort noch eine Rechnung zu begleichen.",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kompany-deutlich-moechte-keinen-preis-bekommen-fuer-eine-rede-gegen-rassismus-1259519/video",
+   "title": "Kompany deutlich: \"Möchte keinen Preis bekommen für eine Rede gegen Rassismus\"",
+   "link": "https://www.kicker.de/kompany-deutlich-moechte-keinen-preis-bekommen-fuer-eine-rede-gegen-rassismus-1259519/video",
+   "source": "kicker",
+   "published": "2026-10-09T08:43:18Z",
+   "teaser": "Nach dem Spiel gegen den FC Augsburg wird Vincent Kompany einen persönlichen Preis des Bayerischen Ministerpräsidenten Markus Söder bekommen, der seine Haltung gegen den Rassismus würdigt. Welche Bedeutung diese Auszeichnung für den …",
+   "clubs": [
+    95
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wer-uebertraegt-borussia-dortmund-gegen-sv-werder-bremen-live-im-tv-und-stream-1257283/artikel",
    "title": "Wer überträgt Borussia Dortmund gegen SV Werder Bremen live im TV und Stream?",
