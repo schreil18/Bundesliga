@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T09:52:14Z",
+ "updated": "2026-10-09T10:24:56Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/warum-es-fuer-die-bayern-gegen-augsburg-um-wiedergutmachung-geht-1259540/video",
+   "title": "Warum es für die Bayern gegen Augsburg um Wiedergutmachung geht",
+   "link": "https://www.kicker.de/warum-es-fuer-die-bayern-gegen-augsburg-um-wiedergutmachung-geht-1259540/video",
+   "source": "kicker",
+   "published": "2026-10-09T09:46:17Z",
+   "teaser": "Der FC Bayern München trifft am Samstag auf den FC Augsburg und hat dort die Chance auf ein Stück Wiedergutmachung. Warum das so ist und wie Kompany das Thema Ballon d'Or sieht, erklärt kicker-Reporter Mario Krischel.",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/diehl-und-al-dakhil-kommen-beim-vfb-nicht-auf-die-beine-1259325/artikel",
    "title": "Diehl und Al-Dakhil kommen beim VfB nicht auf die Beine",
