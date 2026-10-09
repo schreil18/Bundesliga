@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T20:51:04Z",
+ "updated": "2026-10-09T21:22:01Z",
  "sources": [
   {
    "name": "kicker",
@@ -17,16 +17,29 @@
  "items": [
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-schockiert-seinen-ex-verein-in-der-nachspielzeit,spielbericht-borussia-dortmund-werder-bremen-104.html",
-   "title": "Füllkrug schockiert den BVB in der Nachspielzeit",
+   "title": "Fußball-Bundesliga: Werder Bremen punktet dank Füllkrug bei Borussia Dortmund",
    "link": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-schockiert-seinen-ex-verein-in-der-nachspielzeit,spielbericht-borussia-dortmund-werder-bremen-104.html",
    "source": "Sportschau",
-   "published": "2026-10-09T20:31:05Z",
+   "published": "2026-10-09T21:17:49Z",
    "teaser": "Borussia Dortmund führt gegen Werder Bremen bis zur 88. Minute mit 2:0 - und lässt dann seinen Ex-Angreifer aus den Augen.",
    "clubs": [
     7,
     134
    ],
    "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/dortmund-gegen-bremen-2026-bundesliga-5226845/spielbericht",
+   "title": "Rückkehrer Füllkrug stellt das Spiel auf den Kopf: BVB verspielt 2:0 gegen Bremen",
+   "link": "https://www.kicker.de/dortmund-gegen-bremen-2026-bundesliga-5226845/spielbericht",
+   "source": "kicker",
+   "published": "2026-10-09T20:39:28Z",
+   "teaser": "Borussia Dortmund hat den fünften Sieg im fünften Spiel verpasst und erstmals Punkte liegen lassen. Gegen Werder Bremen sah der BVB nach 85 Minuten wie der sichere Sieger aus. Doch Rückkehrer Füllkrug stellte mit seinem späten Treffer das …",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": true
   },
   {
    "id": "https://www.kicker.de/ausgerechnet-fuellkrug-bremen-holt-in-dortmund-nach-0-2-einen-punkt-1258778/artikel",
