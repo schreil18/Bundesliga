@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T12:54:17Z",
+ "updated": "2026-10-10T13:21:21Z",
  "sources": [
   {
    "name": "kicker",
@@ -122,6 +122,23 @@
    "transfer": false
   },
   {
+   "id": "https://www.kicker.de/live-bayern-gastiert-beim-fca-saisondebuet-fuer-karazor-naechster-sieg-fuer-elversberg-1259164/artikel",
+   "title": "LIVE! Bayern gastiert beim FCA - Saisondebüt für Karazor Nächster Sieg für Elversberg?",
+   "link": "https://www.kicker.de/live-bayern-gastiert-beim-fca-saisondebuet-fuer-karazor-naechster-sieg-fuer-elversberg-1259164/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T12:31:29Z",
+   "teaser": "Am ersten Bundesliga-Samstag nach der Länderspielpause sind für die Bayern drei Punkte in Augsburg fest eingeplant. Unter anderem empfängt auch Mainz Leverkusen, die SVE ist bei Union zu Gast.",
+   "clubs": [
+    40,
+    6,
+    81,
+    95,
+    80,
+    198
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/regenschlacht-von-nuernberg-absurde-szenen-und-ein-historischer-spielabbruch-1259808/video",
    "title": "Regenschlacht von Nürnberg: Absurde Szenen und ein historischer Spielabbruch",
    "link": "https://www.kicker.de/regenschlacht-von-nuernberg-absurde-szenen-und-ein-historischer-spielabbruch-1259808/video",
@@ -133,19 +150,17 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3900/",
-   "title": "Ab 15.30 Uhr live - FC Bayern topbesetzt in Augsburg, HSV in Hoffenheim",
+   "title": "Jetzt live - FC Bayern topbesetzt in Augsburg, HSV in Hoffenheim",
    "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3900/",
    "source": "Sportschau",
    "published": "2026-10-10T10:47:34Z",
-   "teaser": "Am Samstag-Nachmittag empfängt Augsburg die Bayern. Union Berlin spielt zuhause gegen Elversberg und Stuttgart reist nach Paderborn.",
+   "teaser": "Bayerisches Topduell in Augsburg: der FC Bayern ist zu Gast. Union Berlin empfängt Elversberg, der HSV ist in Sinsheim gefordert.",
    "clubs": [
     40,
-    16,
     175,
     95,
     80,
     100,
-    31,
     198
    ],
    "transfer": false
@@ -157,6 +172,19 @@
    "source": "kicker",
    "published": "2026-10-10T09:36:23Z",
    "teaser": "Borussia Dortmund zeigt gegen Werder Bremen erst bekannte Stärken und Schwächen, dann aber ein verloren geglaubtes Gesicht. Acht Minuten Nachlässigkeit kosten am Ende zwei Punkte.",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-dortmunder-rueckschlag-gegen-fuellkrug-und-co-100.html",
+   "title": "Dortmunder Rückschlag gegen Füllkrug und Co.",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-dortmunder-rueckschlag-gegen-fuellkrug-und-co-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T07:57:00Z",
+   "teaser": "Beím BVB sah es gegen Werder Bremen nach einem gelungenen Start aus, bis in kurzer Zeit mal wieder das System zusammenbrach.",
    "clubs": [
     7,
     134
