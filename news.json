@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T13:21:21Z",
+ "updated": "2026-10-10T13:48:43Z",
  "sources": [
   {
    "name": "kicker",
@@ -25,6 +25,23 @@
    "clubs": [
     1635,
     91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-nach-neuer-patzer-fca-erzielt-fruehestes-tor-der-bundesliga-poulsen-gedankenschnell-1259164/artikel",
+   "title": "LIVE! Nach Neuer-Patzer: FCA erzielt frühestes Tor der Bundesliga - Poulsen gedankenschnell",
+   "link": "https://www.kicker.de/live-nach-neuer-patzer-fca-erzielt-fruehestes-tor-der-bundesliga-poulsen-gedankenschnell-1259164/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T13:37:57Z",
+   "teaser": "Am ersten Bundesliga-Samstag nach der Länderspielpause sind für die Bayern drei Punkte in Augsburg fest eingeplant. Unter anderem empfängt auch Mainz Leverkusen, die SVE ist bei Union zu Gast.",
+   "clubs": [
+    40,
+    6,
+    81,
+    95,
+    80,
+    198
    ],
    "transfer": false
   },
@@ -150,18 +167,15 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3900/",
-   "title": "Jetzt live - FC Bayern topbesetzt in Augsburg, HSV in Hoffenheim",
+   "title": "Jetzt live - Neuer patzt direkt nach Anpfiff, Leverkusen fulminant",
    "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3900/",
    "source": "Sportschau",
    "published": "2026-10-10T10:47:34Z",
-   "teaser": "Bayerisches Topduell in Augsburg: der FC Bayern ist zu Gast. Union Berlin empfängt Elversberg, der HSV ist in Sinsheim gefordert.",
+   "teaser": "Ein schlimmer Patzer von Manuel Neuer bringt dem FC Augsburg nach wenigen Sekunden die Führung. Leverkusen trifft in Mainz nach neun Minuten doppelt.",
    "clubs": [
-    40,
-    175,
-    95,
-    80,
-    100,
-    198
+    6,
+    81,
+    95
    ],
    "transfer": false
   },
