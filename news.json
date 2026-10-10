@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T06:26:48Z",
+ "updated": "2026-10-10T06:54:57Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/bayerns-bilanz-gegen-bayern-und-wo-sich-der-fca-einreiht-1259274/artikel",
+   "title": "Bayerns Bilanz gegen Bayern - und wo sich der FCA einreiht",
+   "link": "https://www.kicker.de/bayerns-bilanz-gegen-bayern-und-wo-sich-der-fca-einreiht-1259274/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T06:34:32Z",
+   "teaser": "Am Samstag steigt mal wieder das derzeit einzige Duell zwischen bayerischen Erstligisten. Der FC Augsburg empfängt die Bayern. Ein Blick auf die Bilanz des Rekordmeisters gegen Teams aus dem Freistaat - mit legendären Duellen, großen und …",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/thioune-wenn-meine-mannschaft-eins-gelernt-hat-1259721/video",
    "title": "Thioune: \"Wenn meine Mannschaft eins gelernt hat, ...\"",
