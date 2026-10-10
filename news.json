@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T19:19:48Z",
+ "updated": "2026-10-10T19:47:38Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,19 @@
  ],
  "items": [
   {
+   "id": "https://www.sportschau.de/fussball/bundesliga/nkunkus-hattrick-duepiert-eine-ganz-schwache-eintracht,spielbericht-rb-leipzig-eintracht-frankfurt-106.html",
+   "title": "Nkunkus Hattrick düpiert eine ganz schwache Eintracht",
+   "link": "https://www.sportschau.de/fussball/bundesliga/nkunkus-hattrick-duepiert-eine-ganz-schwache-eintracht,spielbericht-rb-leipzig-eintracht-frankfurt-106.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T19:32:50Z",
+   "teaser": "RB Leipzig feiert einen Kantersieg gegen eine ganz schwache Frankfurter Eintracht. Christopher Nkunku sorgte mit einem Hattrick schon vor der Pause für klare Verhältnisse.",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/hoeness-trotz-sieg-nicht-so-wie-wir-uns-das-vorgestellt-haben-1259956/video",
    "title": "Hoeneß trotz Sieg: \"Nicht so, wie wir uns das vorgestellt haben\"",
    "link": "https://www.kicker.de/hoeness-trotz-sieg-nicht-so-wie-wir-uns-das-vorgestellt-haben-1259956/video",
@@ -25,19 +38,6 @@
    "clubs": [
     16,
     31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/nkunkus-hattrick-duepiert-eine-ganz-schwache-eintracht,spielbericht-rb-leipzig-eintracht-frankfurt-106.html",
-   "title": "Nkunkus Hattrick düpiert eine ganz schwache Eintracht",
-   "link": "https://www.sportschau.de/fussball/bundesliga/nkunkus-hattrick-duepiert-eine-ganz-schwache-eintracht,spielbericht-rb-leipzig-eintracht-frankfurt-106.html",
-   "source": "Sportschau",
-   "published": "2026-10-10T18:35:05Z",
-   "teaser": "RB Leipzig feiert einen Kantersieg gegen eine ganz schwache Frankfurter Eintracht. Christopher Nkunku sorgte mit einem Hattrick schon vor der Pause für klare Verhältnisse.",
-   "clubs": [
-    1635,
-    91
    ],
    "transfer": false
   },
@@ -169,6 +169,19 @@
    "source": "kicker",
    "published": "2026-10-10T17:27:13Z",
    "teaser": "Der VfB Stuttgart hat das knifflige Auswärtsspiel in Paderborn gewonnen. Dennis Seimen dürfte diese Partie noch lange in Erinnerung bleiben, bei ihm flossen sogar Tränen.",
+   "clubs": [
+    16,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/traenen-bei-seimen-das-emotionalste-was-ich-in-meiner-karriere-erlebt-habe-1259915/artikel",
+   "title": "Tränen bei Seimen: \"Das Emotionalste, was ich in meiner Karriere erlebt habe\"",
+   "link": "https://www.kicker.de/traenen-bei-seimen-das-emotionalste-was-ich-in-meiner-karriere-erlebt-habe-1259915/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T17:27:13Z",
+   "teaser": "Der VfB Stuttgart hat das knifflige Auswärtsspiel in Paderborn gewonnen. Dennis Seimen dürfte diese Partie noch lange in Erinnerung bleiben - bei ihm flossen sogar Tränen. Dagegen steht Maximilian Mittelstädt eine Zwangspause bevor.",
    "clubs": [
     16,
     31
