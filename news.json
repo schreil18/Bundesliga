@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T18:51:59Z",
+ "updated": "2026-10-10T19:19:48Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/hoeness-trotz-sieg-nicht-so-wie-wir-uns-das-vorgestellt-haben-1259956/video",
+   "title": "Hoeneß trotz Sieg: \"Nicht so, wie wir uns das vorgestellt haben\"",
+   "link": "https://www.kicker.de/hoeness-trotz-sieg-nicht-so-wie-wir-uns-das-vorgestellt-haben-1259956/video",
+   "source": "kicker",
+   "published": "2026-10-10T19:03:19Z",
+   "teaser": "Sebastian Hoeneß war nach dem 2:0-Sieg gegen Paderborn nicht unglücklich, jedoch habe der VfB viel Abwehrarbeit leisten müssen und im letzten Drittel falsche Entscheidungen getroffen.",
+   "clubs": [
+    16,
+    31
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/nkunkus-hattrick-duepiert-eine-ganz-schwache-eintracht,spielbericht-rb-leipzig-eintracht-frankfurt-106.html",
    "title": "Nkunkus Hattrick düpiert eine ganz schwache Eintracht",
@@ -95,6 +108,16 @@
    "id": "https://www.kicker.de/neuer-beim-zweiten-gegentor-bin-ich-machtlos-1259937/artikel",
    "title": "Neuer: \"Beim zweiten Gegentor bin ich machtlos\"",
    "link": "https://www.kicker.de/neuer-beim-zweiten-gegentor-bin-ich-machtlos-1259937/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T18:09:35Z",
+   "teaser": "Nach einem der schwächsten Spiele seiner Bundesliga-Karriere wich Manuel Neuer einer Analyse nicht aus, fühlte sich aber nur für ein Gegentor verantwortlich - und hatte eine \"Vorahnung\" für Dienstag.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/neuer-sieht-nur-einen-patzer-und-hat-eine-vorahnung-fuer-dienstag-1259937/artikel",
+   "title": "Neuer sieht nur einen Patzer - und hat eine Vorahnung für Dienstag",
+   "link": "https://www.kicker.de/neuer-sieht-nur-einen-patzer-und-hat-eine-vorahnung-fuer-dienstag-1259937/artikel",
    "source": "kicker",
    "published": "2026-10-10T18:09:35Z",
    "teaser": "Nach einem der schwächsten Spiele seiner Bundesliga-Karriere wich Manuel Neuer einer Analyse nicht aus, fühlte sich aber nur für ein Gegentor verantwortlich - und hatte eine \"Vorahnung\" für Dienstag.",
@@ -214,6 +237,32 @@
    "clubs": [
     40,
     95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nach-patzer-und-historischem-treffer-muss-man-sich-um-neuer-sorgen-machen-1259917/video",
+   "title": "Nach Patzer und historischem Treffer: Muss man sich um Neuer Sorgen machen?",
+   "link": "https://www.kicker.de/nach-patzer-und-historischem-treffer-muss-man-sich-um-neuer-sorgen-machen-1259917/video",
+   "source": "kicker",
+   "published": "2026-10-10T17:08:42Z",
+   "teaser": "Der frühe Fehler von Manuel Neuer war nach dem 2:2 der Bayern in Augsburg Gesprächsthema Nummer eins. In der Champions League unter der Woche könnte nun Jonas Urbig ins Tor rücken, allerdings eher wegen des Untergrunds.",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/swr/swr-frustrierend-und-unverstaendlich-mainz-05-hadert-mit-leverkusens-fuehrungstor-100.html",
+   "title": "Mainz 05 hadert mit Leverkusens Führungstor",
+   "link": "https://www.sportschau.de/regional/swr/swr-frustrierend-und-unverstaendlich-mainz-05-hadert-mit-leverkusens-fuehrungstor-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T16:58:38Z",
+   "teaser": "Der 1. FSV Mainz 05 liefert sich mit Bayer Leverkusen ein Torspektakel. Die Rheinhessen unterliegen mit 3:4 und hadern nach dem Spiel vor allem mit einer Szene.",
+   "clubs": [
+    6,
+    81
    ],
    "transfer": false
   },
@@ -423,6 +472,19 @@
     80,
     100,
     198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/rb/rb-thioune-lobt-werders-mentalitaet-eine-mannschaft-die-leiden-kann-102.html",
+   "title": "Thioune lobt Werders Mentalität: \"Eine Mannschaft, die leiden kann\"",
+   "link": "https://www.sportschau.de/regional/rb/rb-thioune-lobt-werders-mentalitaet-eine-mannschaft-die-leiden-kann-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T15:03:00Z",
+   "teaser": "Gegen den BVB haben die Bremer erneut nach einem 0:2-Rückstand noch gepunktet. Coach Daniel Thioune gefallen Mentalität, Bereitschaft und Wille seines Teams.",
+   "clubs": [
+    7,
+    134
    ],
    "transfer": false
   },
