@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T07:21:58Z",
+ "updated": "2026-10-10T07:48:51Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/fuellkrug-ist-ne-richtige-kante-kovac-kritisiert-foul-pfiff-1259742/video",
+   "title": "\"Füllkrug ist 'ne richtige Kante\": Kovac kritisiert Foul-Pfiff",
+   "link": "https://www.kicker.de/fuellkrug-ist-ne-richtige-kante-kovac-kritisiert-foul-pfiff-1259742/video",
+   "source": "kicker",
+   "published": "2026-10-10T07:36:26Z",
+   "teaser": "Niko Kovac haderte nach dem 2:2 noch mit der ein oder anderen Entscheidung. Der BVB gab spät zwei Punkte gegen Werder Bremen aus der Hand.",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/bayerns-bilanz-gegen-bayern-und-wo-sich-der-fca-einreiht-1259274/artikel",
    "title": "Bayerns Bilanz gegen Bayern - und wo sich der FCA einreiht",
