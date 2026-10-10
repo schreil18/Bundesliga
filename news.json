@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T20:20:28Z",
+ "updated": "2026-10-10T20:48:23Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,12 +16,37 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/demichelis-nach-einem-sieg-ist-es-einfach-zu-sprechen-1260003/video",
+   "title": "Demichelis: \"Nach einem Sieg ist es einfach, zu sprechen\"",
+   "link": "https://www.kicker.de/demichelis-nach-einem-sieg-ist-es-einfach-zu-sprechen-1260003/video",
+   "source": "kicker",
+   "published": "2026-10-10T20:26:25Z",
+   "teaser": "Mehr als zufrieden konnte Martin Demichelis mit der Vorstellung seiner Mannschaft gegen Frankfurt sein. Der RB-Coach lobte besonders die Reaktion auf die Partie vor der Länderspielpause.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/nkunku-schafft-historisches-aber-dazu-gehoert-auch-ein-gegner-1259995/video",
    "title": "Nkunku schafft Historisches, aber \"dazu gehört auch ein Gegner\"",
    "link": "https://www.kicker.de/nkunku-schafft-historisches-aber-dazu-gehoert-auch-ein-gegner-1259995/video",
    "source": "kicker",
    "published": "2026-10-10T20:12:10Z",
    "teaser": "Während RB Leipzig die Länderspielpause gut genutzt zu haben scheint, bleiben die Defensiv-Probleme bei Frankfurt massiv. Der Samstagabend verlief besonders für Christopher Nkunku wie gemalt.",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/huetters-deutliche-worte-zu-koch-dann-setze-ich-irgendwann-mal-ein-zeichen-1259989/video",
+   "title": "Hütters deutliche Worte zu Koch: \"Dann setze ich irgendwann mal ein Zeichen\"",
+   "link": "https://www.kicker.de/huetters-deutliche-worte-zu-koch-dann-setze-ich-irgendwann-mal-ein-zeichen-1259989/video",
+   "source": "kicker",
+   "published": "2026-10-10T20:05:02Z",
+   "teaser": "Nach der deutlichen Pleite in Leipzig wählte SGE-Coach Adi Hütter klare Worte in Richtung seines Kapitäns Robin Koch. Den hatte er bereits zur Pause ausgewechselt.",
    "clubs": [
     1635,
     91
