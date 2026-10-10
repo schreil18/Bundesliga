@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T16:49:15Z",
+ "updated": "2026-10-10T17:19:34Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,84 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/live-hinten-rettet-vandevoordt-vorne-schnuert-nkunku-den-dreierpack-1259165/artikel",
+   "title": "LIVE! Hinten rettet Vandevoordt, vorne schnürt Nkunku den Dreierpack",
+   "link": "https://www.kicker.de/live-hinten-rettet-vandevoordt-vorne-schnuert-nkunku-den-dreierpack-1259165/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T17:12:28Z",
+   "teaser": "Sowohl RB Leipzig als auch die Eintracht aus Frankfurt haben einen für die eigenen Verhältnisse mäßigen Saisonstart hingelegt. Im direkten Duell wollen nun beide klettern.",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/neuer-kassiert-schnellstes-tor-der-bundesliga-geschichte,neuer-tor-100.html",
+   "title": "Neuer kassiert schnellstes Tor der Bundesliga-Geschichte",
+   "link": "https://www.sportschau.de/fussball/bundesliga/neuer-kassiert-schnellstes-tor-der-bundesliga-geschichte,neuer-tor-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T17:08:54Z",
+   "teaser": "Der FC Augsburg trifft gegen den FC Bayern nach acht Sekunden. Manuel Neuer ermöglichte das schnellste Tor der Bundesliga-Geschichte mit einem Patzer.",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nach-patzer-und-historischem-treffer-muss-man-sich-sorgen-um-neuer-machen-1259917/video",
+   "title": "Nach Patzer und historischem Treffer: Muss man sich Sorgen um Neuer machen?",
+   "link": "https://www.kicker.de/nach-patzer-und-historischem-treffer-muss-man-sich-sorgen-um-neuer-machen-1259917/video",
+   "source": "kicker",
+   "published": "2026-10-10T17:08:42Z",
+   "teaser": "Der frühe Fehler von Manuel Neuer war nach dem 2:2 der Bayern in Augsburg Gesprächsthema Nummer eins. In der Champions League unter der Woche könnte nun Jonas Urbig ins Tor rücken, allerdings eher wegen des Untergrunds.",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/neuers-schwarzer-nachmittag-kompany-spricht-von-zwei-riesenfehlern-1259913/artikel",
+   "title": "Neuers schwarzer Nachmittag - Kompany spricht von \"zwei Riesenfehlern\"",
+   "link": "https://www.kicker.de/neuers-schwarzer-nachmittag-kompany-spricht-von-zwei-riesenfehlern-1259913/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T16:57:39Z",
+   "teaser": "Manuel Neuer sah am Samstag bei beiden Bayern-Gegentoren in Augsburg nicht gut aus. Die Verantwortlichen ordneten den Auftritt ehrlich ein.",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/verdacht-auf-kreuzbandriss-hsv-bangt-um-leader-remberg-1259893/artikel",
+   "title": "Verdacht auf Kreuzbandriss: HSV bangt um Leader Remberg",
+   "link": "https://www.kicker.de/verdacht-auf-kreuzbandriss-hsv-bangt-um-leader-remberg-1259893/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T16:57:29Z",
+   "teaser": "Als der glückliche 3:2-Sieg in Hoffenheim perfekt war, drückte Merlin Polzin seinen Kapitän ganz fest und innig an sich. Nicolai Remberg war bereits in der ersten Hälfte mit Verdacht auf Kreuzbandriss ausgeschieden - der HSV wird seinen …",
+   "clubs": [
+    175,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/fuehrich-erloest-vfb-in-paderborn-spaet,spielbericht-sc-paderborn-vfb-stuttgart-102.html",
+   "title": "Bundesliga: Stuttgart feiert Arbeitssieg in Paderborn",
+   "link": "https://www.sportschau.de/fussball/bundesliga/fuehrich-erloest-vfb-in-paderborn-spaet,spielbericht-sc-paderborn-vfb-stuttgart-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T16:55:14Z",
+   "teaser": "Der VfB Stuttgart dominierte beim SC Paderborn diue erste Halbzeit, musste dann aber noch um den Sieg zittern.",
+   "clubs": [
+    16,
+    31
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/live-nkunku-legt-gleich-nach-leipziger-blitzstart-1259165/artikel",
    "title": "LIVE! Nkunku legt gleich nach: Leipziger Blitzstart",
@@ -69,27 +147,14 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
-   "title": "Drei Tore reichen Mainz nicht zum ersten Heimsieg",
+   "title": "Drei Tore reichen Mainz gegen Leverkusen nicht zum ersten Heimsieg",
    "link": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
    "source": "Sportschau",
    "published": "2026-10-10T15:54:00Z",
-   "teaser": "Bayer Leverkusen hat in der Bundesliga einen Sieg in Mainz eingefahren. Dabei wehrten sich die Rheinhessen nach Kräften, doch auch drei Tore reichten nicht zum Punktgewinn.",
+   "teaser": "Bayer Leverkusen hat in der Fußball-Bundesliga einen Sieg beim 1. FSV Mainz 05 eingefahren. Dabei wehrten sich die Rheinhessen nach Kräften, doch auch drei Tore reichten nicht zum Punktgewinn.",
    "clubs": [
     6,
     81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-nach-neuer-klops-fc-bayern-patzt-erneut-gegen-angstgegner-fca-102.html",
-   "title": "Neuer kassiert schnellstes Tor der Bundesliga-Geschichte",
-   "link": "https://www.sportschau.de/regional/br/br-nach-neuer-klops-fc-bayern-patzt-erneut-gegen-angstgegner-fca-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-10T15:53:09Z",
-   "teaser": "Nach der Länderspielpause patzt der FC Bayern München im bayerischen Bundesliga-Duell beim Angstgegner FC Augsburg. Im Mittelpunkt: Manuel Neuer und Robin Fellhauers Bundesliga-Rekord.",
-   "clubs": [
-    40,
-    95
    ],
    "transfer": false
   },
@@ -103,19 +168,6 @@
    "clubs": [
     175,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/fuehrich-erloest-vfb-in-paderborn-spaet,spielbericht-sc-paderborn-vfb-stuttgart-102.html",
-   "title": "Bundesliga: Stuttgart feiert Arbeitssieg in Paderborn",
-   "link": "https://www.sportschau.de/fussball/bundesliga/fuehrich-erloest-vfb-in-paderborn-spaet,spielbericht-sc-paderborn-vfb-stuttgart-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-10T15:43:44Z",
-   "teaser": "Der VfB Stuttgart dominierte beim SC Paderborn diue erste Halbzeit, musste dann aber noch um den Sieg zittern.",
-   "clubs": [
-    16,
-    31
    ],
    "transfer": false
   },
@@ -147,11 +199,11 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194083/rb-leipzig_eintracht-frankfurt/liveticker",
-   "title": "Jetzt live - Leipziger Doppelschlag nach fünf Minuten gegen Frankfurt",
+   "title": "Jetzt live - Nkunku mit Hattrick gegen desolate Frankfurter",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194083/rb-leipzig_eintracht-frankfurt/liveticker",
    "source": "Sportschau",
    "published": "2026-10-10T15:35:02Z",
-   "teaser": "Im Samstagabend-Topspiel treffen Leipzig und Frankfurt aufeinander. Eintracht-Trainer Adi Hütter ist noch auf der Suche nach dem richtigen Spielsystem.",
+   "teaser": "RB Leipzig führt in der ersten Halbzeit mit 4:0 gegen Eintracht Frankfurt. Christopher Nkunku gelingt dabei ein lupenreiner Hattrick.",
    "clubs": [
     1635,
     91
