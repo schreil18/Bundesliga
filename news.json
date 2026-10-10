@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T21:48:27Z",
+ "updated": "2026-10-10T22:20:38Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,41 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/nagelsmann-geruechte-in-leipzig-davon-sind-wir-ganz-weit-entfernt-1260038/artikel",
+   "title": "Nagelsmann-Gerüchte in Leipzig: \"Davon sind wir ganz weit entfernt\"",
+   "link": "https://www.kicker.de/nagelsmann-geruechte-in-leipzig-davon-sind-wir-ganz-weit-entfernt-1260038/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T22:19:12Z",
+   "teaser": "Vor dem 6:0 gegen Frankfurt sorgte ein Medienbericht über Julian Nagelsmann für leichte Aufregung rund um RB Leipzig. Roger Schmidt dementiert die Gerüchte nun.",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-samstag-re-live-1010-100.html",
+   "title": "Die Sportschau am Samstag in voller Länge",
+   "link": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-samstag-re-live-1010-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T22:00:03Z",
+   "teaser": "Sehen Sie hier die Sportschau am Samstag in voller Länge. Mit unter anderem Bundesliga und 2. Bundesliga, sowie den Highlights der Premier-League-Partie zwischen dem FC Arsenal und Leeds United.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/martinez-lobt-andrich-er-hat-sich-nicht-nur-um-das-tor-gekuemmert-1260036/video",
+   "title": "Martinez lobt Andrich: \"Er hat sich nicht nur um das Tor gekümmert\"",
+   "link": "https://www.kicker.de/martinez-lobt-andrich-er-hat-sich-nicht-nur-um-das-tor-gekuemmert-1260036/video",
+   "source": "kicker",
+   "published": "2026-10-10T21:55:51Z",
+   "teaser": "Leverkusen-Trainer Carles Martínez freute sich für die Torschützen Moussa Diaby sowie Robert Andrich und betonte nochmals, wie wichtig der ehemalige Kapitän für den Bayer-Kader sei.",
+   "clubs": [
+    6
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/demichelis-nach-einem-sieg-ist-es-einfach-zu-sprechen-1260003/video",
    "title": "Demichelis: \"Nach einem Sieg ist es einfach, zu sprechen\"",
