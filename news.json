@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T05:48:50Z",
+ "updated": "2026-10-10T06:26:48Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/thioune-wenn-meine-mannschaft-eins-gelernt-hat-1259721/video",
+   "title": "Thioune: \"Wenn meine Mannschaft eins gelernt hat, ...\"",
+   "link": "https://www.kicker.de/thioune-wenn-meine-mannschaft-eins-gelernt-hat-1259721/video",
+   "source": "kicker",
+   "published": "2026-10-10T06:12:15Z",
+   "teaser": "Werder Bremen stand gegen den BVB kurz vor der Niederlage, ehe die Mannschaft mit zwei Treffern zum 2:2 das Remis rettete. Trainer Daniel Thioune lobte nach der wilden Schlussphase die kämpferische Leistung seines Teams.",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kovac-enttaeuscht-hatten-gegner-in-der-ecke-1259719/video",
+   "title": "Kovac enttäuscht: \"Hatten Gegner in der Ecke\"",
+   "link": "https://www.kicker.de/kovac-enttaeuscht-hatten-gegner-in-der-ecke-1259719/video",
+   "source": "kicker",
+   "published": "2026-10-10T06:06:58Z",
+   "teaser": "Erst belohnte sich Dortmund kurz vor Schluss gegen Werder mit zwei Toren, ehe man die Führung wenige Minuten später wieder hergab. Trainer Niko Kovac sprach dementsprechend im Anschluss von verlorenen zwei Punkten.",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/ein-voellig-neues-bremer-qualitaetsmerkmal-1259724/video",
    "title": "\"Ein völlig neues Bremer Qualitätsmerkmal\"",
