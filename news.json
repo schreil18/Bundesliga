@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T11:48:52Z",
+ "updated": "2026-10-10T12:25:39Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,123 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/rb-leipzig-gegen-eintracht-frankfurt,audiostream-rb-leipzig-gegen-eintracht-frankfurt-112.html",
+   "title": "Live hören: RB Leipzig gegen Eintracht Frankfurt - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/rb-leipzig-gegen-eintracht-frankfurt,audiostream-rb-leipzig-gegen-eintracht-frankfurt-112.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T16:15:00Z",
+   "teaser": "5. Spieltag: Anpfiff des Spiels ist am 10.10.2026 um 18:30 Uhr. Eintracht Frankfurt spielt in Leipzig.",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/1-fc-union-berlin-gegen-sv-07-elversberg,audiostream-1-fc-union-berlin-gegen-sv-07-elversberg-100.html",
+   "title": "Live hören: 1. FC Union Berlin gegen SV 07 Elversberg - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/1-fc-union-berlin-gegen-sv-07-elversberg,audiostream-1-fc-union-berlin-gegen-sv-07-elversberg-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T13:15:00Z",
+   "teaser": "5. Spieltag: Anpfiff des Spiels ist am 10.10.2026 um 15:30 Uhr. SV 07 Elversberg spielt in Berlin.",
+   "clubs": [
+    80,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-07-gegen-vfb-stuttgart,audiostream-sc-paderborn-07-gegen-vfb-stuttgart-102.html",
+   "title": "Live hören: SC Paderborn 07 gegen VfB Stuttgart - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-07-gegen-vfb-stuttgart,audiostream-sc-paderborn-07-gegen-vfb-stuttgart-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T13:15:00Z",
+   "teaser": "5. Spieltag: Anpfiff des Spiels ist am 10.10.2026 um 15:30 Uhr. VfB Stuttgart spielt in Paderborn.",
+   "clubs": [
+    16,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/1-fsv-mainz-05-gegen-bayer-leverkusen,audiostream-1-fsv-mainz-05-gegen-bayer-leverkusen-108.html",
+   "title": "Live hören: 1. FSV Mainz 05 gegen Bayer Leverkusen - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/1-fsv-mainz-05-gegen-bayer-leverkusen,audiostream-1-fsv-mainz-05-gegen-bayer-leverkusen-108.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T13:15:00Z",
+   "teaser": "5. Spieltag: Anpfiff des Spiels ist am 10.10.2026 um 15:30 Uhr. Bayer Leverkusen spielt in Mainz.",
+   "clubs": [
+    6,
+    81
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/fc-augsburg-gegen-bayern-muenchen,audiostream-fc-augsburg-gegen-bayern-muenchen-110.html",
+   "title": "Live hören: FC Augsburg gegen Bayern München - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/fc-augsburg-gegen-bayern-muenchen,audiostream-fc-augsburg-gegen-bayern-muenchen-110.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T13:15:00Z",
+   "teaser": "5. Spieltag: Anpfiff des Spiels ist am 10.10.2026 um 15:30 Uhr. Bayern München spielt in Augsburg.",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/tsg-hoffenheim-gegen-hamburger-sv,audiostream-tsg-hoffenheim-gegen-hamburger-sv-100.html",
+   "title": "Live hören: TSG Hoffenheim gegen Hamburger SV - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/tsg-hoffenheim-gegen-hamburger-sv,audiostream-tsg-hoffenheim-gegen-hamburger-sv-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T13:15:00Z",
+   "teaser": "5. Spieltag: Anpfiff des Spiels ist am 10.10.2026 um 15:30 Uhr. Hamburger SV spielt in Sinsheim.",
+   "clubs": [
+    175,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/5-spieltag-die-konferenz,audiostream-5-spieltag-die-konferenz-138.html",
+   "title": "Live hören: Die Konferenz - 5. Spieltag | Fußball Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/5-spieltag-die-konferenz,audiostream-5-spieltag-die-konferenz-138.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T13:10:00Z",
+   "teaser": "Bundesliga live - alle Spiele am 10.10.2026 um 15:30 Uhr in der Konferenz.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/regenschlacht-von-nuernberg-absurde-szenen-und-ein-historischer-spielabbruch-1259808/video",
+   "title": "Regenschlacht von Nürnberg: Absurde Szenen und ein historischer Spielabbruch",
+   "link": "https://www.kicker.de/regenschlacht-von-nuernberg-absurde-szenen-und-ein-historischer-spielabbruch-1259808/video",
+   "source": "kicker",
+   "published": "2026-10-10T11:53:59Z",
+   "teaser": "2008 wurde das Spiel zwischen dem 1. FC Nürnberg und dem VfL Wolfsburg abgebrochen - der erste Spielabbruch der Bundesliga-Geschichte aufgrund von Regen. Das Wiederholungsspiel gewann der Club mit 1:0.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3900/",
+   "title": "Ab 15.30 Uhr live - Bayrisches Spitzenspiel, HSV in Hoffenheim",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3900/",
+   "source": "Sportschau",
+   "published": "2026-10-10T10:47:34Z",
+   "teaser": "Am Samstag-Nachmittag empfängt Augsburg die Bayern. Union Berlin spielt zuhause gegen Elversberg und Stuttgart reist nach Paderborn.",
+   "clubs": [
+    40,
+    16,
+    175,
+    95,
+    80,
+    100,
+    31,
+    198
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/dortmunds-punktverlust-zwei-klassiker-und-ein-ausrutscher-1259749/artikel",
    "title": "Dortmunds Punktverlust: Zwei Klassiker und ein Ausrutscher",
