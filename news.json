@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T13:48:43Z",
+ "updated": "2026-10-10T14:20:40Z",
  "sources": [
   {
    "name": "kicker",
@@ -25,6 +25,36 @@
    "clubs": [
     1635,
     91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-bayern-rennt-fca-blitztor-hinterher-doppelter-caci-meldet-mainz-zurueck-1259164/artikel",
+   "title": "LIVE! Bayern rennt FCA-Blitztor hinterher - Doppelter Caci meldet Mainz zurück",
+   "link": "https://www.kicker.de/live-bayern-rennt-fca-blitztor-hinterher-doppelter-caci-meldet-mainz-zurueck-1259164/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T14:13:35Z",
+   "teaser": "Am ersten Bundesliga-Samstag nach der Länderspielpause sind für die Bayern drei Punkte in Augsburg fest eingeplant. Unter anderem empfängt auch Mainz Leverkusen, die SVE ist bei Union zu Gast.",
+   "clubs": [
+    40,
+    6,
+    81,
+    95,
+    80,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/neuer-patzt-fellhauer-erzielt-schnellstes-tor-der-bundesliga-geschichte-1259836/artikel",
+   "title": "Neuer patzt: Fellhauer erzielt schnellstes Tor der Bundesliga-Geschichte",
+   "link": "https://www.kicker.de/neuer-patzt-fellhauer-erzielt-schnellstes-tor-der-bundesliga-geschichte-1259836/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T14:11:14Z",
+   "teaser": "Am 5. Spieltag der laufenden Bundesliga-Saison wurde Geschichte geschrieben: Augsburgs Robin Fellhauer erzielte gegen den FC Bayern München das schnellste Tor der Bundesliga-Geschichte. Er nutzte nach lediglich acht Sekunden einen Patzer …",
+   "clubs": [
+    40,
+    95
    ],
    "transfer": false
   },
@@ -167,15 +197,15 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3900/",
-   "title": "Jetzt live - Neuer patzt direkt nach Anpfiff, Leverkusen fulminant",
+   "title": "Jetzt live - Schnellster Treffer der Bundesliga nach Neuer-Patzer",
    "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3900/",
    "source": "Sportschau",
    "published": "2026-10-10T10:47:34Z",
-   "teaser": "Ein schlimmer Patzer von Manuel Neuer bringt dem FC Augsburg nach wenigen Sekunden die Führung. Leverkusen trifft in Mainz nach neun Minuten doppelt.",
+   "teaser": "Ein Patzer von Manuel Neuer bringt dem FC Augsburg nach acht Sekunden die Führung - es ist das schnellste Tor der Bundesliga-Geschichte. HSV und VfB in Führung.",
    "clubs": [
-    6,
-    81,
-    95
+    16,
+    95,
+    100
    ],
    "transfer": false
   },
