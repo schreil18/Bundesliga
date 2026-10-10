@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T14:20:40Z",
+ "updated": "2026-10-10T14:48:15Z",
  "sources": [
   {
    "name": "kicker",
@@ -29,6 +29,34 @@
    "transfer": false
   },
   {
+   "id": "https://www.kicker.de/live-kane-laesst-das-1-1-aus-doppelter-caci-meldet-mainz-zurueck-hsv-eigentor-1259164/artikel",
+   "title": "LIVE! Kane lässt das 1:1 aus - Doppelter Caci meldet Mainz zurück - HSV-Eigentor",
+   "link": "https://www.kicker.de/live-kane-laesst-das-1-1-aus-doppelter-caci-meldet-mainz-zurueck-hsv-eigentor-1259164/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T14:30:00Z",
+   "teaser": "Am ersten Bundesliga-Samstag nach der Länderspielpause sind für die Bayern drei Punkte in Augsburg fest eingeplant. Unter anderem empfängt auch Mainz Leverkusen, die SVE ist bei Union zu Gast.",
+   "clubs": [
+    40,
+    6,
+    81,
+    95,
+    80,
+    100,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/die-schnellsten-tore-der-bundesliga-geschichte-1259839/slideshow",
+   "title": "Die schnellsten Tore der Bundesliga-Geschichte",
+   "link": "https://www.kicker.de/die-schnellsten-tore-der-bundesliga-geschichte-1259839/slideshow",
+   "source": "kicker",
+   "published": "2026-10-10T14:21:49Z",
+   "teaser": "Mit dem 5. Spieltag der Saison 2026/27 gibt es einen neuen Spitzenreiter: Hier kommen die Top-10 der Blitzstarter im deutschen Oberhaus.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/live-bayern-rennt-fca-blitztor-hinterher-doppelter-caci-meldet-mainz-zurueck-1259164/artikel",
    "title": "LIVE! Bayern rennt FCA-Blitztor hinterher - Doppelter Caci meldet Mainz zurück",
    "link": "https://www.kicker.de/live-bayern-rennt-fca-blitztor-hinterher-doppelter-caci-meldet-mainz-zurueck-1259164/artikel",
@@ -52,6 +80,19 @@
    "source": "kicker",
    "published": "2026-10-10T14:11:14Z",
    "teaser": "Am 5. Spieltag der laufenden Bundesliga-Saison wurde Geschichte geschrieben: Augsburgs Robin Fellhauer erzielte gegen den FC Bayern München das schnellste Tor der Bundesliga-Geschichte. Er nutzte nach lediglich acht Sekunden einen Patzer …",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/neuer-kassiert-schnellstes-tor-der-bundesliga-geschichte,neuer-tor-100.html",
+   "title": "Neuer kassiert schnellstes Tor der Bundesliga-Geschichte",
+   "link": "https://www.sportschau.de/fussball/bundesliga/neuer-kassiert-schnellstes-tor-der-bundesliga-geschichte,neuer-tor-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T14:03:30Z",
+   "teaser": "Der FC Augsburg trifft gegen den FC Bayern nach acht Sekunden. Das heißt: Manuel Neuer kassiert das schnellste Tor der Bundesliga-Geschichte.",
    "clubs": [
     40,
     95
@@ -201,11 +242,11 @@
    "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3900/",
    "source": "Sportschau",
    "published": "2026-10-10T10:47:34Z",
-   "teaser": "Ein Patzer von Manuel Neuer bringt dem FC Augsburg nach acht Sekunden die Führung - es ist das schnellste Tor der Bundesliga-Geschichte. HSV und VfB in Führung.",
+   "teaser": "Ein Patzer von Manuel Neuer bringt dem FC Augsburg nach acht Sekunden die Führung - es ist das schnellste Tor der Bundesliga-Geschichte. Stuttgart führt in Paderborn.",
    "clubs": [
     16,
     95,
-    100
+    31
    ],
    "transfer": false
   },
