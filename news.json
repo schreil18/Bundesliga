@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T18:23:46Z",
+ "updated": "2026-10-10T18:51:59Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,82 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/nkunkus-hattrick-duepiert-eine-ganz-schwache-eintracht,spielbericht-rb-leipzig-eintracht-frankfurt-106.html",
+   "title": "Nkunkus Hattrick düpiert eine ganz schwache Eintracht",
+   "link": "https://www.sportschau.de/fussball/bundesliga/nkunkus-hattrick-duepiert-eine-ganz-schwache-eintracht,spielbericht-rb-leipzig-eintracht-frankfurt-106.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T18:35:05Z",
+   "teaser": "RB Leipzig feiert einen Kantersieg gegen eine ganz schwache Frankfurter Eintracht. Christopher Nkunku sorgte mit einem Hattrick schon vor der Pause für klare Verhältnisse.",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kompany-zu-neuer-er-weiss-wie-er-damit-umgehen-muss-1259945/video",
+   "title": "Kompany zu Neuer: \"Er weiß, wie er damit umgehen muss\"",
+   "link": "https://www.kicker.de/kompany-zu-neuer-er-weiss-wie-er-damit-umgehen-muss-1259945/video",
+   "source": "kicker",
+   "published": "2026-10-10T18:24:09Z",
+   "teaser": "Bayern-Coach Vincent Kompany erklärte nach der Partie, dass er beim Fehler von Manuel Neuer in die andere Richtung geschaut hatte. Er wollte die Situation aber auch nicht zu hoch hängen.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kompany-ueber-abseitsentscheidungen-geht-um-millimeter-und-details-1259944/video",
+   "title": "Kompany über Abseitsentscheidungen: \"Geht um Millimeter und Details\"",
+   "link": "https://www.kicker.de/kompany-ueber-abseitsentscheidungen-geht-um-millimeter-und-details-1259944/video",
+   "source": "kicker",
+   "published": "2026-10-10T18:23:18Z",
+   "teaser": "Ganze vier Treffer wurden dem FC Bayern gegen den FC Augsburg nach Abseitssituationen aberkannt. Trainer Vincent Kompany sprach deshalb trotz des Remis von einem \"schönen Spiel\".",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/baum-ueber-vier-aberkannte-bayern-tore-habe-ich-noch-nie-erlebt-1259943/video",
+   "title": "Baum über vier aberkannte Bayern-Tore: \"Habe ich noch nie erlebt\"",
+   "link": "https://www.kicker.de/baum-ueber-vier-aberkannte-bayern-tore-habe-ich-noch-nie-erlebt-1259943/video",
+   "source": "kicker",
+   "published": "2026-10-10T18:23:16Z",
+   "teaser": "Augsburg-Coach Manuel Baum musste anhand von vier aberkannten Bayern-Toren auf der PK nach dem Spiel beinahe schmunzeln. Für sein Team fand er ausschließlich positive Worte.",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/blitzstart-und-nkunku-hattrick-leipzig-zerlegt-frankfurt-1259165/artikel",
+   "title": "Blitzstart und Nkunku-Hattrick: Leipzig zerlegt Frankfurt",
+   "link": "https://www.kicker.de/blitzstart-und-nkunku-hattrick-leipzig-zerlegt-frankfurt-1259165/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T18:23:13Z",
+   "teaser": "Sowohl Leipzig als auch Frankfurt haben einen für die eigenen Verhältnisse mäßigen Saisonstart hingelegt, zumindest RB diesen aber fulminant korrigiert. Mit einem Tor in der ersten Minute, einem Nkunku-Hattrick und noch zwei Toren in …",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wer-sollte-am-dienstag-im-bayern-tor-stehen-1259941/artikel",
+   "title": "Wer sollte am Dienstag im Bayern-Tor stehen?",
+   "link": "https://www.kicker.de/wer-sollte-am-dienstag-im-bayern-tor-stehen-1259941/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T18:18:25Z",
+   "teaser": "Manuel Neuer hat bereits eine \"Vorahnung\": Auf welchen Torhüter sollte Bayern-Trainer Vincent Kompany am Dienstag in Stavanger setzen? Hier geht es zu unserer Umfrage.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/neuer-beim-zweiten-gegentor-bin-ich-machtlos-1259937/artikel",
    "title": "Neuer: \"Beim zweiten Gegentor bin ich machtlos\"",
@@ -108,7 +184,7 @@
    "link": "https://www.sportschau.de/fussball/bundesliga/neuer-kassiert-schnellstes-tor-der-bundesliga-geschichte,neuer-tor-100.html",
    "source": "Sportschau",
    "published": "2026-10-10T17:08:54Z",
-   "teaser": "Der FC Augsburg trifft gegen den FC Bayern nach acht Sekunden. Manuel Neuer ermöglichte das schnellste Tor der Bundesliga-Geschichte mit einem Patzer.",
+   "teaser": "Der FC Augsburg erzielt gegen den FC Bayern das schnellste Tor der Bundesliga-Geschichte. Manuel Neuer ermöglicht es mit einem Patzer.",
    "clubs": [
     40,
     95
