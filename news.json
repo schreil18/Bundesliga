@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T17:47:32Z",
+ "updated": "2026-10-10T18:23:46Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,41 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/neuer-beim-zweiten-gegentor-bin-ich-machtlos-1259937/artikel",
+   "title": "Neuer: \"Beim zweiten Gegentor bin ich machtlos\"",
+   "link": "https://www.kicker.de/neuer-beim-zweiten-gegentor-bin-ich-machtlos-1259937/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T18:09:35Z",
+   "teaser": "Nach einem der schwächsten Spiele seiner Bundesliga-Karriere wich Manuel Neuer einer Analyse nicht aus, fühlte sich aber nur für ein Gegentor verantwortlich - und hatte eine \"Vorahnung\" für Dienstag.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/muheim-wird-zum-hsv-helden-er-kam-er-brauchte-ein-bisschen-er-siegte-1259933/video",
+   "title": "Muheim wird zum HSV-Helden: \"Er kam, er brauchte ein bisschen, er siegte\"",
+   "link": "https://www.kicker.de/muheim-wird-zum-hsv-helden-er-kam-er-brauchte-ein-bisschen-er-siegte-1259933/video",
+   "source": "kicker",
+   "published": "2026-10-10T17:53:19Z",
+   "teaser": "Miro Muheim nutzte seinen ersten Saisoneinsatz direkt dazu, der Held des Tages für den HSV zu werden. Mit einer Vorlage und einem Treffer sicherte er den Rothosen den Sieg.",
+   "clubs": [
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-voellig-frei-gomis-laesst-das-6-0-liegen-1259165/artikel",
+   "title": "LIVE! Völlig frei: Gomis lässt das 6:0 liegen",
+   "link": "https://www.kicker.de/live-voellig-frei-gomis-laesst-das-6-0-liegen-1259165/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T17:45:19Z",
+   "teaser": "Sowohl RB Leipzig als auch die Eintracht aus Frankfurt haben einen für die eigenen Verhältnisse mäßigen Saisonstart hingelegt. Im direkten Duell wollen nun beide klettern.",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/kollektives-aufatmen-bei-union-bedeutung-ist-fundamental-1259928/video",
    "title": "Kollektives Aufatmen bei Union: \"Bedeutung ist fundamental\"",
@@ -255,7 +290,7 @@
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194083/rb-leipzig_eintracht-frankfurt/liveticker",
    "source": "Sportschau",
    "published": "2026-10-10T15:35:02Z",
-   "teaser": "RB Leipzig führt gegen Eintracht Frankfurt mit 5:0. Christopher Nkunku gelingt in der ersten Halbzeit ein lupenreiner Hattrick.",
+   "teaser": "RB Leipzig führt gegen Eintracht Frankfurt mit 6:0. Christopher Nkunku gelingt in der ersten Halbzeit ein lupenreiner Hattrick.",
    "clubs": [
     1635,
     91
