@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T16:21:06Z",
+ "updated": "2026-10-10T16:49:15Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/live-nkunku-legt-gleich-nach-leipziger-blitzstart-1259165/artikel",
+   "title": "LIVE! Nkunku legt gleich nach: Leipziger Blitzstart",
+   "link": "https://www.kicker.de/live-nkunku-legt-gleich-nach-leipziger-blitzstart-1259165/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T16:32:24Z",
+   "teaser": "Sowohl RB Leipzig als auch die Eintracht aus Frankfurt haben einen für die eigenen Verhältnisse mäßigen Saisonstart hingelegt. Im direkten Duell wollen nun beide klettern.",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/neuer-patzt-fellhauer-erzielt-schnellstes-tor-der-bundesliga-geschichte-1259836/artikel",
+   "title": "Neuer patzt: Fellhauer erzielt schnellstes Tor der Bundesliga-Geschichte",
+   "link": "https://www.kicker.de/neuer-patzt-fellhauer-erzielt-schnellstes-tor-der-bundesliga-geschichte-1259836/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T16:32:04Z",
+   "teaser": "Am 5. Spieltag der laufenden Bundesliga-Saison wurde Geschichte geschrieben: Augsburgs Robin Fellhauer erzielte gegen den FC Bayern München das schnellste Tor der Bundesliga-Geschichte. Er nutzte nach lediglich acht Sekunden einen Patzer …",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/union-feiert-gegen-elversberg-ersten-saisonsieg,spielbericht-union-berlin-sv-elversberg-100.html",
    "title": "Fußball-Bundesliga: Union Berlin besiegt die SV Elversberg",
@@ -121,7 +147,7 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194083/rb-leipzig_eintracht-frankfurt/liveticker",
-   "title": "Ab 18.30 Uhr live - RB Leipzig empfängt Hütters Frankfurter",
+   "title": "Jetzt live - Leipziger Doppelschlag nach fünf Minuten gegen Frankfurt",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194083/rb-leipzig_eintracht-frankfurt/liveticker",
    "source": "Sportschau",
    "published": "2026-10-10T15:35:02Z",
@@ -145,6 +171,24 @@
     16,
     81,
     95,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bayern-rettet-nach-neuer-patzer-einen-zaehler-bayer-spektakel-in-mainz-hsv-in-letzter-sekunde-1259164/artikel",
+   "title": "Bayern rettet nach Neuer-Patzer einen Zähler - Bayer-Spektakel in Mainz - HSV in letzter Sekunde",
+   "link": "https://www.kicker.de/bayern-rettet-nach-neuer-patzer-einen-zaehler-bayer-spektakel-in-mainz-hsv-in-letzter-sekunde-1259164/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T15:32:41Z",
+   "teaser": "Der FC Bayern geriet historisch früh durch einen Neuer-Patzer in Rückstand, am Ende stand ein Remis in Augsburg. Der VfB atmet nach dem Sieg in Paderborn auf. Ein Spektakel lieferten sich Mainz und Leverkusen, mit dem besseren Ende für …",
+   "clubs": [
+    40,
+    6,
+    16,
+    81,
+    95,
+    100,
     31
    ],
    "transfer": false
@@ -209,19 +253,6 @@
     95,
     80,
     198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/neuer-patzt-fellhauer-erzielt-schnellstes-tor-der-bundesliga-geschichte-1259836/artikel",
-   "title": "Neuer patzt: Fellhauer erzielt schnellstes Tor der Bundesliga-Geschichte",
-   "link": "https://www.kicker.de/neuer-patzt-fellhauer-erzielt-schnellstes-tor-der-bundesliga-geschichte-1259836/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T14:11:14Z",
-   "teaser": "Am 5. Spieltag der laufenden Bundesliga-Saison wurde Geschichte geschrieben: Augsburgs Robin Fellhauer erzielte gegen den FC Bayern München das schnellste Tor der Bundesliga-Geschichte. Er nutzte nach lediglich acht Sekunden einen Patzer …",
-   "clubs": [
-    40,
-    95
    ],
    "transfer": false
   },
