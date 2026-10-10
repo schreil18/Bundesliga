@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T09:21:33Z",
+ "updated": "2026-10-10T09:49:08Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/dortmunds-punktverlust-zwei-klassiker-und-ein-ausrutscher-1259749/artikel",
+   "title": "Dortmunds Punktverlust: Zwei Klassiker und ein Ausrutscher",
+   "link": "https://www.kicker.de/dortmunds-punktverlust-zwei-klassiker-und-ein-ausrutscher-1259749/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T09:36:23Z",
+   "teaser": "Borussia Dortmund zeigt gegen Werder Bremen erst bekannte Stärken und Schwächen, dann aber ein verloren geglaubtes Gesicht. Acht Minuten Nachlässigkeit kosten am Ende zwei Punkte.",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/fuellkrug-ist-ne-richtige-kante-kovac-kritisiert-foul-pfiff-1259742/video",
    "title": "\"Füllkrug ist 'ne richtige Kante\": Kovac kritisiert Foul-Pfiff",
