@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T15:20:41Z",
+ "updated": "2026-10-10T15:48:42Z",
  "sources": [
   {
    "name": "kicker",
@@ -25,6 +25,114 @@
    "clubs": [
     1635,
     91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-nach-neuer-klops-fc-bayern-patzt-erneut-gegen-angstgegner-fca-102.html",
+   "title": "Historischer Neuer-Patzer bei Remis in Augsburg",
+   "link": "https://www.sportschau.de/regional/br/br-nach-neuer-klops-fc-bayern-patzt-erneut-gegen-angstgegner-fca-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T15:45:46Z",
+   "teaser": "Nach der Länderspielpause patzt der FC Bayern München im bayerischen Bundesliga-Duell beim Angstgegner FC Augsburg. Im Mittelpunkt: Manuel Neuer und Robin Fellhauers Bundesliga-Rekord.",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/fuehrich-erloest-vfb-in-paderborn-spaet,spielbericht-sc-paderborn-vfb-stuttgart-102.html",
+   "title": "Bundesliga: Stuttgart feiert Arbeitssieg in Paderborn",
+   "link": "https://www.sportschau.de/fussball/bundesliga/fuehrich-erloest-vfb-in-paderborn-spaet,spielbericht-sc-paderborn-vfb-stuttgart-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T15:43:44Z",
+   "teaser": "Der VfB Stuttgart dominierte beim SC Paderborn diue erste Halbzeit, musste dann aber noch um den Sieg zittern.",
+   "clubs": [
+    16,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-leipzig-winkt-tabellensprung-gruda-auf-der-bank-1259165/artikel",
+   "title": "LIVE! Leipzig winkt Tabellensprung - Gruda auf der Bank",
+   "link": "https://www.kicker.de/live-leipzig-winkt-tabellensprung-gruda-auf-der-bank-1259165/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T15:39:23Z",
+   "teaser": "Sowohl RB Leipzig als auch die Eintracht aus Frankfurt haben einen für die eigenen Verhältnisse mäßigen Saisonstart hingelegt. Im direkten Duell wollen nun beide klettern.",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194083/rb-leipzig_eintracht-frankfurt/liveticker",
+   "title": "Ab 18.30 Uhr live - RB Leipzig empfängt Hütters Frankfurter",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194083/rb-leipzig_eintracht-frankfurt/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-10T15:35:02Z",
+   "teaser": "Im Samstagabend-Topspiel treffen Leipzig und Frankfurt aufeinander. Eintracht-Trainer Adi Hütter ist noch auf der Suche nach dem richtigen Spielsystem.",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
+   "title": "Drei Tore reichen Mainz nicht zum ersten Heimsieg",
+   "link": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T15:33:32Z",
+   "teaser": "Bayer Leverkusen hat in der Bundesliga einen Sieg in Mainz eingefahren. Dabei wehrten sich die Rheinhessen nach Kräften, doch auch drei Tore reichten nicht zum Punktgewinn.",
+   "clubs": [
+    6,
+    81
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/union-feiert-gegen-elversberg-ersten-saisonsieg,spielbericht-union-berlin-sv-elversberg-100.html",
+   "title": "Fußball-Bundesliga: Union Berlin besiegt die SV Elversberg",
+   "link": "https://www.sportschau.de/fussball/bundesliga/union-feiert-gegen-elversberg-ersten-saisonsieg,spielbericht-union-berlin-sv-elversberg-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T15:33:26Z",
+   "teaser": "Joker Livan Burcu bricht gegen Elversberg den Bann und ermöglicht Union Berlin den lang ersehnten ersten Saisonsieg.",
+   "clubs": [
+    80,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bayern-rettet-nach-neuer-patzer-einen-zaehler-bayer-verspielt-2-0-und-siegt-dennoch-muheim-in-letzter-sekunde-1259164/artikel",
+   "title": "Bayern rettet nach Neuer-Patzer einen Zähler - Bayer verspielt 2:0 und siegt dennoch - Muheim in letzter Sekunde",
+   "link": "https://www.kicker.de/bayern-rettet-nach-neuer-patzer-einen-zaehler-bayer-verspielt-2-0-und-siegt-dennoch-muheim-in-letzter-sekunde-1259164/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T15:32:41Z",
+   "teaser": "Der FC Bayern geriet historisch früh durch einen Neuer-Patzer in Rückstand, am Ende stand ein Remis in Augsburg. Der VfB atmet nach dem Sieg in Paderborn auf. Ein Spektakel lieferten sich Mainz und Leverkusen, mit dem besseren Ende für …",
+   "clubs": [
+    40,
+    6,
+    16,
+    81,
+    95,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
+   "title": "Muheims Traumtor gegen Hoffenheim lässt Hamburg eskalieren",
+   "link": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-10T15:31:53Z",
+   "teaser": "Mehrere zurückgenommene Treffer, ein Platzverweis, eine Verletzung und ein spätes Traumtor zum Sieg - die Partie zwischen Hoffenheim und Hamburg hatte wirklich alles.",
+   "clubs": [
+    175,
+    100
    ],
    "transfer": false
   },
