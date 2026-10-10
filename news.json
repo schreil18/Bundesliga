@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T19:47:38Z",
+ "updated": "2026-10-10T20:20:28Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,15 +16,54 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/nkunku-schafft-historisches-aber-dazu-gehoert-auch-ein-gegner-1259995/video",
+   "title": "Nkunku schafft Historisches, aber \"dazu gehört auch ein Gegner\"",
+   "link": "https://www.kicker.de/nkunku-schafft-historisches-aber-dazu-gehoert-auch-ein-gegner-1259995/video",
+   "source": "kicker",
+   "published": "2026-10-10T20:12:10Z",
+   "teaser": "Während RB Leipzig die Länderspielpause gut genutzt zu haben scheint, bleiben die Defensiv-Probleme bei Frankfurt massiv. Der Samstagabend verlief besonders für Christopher Nkunku wie gemalt.",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/nkunkus-hattrick-duepiert-eine-ganz-schwache-eintracht,spielbericht-rb-leipzig-eintracht-frankfurt-106.html",
    "title": "Nkunkus Hattrick düpiert eine ganz schwache Eintracht",
    "link": "https://www.sportschau.de/fussball/bundesliga/nkunkus-hattrick-duepiert-eine-ganz-schwache-eintracht,spielbericht-rb-leipzig-eintracht-frankfurt-106.html",
    "source": "Sportschau",
-   "published": "2026-10-10T19:32:50Z",
+   "published": "2026-10-10T19:55:46Z",
    "teaser": "RB Leipzig feiert einen Kantersieg gegen eine ganz schwache Frankfurter Eintracht. Christopher Nkunku sorgte mit einem Hattrick schon vor der Pause für klare Verhältnisse.",
    "clubs": [
     1635,
     91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/burkardt-schaeumt-nach-debakel-die-fuehrungsspieler-haben-heute-wieder-versagt-1259960/artikel",
+   "title": "Burkardt schäumt nach Debakel: \"Die Führungsspieler haben heute wieder versagt\"",
+   "link": "https://www.kicker.de/burkardt-schaeumt-nach-debakel-die-fuehrungsspieler-haben-heute-wieder-versagt-1259960/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T19:54:46Z",
+   "teaser": "Einmal mehr kam Eintracht Frankfurt in Leipzig unter die Räder, wieder setzte es eine 0:6-Pleite. Trainer Adi Hütter und Jonathan Burkardt adressierten deutliche Worte an die Mannschaft, Sportvorstand Markus Krösche beschwichtigte.",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kettemann-hadert-mit-chancenverwertung-duerfen-angepisst-sein-1259979/video",
+   "title": "Kettemann hadert mit Chancenverwertung: \"Dürfen angepisst sein\"",
+   "link": "https://www.kicker.de/kettemann-hadert-mit-chancenverwertung-duerfen-angepisst-sein-1259979/video",
+   "source": "kicker",
+   "published": "2026-10-10T19:40:10Z",
+   "teaser": "Paderborn-Trainer Ralf Kettemann spricht nach der 0:2-Niederlage gegen Stuttgart über die Chancenverwertung, war jedoch insgesamt happy, wie sich die junge SC-Truppe in die Partie reingeboxt hat.",
+   "clubs": [
+    16,
+    31
    ],
    "transfer": false
   },
