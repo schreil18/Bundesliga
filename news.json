@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T12:25:39Z",
+ "updated": "2026-10-10T12:54:17Z",
  "sources": [
   {
    "name": "kicker",
@@ -104,6 +104,24 @@
    "transfer": false
   },
   {
+   "id": "https://www.kicker.de/live-bayern-gastiert-beim-fca-karazor-startet-in-paderborn-naechster-sieg-fuer-elversberg-1259164/artikel",
+   "title": "LIVE! Bayern gastiert beim FCA - Karazor startet in Paderborn - Nächster Sieg für Elversberg?",
+   "link": "https://www.kicker.de/live-bayern-gastiert-beim-fca-karazor-startet-in-paderborn-naechster-sieg-fuer-elversberg-1259164/artikel",
+   "source": "kicker",
+   "published": "2026-10-10T12:31:29Z",
+   "teaser": "Am ersten Bundesliga-Samstag nach der Länderspielpause sind für die Bayern drei Punkte in Augsburg fest eingeplant. Unter anderem empfängt auch Mainz Leverkusen, die SVE ist bei Union zu Gast.",
+   "clubs": [
+    40,
+    6,
+    81,
+    95,
+    80,
+    31,
+    198
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/regenschlacht-von-nuernberg-absurde-szenen-und-ein-historischer-spielabbruch-1259808/video",
    "title": "Regenschlacht von Nürnberg: Absurde Szenen und ein historischer Spielabbruch",
    "link": "https://www.kicker.de/regenschlacht-von-nuernberg-absurde-szenen-und-ein-historischer-spielabbruch-1259808/video",
@@ -115,7 +133,7 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3900/",
-   "title": "Ab 15.30 Uhr live - Bayrisches Spitzenspiel, HSV in Hoffenheim",
+   "title": "Ab 15.30 Uhr live - FC Bayern topbesetzt in Augsburg, HSV in Hoffenheim",
    "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3900/",
    "source": "Sportschau",
    "published": "2026-10-10T10:47:34Z",
@@ -487,6 +505,19 @@
    "id": "https://www.kicker.de/muslic-veraergert-und-hoffnungsvoll-sylla-soll-die-sturmflaute-beenden-1259599/video",
    "title": "Muslic verärgert und hoffnungsvoll: Sylla soll die Sturmflaute beenden",
    "link": "https://www.kicker.de/muslic-veraergert-und-hoffnungsvoll-sylla-soll-die-sturmflaute-beenden-1259599/video",
+   "source": "kicker",
+   "published": "2026-10-09T13:21:11Z",
+   "teaser": "Schalke gastiert am Sonntagabend in Freiburg. Nachdem zahlreiche Profis weite Reisen in der Länderspielpause auf sich nehmen mussten, hofft Coach Miron Muslic trotzdem auf frische Beine und Stürmer Moussa Sylla.",
+   "clubs": [
+    112,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/muslic-kritisch-und-hoffnungsvoll-sylla-soll-die-sturmflaute-beenden-1259599/video",
+   "title": "Muslic kritisch und hoffnungsvoll: Sylla soll die Sturmflaute beenden",
+   "link": "https://www.kicker.de/muslic-kritisch-und-hoffnungsvoll-sylla-soll-die-sturmflaute-beenden-1259599/video",
    "source": "kicker",
    "published": "2026-10-09T13:21:11Z",
    "teaser": "Schalke gastiert am Sonntagabend in Freiburg. Nachdem zahlreiche Profis weite Reisen in der Länderspielpause auf sich nehmen mussten, hofft Coach Miron Muslic trotzdem auf frische Beine und Stürmer Moussa Sylla.",
