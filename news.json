@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T18:52:56Z",
+ "updated": "2026-10-11T19:20:28Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,32 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/el-mala-ueber-befreiungsschlag-und-was-ihm-am-gladbacher-jubel-missfallen-hat-1260265/artikel",
+   "title": "El Mala über Befreiungsschlag und was ihm am Gladbacher Jubel missfallen hat",
+   "link": "https://www.kicker.de/el-mala-ueber-befreiungsschlag-und-was-ihm-am-gladbacher-jubel-missfallen-hat-1260265/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T18:53:25Z",
+   "teaser": "Said El Mala führte den 1. FC Köln mit seinem Tor zum 2:1 zum Derbysieg über Gladbach. Der 20-Jährige verriet anschließend, wie emotional das Spiel für ihn war - und welche Bedeutung sein Treffer hat.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/koeln-muss-laenger-auf-skhiri-verzichten-1260219/artikel",
+   "title": "Köln muss länger auf Skhiri verzichten",
+   "link": "https://www.kicker.de/koeln-muss-laenger-auf-skhiri-verzichten-1260219/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T18:49:12Z",
+   "teaser": "Der 1. FC Köln muss länger auf Ellyes Skhiri verzichten, was am Sonntagabend eine MRT-Untersuchung ergab. Im Rheinderby gegen Borussia Mönchengladbach war er nach einem Foul heftig umgeknickt und musste vom Feld getragen werden.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
    "title": "Keisuke Goto köpft SC Freiburg gegen Schalke an die Spitze",
    "link": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
@@ -25,6 +51,31 @@
    "clubs": [
     112,
     9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/muessen-da-kante-zeigen-und-stehen-bleiben-blessin-erklaert-szene-mit-fans-1260321/video",
+   "title": "\"Müssen da Kante zeigen und stehen bleiben\": Blessin erklärt Szene mit Fans",
+   "link": "https://www.kicker.de/muessen-da-kante-zeigen-und-stehen-bleiben-blessin-erklaert-szene-mit-fans-1260321/video",
+   "source": "kicker",
+   "published": "2026-10-11T18:22:15Z",
+   "teaser": "Nach der enttäuschenden Derbypleite gegen Köln stellte sich Alexander Blessin bei den Fans demonstrativ vor die Gladbacher Mannschaft. Der neue Trainer erklärte im Anschluss, welche Botschaft er damit senden wollte.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/diskriminierungsvorwuerfe-haertel-legt-amt-als-u-19-trainer-bei-union-berlin-nieder-1260290/artikel",
+   "title": "Diskriminierungsvorwürfe: Härtel legt Amt als U-19-Trainer bei Union Berlin nieder",
+   "link": "https://www.kicker.de/diskriminierungsvorwuerfe-haertel-legt-amt-als-u-19-trainer-bei-union-berlin-nieder-1260290/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T17:53:16Z",
+   "teaser": "Jens Härtel ist nach nur knapp fünf Monaten als Trainer der U 19 des 1. FC Union Berlin zurückgetreten. Grund dafür sind schwere Vorwürfe gegen den Coach.",
+   "clubs": [
+    80
    ],
    "transfer": false
   },
@@ -79,19 +130,6 @@
     7,
     112,
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/el-mala-ueber-befreiungsschlag-und-was-ihm-am-gladbacher-jubel-missfallen-hat-1260265/artikel",
-   "title": "El Mala über Befreiungsschlag und was ihm am Gladbacher Jubel missfallen hat",
-   "link": "https://www.kicker.de/el-mala-ueber-befreiungsschlag-und-was-ihm-am-gladbacher-jubel-missfallen-hat-1260265/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T17:17:51Z",
-   "teaser": "Said El Mala führte den 1. FC Köln mit seinem Tor zum 2:1 zum Derbysieg über Gladbach. Der 20-Jährige verriet anschließend, wie emotional das Spiel für ihn war - und welche Bedeutung sein Treffer hat.",
-   "clubs": [
-    87,
-    65
    ],
    "transfer": false
   },
@@ -2532,42 +2570,6 @@
    "clubs": [
     175,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/ndr/fc-st-pauli-viel-applaus-fuer-ex-coach-blessin,pauli-668.html",
-   "title": "FC St. Pauli gegen Borussia Mönchengladbach - Viel Applaus für Ex-Coach Blessin",
-   "link": "https://www.sportschau.de/regional/ndr/fc-st-pauli-viel-applaus-fuer-ex-coach-blessin,pauli-668.html",
-   "source": "Sportschau",
-   "published": "2026-10-03T20:08:02Z",
-   "teaser": "Alexander Blessin, neuer Trainer von Bundesliga-Schlusslicht Borussia Mönchengladbach, wurde beim Testspiel im Millerntorstadion herzlich empfangen.",
-   "clubs": [
-    87
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-besiegt-braunschweig-adi-huetter-gruebelt-uebers-personal-100.html",
-   "title": "Frankfurts Trainer Hütter grübelt über Personal und System",
-   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-besiegt-braunschweig-adi-huetter-gruebelt-uebers-personal-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-03T07:14:23Z",
-   "teaser": "Eintracht-Trainer Adi Hütter zeigt sich mit dem Testsieg gegen Braunschweig zufrieden, sieht Fortschritte bei zwei Startelf-Kandidaten und verteilt ein Sonderlob an einen Teenager. Auf eine wesentliche Frage hat er jedoch (noch) keine …",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/rb/rb-testspiel-debakel-werder-verliert-mit-07-gegen-twente-100.html",
-   "title": "Werder Bremen verliert mit 0:7 gegen Twente",
-   "link": "https://www.sportschau.de/regional/rb/rb-testspiel-debakel-werder-verliert-mit-07-gegen-twente-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-02T14:27:00Z",
-   "teaser": "In der Bundesliga läuft es für Werder Bremen besser als erwartet. In einem Testspiel während der Länderspielpause erlebten die Grün-Weißen nun aber eine Blamage.",
-   "clubs": [
-    134
    ],
    "transfer": false
   }
