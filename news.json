@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T18:24:31Z",
+ "updated": "2026-10-11T18:52:56Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,19 @@
  ],
  "items": [
   {
+   "id": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
+   "title": "Keisuke Goto köpft SC Freiburg gegen Schalke an die Spitze",
+   "link": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T18:26:55Z",
+   "teaser": "Ein Joker hat im Breisgau für etwas beinahe Einmaliges gesorgt: Dank des späten Tores von Keisuke Goto gegen Schalke 04 ist der SC Freiburg nach dem fünften Spieltag Tabellenführer.",
+   "clubs": [
+    112,
+    9
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/bah-als-symbol-fuer-augsburgs-moeglichkeiten-1260126/artikel",
    "title": "Bah als Symbol für Augsburgs Möglichkeiten",
    "link": "https://www.kicker.de/bah-als-symbol-fuer-augsburgs-moeglichkeiten-1260126/artikel",
@@ -26,19 +39,6 @@
     40,
     6,
     95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
-   "title": "Keisuke Goto köpft SC Freiburg gegen Schalke an die Spitze",
-   "link": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T17:41:21Z",
-   "teaser": "Ein Joker hat im Breisgau für etwas beinahe Einmaliges gesorgt: Dank des späten Tores von Keisuke Goto gegen Schalke 04 ist der SC Freiburg nach dem fünften Spieltag Tabellenführer.",
-   "clubs": [
-    112,
-    9
    ],
    "transfer": false
   },
