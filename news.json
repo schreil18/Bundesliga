@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T16:49:45Z",
+ "updated": "2026-10-11T17:21:05Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-koeln-vergroessert-gladbachs-sorgen-bei-blessins-debuet-100.html",
+   "title": "Kölns El Mala entscheidet rheinisches Derby gegen Mönchengladbach",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-koeln-vergroessert-gladbachs-sorgen-bei-blessins-debuet-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T17:05:13Z",
+   "teaser": "Der 1. FC Köln hat Borussia Mönchengladbach im einem hitzigen rheinischen Derby eine weitere Niederlage zugefügt.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-in-unterzahl-freiburgs-joker-treffen-zur-fuehrung-1259182/artikel",
+   "title": "LIVE! In Unterzahl: Freiburgs Joker treffen zur Führung",
+   "link": "https://www.kicker.de/live-in-unterzahl-freiburgs-joker-treffen-zur-fuehrung-1259182/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T16:51:36Z",
+   "teaser": "Zum Abschluss des 5. Bundesliga-Spieltags trifft Freiburg auf Schalke. Beide Klubs präsentierten sich vor der langen Länderspielpause formstark und möchten ihre Serien weiter ausbauen.",
+   "clubs": [
+    112,
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/koch-reagiert-auf-huetter-kritik-aendert-nichts-an-meiner-haltung-1260212/artikel",
    "title": "Koch reagiert auf Hütter-Kritik: \"Ändert nichts an meiner Haltung\"",
@@ -76,19 +102,6 @@
    "teaser": "Die Sorge eines Ausfalls war groß, die Erleichterung nicht kleiner. Stuttgart kann in Bratislava mit seinem \"Abwehr-Jeff\" rechnen.",
    "clubs": [
     16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-koeln-vergroessert-gladbachs-sorgen-bei-blessins-debuet-100.html",
-   "title": "Köln vergrößert Gladbachs Sorgen bei Blessins Debüt",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-koeln-vergroessert-gladbachs-sorgen-bei-blessins-debuet-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T15:31:00Z",
-   "teaser": "Der 1. FC Köln hat Borussia Mönchengladbach im einem hitzigen rheinischen Derby eine weitere Niederlage zugefügt.",
-   "clubs": [
-    87,
-    65
    ],
    "transfer": false
   },
@@ -210,11 +223,11 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194107/sc-freiburg_fc-schalke-04/liveticker",
-   "title": "Jetzt live - Schalke kommt gegen Freiburg zum Ausgleich",
+   "title": "Jetzt live - Freiburg führt in Unterzahl gegen Schalke",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194107/sc-freiburg_fc-schalke-04/liveticker",
    "source": "Sportschau",
    "published": "2026-10-11T12:41:48Z",
-   "teaser": "Freiburg kann mit einem Sieg gegen Schalke die Tabellenführung in der Bundesliga übernehmen. Doch der Sportclub kann die frühe Führung nicht lange halten.",
+   "teaser": "Freiburg kann mit einem Sieg gegen Schalke die Tabellenführung in der Bundesliga übernehmen. In Unterzahl gelingt dem Sportclub kurz vor Schluss die Führung.",
    "clubs": [
     112,
     9
@@ -2547,19 +2560,6 @@
    "teaser": "Die Eintracht ist in der frühen Saisonphase eine Suchende. Mal gut, mal schlecht, mal irgendwas dazwischen. Gerade an Halt fehlt es dem Team. Gefunden hat es dagegen die eigenen Prinzipien. Eine Einordnung des Starts.",
    "clubs": [
     91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/fuellkrugs-hammer-die-wende-werder-ueberrennt-fc-augsburg,spielbericht-werder-bremen-fc-augsburg-114.html",
-   "title": "Füllkrugs Hammer bringt die Wende - Werder überrennt Augsburg",
-   "link": "https://www.sportschau.de/fussball/bundesliga/fuellkrugs-hammer-die-wende-werder-ueberrennt-fc-augsburg,spielbericht-werder-bremen-fc-augsburg-114.html",
-   "source": "Sportschau",
-   "published": "2026-09-20T22:00:48Z",
-   "teaser": "Es war ein wildes Match zweier gleichstarker Teams - am Ende jubelte nur Werder. Die Bremer drehten eine tolle Partie gegen den FC Augsburg.",
-   "clubs": [
-    134,
-    95
    ],
    "transfer": false
   }
