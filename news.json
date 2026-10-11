@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T16:22:04Z",
+ "updated": "2026-10-11T16:49:45Z",
  "sources": [
   {
    "name": "kicker",
@@ -53,6 +53,19 @@
     9
    ],
    "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-vorerst-keine-wechsel-schalke-haelt-gut-dagegen-1259182/artikel",
+   "title": "LIVE! Vorerst keine Wechsel - Schalke hält gut dagegen",
+   "link": "https://www.kicker.de/live-vorerst-keine-wechsel-schalke-haelt-gut-dagegen-1259182/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T15:41:25Z",
+   "teaser": "Zum Abschluss des 5. Bundesliga-Spieltags trifft Freiburg auf Schalke. Beide Klubs präsentierten sich vor der langen Länderspielpause formstark und möchten ihre Serien weiter ausbauen.",
+   "clubs": [
+    112,
+    9
+   ],
+   "transfer": true
   },
   {
    "id": "https://www.kicker.de/erleichterung-im-fall-von-stuttgarts-abwehr-jeff-chabot-1260170/artikel",
@@ -197,7 +210,7 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194107/sc-freiburg_fc-schalke-04/liveticker",
-   "title": "Pause - Schalke kommt gegen Freiburg zum Ausgleich",
+   "title": "Jetzt live - Schalke kommt gegen Freiburg zum Ausgleich",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194107/sc-freiburg_fc-schalke-04/liveticker",
    "source": "Sportschau",
    "published": "2026-10-11T12:41:48Z",
@@ -2547,19 +2560,6 @@
    "clubs": [
     134,
     95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/kein-sieger-im-duell-der-neu-nationalspieler,spielbericht-eintracht-frankfurt-sc-freiburg-114.html",
-   "title": "Frankfurt gegen Freiburg: Kein Sieger im Duell der Neu-Nationalspieler",
-   "link": "https://www.sportschau.de/fussball/bundesliga/kein-sieger-im-duell-der-neu-nationalspieler,spielbericht-eintracht-frankfurt-sc-freiburg-114.html",
-   "source": "Sportschau",
-   "published": "2026-09-20T22:00:48Z",
-   "teaser": "Gleich sechs neue Nationalspieler standen sich im Duell Eintracht Frankfurt gegen den SC Freiburg gegenüber. Einen Sieger in dieser Partie gab es nicht.",
-   "clubs": [
-    91,
-    112
    ],
    "transfer": false
   }
