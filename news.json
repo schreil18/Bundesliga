@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T07:49:45Z",
+ "updated": "2026-10-11T08:23:12Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,41 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/dortmunds-triple-b-woche-mit-schwierigen-vorzeichen-1259770/artikel",
+   "title": "Dortmunds Triple-B-Woche mit schwierigen Vorzeichen",
+   "link": "https://www.kicker.de/dortmunds-triple-b-woche-mit-schwierigen-vorzeichen-1259770/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T07:50:00Z",
+   "teaser": "Bodö, Berlin, Baku: Für Borussia Dortmund steht eine Woche mit drei Auswärtsspielen in sieben Tagen, weiten Flügen und sehr unterschiedlichen Bedingungen an. Ist die Mannschaft dafür bereit?",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/der-rekord-vor-fellhauer-die-neun-sekunden-tore-von-bellarabi-und-volland-1260083/video",
+   "title": "Der Rekord vor Fellhauer: Die Neun-Sekunden-Tore von Bellarabi und Volland",
+   "link": "https://www.kicker.de/der-rekord-vor-fellhauer-die-neun-sekunden-tore-von-bellarabi-und-volland-1260083/video",
+   "source": "kicker",
+   "published": "2026-10-11T07:48:00Z",
+   "teaser": "Bevor Robin Fellhauer mit seinem Tor nach acht Sekunden einen neuen Bundesliga-Rekord aufstellte, teilten sich den Rekord für das schnellste Tor Karim Bellarabi und Kevin Volland.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/verfruehter-abgang-bayers-boniface-bricht-mit-dem-teamgeist-1260061/artikel",
+   "title": "Verfrühter Abgang: Bayers Boniface bricht mit dem Teamgeist",
+   "link": "https://www.kicker.de/verfruehter-abgang-bayers-boniface-bricht-mit-dem-teamgeist-1260061/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T06:39:28Z",
+   "teaser": "In der Schlussphase des Spiels in Mainz erlaubt sich Leverkusens Victor Boniface einen Fauxpas, als der Ersatzspieler nach seiner Nicht-Einwechslung vorzeitig in die Kabine geht. Ein Bruch mit dem Teamgeist.",
+   "clubs": [
+    6,
+    81
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/ambitionierte-schalker-plaene-wie-sieht-die-arena-der-zukunft-aus-1259777/video",
    "title": "Ambitionierte Schalker Pläne: \"Wie sieht die Arena der Zukunft aus?\"",
