@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T15:49:24Z",
+ "updated": "2026-10-11T16:22:04Z",
  "sources": [
   {
    "name": "kicker",
@@ -32,6 +32,19 @@
    "id": "https://www.kicker.de/live-fruehe-freiburger-fuehrung-nach-ecke-1259182/artikel",
    "title": "LIVE! Frühe Freiburger Führung nach Ecke",
    "link": "https://www.kicker.de/live-fruehe-freiburger-fuehrung-nach-ecke-1259182/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T15:41:25Z",
+   "teaser": "Zum Abschluss des 5. Bundesliga-Spieltags trifft Freiburg auf Schalke. Beide Klubs präsentierten sich vor der langen Länderspielpause formstark und möchten ihre Serien weiter ausbauen.",
+   "clubs": [
+    112,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-wieder-nach-einer-ecke-schalke-gleicht-aus-1259182/artikel",
+   "title": "LIVE! Wieder nach einer Ecke: Schalke gleicht aus",
+   "link": "https://www.kicker.de/live-wieder-nach-einer-ecke-schalke-gleicht-aus-1259182/artikel",
    "source": "kicker",
    "published": "2026-10-11T15:41:25Z",
    "teaser": "Zum Abschluss des 5. Bundesliga-Spieltags trifft Freiburg auf Schalke. Beide Klubs präsentierten sich vor der langen Länderspielpause formstark und möchten ihre Serien weiter ausbauen.",
@@ -184,11 +197,11 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194107/sc-freiburg_fc-schalke-04/liveticker",
-   "title": "Jetzt live - Schnelle Freiburger Führung gegen Schalke",
+   "title": "Pause - Schalke kommt gegen Freiburg zum Ausgleich",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194107/sc-freiburg_fc-schalke-04/liveticker",
    "source": "Sportschau",
    "published": "2026-10-11T12:41:48Z",
-   "teaser": "In der Bundesliga trifft der Tabellendritte SC Freiburg auf Schalke 04. Wie performen die Nationalspieler Derry Scherhant und Philipp Treu nach der Länderspielpause?",
+   "teaser": "Freiburg kann mit einem Sieg gegen Schalke die Tabellenführung in der Bundesliga übernehmen. Doch der Sportclub kann die frühe Führung nicht lange halten.",
    "clubs": [
     112,
     9
@@ -377,6 +390,20 @@
    "published": "2026-10-11T06:38:28Z",
    "teaser": "Der Vorstandsvorsitzende des FC Schalke 04 Matthias Tillmann sprach vor dem Spiel gegen Freiburg im exklusiven Interview mit kicker-Reporter Toni Lieto über die Pläne rund um die Schalker Infrastruktur und eine ambitionierte Zukunft.",
    "clubs": [
+    112,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/augenhoehe-mit-dortmund-das-wird-noch-ein-paar-jahre-dauern-1259777/video",
+   "title": "Augenhöhe mit Dortmund? \"Das wird noch ein paar Jahre dauern\"",
+   "link": "https://www.kicker.de/augenhoehe-mit-dortmund-das-wird-noch-ein-paar-jahre-dauern-1259777/video",
+   "source": "kicker",
+   "published": "2026-10-11T06:38:28Z",
+   "teaser": "Der Vorstandsvorsitzende des FC Schalke 04 Matthias Tillmann sprach vor dem Spiel gegen Freiburg im exklusiven Interview mit kicker-Reporter Toni Lieto über die Pläne rund um die Schalker Infrastruktur und eine ambitionierte Zukunft.",
+   "clubs": [
+    7,
     112,
     9
    ],
@@ -2533,32 +2560,6 @@
    "clubs": [
     91,
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/paderborn-ueberrascht-hoffenheim,video-bundesliga-sc-paderborn-tsg-1899-hoffenheim-zusammenfassung-100.html",
-   "title": "Paderborn überrascht Hoffenheim",
-   "link": "https://www.sportschau.de/fussball/bundesliga/paderborn-ueberrascht-hoffenheim,video-bundesliga-sc-paderborn-tsg-1899-hoffenheim-zusammenfassung-100.html",
-   "source": "Sportschau",
-   "published": "2026-09-20T22:00:47Z",
-   "teaser": "Der SC Paderborn 07 hat für eine Überraschung in der Bundesliga gesorgt und gegen die TSG 1899 Hoffenheim seinen ersten Saisonsieg eingefahren.",
-   "clubs": [
-    175,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/schalke-und-elversberg-belohnen-sich-nicht,spielbericht-schalke-04-sv-elversberg-100.html",
-   "title": "Schalke und Elversberg belohnen sich im Aufsteigerduell nicht",
-   "link": "https://www.sportschau.de/fussball/bundesliga/schalke-und-elversberg-belohnen-sich-nicht,spielbericht-schalke-04-sv-elversberg-100.html",
-   "source": "Sportschau",
-   "published": "2026-09-20T22:00:47Z",
-   "teaser": "Das Aufsteigerduell zwischen Schalke und Elversberg bietet defensiv anspruchsvollen Fußball und viel Kampf. Kurz vor Schluss hätten beide auch noch treffen können.",
-   "clubs": [
-    9,
-    198
    ],
    "transfer": false
   }
