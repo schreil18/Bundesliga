@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T15:21:15Z",
+ "updated": "2026-10-11T15:49:24Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,57 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/koch-reagiert-auf-huetter-kritik-aendert-nichts-an-meiner-haltung-1260212/artikel",
+   "title": "Koch reagiert auf Hütter-Kritik: \"Ändert nichts an meiner Haltung\"",
+   "link": "https://www.kicker.de/koch-reagiert-auf-huetter-kritik-aendert-nichts-an-meiner-haltung-1260212/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T15:42:27Z",
+   "teaser": "Nach dem 0:6 gegen RB Leipzig steht Robin Koch bei Eintracht Frankfurt im Zentrum der Kritik. Nun hat sich der SGE-Kapitän zu seiner aktuell schwierigen Situation geäußert.",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-fruehe-freiburger-fuehrung-nach-ecke-1259182/artikel",
+   "title": "LIVE! Frühe Freiburger Führung nach Ecke",
+   "link": "https://www.kicker.de/live-fruehe-freiburger-fuehrung-nach-ecke-1259182/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T15:41:25Z",
+   "teaser": "Zum Abschluss des 5. Bundesliga-Spieltags trifft Freiburg auf Schalke. Beide Klubs präsentierten sich vor der langen Länderspielpause formstark und möchten ihre Serien weiter ausbauen.",
+   "clubs": [
+    112,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/erleichterung-im-fall-von-stuttgarts-abwehr-jeff-chabot-1260170/artikel",
+   "title": "Erleichterung im Fall von Stuttgarts \"Abwehr-Jeff\" Chabot",
+   "link": "https://www.kicker.de/erleichterung-im-fall-von-stuttgarts-abwehr-jeff-chabot-1260170/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T15:35:51Z",
+   "teaser": "Die Sorge eines Ausfalls war groß, die Erleichterung nicht kleiner. Stuttgart kann in Bratislava mit seinem \"Abwehr-Jeff\" rechnen.",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-koeln-vergroessert-gladbachs-sorgen-bei-blessins-debuet-100.html",
+   "title": "Köln vergrößert Gladbachs Sorgen bei Blessins Debüt",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-koeln-vergroessert-gladbachs-sorgen-bei-blessins-debuet-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T15:31:00Z",
+   "teaser": "Der 1. FC Köln hat Borussia Mönchengladbach im einem hitzigen rheinischen Derby eine weitere Niederlage zugefügt.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/sc-freiburg-gegen-fc-schalke-04,audiostream-sc-freiburg-gegen-fc-schalke-04-102.html",
    "title": "Live hören: SC Freiburg gegen FC Schalke 04 - Bundesliga",
@@ -133,7 +184,7 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194107/sc-freiburg_fc-schalke-04/liveticker",
-   "title": "Jetzt live - Schalke zu Gast in Freiburg",
+   "title": "Jetzt live - Schnelle Freiburger Führung gegen Schalke",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194107/sc-freiburg_fc-schalke-04/liveticker",
    "source": "Sportschau",
    "published": "2026-10-11T12:41:48Z",
@@ -2508,58 +2559,6 @@
    "clubs": [
     9,
     198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/wieder-vier-gegentore-gladbach-verliert-auch-unter-lichte,spielbericht-borussia-moenchengladbach-mainz-05-100.html",
-   "title": "Gladbach verliert auch unter Lichte gegen Mainz",
-   "link": "https://www.sportschau.de/fussball/bundesliga/wieder-vier-gegentore-gladbach-verliert-auch-unter-lichte,spielbericht-borussia-moenchengladbach-mainz-05-100.html",
-   "source": "Sportschau",
-   "published": "2026-09-20T22:00:47Z",
-   "teaser": "Borussia Mönchengladbach hat in der Fußball-Bundesliga auch unter Interimstrainer Jan-Moritz Lichte eine Niederlage kassiert. Gegen den 1. FSV Mainz 05 war erneut die Abwehr schwach.",
-   "clubs": [
-    81,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/beiers-goldenes-tor-entscheidet-topspiel-in-stuttgart,video-bundesliga-vfb-stuttgart-borussia-dortmund-zusammenfassung-102.html",
-   "title": "Beiers goldenes Tor entscheidet Topspiel in Stuttgart",
-   "link": "https://www.sportschau.de/fussball/bundesliga/beiers-goldenes-tor-entscheidet-topspiel-in-stuttgart,video-bundesliga-vfb-stuttgart-borussia-dortmund-zusammenfassung-102.html",
-   "source": "Sportschau",
-   "published": "2026-09-20T22:00:43Z",
-   "teaser": "Borussia Dortmunds Lauf geht weiter. Auch im Topspiel beim VfB Stuttgart hält sich der BVB schadlos und steht plötzlich auf Platz eins.",
-   "clubs": [
-    7,
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/paderborn-schiesst-sich-aus-der-abstiegszone,spielbericht-sc-paderborn-tsg-hoffenheim-104.html",
-   "title": "Paderborn schießt sich gegen Hoffenheim aus der Abstiegszone",
-   "link": "https://www.sportschau.de/fussball/bundesliga/paderborn-schiesst-sich-aus-der-abstiegszone,spielbericht-sc-paderborn-tsg-hoffenheim-104.html",
-   "source": "Sportschau",
-   "published": "2026-09-20T22:00:38Z",
-   "teaser": "Der bislang torlose SC Paderborn hat sich den Frust vom Leib geschossen und gegen schwache Hoffenheimer verdient den ersten Saisonsieg eingefahren.",
-   "clubs": [
-    175,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bremen-feiert-matchwinner-mitchell-weiser,video-bundesliga-sv-werder-bremen-fc-augsburg-zusammenfassung-100.html",
-   "title": "Bremen feiert Matchwinner Mitchell Weiser",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bremen-feiert-matchwinner-mitchell-weiser,video-bundesliga-sv-werder-bremen-fc-augsburg-zusammenfassung-100.html",
-   "source": "Sportschau",
-   "published": "2026-09-20T22:00:32Z",
-   "teaser": "Mit einer 2:0-Führung sah der FC Augsburg bei Werder Bremen schon wie der Sieger aus. Dann stellte Werder in einem euphorisierten Weserstadion alles auf den Kopf.",
-   "clubs": [
-    134,
-    95
    ],
    "transfer": false
   }
