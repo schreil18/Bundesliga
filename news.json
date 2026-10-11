@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T13:22:21Z",
+ "updated": "2026-10-11T13:49:22Z",
  "sources": [
   {
    "name": "kicker",
@@ -25,6 +25,19 @@
    "clubs": [
     112,
     9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-wuchtiger-freistoss-schwaebe-klaert-mit-den-faeusten-1259174/artikel",
+   "title": "LIVE! Wuchtiger Freistoß: Schwäbe klärt mit den Fäusten",
+   "link": "https://www.kicker.de/live-wuchtiger-freistoss-schwaebe-klaert-mit-den-faeusten-1259174/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T13:41:40Z",
+   "teaser": "Am Sonntagnachmittag steigt in Köln das 101. Rheinderby der Bundesliga-Geschichte. Die Gladbacher wollen beim Debüt ihres neuen Trainers Alexander Blessin endlich die ersten Punkte holen. Auch beim FC ist der Druck groß.",
+   "clubs": [
+    87,
+    65
    ],
    "transfer": false
   },
@@ -112,7 +125,7 @@
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194167/1-fc-koeln_borussia-moenchengladbach/liveticker",
    "source": "Sportschau",
    "published": "2026-10-11T11:18:03Z",
-   "teaser": "In der Bundesliga kommt es am Sonntag-Nachmittag zu einem der brisantesten Spiele der Saison. Der 1. FC Köln empfängt Borussia Mönchengladbach in Müngersdorf.",
+   "teaser": "In der Bundesliga kommt es jetzt zu einem der brisantesten Spiele der Saison. Der 1. FC Köln empfängt Borussia Mönchengladbach zum Rhein-Derby.",
    "clubs": [
     87,
     65
@@ -2548,19 +2561,6 @@
    "clubs": [
     65,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/leverkusen-kommt-dank-schicks-traumtor-ins-rollen,spielbericht-bayer-leverkusen-rb-leipzig-108.html",
-   "title": "Leverkusen kommt gegen Leipzig dank Schick-Traumtor ins Rollen",
-   "link": "https://www.sportschau.de/fussball/bundesliga/leverkusen-kommt-dank-schicks-traumtor-ins-rollen,spielbericht-bayer-leverkusen-rb-leipzig-108.html",
-   "source": "Sportschau",
-   "published": "2026-09-20T22:00:09Z",
-   "teaser": "Die Formkurve von Bayer Leverkusen zeigt weiter steil nach oben. Ein außergewöhnlicher Treffer von Patrik Schick brachte die Werkself gegen RB Leipzig auf den Erfolgsweg.",
-   "clubs": [
-    1635,
-    6
    ],
    "transfer": false
   }
