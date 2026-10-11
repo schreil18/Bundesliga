@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T20:49:27Z",
+ "updated": "2026-10-11T21:21:41Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/swr/swr-richtig-stolz-freiburgs-wahnsinnslauf-geht-auch-in-unterzahl-weiter-100.html",
+   "title": "Nach Heimsieg in Unterzahl: Freiburgs Schuster \"richtig stolz\"",
+   "link": "https://www.sportschau.de/regional/swr/swr-richtig-stolz-freiburgs-wahnsinnslauf-geht-auch-in-unterzahl-weiter-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T21:02:05Z",
+   "teaser": "Der SC Freiburg bleibt in der Bundesliga das Team der Stunde. Nach dem Spiel gegen den FC Schalke 04 spricht Trainer Julian Schuster über den \"größten Trumpf\" im Breisgau.",
+   "clubs": [
+    112,
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/muslic-gibt-fehler-zu-niederlage-geht-auf-meine-kappe-1260355/video",
    "title": "Muslic gibt Fehler zu: \"Niederlage geht auf meine Kappe\"",
@@ -2564,18 +2577,6 @@
    "published": "2026-10-07T10:32:24Z",
    "teaser": "Jeder auf dem Fußballplatz hat seinen Job. Der Stürmer soll Tore schießen, der Torwart soll Tore verhindern. Aber was, wenn sich die Rollen drehen? 38 Torwarttore wurden in der Bundesliga-Historie erzielt - von insgesamt 11 Torhütern. Hier …",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hsv-der-not-plan-gegen-die-sturm-sorgen-1259007/artikel",
-   "title": "HSV: Der Not-Plan gegen die Sturm-Sorgen",
-   "link": "https://www.kicker.de/hsv-der-not-plan-gegen-die-sturm-sorgen-1259007/artikel",
-   "source": "kicker",
-   "published": "2026-10-07T10:19:53Z",
-   "teaser": "Nach der frühen Auswechslung im Test gegen den FC Kopenhagen hatte Yussuf Poulsen am Sonntag umgehend Entwarnung gegeben. Zumindest beim Start in die neue Trainingswoche aber arbeitete der Sturm-Routinier noch individuell.",
-   "clubs": [
-    100
-   ],
    "transfer": false
   }
  ]
