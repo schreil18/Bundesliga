@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T11:20:51Z",
+ "updated": "2026-10-11T11:49:12Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/martinez-rueffelt-ben-seghir-muss-lernen-seinen-koerper-besser-zu-managen-1260108/artikel",
+   "title": "Martinez rüffelt Ben Seghir: \"Muss lernen, seinen Körper besser zu managen\"",
+   "link": "https://www.kicker.de/martinez-rueffelt-ben-seghir-muss-lernen-seinen-koerper-besser-zu-managen-1260108/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T11:19:20Z",
+   "teaser": "Beim 4:3-Sieg in Mainz fehlte Eliesse Ben Seghir im Leverkusener Aufgebot. Es ist bereits die dritte Verletzung, die den Marokkaner in dieser Saison zum Pausieren zwingt. Deshalb rüffelt Trainer Carles Martinez den hochbegabten Angreifer …",
+   "clubs": [
+    6,
+    81
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/kimmichs-klare-reaktion-auf-die-kritik-1260076/artikel",
    "title": "Kimmichs klare Reaktion auf die Kritik",
