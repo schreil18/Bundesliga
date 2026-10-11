@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T09:49:55Z",
+ "updated": "2026-10-11T10:21:45Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/neuer-oder-urbig-wer-darf-in-stavager-ran-1260109/artikel",
+   "title": "Neuer oder Urbig: Wer darf in Stavager ran?",
+   "link": "https://www.kicker.de/neuer-oder-urbig-wer-darf-in-stavager-ran-1260109/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T10:00:45Z",
+   "teaser": "Jonas Urbig soll auch in der Phase bis zur nächsten Länderspielpause mindestens zwei Einsätze beim FC Bayern bekommen. Ausgerechnet Manuel Neuers Patzer in Augsburg könnte den Ursprungsplan nun verändert werden.",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ausfall-im-xxl-programm-wimmer-fehlt-der-tsg-mit-einer-oberschenkelverletzung-1260121/artikel",
+   "title": "Ausfall im XXL-Programm: Wimmer fehlt der TSG mit einer Oberschenkelverletzung",
+   "link": "https://www.kicker.de/ausfall-im-xxl-programm-wimmer-fehlt-der-tsg-mit-einer-oberschenkelverletzung-1260121/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T10:00:17Z",
+   "teaser": "Die TSG Hoffenheim muss in den kommenden Wochen auf Patrick Wimmer verzichten. Der Österreicher hat sich eine Muskelverletzung im Oberschenkel zugezogen und fehlt voraussichtlich bis zur nächsten Länderspielpause.",
+   "clubs": [
+    175
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/kreuzbandriss-remberg-fehlt-dem-hsv-lange-1260093/artikel",
    "title": "Kreuzbandriss: Remberg fehlt dem HSV lange",
