@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T17:48:17Z",
+ "updated": "2026-10-11T18:24:31Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,20 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/bah-als-symbol-fuer-augsburgs-moeglichkeiten-1260126/artikel",
+   "title": "Bah als Symbol für Augsburgs Möglichkeiten",
+   "link": "https://www.kicker.de/bah-als-symbol-fuer-augsburgs-moeglichkeiten-1260126/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T17:50:48Z",
+   "teaser": "Oberflächlich betrachtet hat der FC Augsburg im zweiten Heimspiel in Serie ein glückliches 2:2 gegen ein besseres Team herausgeholt. Erst gegen Leverkusen, nun gegen den FC Bayern. Eine solche Analyse würde den Fuggerstädtern jedoch nicht …",
+   "clubs": [
+    40,
+    6,
+    95
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
    "title": "Keisuke Goto köpft SC Freiburg gegen Schalke an die Spitze",
@@ -37,6 +51,19 @@
    "teaser": "Die Borussia verliert das erste Spiel unter der Regie des neuen Cheftrainers Alexander Blessin. Bei der 1:2-Niederlage im Derby brachte eine spielentscheidende Szene den Coach auf die Palme.",
    "clubs": [
     87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fette-drei-punkte-el-mala-regelt-das-101-rheinderby-1260298/video",
+   "title": "\"Fette drei Punkte\": El Mala regelt das 101. Rheinderby",
+   "link": "https://www.kicker.de/fette-drei-punkte-el-mala-regelt-das-101-rheinderby-1260298/video",
+   "source": "kicker",
+   "published": "2026-10-11T17:34:26Z",
+   "teaser": "Mit 2:1 gewinnt der 1. FC Köln das Rheinderby gegen Gladbach - Said El Mala bescherte Köln am Ende den Derbysieg und die \"fetten drei Punkte\", wie kicker-Reporter Jim Decker berichtet.",
+   "clubs": [
+    87,
+    65
    ],
    "transfer": false
   },
@@ -2541,30 +2568,6 @@
    "teaser": "In der Bundesliga läuft es für Werder Bremen besser als erwartet. In einem Testspiel während der Länderspielpause erlebten die Grün-Weißen nun aber eine Blamage.",
    "clubs": [
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/rbb/rbb-linus-guether-wann-bringt-union-coach-lustrinelli-das-wunderkind-100.html",
-   "title": "Linus Güther - Wann bringt Union-Coach Lustrinelli das Wunderkind?",
-   "link": "https://www.sportschau.de/regional/rbb/rbb-linus-guether-wann-bringt-union-coach-lustrinelli-das-wunderkind-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-02T10:02:46Z",
-   "teaser": "Linus Güther vom 1. FC Union gilt als eines der größten Talente in Deutschland. In der U19 und DFB-Nachwuchsauswahl liefert er wöchentlich Argumente für Profi-Einsätze. Cheftrainer Mauro Lustrinelli zögert noch - aber der Druck wird immer …",
-   "clubs": [
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-ist-schalke-04-bundesligatauglich-oder-droht-der-abstieg-100.html",
-   "title": "Analyse: Schalke 04 - Bundesligatauglich oder droht der Abstieg?",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-ist-schalke-04-bundesligatauglich-oder-droht-der-abstieg-100.html",
-   "source": "Sportschau",
-   "published": "2026-09-24T09:22:00Z",
-   "teaser": "Der FC Schalke 04 hat die ersten vier Bundesligapartien hinter sich gebracht. Nach schlechtem Start haben sich die Königsblauen deutlich verbessert. Aber reicht das für den Klassenerhalt?",
-   "clubs": [
-    9
    ],
    "transfer": false
   }
