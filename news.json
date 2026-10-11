@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T05:49:18Z",
+ "updated": "2026-10-11T06:27:42Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wer-stuermt-fuer-den-fc-welcher-borusse-stoppt-el-mala-letzte-fragen-und-antworten-vor-dem-rheinderby-1259216/artikel",
+   "title": "Wer stürmt für den FC? Welcher Borusse stoppt El Mala? Letzte Fragen und Antworten vor dem Rheinderby",
+   "link": "https://www.kicker.de/wer-stuermt-fuer-den-fc-welcher-borusse-stoppt-el-mala-letzte-fragen-und-antworten-vor-dem-rheinderby-1259216/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T06:21:07Z",
+   "teaser": "Im rheinischen Derby zwischen dem 1. FC Köln gegen Borussia Mönchengladbach stehen beide Teams unter Druck. Für den einen Trainer geht es darum, nicht in die Krise zu rutschen. Der andere will mit seinem Team die Trendwende herbeiführen. …",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ploetzlich-gelb-rot-als-petersen-seine-erste-gelbe-karte-verpasste-1259135/video",
+   "title": "Plötzlich Gelb-Rot: Als Petersen seine erste Gelbe Karte verpasste",
+   "link": "https://www.kicker.de/ploetzlich-gelb-rot-als-petersen-seine-erste-gelbe-karte-verpasste-1259135/video",
+   "source": "kicker",
+   "published": "2026-10-11T06:20:50Z",
+   "teaser": "Im März 2018 gastierte Freiburg auf Schalke, besonders für Nils Petersen wurde es ein Nachmittag, der ihm noch lange in Erinnerung bleiben sollte. All das wegen einer Gelben Karte, die er nicht mitbekam.",
+   "clubs": [
+    112,
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/nagelsmann-geruechte-in-leipzig-davon-sind-wir-ganz-weit-entfernt-1260038/artikel",
    "title": "Nagelsmann-Gerüchte in Leipzig: \"Davon sind wir ganz weit entfernt\"",
