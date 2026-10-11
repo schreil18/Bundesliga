@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T12:26:47Z",
+ "updated": "2026-10-11T12:55:12Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,58 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/sc-freiburg-gegen-fc-schalke-04,audiostream-sc-freiburg-gegen-fc-schalke-04-102.html",
+   "title": "Live hören: SC Freiburg gegen FC Schalke 04 - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/sc-freiburg-gegen-fc-schalke-04,audiostream-sc-freiburg-gegen-fc-schalke-04-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T15:15:00Z",
+   "teaser": "5. Spieltag: Anpfiff des Spiels ist am 11.10.2026 um 17:30 Uhr. FC Schalke 04 spielt in Freiburg.",
+   "clubs": [
+    112,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/1-fc-koeln-gegen-borussia-moenchengladbach,audiostream-1-fc-koeln-gegen-borussia-moenchengladbach-102.html",
+   "title": "Live hören: 1. FC Köln gegen Borussia Mönchengladbach - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/1-fc-koeln-gegen-borussia-moenchengladbach,audiostream-1-fc-koeln-gegen-borussia-moenchengladbach-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T13:15:00Z",
+   "teaser": "5. Spieltag: Anpfiff des Spiels ist am 11.10.2026 um 15:30 Uhr. Borussia Mönchengladbach spielt in Köln.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194107/sc-freiburg_fc-schalke-04/liveticker",
+   "title": "Ab 17.30 Uhr live - Schalke zu Gast in Freiburg",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194107/sc-freiburg_fc-schalke-04/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-11T12:41:48Z",
+   "teaser": "In der Bundesliga trifft der Tabellendritte SC Freiburg auf Schalke 04. Wie performen die Nationalspieler Derry Scherhant und Philipp Treu nach der Länderspielpause?",
+   "clubs": [
+    112,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-101-rheinderby-holt-gladbach-beim-blessin-debuet-die-ersten-punkte-1259174/artikel",
+   "title": "LIVE! 101. Rheinderby: Holt Gladbach beim Blessin-Debüt die ersten Punkte?",
+   "link": "https://www.kicker.de/live-101-rheinderby-holt-gladbach-beim-blessin-debuet-die-ersten-punkte-1259174/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T12:38:33Z",
+   "teaser": "Am Sonntagnachmittag steigt in Köln das 101. Rheinderby der Bundesliga-Geschichte. Die Gladbacher wollen beim Debüt ihres neuen Trainers Alexander Blessin endlich die ersten Punkte holen. Auch beim FC ist der Druck groß.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
    "title": "Muheims Traumtor gegen Hoffenheim lässt Hamburg eskalieren",
@@ -51,6 +103,19 @@
    "clubs": [
     6,
     81
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194167/1-fc-koeln_borussia-moenchengladbach/liveticker",
+   "title": "Ab 15.30 Uhr live - Rhein-Derby in Köln",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194167/1-fc-koeln_borussia-moenchengladbach/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-11T11:18:03Z",
+   "teaser": "In der Bundesliga kommt es am Sonntag-Nachmittag zu einem der brisantesten Spiele der Saison. Der 1. FC Köln empfängt Borussia Mönchengladbach in Müngersdorf.",
+   "clubs": [
+    87,
+    65
    ],
    "transfer": false
   },
@@ -2496,45 +2561,6 @@
    "clubs": [
     1635,
     6
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/ein-grandioser-kane-rekord-und-noch-so-viel-mehr,spielbericht-bayern-muenchen-union-berlin-102.html",
-   "title": "Kane-Rekord und noch mehr: Bayern-Sause gegen Union Berlin",
-   "link": "https://www.sportschau.de/fussball/bundesliga/ein-grandioser-kane-rekord-und-noch-so-viel-mehr,spielbericht-bayern-muenchen-union-berlin-102.html",
-   "source": "Sportschau",
-   "published": "2026-09-20T22:00:09Z",
-   "teaser": "Bayern-Angreifer Harry Kane hat gegen Union Berlin einen Torrekord pulverisiert, wurde in Sachen Spektakel aber noch von seinen Teamkollegen getoppt.",
-   "clubs": [
-    40,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/gladbach-verliert-torspektakel-gegen-mainz,video-bundesliga-borussia-moenchengladbach-fsv-mainz-05-zusammenfassung-100.html",
-   "title": "Gladbach verliert Torspektakel gegen Mainz",
-   "link": "https://www.sportschau.de/fussball/bundesliga/gladbach-verliert-torspektakel-gegen-mainz,video-bundesliga-borussia-moenchengladbach-fsv-mainz-05-zusammenfassung-100.html",
-   "source": "Sportschau",
-   "published": "2026-09-20T22:00:07Z",
-   "teaser": "Auch nach der Entlassung von Trainer Eugen Polanski muss Borussia Mönchengladbach gegen den 1. FSV Mainz 05 vier Tore und die nächste Niederlage einstecken",
-   "clubs": [
-    81,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/kein-sieger-beim-aufsteiger-duell-auf-schalke,video-bundesliga-fc-schalke-04-sv-elversberg-zusammenfassung-100.html",
-   "title": "Kein Sieger beim Aufsteiger-Duell auf Schalke",
-   "link": "https://www.sportschau.de/fussball/bundesliga/kein-sieger-beim-aufsteiger-duell-auf-schalke,video-bundesliga-fc-schalke-04-sv-elversberg-zusammenfassung-100.html",
-   "source": "Sportschau",
-   "published": "2026-09-20T22:00:05Z",
-   "teaser": "Trotz zahlreicher und bester Chancen auf beiden Seiten konnten weder der FC Schalke 04 noch die SV Elversberg einen Torerfolg im Vergleich der zwei Bundesliga-Aufsteiger feiern.",
-   "clubs": [
-    9,
-    198
    ],
    "transfer": false
   }
