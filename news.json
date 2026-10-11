@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T06:27:42Z",
+ "updated": "2026-10-11T06:55:35Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/ambitionierte-schalker-plaene-wie-sieht-die-arena-der-zukunft-aus-1259777/video",
+   "title": "Ambitionierte Schalker Pläne: \"Wie sieht die Arena der Zukunft aus?\"",
+   "link": "https://www.kicker.de/ambitionierte-schalker-plaene-wie-sieht-die-arena-der-zukunft-aus-1259777/video",
+   "source": "kicker",
+   "published": "2026-10-11T06:38:28Z",
+   "teaser": "Der Vorstandsvorsitzende des FC Schalke 04 Matthias Tillmann sprach vor dem Spiel gegen Freiburg im exklusiven Interview mit kicker-Reporter Toni Lieto über die Pläne rund um die Schalker Infrastruktur und eine ambitionierte Zukunft.",
+   "clubs": [
+    112,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wer-uebertraegt-1-fc-koeln-gegen-borussia-moenchengladbach-live-im-tv-und-stream-1257305/artikel",
+   "title": "Wer überträgt 1. FC Köln gegen Borussia Mönchengladbach live im TV und Stream?",
+   "link": "https://www.kicker.de/wer-uebertraegt-1-fc-koeln-gegen-borussia-moenchengladbach-live-im-tv-und-stream-1257305/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T06:30:00Z",
+   "teaser": "Am 5. Spieltag duelliert sich der 1. FC Köln mit Borussia Mönchengladbach im 101. Rheinderby der Bundesliga-Geschichte. Wo ihr die Partie live verfolgen könnt, erfahrt ihr hier.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wer-stuermt-fuer-den-fc-welcher-borusse-stoppt-el-mala-letzte-fragen-und-antworten-vor-dem-rheinderby-1259216/artikel",
    "title": "Wer stürmt für den FC? Welcher Borusse stoppt El Mala? Letzte Fragen und Antworten vor dem Rheinderby",
@@ -105,6 +131,19 @@
    "id": "https://www.kicker.de/huetters-deutliche-worte-zu-koch-dann-setze-ich-irgendwann-mal-ein-zeichen-1259989/video",
    "title": "Hütters deutliche Worte zu Koch: \"Dann setze ich irgendwann mal ein Zeichen\"",
    "link": "https://www.kicker.de/huetters-deutliche-worte-zu-koch-dann-setze-ich-irgendwann-mal-ein-zeichen-1259989/video",
+   "source": "kicker",
+   "published": "2026-10-10T20:05:02Z",
+   "teaser": "Nach der deutlichen Pleite in Leipzig wählte SGE-Coach Adi Hütter klare Worte in Richtung seines Kapitäns Robin Koch. Den hatte er bereits zur Pause ausgewechselt.",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/huetter-kritisiert-koch-hart-hat-mir-ueberhaupt-nicht-gefallen-1259989/video",
+   "title": "Hütter kritisiert Koch hart: \"Hat mir überhaupt nicht gefallen\"",
+   "link": "https://www.kicker.de/huetter-kritisiert-koch-hart-hat-mir-ueberhaupt-nicht-gefallen-1259989/video",
    "source": "kicker",
    "published": "2026-10-10T20:05:02Z",
    "teaser": "Nach der deutlichen Pleite in Leipzig wählte SGE-Coach Adi Hütter klare Worte in Richtung seines Kapitäns Robin Koch. Den hatte er bereits zur Pause ausgewechselt.",
