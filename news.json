@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T19:48:11Z",
+ "updated": "2026-10-11T20:20:52Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/rb-quintett-auf-dem-debuetantenball-die-kicker-elf-des-5-spieltags-1260336/slideshow",
+   "title": "RB-Quintett auf dem Debütantenball: Die kicker-Elf des 5. Spieltags",
+   "link": "https://www.kicker.de/rb-quintett-auf-dem-debuetantenball-die-kicker-elf-des-5-spieltags-1260336/slideshow",
+   "source": "kicker",
+   "published": "2026-10-11T20:13:27Z",
+   "teaser": "RB Leipzig schenkte Frankfurt ein halbes Dutzend Tore ein und stellt nun gleich fünf Spieler in der kicker-Elf des 5. Spieltags, zwei davon erhielte sogar die Bestnote.",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/als-waere-eine-meisterschaft-unter-dach-und-fach-freiburg-in-feierstimmung-1260350/video",
+   "title": "\"Als wäre eine Meisterschaft unter Dach und Fach\": Freiburg in Feierstimmung",
+   "link": "https://www.kicker.de/als-waere-eine-meisterschaft-unter-dach-und-fach-freiburg-in-feierstimmung-1260350/video",
+   "source": "kicker",
+   "published": "2026-10-11T20:05:25Z",
+   "teaser": "SC Freiburg führt nach dem 2:1-Sieg gegen FC Schalke 04 die Bundesligatabelle an. Der eingewechselte Keisuke Goto köpfte das Siegtor und das Stadion feierte den Sieg, fast wie eine Meisterschaft, wie kicker-Reporter Thiemo Müller berichtet.",
+   "clubs": [
+    112,
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/boeller-und-raketen-im-rheinderby-es-ist-nicht-voellig-aus-dem-ruder-gelaufen-1260318/artikel",
    "title": "Böller und Raketen im Rheinderby: \"Es ist nicht völlig aus dem Ruder gelaufen\"",
@@ -427,6 +453,19 @@
    "clubs": [
     16,
     31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV,hsv-2216.html",
+   "title": "Schock für den HSV: Kreuzbandriss bei Kapitän Remberg",
+   "link": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV,hsv-2216.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T11:42:25Z",
+   "teaser": "Einen Tag nach dem Spiel bei der TSG Hoffenheim bestätigten sich die schlimmen Befürchtungen der Hamburger. Der Mittelfeldspieler fällt monatelang aus.",
+   "clubs": [
+    175,
+    100
    ],
    "transfer": false
   },
@@ -2537,42 +2576,6 @@
     87,
     65
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/blitzstart-traumtore-platzverweis-das-unfassbare-rheinderby-25-26-1257860/video",
-   "title": "Blitzstart, Traumtore, Platzverweis: Das unfassbare Rheinderby 25/26",
-   "link": "https://www.kicker.de/blitzstart-traumtore-platzverweis-das-unfassbare-rheinderby-25-26-1257860/video",
-   "source": "kicker",
-   "published": "2026-10-07T09:49:38Z",
-   "teaser": "Das Rheinderby ist in der Regel schon emotional genug. Doch das Duell zwischen dem 1. FC Köln und Borussia Mönchengladbach im März 2026 setzte noch einen obendrauf.",
-   "clubs": [
-    87,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/koeln-oder-gladbach-wer-gewinnt-das-rheinische-derby-1258972/artikel",
-   "title": "Köln oder Gladbach: Wer gewinnt das rheinische Derby?",
-   "link": "https://www.kicker.de/koeln-oder-gladbach-wer-gewinnt-das-rheinische-derby-1258972/artikel",
-   "source": "kicker",
-   "published": "2026-10-07T09:30:00Z",
-   "teaser": "Nach drei Wochen Länderspielpause meldet sich die Bundesliga zurück - unter anderem mit dem rheinischen Derby am Sonntagnachmittag zwischen dem 1. FC Köln und Borussia Mönchengladbach.",
-   "clubs": [
-    87,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fuer-zwei-interne-rekorde-michel-will-spielen-und-treffen-1258874/artikel",
-   "title": "Für zwei interne Rekorde: Michel will spielen - und treffen",
-   "link": "https://www.kicker.de/fuer-zwei-interne-rekorde-michel-will-spielen-und-treffen-1258874/artikel",
-   "source": "kicker",
-   "published": "2026-10-07T08:01:02Z",
-   "teaser": "Er ist mit seiner Erfahrung wichtig auf dem Platz und für die Mannschaft von Trainer Ralf Kettemann. Nach mehrwöchiger Verletzungspause hofft der Angreifer nun auf seinen ersten Saisoneinsatz - gegen einen Gegner, auf den er im Dress …",
-   "clubs": [],
    "transfer": false
   }
  ]
