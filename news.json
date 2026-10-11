@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T20:20:52Z",
+ "updated": "2026-10-11T20:49:27Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/muslic-gibt-fehler-zu-niederlage-geht-auf-meine-kappe-1260355/video",
+   "title": "Muslic gibt Fehler zu: \"Niederlage geht auf meine Kappe\"",
+   "link": "https://www.kicker.de/muslic-gibt-fehler-zu-niederlage-geht-auf-meine-kappe-1260355/video",
+   "source": "kicker",
+   "published": "2026-10-11T20:24:32Z",
+   "teaser": "Miron Muslic gab nach der Niederlage der Schalker gegen Freiburg offen zu, taktische Fehler begangen zu haben. Julian Schuster meldete sich ebenfalls zu Wort und zollte seinem Trainerkollegen für die Offenheit Respekt.",
+   "clubs": [
+    112,
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/rb-quintett-auf-dem-debuetantenball-die-kicker-elf-des-5-spieltags-1260336/slideshow",
    "title": "RB-Quintett auf dem Debütantenball: Die kicker-Elf des 5. Spieltags",
@@ -2562,19 +2575,6 @@
    "teaser": "Nach der frühen Auswechslung im Test gegen den FC Kopenhagen hatte Yussuf Poulsen am Sonntag umgehend Entwarnung gegeben. Zumindest beim Start in die neue Trainingswoche aber arbeitete der Sturm-Routinier noch individuell.",
    "clubs": [
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/regenwolken-ueber-dem-geissbockheim-kommt-es-zum-sturm-beim-1-fc-koeln-1258591/artikel",
-   "title": "Regenwolken über dem Geißbockheim: Kommt es zum Sturm beim 1. FC Köln?",
-   "link": "https://www.kicker.de/regenwolken-ueber-dem-geissbockheim-kommt-es-zum-sturm-beim-1-fc-koeln-1258591/artikel",
-   "source": "kicker",
-   "published": "2026-10-07T09:59:06Z",
-   "teaser": "Der 1. FC Köln ist mit gemischten Gefühlen in die neue Saison gestartet. Ausgerechnet vor dem Rheinischen Duell mit Borussia Mönchengladbach steigt die Spannung am Geißbockheim immens.",
-   "clubs": [
-    87,
-    65
    ],
    "transfer": false
   }
