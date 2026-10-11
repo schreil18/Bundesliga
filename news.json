@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T17:21:05Z",
+ "updated": "2026-10-11T17:48:17Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,59 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
+   "title": "Keisuke Goto köpft SC Freiburg gegen Schalke an die Spitze",
+   "link": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T17:41:21Z",
+   "teaser": "Ein Joker hat im Breisgau für etwas beinahe Einmaliges gesorgt: Dank des späten Tores von Keisuke Goto gegen Schalke 04 ist der SC Freiburg nach dem fünften Spieltag Tabellenführer.",
+   "clubs": [
+    112,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kein-krisenende-in-sicht-gladbach-steuert-auch-mit-blessin-richtung-abgrund-1260284/artikel",
+   "title": "Kein Krisenende in Sicht: Gladbach steuert auch mit Blessin Richtung Abgrund",
+   "link": "https://www.kicker.de/kein-krisenende-in-sicht-gladbach-steuert-auch-mit-blessin-richtung-abgrund-1260284/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T17:40:26Z",
+   "teaser": "Die Borussia verliert das erste Spiel unter der Regie des neuen Cheftrainers Alexander Blessin. Bei der 1:2-Niederlage im Derby brachte eine spielentscheidende Szene den Coach auf die Palme.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/in-unterzahl-freiburg-schlaegt-schalke-und-ist-neuer-tabellenfuehrer-1259182/artikel",
+   "title": "In Unterzahl: Freiburg schlägt Schalke und ist neuer Tabellenführer",
+   "link": "https://www.kicker.de/in-unterzahl-freiburg-schlaegt-schalke-und-ist-neuer-tabellenfuehrer-1259182/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T17:25:16Z",
+   "teaser": "Der SC Freiburg nutzt die Patzer vom FC Bayern und Borussia Dortmund und ist nach dem 5. Spieltag neuer Tabellenführer in der Bundesliga. Bei den nach einer Ampelkarte für Suzuki (64.) dezimierten Freiburger traf Joker Goto (85.) zum …",
+   "clubs": [
+    40,
+    7,
+    112,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/el-mala-ueber-befreiungsschlag-und-was-ihm-am-gladbacher-jubel-missfallen-hat-1260265/artikel",
+   "title": "El Mala über Befreiungsschlag und was ihm am Gladbacher Jubel missfallen hat",
+   "link": "https://www.kicker.de/el-mala-ueber-befreiungsschlag-und-was-ihm-am-gladbacher-jubel-missfallen-hat-1260265/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T17:17:51Z",
+   "teaser": "Said El Mala führte den 1. FC Köln mit seinem Tor zum 2:1 zum Derbysieg über Gladbach. Der 20-Jährige verriet anschließend, wie emotional das Spiel für ihn war - und welche Bedeutung sein Treffer hat.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/wdr/wdr-koeln-vergroessert-gladbachs-sorgen-bei-blessins-debuet-100.html",
    "title": "Kölns El Mala entscheidet rheinisches Derby gegen Mönchengladbach",
@@ -2512,54 +2565,6 @@
    "teaser": "Der FC Schalke 04 hat die ersten vier Bundesligapartien hinter sich gebracht. Nach schlechtem Start haben sich die Königsblauen deutlich verbessert. Aber reicht das für den Klassenerhalt?",
    "clubs": [
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-blessin-in-gladbach-das-ende-der-scheiss-zeit-100.html",
-   "title": "Blessin in Gladbach - Das Ende der Scheiß-Zeit",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-blessin-in-gladbach-das-ende-der-scheiss-zeit-100.html",
-   "source": "Sportschau",
-   "published": "2026-09-23T17:54:00Z",
-   "teaser": "Alexander Blessin hat seinen schweren Job in Mönchengladbach aufgenommen. Seine Botschaft: Es wird hart, aber wir schaffen das.",
-   "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/swr/swr-im-sport-club-style-der-freiburger-weg-in-die-spitze-100.html",
-   "title": "Der Freiburger Weg in die Spitze",
-   "link": "https://www.sportschau.de/regional/swr/swr-im-sport-club-style-der-freiburger-weg-in-die-spitze-100.html",
-   "source": "Sportschau",
-   "published": "2026-09-23T05:43:10Z",
-   "teaser": "Mit sechs Siegen aus sieben Pflichtspielen hat der SC Freiburg einen tollen Start hingelegt. Der Erfolg ist kein Zufall, sondern Resultat kontinuierlicher Aufbauarbeit.",
-   "clubs": [
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/rbb/rbb-unions-fehlstart-lustrinelli-kaempft-gegen-sehnsucht-nach-alten-zeiten-100.html",
-   "title": "Lustrinelli kämpft gegen Sehnsucht nach alten Zeiten",
-   "link": "https://www.sportschau.de/regional/rbb/rbb-unions-fehlstart-lustrinelli-kaempft-gegen-sehnsucht-nach-alten-zeiten-100.html",
-   "source": "Sportschau",
-   "published": "2026-09-21T09:47:41Z",
-   "teaser": "Union muss nach dem 0:7 in München Antworten finden. Trainer Mauro Lustrinelli kämpft dabei nicht nur gegen die Krise, sondern auch gegen die Sehnsucht nach dem defensiven Union der Vergangenheit.",
-   "clubs": [
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-auf-platz-10-wo-kann-das-sportlich-hinfuehren-100.html",
-   "title": "Startbilanz: Eintracht Frankfurts DNA kehrt langsam zurück",
-   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-auf-platz-10-wo-kann-das-sportlich-hinfuehren-100.html",
-   "source": "Sportschau",
-   "published": "2026-09-21T04:45:50Z",
-   "teaser": "Die Eintracht ist in der frühen Saisonphase eine Suchende. Mal gut, mal schlecht, mal irgendwas dazwischen. Gerade an Halt fehlt es dem Team. Gefunden hat es dagegen die eigenen Prinzipien. Eine Einordnung des Starts.",
-   "clubs": [
-    91
    ],
    "transfer": false
   }
