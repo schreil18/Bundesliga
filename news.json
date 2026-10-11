@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T14:49:23Z",
+ "updated": "2026-10-11T15:21:15Z",
  "sources": [
   {
    "name": "kicker",
@@ -25,6 +25,44 @@
    "clubs": [
     112,
     9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-kurze-unterbrechung-in-koeln-el-mala-trifft-traumhaft-1259174/artikel",
+   "title": "LIVE! Kurze Unterbrechung in Köln - El Mala trifft traumhaft",
+   "link": "https://www.kicker.de/live-kurze-unterbrechung-in-koeln-el-mala-trifft-traumhaft-1259174/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T15:03:57Z",
+   "teaser": "Am Sonntagnachmittag steigt in Köln das 101. Rheinderby der Bundesliga-Geschichte. Die Gladbacher wollen beim Debüt ihres neuen Trainers Alexander Blessin endlich die ersten Punkte holen. Auch beim FC ist der Druck groß.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-zu-gast-bei-unbesiegten-freiburgern-vier-wechsel-bei-schalke-1259182/artikel",
+   "title": "LIVE! Zu Gast bei unbesiegten Freiburgern: Vier Wechsel bei Schalke",
+   "link": "https://www.kicker.de/live-zu-gast-bei-unbesiegten-freiburgern-vier-wechsel-bei-schalke-1259182/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T15:00:44Z",
+   "teaser": "Zum Abschluss des 5. Bundesliga-Spieltags trifft Freiburg auf Schalke. Beide Klubs präsentierten sich vor der langen Länderspielpause formstark und möchten ihre Serien weiter ausbauen.",
+   "clubs": [
+    112,
+    9
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/sorgen-um-skhiri-auswechslung-und-untersuchung-in-klinik-1260219/artikel",
+   "title": "Sorgen um Skhiri: Auswechslung und Untersuchung in Klinik",
+   "link": "https://www.kicker.de/sorgen-um-skhiri-auswechslung-und-untersuchung-in-klinik-1260219/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T14:56:20Z",
+   "teaser": "Der 1. FC Köln sorgt sich um Ellyes Skhiri. Im Rheinderby war er nach einem Foul heftig umgeknickt und musste vom Feld getragen werden.",
+   "clubs": [
+    65
    ],
    "transfer": false
   },
@@ -95,7 +133,7 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194107/sc-freiburg_fc-schalke-04/liveticker",
-   "title": "Ab 17.30 Uhr live - Schalke zu Gast in Freiburg",
+   "title": "Jetzt live - Schalke zu Gast in Freiburg",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194107/sc-freiburg_fc-schalke-04/liveticker",
    "source": "Sportschau",
    "published": "2026-10-11T12:41:48Z",
@@ -160,12 +198,13 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194167/1-fc-koeln_borussia-moenchengladbach/liveticker",
-   "title": "Jetzt live - 1:1 im rheinischen Derby, wer kommt besser aus der Kabine?",
+   "title": "Jetzt live - Köln führt im rheinischen Derby",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194167/1-fc-koeln_borussia-moenchengladbach/liveticker",
    "source": "Sportschau",
    "published": "2026-10-11T11:18:03Z",
-   "teaser": "Flottes rheinisches Derby in der Bundesliga: die sehenswerte Kölner Führung durch Isak Johannesson kann Joe Scally noch vor der Pause ausgleichen. Jetzt läuft die zweite Halbzeit.",
+   "teaser": "Flottes rheinisches Derby in der Bundesliga: der 1. FC Köln führt nach einem sehenswerten Tor von Said El Mala mit 2:1 gegen Mönchengladbach.",
    "clubs": [
+    87,
     65
    ],
    "transfer": false
@@ -2521,45 +2560,6 @@
    "clubs": [
     134,
     95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/hsv-trifft-und-siegt-gegen-ineffiziente-koelner,video-bundesliga-hamburger-sv-1-fc-koeln-zusammenfassung-100.html",
-   "title": "HSV trifft und siegt gegen ineffiziente Kölner",
-   "link": "https://www.sportschau.de/fussball/bundesliga/hsv-trifft-und-siegt-gegen-ineffiziente-koelner,video-bundesliga-hamburger-sv-1-fc-koeln-zusammenfassung-100.html",
-   "source": "Sportschau",
-   "published": "2026-09-20T22:00:31Z",
-   "teaser": "Der Hamburger SV kann doch noch Tore schießen - und auch gewinnen. Gegen den 1. FC Köln holen die \"Rothosen\" ihren ersten Bundesliga-Sieg.",
-   "clubs": [
-    65,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/schicks-geniestreich-bringt-leverkusen-in-die-spur,video-bundesliga-bayer-leverkusen-rb-leipzig-zusammenfassung-102.html",
-   "title": "Schicks Geniestreich bringt Leverkusen in die Spur",
-   "link": "https://www.sportschau.de/fussball/bundesliga/schicks-geniestreich-bringt-leverkusen-in-die-spur,video-bundesliga-bayer-leverkusen-rb-leipzig-zusammenfassung-102.html",
-   "source": "Sportschau",
-   "published": "2026-09-20T22:00:25Z",
-   "teaser": "Ein kunstvoller Rutscher von Patrik Schick öffnet Bayer 04 Leverkusen beim Bundesliga-Heimsieg gegen RB Leipzig die Tür.",
-   "clubs": [
-    1635,
-    6
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/frankfurt-und-freiburg-liefern-unterhaltsames-remis,video-bundesliga-eintracht-frankfurt-sc-freiburg-zusammenfassung-100.html",
-   "title": "Frankfurt und Freiburg liefern unterhaltsames Remis",
-   "link": "https://www.sportschau.de/fussball/bundesliga/frankfurt-und-freiburg-liefern-unterhaltsames-remis,video-bundesliga-eintracht-frankfurt-sc-freiburg-zusammenfassung-100.html",
-   "source": "Sportschau",
-   "published": "2026-09-20T22:00:17Z",
-   "teaser": "Im Bundesliga-Duell zwischen dem SC Freiburg und Eintracht Frankfurt treffen gleich sechs Nationalspieler aufeinander. Am Ende müssen sich alle mit einem Unentschieden begnügen.",
-   "clubs": [
-    91,
-    112
    ],
    "transfer": false
   }
