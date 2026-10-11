@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T21:49:37Z",
+ "updated": "2026-10-11T22:21:43Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,123 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/burcu-treffer-stoppt-unions-sieglosserie,video-bundesliga-union-berlin-sv-07-elversberg-100.html",
+   "title": "Bundesliga: Burcu-Tor stoppt Unions Sieglosserie gegen Elversberg",
+   "link": "https://www.sportschau.de/fussball/bundesliga/burcu-treffer-stoppt-unions-sieglosserie,video-bundesliga-union-berlin-sv-07-elversberg-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T22:00:30Z",
+   "teaser": "Am 5. Spieltag der laufenden Bundesligasaison hat Union Berlin gegen Elversberg den ersten Sieg eingefahren. In einer umkämpften Partie erzielte Livan Burcu für das entscheidende Tor.",
+   "clubs": [
+    80,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/leverkusen-behaelt-in-wildem-schlagabtausch-die-oberhand,video-bundesliga-fsv-mainz-05-bayer-04-leverkusen-100.html",
+   "title": "Bundesliga: Leverkusen behält bei Spektakel in Mainz die Oberhand",
+   "link": "https://www.sportschau.de/fussball/bundesliga/leverkusen-behaelt-in-wildem-schlagabtausch-die-oberhand,video-bundesliga-fsv-mainz-05-bayer-04-leverkusen-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T22:00:29Z",
+   "teaser": "Mainz 05 reichen drei eigene Treffer nicht, um etwas Zählbares aus dem Heimspiel gegen Bayer Leverkusen mitzunehmen. Die Werkself holt ihren ersten Bundesliga-Auswärtssieg der Saison.",
+   "clubs": [
+    6,
+    81
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/augsburg-nutzt-neuer-patzer-bei-remis-gegen-bayern,video-bundesliga-fc-augsburg-fc-bayern-muenchen-104.html",
+   "title": "Bundesliga: Augsburg nutzt Neuer-Patzer bei Remis gegen Bayern",
+   "link": "https://www.sportschau.de/fussball/bundesliga/augsburg-nutzt-neuer-patzer-bei-remis-gegen-bayern,video-bundesliga-fc-augsburg-fc-bayern-muenchen-104.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T22:00:24Z",
+   "teaser": "Der FC Augsburg und der FC Bayern München trennen sich mit 2:2. Bereits die erste Szene des Spiels sorgte für Spektakel.",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/freiburg-dank-goto-am-platz-an-der-sonne,video-bundesliga-sc-freiburg-fc-schalke-04-100.html",
+   "title": "Freiburg dank Goto am Platz an der Sonne",
+   "link": "https://www.sportschau.de/fussball/bundesliga/freiburg-dank-goto-am-platz-an-der-sonne,video-bundesliga-sc-freiburg-fc-schalke-04-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T22:00:23Z",
+   "teaser": "Der SC Freiburg steht nach dem 5. Spieltag an der Tabellenspitze der Bundesliga. Gegen Schalke 04 gelang der Siegtreffer sogar mit einem Mann weniger auf dem Platz.",
+   "clubs": [
+    112,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/el-malas-traumtor-beschert-koeln-derbysieg,video-bundesliga-1-fc-koeln-borussia-moenchengladbach-100.html",
+   "title": "Bundesliga: El Malas Traumtor beschert Köln den Derbysieg",
+   "link": "https://www.sportschau.de/fussball/bundesliga/el-malas-traumtor-beschert-koeln-derbysieg,video-bundesliga-1-fc-koeln-borussia-moenchengladbach-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T22:00:22Z",
+   "teaser": "Borussia Mönchengladbach wartet auch nach dem rheinischen Derby auf den ersten Punkt in dieser Bundesliga-Saison. Said El Malas Traumtor entscheidet ein umkämpftes Spiel.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/dreifacher-nkunku-ueberragt-bei-leipziger-kantersieg,video-bundesliga-rb-leipzig-eintracht-frankfurt-108.html",
+   "title": "Bundesliga: Dreifacher Nkunku überragt bei Leipziger Kantersieg",
+   "link": "https://www.sportschau.de/fussball/bundesliga/dreifacher-nkunku-ueberragt-bei-leipziger-kantersieg,video-bundesliga-rb-leipzig-eintracht-frankfurt-108.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T22:00:13Z",
+   "teaser": "Eintracht Frankfurt liegt in Leipzig bereits zur Pause mit 0:4 hinten und kassiert am Ende ein halbes Dutzend Gegentore. RB überzeugt auf ganzer Linie und verschärft die SGE-Krise.",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/fuehrich-hammer-besiegelt-paderborner-niederlage,video-bundesliga-sc-paderborn-07-vfb-stuttgart-100.html",
+   "title": "Bundesliga: Führich-Hammer besiegelt Paderborns Pleite gegen Stuttgart",
+   "link": "https://www.sportschau.de/fussball/bundesliga/fuehrich-hammer-besiegelt-paderborner-niederlage,video-bundesliga-sc-paderborn-07-vfb-stuttgart-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T22:00:08Z",
+   "teaser": "Trotz einer kämpferischen Leistung in der zweiten Hälfte muss sich der SC Paderborn dem VfB Stuttgart mit 0:2 geschlagen geben. Chris Führich sorgt mit dem 2:0 für die Entscheidung.",
+   "clubs": [
+    16,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/rueckkehrer-fuellkrug-bringt-bvb-zum-schweigen,video-bundesliga-borussia-dortmund-werder-bremen-100.html",
+   "title": "Bundesliga: Rückkehrer Füllkrug bringt BVB zum Schweigen",
+   "link": "https://www.sportschau.de/fussball/bundesliga/rueckkehrer-fuellkrug-bringt-bvb-zum-schweigen,video-bundesliga-borussia-dortmund-werder-bremen-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T22:00:04Z",
+   "teaser": "Spitzenreiter Dortmund und Bremen trennen sich nach einer spektakulären Schlussphase mit einem Unentschieden. Ausgerechnet Niclas Füllkrug entreißt seinem Ex-Klub den sicher geglaubten Sieg.",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/muheims-last-minute-tor-kroent-hsv-comeback,video-bundesliga-tsg-1899-hoffenheim-hamburger-sv-100.html",
+   "title": "Bundesliga: Muheims Last-Minute-Tor krönt HSV-Comeback",
+   "link": "https://www.sportschau.de/fussball/bundesliga/muheims-last-minute-tor-kroent-hsv-comeback,video-bundesliga-tsg-1899-hoffenheim-hamburger-sv-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T22:00:01Z",
+   "teaser": "Der Hamburger SV nimmt drei Punkte aus Hoffenheim mit. In einer hart umkämpften Partie fiel die Entscheidung zum 3:2 für den HSV erst in der Nachspielzeit.",
+   "clubs": [
+    175,
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/swr/swr-richtig-stolz-freiburgs-wahnsinnslauf-geht-auch-in-unterzahl-weiter-100.html",
    "title": "Nach Heimsieg in Unterzahl: Freiburgs Schuster \"richtig stolz\"",
@@ -2470,113 +2587,6 @@
     87,
     65
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/union-braucht-aus-dem-spiel-mehr-chancen-und-mehr-effizienz-1259083/artikel",
-   "title": "Union braucht aus dem Spiel mehr Chancen und mehr Effizienz",
-   "link": "https://www.kicker.de/union-braucht-aus-dem-spiel-mehr-chancen-und-mehr-effizienz-1259083/artikel",
-   "source": "kicker",
-   "published": "2026-10-07T15:01:30Z",
-   "teaser": "Der 1. FC Union Berlin steht nach dem historisch schlechten Saisonstart gegen Elversberg unter Zugzwang. Die Defensive muss stabiler werden und auch nach vorne zulegen.",
-   "clubs": [
-    80,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kovac-verlaengerung-in-dortmund-nur-eine-frage-der-zeit-1259080/artikel",
-   "title": "Kovac-Verlängerung in Dortmund \"nur eine Frage der Zeit\"",
-   "link": "https://www.kicker.de/kovac-verlaengerung-in-dortmund-nur-eine-frage-der-zeit-1259080/artikel",
-   "source": "kicker",
-   "published": "2026-10-07T14:00:23Z",
-   "teaser": "Niko Kovac soll seinen auslaufenden Vertrag bei Borussia Dortmund zeitnah verlängern. Das unterstrich jetzt auch Klubboss Carsten Cramer.",
-   "clubs": [
-    7
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/zahlreiche-bvb-fragezeichen-nach-inakzeptabler-laenderspielpause-1259036/artikel",
-   "title": "Zahlreiche BVB-Fragezeichen nach \"inakzeptabler\" Länderspielpause",
-   "link": "https://www.kicker.de/zahlreiche-bvb-fragezeichen-nach-inakzeptabler-laenderspielpause-1259036/artikel",
-   "source": "kicker",
-   "published": "2026-10-07T13:19:40Z",
-   "teaser": "20 Profis stellte Borussia Dortmund in der ausgedehnten Länderspielperiode ab. Gleich fünf von ihnen sind mit Problemen zurückgekehrt - und zwei weitere werden erst kurzfristig erwartet.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/vertrag-laeuft-aus-raum-gibt-raum-fuer-spekulationen-1259068/artikel",
-   "title": "Vertrag läuft aus: Raum gibt Raum für Spekulationen",
-   "link": "https://www.kicker.de/vertrag-laeuft-aus-raum-gibt-raum-fuer-spekulationen-1259068/artikel",
-   "source": "kicker",
-   "published": "2026-10-07T13:14:57Z",
-   "teaser": "David Raum befindet sich bei RB Leipzig in seinem letzten Vertragsjahr. Ob der Kapitän der Sachsen über den 30. Juni 2027 hinaus bleibt, ist zurzeit ungewiss.",
-   "clubs": [
-    1635
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/regional/ndr/Bundesliga-Werder-Bremen-Fuellkrug-Dortmund-Datenanalyse,werder-630.html",
-   "title": "Datenanalyse: So macht Niclas Füllkrug Werder Bremen besser",
-   "link": "https://www.sportschau.de/regional/ndr/Bundesliga-Werder-Bremen-Fuellkrug-Dortmund-Datenanalyse,werder-630.html",
-   "source": "Sportschau",
-   "published": "2026-10-07T12:59:34Z",
-   "teaser": "Ein Testspiel-Debakel, dafür aber der beste Saisonstart seit dem Wiederaufstieg in die Bundesliga: Werder ist im Aufwind und daran hat Niclas Füllkrug großen Anteil.",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/sylla-muss-jetzt-auch-in-der-liga-seinen-lieferdienst-anbieten-1258958/artikel",
-   "title": "Sylla muss jetzt auch in der Liga seinen Lieferdienst anbieten",
-   "link": "https://www.kicker.de/sylla-muss-jetzt-auch-in-der-liga-seinen-lieferdienst-anbieten-1258958/artikel",
-   "source": "kicker",
-   "published": "2026-10-07T12:43:54Z",
-   "teaser": "Moussa Sylla hat in der Länderspielphase seine Kaltschnäuzigkeit unter Beweis gestellt, nach fünf Toren in zwei Tests muss Schalkes Mittelstürmer nun auch im Alltagsgeschäft Bundesliga seinen Lieferdienst anbieten.",
-   "clubs": [
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/vier-spiele-sind-definitiv-zu-viel-kovac-kritisiert-laenderspielpause-1259047/video",
-   "title": "\"Vier Spiele sind definitiv zu viel\": Kovac kritisiert Länderspielpause",
-   "link": "https://www.kicker.de/vier-spiele-sind-definitiv-zu-viel-kovac-kritisiert-laenderspielpause-1259047/video",
-   "source": "kicker",
-   "published": "2026-10-07T12:01:25Z",
-   "teaser": "Niko Kovac spricht von einer \"inakzeptablen\" Länderspielpause verbunden mit einigen Ausfällen bei Borussia Dortmund. Die vier Spiele am Stück wären definitiv zu viel.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gejagter-statt-jaeger-kovac-geniessen-im-moment-die-position-1259037/video",
-   "title": "Gejagter statt Jäger? Kovac: \"Genießen im Moment die Position\"",
-   "link": "https://www.kicker.de/gejagter-statt-jaeger-kovac-geniessen-im-moment-die-position-1259037/video",
-   "source": "kicker",
-   "published": "2026-10-07T11:41:37Z",
-   "teaser": "Borussia Dortmund geht als Tabellenführer in den kommenden Spieltag. BVB-Trainer Niko Kovac sprach auf der Pressekonferenz vom Status des Gejagten.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/torwart-tore-ein-derby-held-ein-brisantes-duell-und-35-sekunden-fuer-die-geschichtsbuecher-1258993/video",
-   "title": "Torwart-Tore: Ein Derby-Held, ein brisantes Duell und 35 Sekunden für die Geschichtsbücher",
-   "link": "https://www.kicker.de/torwart-tore-ein-derby-held-ein-brisantes-duell-und-35-sekunden-fuer-die-geschichtsbuecher-1258993/video",
-   "source": "kicker",
-   "published": "2026-10-07T10:32:24Z",
-   "teaser": "Jeder auf dem Fußballplatz hat seinen Job. Der Stürmer soll Tore schießen, der Torwart soll Tore verhindern. Aber was, wenn sich die Rollen drehen? 38 Torwarttore wurden in der Bundesliga-Historie erzielt - von insgesamt 11 Torhütern. Hier …",
-   "clubs": [],
    "transfer": false
   }
  ]
