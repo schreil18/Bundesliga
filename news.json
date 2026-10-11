@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T11:49:12Z",
+ "updated": "2026-10-11T12:26:47Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
+   "title": "Muheims Traumtor gegen Hoffenheim lässt Hamburg eskalieren",
+   "link": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T12:04:34Z",
+   "teaser": "Mehrere zurückgenommene Treffer, ein Platzverweis, eine Verletzung und ein spätes Traumtor zum Sieg - die Partie zwischen Hoffenheim und Hamburg hatte wirklich alles.",
+   "clubs": [
+    175,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hauptdarsteller-seimen-und-fuehrich-wiedersehen-mit-freude-1260139/artikel",
+   "title": "Hauptdarsteller Seimen und Führich: Wiedersehen mit Freude",
+   "link": "https://www.kicker.de/hauptdarsteller-seimen-und-fuehrich-wiedersehen-mit-freude-1260139/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T11:49:23Z",
+   "teaser": "Beim SC Paderborn machten sie den Schritt in die Bundesliga. Bei ihrer Rückkehr mit dem VfB waren Dennis Seimen und Chris Führich die Hauptdarsteller des Stuttgarter Sieges.",
+   "clubs": [
+    16,
+    31
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/martinez-rueffelt-ben-seghir-muss-lernen-seinen-koerper-besser-zu-managen-1260108/artikel",
    "title": "Martinez rüffelt Ben Seghir: \"Muss lernen, seinen Körper besser zu managen\"",
@@ -666,19 +692,6 @@
    "clubs": [
     6,
     81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
-   "title": "Muheims Traumtor gegen Hoffenheim lässt Hamburg eskalieren",
-   "link": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-10T15:49:44Z",
-   "teaser": "Mehrere zurückgenommene Treffer, ein Platzverweis, eine Verletzung und ein spätes Traumtor zum Sieg - die Partie zwischen Hoffenheim und Hamburg hatte wirklich alles.",
-   "clubs": [
-    175,
-    100
    ],
    "transfer": false
   },
