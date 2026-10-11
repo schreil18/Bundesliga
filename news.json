@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T19:20:28Z",
+ "updated": "2026-10-11T19:48:11Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/boeller-und-raketen-im-rheinderby-es-ist-nicht-voellig-aus-dem-ruder-gelaufen-1260318/artikel",
+   "title": "Böller und Raketen im Rheinderby: \"Es ist nicht völlig aus dem Ruder gelaufen\"",
+   "link": "https://www.kicker.de/boeller-und-raketen-im-rheinderby-es-ist-nicht-voellig-aus-dem-ruder-gelaufen-1260318/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T19:20:19Z",
+   "teaser": "Das Spiel zwischen Köln und Gladbach wurde am Sonntag von Ausschreitungen überschattet. Beide Klubs verurteilten die Vorkommnisse scharf und kündigten eine Aufarbeitung an. FC-Geschäftsführer Philipp Türoff verteidigt derweil das neue …",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/loest-nun-amoako-die-hsv-probleme-1260250/artikel",
+   "title": "Löst nun Amoako die HSV-Probleme?",
+   "link": "https://www.kicker.de/loest-nun-amoako-die-hsv-probleme-1260250/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T19:15:50Z",
+   "teaser": "Der Kreuzbandriss von Nicolai Remberg überschattet den Hamburger Sieg in Hoffenheim. Immerhin: Anders als in der Vorsaison ist mit Sommer-Zugang Kofi Amoako nun ein Profi im Kader, der vom Profil her zum direkten Ersatz taugt.",
+   "clubs": [
+    175,
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/el-mala-ueber-befreiungsschlag-und-was-ihm-am-gladbacher-jubel-missfallen-hat-1260265/artikel",
    "title": "El Mala über Befreiungsschlag und was ihm am Gladbacher Jubel missfallen hat",
@@ -61,6 +87,19 @@
    "source": "kicker",
    "published": "2026-10-11T18:22:15Z",
    "teaser": "Nach der enttäuschenden Derbypleite gegen Köln stellte sich Alexander Blessin bei den Fans demonstrativ vor die Gladbacher Mannschaft. Der neue Trainer erklärte im Anschluss, welche Botschaft er damit senden wollte.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wagner-das-war-brutal-die-jungs-haben-sich-in-alles-reingeschmissen-1260320/video",
+   "title": "Wagner: \"Das war brutal, die Jungs haben sich in alles reingeschmissen\"",
+   "link": "https://www.kicker.de/wagner-das-war-brutal-die-jungs-haben-sich-in-alles-reingeschmissen-1260320/video",
+   "source": "kicker",
+   "published": "2026-10-11T18:21:41Z",
+   "teaser": "Der 1. FC Köln fährt im hitzigen Derby gegen Gladbach drei Punkte ein. Trainer René Wagner bedankt sich dabei bei den Fans, die der Mannschaft am Schluss noch den entscheidenden Push gegeben hätten.",
    "clubs": [
     87,
     65
@@ -2534,43 +2573,6 @@
    "published": "2026-10-07T08:01:02Z",
    "teaser": "Er ist mit seiner Erfahrung wichtig auf dem Platz und für die Mannschaft von Trainer Ralf Kettemann. Nach mehrwöchiger Verletzungspause hofft der Angreifer nun auf seinen ersten Saisoneinsatz - gegen einen Gegner, auf den er im Dress …",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/weisers-14-monatige-leidenszeit-fast-eine-psychose-entwickelt-1258923/artikel",
-   "title": "Weisers 14-monatige Leidenszeit: \"Fast eine Psychose entwickelt\"",
-   "link": "https://www.kicker.de/weisers-14-monatige-leidenszeit-fast-eine-psychose-entwickelt-1258923/artikel",
-   "source": "kicker",
-   "published": "2026-10-07T06:24:29Z",
-   "teaser": "Nach über 14 Monaten Leidenszeit ist Mitchell Weiser zurück. Der Werder-Profi spricht über mentale Tiefpunkte, den emotionalen Moment seines Comebacks und seinen im Sommer auslaufenden Vertrag.",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-neustart-mit-abwehrsorgen-bvb-vor-heissem-herbst-100.html",
-   "title": "Neustart mit Abwehrsorgen - BVB vor heißem Herbst",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-neustart-mit-abwehrsorgen-bvb-vor-heissem-herbst-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-05T11:48:00Z",
-   "teaser": "Fast alle Profis unterwegs, neue Verletzungssorgen in der Abwehr: Für Borussia Dortmund hatte die Länderspielpause ihren Preis.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Verletzungen,hsv-2182.html",
-   "title": "Verletzungssorgen beim HSV - Viele Lädierte nach der Länderspielpause",
-   "link": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Verletzungen,hsv-2182.html",
-   "source": "Sportschau",
-   "published": "2026-10-05T10:46:26Z",
-   "teaser": "Merlin Polzin hat seit der Länderspielpause gleich drei Verletzte zu beklagen - und in Yussuf Poulsen ein weiteres Sorgenkind. Gegen Hoffenheim wird der Trainer erneut puzzlen müssen.",
-   "clubs": [
-    175,
-    100
-   ],
    "transfer": false
   }
  ]
