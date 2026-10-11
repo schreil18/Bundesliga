@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T10:21:45Z",
+ "updated": "2026-10-11T10:49:14Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/kimmichs-klare-reaktion-auf-die-kritik-1260076/artikel",
+   "title": "Kimmichs klare Reaktion auf die Kritik",
+   "link": "https://www.kicker.de/kimmichs-klare-reaktion-auf-die-kritik-1260076/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T10:40:28Z",
+   "teaser": "Nach seiner Abreise von der Nationalmannschaft entbrannte eine Debatte um Joshua Kimmich. Jetzt äußerte sich auch der Kapitän erstmals.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/neuer-oder-urbig-wer-darf-in-stavager-ran-1260109/artikel",
    "title": "Neuer oder Urbig: Wer darf in Stavager ran?",
