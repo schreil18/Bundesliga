@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T10:49:14Z",
+ "updated": "2026-10-11T11:20:51Z",
  "sources": [
   {
    "name": "kicker",
@@ -29,6 +29,19 @@
    "id": "https://www.kicker.de/neuer-oder-urbig-wer-darf-in-stavager-ran-1260109/artikel",
    "title": "Neuer oder Urbig: Wer darf in Stavager ran?",
    "link": "https://www.kicker.de/neuer-oder-urbig-wer-darf-in-stavager-ran-1260109/artikel",
+   "source": "kicker",
+   "published": "2026-10-11T10:00:45Z",
+   "teaser": "Jonas Urbig soll auch in der Phase bis zur nächsten Länderspielpause mindestens zwei Einsätze beim FC Bayern bekommen. Ausgerechnet Manuel Neuers Patzer in Augsburg könnte den Ursprungsplan nun verändert werden.",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/neuer-oder-urbig-wer-darf-in-stavanger-ran-1260109/artikel",
+   "title": "Neuer oder Urbig: Wer darf in Stavanger ran?",
+   "link": "https://www.kicker.de/neuer-oder-urbig-wer-darf-in-stavanger-ran-1260109/artikel",
    "source": "kicker",
    "published": "2026-10-11T10:00:45Z",
    "teaser": "Jonas Urbig soll auch in der Phase bis zur nächsten Länderspielpause mindestens zwei Einsätze beim FC Bayern bekommen. Ausgerechnet Manuel Neuers Patzer in Augsburg könnte den Ursprungsplan nun verändert werden.",
