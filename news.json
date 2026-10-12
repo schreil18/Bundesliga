@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T07:03:41Z",
+ "updated": "2026-10-12T07:29:26Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-koelns-el-mala-entscheidet-derby-gegen-moenchengladbach-102.html",
+   "title": "Kölns El Mala entscheidet rheinisches Derby gegen Mönchengladbach",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-koelns-el-mala-entscheidet-derby-gegen-moenchengladbach-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-12T07:28:00Z",
+   "teaser": "Der 1. FC Köln hat Borussia Mönchengladbach in einem hitzigen rheinischen Derby eine weitere Niederlage zugefügt.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/imeri-deutet-an-was-er-union-geben-kann-1260171/artikel",
    "title": "Imeri deutet an, was er Union geben kann",
@@ -232,19 +245,6 @@
    "clubs": [
     175,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-koeln-vergroessert-gladbachs-sorgen-bei-blessins-debuet-100.html",
-   "title": "Kölns El Mala entscheidet rheinisches Derby gegen Mönchengladbach",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-koeln-vergroessert-gladbachs-sorgen-bei-blessins-debuet-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T19:15:00Z",
-   "teaser": "Der 1. FC Köln hat Borussia Mönchengladbach im einem hitzigen rheinischen Derby eine weitere Niederlage zugefügt.",
-   "clubs": [
-    87,
-    65
    ],
    "transfer": false
   },
