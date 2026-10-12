@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T12:40:09Z",
+ "updated": "2026-10-12T13:37:26Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/sechs-verletzte-nach-ausschreitungen-beim-rheinderby-1260599/artikel",
+   "title": "Sechs Verletzte nach Ausschreitungen beim Rheinderby",
+   "link": "https://www.kicker.de/sechs-verletzte-nach-ausschreitungen-beim-rheinderby-1260599/artikel",
+   "source": "kicker",
+   "published": "2026-10-12T13:02:32Z",
+   "teaser": "In der zweiten Hälfte des Derbys zwischen dem 1. FC Köln und Borussia Mönchengladbach geraten Anhänger beider Fanlager aneinander. Sechs Menschen werden dabei laut Polizei verletzt - unter anderem ein Kind.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/die-folgen-des-skhiri-ausfalls-fuer-koelns-mittelfeld-1260539/artikel",
+   "title": "Die Folgen des Skhiri-Ausfalls für Kölns Mittelfeld",
+   "link": "https://www.kicker.de/die-folgen-des-skhiri-ausfalls-fuer-koelns-mittelfeld-1260539/artikel",
+   "source": "kicker",
+   "published": "2026-10-12T12:49:44Z",
+   "teaser": "Zwischen all der Derbysieger-Feierlichkeiten dachten die Spieler und Verantwortlichen des 1. FC Köln am Sonntag auch an den verletzten Ellyes Skhiri. Die Säule im FC-Mittelfeld wird lange fehlen, besonders ein Duo ist nun gefordert.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/die-bremer-bieger-eine-bessere-basis-und-das-bank-geheimnis-1260552/artikel",
    "title": "Die Bremer Bieger, eine bessere Basis und das Bank-Geheimnis",
@@ -2561,31 +2586,6 @@
     7
    ],
    "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/fernandez-aufstieg-als-andrichs-chance-warum-martinez-in-der-zwickmuehle-steckt-1258782/artikel",
-   "title": "Fernandez' Aufstieg als Andrichs Chance? Warum Martinez in der Zwickmühle steckt",
-   "link": "https://www.kicker.de/fernandez-aufstieg-als-andrichs-chance-warum-martinez-in-der-zwickmuehle-steckt-1258782/artikel",
-   "source": "kicker",
-   "published": "2026-10-08T07:47:30Z",
-   "teaser": "Die Hierarchie in Leverkusens defensivem Mittelfeld ist in dieser Saison bislang klar. Mit Aleix Garcia bildet Ezequiel Fernandez die Stamm-Doppelsechs. Der Aufstieg des Neu-Nationalspielers könnte Routinier Robert Andrich aber jetzt eine …",
-   "clubs": [
-    6
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-koeln-vor-gladbach-derby-mit-koelner-sturm-problem-100.html",
-   "title": "Köln vor Gladbach - Derby mit Kölner Sturm-Problem",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-koeln-vor-gladbach-derby-mit-koelner-sturm-problem-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-08T05:41:15Z",
-   "teaser": "Die Stürmer-Not beim 1. FC Köln kommt vor dem Derby gegen Gladbach zur Unzeit. Welche Personaloptionen bieten sich Trainer Wagner?",
-   "clubs": [
-    87,
-    65
-   ],
-   "transfer": false
   }
  ]
 }
