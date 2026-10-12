@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T16:52:28Z",
+ "updated": "2026-10-12T17:23:53Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/hsv-deshalb-bleibt-muheims-perspektive-schwierig-1260561/artikel",
+   "title": "HSV: Deshalb bleibt Muheims Perspektive schwierig",
+   "link": "https://www.kicker.de/hsv-deshalb-bleibt-muheims-perspektive-schwierig-1260561/artikel",
+   "source": "kicker",
+   "published": "2026-10-12T16:49:50Z",
+   "teaser": "In Hoffenheim gehörte Miro Muheim erstmals in dieser Spielzeit zum HSV-Kader und hatte als Joker direkt entscheidenden Anteil am 3:2-Sieg. Die Perspektive des Schweizers verändert sich dadurch jedoch zumindest nicht zwangsläufig.",
+   "clubs": [
+    175,
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/sechs-verletzte-nach-ausschreitungen-beim-rheinderby-1260599/artikel",
    "title": "Sechs Verletzte nach Ausschreitungen beim Rheinderby",
@@ -2572,18 +2585,6 @@
    "clubs": [
     7,
     134
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/bvb-stellt-klar-sammers-vertrag-laeuft-bis-2028-1259266/artikel",
-   "title": "BVB stellt klar: Sammers Vertrag läuft bis 2028",
-   "link": "https://www.kicker.de/bvb-stellt-klar-sammers-vertrag-laeuft-bis-2028-1259266/artikel",
-   "source": "kicker",
-   "published": "2026-10-08T10:03:13Z",
-   "teaser": "Matthias Sammer bleibt Borussia Dortmund als Berater erhalten. Klubchef Carsten Cramer bestätigte, dass Sammers Vertrag bis 2028 läuft.",
-   "clubs": [
-    7
    ],
    "transfer": true
   }
