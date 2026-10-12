@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T11:25:12Z",
+ "updated": "2026-10-12T11:55:06Z",
  "sources": [
   {
    "name": "kicker",
@@ -19,6 +19,18 @@
    "id": "https://www.kicker.de/die-bremer-bieger-eine-bessere-basis-und-das-bank-geheimnis-1260552/artikel",
    "title": "Die Bremer Bieger, eine bessere Basis und das Bank-Geheimnis",
    "link": "https://www.kicker.de/die-bremer-bieger-eine-bessere-basis-und-das-bank-geheimnis-1260552/artikel",
+   "source": "kicker",
+   "published": "2026-10-12T11:14:56Z",
+   "teaser": "Schon fünf Punkte nach Rückstand, damit ist der SV Werder Bremen bislang führend in der Bundesliga - genauso wie bei Toren in den Schlussminuten. Über Gründe und Begleiterscheinungen.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/die-bremer-bieger-warum-ist-werder-nach-rueckstaenden-so-stark-1260552/artikel",
+   "title": "Die Bremer Bieger: Warum ist Werder nach Rückständen so stark?",
+   "link": "https://www.kicker.de/die-bremer-bieger-warum-ist-werder-nach-rueckstaenden-so-stark-1260552/artikel",
    "source": "kicker",
    "published": "2026-10-12T11:14:56Z",
    "teaser": "Schon fünf Punkte nach Rückstand, damit ist der SV Werder Bremen bislang führend in der Bundesliga - genauso wie bei Toren in den Schlussminuten. Über Gründe und Begleiterscheinungen.",
@@ -2572,18 +2584,6 @@
    "clubs": [
     87,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-bischof-auf-dfb-ueberholspur--droht-beim-fcb-wieder-die-bank-102.html",
-   "title": "Tom Bischof droht beim FC Bayern wieder die Bank",
-   "link": "https://www.sportschau.de/regional/br/br-bischof-auf-dfb-ueberholspur--droht-beim-fcb-wieder-die-bank-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-08T05:35:45Z",
-   "teaser": "Tom Bischof brillierte zuletzt in der DFB-Elf. Doch zurück beim FC Bayern wird es für ihn wieder eng: Joshua Kimmich und Aleksandar Pavlović sind im Mittelfeld wohl gesetzt.",
-   "clubs": [
-    40
    ],
    "transfer": false
   }
