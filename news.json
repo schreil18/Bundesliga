@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T09:26:52Z",
+ "updated": "2026-10-12T09:55:30Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/eberl-fuehlt-mit-gladbach-ich-war-kein-gluecksbringer-1260529/video",
+   "title": "Eberl fühlt mit Gladbach: \"Ich war kein Glücksbringer\"",
+   "link": "https://www.kicker.de/eberl-fuehlt-mit-gladbach-ich-war-kein-gluecksbringer-1260529/video",
+   "source": "kicker",
+   "published": "2026-10-12T09:43:06Z",
+   "teaser": "Max Eberl wurde vor dem Abflug des FC Bayern nach Norwegen auf seinen Ex-Klub Borussia Mönchengladbach angesprochen. Für die Fohlen hofft er, dass sie schnell wieder aus der Krise kommen.",
+   "clubs": [
+    40,
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
    "title": "Seedorf übernimmt Corinthians - Palmer bindet sich acht Jahre an Chelsea",
@@ -2570,19 +2583,6 @@
    "teaser": "Neben den sportlichen Erfolgen mit dem FC Bayern imponiert Vincent Kompany auch abseits des Fußballplatzes durch seinen Einsatz gegen Rassismus. Dafür wird der Trainer nun vom bayerischen Ministerpräsidenten Markus Söder mit einem …",
    "clubs": [
     40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/mehr-als-nur-ein-edeljoker-krattenmacher-stellt-wagner-vor-die-wahl-1258992/artikel",
-   "title": "Mehr als nur ein Edeljoker? Krattenmacher stellt Wagner vor die Wahl",
-   "link": "https://www.kicker.de/mehr-als-nur-ein-edeljoker-krattenmacher-stellt-wagner-vor-die-wahl-1258992/artikel",
-   "source": "kicker",
-   "published": "2026-10-07T17:08:54Z",
-   "teaser": "Neuzugang Krattenmacher kam bei Aufsteiger Elversberg bislang immer \"nur\" von der Bank - wusste von dort jedoch mit einer starken Quote zu überzeugen. Gegen Union Berlin ist der 21-Jährige aus unterschiedlichen Gründen ein …",
-   "clubs": [
-    80,
-    198
    ],
    "transfer": false
   }
