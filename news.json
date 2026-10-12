@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T04:25:11Z",
+ "updated": "2026-10-12T04:55:24Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/imeri-deutet-an-was-er-union-geben-kann-1260171/artikel",
+   "title": "Imeri deutet an, was er Union geben kann",
+   "link": "https://www.kicker.de/imeri-deutet-an-was-er-union-geben-kann-1260171/artikel",
+   "source": "kicker",
+   "published": "2026-10-12T04:28:57Z",
+   "teaser": "Beim so wichtigen 1:0-Heimsieg gegen die SV Elversberg feierte Kastriot Imeri seinen Einstand für Union Berlin und somit in der Bundesliga. Der Neuzugang aus der Schweiz hatte gute Szenen, weist aber auch noch Steigerungspotenzial auf.",
+   "clubs": [
+    80,
+    198
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/burcu-treffer-stoppt-unions-sieglosserie,video-bundesliga-union-berlin-sv-07-elversberg-100.html",
    "title": "Bundesliga: Burcu-Tor stoppt Unions Sieglosserie gegen Elversberg",
@@ -2573,19 +2586,6 @@
    "teaser": "Der langjährige Trainer und Manager Hans-Dieter Schmidt ist verstorben. Er hinterließ seine Fußspuren beim FC Bayern, aber auch in der großen weiten Welt.",
    "clubs": [
     40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/blessins-neues-gladbach-und-das-derby-als-stresstest-1259058/artikel",
-   "title": "Blessins neues Gladbach und das Derby als Stresstest",
-   "link": "https://www.kicker.de/blessins-neues-gladbach-und-das-derby-als-stresstest-1259058/artikel",
-   "source": "kicker",
-   "published": "2026-10-07T15:03:24Z",
-   "teaser": "Es wird ernst für den neuen Cheftrainer der Borussia. Am Sonntag in Köln zeigt sich, wie viel Input der 53-Jährige schon liefern konnte. Plant der Coach eine Überraschung auf der Sechs?",
-   "clubs": [
-    87,
-    65
    ],
    "transfer": false
   }
