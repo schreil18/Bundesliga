@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T17:23:53Z",
+ "updated": "2026-10-12T17:51:26Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/nach-diskriminierungsvorwuerfen-zwoelfwoechiges-funktionsverbot-fuer-haertel-1260653/artikel",
+   "title": "Nach Diskriminierungsvorwürfen: Zwölfwöchiges Funktionsverbot für Härtel",
+   "link": "https://www.kicker.de/nach-diskriminierungsvorwuerfen-zwoelfwoechiges-funktionsverbot-fuer-haertel-1260653/artikel",
+   "source": "kicker",
+   "published": "2026-10-12T17:33:25Z",
+   "teaser": "In einem anonymen Schreiben wird Union-Nachwuchstrainer Jens Härtel Diskriminierung vorgeworfen. Der Coach legt sein Amt nieder. Auch das Sportgericht des DFB reagiert.",
+   "clubs": [
+    80
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/hsv-deshalb-bleibt-muheims-perspektive-schwierig-1260561/artikel",
    "title": "HSV: Deshalb bleibt Muheims Perspektive schwierig",
@@ -2574,19 +2586,6 @@
     134
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/vor-dortmund-nach-dem-debakel-weiser-ist-bereit-fuer-mehr-hein-vor-rueckkehr-1259244/artikel",
-   "title": "Vor Dortmund, nach dem Debakel: Weiser ist bereit für mehr - Hein vor Rückkehr",
-   "link": "https://www.kicker.de/vor-dortmund-nach-dem-debakel-weiser-ist-bereit-fuer-mehr-hein-vor-rueckkehr-1259244/artikel",
-   "source": "kicker",
-   "published": "2026-10-08T10:26:22Z",
-   "teaser": "Nach der enttäuschenden XXL-Länderspielpause wartet mit Borussia Dortmund direkt ein echtes Schwergewicht auf Werder Bremen. Niclas Füllkrug dürfte gegen seinen Ex-Klub eine entscheidende Rolle zukommen, zudem jagt der Stürmer einen …",
-   "clubs": [
-    7,
-    134
-   ],
-   "transfer": true
   }
  ]
 }
