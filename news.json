@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T05:24:25Z",
+ "updated": "2026-10-12T05:52:56Z",
  "sources": [
   {
    "name": "kicker",
@@ -236,6 +236,19 @@
    "transfer": false
   },
   {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-koeln-vergroessert-gladbachs-sorgen-bei-blessins-debuet-100.html",
+   "title": "Kölns El Mala entscheidet rheinisches Derby gegen Mönchengladbach",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-koeln-vergroessert-gladbachs-sorgen-bei-blessins-debuet-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T19:15:00Z",
+   "teaser": "Der 1. FC Köln hat Borussia Mönchengladbach im einem hitzigen rheinischen Derby eine weitere Niederlage zugefügt.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/el-mala-ueber-befreiungsschlag-und-was-ihm-am-gladbacher-jubel-missfallen-hat-1260265/artikel",
    "title": "El Mala über Befreiungsschlag und was ihm am Gladbacher Jubel missfallen hat",
    "link": "https://www.kicker.de/el-mala-ueber-befreiungsschlag-und-was-ihm-am-gladbacher-jubel-missfallen-hat-1260265/artikel",
@@ -363,19 +376,6 @@
     7,
     112,
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-koeln-vergroessert-gladbachs-sorgen-bei-blessins-debuet-100.html",
-   "title": "Kölns El Mala entscheidet rheinisches Derby gegen Mönchengladbach",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-koeln-vergroessert-gladbachs-sorgen-bei-blessins-debuet-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T17:05:13Z",
-   "teaser": "Der 1. FC Köln hat Borussia Mönchengladbach im einem hitzigen rheinischen Derby eine weitere Niederlage zugefügt.",
-   "clubs": [
-    87,
-    65
    ],
    "transfer": false
   },
