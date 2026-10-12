@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T07:55:51Z",
+ "updated": "2026-10-12T08:27:49Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Seedorf übernimmt Corinthians - Palmer bindet sich acht Jahre an Chelsea",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-10-12T08:19:41Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [],
+   "transfer": true
+  },
   {
    "id": "https://www.sportschau.de/regional/wdr/wdr-koelns-el-mala-entscheidet-derby-gegen-moenchengladbach-102.html",
    "title": "Kölns El Mala entscheidet rheinisches Derby gegen Mönchengladbach",
@@ -1825,16 +1835,6 @@
     134
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Palmer bindet sich acht Jahre an Chelsea - Storck wird Trainer in der Türkei",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-10-09T19:54:21Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/live-dortmund-uebt-viel-druck-aus-fuellkrug-scheitert-an-kobel-1258778/artikel",
