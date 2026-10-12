@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T04:55:24Z",
+ "updated": "2026-10-12T05:24:25Z",
  "sources": [
   {
    "name": "kicker",
@@ -142,6 +142,18 @@
    "clubs": [
     175,
     100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/muss-urbig-statt-neuer-ins-bayern-tor,bundesliga-update-rueckblick-spieltag-fuenf-106.html",
+   "title": "Muss Jonas Urbig statt Manuel Neuer ins Bayern-Tor?",
+   "link": "https://www.sportschau.de/fussball/bundesliga/muss-urbig-statt-neuer-ins-bayern-tor,bundesliga-update-rueckblick-spieltag-fuenf-106.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T21:49:07Z",
+   "teaser": "Patzer und Negativrekord: Das Team des Bundesliga Update Podcasts diskutiert, ob Manuel Neuer noch gut genug für das Tor des FC Bayern ist.",
+   "clubs": [
+    40
    ],
    "transfer": false
   },
@@ -758,6 +770,19 @@
    "published": "2026-10-11T07:48:00Z",
    "teaser": "Bevor Robin Fellhauer mit seinem Tor nach acht Sekunden einen neuen Bundesliga-Rekord aufstellte, teilten sich den Rekord für das schnellste Tor Karim Bellarabi und Kevin Volland.",
    "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-blamage-in-leipzig-und-es-hat-rumms-gemacht-100.html",
+   "title": "Und es hat Rumms gemacht!",
+   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-blamage-in-leipzig-und-es-hat-rumms-gemacht-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-11T07:35:16Z",
+   "teaser": "Die Eintracht zeigt in Leipzig eine unterirdische Abwehrleistung. Das zusätzlich Negative daran: Wirklich überraschend kommt das nicht. Zum Problem wird immer mehr der Frankfurter Kapitän.",
+   "clubs": [
+    1635,
+    91
+   ],
    "transfer": false
   },
   {
@@ -2558,34 +2583,6 @@
    "clubs": [
     80,
     198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/das-bundesliga-quiz-zum-5-spieltag-1259115/artikel",
-   "title": "Das Bundesliga-Quiz zum 5. Spieltag",
-   "link": "https://www.kicker.de/das-bundesliga-quiz-zum-5-spieltag-1259115/artikel",
-   "source": "kicker",
-   "published": "2026-10-07T16:40:39Z",
-   "teaser": "Nach der langen Länderspielpause steht die Bundesliga wieder im Fokus. Legt der BVB gegen Bremen am 5. Spieltag vor und bleibt Spitzenreiter? Die Bayern müssen zu stark gestarteten Augsburgern. Gladbachs neuer Coach Alexander Blessin hat …",
-   "clubs": [
-    40,
-    7,
-    87,
-    134,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bratwurst-mit-maradona-pokal-coup-mit-hannover-96-trauer-um-hans-dieter-schmidt-1259113/artikel",
-   "title": "Bratwurst mit Maradona, Pokal-Coup mit Hannover 96: Trauer um Hans-Dieter Schmidt",
-   "link": "https://www.kicker.de/bratwurst-mit-maradona-pokal-coup-mit-hannover-96-trauer-um-hans-dieter-schmidt-1259113/artikel",
-   "source": "kicker",
-   "published": "2026-10-07T15:40:37Z",
-   "teaser": "Der langjährige Trainer und Manager Hans-Dieter Schmidt ist verstorben. Er hinterließ seine Fußspuren beim FC Bayern, aber auch in der großen weiten Welt.",
-   "clubs": [
-    40
    ],
    "transfer": false
   }
