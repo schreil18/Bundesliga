@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T10:53:51Z",
+ "updated": "2026-10-12T11:25:12Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/die-bremer-bieger-eine-bessere-basis-und-das-bank-geheimnis-1260552/artikel",
+   "title": "Die Bremer Bieger, eine bessere Basis und das Bank-Geheimnis",
+   "link": "https://www.kicker.de/die-bremer-bieger-eine-bessere-basis-und-das-bank-geheimnis-1260552/artikel",
+   "source": "kicker",
+   "published": "2026-10-12T11:14:56Z",
+   "teaser": "Schon fünf Punkte nach Rückstand, damit ist der SV Werder Bremen bislang führend in der Bundesliga - genauso wie bei Toren in den Schlussminuten. Über Gründe und Begleiterscheinungen.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/werden-eine-entwicklung-nehmen-sanders-glaube-an-die-wende-in-gladbach-1260493/artikel",
+   "title": "\"Werden eine Entwicklung nehmen\": Sanders Glaube an die Wende in Gladbach",
+   "link": "https://www.kicker.de/werden-eine-entwicklung-nehmen-sanders-glaube-an-die-wende-in-gladbach-1260493/artikel",
+   "source": "kicker",
+   "published": "2026-10-12T11:11:30Z",
+   "teaser": "Die Borussen müssen die Enttäuschung über die 1:2-Niederlage in Köln wegstecken. Mittelfeldspieler Philipp Sander nimmt aus dem Derby aber auch positive Erkenntnisse mit.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/eberl-fuehlt-mit-gladbach-ich-war-kein-gluecksbringer-1260529/video",
    "title": "Eberl fühlt mit Gladbach: \"Ich war kein Glücksbringer\"",
@@ -2557,30 +2582,6 @@
    "source": "Sportschau",
    "published": "2026-10-08T05:35:45Z",
    "teaser": "Tom Bischof brillierte zuletzt in der DFB-Elf. Doch zurück beim FC Bayern wird es für ihn wieder eng: Joshua Kimmich und Aleksandar Pavlović sind im Mittelfeld wohl gesetzt.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/totalausfall-auf-allen-ebenen-wie-werder-mit-dem-testspiel-debakel-umgeht-1259181/artikel",
-   "title": "\"Totalausfall auf allen Ebenen\": Wie Werder mit dem Testspiel-Debakel umgeht",
-   "link": "https://www.kicker.de/totalausfall-auf-allen-ebenen-wie-werder-mit-dem-testspiel-debakel-umgeht-1259181/artikel",
-   "source": "kicker",
-   "published": "2026-10-08T04:05:34Z",
-   "teaser": "Die neue Folge kicker Daily!",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/engagierter-anwalt-fuer-menschlichkeit-soeder-ehrt-kompany-mit-sonderpreis-1259145/artikel",
-   "title": "\"Engagierter Anwalt für Menschlichkeit\": Söder ehrt Kompany mit Sonderpreis",
-   "link": "https://www.kicker.de/engagierter-anwalt-fuer-menschlichkeit-soeder-ehrt-kompany-mit-sonderpreis-1259145/artikel",
-   "source": "kicker",
-   "published": "2026-10-07T19:32:02Z",
-   "teaser": "Neben den sportlichen Erfolgen mit dem FC Bayern imponiert Vincent Kompany auch abseits des Fußballplatzes durch seinen Einsatz gegen Rassismus. Dafür wird der Trainer nun vom bayerischen Ministerpräsidenten Markus Söder mit einem …",
    "clubs": [
     40
    ],
