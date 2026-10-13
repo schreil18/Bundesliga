@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T12:31:34Z",
+ "updated": "2026-10-13T13:02:45Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/schalke-verzweifelt-immer-noch-kein-stuermer-tor-1260862/artikel",
+   "title": "Schalke verzweifelt: Immer noch kein Stürmer-Tor",
+   "link": "https://www.kicker.de/schalke-verzweifelt-immer-noch-kein-stuermer-tor-1260862/artikel",
+   "source": "kicker",
+   "published": "2026-10-13T12:56:10Z",
+   "teaser": "Aller Ehren wert, wie Miron Muslic nach dem 1:2 in Überzahl beim SC Freiburg voller Selbstkritik die Verantwortung für die späte Niederlage übernahm. Seine Äußerungen verwässerten zugleich ein Manko, das Schalke 04 unbedingt in den Griff …",
+   "clubs": [
+    112,
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/ricken-ueber-kovac-loyalitaet-und-diskretion-haben-wir-umsonst-dazu-bekommen-1260854/video",
    "title": "Ricken über Kovac: \"Loyalität und Diskretion haben wir umsonst dazu bekommen\"",
@@ -2567,18 +2580,6 @@
    "clubs": [
     87,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wie-huetter-die-eintracht-stabilisieren-will-und-ein-spannender-zweikampf-1259262/artikel",
-   "title": "Wie Hütter die Eintracht stabilisieren will - und ein spannender Zweikampf",
-   "link": "https://www.kicker.de/wie-huetter-die-eintracht-stabilisieren-will-und-ein-spannender-zweikampf-1259262/artikel",
-   "source": "kicker",
-   "published": "2026-10-08T14:52:25Z",
-   "teaser": "Auswärts ist die Eintracht noch ungeschlagen, doch in Leipzig wartet eine gewaltige Herausforderung. Historisch gesehen ist das kein gutes Pflaster für die Hessen. Vor allem ein Spiel macht Trainer Adi Hütter Mut.",
-   "clubs": [
-    1635
    ],
    "transfer": false
   }
