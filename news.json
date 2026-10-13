@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T07:55:18Z",
+ "updated": "2026-10-13T08:27:19Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,42 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/swr/swr-der-sc-freiburg-als-spitzenteam-eine-momentaufnahme-die-laengst-keine-mehr-ist-100.html",
+   "title": "Kommentar: SC Freiburgs Höhenflug ist längst keine \"Momentaufnahme\" mehr",
+   "link": "https://www.sportschau.de/regional/swr/swr-der-sc-freiburg-als-spitzenteam-eine-momentaufnahme-die-laengst-keine-mehr-ist-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-13T07:53:25Z",
+   "teaser": "Nach fünf Spielen grüßt der SC Freiburg als Tabellenführer von der Bundesliga-Spitze. SWR-Reporter Pirmin Styrnol glaubt, dass das keine Momentaufnahme ist.",
+   "clubs": [
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-was-passiert-mit-eintracht-sportchef-markus-kroesche-koechelnde-geruechtekueche-100.html",
+   "title": "Eintrachts Sportchef Markus Krösche wackelt",
+   "link": "https://www.sportschau.de/regional/hr/hr-was-passiert-mit-eintracht-sportchef-markus-kroesche-koechelnde-geruechtekueche-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-13T07:50:40Z",
+   "teaser": "Nach der Demütigung in Leipzig wächst auch wieder die Kritik an der Kader-Zusammenstellung von Markus Krösche. Die Zukunft des Eintracht-Sportvorstands scheint ungewisser denn je.",
+   "clubs": [
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-mattias-tillmann-es-gab-keine-klare-spielidee-100.html",
+   "title": "Mattias Tillmann - \"Es gab keine klare Spielidee\"",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-mattias-tillmann-es-gab-keine-klare-spielidee-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-13T06:00:00Z",
+   "teaser": "Seit rund drei Jahren leitet Matthias Tillmann den FC Schalke 04 als Vorstandsvorsitzender. Beinahe wäre er gescheitert.",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/nach-diskriminierungsvorwuerfen-zwoelfwoechiges-funktionsverbot-fuer-haertel-1260653/artikel",
    "title": "Nach Diskriminierungsvorwürfen: Zwölfwöchiges Funktionsverbot für Härtel",
@@ -135,6 +171,18 @@
    "clubs": [
     87,
     65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-fallen-lassen-oder-stuetzen-die-heikle-zukunftsfrage-von-eintracht-kapitaen-robin-koch-100.html",
+   "title": "Fallen lassen oder stützen? Die heikle Zukunftsfrage von Robin Koch",
+   "link": "https://www.sportschau.de/regional/hr/hr-fallen-lassen-oder-stuetzen-die-heikle-zukunftsfrage-von-eintracht-kapitaen-robin-koch-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-12T05:41:01Z",
+   "teaser": "Adi Hütter rechnet nach dem Leipzig-Debakel öffentlich mit seinem Kapitän ab. Robin Koch ist angeknockt, viel fehlt nicht, um ihn auf die Bretter zu schicken. Oder reicht Hütter dem Verteidiger die Hand?",
+   "clubs": [
+    1635
    ],
    "transfer": false
   },
@@ -2534,56 +2582,6 @@
    "clubs": [
     16,
     31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/platz-der-knoten-moore-hofft-auf-treffer-im-rheinderby-1259316/video",
-   "title": "Platz der Knoten? Moore hofft auf Treffer im Rheinderby",
-   "link": "https://www.kicker.de/platz-der-knoten-moore-hofft-auf-treffer-im-rheinderby-1259316/video",
-   "source": "kicker",
-   "published": "2026-10-08T12:08:32Z",
-   "teaser": "Vor seinem ersten Rheinderby gegen Borussia Mönchengladbach hofft Mikey Moore endlich zu treffen und nicht nur sich, sondern auch die Fans glücklich zu machen.",
-   "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/platzt-der-knoten-moore-hofft-auf-treffer-im-rheinderby-1259316/video",
-   "title": "Platzt der Knoten? Moore hofft auf Treffer im Rheinderby",
-   "link": "https://www.kicker.de/platzt-der-knoten-moore-hofft-auf-treffer-im-rheinderby-1259316/video",
-   "source": "kicker",
-   "published": "2026-10-08T12:08:32Z",
-   "teaser": "Vor seinem ersten Rheinderby gegen Borussia Mönchengladbach hofft Mikey Moore endlich zu treffen und nicht nur sich, sondern auch die Fans glücklich zu machen.",
-   "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hoeness-legt-sich-fest-seimen-rueckt-ins-stuttgarter-tor-1259288/artikel",
-   "title": "Hoeneß legt sich fest: Seimen rückt ins Stuttgarter Tor",
-   "link": "https://www.kicker.de/hoeness-legt-sich-fest-seimen-rueckt-ins-stuttgarter-tor-1259288/artikel",
-   "source": "kicker",
-   "published": "2026-10-08T11:47:47Z",
-   "teaser": "Nach längerer Verletzungspause ist Dennis Seimen zurück und wird nun wie vorgesehen die Rolle als Nummer 1 beim VfB Stuttgart einnehmen. Das gab Trainer Sebastian Hoeneß vor dem Auswärtsspiel beim SC Paderborn bekannt - samt großem Lob für …",
-   "clubs": [
-    16,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bremens-0-7-klatsche-weckt-bei-kovac-erinnerungen-1259267/artikel",
-   "title": "Bremens 0:7-Klatsche weckt bei Kovac Erinnerungen",
-   "link": "https://www.kicker.de/bremens-0-7-klatsche-weckt-bei-kovac-erinnerungen-1259267/artikel",
-   "source": "kicker",
-   "published": "2026-10-08T11:24:48Z",
-   "teaser": "Niko Kovac könnte am Freitagabend etwas gelingen, das zuletzt Lucien Favre 2019 schaffte. Seither verteidigte Borussia Dortmund nie eine Tabellenführung. Das Testspiel-Debakel von Werder Bremen spielt im Kopf des Trainers allerdings keine …",
-   "clubs": [
-    7,
-    134
    ],
    "transfer": false
   }
