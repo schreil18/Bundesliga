@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T09:53:45Z",
+ "updated": "2026-10-13T10:25:50Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/nur-einer-vor-kovac-die-punkteschnitte-der-bvb-trainer-seit-2000-1084246/slideshow",
+   "title": "Nur einer vor Kovac: Die Punkteschnitte der BVB-Trainer seit 2000",
+   "link": "https://www.kicker.de/nur-einer-vor-kovac-die-punkteschnitte-der-bvb-trainer-seit-2000-1084246/slideshow",
+   "source": "kicker",
+   "published": "2026-10-13T09:55:19Z",
+   "teaser": "Borussia Dortmund hat den Vertrag mit Niko Kovac verlängert - kein Wunder mit Blick auf den starken Punkteschnitt des Coaches. Seit 2000 kommt nur ein Trainer auf eine bessere Bilanz auf der BVB-Bank.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/noch-vor-der-abreise-hier-unterschreibt-kovac-seinen-neuen-bvb-vertrag-1260777/video",
    "title": "Noch vor der Abreise: Hier unterschreibt Kovac seinen neuen BVB-Vertrag",
@@ -2569,18 +2581,6 @@
    "clubs": [
     1635,
     91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/rassismus-und-gewalt-pherai-ueber-das-schlimmste-spiel-meiner-karriere-1259311/artikel",
-   "title": "Rassismus und Gewalt: Pherai über \"das schlimmste Spiel meiner Karriere\"",
-   "link": "https://www.kicker.de/rassismus-und-gewalt-pherai-ueber-das-schlimmste-spiel-meiner-karriere-1259311/artikel",
-   "source": "kicker",
-   "published": "2026-10-08T13:23:14Z",
-   "teaser": "Immanuel Pherai war mit der Nationalmannschaft von Suriname auf Länderspielreise - und erlebte dort das schlimmste Spiel seiner Karriere. Nach seiner Rückkehr nach Hamburg sprach der HSV-Profi über das Geschehene.",
-   "clubs": [
-    100
    ],
    "transfer": false
   }
