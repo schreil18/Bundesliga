@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T10:25:50Z",
+ "updated": "2026-10-13T10:54:46Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,30 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/die-graue-eminenz-geht-nickl-loest-wenning-als-obersten-bayer-kontrolleur-ab-1260781/artikel",
+   "title": "Die graue Eminenz geht: Nickl löst Wenning als obersten Bayer-Kontrolleur ab",
+   "link": "https://www.kicker.de/die-graue-eminenz-geht-nickl-loest-wenning-als-obersten-bayer-kontrolleur-ab-1260781/artikel",
+   "source": "kicker",
+   "published": "2026-10-13T10:28:43Z",
+   "teaser": "Medial trat Werner Wenning fast nie in Erscheinung. Dennoch ist der 80-Jährige eine entscheidende Figur bei Bayer 04. Zum Jahreswechsel wird der Vorsitzende des Kontrollgremiums des Klubs von Wolfgang Nickl abgelöst.",
+   "clubs": [
+    6
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/heins-no-brainer-entscheidung-fuer-werder-ich-lebe-meinen-traum-1260804/artikel",
+   "title": "Heins \"No-Brainer\"-Entscheidung für Werder: \"Ich lebe meinen Traum\"",
+   "link": "https://www.kicker.de/heins-no-brainer-entscheidung-fuer-werder-ich-lebe-meinen-traum-1260804/artikel",
+   "source": "kicker",
+   "published": "2026-10-13T10:28:19Z",
+   "teaser": "Mit dem nächsten herausragenden Auftritt manifestiert Karl Hein seinen Status als Bremer Nummer 1 - und spricht auch über das Verhältnis zu Herausforderer Alexander Schlager.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/nur-einer-vor-kovac-die-punkteschnitte-der-bvb-trainer-seit-2000-1084246/slideshow",
    "title": "Nur einer vor Kovac: Die Punkteschnitte der BVB-Trainer seit 2000",
@@ -2555,32 +2579,6 @@
    "clubs": [
     175,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/elversberg-coach-wagner-favorit-das-dauert-noch-eine-weile-1259335/artikel",
-   "title": "Elversberg-Coach Wagner: \"Favorit? Das dauert noch eine Weile\"",
-   "link": "https://www.kicker.de/elversberg-coach-wagner-favorit-das-dauert-noch-eine-weile-1259335/artikel",
-   "source": "kicker",
-   "published": "2026-10-08T13:53:02Z",
-   "teaser": "Die SV Elversberg reist am Samstag zum Auswärtsspiel bei Union Berlin. Nach der Länderspielpause könnte es freiwillig wie unfreiwillig zu Personalrochaden kommen.",
-   "clubs": [
-    80,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/mannschaft-gleich-draussen-lassen-huetter-gefaellt-neururer-ansatz-1259351/video",
-   "title": "\"Mannschaft gleich draußen lassen\": Hütter gefällt Neururer-Ansatz",
-   "link": "https://www.kicker.de/mannschaft-gleich-draussen-lassen-huetter-gefaellt-neururer-ansatz-1259351/video",
-   "source": "kicker",
-   "published": "2026-10-08T13:36:52Z",
-   "teaser": "Frankfurt-Trainer Adi Hütter spricht auf der Pressekonferenz vor dem Spiel gegen Leipzig über die vielen Gegentore nach der Halbzeitpause und die Nationalspieler der Eintracht.",
-   "clubs": [
-    1635,
-    91
    ],
    "transfer": false
   }
