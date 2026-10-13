@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T11:53:41Z",
+ "updated": "2026-10-13T12:31:34Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/ricken-ueber-kovac-loyalitaet-und-diskretion-haben-wir-umsonst-dazu-bekommen-1260854/video",
+   "title": "Ricken über Kovac: \"Loyalität und Diskretion haben wir umsonst dazu bekommen\"",
+   "link": "https://www.kicker.de/ricken-ueber-kovac-loyalitaet-und-diskretion-haben-wir-umsonst-dazu-bekommen-1260854/video",
+   "source": "kicker",
+   "published": "2026-10-13T12:02:48Z",
+   "teaser": "Geschäftsführer des BVB, Lars Ricken, spricht vor der Abreise nach Norwegen über die Vertragsverlängerung von Niko Kovac und warum Borussia Dortmund den Cheftrainer so sehr schätzt.",
+   "clubs": [
+    7
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/poulsens-quoten-geheimnis-1260821/artikel",
    "title": "Poulsens Quoten-Geheimnis",
@@ -2567,18 +2579,6 @@
    "teaser": "Auswärts ist die Eintracht noch ungeschlagen, doch in Leipzig wartet eine gewaltige Herausforderung. Historisch gesehen ist das kein gutes Pflaster für die Hessen. Vor allem ein Spiel macht Trainer Adi Hütter Mut.",
    "clubs": [
     1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/zur-neuen-saison-gladbach-muss-sich-auf-hauptsponsor-suche-begeben-1259361/artikel",
-   "title": "Zur neuen Saison: Gladbach muss sich auf Hauptsponsor-Suche begeben",
-   "link": "https://www.kicker.de/zur-neuen-saison-gladbach-muss-sich-auf-hauptsponsor-suche-begeben-1259361/artikel",
-   "source": "kicker",
-   "published": "2026-10-08T14:39:41Z",
-   "teaser": "Schon die dritte Saison ziert der Reuter-Schriftzug das Trikot von Borussia Mönchengladbach. Ab Sommer 2027 wird das nicht mehr so sein.",
-   "clubs": [
-    87
    ],
    "transfer": false
   }
