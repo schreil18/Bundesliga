@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T08:54:48Z",
+ "updated": "2026-10-13T09:26:14Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/noch-vor-der-abreise-hier-unterschreibt-kovac-seinen-neuen-bvb-vertrag-1260777/video",
+   "title": "Noch vor der Abreise: Hier unterschreibt Kovac seinen neuen BVB-Vertrag",
+   "link": "https://www.kicker.de/noch-vor-der-abreise-hier-unterschreibt-kovac-seinen-neuen-bvb-vertrag-1260777/video",
+   "source": "kicker",
+   "published": "2026-10-13T08:51:25Z",
+   "teaser": "Niko Kovac hat seinen Vertrag beim BVB bis 2029 verlängert. Noch vor dem Champions-League-Spiel bei Bodö/Glimt veröffentlichten die Schwarz-Gelben die Neuigkeit.",
+   "clubs": [
+    7
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/bvb-verlaengert-mit-kovac-eine-gute-entscheidung-1260767/artikel",
    "title": "BVB verlängert mit Kovac - eine gute Entscheidung?",
@@ -2569,18 +2581,6 @@
    "teaser": "Immanuel Pherai war mit der Nationalmannschaft von Suriname auf Länderspielreise - und erlebte dort das schlimmste Spiel seiner Karriere. Nach seiner Rückkehr nach Hamburg sprach der HSV-Profi über das Geschehene.",
    "clubs": [
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bei-der-nationalmannschaft-verletzt-kofane-fehlt-bayer-in-den-kommenden-wochen-1259337/artikel",
-   "title": "Bei der Nationalmannschaft verletzt: Kofane fehlt Bayer in den kommenden Wochen",
-   "link": "https://www.kicker.de/bei-der-nationalmannschaft-verletzt-kofane-fehlt-bayer-in-den-kommenden-wochen-1259337/artikel",
-   "source": "kicker",
-   "published": "2026-10-08T13:12:55Z",
-   "teaser": "Bayer 04 Leverkusen muss vorerst ohne seinen zweitbesten Torschützen auskommen. Christian Kofane ist mit einer Oberschenkelverletzung von der Nationalmannschaft Kameruns zurückgekehrt.",
-   "clubs": [
-    6
    ],
    "transfer": false
   }
