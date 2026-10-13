@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T14:56:37Z",
+ "updated": "2026-10-13T15:25:56Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/praesident-bonhof-adressiert-eigene-fans-werte-unserer-borussia-verraten-1260893/artikel",
+   "title": "Präsident Bonhof adressiert eigene Fans: \"Werte unserer Borussia verraten\"",
+   "link": "https://www.kicker.de/praesident-bonhof-adressiert-eigene-fans-werte-unserer-borussia-verraten-1260893/artikel",
+   "source": "kicker",
+   "published": "2026-10-13T15:20:00Z",
+   "teaser": "Borussia Mönchengladbach liegt sportlich am Boden. Präsident Rainer Bonhof ließ nach dem verlorenen Derby in Köln aber vor allem das Verhalten einiger Borussia-Anhänger fassungslos zurück.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/schalke-verzweifelt-immer-noch-kein-stuermer-tor-1260862/artikel",
    "title": "Schalke verzweifelt: Immer noch kein Stürmer-Tor",
@@ -2567,19 +2580,6 @@
    "teaser": "Sowohl Vladimir Coufal als auch Albian Hajdari legten während der Länderspielpause Knieprobleme zeitweise lahm. Und auch Hoffenheims Knipser Andrej Kramaric konnte die Zeit bei den Kroaten nicht dafür nutzen, Selbstvertrauen zu sammeln.",
    "clubs": [
     175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/dann-brennt-der-baum-richtig-grosse-derby-vorschau-auf-koeln-vs-gladbach-1259377/video",
-   "title": "\"Dann brennt der Baum richtig\": Große Derby-Vorschau auf Köln vs. Gladbach",
-   "link": "https://www.kicker.de/dann-brennt-der-baum-richtig-grosse-derby-vorschau-auf-koeln-vs-gladbach-1259377/video",
-   "source": "kicker",
-   "published": "2026-10-08T15:10:46Z",
-   "teaser": "Nach der XXL-Länderspielpause bringt der kommende Bundesliga-Spieltag direkt einen Kracher: das Rheinderby zwischen Köln und Gladbach. In der neuen Folge \"Was geht, Bundesliga?\" sprechen wir mit Ex-Profi Patrick Herrmann und …",
-   "clubs": [
-    87,
-    65
    ],
    "transfer": false
   }
