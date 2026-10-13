@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T11:25:06Z",
+ "updated": "2026-10-13T11:53:41Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/poulsens-quoten-geheimnis-1260821/artikel",
+   "title": "Poulsens Quoten-Geheimnis",
+   "link": "https://www.kicker.de/poulsens-quoten-geheimnis-1260821/artikel",
+   "source": "kicker",
+   "published": "2026-10-13T11:27:29Z",
+   "teaser": "Beim 3:2-Auswärtssieg des Hamburger SV in Hoffenheim hat Yussuf Poulsen sein zweites Saisontor erzielt und damit bereits seine Vorjahres-Quote verdoppelt. Es ist nicht die einzige Zahl, die der Sturm-Routinier gesteigert hat.",
+   "clubs": [
+    175,
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/die-graue-eminenz-geht-nickl-loest-wenning-als-obersten-bayer-kontrolleur-ab-1260781/artikel",
    "title": "Die graue Eminenz geht: Nickl löst Wenning als obersten Bayer-Kontrolleur ab",
@@ -2566,19 +2579,6 @@
    "teaser": "Schon die dritte Saison ziert der Reuter-Schriftzug das Trikot von Borussia Mönchengladbach. Ab Sommer 2027 wird das nicht mehr so sein.",
    "clubs": [
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/mit-halbvollem-tank-ans-ziel-auch-moffi-ist-eine-kaderoption-gegen-hoffenheim-1259346/artikel",
-   "title": "Mit \"halbvollem Tank\" ans Ziel? Auch Moffi ist eine Kaderoption gegen Hoffenheim",
-   "link": "https://www.kicker.de/mit-halbvollem-tank-ans-ziel-auch-moffi-ist-eine-kaderoption-gegen-hoffenheim-1259346/artikel",
-   "source": "kicker",
-   "published": "2026-10-08T14:20:02Z",
-   "teaser": "Der Hamburger SV kehrt aus der Länderspielpause zurück - mit Ausfällen, aber auch rechtzeitig fit gewordenen Rückkehrern. Hinter Zakaria El Ouahdi steht ein Fragezeichen.",
-   "clubs": [
-    175,
-    100
    ],
    "transfer": false
   }
