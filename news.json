@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T08:27:19Z",
+ "updated": "2026-10-13T08:54:48Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,30 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/bvb-verlaengert-mit-kovac-eine-gute-entscheidung-1260767/artikel",
+   "title": "BVB verlängert mit Kovac - eine gute Entscheidung?",
+   "link": "https://www.kicker.de/bvb-verlaengert-mit-kovac-eine-gute-entscheidung-1260767/artikel",
+   "source": "kicker",
+   "published": "2026-10-13T08:49:34Z",
+   "teaser": "Borussia Dortmund geht mit Trainer Niko Kovac in die Zukunft. Wie findest du diese Entscheidung?",
+   "clubs": [
+    7
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/offiziell-bvb-verlaengert-mit-trainer-kovac-bis-2029-1259227/artikel",
+   "title": "Offiziell: BVB verlängert mit Trainer Kovac bis 2029",
+   "link": "https://www.kicker.de/offiziell-bvb-verlaengert-mit-trainer-kovac-bis-2029-1259227/artikel",
+   "source": "kicker",
+   "published": "2026-10-13T08:42:46Z",
+   "teaser": "Borussia Dortmund und Niko Kovac haben sich auf die Verlängerung der Zusammenarbeit geeinigt. Der Coach unterschrieb einen neuen Vertrag bis 2029.",
+   "clubs": [
+    7
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.sportschau.de/regional/swr/swr-der-sc-freiburg-als-spitzenteam-eine-momentaufnahme-die-laengst-keine-mehr-ist-100.html",
    "title": "Kommentar: SC Freiburgs Höhenflug ist längst keine \"Momentaufnahme\" mehr",
@@ -2557,31 +2581,6 @@
    "teaser": "Bayer 04 Leverkusen muss vorerst ohne seinen zweitbesten Torschützen auskommen. Christian Kofane ist mit einer Oberschenkelverletzung von der Nationalmannschaft Kameruns zurückgekehrt.",
    "clubs": [
     6
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hoeness-bringt-reporter-zum-lachen-mich-ueberrascht-die-ueberraschung-1259344/video",
-   "title": "Hoeneß bringt Reporter zum Lachen: \"Mich überrascht die Überraschung\"",
-   "link": "https://www.kicker.de/hoeness-bringt-reporter-zum-lachen-mich-ueberrascht-die-ueberraschung-1259344/video",
-   "source": "kicker",
-   "published": "2026-10-08T13:10:09Z",
-   "teaser": "Der VfB Stuttgart veröffentlichte unter der Woche einen Trainingsclip, in dem Sebastian Hoeneß einen direkten Freistoß verwandelte. Darauf angesprochen brachte der VfB-Trainer die Reporter bei der PK zum Lachen.",
-   "clubs": [
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/von-jobsharing-will-ich-nicht-sprechen-hoeness-erklaert-entscheidung-pro-seimen-1259342/video",
-   "title": "\"Von Jobsharing will ich nicht sprechen\": Hoeneß erklärt Entscheidung pro Seimen",
-   "link": "https://www.kicker.de/von-jobsharing-will-ich-nicht-sprechen-hoeness-erklaert-entscheidung-pro-seimen-1259342/video",
-   "source": "kicker",
-   "published": "2026-10-08T13:00:52Z",
-   "teaser": "Sebastian Hoeneß verriet auf der PK vor dem Bundesligaspiel in Paderborn, dass Dennis Seimen den Platz im VfB-Tor einnehmen wird und erklärte die Entscheidung für den 20-Jährigen.",
-   "clubs": [
-    16,
-    31
    ],
    "transfer": false
   }
