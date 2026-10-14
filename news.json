@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T18:45:17Z",
+ "updated": "2026-10-14T19:36:21Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wagner-ueber-maina-entwicklung-einer-seiner-guten-freunde-war-ueberrascht-1261384/video",
+   "title": "Wagner über Maina-Entwicklung: \"Einer seiner guten Freunde war überrascht\"",
+   "link": "https://www.kicker.de/wagner-ueber-maina-entwicklung-einer-seiner-guten-freunde-war-ueberrascht-1261384/video",
+   "source": "kicker",
+   "published": "2026-10-14T18:19:40Z",
+   "teaser": "Mit zwei Vorlagen und einem Treffer zeigt Linton Maina aktuell eine Top-Leistung beim 1. FC Köln. Effzeh-Trainer René Wagner zeigt sich positiv überrascht.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/auf-highlight-folgt-highlight-muss-fellhauer-sich-umstellen-1261108/artikel",
    "title": "Auf Highlight folgt Highlight: Muss Fellhauer sich umstellen?",
@@ -2567,19 +2579,6 @@
    "teaser": "Der SC Freiburg hat eine sportlich sehr erfolgreiche Saison hinter sich - und das schlägt sich auch in den Finanzen nieder. Die Breisgauer legten am Donnerstag beeindruckende Zahlen vor.",
    "clubs": [
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bayern-oder-fca-wem-drueckt-baums-sohn-die-daumen-1259420/video",
-   "title": "Bayern oder FCA: Wem drückt Baums Sohn die Daumen?",
-   "link": "https://www.kicker.de/bayern-oder-fca-wem-drueckt-baums-sohn-die-daumen-1259420/video",
-   "source": "kicker",
-   "published": "2026-10-08T20:41:00Z",
-   "teaser": "Augsburgs Trainer Manuel Baum spricht vor dem Duell mit dem FC Bayern mit einem Augenzwinkern über den Favoriten seines Sohnes, der in der Jugend der Münchner spielt.",
-   "clubs": [
-    40,
-    95
    ],
    "transfer": false
   }
