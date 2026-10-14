@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T12:46:12Z",
+ "updated": "2026-10-14T13:39:10Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/hsv-erster-auftrag-fuer-das-remberg-double-1261272/artikel",
+   "title": "HSV: Erster Auftrag für das Remberg-Double",
+   "link": "https://www.kicker.de/hsv-erster-auftrag-fuer-das-remberg-double-1261272/artikel",
+   "source": "kicker",
+   "published": "2026-10-14T13:20:46Z",
+   "teaser": "Beim Hamburger 3:2-Erfolg in Hoffenheim kam Kofi Amoako zu seinen ersten Einsatzminuten seit seinem Wechsel. Weil der Kapitän mit Kreuzbandriss voraussichtlich bis zum Saisonende ausfällt, ist er fortan als Abräumer im Mittelfeld gefordert.",
+   "clubs": [
+    175,
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/er-darf-gerne-noch-mehr-zu-schuessen-kommen-vidovic-bleibt-kettemanns-schluessel-zum-tor-1261211/artikel",
    "title": "\"Er darf gerne noch mehr zu Schüssen kommen\": Vidovic bleibt Kettemanns Schlüssel zum Tor",
@@ -2567,18 +2580,6 @@
    "clubs": [
     40,
     95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/jaquez-ist-wieder-im-mannschaftstraining-1259409/artikel",
-   "title": "Jaquez ist wieder im Mannschaftstraining",
-   "link": "https://www.kicker.de/jaquez-ist-wieder-im-mannschaftstraining-1259409/artikel",
-   "source": "kicker",
-   "published": "2026-10-08T17:26:25Z",
-   "teaser": "Der Schweizer Nationalspieler Luca Jaquez wurde durch eine schwere Muskelverletzung mehrere Monate außer Gefecht gesetzt. Nun ist der Verteidiger beim VfB Stuttgart zurück im Mannschaftstraining.",
-   "clubs": [
-    16
    ],
    "transfer": false
   }
