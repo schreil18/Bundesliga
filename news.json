@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T15:08:06Z",
+ "updated": "2026-10-14T16:10:31Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/mehr-schafherde-als-wolfsrudel-huetter-kritisiert-bequemlichkeit-und-fordert-neuen-biss-1261166/artikel",
+   "title": "Mehr Schafherde als Wolfsrudel? Hütter kritisiert Bequemlichkeit und fordert neuen Biss",
+   "link": "https://www.kicker.de/mehr-schafherde-als-wolfsrudel-huetter-kritisiert-bequemlichkeit-und-fordert-neuen-biss-1261166/artikel",
+   "source": "kicker",
+   "published": "2026-10-14T15:53:05Z",
+   "teaser": "Beim 0:6-Debakel in Leipzig ließ sich Frankfurt von der ersten Minute an den Schneid abkaufen. Der brave Auftritt seiner Profis schmeckt Adi Hütter überhaupt nicht. Der Coach stützt Kapitän Robin Koch, verlangt aber einen Mentalitätswandel.",
+   "clubs": [
+    1635,
+    91
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/rolfes-ueber-einen-zweiten-fall-boniface-das-geht-nicht-1261242/artikel",
    "title": "Rolfes über einen zweiten Fall Boniface: \"Das geht nicht\"",
@@ -2567,19 +2580,6 @@
    "teaser": "Die XXL-Länderspielpause im Herbst ist vorbei, nun wartet auf den BVB und die weiteren deutschen Europapokalteilnehmer ein XXL-Programm bis zur nächsten. Auf die Dortmunder warten wettbewerbsübergreifend neun Spiele in den nächsten gut …",
    "clubs": [
     7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-augsburger-rezept-fuer-die-bayern-die-vergangenheit-zaehlt-nicht-102.html",
-   "title": "Augsburger Rezept für die Bayern? Die Vergangenheit zählt nicht",
-   "link": "https://www.sportschau.de/regional/br/br-augsburger-rezept-fuer-die-bayern-die-vergangenheit-zaehlt-nicht-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-08T20:16:52Z",
-   "teaser": "Der FC Augsburg empfängt am Samstagnachmittag den FC Bayern München. Im bayerischen Derby will der Tabellenvierte vor heimischer Kulisse für einen Coup sorgen. Trainer Manuel Baum kann auf den Blick in die erfolgreiche Vergangenheit aber …",
-   "clubs": [
-    40,
-    95
    ],
    "transfer": false
   }
