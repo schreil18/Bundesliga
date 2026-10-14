@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T16:10:31Z",
+ "updated": "2026-10-14T17:08:12Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/auf-highlight-folgt-highlight-muss-fellhauer-sich-umstellen-1261108/artikel",
+   "title": "Auf Highlight folgt Highlight: Muss Fellhauer sich umstellen?",
+   "link": "https://www.kicker.de/auf-highlight-folgt-highlight-muss-fellhauer-sich-umstellen-1261108/artikel",
+   "source": "kicker",
+   "published": "2026-10-14T16:24:58Z",
+   "teaser": "In Elversberg wurde Robin Fellhauer Fußballprofi, nun steht die Rückkehr bevor - auf einer anderen Position?",
+   "clubs": [
+    198
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/mehr-schafherde-als-wolfsrudel-huetter-kritisiert-bequemlichkeit-und-fordert-neuen-biss-1261166/artikel",
    "title": "Mehr Schafherde als Wolfsrudel? Hütter kritisiert Bequemlichkeit und fordert neuen Biss",
@@ -2568,18 +2580,6 @@
    "clubs": [
     40,
     95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/der-bvb-spielplan-bis-zur-laenderspielpause-neun-spiele-in-gut-vier-wochen-1259025/artikel",
-   "title": "Der BVB-Spielplan bis zur Länderspielpause: Neun Spiele in gut vier Wochen",
-   "link": "https://www.kicker.de/der-bvb-spielplan-bis-zur-laenderspielpause-neun-spiele-in-gut-vier-wochen-1259025/artikel",
-   "source": "kicker",
-   "published": "2026-10-08T20:31:21Z",
-   "teaser": "Die XXL-Länderspielpause im Herbst ist vorbei, nun wartet auf den BVB und die weiteren deutschen Europapokalteilnehmer ein XXL-Programm bis zur nächsten. Auf die Dortmunder warten wettbewerbsübergreifend neun Spiele in den nächsten gut …",
-   "clubs": [
-    7
    ],
    "transfer": false
   }
