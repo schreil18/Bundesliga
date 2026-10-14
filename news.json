@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T10:39:58Z",
+ "updated": "2026-10-14T11:35:02Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wir-wollten-eine-veraenderung-fritz-erklaert-das-neue-werder-mindset-1261177/artikel",
+   "title": "\"Wir wollten eine Veränderung\": Fritz erklärt das neue Werder-Mindset",
+   "link": "https://www.kicker.de/wir-wollten-eine-veraenderung-fritz-erklaert-das-neue-werder-mindset-1261177/artikel",
+   "source": "kicker",
+   "published": "2026-10-14T10:42:52Z",
+   "teaser": "Dass bei Werder im Sommer kein Neuzugang ohne ein persönliches Treffen im Vorfeld verpflichtet wurde, hat sich offensichtlich auch auf die Mentalität der Mannschaft ausgewirkt. Zum großen Weserstadion-Jubiläum folgt nun der nächste …",
+   "clubs": [
+    134
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/praesident-bonhof-adressiert-eigene-fans-werte-unserer-borussia-verraten-1260893/artikel",
    "title": "Präsident Bonhof adressiert eigene Fans: \"Werte unserer Borussia verraten\"",
@@ -2568,18 +2580,6 @@
    "clubs": [
     40,
     95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/tsg-stuetzen-als-sorgenkinder-1259032/artikel",
-   "title": "TSG-Stützen als Sorgenkinder",
-   "link": "https://www.kicker.de/tsg-stuetzen-als-sorgenkinder-1259032/artikel",
-   "source": "kicker",
-   "published": "2026-10-08T17:21:43Z",
-   "teaser": "Sowohl Vladimir Coufal als auch Albian Hajdari legten während der Länderspielpause Knieprobleme zeitweise lahm. Und auch Hoffenheims Knipser Andrej Kramaric konnte die Zeit bei den Kroaten nicht dafür nutzen, Selbstvertrauen zu sammeln.",
-   "clubs": [
-    175
    ],
    "transfer": false
   }
