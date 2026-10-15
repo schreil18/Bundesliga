@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T20:02:44Z",
+ "updated": "2026-10-15T20:32:42Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/ndr/hsv-ohne-rambo-remberg-wer-rueckt-auf-seine-position,hsv-2222.html",
+   "title": "HSV ohne \"Rambo\" Remberg - wer rückt auf seine Position?",
+   "link": "https://www.sportschau.de/regional/ndr/hsv-ohne-rambo-remberg-wer-rueckt-auf-seine-position,hsv-2222.html",
+   "source": "Sportschau",
+   "published": "2026-10-15T20:13:09Z",
+   "teaser": "Der langwierige Ausfall des Kapitäns wiegt schwer. Kofi Amoako könnte gegen den VfB Stuttgart der Ersatz für Nicolai Remberg sein.",
+   "clubs": [
+    16,
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/naechster-ausfall-im-sturm-auch-rondic-fehlt-koeln-1261801/artikel",
    "title": "Nächster Ausfall im Sturm: Auch Rondic fehlt Köln",
@@ -52,19 +65,6 @@
     81
    ],
    "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/regional/ndr/hsv-ohne-rambo-remberg-wer-rueckt-auf-seine-position,hsv-2222.html",
-   "title": "HSV ohne \"Rambo\" Remberg - wer rückt auf seine Position?",
-   "link": "https://www.sportschau.de/regional/ndr/hsv-ohne-rambo-remberg-wer-rueckt-auf-seine-position,hsv-2222.html",
-   "source": "Sportschau",
-   "published": "2026-10-15T14:11:27Z",
-   "teaser": "Der langwierige Ausfall des Kapitäns wiegt schwer. Kofi Amoako könnte gegen den VfB Stuttgart der Ersatz für Nicolai Remberg sein.",
-   "clubs": [
-    16,
-    100
-   ],
-   "transfer": false
   },
   {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
