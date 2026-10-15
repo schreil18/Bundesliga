@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T07:42:44Z",
+ "updated": "2026-10-15T08:36:55Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/zwischen-titelchance-und-risiko-warum-erfolg-in-der-europa-league-fuer-bayer-doppelt-wichtig-ist-1261336/artikel",
+   "title": "Zwischen Titelchance und Risiko: Warum Erfolg in der Europa League für Bayer doppelt wichtig ist",
+   "link": "https://www.kicker.de/zwischen-titelchance-und-risiko-warum-erfolg-in-der-europa-league-fuer-bayer-doppelt-wichtig-ist-1261336/artikel",
+   "source": "kicker",
+   "published": "2026-10-15T08:14:11Z",
+   "teaser": "Leverkusens Kader ist gleichsam qualitativ wie quantitativ stark besetzt. Letzteres sogar zu stark, wie Manager Simon Rolfes einräumt. Deswegen hat eine erfolgreiche Europa-League-Saison für den Klub gleich doppelte Bedeutung. So stellt …",
+   "clubs": [
+    6
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wagner-ueber-maina-entwicklung-einer-seiner-guten-freunde-war-ueberrascht-1261384/video",
    "title": "Wagner über Maina-Entwicklung: \"Einer seiner guten Freunde war überrascht\"",
@@ -2567,18 +2579,6 @@
    "clubs": [
     40,
     80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/satter-millionengewinn-und-rekord-umsatz-freiburg-legt-beeindruckende-zahlen-vor-1259435/artikel",
-   "title": "Satter Millionengewinn und Rekord-Umsatz: Freiburg legt beeindruckende Zahlen vor",
-   "link": "https://www.kicker.de/satter-millionengewinn-und-rekord-umsatz-freiburg-legt-beeindruckende-zahlen-vor-1259435/artikel",
-   "source": "kicker",
-   "published": "2026-10-08T20:56:33Z",
-   "teaser": "Der SC Freiburg hat eine sportlich sehr erfolgreiche Saison hinter sich - und das schlägt sich auch in den Finanzen nieder. Die Breisgauer legten am Donnerstag beeindruckende Zahlen vor.",
-   "clubs": [
-    112
    ],
    "transfer": false
   }
