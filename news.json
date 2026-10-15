@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T08:36:55Z",
+ "updated": "2026-10-15T09:11:05Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,21 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/das-bundesliga-quiz-zum-6-spieltag-1261672/artikel",
+   "title": "Das Bundesliga-Quiz zum 6. Spieltag",
+   "link": "https://www.kicker.de/das-bundesliga-quiz-zum-6-spieltag-1261672/artikel",
+   "source": "kicker",
+   "published": "2026-10-15T09:04:35Z",
+   "teaser": "Zwischen den 2. und 3. Spieltagen in der Champions und Europa League findet der 6. Spieltag in der Bundesliga statt. Erholen sich der FC Bayern und Borussia Dortmund von ihren Dämpfern in Norwegen? Wie reagiert Frankfurt gegen Köln auf die …",
+   "clubs": [
+    40,
+    7,
+    91,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/zwischen-titelchance-und-risiko-warum-erfolg-in-der-europa-league-fuer-bayer-doppelt-wichtig-ist-1261336/artikel",
    "title": "Zwischen Titelchance und Risiko: Warum Erfolg in der Europa League für Bayer doppelt wichtig ist",
@@ -2566,19 +2581,6 @@
    "clubs": [
     7,
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/olise-magie-der-spektakulaere-saisonstart-von-bayerns-superstar-1259219/video",
-   "title": "Olise-Magie: Der spektakuläre Saisonstart von Bayerns Superstar",
-   "link": "https://www.kicker.de/olise-magie-der-spektakulaere-saisonstart-von-bayerns-superstar-1259219/video",
-   "source": "kicker",
-   "published": "2026-10-08T22:01:00Z",
-   "teaser": "Michael Olise war in der Bundesliga im September an vier Treffern beteiligt und bleibt weiter das Maß aller Dinge. Gegen Union Berlin schnürte der Bayern-Star einen Dreierpack und räumte damit den Award \"Spieler des Monats September\" ab.",
-   "clubs": [
-    40,
-    80
    ],
    "transfer": false
   }
