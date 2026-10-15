@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T14:37:36Z",
+ "updated": "2026-10-15T15:38:05Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/profivertrag-fuer-senkrechtstarter-nakuzola-ging-dann-doch-relativ-schnell-1261774/artikel",
+   "title": "Profivertrag für Senkrechtstarter Nakuzola: \"Ging dann doch relativ schnell\"",
+   "link": "https://www.kicker.de/profivertrag-fuer-senkrechtstarter-nakuzola-ging-dann-doch-relativ-schnell-1261774/artikel",
+   "source": "kicker",
+   "published": "2026-10-15T14:38:30Z",
+   "teaser": "Im Sommer war Rael Nakuzola von der A-Jugend Rot-Weiss Essens zur Zweitvertretung des 1. FSV Mainz 05 gewechselt, doch dort stieg er schnell zur ernsthaften Alternative bei den Profis auf. Nach zwei Bundesliga-Einwechslungen ist der 19 …",
+   "clubs": [
+    81
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/regional/ndr/hsv-ohne-rambo-remberg-wer-rueckt-auf-seine-position,hsv-2222.html",
+   "title": "HSV ohne \"Rambo\" Remberg - wer rückt auf seine Position?",
+   "link": "https://www.sportschau.de/regional/ndr/hsv-ohne-rambo-remberg-wer-rueckt-auf-seine-position,hsv-2222.html",
+   "source": "Sportschau",
+   "published": "2026-10-15T14:11:27Z",
+   "teaser": "Der langwierige Ausfall des Kapitäns wiegt schwer. Kofi Amoako könnte gegen den VfB Stuttgart der Ersatz für Nicolai Remberg sein.",
+   "clubs": [
+    16,
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
    "title": "Kommt Sancho in Spanien unter? - Cottbus verlängert mit Guwara",
@@ -2557,31 +2582,6 @@
    "teaser": "Nach fast drei Wochen Pause meldet sich Bayer Leverkusen zurück, entspannt, aber nicht sorgenfrei. Spielmacher Ibrahim Maza kehrte mit einer Fußverletzung zurück, Torjäger Christian Kofane fällt sicher aus. Das könnte eine Chance für …",
    "clubs": [
     6
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bayerns-xxl-programm-bis-zur-naechsten-laenderspielpause-1259120/artikel",
-   "title": "Bayerns XXL-Programm bis zur nächsten Länderspielpause",
-   "link": "https://www.kicker.de/bayerns-xxl-programm-bis-zur-naechsten-laenderspielpause-1259120/artikel",
-   "source": "kicker",
-   "published": "2026-10-09T10:52:33Z",
-   "teaser": "Nach der Länderspielpause ist vor der Länderspielpause. Bevor es aber Mitte November wieder für die Nationalteams weitergeht, warten auf die Bayern-Stars wettbewerbsübergreifend neun Spiele in den nächsten gut vier Wochen. Ein Überblick.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/warum-es-fuer-die-bayern-gegen-augsburg-um-wiedergutmachung-geht-1259540/video",
-   "title": "Warum es für die Bayern gegen Augsburg um Wiedergutmachung geht",
-   "link": "https://www.kicker.de/warum-es-fuer-die-bayern-gegen-augsburg-um-wiedergutmachung-geht-1259540/video",
-   "source": "kicker",
-   "published": "2026-10-09T09:46:17Z",
-   "teaser": "Der FC Bayern München trifft am Samstag auf den FC Augsburg und hat dort die Chance auf ein Stück Wiedergutmachung. Warum das so ist und wie Kompany das Thema Ballon d'Or sieht, erklärt kicker-Reporter Mario Krischel.",
-   "clubs": [
-    40,
-    95
    ],
    "transfer": false
   }
