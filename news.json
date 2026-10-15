@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T15:38:05Z",
+ "updated": "2026-10-15T16:35:36Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/naechster-ausfall-im-sturm-auch-rondic-fehlt-koeln-1261801/artikel",
+   "title": "Nächster Ausfall im Sturm: Auch Rondic fehlt Köln",
+   "link": "https://www.kicker.de/naechster-ausfall-im-sturm-auch-rondic-fehlt-koeln-1261801/artikel",
+   "source": "kicker",
+   "published": "2026-10-15T15:48:11Z",
+   "teaser": "Der 1. FC Köln hat den nächsten Verletzten im Sturm zu beklagen: Imad Rondic fällt für das Spiel bei Eintracht Frankfurt aus.",
+   "clubs": [
+    91,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/lob-als-stoerfaktor-baums-lehren-aus-dem-bayern-spiel-1261806/video",
+   "title": "Lob als Störfaktor? Baums Lehren aus dem Bayern-Spiel",
+   "link": "https://www.kicker.de/lob-als-stoerfaktor-baums-lehren-aus-dem-bayern-spiel-1261806/video",
+   "source": "kicker",
+   "published": "2026-10-15T15:30:28Z",
+   "teaser": "Manuel Baum und seine Mannschaft waren nach dem 2:2 gegen die Bayern und Robin Fellhauers schnellstem Bundesligator öfter Gesprächsthema als sonst. Der Augsburg-Trainer verrät, warum so etwas einer Mannschaft auch schaden kann.",
+   "clubs": [
+    40,
+    95
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/profivertrag-fuer-senkrechtstarter-nakuzola-ging-dann-doch-relativ-schnell-1261774/artikel",
    "title": "Profivertrag für Senkrechtstarter Nakuzola: \"Ging dann doch relativ schnell\"",
@@ -87,6 +113,20 @@
    "clubs": [
     81,
     9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/frankfurts-schluesselsaison-droht-die-sge-gladbach-2-0-zu-werden-1261750/video",
+   "title": "Frankfurts \"Schlüsselsaison\": Droht die SGE Gladbach 2.0 zu werden?",
+   "link": "https://www.kicker.de/frankfurts-schluesselsaison-droht-die-sge-gladbach-2-0-zu-werden-1261750/video",
+   "source": "kicker",
+   "published": "2026-10-15T13:19:57Z",
+   "teaser": "Nach dem 0:6 bei RB Leipzig werden die Sorgen um Eintracht Frankfurt immer größer. Trainer Adi Hütter kritisierte Kapitän Robin Koch heftig, die Defensive bekommt die SGE einfach nicht in den Griff. Wie gefährlich ist die Lage wirklich? …",
+   "clubs": [
+    1635,
+    91,
+    87
    ],
    "transfer": false
   },
@@ -2545,43 +2585,6 @@
    "clubs": [
     7,
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bestes-jahr-meiner-karriere-fuellkrug-freut-sich-auf-rueckkehr-nach-dortmund-1259534/artikel",
-   "title": "\"Bestes Jahr meiner Karriere\": Füllkrug freut sich auf Rückkehr nach Dortmund",
-   "link": "https://www.kicker.de/bestes-jahr-meiner-karriere-fuellkrug-freut-sich-auf-rueckkehr-nach-dortmund-1259534/artikel",
-   "source": "kicker",
-   "published": "2026-10-09T11:22:40Z",
-   "teaser": "Nach eigener Aussage erlebte Niclas Füllkrug bei Borussia Dortmund das beste Jahr seiner Karriere. Nun kehrt der 33-Jährige mit Werder Bremen erstmals zurück an alte Wirkungsstätte - jedoch nicht nur, um alte Bekannte zu begrüßen.",
-   "clubs": [
-    7,
-    134
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/vfb-spielplan-bis-zur-naechsten-laenderspielpause-das-xxl-programm-im-ueberblick-1259124/artikel",
-   "title": "VfB-Spielplan bis zur nächsten Länderspielpause: Das XXL-Programm im Überblick",
-   "link": "https://www.kicker.de/vfb-spielplan-bis-zur-naechsten-laenderspielpause-das-xxl-programm-im-ueberblick-1259124/artikel",
-   "source": "kicker",
-   "published": "2026-10-09T11:10:45Z",
-   "teaser": "Nach der XXL-Länderspielpause im Herbst stehen für den VfB Stuttgart gleich neun Spiele in den nächsten gut vier Wochen an. Unter anderem geht es gegen Atletico Madrid. Ein Überblick.",
-   "clubs": [
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/leverkusen-plant-mit-maza-boniface-eine-option-1259536/artikel",
-   "title": "Leverkusen plant mit Maza - Boniface \"eine Option\"",
-   "link": "https://www.kicker.de/leverkusen-plant-mit-maza-boniface-eine-option-1259536/artikel",
-   "source": "kicker",
-   "published": "2026-10-09T10:59:23Z",
-   "teaser": "Nach fast drei Wochen Pause meldet sich Bayer Leverkusen zurück, entspannt, aber nicht sorgenfrei. Spielmacher Ibrahim Maza kehrte mit einer Fußverletzung zurück, Torjäger Christian Kofane fällt sicher aus. Das könnte eine Chance für …",
-   "clubs": [
-    6
    ],
    "transfer": false
   }
