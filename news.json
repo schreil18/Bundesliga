@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T13:44:12Z",
+ "updated": "2026-10-15T14:37:36Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Kommt Sancho in Spanien unter? - Cottbus verlängert mit Guwara",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-10-15T13:51:41Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/nach-remberg-aus-fehlt-dem-hsv-auch-sambi-lokonga-gegen-stuttgart-1261737/artikel",
    "title": "Nach Remberg-Aus: Fehlt dem HSV auch Sambi Lokonga gegen Stuttgart?",
@@ -48,7 +58,7 @@
    "link": "https://www.kicker.de/sylla-fehlt-schalke-beim-duell-der-kuschelbaeren-1261729/artikel",
    "source": "kicker",
    "published": "2026-10-15T13:30:51Z",
-   "teaser": "Stürmer- und Heimtore tun Not bei Schalke 04, doch mit Moussa Sylla fällt ein potenzieller Kandidat für den ersten Torjubel in der königsblauen Arena im Spiel gegen den 1. FSV Mainz 05 aus. Miron Muslic sprach über einen möglichen …",
+   "teaser": "Stürmer- und Heimtore tun not bei Schalke 04, doch mit Moussa Sylla fällt ein potenzieller Kandidat für den ersten Torjubel in der königsblauen Arena im Spiel gegen den 1. FSV Mainz 05 aus. Miron Muslic sprach über einen möglichen …",
    "clubs": [
     81,
     9
@@ -477,16 +487,6 @@
     87
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Seedorf übernimmt Corinthians - Finks Zeit bei Samsunspor schon wieder vorbei",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-10-12T08:19:41Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
-   "transfer": true
   },
   {
    "id": "https://www.sportschau.de/regional/wdr/wdr-koelns-el-mala-entscheidet-derby-gegen-moenchengladbach-102.html",
