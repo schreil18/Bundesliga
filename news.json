@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T11:34:30Z",
+ "updated": "2026-10-15T12:06:08Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/zwei-spiele-ohne-sieg-krisenmodus-beim-bvb,bundesliga-update-vorschau-spieltag-sechs-102.html",
+   "title": "Borussia Dortmund wackelt – ist das schon Krise?",
+   "link": "https://www.sportschau.de/fussball/bundesliga/zwei-spiele-ohne-sieg-krisenmodus-beim-bvb,bundesliga-update-vorschau-spieltag-sechs-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-15T11:52:27Z",
+   "teaser": "Unentschieden in der Bundesliga, Niederlage in der Champions League: Für Borussia Dortmund ist die Siegesserie endgültig beendet. Sind das noch Ausrutscher?",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/parallelen-zu-vorgaenger-doekhi-van-den-bosch-ist-endgueltig-bei-union-angekommen-1261236/artikel",
    "title": "Parallelen zu Vorgänger Doekhi: Van den Bosch ist endgültig bei Union angekommen",
@@ -2567,18 +2579,6 @@
    "teaser": "Der FC Bayern reist am Samstag zum kleinen Derby nach Augsburg. Und hat dort noch eine Rechnung zu begleichen.",
    "clubs": [
     40,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kompany-deutlich-moechte-keinen-preis-bekommen-fuer-eine-rede-gegen-rassismus-1259519/video",
-   "title": "Kompany deutlich: \"Möchte keinen Preis bekommen für eine Rede gegen Rassismus\"",
-   "link": "https://www.kicker.de/kompany-deutlich-moechte-keinen-preis-bekommen-fuer-eine-rede-gegen-rassismus-1259519/video",
-   "source": "kicker",
-   "published": "2026-10-09T08:43:18Z",
-   "teaser": "Nach dem Spiel gegen den FC Augsburg wird Vincent Kompany einen persönlichen Preis des Bayerischen Ministerpräsidenten Markus Söder bekommen, der seine Haltung gegen den Rassismus würdigt. Welche Bedeutung diese Auszeichnung für den …",
-   "clubs": [
     95
    ],
    "transfer": false
