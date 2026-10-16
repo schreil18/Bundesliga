@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T12:44:50Z",
+ "updated": "2026-10-16T13:42:21Z",
  "sources": [
   {
    "name": "kicker",
@@ -42,18 +42,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-vor-dem-tor-fehlt-der-letzte-kick-100.html",
-   "title": "Vor dem Tor fehlt der letzte Kick",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-vor-dem-tor-fehlt-der-letzte-kick-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-16T12:20:12Z",
-   "teaser": "Aufsteiger SC Paderborn ist eigentlich gut in der Bundesliga angekommen, wenn da nicht die schwache Chancenverwertung wäre.",
-   "clubs": [
-    31
-   ],
-   "transfer": false
-  },
-  {
    "id": "https://www.sportschau.de/regional/br/br-kompany-beschwoert-allerbeste-version-des-fc-bayern-102.html",
    "title": "Kompany beschwört \"allerbeste Version\" des FC Bayern",
    "link": "https://www.sportschau.de/regional/br/br-kompany-beschwoert-allerbeste-version-des-fc-bayern-102.html",
@@ -63,6 +51,18 @@
    "clubs": [
     40,
     1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-vor-dem-tor-fehlt-der-letzte-kick-100.html",
+   "title": "Vor dem Tor fehlt der letzte Kick",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-vor-dem-tor-fehlt-der-letzte-kick-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-16T11:59:00Z",
+   "teaser": "Aufsteiger SC Paderborn ist eigentlich gut in der Bundesliga angekommen, wenn da nicht die schwache Chancenverwertung wäre.",
+   "clubs": [
+    31
    ],
    "transfer": false
   },
@@ -281,7 +281,7 @@
   },
   {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Kommt Sancho in Spanien unter? - Cottbus verlängert mit Guwara",
+   "title": "Bellingham soll vorzeitig verlängern - Kommt Sancho in Spanien unter?",
    "link": "https://www.kicker.de/transferticker-953155/artikel",
    "source": "kicker",
    "published": "2026-10-15T13:51:41Z",
