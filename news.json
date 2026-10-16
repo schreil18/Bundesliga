@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T22:01:59Z",
+ "updated": "2026-10-16T22:31:37Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-freitag-re-live-1610-100.html",
+   "title": "Die Sportschau am Freitag in voller Länge",
+   "link": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-freitag-re-live-1610-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-16T22:00:16Z",
+   "teaser": "Sehen Sie hier die Sportschau am Freitag mit den Zusammenfassungen der Bundesliga, 2. Bundesliga und der Frauen-Bundesliga.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/el-mala-frankfurt-war-so-tot-1262174/artikel",
    "title": "El Mala: \"Frankfurt war so tot\"",
@@ -2571,19 +2581,6 @@
    "clubs": [
     6,
     81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/fc-augsburg-gegen-bayern-muenchen,audiostream-fc-augsburg-gegen-bayern-muenchen-110.html",
-   "title": "Live hören: FC Augsburg gegen Bayern München - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/fc-augsburg-gegen-bayern-muenchen,audiostream-fc-augsburg-gegen-bayern-muenchen-110.html",
-   "source": "Sportschau",
-   "published": "2026-10-10T13:15:00Z",
-   "teaser": "5. Spieltag: Anpfiff des Spiels ist am 10.10.2026 um 15:30 Uhr. Bayern München spielt in Augsburg.",
-   "clubs": [
-    40,
-    95
    ],
    "transfer": false
   }
