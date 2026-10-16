@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T18:36:56Z",
+ "updated": "2026-10-16T19:10:11Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,11 +16,11 @@
  ],
  "items": [
   {
-   "id": "https://www.kicker.de/live-sekunden-nach-anstoss-buelter-prueft-direkt-atubolu-1261676/artikel",
-   "title": "LIVE! Sekunden nach Anstoß: Bülter prüft direkt Atubolu",
-   "link": "https://www.kicker.de/live-sekunden-nach-anstoss-buelter-prueft-direkt-atubolu-1261676/artikel",
+   "id": "https://www.kicker.de/live-frankfurt-wird-staerker-atubolu-pariert-gegen-buelter-1261676/artikel",
+   "title": "LIVE! Frankfurt wird stärker - Atubolu pariert gegen Bülter",
+   "link": "https://www.kicker.de/live-frankfurt-wird-staerker-atubolu-pariert-gegen-buelter-1261676/artikel",
    "source": "kicker",
-   "published": "2026-10-16T18:31:45Z",
+   "published": "2026-10-16T19:02:18Z",
    "teaser": "Rehabilitiert sich Eintracht Frankfurt für die Klatsche in Leipzig? Die SGE trifft auf Köln und peilt den ersten Heimsieg an.",
    "clubs": [
     1635,
@@ -31,12 +31,26 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194218/eintracht-frankfurt_1-fc-koeln/liveticker",
-   "title": "Jetzt live - Hält Frankfurts Defensive gegen Köln?",
+   "title": "Jetzt live - Frankfurt und Köln mit frühen Torchancen",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194218/eintracht-frankfurt_1-fc-koeln/liveticker",
    "source": "Sportschau",
-   "published": "2026-10-16T18:23:09Z",
-   "teaser": "Im Bundesliga-Freitagsabendspiel empfängt Eintracht Frankfurt den 1. FC Köln.",
+   "published": "2026-10-16T18:55:45Z",
+   "teaser": "Eintracht Frankfurt geht im Spiel gegen den 1. FC Köln engagiert zu Werke. Doch auch die Rheinländer hatten schon ihre Gelegenheiten.",
    "clubs": [
+    91,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-sekunden-nach-anstoss-buelter-prueft-direkt-atubolu-1261676/artikel",
+   "title": "LIVE! Sekunden nach Anstoß: Bülter prüft direkt Atubolu",
+   "link": "https://www.kicker.de/live-sekunden-nach-anstoss-buelter-prueft-direkt-atubolu-1261676/artikel",
+   "source": "kicker",
+   "published": "2026-10-16T18:31:45Z",
+   "teaser": "Rehabilitiert sich Eintracht Frankfurt für die Klatsche in Leipzig? Die SGE trifft auf Köln und peilt den ersten Heimsieg an.",
+   "clubs": [
+    1635,
     91,
     65
    ],
@@ -2573,19 +2587,6 @@
     6,
     16,
     95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/dortmunds-punktverlust-zwei-klassiker-und-ein-ausrutscher-1259749/artikel",
-   "title": "Dortmunds Punktverlust: Zwei Klassiker und ein Ausrutscher",
-   "link": "https://www.kicker.de/dortmunds-punktverlust-zwei-klassiker-und-ein-ausrutscher-1259749/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T09:36:23Z",
-   "teaser": "Borussia Dortmund zeigt gegen Werder Bremen erst bekannte Stärken und Schwächen, dann aber ein verloren geglaubtes Gesicht. Acht Minuten Nachlässigkeit kosten am Ende zwei Punkte.",
-   "clubs": [
-    7,
-    134
    ],
    "transfer": false
   }
