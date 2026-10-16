@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T12:04:50Z",
+ "updated": "2026-10-16T12:44:50Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,57 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/der-bayern-vorstand-den-die-nazis-hinrichteten-gedenktafel-fuer-willi-buisson-1261913/artikel",
+   "title": "Der Bayern-Vorstand, den die Nazis hinrichteten: Gedenktafel für Willi Buisson",
+   "link": "https://www.kicker.de/der-bayern-vorstand-den-die-nazis-hinrichteten-gedenktafel-fuer-willi-buisson-1261913/artikel",
+   "source": "kicker",
+   "published": "2026-10-16T12:37:07Z",
+   "teaser": "Schon 2015 erinnerten die Fans des FC Bayern mit einer Choreografie an Willi Buisson, der einst weit mehr als nur ein Vorstandsmitglied des Klubs war. Am Freitag wurde zu seinen Ehren eine Gedenktafel in München eingeweiht.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kovacs-klarer-appell-und-seine-anforderung-fuer-die-startelf-1261992/artikel",
+   "title": "Kovacs klarer Appell - und seine Anforderung für die Startelf",
+   "link": "https://www.kicker.de/kovacs-klarer-appell-und-seine-anforderung-fuer-die-startelf-1261992/artikel",
+   "source": "kicker",
+   "published": "2026-10-16T12:29:42Z",
+   "teaser": "Das 2:2 gegen Bremen war ein Rückschlag, das 0:1 in Bodö ein echter Dämpfer. Doch in anspruchsvollen Wochen von Borussia Dortmund bleibt nicht viel Zeit, um darüber nachzudenken. Gegen Union Berlin will Niko Kovac auf die Spieler setzen …",
+   "clubs": [
+    7,
+    134,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-vor-dem-tor-fehlt-der-letzte-kick-100.html",
+   "title": "Vor dem Tor fehlt der letzte Kick",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-vor-dem-tor-fehlt-der-letzte-kick-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-16T12:20:12Z",
+   "teaser": "Aufsteiger SC Paderborn ist eigentlich gut in der Bundesliga angekommen, wenn da nicht die schwache Chancenverwertung wäre.",
+   "clubs": [
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-kompany-beschwoert-allerbeste-version-des-fc-bayern-102.html",
+   "title": "Kompany beschwört \"allerbeste Version\" des FC Bayern",
+   "link": "https://www.sportschau.de/regional/br/br-kompany-beschwoert-allerbeste-version-des-fc-bayern-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-16T12:01:33Z",
+   "teaser": "Das Heimspiel gegen RB Leipzig markiert den Start in herausfordernde Wochen für den FC Bayern. Nach der Enttäuschung von Stavanger setzt Trainer Vincent Kompany darauf, dass seine Spieler genau jetzt gegen die Topgegner ihren bekannten …",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/das-ist-mir-zu-billig-kovac-stellt-sich-vor-beier-1261991/video",
    "title": "\"Das ist mir zu billig\": Kovac stellt sich vor Beier",
@@ -2531,58 +2582,6 @@
    "link": "https://www.kicker.de/live-svensson-bricht-den-bann-schlotterbeck-erhoeht-auf-2-0-1258778/artikel",
    "source": "kicker",
    "published": "2026-10-09T20:16:52Z",
-   "teaser": "Borussia Dortmund ist makellos in die neue Saison gestartet und hat bisher alle vier Spiele in der Bundesliga gewonnen. Nun geht es nach der Länderspielpause gegen die gut gestarteten Bremer, die mit Leipzig bereits einen Favoriten …",
-   "clubs": [
-    7,
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194071/borussia-dortmund_werder-bremen/liveticker",
-   "title": "Jetzt live - Dortmund erhöht gegen Werder, doch auch Bremen trifft",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194071/borussia-dortmund_werder-bremen/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-09T20:11:16Z",
-   "teaser": "Spannende Schlussphase in Dortmund - der BVB führte scheinbar sicher gegen Werder Bremen. Doch dann wurde das Spiel nochmal richtig spannend.",
-   "clubs": [
-    7,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-dortmund-uebt-viel-druck-aus-fuellkrug-scheitert-an-kobel-1258778/artikel",
-   "title": "LIVE! Dortmund übt viel Druck aus - Füllkrug scheitert an Kobel",
-   "link": "https://www.kicker.de/live-dortmund-uebt-viel-druck-aus-fuellkrug-scheitert-an-kobel-1258778/artikel",
-   "source": "kicker",
-   "published": "2026-10-09T19:44:51Z",
-   "teaser": "Borussia Dortmund ist makellos in die neue Saison gestartet und hat bisher alle vier Spiele in der Bundesliga gewonnen. Nun geht es nach der Länderspielpause gegen die gut gestarteten Bremer, die mit Leipzig bereits einen Favoriten …",
-   "clubs": [
-    7,
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-sabitzer-sorgt-fuer-wirbel-hein-rettet-stark-gegen-beier-1258778/artikel",
-   "title": "LIVE! Sabitzer sorgt für Wirbel - Hein rettet stark gegen Beier",
-   "link": "https://www.kicker.de/live-sabitzer-sorgt-fuer-wirbel-hein-rettet-stark-gegen-beier-1258778/artikel",
-   "source": "kicker",
-   "published": "2026-10-09T19:09:36Z",
-   "teaser": "Borussia Dortmund ist makellos in die neue Saison gestartet und hat bisher alle vier Spiele in der Bundesliga gewonnen. Nun geht es nach der Länderspielpause gegen die gut gestarteten Bremer, die mit Leipzig bereits einen Favoriten …",
-   "clubs": [
-    7,
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-bvb-hat-muehe-pieper-muss-angeschlagen-raus-1258778/artikel",
-   "title": "LIVE! BVB hat Mühe - Pieper muss angeschlagen raus",
-   "link": "https://www.kicker.de/live-bvb-hat-muehe-pieper-muss-angeschlagen-raus-1258778/artikel",
-   "source": "kicker",
-   "published": "2026-10-09T18:49:18Z",
    "teaser": "Borussia Dortmund ist makellos in die neue Saison gestartet und hat bisher alle vier Spiele in der Bundesliga gewonnen. Nun geht es nach der Länderspielpause gegen die gut gestarteten Bremer, die mit Leipzig bereits einen Favoriten …",
    "clubs": [
     7,
