@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T18:02:16Z",
+ "updated": "2026-10-16T18:36:56Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,33 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/live-sekunden-nach-anstoss-buelter-prueft-direkt-atubolu-1261676/artikel",
+   "title": "LIVE! Sekunden nach Anstoß: Bülter prüft direkt Atubolu",
+   "link": "https://www.kicker.de/live-sekunden-nach-anstoss-buelter-prueft-direkt-atubolu-1261676/artikel",
+   "source": "kicker",
+   "published": "2026-10-16T18:31:45Z",
+   "teaser": "Rehabilitiert sich Eintracht Frankfurt für die Klatsche in Leipzig? Die SGE trifft auf Köln und peilt den ersten Heimsieg an.",
+   "clubs": [
+    1635,
+    91,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194218/eintracht-frankfurt_1-fc-koeln/liveticker",
+   "title": "Jetzt live - Hält Frankfurts Defensive gegen Köln?",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194218/eintracht-frankfurt_1-fc-koeln/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-16T18:23:09Z",
+   "teaser": "Im Bundesliga-Freitagsabendspiel empfängt Eintracht Frankfurt den 1. FC Köln.",
+   "clubs": [
+    91,
+    65
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/eintracht-frankfurt-gegen-1-fc-koeln,audiostream-eintracht-frankfurt-gegen-1-fc-koeln-106.html",
    "title": "Live hören: Eintracht Frankfurt gegen 1. FC Köln - Bundesliga",
    "link": "https://www.sportschau.de/fussball/bundesliga/eintracht-frankfurt-gegen-1-fc-koeln,audiostream-eintracht-frankfurt-gegen-1-fc-koeln-106.html",
@@ -25,6 +52,18 @@
    "clubs": [
     91,
     65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/naechster-rueckschlag-pechvogel-terrier-fehlt-leverkusen-wochenlang-1261970/artikel",
+   "title": "Nächster Rückschlag: Pechvogel Terrier fehlt Leverkusen wochenlang",
+   "link": "https://www.kicker.de/naechster-rueckschlag-pechvogel-terrier-fehlt-leverkusen-wochenlang-1261970/artikel",
+   "source": "kicker",
+   "published": "2026-10-16T18:12:54Z",
+   "teaser": "Er bleibt Bayers Pechvogel. Beim 4:0-Sieg in Posen musste Martin Terrier früh mit einer Oberschenkelverletzung ausgewechselt werden. Nun steht die Diagnose fest: Der Franzose wird Leverkusen wochenlang fehlen.",
+   "clubs": [
+    6
    ],
    "transfer": false
   },
@@ -237,19 +276,6 @@
    "published": "2026-10-16T10:40:56Z",
    "teaser": "Was haben Jan Koller, Michael Tarnat, Mike Büskens, Jan Rosenthal, Sebastian Polter und Kevin Großkreutz gemeinsam? Sie alle mussten auf einmal ungeplant ins Tor ihrer Mannschaft - mit unterschiedlichen Ausgängen...",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194218/eintracht-frankfurt_1-fc-koeln/liveticker",
-   "title": "Ab 20.30 Uhr live - Hält Frankfurts Defensive gegen Köln?",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194218/eintracht-frankfurt_1-fc-koeln/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-16T10:32:00Z",
-   "teaser": "Im Bundesliga-Freitagsabendspiel empfängt Eintracht Frankfurt den 1. FC Köln.",
-   "clubs": [
-    91,
-    65
-   ],
    "transfer": false
   },
   {
@@ -2557,32 +2583,6 @@
    "source": "kicker",
    "published": "2026-10-10T09:36:23Z",
    "teaser": "Borussia Dortmund zeigt gegen Werder Bremen erst bekannte Stärken und Schwächen, dann aber ein verloren geglaubtes Gesicht. Acht Minuten Nachlässigkeit kosten am Ende zwei Punkte.",
-   "clubs": [
-    7,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-dortmunder-rueckschlag-gegen-fuellkrug-und-co-100.html",
-   "title": "Dortmunder Rückschlag gegen Füllkrug und Co.",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-dortmunder-rueckschlag-gegen-fuellkrug-und-co-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-10T07:57:00Z",
-   "teaser": "Beím BVB sah es gegen Werder Bremen nach einem gelungenen Start aus, bis in kurzer Zeit mal wieder das System zusammenbrach.",
-   "clubs": [
-    7,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fuellkrug-ist-ne-richtige-kante-kovac-kritisiert-foul-pfiff-1259742/video",
-   "title": "\"Füllkrug ist 'ne richtige Kante\": Kovac kritisiert Foul-Pfiff",
-   "link": "https://www.kicker.de/fuellkrug-ist-ne-richtige-kante-kovac-kritisiert-foul-pfiff-1259742/video",
-   "source": "kicker",
-   "published": "2026-10-10T07:36:26Z",
-   "teaser": "Niko Kovac haderte nach dem 2:2 noch mit der ein oder anderen Entscheidung. Der BVB gab spät zwei Punkte gegen Werder Bremen aus der Hand.",
    "clubs": [
     7,
     134
