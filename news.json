@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T06:05:53Z",
+ "updated": "2026-10-16T06:45:08Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/rb/rb-partylaune-statt-katerstimmung-darum-laeuft-es-bei-werder-so-gut-100.html",
+   "title": "Partylaune statt Katerstimmung: Darum läuft es bei Werder so gut",
+   "link": "https://www.sportschau.de/regional/rb/rb-partylaune-statt-katerstimmung-darum-laeuft-es-bei-werder-so-gut-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-16T06:08:08Z",
+   "teaser": "Die Sorgen im Sommer waren groß. Gemessen daran läuft die bisherige Bundesliga-Saison für Werder Bremen sehr gut. Platz sieben nach 5 Spielen. Woran liegt das?",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-stammplatzgarantie-als-letzte-warnung-fuer-kapitaen-koch-100.html",
+   "title": "Krise in Frankfurt - Hütter nimmt Kapitän Koch in die Pflicht",
+   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-stammplatzgarantie-als-letzte-warnung-fuer-kapitaen-koch-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-16T06:04:48Z",
+   "teaser": "Auf die Demontage von Leipzig folgt die Wiedereingliederung gegen Köln: Adi Hütter spricht Robin Koch das Vertrauen aus, der Druck auf den Kapitän von Eintracht Frankfurt wird dadurch aber noch größer.",
+   "clubs": [
+    1635,
+    91,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wer-uebertraegt-eintracht-frankfurt-gegen-1-fc-koeln-live-im-tv-und-stream-1261207/artikel",
    "title": "Wer überträgt Eintracht Frankfurt gegen 1. FC Köln live im TV und Stream?",
@@ -38,6 +64,19 @@
    "clubs": [
     16,
     100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-1-fc-koeln-aushalten-statt-beherrschen-100.html",
+   "title": "Köln vor Frankfurt-Gastspiel - Aushalten statt beherrschen",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-1-fc-koeln-aushalten-statt-beherrschen-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-15T19:59:39Z",
+   "teaser": "Der FC gewinnt Spiele durch Momente, Führungen hält der Verein selten. Trainer René Wagner sieht das gelassen. Reicht das in Frankfurt?",
+   "clubs": [
+    91,
+    65
    ],
    "transfer": false
   },
@@ -88,6 +127,19 @@
    "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
    "clubs": [],
    "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/regional/rbb/rbb-bundesliga-was-union-gegen-dortmund-mut-machen-kann-100.html",
+   "title": "Bundesliga: Was Union gegen Dortmund Mut machen kann",
+   "link": "https://www.sportschau.de/regional/rbb/rbb-bundesliga-was-union-gegen-dortmund-mut-machen-kann-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-15T13:48:28Z",
+   "teaser": "Wenn Union Berlin am Samstag Borussia Dortmund in der Fußball-Bundesliga empfängt, sind die Eisernen allein tabellarisch der klare Außenseiter. Trotzdem gibt es einige Faktoren, die für das Team von Mauro Lustrinelli sprechen könnten.",
+   "clubs": [
+    7,
+    80
+   ],
+   "transfer": false
   },
   {
    "id": "https://www.kicker.de/nach-remberg-aus-fehlt-dem-hsv-auch-sambi-lokonga-gegen-stuttgart-1261737/artikel",
@@ -2535,57 +2587,6 @@
    "published": "2026-10-09T13:50:16Z",
    "teaser": "In der Länderspielpause gab es durch den Abschied von Lionel Messi aus der Nationalmannschaft einen emotionalen Moment für alle Argentinier. Auch RB-Coach Martin Demichelis erlebte den letzten Auftritt seines ehemaligen Mitspielers am …",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/den-mut-habe-ich-wird-uno-blessins-ueberraschungsfaktor-fuers-derby-1259596/artikel",
-   "title": "\"Den Mut habe ich\": Wird Uno Blessins Überraschungsfaktor fürs Derby?",
-   "link": "https://www.kicker.de/den-mut-habe-ich-wird-uno-blessins-ueberraschungsfaktor-fuers-derby-1259596/artikel",
-   "source": "kicker",
-   "published": "2026-10-09T13:45:00Z",
-   "teaser": "Borussias neuer Cheftrainer gab am Freitag ein Update zu den angeschlagenen Kleindienst und Itakura. Außerdem verriet der 53-Jährige, dass ein Sommereinkauf in Köln sein Pflichtspiel-Debüt für die Fohlen feiern wird.",
-   "clubs": [
-    87,
-    65
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/muslic-veraergert-und-hoffnungsvoll-sylla-soll-die-sturmflaute-beenden-1259599/video",
-   "title": "Muslic verärgert und hoffnungsvoll: Sylla soll die Sturmflaute beenden",
-   "link": "https://www.kicker.de/muslic-veraergert-und-hoffnungsvoll-sylla-soll-die-sturmflaute-beenden-1259599/video",
-   "source": "kicker",
-   "published": "2026-10-09T13:21:11Z",
-   "teaser": "Schalke gastiert am Sonntagabend in Freiburg. Nachdem zahlreiche Profis weite Reisen in der Länderspielpause auf sich nehmen mussten, hofft Coach Miron Muslic trotzdem auf frische Beine und Stürmer Moussa Sylla.",
-   "clubs": [
-    112,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/muslic-kritisch-und-hoffnungsvoll-sylla-soll-die-sturmflaute-beenden-1259599/video",
-   "title": "Muslic kritisch und hoffnungsvoll: Sylla soll die Sturmflaute beenden",
-   "link": "https://www.kicker.de/muslic-kritisch-und-hoffnungsvoll-sylla-soll-die-sturmflaute-beenden-1259599/video",
-   "source": "kicker",
-   "published": "2026-10-09T13:21:11Z",
-   "teaser": "Schalke gastiert am Sonntagabend in Freiburg. Nachdem zahlreiche Profis weite Reisen in der Länderspielpause auf sich nehmen mussten, hofft Coach Miron Muslic trotzdem auf frische Beine und Stürmer Moussa Sylla.",
-   "clubs": [
-    112,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wagner-spuert-die-skepsis-es-ist-schwer-das-nicht-wahrzunehmen-1259589/artikel",
-   "title": "Wagner spürt die Skepsis: \"Es ist schwer, das nicht wahrzunehmen\"",
-   "link": "https://www.kicker.de/wagner-spuert-die-skepsis-es-ist-schwer-das-nicht-wahrzunehmen-1259589/artikel",
-   "source": "kicker",
-   "published": "2026-10-09T13:10:35Z",
-   "teaser": "An Trainer René Wagner entzündet sich im Umfeld des 1. FC Köln einige Kritik. Das geht auch am 38-Jährigen nicht spurlos vorbei. Doch der Coach steht bei den Geißböcken derzeit nicht zur Debatte.",
-   "clubs": [
-    65
-   ],
    "transfer": false
   }
  ]
