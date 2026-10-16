@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T09:09:31Z",
+ "updated": "2026-10-16T10:06:40Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/kompany-ihr-muesst-nach-muenchen-ihr-muesst-gegen-die-bayern-1261964/video",
+   "title": "Kompany: \"Ihr müsst nach München, ihr müsst gegen die Bayern\"",
+   "link": "https://www.kicker.de/kompany-ihr-muesst-nach-muenchen-ihr-muesst-gegen-die-bayern-1261964/video",
+   "source": "kicker",
+   "published": "2026-10-16T09:16:45Z",
+   "teaser": "Bayern-Trainer Vincent Kompany spricht vor dem Spiel gegen RB Leipzig über die aktuelle Form des Rekordmeisters und wirft einen Blick auf die Situation der anderen Vereine.",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kompany-lacht-vor-regionalligaderby-dante-hat-viel-mehr-haare-als-ich-1261962/video",
+   "title": "Kompany lacht vor Regionalligaderby: \"Dante hat viel mehr Haare als ich\"",
+   "link": "https://www.kicker.de/kompany-lacht-vor-regionalligaderby-dante-hat-viel-mehr-haare-als-ich-1261962/video",
+   "source": "kicker",
+   "published": "2026-10-16T09:14:32Z",
+   "teaser": "Am Sonntag steigt in der Regionalliga Bayern das Derby zwischen 1860 München und dem FC Bayern München II. Auch Max Eberl und Vincent Kompany äußerten sich dazu.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/neuer-auch-fuers-topspiel-gegen-leipzig-fraglich-1261792/artikel",
    "title": "Neuer auch fürs Topspiel gegen Leipzig fraglich",
@@ -2564,30 +2589,6 @@
    "clubs": [
     87,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/schuster-von-der-kabine-her-ein-top-team-1259623/artikel",
-   "title": "Schuster: \"Von der Kabine her ein Top-Team\"",
-   "link": "https://www.kicker.de/schuster-von-der-kabine-her-ein-top-team-1259623/artikel",
-   "source": "kicker",
-   "published": "2026-10-09T15:28:25Z",
-   "teaser": "Beim SC Freiburg gab es zuletzt nur positive Schlagzeilen: der Rekord-Saisonstart, die Debüts der Freiburger beim DFB-Team und Rekordzahlen bei der Mitgliederversammlung. Nach der Länderspielpause will der Sport-Club die Erfolgsgeschichte …",
-   "clubs": [
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/was-erzaehlt-einem-dann-modric-freiburger-auf-laenderspielreise-1259609/video",
-   "title": "\"Was erzählt einem dann Modric?\": Freiburger auf Länderspielreise",
-   "link": "https://www.kicker.de/was-erzaehlt-einem-dann-modric-freiburger-auf-laenderspielreise-1259609/video",
-   "source": "kicker",
-   "published": "2026-10-09T13:59:48Z",
-   "teaser": "Freiburg-Coach Julian Schuster sprach über seine Nationalspieler und deren wertvollen Erfahrungen. Sowohl die deutschen, als auch zum Beispiel Igor Matanovic bei Kroatien.",
-   "clubs": [
-    112
    ],
    "transfer": false
   }
