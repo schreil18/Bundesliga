@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T19:58:43Z",
+ "updated": "2026-10-16T20:31:14Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/erloeser-ebnoutalib-frankfurt-knackt-koelner-abwehrriegel-1261676/artikel",
+   "title": "Erlöser Ebnoutalib: Frankfurt knackt Kölner Abwehrriegel",
+   "link": "https://www.kicker.de/erloeser-ebnoutalib-frankfurt-knackt-koelner-abwehrriegel-1261676/artikel",
+   "source": "kicker",
+   "published": "2026-10-16T20:26:24Z",
+   "teaser": "Lange Zeit entnervte der 1. FC Köln dank klarem Fokus auf die Defensive die Frankfurter Eintracht - und musste sich am Ende dann aber doch beugen, weil Ebnoutalib einen Zuckerpass zum 1:0-Siegtreffer verwandelte.",
+   "clubs": [
+    91,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/viele-flanken-und-ein-geistesblitz-frankfurt-besiegt-koeln,spielbericht-eintracht-frankfurt-koeln-102.html",
+   "title": "Viele Flanken und ein Geistesblitz - Frankfurt besiegt Köln",
+   "link": "https://www.sportschau.de/fussball/bundesliga/viele-flanken-und-ein-geistesblitz-frankfurt-besiegt-koeln,spielbericht-eintracht-frankfurt-koeln-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-16T20:26:13Z",
+   "teaser": "Lange mühte sich Eintracht Frankfurt gegen einen harmlosen 1. FC Köln, doch dann griff Noel Aseko ganz tief in seine Trick-Kiste und Younes Ebnoutalib schlug eiskalt zu.",
+   "clubs": [
+    91,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/live-frankfurt-schwungvoll-und-mit-chancen-1261676/artikel",
    "title": "LIVE! Frankfurt schwungvoll und mit Chancen",
@@ -2560,33 +2586,6 @@
     31,
     198
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-bayern-gastiert-beim-fca-saisondebuet-fuer-karazor-naechster-sieg-fuer-elversberg-1259164/artikel",
-   "title": "LIVE! Bayern gastiert beim FCA - Saisondebüt für Karazor Nächster Sieg für Elversberg?",
-   "link": "https://www.kicker.de/live-bayern-gastiert-beim-fca-saisondebuet-fuer-karazor-naechster-sieg-fuer-elversberg-1259164/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T12:31:29Z",
-   "teaser": "Am ersten Bundesliga-Samstag nach der Länderspielpause sind für die Bayern drei Punkte in Augsburg fest eingeplant. Unter anderem empfängt auch Mainz Leverkusen, die SVE ist bei Union zu Gast.",
-   "clubs": [
-    40,
-    6,
-    81,
-    95,
-    80,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/regenschlacht-von-nuernberg-absurde-szenen-und-ein-historischer-spielabbruch-1259808/video",
-   "title": "Regenschlacht von Nürnberg: Absurde Szenen und ein historischer Spielabbruch",
-   "link": "https://www.kicker.de/regenschlacht-von-nuernberg-absurde-szenen-und-ein-historischer-spielabbruch-1259808/video",
-   "source": "kicker",
-   "published": "2026-10-10T11:53:59Z",
-   "teaser": "2008 wurde das Spiel zwischen dem 1. FC Nürnberg und dem VfL Wolfsburg abgebrochen - der erste Spielabbruch der Bundesliga-Geschichte aufgrund von Regen. Das Wiederholungsspiel gewann der Club mit 1:0.",
-   "clubs": [],
    "transfer": false
   }
  ]
