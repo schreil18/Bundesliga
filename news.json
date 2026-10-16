@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T22:31:37Z",
+ "updated": "2026-10-16T22:59:32Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/eintracht-atmet-auf-fest-verankerte-kinderkrankheiten-beim-effzeh-1262187/video",
+   "title": "Eintracht atmet auf - \"Fest verankerte Kinderkrankheiten\" beim Effzeh",
+   "link": "https://www.kicker.de/eintracht-atmet-auf-fest-verankerte-kinderkrankheiten-beim-effzeh-1262187/video",
+   "source": "kicker",
+   "published": "2026-10-16T22:20:41Z",
+   "teaser": "Julian Franzke, Moritz Kreilinger und Jim Decker berichten aus Frankfurt über das Freitagabendspiel zwischen der Eintracht und dem Effezeh. Die Frankfurter durften aufatmen, müssen sich aber noch finden. Für die Kölner gilt akribischer zu …",
+   "clubs": [
+    91,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-freitag-re-live-1610-100.html",
    "title": "Die Sportschau am Freitag in voller Länge",
@@ -2568,19 +2581,6 @@
    "clubs": [
     16,
     31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/1-fsv-mainz-05-gegen-bayer-leverkusen,audiostream-1-fsv-mainz-05-gegen-bayer-leverkusen-108.html",
-   "title": "Live hören: 1. FSV Mainz 05 gegen Bayer Leverkusen - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/1-fsv-mainz-05-gegen-bayer-leverkusen,audiostream-1-fsv-mainz-05-gegen-bayer-leverkusen-108.html",
-   "source": "Sportschau",
-   "published": "2026-10-10T13:15:00Z",
-   "teaser": "5. Spieltag: Anpfiff des Spiels ist am 10.10.2026 um 15:30 Uhr. Bayer Leverkusen spielt in Mainz.",
-   "clubs": [
-    6,
-    81
    ],
    "transfer": false
   }
