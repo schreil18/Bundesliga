@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T19:10:11Z",
+ "updated": "2026-10-16T19:58:43Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,11 +16,11 @@
  ],
  "items": [
   {
-   "id": "https://www.kicker.de/live-frankfurt-wird-staerker-atubolu-pariert-gegen-buelter-1261676/artikel",
-   "title": "LIVE! Frankfurt wird stärker - Atubolu pariert gegen Bülter",
-   "link": "https://www.kicker.de/live-frankfurt-wird-staerker-atubolu-pariert-gegen-buelter-1261676/artikel",
+   "id": "https://www.kicker.de/live-frankfurt-schwungvoll-und-mit-chancen-1261676/artikel",
+   "title": "LIVE! Frankfurt schwungvoll und mit Chancen",
+   "link": "https://www.kicker.de/live-frankfurt-schwungvoll-und-mit-chancen-1261676/artikel",
    "source": "kicker",
-   "published": "2026-10-16T19:02:18Z",
+   "published": "2026-10-16T19:46:27Z",
    "teaser": "Rehabilitiert sich Eintracht Frankfurt für die Klatsche in Leipzig? Die SGE trifft auf Köln und peilt den ersten Heimsieg an.",
    "clubs": [
     1635,
@@ -31,12 +31,26 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194218/eintracht-frankfurt_1-fc-koeln/liveticker",
-   "title": "Jetzt live - Frankfurt und Köln mit frühen Torchancen",
+   "title": "Jetzt live - Frankfurt drängt Köln in die Defensive",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194218/eintracht-frankfurt_1-fc-koeln/liveticker",
    "source": "Sportschau",
-   "published": "2026-10-16T18:55:45Z",
-   "teaser": "Eintracht Frankfurt geht im Spiel gegen den 1. FC Köln engagiert zu Werke. Doch auch die Rheinländer hatten schon ihre Gelegenheiten.",
+   "published": "2026-10-16T19:21:17Z",
+   "teaser": "Eintracht Frankfurt hat im Spiel gegen den 1. FC Köln das Kommando übernommen und drängt auf die Führung. Die Rheinländer können sich kaum befreien.",
    "clubs": [
+    91,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-frankfurt-wird-staerker-atubolu-pariert-gegen-buelter-1261676/artikel",
+   "title": "LIVE! Frankfurt wird stärker - Atubolu pariert gegen Bülter",
+   "link": "https://www.kicker.de/live-frankfurt-wird-staerker-atubolu-pariert-gegen-buelter-1261676/artikel",
+   "source": "kicker",
+   "published": "2026-10-16T19:02:18Z",
+   "teaser": "Rehabilitiert sich Eintracht Frankfurt für die Klatsche in Leipzig? Die SGE trifft auf Köln und peilt den ersten Heimsieg an.",
+   "clubs": [
+    1635,
     91,
     65
    ],
@@ -2573,21 +2587,6 @@
    "published": "2026-10-10T11:53:59Z",
    "teaser": "2008 wurde das Spiel zwischen dem 1. FC Nürnberg und dem VfL Wolfsburg abgebrochen - der erste Spielabbruch der Bundesliga-Geschichte aufgrund von Regen. Das Wiederholungsspiel gewann der Club mit 1:0.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3900/",
-   "title": "Jetzt live - FC Bayern gleicht nach historischem Neuer-Patzer aus",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3900/",
-   "source": "Sportschau",
-   "published": "2026-10-10T10:47:34Z",
-   "teaser": "Manuel Neuer kassiert in Augsburg den schnellsten Treffer der Bundesliga-Geschichte - mittlerweile steht es 2:2. Stuttgart und Leverkusen führen.",
-   "clubs": [
-    40,
-    6,
-    16,
-    95
-   ],
    "transfer": false
   }
  ]
