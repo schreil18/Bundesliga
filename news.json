@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T21:31:35Z",
+ "updated": "2026-10-16T22:01:59Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,33 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/el-mala-frankfurt-war-so-tot-1262174/artikel",
+   "title": "El Mala: \"Frankfurt war so tot\"",
+   "link": "https://www.kicker.de/el-mala-frankfurt-war-so-tot-1262174/artikel",
+   "source": "kicker",
+   "published": "2026-10-16T21:50:10Z",
+   "teaser": "Über ein Jahr ist es her, dass der 1. FC Köln auf fremdem Platz gewonnen hat, seither gab es 16 Spiele ohne Sieg. Die jüngste Schlappe setzte es am Freitagabend beim 0:1 in Frankfurt. Die Enttäuschung darüber war nach Abpfiff riesengroß  …",
+   "clubs": [
+    91,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/koch-nach-kritik-ich-bin-froh-dass-ich-es-abbekomme-1262170/artikel",
+   "title": "Koch nach Kritik: \"Ich bin froh, dass ich es abbekomme\"",
+   "link": "https://www.kicker.de/koch-nach-kritik-ich-bin-froh-dass-ich-es-abbekomme-1262170/artikel",
+   "source": "kicker",
+   "published": "2026-10-16T21:50:03Z",
+   "teaser": "Nach der Klatsche in Leipzig und der öffentlichen Kritik von Adi Hütter stand Robin Koch im Fokus. Beim Frankfurter Heimsieg gegen Köln folgte die Antwort auf dem Platz. Hinterher hatte der SGE-Kapitän Zeit zum Durchschnaufen.",
+   "clubs": [
+    1635,
+    91,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/viele-flanken-und-ein-geistesblitz-frankfurt-besiegt-koeln,spielbericht-eintracht-frankfurt-koeln-102.html",
    "title": "Ebnoutalib sichert Eintracht Frankfurt den Sieg gegen Köln",
@@ -2558,29 +2585,6 @@
     40,
     95
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/tsg-hoffenheim-gegen-hamburger-sv,audiostream-tsg-hoffenheim-gegen-hamburger-sv-100.html",
-   "title": "Live hören: TSG Hoffenheim gegen Hamburger SV - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/tsg-hoffenheim-gegen-hamburger-sv,audiostream-tsg-hoffenheim-gegen-hamburger-sv-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-10T13:15:00Z",
-   "teaser": "5. Spieltag: Anpfiff des Spiels ist am 10.10.2026 um 15:30 Uhr. Hamburger SV spielt in Sinsheim.",
-   "clubs": [
-    175,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/5-spieltag-die-konferenz,audiostream-5-spieltag-die-konferenz-138.html",
-   "title": "Live hören: Die Konferenz - 5. Spieltag | Fußball Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/5-spieltag-die-konferenz,audiostream-5-spieltag-die-konferenz-138.html",
-   "source": "Sportschau",
-   "published": "2026-10-10T13:10:00Z",
-   "teaser": "Bundesliga live - alle Spiele am 10.10.2026 um 15:30 Uhr in der Konferenz.",
-   "clubs": [],
    "transfer": false
   }
  ]
