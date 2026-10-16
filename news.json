@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T14:36:42Z",
+ "updated": "2026-10-16T15:09:06Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-tim-kleindienst-fehlt-moenchengladbach-erneut-100.html",
+   "title": "Tim Kleindienst fehlt Mönchengladbach erneut",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-tim-kleindienst-fehlt-moenchengladbach-erneut-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-16T15:01:36Z",
+   "teaser": "Borussia Mönchengladbach geht mit Personalsorgen ins Kellerduell gegen die TSG Hoffenheim. Tim Kleindienst fällt erneut aus.",
+   "clubs": [
+    175,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Kübler bleibt in Freiburg - Bellingham soll vorzeitig verlängern",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-10-16T14:50:45Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [
+    112
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/bei-seiner-rueckkehr-nach-muenchen-demichelis-will-die-flucht-nach-vorn-suchen-1261942/artikel",
    "title": "Bei seiner Rückkehr nach München: Demichelis will die Flucht nach vorn suchen",
@@ -39,6 +64,18 @@
     175,
     87,
     65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hainer-zu-wirtz-form-tut-mir-fast-leid-fuer-ihn-1262046/video",
+   "title": "Hainer zu Wirtz-Form: \"Tut mir fast leid für ihn\"",
+   "link": "https://www.kicker.de/hainer-zu-wirtz-form-tut-mir-fast-leid-fuer-ihn-1262046/video",
+   "source": "kicker",
+   "published": "2026-10-16T13:58:01Z",
+   "teaser": "Bayern-Präsident Herbert Hainer schwärmt zwar von Florian Wirtz betont aber, dass er aufgrund des aktuellen Kaders der Bayern, kein Thema in München sei.",
+   "clubs": [
+    40
    ],
    "transfer": false
   },
@@ -328,16 +365,6 @@
    "clubs": [
     81
    ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Bellingham soll vorzeitig verlängern - Kommt Sancho in Spanien unter?",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-10-15T13:51:41Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
    "transfer": true
   },
   {
@@ -2560,31 +2587,6 @@
    "teaser": "Beinahe hätten die Bremer ein Déjà-vu erlebt. Anders als vor vier Jahren reichte es beim BVB nach 2:0-Rückstand dieses Mal \"nur\" für ein Remis. Gute Laune hatten die Hanseaten dennoch. Allen voran Niclas Füllkrug, der gegen sein Ex-Team …",
    "clubs": [
     7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fuellkrug-da-kommt-der-champions-league-fuelle-raus-1259697/artikel",
-   "title": "Füllkrug: \"Da kommt der Champions-League-Fülle raus\"",
-   "link": "https://www.kicker.de/fuellkrug-da-kommt-der-champions-league-fuelle-raus-1259697/artikel",
-   "source": "kicker",
-   "published": "2026-10-09T22:00:20Z",
-   "teaser": "Beinahe hätten die Bremer ein Déjà-vu erlebt. Anders als vor vier Jahren reichte es beim BVB nach 2:0-Rückstand dieses Mal \"nur\" für ein Remis. Gute Laune hatten die Hanseaten dennoch. Allen voran Niclas Füllkrug, der gegen sein Ex-Team …",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wir-hatten-alles-im-griff-schlotterbeck-schwankt-zwischen-stolz-frust-und-enttaeuschung-1259703/artikel",
-   "title": "\"Wir hatten alles im Griff\": Schlotterbeck schwankt zwischen Stolz, Frust und Enttäuschung",
-   "link": "https://www.kicker.de/wir-hatten-alles-im-griff-schlotterbeck-schwankt-zwischen-stolz-frust-und-enttaeuschung-1259703/artikel",
-   "source": "kicker",
-   "published": "2026-10-09T21:40:37Z",
-   "teaser": "Gegen Werder Bremen war Borussia Dortmund lange Zeit überlegen und führte kurz vor Schluss auch noch mit 2:0. Am Ende reichte das dann aber doch nicht zum Sieg, weil sich Geschichte wiederholte - zumindest fast.",
-   "clubs": [
-    7,
-    134
    ],
    "transfer": false
   }
