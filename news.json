@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T21:02:37Z",
+ "updated": "2026-10-16T21:31:35Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,12 +16,12 @@
  ],
  "items": [
   {
-   "id": "https://www.kicker.de/erloeser-ebnoutalib-frankfurt-knackt-koelner-abwehrriegel-1261676/artikel",
-   "title": "Erlöser Ebnoutalib: Frankfurt knackt Kölner Abwehrriegel",
-   "link": "https://www.kicker.de/erloeser-ebnoutalib-frankfurt-knackt-koelner-abwehrriegel-1261676/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T20:26:24Z",
-   "teaser": "Lange Zeit entnervte der 1. FC Köln dank klarem Fokus auf die Defensive die Frankfurter Eintracht - und musste sich am Ende dann aber doch beugen, weil Ebnoutalib einen Zuckerpass zum 1:0-Siegtreffer verwandelte.",
+   "id": "https://www.sportschau.de/fussball/bundesliga/viele-flanken-und-ein-geistesblitz-frankfurt-besiegt-koeln,spielbericht-eintracht-frankfurt-koeln-102.html",
+   "title": "Ebnoutalib sichert Eintracht Frankfurt den Sieg gegen Köln",
+   "link": "https://www.sportschau.de/fussball/bundesliga/viele-flanken-und-ein-geistesblitz-frankfurt-besiegt-koeln,spielbericht-eintracht-frankfurt-koeln-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-16T21:16:05Z",
+   "teaser": "Lange mühte sich Eintracht Frankfurt gegen einen harmlosen 1. FC Köln, doch dann griff Noel Aseko ganz tief in seine Trick-Kiste und Younes Ebnoutalib schlug eiskalt zu.",
    "clubs": [
     91,
     65
@@ -29,12 +29,25 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/fussball/bundesliga/viele-flanken-und-ein-geistesblitz-frankfurt-besiegt-koeln,spielbericht-eintracht-frankfurt-koeln-102.html",
-   "title": "Ebnoutalib sichert Eintracht Frankfurt den Sieg gegen Köln",
-   "link": "https://www.sportschau.de/fussball/bundesliga/viele-flanken-und-ein-geistesblitz-frankfurt-besiegt-koeln,spielbericht-eintracht-frankfurt-koeln-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-16T20:26:13Z",
-   "teaser": "Lange mühte sich Eintracht Frankfurt gegen einen harmlosen 1. FC Köln, doch dann griff Noel Aseko ganz tief in seine Trick-Kiste und Younes Ebnoutalib schlug eiskalt zu.",
+   "id": "https://www.kicker.de/frankfurt-gegen-koeln-2026-bundesliga-5226856/spielbericht",
+   "title": "Ebnoutalib knackt Kölner Abwehrriegel: Frankfurt jubelt über Befreiungsschlag",
+   "link": "https://www.kicker.de/frankfurt-gegen-koeln-2026-bundesliga-5226856/spielbericht",
+   "source": "kicker",
+   "published": "2026-10-16T20:32:45Z",
+   "teaser": "Eintracht Frankfurt gewinnt das erste Bundesliga-Heimspiel seit März und feiert dank des 1:0-Sieges gegen den 1. FC Köln einen kleinen Befreiungsschlag. Am Ende war es Ebnoutalib, der den Kölner Abwehrriegel einmal durchbrechen konnte.",
+   "clubs": [
+    91,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/erloeser-ebnoutalib-frankfurt-knackt-koelner-abwehrriegel-1261676/artikel",
+   "title": "Erlöser Ebnoutalib: Frankfurt knackt Kölner Abwehrriegel",
+   "link": "https://www.kicker.de/erloeser-ebnoutalib-frankfurt-knackt-koelner-abwehrriegel-1261676/artikel",
+   "source": "kicker",
+   "published": "2026-10-16T20:26:24Z",
+   "teaser": "Lange Zeit entnervte der 1. FC Köln dank klarem Fokus auf die Defensive die Frankfurter Eintracht - und musste sich am Ende dann aber doch beugen, weil Ebnoutalib einen Zuckerpass zum 1:0-Siegtreffer verwandelte.",
    "clubs": [
     91,
     65
@@ -2568,24 +2581,6 @@
    "published": "2026-10-10T13:10:00Z",
    "teaser": "Bundesliga live - alle Spiele am 10.10.2026 um 15:30 Uhr in der Konferenz.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-bayern-gastiert-beim-fca-karazor-startet-in-paderborn-naechster-sieg-fuer-elversberg-1259164/artikel",
-   "title": "LIVE! Bayern gastiert beim FCA - Karazor startet in Paderborn - Nächster Sieg für Elversberg?",
-   "link": "https://www.kicker.de/live-bayern-gastiert-beim-fca-karazor-startet-in-paderborn-naechster-sieg-fuer-elversberg-1259164/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T12:31:29Z",
-   "teaser": "Am ersten Bundesliga-Samstag nach der Länderspielpause sind für die Bayern drei Punkte in Augsburg fest eingeplant. Unter anderem empfängt auch Mainz Leverkusen, die SVE ist bei Union zu Gast.",
-   "clubs": [
-    40,
-    6,
-    81,
-    95,
-    80,
-    31,
-    198
-   ],
    "transfer": false
   }
  ]
