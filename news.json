@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T10:39:16Z",
+ "updated": "2026-10-16T11:34:00Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,41 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/das-ist-mir-zu-billig-kovac-stellt-sich-vor-beier-1261991/video",
+   "title": "\"Das ist mir zu billig\": Kovac stellt sich vor Beier",
+   "link": "https://www.kicker.de/das-ist-mir-zu-billig-kovac-stellt-sich-vor-beier-1261991/video",
+   "source": "kicker",
+   "published": "2026-10-16T11:00:56Z",
+   "teaser": "Niko Kovac stellte sich auf der BVB-PK vor Maximilian Beier, der immer häufiger in der Kritik steht. Für den Dortmund-Trainer nicht nachvollziehbar.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/der-meister-ist-zum-siegen-verdammt-1261986/video",
+   "title": "\"Der Meister ist zum Siegen verdammt\"",
+   "link": "https://www.kicker.de/der-meister-ist-zum-siegen-verdammt-1261986/video",
+   "source": "kicker",
+   "published": "2026-10-16T10:48:16Z",
+   "teaser": "Die Bayern wollen gegen RB Leipzig wieder in die Erfolgsspur finden. Unser kicker-Reporter Mario Krischel berichtet aus München, wie das gelingen kann.",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/als-koller-grosskreutz-tarnat-co-auf-einmal-torhueter-waren-1260908/video",
+   "title": "Als Koller, Großkreutz, Tarnat & Co. auf einmal Torhüter waren",
+   "link": "https://www.kicker.de/als-koller-grosskreutz-tarnat-co-auf-einmal-torhueter-waren-1260908/video",
+   "source": "kicker",
+   "published": "2026-10-16T10:40:56Z",
+   "teaser": "Was haben Jan Koller, Michael Tarnat, Mike Büskens, Jan Rosenthal, Sebastian Polter und Kevin Großkreutz gemeinsam? Sie alle mussten auf einmal ungeplant ins Tor ihrer Mannschaft - mit unterschiedlichen Ausgängen...",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/ist-die-sehne-beteiligt-bayer-bangt-um-pechvogel-terrier-1261970/artikel",
    "title": "Ist die Sehne beteiligt? Bayer bangt um Pechvogel Terrier",
@@ -2552,45 +2587,6 @@
    "clubs": [
     7,
     1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/borussia-dortmund-gegen-werder-bremen,audiostream-borussia-dortmund-gegen-werder-bremen-108.html",
-   "title": "Live hören: Borussia Dortmund gegen Werder Bremen - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/borussia-dortmund-gegen-werder-bremen,audiostream-borussia-dortmund-gegen-werder-bremen-108.html",
-   "source": "Sportschau",
-   "published": "2026-10-09T18:15:00Z",
-   "teaser": "5. Spieltag: Anpfiff des Spiels ist am 09.10.2026 um 20:30 Uhr. Werder Bremen spielt in Dortmund.",
-   "clubs": [
-    7,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-schlotterbeck-in-der-startelf-gegen-bremen-1258778/artikel",
-   "title": "LIVE! Schlotterbeck in der Startelf gegen Bremen",
-   "link": "https://www.kicker.de/live-schlotterbeck-in-der-startelf-gegen-bremen-1258778/artikel",
-   "source": "kicker",
-   "published": "2026-10-09T17:22:11Z",
-   "teaser": "Borussia Dortmund ist makellos in die neue Saison gestartet und hat bisher alle vier Spiele in der Bundesliga gewonnen. Nun geht es nach der Länderspielpause gegen die gut gestarteten Bremer, die mit Leipzig bereits einen Favoriten …",
-   "clubs": [
-    7,
-    1635,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wagner-ueber-el-malas-dfb-debuet-das-hat-etwas-mit-ihm-gemacht-1259645/video",
-   "title": "Wagner über El Malas DFB-Debüt: \"Das hat etwas mit ihm gemacht\"",
-   "link": "https://www.kicker.de/wagner-ueber-el-malas-dfb-debuet-das-hat-etwas-mit-ihm-gemacht-1259645/video",
-   "source": "kicker",
-   "published": "2026-10-09T16:42:04Z",
-   "teaser": "Said El Mala hat in der zurückliegenden Länderspielpause seine ersten beiden Partien für die A-Nationalmannschaft bestritten. Sein Trainer beim 1. FC Köln René Wagner sprach über den Eindruck, den El Mala seit seiner Rückkehr nach Köln auf …",
-   "clubs": [
-    65
    ],
    "transfer": false
   }
