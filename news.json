@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T13:42:21Z",
+ "updated": "2026-10-16T14:36:42Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,57 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/bei-seiner-rueckkehr-nach-muenchen-demichelis-will-die-flucht-nach-vorn-suchen-1261942/artikel",
+   "title": "Bei seiner Rückkehr nach München: Demichelis will die Flucht nach vorn suchen",
+   "link": "https://www.kicker.de/bei-seiner-rueckkehr-nach-muenchen-demichelis-will-die-flucht-nach-vorn-suchen-1261942/artikel",
+   "source": "kicker",
+   "published": "2026-10-16T14:03:34Z",
+   "teaser": "16 Jahre nach seinem letzten Heimspiel für den FC Bayern kehrt Martin Demichelis in die Allianz-Arena zurück. Nimmt man die letzten RB-Gastspiele zum Maßstab, scheint seine Mission mit Leipzig nahezu aussichtslos.",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/blessin-trainer-du-hast-gar-keine-ahnung-du-vollpfosten-1262048/video",
+   "title": "Blessin: \"Trainer, du hast gar keine Ahnung, du Vollpfosten\"",
+   "link": "https://www.kicker.de/blessin-trainer-du-hast-gar-keine-ahnung-du-vollpfosten-1262048/video",
+   "source": "kicker",
+   "published": "2026-10-16T14:00:19Z",
+   "teaser": "Vor dem Spiel gegen die TSG Hoffenheim ging es auf der Pressekonferenz in Mönchengladbach um die Härtefälle, die nicht für den Kader nominiert werden, wie Kevin Stöger gegen Köln. Gladbach-Trainer Alexander Blessin erklärte seine …",
+   "clubs": [
+    175,
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wieder-etwas-neues-kleindiensts-unendliche-leidenszeit-1262031/artikel",
+   "title": "\"Wieder etwas Neues\": Kleindiensts unendliche Leidenszeit",
+   "link": "https://www.kicker.de/wieder-etwas-neues-kleindiensts-unendliche-leidenszeit-1262031/artikel",
+   "source": "kicker",
+   "published": "2026-10-16T13:45:30Z",
+   "teaser": "Ein Muskelfaserriss bedeutet die nächste Ausfallzeit für Tim Kleindienst, den Kapitän der Borussia. Zu den Gladbacher Problemen gehört, dass bisher keiner der möglichen Stellvertreter zündet.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hainer-bei-mir-ist-die-anspannung-groesser-als-bei-den-spielern-1262038/video",
+   "title": "Hainer: \"Bei mir ist die Anspannung größer, als bei den Spielern\"",
+   "link": "https://www.kicker.de/hainer-bei-mir-ist-die-anspannung-groesser-als-bei-den-spielern-1262038/video",
+   "source": "kicker",
+   "published": "2026-10-16T13:40:18Z",
+   "teaser": "Bayern-Präsident Herbert Hainer spricht im Interview über das Münchener Regionalliga-Derby und die intensiven kommenden Wochen für den FC Bayern",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/der-bayern-vorstand-den-die-nazis-hinrichteten-gedenktafel-fuer-willi-buisson-1261913/artikel",
    "title": "Der Bayern-Vorstand, den die Nazis hinrichteten: Gedenktafel für Willi Buisson",
@@ -2534,58 +2585,6 @@
    "clubs": [
     7,
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-schockiert-seinen-ex-verein-in-der-nachspielzeit,spielbericht-borussia-dortmund-werder-bremen-104.html",
-   "title": "Bremens Füllkrug schockiert den BVB in der Nachspielzeit",
-   "link": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-schockiert-seinen-ex-verein-in-der-nachspielzeit,spielbericht-borussia-dortmund-werder-bremen-104.html",
-   "source": "Sportschau",
-   "published": "2026-10-09T21:17:49Z",
-   "teaser": "Borussia Dortmund führt gegen Werder Bremen bis zur 88. Minute mit 2:0 - und lässt dann seinen Ex-Angreifer aus den Augen.",
-   "clubs": [
-    7,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/dortmund-gegen-bremen-2026-bundesliga-5226845/spielbericht",
-   "title": "Rückkehrer Füllkrug stellt das Spiel auf den Kopf: BVB verspielt 2:0 gegen Bremen",
-   "link": "https://www.kicker.de/dortmund-gegen-bremen-2026-bundesliga-5226845/spielbericht",
-   "source": "kicker",
-   "published": "2026-10-09T20:39:28Z",
-   "teaser": "Borussia Dortmund hat den fünften Sieg im fünften Spiel verpasst und erstmals Punkte liegen lassen. Gegen Werder Bremen sah der BVB nach 85 Minuten wie der sichere Sieger aus. Doch Rückkehrer Füllkrug stellte mit seinem späten Treffer das …",
-   "clubs": [
-    7,
-    134
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/ausgerechnet-fuellkrug-bremen-holt-in-dortmund-nach-0-2-einen-punkt-1258778/artikel",
-   "title": "Ausgerechnet Füllkrug: Bremen holt in Dortmund nach 0:2 einen Punkt",
-   "link": "https://www.kicker.de/ausgerechnet-fuellkrug-bremen-holt-in-dortmund-nach-0-2-einen-punkt-1258778/artikel",
-   "source": "kicker",
-   "published": "2026-10-09T20:28:45Z",
-   "teaser": "Dortmund führte schon 2:0 gegen ein leidenschaftlich verteidigendes Werder Bremen - und gab diese Führung in einer flotten Schlussphase doch noch aus der Hand. Ausgerechnet Füllkrug sorgte an alter Wirkungsstätte für den späten Ausgleich …",
-   "clubs": [
-    7,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-svensson-bricht-den-bann-schlotterbeck-erhoeht-auf-2-0-1258778/artikel",
-   "title": "LIVE! Svensson bricht den Bann - Schlotterbeck erhöht auf 2:0",
-   "link": "https://www.kicker.de/live-svensson-bricht-den-bann-schlotterbeck-erhoeht-auf-2-0-1258778/artikel",
-   "source": "kicker",
-   "published": "2026-10-09T20:16:52Z",
-   "teaser": "Borussia Dortmund ist makellos in die neue Saison gestartet und hat bisher alle vier Spiele in der Bundesliga gewonnen. Nun geht es nach der Länderspielpause gegen die gut gestarteten Bremer, die mit Leipzig bereits einen Favoriten …",
-   "clubs": [
-    7,
-    1635
    ],
    "transfer": false
   }
