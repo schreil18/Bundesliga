@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T17:31:04Z",
+ "updated": "2026-10-16T18:02:16Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,33 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/eintracht-frankfurt-gegen-1-fc-koeln,audiostream-eintracht-frankfurt-gegen-1-fc-koeln-106.html",
+   "title": "Live hören: Eintracht Frankfurt gegen 1. FC Köln - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/eintracht-frankfurt-gegen-1-fc-koeln,audiostream-eintracht-frankfurt-gegen-1-fc-koeln-106.html",
+   "source": "Sportschau",
+   "published": "2026-10-16T18:15:00Z",
+   "teaser": "6. Spieltag: Anpfiff des Spiels ist am 16.10.2026 um 20:30 Uhr. 1. FC Köln spielt in Frankfurt am Main.",
+   "clubs": [
+    91,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-koeln-erstmals-mit-fuenferkette-drei-neue-bei-der-eintracht-1261676/artikel",
+   "title": "LIVE! Köln erstmals mit Fünferkette - Drei Neue bei der Eintracht",
+   "link": "https://www.kicker.de/live-koeln-erstmals-mit-fuenferkette-drei-neue-bei-der-eintracht-1261676/artikel",
+   "source": "kicker",
+   "published": "2026-10-16T17:32:24Z",
+   "teaser": "Rehabilitiert sich Eintracht Frankfurt für die Klatsche in Leipzig? Die SGE trifft auf Köln und peilt den ersten Heimsieg an.",
+   "clubs": [
+    1635,
+    91,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/demichelis-beeindruckt-von-bayern-das-ist-nicht-normal-im-fussball-1262091/video",
    "title": "Demichelis beeindruckt von Bayern: \"Das ist nicht normal im Fußball\"",
@@ -210,6 +237,19 @@
    "published": "2026-10-16T10:40:56Z",
    "teaser": "Was haben Jan Koller, Michael Tarnat, Mike Büskens, Jan Rosenthal, Sebastian Polter und Kevin Großkreutz gemeinsam? Sie alle mussten auf einmal ungeplant ins Tor ihrer Mannschaft - mit unterschiedlichen Ausgängen...",
    "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194218/eintracht-frankfurt_1-fc-koeln/liveticker",
+   "title": "Ab 20.30 Uhr live - Hält Frankfurts Defensive gegen Köln?",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194218/eintracht-frankfurt_1-fc-koeln/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-16T10:32:00Z",
+   "teaser": "Im Bundesliga-Freitagsabendspiel empfängt Eintracht Frankfurt den 1. FC Köln.",
+   "clubs": [
+    91,
+    65
+   ],
    "transfer": false
   },
   {
@@ -2543,45 +2583,6 @@
    "source": "kicker",
    "published": "2026-10-10T07:36:26Z",
    "teaser": "Niko Kovac haderte nach dem 2:2 noch mit der ein oder anderen Entscheidung. Der BVB gab spät zwei Punkte gegen Werder Bremen aus der Hand.",
-   "clubs": [
-    7,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bayerns-bilanz-gegen-bayern-und-wo-sich-der-fca-einreiht-1259274/artikel",
-   "title": "Bayerns Bilanz gegen Bayern - und wo sich der FCA einreiht",
-   "link": "https://www.kicker.de/bayerns-bilanz-gegen-bayern-und-wo-sich-der-fca-einreiht-1259274/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T06:34:32Z",
-   "teaser": "Am Samstag steigt mal wieder das derzeit einzige Duell zwischen bayerischen Erstligisten. Der FC Augsburg empfängt die Bayern. Ein Blick auf die Bilanz des Rekordmeisters gegen Teams aus dem Freistaat - mit legendären Duellen, großen und …",
-   "clubs": [
-    40,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/thioune-wenn-meine-mannschaft-eins-gelernt-hat-1259721/video",
-   "title": "Thioune: \"Wenn meine Mannschaft eins gelernt hat, ...\"",
-   "link": "https://www.kicker.de/thioune-wenn-meine-mannschaft-eins-gelernt-hat-1259721/video",
-   "source": "kicker",
-   "published": "2026-10-10T06:12:15Z",
-   "teaser": "Werder Bremen stand gegen den BVB kurz vor der Niederlage, ehe die Mannschaft mit zwei Treffern zum 2:2 das Remis rettete. Trainer Daniel Thioune lobte nach der wilden Schlussphase die kämpferische Leistung seines Teams.",
-   "clubs": [
-    7,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kovac-enttaeuscht-hatten-gegner-in-der-ecke-1259719/video",
-   "title": "Kovac enttäuscht: \"Hatten Gegner in der Ecke\"",
-   "link": "https://www.kicker.de/kovac-enttaeuscht-hatten-gegner-in-der-ecke-1259719/video",
-   "source": "kicker",
-   "published": "2026-10-10T06:06:58Z",
-   "teaser": "Erst belohnte sich Dortmund kurz vor Schluss gegen Werder mit zwei Toren, ehe man die Führung wenige Minuten später wieder hergab. Trainer Niko Kovac sprach dementsprechend im Anschluss von verlorenen zwei Punkten.",
    "clubs": [
     7,
     134
