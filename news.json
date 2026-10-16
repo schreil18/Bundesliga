@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T07:40:08Z",
+ "updated": "2026-10-16T08:35:47Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/neuer-auch-fuers-topspiel-gegen-leipzig-fraglich-1261792/artikel",
+   "title": "Neuer auch fürs Topspiel gegen Leipzig fraglich",
+   "link": "https://www.kicker.de/neuer-auch-fuers-topspiel-gegen-leipzig-fraglich-1261792/artikel",
+   "source": "kicker",
+   "published": "2026-10-16T08:14:51Z",
+   "teaser": "In Stavanger saß Manuel Neuer bereits auf der Bank, auch gegen Leipzig könnte dem Kapitän des FC Bayern eine Zuschauerrolle drohen.",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/nach-stoffwechselstoerung-eichhorn-strebt-rueckkehr-in-diesem-jahr-an-1255158/artikel",
    "title": "Nach Stoffwechselstörung: Eichhorn strebt Rückkehr in diesem Jahr an",
@@ -2575,19 +2588,6 @@
    "teaser": "Freiburg-Coach Julian Schuster sprach über seine Nationalspieler und deren wertvollen Erfahrungen. Sowohl die deutschen, als auch zum Beispiel Igor Matanovic bei Kroatien.",
    "clubs": [
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/blessin-vor-dem-rheinderby-wahnsinniges-vertrauen-in-die-jungs-1259611/video",
-   "title": "Blessin vor dem Rheinderby: \"Wahnsinniges Vertrauen in die Jungs\"",
-   "link": "https://www.kicker.de/blessin-vor-dem-rheinderby-wahnsinniges-vertrauen-in-die-jungs-1259611/video",
-   "source": "kicker",
-   "published": "2026-10-09T13:59:17Z",
-   "teaser": "Auf der Pressekonferenz vor dem Auswärtsspiel gegen den 1. FC Köln spricht Neu-Trainer Alexander Blessin über die Motivation der Mannschaft und wie Gladbach die Stimmung im Kölner Stadion für sich nutzen will.",
-   "clubs": [
-    87,
-    65
    ],
    "transfer": false
   }
