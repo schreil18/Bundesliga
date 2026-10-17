@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T21:28:10Z",
+ "updated": "2026-10-17T21:56:55Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/ungewohnter-pk-gast-eberl-vertritt-kompany-und-erklaert-dessen-fehlen-1262455/video",
+   "title": "Ungewohnter PK-Gast: Eberl vertritt Kompany und erklärt dessen Fehlen",
+   "link": "https://www.kicker.de/ungewohnter-pk-gast-eberl-vertritt-kompany-und-erklaert-dessen-fehlen-1262455/video",
+   "source": "kicker",
+   "published": "2026-10-17T21:48:32Z",
+   "teaser": "Weil Coach Vincent Kompany gesundheitlich angeschlagen war und geschont werden sollte, übernahm für ihn Sportvorstand Max Eberl die Post-Match-PK.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/polzin-der-weg-dem-wir-uns-als-hsv-verschrieben-haben-1262441/video",
    "title": "Polzin: \"Der Weg, dem wir uns als HSV verschrieben haben\"",
@@ -2585,19 +2595,6 @@
    "published": "2026-10-11T07:48:00Z",
    "teaser": "Bevor Robin Fellhauer mit seinem Tor nach acht Sekunden einen neuen Bundesliga-Rekord aufstellte, teilten sich den Rekord für das schnellste Tor Karim Bellarabi und Kevin Volland.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-blamage-in-leipzig-und-es-hat-rumms-gemacht-100.html",
-   "title": "Und es hat Rumms gemacht!",
-   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-blamage-in-leipzig-und-es-hat-rumms-gemacht-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T07:35:16Z",
-   "teaser": "Die Eintracht zeigt in Leipzig eine unterirdische Abwehrleistung. Das zusätzlich Negative daran: Wirklich überraschend kommt das nicht. Zum Problem wird immer mehr der Frankfurter Kapitän.",
-   "clubs": [
-    1635,
-    91
-   ],
    "transfer": false
   }
  ]
