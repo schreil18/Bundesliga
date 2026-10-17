@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:28:38Z",
+ "updated": "2026-10-17T15:58:00Z",
  "sources": [
   {
    "name": "kicker",
@@ -22,6 +22,77 @@
    "source": "Sportschau",
    "published": "2026-10-17T16:15:00Z",
    "teaser": "6. Spieltag: Anpfiff des Spiels ist am 17.10.2026 um 18:30 Uhr. RB Leipzig spielt in München.",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
+   "title": "Bundesliga: Schalke enttäuscht bei nächstem Mainzer Auswärtscoup",
+   "link": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T15:52:23Z",
+   "teaser": "Schalke 04 bleibt ohne Heimtor, Mainz 05 gewinnt nur auswärts: Beim Mainzer Sieg auf Schalke setzten sich zwei Serien fort.",
+   "clubs": [
+    81,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ein-und-wieder-ausgewechselt-bvb-bangt-erneut-um-karetsas-1262313/artikel",
+   "title": "Ein- und wieder ausgewechselt: BVB bangt erneut um Karetsas",
+   "link": "https://www.kicker.de/ein-und-wieder-ausgewechselt-bvb-bangt-erneut-um-karetsas-1262313/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T15:46:21Z",
+   "teaser": "Konstantinos Karetsas droht eine erneute Zwangspause: Der 18 Jahre junge Grieche verletzte sich beim Gastspiel des BVB bei Union Berlin. Eine genaue Diagnose stand kurz nach Spielschluss noch aus.",
+   "clubs": [
+    7,
+    80
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/elversberger-happy-end-im-spektakel-gegen-augsburg,spielbericht-sv-elversberg-fc-augsburg-100.html",
+   "title": "Happy End für SV Elversberg im Spektakel gegen FC Augsburg",
+   "link": "https://www.sportschau.de/fussball/bundesliga/elversberger-happy-end-im-spektakel-gegen-augsburg,spielbericht-sv-elversberg-fc-augsburg-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T15:45:41Z",
+   "teaser": "Dieses Spiel hatte alles, was sich Fußballfans wünschen: Viele Tore, strittige Entscheidungen, zwei stürmende Teams - am Ende jubelte die SV Elversberg und nicht der FC Augsburg.",
+   "clubs": [
+    95,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hsv-jubelt-spaet-doppelpack-fuellkrug-sorgen-um-karetsas-kurioses-aus-elversberg-1261742/artikel",
+   "title": "HSV jubelt spät - Doppelpack Füllkrug - Sorgen um Karetsas - Kurioses aus Elversberg",
+   "link": "https://www.kicker.de/hsv-jubelt-spaet-doppelpack-fuellkrug-sorgen-um-karetsas-kurioses-aus-elversberg-1261742/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T15:35:18Z",
+   "teaser": "Der BVB kann mit einem Sieg bei Union die Tabellenspitze zurückerobern. Hamburg und Stuttgart möchten die untere Tabellenregion verlassen. Schalke hofft gegen Mainz auf den ersten Heimsieg. Kann Werder seinen guten Saisonstart auch gegen …",
+   "clubs": [
+    7,
+    16,
+    81,
+    134,
+    80,
+    100,
+    9,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-beim-fc-bayern-steht-wieder-urbig-im-tor-1261678/artikel",
+   "title": "LIVE! Beim FC Bayern steht wieder Urbig im Tor",
+   "link": "https://www.kicker.de/live-beim-fc-bayern-steht-wieder-urbig-im-tor-1261678/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T15:29:27Z",
+   "teaser": "Die Champions-League-Reise des FC Bayern nach Stavanger brachte nicht das gewünschte Ergebnis. Zurück im Ligaalltag wartet vor heimischer Kulisse Leipzig, das in der letzten Saison zweimal durch den Fleischwolf gedreht wurde. Wie wird's am …",
    "clubs": [
     40,
     1635
@@ -56,27 +127,14 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/muheims-knaller-bringt-dem-hsv-dritten-sieg,spielbericht-hamburger-sv-vfb-stuttgart-102.html",
-   "title": "Muheims Knaller bringt dem HSV den dritten Sieg",
+   "title": "Muheim als Matchwinner: Der Hamburger SV bezwingt den VfB Stuttgart in der Fußball-Bundesliga",
    "link": "https://www.sportschau.de/fussball/bundesliga/muheims-knaller-bringt-dem-hsv-dritten-sieg,spielbericht-hamburger-sv-vfb-stuttgart-102.html",
    "source": "Sportschau",
    "published": "2026-10-17T15:25:20Z",
-   "teaser": "Der HSV und der VfB liefern sich ein ausgeglichenes Duell mit Chancen auf beiden Seiten. Die Entscheidung bringt ein fulminanter Weitschuss.",
+   "teaser": "Der HSV und der VfB liefern sich ein ausgeglichenes Duell mit Chancen auf beiden Seiten - bis Muheim kurz vor Schluss den Hammer rausholt.",
    "clubs": [
     16,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
-   "title": "Bundesliga: Schalke enttäuscht bei nächstem Mainzer Auswärtscoup",
-   "link": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T15:23:56Z",
-   "teaser": "Schalke 04 bleibt ohne Heimtor, Mainz 05 gewinnt nur auswärts: Beim Mainzer Sieg auf Schalke setzten sich zwei Serien fort.",
-   "clubs": [
-    81,
-    9
    ],
    "transfer": false
   },
@@ -2529,58 +2587,6 @@
    "clubs": [
     80,
     198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/seimen-das-emotionalste-was-ich-in-meiner-karriere-erlebt-habe-1259915/artikel",
-   "title": "Seimen: \"Das Emotionalste, was ich in meiner Karriere erlebt habe\"",
-   "link": "https://www.kicker.de/seimen-das-emotionalste-was-ich-in-meiner-karriere-erlebt-habe-1259915/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T17:27:13Z",
-   "teaser": "Der VfB Stuttgart hat das knifflige Auswärtsspiel in Paderborn gewonnen. Dennis Seimen dürfte diese Partie noch lange in Erinnerung bleiben, bei ihm flossen sogar Tränen.",
-   "clubs": [
-    16,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/traenen-bei-seimen-das-emotionalste-was-ich-in-meiner-karriere-erlebt-habe-1259915/artikel",
-   "title": "Tränen bei Seimen: \"Das Emotionalste, was ich in meiner Karriere erlebt habe\"",
-   "link": "https://www.kicker.de/traenen-bei-seimen-das-emotionalste-was-ich-in-meiner-karriere-erlebt-habe-1259915/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T17:27:13Z",
-   "teaser": "Der VfB Stuttgart hat das knifflige Auswärtsspiel in Paderborn gewonnen. Dennis Seimen dürfte diese Partie noch lange in Erinnerung bleiben - bei ihm flossen sogar Tränen. Dagegen steht Maximilian Mittelstädt eine Zwangspause bevor.",
-   "clubs": [
-    16,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-nkunku-hattrick-in-frankfurts-drangphase-meldet-sich-die-sge-in-durchgang-zwei-zurueck-1259165/artikel",
-   "title": "LIVE! Nkunku-Hattrick in Frankfurts Drangphase - Meldet sich die SGE in Durchgang zwei zurück?",
-   "link": "https://www.kicker.de/live-nkunku-hattrick-in-frankfurts-drangphase-meldet-sich-die-sge-in-durchgang-zwei-zurueck-1259165/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T17:26:21Z",
-   "teaser": "Sowohl RB Leipzig als auch die Eintracht aus Frankfurt haben einen für die eigenen Verhältnisse mäßigen Saisonstart hingelegt. Im direkten Duell wollen nun beide klettern.",
-   "clubs": [
-    1635,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-hinten-rettet-vandevoordt-vorne-schnuert-nkunku-den-dreierpack-1259165/artikel",
-   "title": "LIVE! Hinten rettet Vandevoordt, vorne schnürt Nkunku den Dreierpack",
-   "link": "https://www.kicker.de/live-hinten-rettet-vandevoordt-vorne-schnuert-nkunku-den-dreierpack-1259165/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T17:12:28Z",
-   "teaser": "Sowohl RB Leipzig als auch die Eintracht aus Frankfurt haben einen für die eigenen Verhältnisse mäßigen Saisonstart hingelegt. Im direkten Duell wollen nun beide klettern.",
-   "clubs": [
-    1635,
-    91
    ],
    "transfer": false
   }
