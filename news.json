@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T05:29:44Z",
+ "updated": "2026-10-17T05:58:51Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wer-uebertraegt-fc-bayern-muenchen-gegen-rb-leipzig-live-im-tv-und-stream-1260760/artikel",
+   "title": "Wer überträgt FC Bayern München gegen RB Leipzig live im TV und Stream?",
+   "link": "https://www.kicker.de/wer-uebertraegt-fc-bayern-muenchen-gegen-rb-leipzig-live-im-tv-und-stream-1260760/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T05:30:00Z",
+   "teaser": "Der FC Bayern duelliert sich im Topspiel des 6. Spieltags mit RB Leipzig. Wo ihr die Partie live verfolgen könnt, erfahrt ihr hier.",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/eintracht-atmet-auf-fest-verankerte-kinderkrankheiten-beim-effzeh-1262187/video",
    "title": "Eintracht atmet auf - \"Fest verankerte Kinderkrankheiten\" beim Effzeh",
@@ -2568,19 +2581,6 @@
    "clubs": [
     80,
     198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-07-gegen-vfb-stuttgart,audiostream-sc-paderborn-07-gegen-vfb-stuttgart-102.html",
-   "title": "Live hören: SC Paderborn 07 gegen VfB Stuttgart - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-07-gegen-vfb-stuttgart,audiostream-sc-paderborn-07-gegen-vfb-stuttgart-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-10T13:15:00Z",
-   "teaser": "5. Spieltag: Anpfiff des Spiels ist am 10.10.2026 um 15:30 Uhr. VfB Stuttgart spielt in Paderborn.",
-   "clubs": [
-    16,
-    31
    ],
    "transfer": false
   }
