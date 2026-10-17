@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T20:58:46Z",
+ "updated": "2026-10-17T21:28:10Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/polzin-der-weg-dem-wir-uns-als-hsv-verschrieben-haben-1262441/video",
+   "title": "Polzin: \"Der Weg, dem wir uns als HSV verschrieben haben\"",
+   "link": "https://www.kicker.de/polzin-der-weg-dem-wir-uns-als-hsv-verschrieben-haben-1262441/video",
+   "source": "kicker",
+   "published": "2026-10-17T20:49:25Z",
+   "teaser": "Obwohl der HSV gegen Stuttgart den dritten Liga-Sieg in Serie einfuhr, wollte Coach Merlin Polzin danach nicht in Euphorie verfallen. Er erinnerte stattdessen auch an die schwierigen Anfangswochen der Saison zurück.",
+   "clubs": [
+    16,
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/kimmich-die-ersten-60-waren-schon-auf-einem-anderen-level-1262403/artikel",
    "title": "Kimmich: \"Die ersten 60 waren schon auf einem anderen Level\"",
@@ -2584,19 +2597,6 @@
    "clubs": [
     1635,
     91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ambitionierte-schalker-plaene-wie-sieht-die-arena-der-zukunft-aus-1259777/video",
-   "title": "Ambitionierte Schalker Pläne: \"Wie sieht die Arena der Zukunft aus?\"",
-   "link": "https://www.kicker.de/ambitionierte-schalker-plaene-wie-sieht-die-arena-der-zukunft-aus-1259777/video",
-   "source": "kicker",
-   "published": "2026-10-11T06:38:28Z",
-   "teaser": "Der Vorstandsvorsitzende des FC Schalke 04 Matthias Tillmann sprach vor dem Spiel gegen Freiburg im exklusiven Interview mit kicker-Reporter Toni Lieto über die Pläne rund um die Schalker Infrastruktur und eine ambitionierte Zukunft.",
-   "clubs": [
-    112,
-    9
    ],
    "transfer": false
   }
