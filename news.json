@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T13:09:21Z",
+ "updated": "2026-10-17T13:58:57Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,130 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-muenchen-gegen-rb-leipzig,audiostream-bayern-muenchen-gegen-rb-leipzig-110.html",
+   "title": "Live hören: Bayern München gegen RB Leipzig - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-muenchen-gegen-rb-leipzig,audiostream-bayern-muenchen-gegen-rb-leipzig-110.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T16:15:00Z",
+   "teaser": "6. Spieltag: Anpfiff des Spiels ist am 17.10.2026 um 18:30 Uhr. RB Leipzig spielt in München.",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3903/",
+   "title": "Jetzt live - Mainz führt auf Schalke, Augsburg liegt in Elversberg zurück",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3903/",
+   "source": "Sportschau",
+   "published": "2026-10-17T13:45:36Z",
+   "teaser": "Mainz 05 führt im Spiel gegen Schalke 04 verdient. Die ersten Tore waren allerdings in Elversberg gefallen. Und Paderborn erwischte Bremen kalt.",
+   "clubs": [
+    81,
+    134,
+    95,
+    9,
+    31,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-sve-kontert-fca-aus-dritte-gelbe-fuer-den-bvb-traumtor-von-marino-1261742/artikel",
+   "title": "LIVE! SVE kontert FCA aus - Dritte Gelbe für den BVB - Traumtor von Marino",
+   "link": "https://www.kicker.de/live-sve-kontert-fca-aus-dritte-gelbe-fuer-den-bvb-traumtor-von-marino-1261742/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T13:45:27Z",
+   "teaser": "Der BVB kann mit einem Sieg bei Union die Tabellenspitze zurückerobern. Hamburg und Stuttgart möchten die untere Tabellenregion verlassen. Schalke hofft gegen Mainz auf den ersten Heimsieg. Kann Werder seinen guten Saisonstart auch gegen …",
+   "clubs": [
+    7,
+    16,
+    81,
+    134,
+    95,
+    80,
+    100,
+    9,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-koch-uzun-system-huetters-eintracht-entscheidungen-gehen-auf-100.html",
+   "title": "Hütters Eintracht-Entscheidungen gehen auf",
+   "link": "https://www.sportschau.de/regional/hr/hr-koch-uzun-system-huetters-eintracht-entscheidungen-gehen-auf-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T13:32:52Z",
+   "teaser": "Die Eintracht verschafft sich mit dem Arbeitssieg gegen Köln ein bisschen Ruhe, ist in dieser Form aber kein Kandidat fürs erste Tabellendrittel. Während Robin Koch überzeugt, schmort Can Uzun auf der Bank. Die Signale von Trainer Adi …",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/1-fc-union-berlin-gegen-borussia-dortmund,audiostream-1-fc-union-berlin-gegen-borussia-dortmund-108.html",
+   "title": "Live hören: 1. FC Union Berlin gegen Borussia Dortmund - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/1-fc-union-berlin-gegen-borussia-dortmund,audiostream-1-fc-union-berlin-gegen-borussia-dortmund-108.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T13:15:00Z",
+   "teaser": "6. Spieltag: Anpfiff des Spiels ist am 17.10.2026 um 15:30 Uhr. Borussia Dortmund spielt in Berlin.",
+   "clubs": [
+    7,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/fc-schalke-04-gegen-1-fsv-mainz-05,audiostream-fc-schalke-04-gegen-1-fsv-mainz-05-102.html",
+   "title": "Live hören: FC Schalke 04 gegen 1. FSV Mainz 05 - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/fc-schalke-04-gegen-1-fsv-mainz-05,audiostream-fc-schalke-04-gegen-1-fsv-mainz-05-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T13:15:00Z",
+   "teaser": "6. Spieltag: Anpfiff des Spiels ist am 17.10.2026 um 15:30 Uhr. 1. FSV Mainz 05 spielt in Gelsenkirchen.",
+   "clubs": [
+    81,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/hamburger-sv-gegen-vfb-stuttgart,audiostream-hamburger-sv-gegen-vfb-stuttgart-106.html",
+   "title": "Live hören: Hamburger SV gegen VfB Stuttgart - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/hamburger-sv-gegen-vfb-stuttgart,audiostream-hamburger-sv-gegen-vfb-stuttgart-106.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T13:15:00Z",
+   "teaser": "6. Spieltag: Anpfiff des Spiels ist am 17.10.2026 um 15:30 Uhr. VfB Stuttgart spielt in Hamburg.",
+   "clubs": [
+    16,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/sv-07-elversberg-gegen-fc-augsburg,audiostream-sv-07-elversberg-gegen-fc-augsburg-100.html",
+   "title": "Live hören: SV 07 Elversberg gegen FC Augsburg - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/sv-07-elversberg-gegen-fc-augsburg,audiostream-sv-07-elversberg-gegen-fc-augsburg-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T13:15:00Z",
+   "teaser": "6. Spieltag: Anpfiff des Spiels ist am 17.10.2026 um 15:30 Uhr. FC Augsburg spielt in Elversberg.",
+   "clubs": [
+    95,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/6-spieltag-die-konferenz,audiostream-6-spieltag-die-konferenz-140.html",
+   "title": "Live hören: Die Konferenz - 6. Spieltag | Fußball Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/6-spieltag-die-konferenz,audiostream-6-spieltag-die-konferenz-140.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T13:10:00Z",
+   "teaser": "Bundesliga live - alle Spiele am 17.10.2026 um 15:30 Uhr in der Konferenz.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/live-schalke-geht-mit-dzeko-ins-rennen-springt-der-bvb-in-berlin-an-die-tabellenspitze-1261742/artikel",
    "title": "LIVE! Schalke geht mit Dzeko ins Rennen - Springt der BVB in Berlin an die Tabellenspitze?",
@@ -73,27 +197,6 @@
    "clubs": [
     91,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3903/",
-   "title": "Ab 15.30 Uhr live - Die Samstagskonferenz der Bundesliga",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3903/",
-   "source": "Sportschau",
-   "published": "2026-10-17T10:51:43Z",
-   "teaser": "In der Konferenz am Samstag trifft Dortmund auf Union Berlin, der HSV empfängt Stuttgart, Paderborn ist zu Gast in Bremen, Schalke empfängt Mainz und Augsburg gastiert bei Elversberg.",
-   "clubs": [
-    7,
-    16,
-    81,
-    134,
-    95,
-    80,
-    100,
-    9,
-    31,
-    198
    ],
    "transfer": false
   },
@@ -810,6 +913,16 @@
     91,
     65
    ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/die-sportschau-am-samstag-mit-der-bundesliga,livestream-sportschau-am-samstag-198.html",
+   "title": "Livestream - Bundesliga-Highlights: Die Sportschau am Samstag mit der Bundesliga",
+   "link": "https://www.sportschau.de/fussball/die-sportschau-am-samstag-mit-der-bundesliga,livestream-sportschau-am-samstag-198.html",
+   "source": "Sportschau",
+   "published": "2026-10-15T08:49:11Z",
+   "teaser": "Die Sportschau am Samstag mit den Highlights der Nachmittagsspiele der Bundesliga, 2. Liga und 3. Liga.",
+   "clubs": [],
    "transfer": false
   },
   {
@@ -2455,127 +2568,6 @@
    "teaser": "Der VfB Stuttgart dominierte beim SC Paderborn die erste Halbzeit, musste dann aber noch um den Sieg zittern.",
    "clubs": [
     16,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-nkunku-legt-gleich-nach-leipziger-blitzstart-1259165/artikel",
-   "title": "LIVE! Nkunku legt gleich nach: Leipziger Blitzstart",
-   "link": "https://www.kicker.de/live-nkunku-legt-gleich-nach-leipziger-blitzstart-1259165/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T16:32:24Z",
-   "teaser": "Sowohl RB Leipzig als auch die Eintracht aus Frankfurt haben einen für die eigenen Verhältnisse mäßigen Saisonstart hingelegt. Im direkten Duell wollen nun beide klettern.",
-   "clubs": [
-    1635,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/neuer-patzt-fellhauer-erzielt-schnellstes-tor-der-bundesliga-geschichte-1259836/artikel",
-   "title": "Neuer patzt: Fellhauer erzielt schnellstes Tor der Bundesliga-Geschichte",
-   "link": "https://www.kicker.de/neuer-patzt-fellhauer-erzielt-schnellstes-tor-der-bundesliga-geschichte-1259836/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T16:32:04Z",
-   "teaser": "Am 5. Spieltag der laufenden Bundesliga-Saison wurde Geschichte geschrieben: Augsburgs Robin Fellhauer erzielte gegen den FC Bayern München das schnellste Tor der Bundesliga-Geschichte. Er nutzte nach lediglich acht Sekunden einen Patzer …",
-   "clubs": [
-    40,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/union-feiert-gegen-elversberg-ersten-saisonsieg,spielbericht-union-berlin-sv-elversberg-100.html",
-   "title": "Union feiert erlösenden Sieg gegen Elversberg",
-   "link": "https://www.sportschau.de/fussball/bundesliga/union-feiert-gegen-elversberg-ersten-saisonsieg,spielbericht-union-berlin-sv-elversberg-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-10T16:18:23Z",
-   "teaser": "Joker Livan Burcu bricht gegen die SV Elversberg den Bann und ermöglicht Union Berlin in der Fußball-Bundesliga den lang ersehnten ersten Saisonsieg.",
-   "clubs": [
-    80,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/rb-leipzig-gegen-eintracht-frankfurt,audiostream-rb-leipzig-gegen-eintracht-frankfurt-112.html",
-   "title": "Live hören: RB Leipzig gegen Eintracht Frankfurt - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/rb-leipzig-gegen-eintracht-frankfurt,audiostream-rb-leipzig-gegen-eintracht-frankfurt-112.html",
-   "source": "Sportschau",
-   "published": "2026-10-10T16:15:00Z",
-   "teaser": "5. Spieltag: Anpfiff des Spiels ist am 10.10.2026 um 18:30 Uhr. Eintracht Frankfurt spielt in Leipzig.",
-   "clubs": [
-    1635,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
-   "title": "Drei Tore reichen Mainz gegen Leverkusen nicht zum ersten Heimsieg",
-   "link": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-10T15:54:00Z",
-   "teaser": "Bayer Leverkusen hat in der Fußball-Bundesliga einen Sieg beim 1. FSV Mainz 05 eingefahren. Dabei wehrten sich die Rheinhessen nach Kräften, doch auch drei Tore reichten nicht zum Punktgewinn.",
-   "clubs": [
-    6,
-    81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-leipzig-winkt-tabellensprung-gruda-auf-der-bank-1259165/artikel",
-   "title": "LIVE! Leipzig winkt Tabellensprung - Gruda auf der Bank",
-   "link": "https://www.kicker.de/live-leipzig-winkt-tabellensprung-gruda-auf-der-bank-1259165/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T15:39:23Z",
-   "teaser": "Sowohl RB Leipzig als auch die Eintracht aus Frankfurt haben einen für die eigenen Verhältnisse mäßigen Saisonstart hingelegt. Im direkten Duell wollen nun beide klettern.",
-   "clubs": [
-    1635,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-leipzig-winkt-tabellensprung-ebnoutalib-muss-weichen-1259165/artikel",
-   "title": "LIVE! Leipzig winkt Tabellensprung - Ebnoutalib muss weichen",
-   "link": "https://www.kicker.de/live-leipzig-winkt-tabellensprung-ebnoutalib-muss-weichen-1259165/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T15:39:23Z",
-   "teaser": "Sowohl RB Leipzig als auch die Eintracht aus Frankfurt haben einen für die eigenen Verhältnisse mäßigen Saisonstart hingelegt. Im direkten Duell wollen nun beide klettern.",
-   "clubs": [
-    1635,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194083/rb-leipzig_eintracht-frankfurt/liveticker",
-   "title": "Jetzt live - Nkunku mit Hattrick gegen desolate Frankfurter",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194083/rb-leipzig_eintracht-frankfurt/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-10T15:35:02Z",
-   "teaser": "RB Leipzig führt gegen Eintracht Frankfurt mit 6:0. Christopher Nkunku gelingt in der ersten Halbzeit ein lupenreiner Hattrick.",
-   "clubs": [
-    1635,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bayern-rettet-nach-neuer-patzer-einen-zaehler-bayer-verspielt-2-0-und-siegt-dennoch-muheim-in-letzter-sekunde-1259164/artikel",
-   "title": "Bayern rettet nach Neuer-Patzer einen Zähler - Bayer verspielt 2:0 und siegt dennoch - Muheim in letzter Sekunde",
-   "link": "https://www.kicker.de/bayern-rettet-nach-neuer-patzer-einen-zaehler-bayer-verspielt-2-0-und-siegt-dennoch-muheim-in-letzter-sekunde-1259164/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T15:32:41Z",
-   "teaser": "Der FC Bayern geriet historisch früh durch einen Neuer-Patzer in Rückstand, am Ende stand ein Remis in Augsburg. Der VfB atmet nach dem Sieg in Paderborn auf. Ein Spektakel lieferten sich Mainz und Leverkusen, mit dem besseren Ende für …",
-   "clubs": [
-    40,
-    6,
-    16,
-    81,
-    95,
     31
    ],
    "transfer": false
