@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T07:59:37Z",
+ "updated": "2026-10-17T08:31:04Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wagner-bedauert-deswegen-waren-wir-in-der-phase-zu-tief-drinnen-1262211/video",
+   "title": "Wagner bedauert: \"Deswegen waren wir in der Phase zu tief drinnen\"",
+   "link": "https://www.kicker.de/wagner-bedauert-deswegen-waren-wir-in-der-phase-zu-tief-drinnen-1262211/video",
+   "source": "kicker",
+   "published": "2026-10-17T07:37:08Z",
+   "teaser": "Der 1. FC Köln agierte bei der 0:1-Niederlage in Frankfurt gegen den Ball mit einer Fünferkette. Trainer René Wagner erklärte anschließend die Anpassung und warum dabei dennoch nichts Zählbares heraussprang.",
+   "clubs": [
+    91,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/huetter-mit-extralob-an-koch-hat-gezeigt-was-er-imstande-ist-zu-leisten-1262207/video",
    "title": "Hütter mit Extralob an Koch: \"Hat gezeigt, was er imstande ist zu leisten\"",
@@ -2560,23 +2573,6 @@
    "published": "2026-10-10T14:21:49Z",
    "teaser": "Mit dem 5. Spieltag der Saison 2026/27 gibt es einen neuen Spitzenreiter: Hier kommen die Top-10 der Blitzstarter im deutschen Oberhaus.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-bayern-rennt-fca-blitztor-hinterher-doppelter-caci-meldet-mainz-zurueck-1259164/artikel",
-   "title": "LIVE! Bayern rennt FCA-Blitztor hinterher - Doppelter Caci meldet Mainz zurück",
-   "link": "https://www.kicker.de/live-bayern-rennt-fca-blitztor-hinterher-doppelter-caci-meldet-mainz-zurueck-1259164/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T14:13:35Z",
-   "teaser": "Am ersten Bundesliga-Samstag nach der Länderspielpause sind für die Bayern drei Punkte in Augsburg fest eingeplant. Unter anderem empfängt auch Mainz Leverkusen, die SVE ist bei Union zu Gast.",
-   "clubs": [
-    40,
-    6,
-    81,
-    95,
-    80,
-    198
-   ],
    "transfer": false
   }
  ]
