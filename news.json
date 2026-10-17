@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T14:56:59Z",
+ "updated": "2026-10-17T15:28:38Z",
  "sources": [
   {
    "name": "kicker",
@@ -30,15 +30,65 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3903/",
-   "title": "Jetzt live - Füllkrug glänzt wieder bei Werder, Schalke harmlos gegen Mainz",
+   "title": "Jetzt live - Enge Schlussphase in Elversberg",
    "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3903/",
    "source": "Sportschau",
-   "published": "2026-10-17T14:55:25Z",
-   "teaser": "Werder Bremen kann sich voll auf Stürmer Niclas Füllkrug verlassen - auch gegen den SC Paderborn. Der FC Schalke 04 liegt derweil gegen Mainz 05 zurück - und das verdient.",
+   "published": "2026-10-17T15:26:27Z",
+   "teaser": "Die SV Elversberg hat 3:0 gegen den FC Augsburg geführt - kurz vor dem Ende steht es nur noch 3:2. Ist noch mehr drin für den FCA?",
+   "clubs": [
+    95,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/kampf-und-krampf-in-berlin-bvb-enttaeuscht-wieder,spielbericht-union-berlin-borussia-dortmund-104.html",
+   "title": "Kampf und Krampf in Berlin - BVB enttäuscht bei Union wieder",
+   "link": "https://www.sportschau.de/fussball/bundesliga/kampf-und-krampf-in-berlin-bvb-enttaeuscht-wieder,spielbericht-union-berlin-borussia-dortmund-104.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T15:25:58Z",
+   "teaser": "Borussia Dortmund ist hat zum dritten Mal in Folge nicht gewonnen - und schoss in einem unansehnlichen Spiel bei Union Berlin erneut kein Tor.",
+   "clubs": [
+    7,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/muheims-knaller-bringt-dem-hsv-dritten-sieg,spielbericht-hamburger-sv-vfb-stuttgart-102.html",
+   "title": "Muheims Knaller bringt dem HSV den dritten Sieg",
+   "link": "https://www.sportschau.de/fussball/bundesliga/muheims-knaller-bringt-dem-hsv-dritten-sieg,spielbericht-hamburger-sv-vfb-stuttgart-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T15:25:20Z",
+   "teaser": "Der HSV und der VfB liefern sich ein ausgeglichenes Duell mit Chancen auf beiden Seiten. Die Entscheidung bringt ein fulminanter Weitschuss.",
+   "clubs": [
+    16,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
+   "title": "Bundesliga: Schalke enttäuscht bei nächstem Mainzer Auswärtscoup",
+   "link": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T15:23:56Z",
+   "teaser": "Schalke 04 bleibt ohne Heimtor, Mainz 05 gewinnt nur auswärts: Beim Mainzer Sieg auf Schalke setzten sich zwei Serien fort.",
    "clubs": [
     81,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/werder-schafft-naechste-zwei-tore-comeback,spielbericht-werder-bremen-sc-paderborn-100.html",
+   "title": "Bundesliga: Bremen nur Remis gegen Paderborn",
+   "link": "https://www.sportschau.de/fussball/bundesliga/werder-schafft-naechste-zwei-tore-comeback,spielbericht-werder-bremen-sc-paderborn-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T15:22:52Z",
+   "teaser": "Drei Mal in Folge lag Werder Bremen in der Bundesliga mit 0:2 zurück, drei Mal hat Bremen nicht verloren. Gegen den SC Paderborn war sogar ein Sieg drin.",
+   "clubs": [
     134,
-    9,
     31
    ],
    "transfer": false
@@ -47,6 +97,24 @@
    "id": "https://www.kicker.de/live-fuellkrug-per-elfer-zum-doppelpack-in-hamburg-ist-jetzt-pfeffer-drin-1261742/artikel",
    "title": "LIVE! Füllkrug per Elfer zum Doppelpack - In Hamburg ist jetzt Pfeffer drin",
    "link": "https://www.kicker.de/live-fuellkrug-per-elfer-zum-doppelpack-in-hamburg-ist-jetzt-pfeffer-drin-1261742/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T14:40:03Z",
+   "teaser": "Der BVB kann mit einem Sieg bei Union die Tabellenspitze zurückerobern. Hamburg und Stuttgart möchten die untere Tabellenregion verlassen. Schalke hofft gegen Mainz auf den ersten Heimsieg. Kann Werder seinen guten Saisonstart auch gegen …",
+   "clubs": [
+    7,
+    16,
+    81,
+    134,
+    80,
+    100,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-muheim-aus-der-distanz-doppelpack-von-fuellkrug-sorgen-um-karetsas-1261742/artikel",
+   "title": "LIVE! Muheim aus der Distanz - Doppelpack von Füllkrug - Sorgen um Karetsas",
+   "link": "https://www.kicker.de/live-muheim-aus-der-distanz-doppelpack-von-fuellkrug-sorgen-um-karetsas-1261742/artikel",
    "source": "kicker",
    "published": "2026-10-17T14:40:03Z",
    "teaser": "Der BVB kann mit einem Sieg bei Union die Tabellenspitze zurückerobern. Hamburg und Stuttgart möchten die untere Tabellenregion verlassen. Schalke hofft gegen Mainz auf den ersten Heimsieg. Kann Werder seinen guten Saisonstart auch gegen …",
@@ -232,6 +300,19 @@
    "clubs": [
     91,
     65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194206/bayern-muenchen_rb-leipzig/liveticker",
+   "title": "Ab 18.30 Uhr live - Bayern empfängt Leipzig zum Topspiel",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194206/bayern-muenchen_rb-leipzig/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-17T07:54:40Z",
+   "teaser": "Im Bundesliga-Topspiel empfängt der FC Bayern RB Leipzig.",
+   "clubs": [
+    40,
+    1635
    ],
    "transfer": false
   },
@@ -2500,84 +2581,6 @@
    "clubs": [
     1635,
     91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/neuer-kassiert-schnellstes-tor-der-bundesliga-geschichte,neuer-tor-100.html",
-   "title": "Neuer kassiert schnellstes Tor der Bundesliga-Geschichte",
-   "link": "https://www.sportschau.de/fussball/bundesliga/neuer-kassiert-schnellstes-tor-der-bundesliga-geschichte,neuer-tor-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-10T17:08:54Z",
-   "teaser": "Der FC Augsburg erzielt gegen den FC Bayern das schnellste Tor der Bundesliga-Geschichte. Manuel Neuer ermöglicht es mit einem Patzer.",
-   "clubs": [
-    40,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-patzer-und-historischem-treffer-muss-man-sich-sorgen-um-neuer-machen-1259917/video",
-   "title": "Nach Patzer und historischem Treffer: Muss man sich Sorgen um Neuer machen?",
-   "link": "https://www.kicker.de/nach-patzer-und-historischem-treffer-muss-man-sich-sorgen-um-neuer-machen-1259917/video",
-   "source": "kicker",
-   "published": "2026-10-10T17:08:42Z",
-   "teaser": "Der frühe Fehler von Manuel Neuer war nach dem 2:2 der Bayern in Augsburg Gesprächsthema Nummer eins. In der Champions League unter der Woche könnte nun Jonas Urbig ins Tor rücken, allerdings eher wegen des Untergrunds.",
-   "clubs": [
-    40,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-patzer-und-historischem-treffer-muss-man-sich-sorgen-machen-um-neuer-1259917/video",
-   "title": "Nach Patzer und historischem Treffer: Muss man sich Sorgen machen um Neuer?",
-   "link": "https://www.kicker.de/nach-patzer-und-historischem-treffer-muss-man-sich-sorgen-machen-um-neuer-1259917/video",
-   "source": "kicker",
-   "published": "2026-10-10T17:08:42Z",
-   "teaser": "Der frühe Fehler von Manuel Neuer war nach dem 2:2 der Bayern in Augsburg Gesprächsthema Nummer eins. In der Champions League unter der Woche könnte nun Jonas Urbig ins Tor rücken, allerdings eher wegen des Untergrunds.",
-   "clubs": [
-    40,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-patzer-und-historischem-treffer-muss-man-sich-um-neuer-sorgen-machen-1259917/video",
-   "title": "Nach Patzer und historischem Treffer: Muss man sich um Neuer Sorgen machen?",
-   "link": "https://www.kicker.de/nach-patzer-und-historischem-treffer-muss-man-sich-um-neuer-sorgen-machen-1259917/video",
-   "source": "kicker",
-   "published": "2026-10-10T17:08:42Z",
-   "teaser": "Der frühe Fehler von Manuel Neuer war nach dem 2:2 der Bayern in Augsburg Gesprächsthema Nummer eins. In der Champions League unter der Woche könnte nun Jonas Urbig ins Tor rücken, allerdings eher wegen des Untergrunds.",
-   "clubs": [
-    40,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/swr/swr-frustrierend-und-unverstaendlich-mainz-05-hadert-mit-leverkusens-fuehrungstor-100.html",
-   "title": "Mainz 05 hadert mit Leverkusens Führungstor",
-   "link": "https://www.sportschau.de/regional/swr/swr-frustrierend-und-unverstaendlich-mainz-05-hadert-mit-leverkusens-fuehrungstor-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-10T16:58:38Z",
-   "teaser": "Der 1. FSV Mainz 05 liefert sich mit Bayer Leverkusen ein Torspektakel. Die Rheinhessen unterliegen mit 3:4 und hadern nach dem Spiel vor allem mit einer Szene.",
-   "clubs": [
-    6,
-    81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/neuers-schwarzer-nachmittag-kompany-spricht-von-zwei-riesenfehlern-1259913/artikel",
-   "title": "Neuers schwarzer Nachmittag - Kompany spricht von \"zwei Riesenfehlern\"",
-   "link": "https://www.kicker.de/neuers-schwarzer-nachmittag-kompany-spricht-von-zwei-riesenfehlern-1259913/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T16:57:39Z",
-   "teaser": "Manuel Neuer sah am Samstag bei beiden Bayern-Gegentoren in Augsburg nicht gut aus. Die Verantwortlichen ordneten den Auftritt ehrlich ein.",
-   "clubs": [
-    40,
-    95
    ],
    "transfer": false
   }
