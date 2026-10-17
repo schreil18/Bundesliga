@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T11:57:23Z",
+ "updated": "2026-10-17T12:34:18Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,49 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/live-schalke-geht-mit-dzeko-ins-rennen-springt-der-bvb-in-berlin-an-die-tabellenspitze-1261742/artikel",
+   "title": "LIVE! Schalke geht mit Dzeko ins Rennen - Springt der BVB in Berlin an die Tabellenspitze?",
+   "link": "https://www.kicker.de/live-schalke-geht-mit-dzeko-ins-rennen-springt-der-bvb-in-berlin-an-die-tabellenspitze-1261742/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T12:21:33Z",
+   "teaser": "Der BVB kann mit einem Sieg bei Union die Tabellenspitze zurückerobern. Hamburg und Stuttgart möchten die untere Tabellenregion verlassen. Schalke hofft gegen Mainz auf den ersten Heimsieg. Kann Werder seinen guten Saisonstart auch gegen …",
+   "clubs": [
+    7,
+    16,
+    81,
+    134,
+    80,
+    100,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/testphasen-im-laufenden-betrieb-koeln-bastelt-an-der-defensive-1262213/artikel",
+   "title": "Testphasen im laufenden Betrieb: Köln bastelt an der Defensive",
+   "link": "https://www.kicker.de/testphasen-im-laufenden-betrieb-koeln-bastelt-an-der-defensive-1262213/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T11:54:19Z",
+   "teaser": "Die Gegentor-Serie mit 20 Ligaspielen ohne weiße Weste hält an - und doch stabilisiert sich die Abwehr des 1. FC Köln immer weiter. Nun erweitert Coach René Wagner auch das taktische Repertoire.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/huetter-erstaunt-pk-abgebrochen-ploetzlich-geht-der-feueralarm-im-stadion-los-1262260/video",
+   "title": "Hütter erstaunt, PK abgebrochen: Plötzlich geht der Feueralarm im Stadion los",
+   "link": "https://www.kicker.de/huetter-erstaunt-pk-abgebrochen-ploetzlich-geht-der-feueralarm-im-stadion-los-1262260/video",
+   "source": "kicker",
+   "published": "2026-10-17T11:47:35Z",
+   "teaser": "Frankfurts Pressekonferenz nach dem Sieg gegen Köln musste aufgrund einer technischen Störung beendet werden. Trainer Adi Hütter schob die Schuld scherzhaft einem Reporter in die Schuhe.",
+   "clubs": [
+    91,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3903/",
    "title": "Ab 15.30 Uhr live - Die Samstagskonferenz der Bundesliga",
@@ -2534,55 +2577,6 @@
     95,
     100,
     31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-kane-auf-joker-brown-nun-zaehlt-das-bayern-tor-diaby-traumhaft-moffis-debuet-tor-fuer-den-hsv-1259164/artikel",
-   "title": "LIVE! Kane auf Joker Brown: Nun zählt das Bayern-Tor - Diaby traumhaft - Moffis Debüt-Tor für den HSV",
-   "link": "https://www.kicker.de/live-kane-auf-joker-brown-nun-zaehlt-das-bayern-tor-diaby-traumhaft-moffis-debuet-tor-fuer-den-hsv-1259164/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T15:15:51Z",
-   "teaser": "Am ersten Bundesliga-Samstag nach der Länderspielpause sind für die Bayern drei Punkte in Augsburg fest eingeplant. Unter anderem empfängt auch Mainz Leverkusen, die SVE ist bei Union zu Gast.",
-   "clubs": [
-    40,
-    6,
-    81,
-    95,
-    80,
-    100,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/rb/rb-thioune-lobt-werders-mentalitaet-eine-mannschaft-die-leiden-kann-102.html",
-   "title": "Thioune lobt Werders Mentalität: \"Eine Mannschaft, die leiden kann\"",
-   "link": "https://www.sportschau.de/regional/rb/rb-thioune-lobt-werders-mentalitaet-eine-mannschaft-die-leiden-kann-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-10T15:03:00Z",
-   "teaser": "Gegen den BVB haben die Bremer erneut nach einem 0:2-Rückstand noch gepunktet. Coach Daniel Thioune gefallen Mentalität, Bereitschaft und Wille seines Teams.",
-   "clubs": [
-    7,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-kane-laesst-das-1-1-aus-doppelter-caci-meldet-mainz-zurueck-hsv-eigentor-1259164/artikel",
-   "title": "LIVE! Kane lässt das 1:1 aus - Doppelter Caci meldet Mainz zurück - HSV-Eigentor",
-   "link": "https://www.kicker.de/live-kane-laesst-das-1-1-aus-doppelter-caci-meldet-mainz-zurueck-hsv-eigentor-1259164/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T14:30:00Z",
-   "teaser": "Am ersten Bundesliga-Samstag nach der Länderspielpause sind für die Bayern drei Punkte in Augsburg fest eingeplant. Unter anderem empfängt auch Mainz Leverkusen, die SVE ist bei Union zu Gast.",
-   "clubs": [
-    40,
-    6,
-    81,
-    95,
-    80,
-    100,
-    198
    ],
    "transfer": false
   }
