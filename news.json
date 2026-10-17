@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T16:29:20Z",
+ "updated": "2026-10-17T16:58:28Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,84 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/live-kimmich-legt-butterweich-zur-fuehrung-auf-1261678/artikel",
+   "title": "LIVE! Kimmich legt butterweich zur Führung auf",
+   "link": "https://www.kicker.de/live-kimmich-legt-butterweich-zur-fuehrung-auf-1261678/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T16:52:14Z",
+   "teaser": "Die Champions-League-Reise des FC Bayern nach Stavanger brachte nicht das gewünschte Ergebnis. Zurück im Ligaalltag wartet vor heimischer Kulisse Leipzig, das in der letzten Saison zweimal durch den Fleischwolf gedreht wurde. Wie wird's am …",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194206/bayern-muenchen_rb-leipzig/liveticker",
+   "title": "Jetzt live - Luis Diaz schießt FC Bayern gegen RB Leipzig in Führung",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194206/bayern-muenchen_rb-leipzig/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-17T16:48:47Z",
+   "teaser": "Der FC Bayern hat gegen RB Leipzig schwungvoll losgelegt und schon nach 11 Minuten das erste Ausrufezeichen gesetzt.",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/werder-schafft-naechste-zwei-tore-comeback,spielbericht-werder-bremen-sc-paderborn-100.html",
+   "title": "Bundesliga: Bremen nur Remis gegen Paderborn",
+   "link": "https://www.sportschau.de/fussball/bundesliga/werder-schafft-naechste-zwei-tore-comeback,spielbericht-werder-bremen-sc-paderborn-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T16:44:44Z",
+   "teaser": "Drei Mal in Folge lag Werder Bremen in der Bundesliga mit 0:2 zurück, drei Mal hat Bremen nicht verloren. Gegen den SC Paderborn war sogar ein Sieg drin.",
+   "clubs": [
+    134,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/faktor-volkspark-muheim-und-der-neu-erfundene-hsv-1262344/video",
+   "title": "Faktor Volkspark, Muheim und der \"neu-erfundene HSV\"",
+   "link": "https://www.kicker.de/faktor-volkspark-muheim-und-der-neu-erfundene-hsv-1262344/video",
+   "source": "kicker",
+   "published": "2026-10-17T16:43:02Z",
+   "teaser": "Wie schon in der Vorwoche war es Miro Muheim, der den HSV zum späten Sieg schoss. Das Volksparkstadion bebte, als der Schweizer den Ball mit einem Strich ins Stuttgarter Tor jagte.",
+   "clubs": [
+    16,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/undav-legt-den-finger-in-die-wunde-wir-sind-gerade-keine-spitzenmannschaft-1262327/artikel",
+   "title": "Undav legt den Finger in die Wunde: \"Wir sind gerade keine Spitzenmannschaft\"",
+   "link": "https://www.kicker.de/undav-legt-den-finger-in-die-wunde-wir-sind-gerade-keine-spitzenmannschaft-1262327/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T16:38:36Z",
+   "teaser": "Konstanz ist das große Problem des VfB Stuttgart in der laufenden Saison - das zeigte sich auch in Hamburg, wo man über weite Strecken überlegen war und am Ende dennoch unterlag. Deniz Undav legte anschließend den Finger in die Wunde.",
+   "clubs": [
+    16,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/muheims-knaller-bringt-dem-hsv-dritten-sieg,spielbericht-hamburger-sv-vfb-stuttgart-102.html",
+   "title": "Muheim als Matchwinner: Der Hamburger SV bezwingt den VfB Stuttgart in der Fußball-Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/muheims-knaller-bringt-dem-hsv-dritten-sieg,spielbericht-hamburger-sv-vfb-stuttgart-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T16:33:42Z",
+   "teaser": "Der HSV und der VfB liefern sich ein ausgeglichenes Duell mit Chancen auf beiden Seiten - bis Muheim den Hammer rausholt. Der Schweizer erfindet sich gerade neu.",
+   "clubs": [
+    16,
+    100
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/kampf-und-krampf-in-berlin-bvb-enttaeuscht-wieder,spielbericht-union-berlin-borussia-dortmund-104.html",
    "title": "Kampf und Krampf in Berlin - BVB enttäuscht bei Union wieder",
    "link": "https://www.sportschau.de/fussball/bundesliga/kampf-und-krampf-in-berlin-bvb-enttaeuscht-wieder,spielbericht-union-berlin-borussia-dortmund-104.html",
@@ -25,19 +103,6 @@
    "clubs": [
     7,
     80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194206/bayern-muenchen_rb-leipzig/liveticker",
-   "title": "Jetzt live - Bayern kann mit Sieg gegen Leipzig an die Spitze stürmen",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194206/bayern-muenchen_rb-leipzig/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-17T16:22:42Z",
-   "teaser": "RB Leipzig ist im Topspiel der Bundesliga zu Gast beim FC Bayern. Die Münchener könnten zumindest zeitweise die Tabellenspitze übernehmen. Oder zieht Leipzig an den Bayern vorbei?",
-   "clubs": [
-    40,
-    1635
    ],
    "transfer": false
   },
@@ -56,7 +121,7 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
-   "title": "Bundesliga: Schalke enttäuscht bei nächstem Mainzer Auswärtscoup",
+   "title": "Bundesliga: Schalke enttäuscht bei nächstem Auswärtscoup von Mainz 05",
    "link": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
    "source": "Sportschau",
    "published": "2026-10-17T16:00:52Z",
@@ -79,6 +144,19 @@
     80
    ],
    "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/im-moment-nicht-vom-glueck-gekuesst-bvb-bangt-erneut-um-karetsas-1262313/artikel",
+   "title": "\"Im Moment nicht vom Glück geküsst\": BVB bangt erneut um Karetsas",
+   "link": "https://www.kicker.de/im-moment-nicht-vom-glueck-gekuesst-bvb-bangt-erneut-um-karetsas-1262313/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T15:46:21Z",
+   "teaser": "Konstantinos Karetsas droht eine erneute Zwangspause: Der 18 Jahre junge Grieche verletzte sich beim Gastspiel des BVB bei Union Berlin. Eine genaue Diagnose stand kurz nach Spielschluss noch aus.",
+   "clubs": [
+    7,
+    80
+   ],
+   "transfer": false
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/elversberger-happy-end-im-spektakel-gegen-augsburg,spielbericht-sv-elversberg-fc-augsburg-100.html",
@@ -148,32 +226,6 @@
    "clubs": [
     95,
     198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/muheims-knaller-bringt-dem-hsv-dritten-sieg,spielbericht-hamburger-sv-vfb-stuttgart-102.html",
-   "title": "Muheim als Matchwinner: Der Hamburger SV bezwingt den VfB Stuttgart in der Fußball-Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/muheims-knaller-bringt-dem-hsv-dritten-sieg,spielbericht-hamburger-sv-vfb-stuttgart-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T15:25:20Z",
-   "teaser": "Der HSV und der VfB liefern sich ein ausgeglichenes Duell mit Chancen auf beiden Seiten - bis Muheim kurz vor Schluss den Hammer rausholt.",
-   "clubs": [
-    16,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/werder-schafft-naechste-zwei-tore-comeback,spielbericht-werder-bremen-sc-paderborn-100.html",
-   "title": "Bundesliga: Bremen nur Remis gegen Paderborn",
-   "link": "https://www.sportschau.de/fussball/bundesliga/werder-schafft-naechste-zwei-tore-comeback,spielbericht-werder-bremen-sc-paderborn-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T15:22:52Z",
-   "teaser": "Drei Mal in Folge lag Werder Bremen in der Bundesliga mit 0:2 zurück, drei Mal hat Bremen nicht verloren. Gegen den SC Paderborn war sogar ein Sieg drin.",
-   "clubs": [
-    134,
-    31
    ],
    "transfer": false
   },
@@ -2542,51 +2594,6 @@
    "teaser": "Manuel Neuer hat bereits eine \"Vorahnung\": Auf welchen Torhüter sollte Bayern-Trainer Vincent Kompany am Dienstag in Stavanger setzen? Hier geht es zu unserer Umfrage.",
    "clubs": [
     40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/neuer-beim-zweiten-gegentor-bin-ich-machtlos-1259937/artikel",
-   "title": "Neuer: \"Beim zweiten Gegentor bin ich machtlos\"",
-   "link": "https://www.kicker.de/neuer-beim-zweiten-gegentor-bin-ich-machtlos-1259937/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T18:09:35Z",
-   "teaser": "Nach einem der schwächsten Spiele seiner Bundesliga-Karriere wich Manuel Neuer einer Analyse nicht aus, fühlte sich aber nur für ein Gegentor verantwortlich - und hatte eine \"Vorahnung\" für Dienstag.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/neuer-sieht-nur-einen-patzer-und-hat-eine-vorahnung-fuer-dienstag-1259937/artikel",
-   "title": "Neuer sieht nur einen Patzer - und hat eine Vorahnung für Dienstag",
-   "link": "https://www.kicker.de/neuer-sieht-nur-einen-patzer-und-hat-eine-vorahnung-fuer-dienstag-1259937/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T18:09:35Z",
-   "teaser": "Nach einem der schwächsten Spiele seiner Bundesliga-Karriere wich Manuel Neuer einer Analyse nicht aus, fühlte sich aber nur für ein Gegentor verantwortlich - und hatte eine \"Vorahnung\" für Dienstag.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/muheim-wird-zum-hsv-helden-er-kam-er-brauchte-ein-bisschen-er-siegte-1259933/video",
-   "title": "Muheim wird zum HSV-Helden: \"Er kam, er brauchte ein bisschen, er siegte\"",
-   "link": "https://www.kicker.de/muheim-wird-zum-hsv-helden-er-kam-er-brauchte-ein-bisschen-er-siegte-1259933/video",
-   "source": "kicker",
-   "published": "2026-10-10T17:53:19Z",
-   "teaser": "Miro Muheim nutzte seinen ersten Saisoneinsatz direkt dazu, der Held des Tages für den HSV zu werden. Mit einer Vorlage und einem Treffer sicherte er den Rothosen den Sieg.",
-   "clubs": [
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-voellig-frei-gomis-laesst-das-6-0-liegen-1259165/artikel",
-   "title": "LIVE! Völlig frei: Gomis lässt das 6:0 liegen",
-   "link": "https://www.kicker.de/live-voellig-frei-gomis-laesst-das-6-0-liegen-1259165/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T17:45:19Z",
-   "teaser": "Sowohl RB Leipzig als auch die Eintracht aus Frankfurt haben einen für die eigenen Verhältnisse mäßigen Saisonstart hingelegt. Im direkten Duell wollen nun beide klettern.",
-   "clubs": [
-    1635,
-    91
    ],
    "transfer": false
   }
