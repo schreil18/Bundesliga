@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T14:28:17Z",
+ "updated": "2026-10-17T14:56:59Z",
  "sources": [
   {
    "name": "kicker",
@@ -30,11 +30,26 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3903/",
-   "title": "Jetzt live - BVB enttäuscht bei Union, der HSV wehrt sich gegen Stuttgart",
+   "title": "Jetzt live - Füllkrug glänzt wieder bei Werder, Schalke harmlos gegen Mainz",
    "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3903/",
    "source": "Sportschau",
-   "published": "2026-10-17T14:26:52Z",
-   "teaser": "Borussia Dortmund zeigt bei Union Berlin bislang eine schwache Vorstellung. Mainz führt verdient auf Schalke, genau wie Paderborn in Bremen. Der VfB Stuttgart tut sich beim HSV noch schwer.",
+   "published": "2026-10-17T14:55:25Z",
+   "teaser": "Werder Bremen kann sich voll auf Stürmer Niclas Füllkrug verlassen - auch gegen den SC Paderborn. Der FC Schalke 04 liegt derweil gegen Mainz 05 zurück - und das verdient.",
+   "clubs": [
+    81,
+    134,
+    9,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-fuellkrug-per-elfer-zum-doppelpack-in-hamburg-ist-jetzt-pfeffer-drin-1261742/artikel",
+   "title": "LIVE! Füllkrug per Elfer zum Doppelpack - In Hamburg ist jetzt Pfeffer drin",
+   "link": "https://www.kicker.de/live-fuellkrug-per-elfer-zum-doppelpack-in-hamburg-ist-jetzt-pfeffer-drin-1261742/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T14:40:03Z",
+   "teaser": "Der BVB kann mit einem Sieg bei Union die Tabellenspitze zurückerobern. Hamburg und Stuttgart möchten die untere Tabellenregion verlassen. Schalke hofft gegen Mainz auf den ersten Heimsieg. Kann Werder seinen guten Saisonstart auch gegen …",
    "clubs": [
     7,
     16,
@@ -42,8 +57,7 @@
     134,
     80,
     100,
-    9,
-    31
+    9
    ],
    "transfer": false
   },
@@ -2564,19 +2578,6 @@
    "clubs": [
     40,
     95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/verdacht-auf-kreuzbandriss-hsv-bangt-um-leader-remberg-1259893/artikel",
-   "title": "Verdacht auf Kreuzbandriss: HSV bangt um Leader Remberg",
-   "link": "https://www.kicker.de/verdacht-auf-kreuzbandriss-hsv-bangt-um-leader-remberg-1259893/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T16:57:29Z",
-   "teaser": "Als der glückliche 3:2-Sieg in Hoffenheim perfekt war, drückte Merlin Polzin seinen Kapitän ganz fest und innig an sich. Nicolai Remberg war bereits in der ersten Hälfte mit Verdacht auf Kreuzbandriss ausgeschieden - der HSV wird seinen …",
-   "clubs": [
-    175,
-    100
    ],
    "transfer": false
   }
