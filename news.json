@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T19:55:24Z",
+ "updated": "2026-10-17T20:29:28Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/kimmich-die-ersten-60-waren-schon-auf-einem-anderen-level-1262403/artikel",
+   "title": "Kimmich: \"Die ersten 60 waren schon auf einem anderen Level\"",
+   "link": "https://www.kicker.de/kimmich-die-ersten-60-waren-schon-auf-einem-anderen-level-1262403/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T20:06:00Z",
+   "teaser": "Der FC Bayern ist mit Bravour zurück in die Erfolgsspur gekehrt. Nach dem Kantersieg gegen Leipzig sprach Joshua Kimmich über den Mann des Abends - und Trainer Vincent Kompany, der alle Termine nach dem Spiel absagte.",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/hoeness-hadert-mit-hsv-momenten-besonders-gerne-gegen-uns-1262428/video",
    "title": "Hoeneß hadert mit HSV-Momenten: \"Besonders gerne gegen uns\"",
@@ -2582,20 +2595,6 @@
    "published": "2026-10-11T06:38:28Z",
    "teaser": "Der Vorstandsvorsitzende des FC Schalke 04 Matthias Tillmann sprach vor dem Spiel gegen Freiburg im exklusiven Interview mit kicker-Reporter Toni Lieto über die Pläne rund um die Schalker Infrastruktur und eine ambitionierte Zukunft.",
    "clubs": [
-    112,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/augenhoehe-mit-dortmund-das-wird-noch-ein-paar-jahre-dauern-1259777/video",
-   "title": "Augenhöhe mit Dortmund? \"Das wird noch ein paar Jahre dauern\"",
-   "link": "https://www.kicker.de/augenhoehe-mit-dortmund-das-wird-noch-ein-paar-jahre-dauern-1259777/video",
-   "source": "kicker",
-   "published": "2026-10-11T06:38:28Z",
-   "teaser": "Der Vorstandsvorsitzende des FC Schalke 04 Matthias Tillmann sprach vor dem Spiel gegen Freiburg im exklusiven Interview mit kicker-Reporter Toni Lieto über die Pläne rund um die Schalker Infrastruktur und eine ambitionierte Zukunft.",
-   "clubs": [
-    7,
     112,
     9
    ],
