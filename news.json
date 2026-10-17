@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T12:34:18Z",
+ "updated": "2026-10-17T13:09:21Z",
  "sources": [
   {
    "name": "kicker",
@@ -32,6 +32,24 @@
     9
    ],
    "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-schalke-geht-mit-dzeko-ins-rennen-fuenf-wechsel-beim-bvb-1261742/artikel",
+   "title": "LIVE! Schalke geht mit Dzeko ins Rennen - Fünf Wechsel beim BVB",
+   "link": "https://www.kicker.de/live-schalke-geht-mit-dzeko-ins-rennen-fuenf-wechsel-beim-bvb-1261742/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T12:21:33Z",
+   "teaser": "Der BVB kann mit einem Sieg bei Union die Tabellenspitze zurückerobern. Hamburg und Stuttgart möchten die untere Tabellenregion verlassen. Schalke hofft gegen Mainz auf den ersten Heimsieg. Kann Werder seinen guten Saisonstart auch gegen …",
+   "clubs": [
+    7,
+    16,
+    81,
+    134,
+    80,
+    100,
+    9
+   ],
+   "transfer": true
   },
   {
    "id": "https://www.kicker.de/testphasen-im-laufenden-betrieb-koeln-bastelt-an-der-defensive-1262213/artikel",
@@ -2558,24 +2576,6 @@
     16,
     81,
     95,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bayern-rettet-nach-neuer-patzer-einen-zaehler-bayer-spektakel-in-mainz-hsv-in-letzter-sekunde-1259164/artikel",
-   "title": "Bayern rettet nach Neuer-Patzer einen Zähler - Bayer-Spektakel in Mainz - HSV in letzter Sekunde",
-   "link": "https://www.kicker.de/bayern-rettet-nach-neuer-patzer-einen-zaehler-bayer-spektakel-in-mainz-hsv-in-letzter-sekunde-1259164/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T15:32:41Z",
-   "teaser": "Der FC Bayern geriet historisch früh durch einen Neuer-Patzer in Rückstand, am Ende stand ein Remis in Augsburg. Der VfB atmet nach dem Sieg in Paderborn auf. Ein Spektakel lieferten sich Mainz und Leverkusen, mit dem besseren Ende für …",
-   "clubs": [
-    40,
-    6,
-    16,
-    81,
-    95,
-    100,
     31
    ],
    "transfer": false
