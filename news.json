@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T09:59:08Z",
+ "updated": "2026-10-17T10:29:04Z",
  "sources": [
   {
    "name": "kicker",
@@ -273,19 +273,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-tim-kleindienst-fehlt-moenchengladbach-erneut-100.html",
-   "title": "Tim Kleindienst fehlt Mönchengladbach erneut",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-tim-kleindienst-fehlt-moenchengladbach-erneut-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-16T15:01:36Z",
-   "teaser": "Borussia Mönchengladbach geht mit Personalsorgen ins Kellerduell gegen die TSG Hoffenheim. Tim Kleindienst fällt erneut aus.",
-   "clubs": [
-    175,
-    87
-   ],
-   "transfer": false
-  },
-  {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
    "title": "Kübler bleibt in Freiburg - Bellingham soll vorzeitig verlängern",
    "link": "https://www.kicker.de/transferticker-953155/artikel",
@@ -357,6 +344,19 @@
    "teaser": "Bayern-Präsident Herbert Hainer spricht im Interview über das Münchener Regionalliga-Derby und die intensiven kommenden Wochen für den FC Bayern",
    "clubs": [
     40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-tim-kleindienst-fehlt-moenchengladbach-erneut-100.html",
+   "title": "Tim Kleindienst fehlt Mönchengladbach erneut",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-tim-kleindienst-fehlt-moenchengladbach-erneut-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-16T13:39:00Z",
+   "teaser": "Borussia Mönchengladbach geht mit Personalsorgen ins Kellerduell gegen die TSG Hoffenheim. Tim Kleindienst fällt erneut aus.",
+   "clubs": [
+    175,
+    87
    ],
    "transfer": false
   },
