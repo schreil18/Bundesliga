@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T18:31:37Z",
+ "updated": "2026-10-17T19:01:15Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,15 +16,27 @@
  ],
  "items": [
   {
-   "id": "https://www.kicker.de/dreierpack-von-luis-diaz-fc-bayern-schiesst-desastroeses-leipzig-ab-1261678/artikel",
-   "title": "Dreierpack von Luis Diaz: FC Bayern schießt desaströses Leipzig ab",
-   "link": "https://www.kicker.de/dreierpack-von-luis-diaz-fc-bayern-schiesst-desastroeses-leipzig-ab-1261678/artikel",
+   "id": "https://www.kicker.de/ueberflieger-kane-die-meisten-tore-in-den-ersten-100-bundesliga-spielen-1117344/slideshow",
+   "title": "Überflieger Kane: Die meisten Tore in den ersten 100 Bundesliga-Spielen",
+   "link": "https://www.kicker.de/ueberflieger-kane-die-meisten-tore-in-den-ersten-100-bundesliga-spielen-1117344/slideshow",
    "source": "kicker",
-   "published": "2026-10-17T18:25:20Z",
-   "teaser": "Nach dem Ausrutscher in Stavanger hat sich der FC Bayern eindrucksvoll mit einem 6:1 gegen RB Leipzig zurückgemeldet. Der Rekordmeister war von der ersten Minute an in allen Belangen gegen hilf- und wehrlose Gäste überlegen.",
+   "published": "2026-10-17T18:52:25Z",
+   "teaser": "Am Samstag absolvierte Harry Kane sein 100. Bundesligaspiel für den FC Bayern. Kein anderer Akteur erzielte in diesem Zeitraum mehr Tore in der Bundesliga.",
    "clubs": [
-    40,
-    1635
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/rbb/rbb-nach-00-gegen-bvb-oldschool-union-ist-zurueck-100.html",
+   "title": "Oldschool-Union ist zurück",
+   "link": "https://www.sportschau.de/regional/rbb/rbb-nach-00-gegen-bvb-oldschool-union-ist-zurueck-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T18:47:51Z",
+   "teaser": "Ein torloses Remis, das wie eine weitere Annäherung zwischen Team und Trainer wirkt. Union verteidigt leidenschaftlich gegen den BVB, wie zu alten Zeiten. Von den Defensivproblemen zum Saisonstart keine Spur.",
+   "clubs": [
+    7,
+    80
    ],
    "transfer": false
   },
@@ -33,8 +45,34 @@
    "title": "FC Bayern schießt sich gegen RB Leipzig den Frust von der Seele",
    "link": "https://www.sportschau.de/fussball/bundesliga/bayern-schiesst-sich-gegen-leipzig-frust-von-der-seele,spielbericht-bayern-muenchen-rb-leipzig-110.html",
    "source": "Sportschau",
-   "published": "2026-10-17T18:24:24Z",
+   "published": "2026-10-17T18:33:17Z",
    "teaser": "RB Leipzig hat darunter leiden müssen, dass der FC Bayern München zuvor zwei Enttäuschungen erlebt hatte. Luis Diaz war beim Schützenfest des Rekordmeisters der Hauptakteur.",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bayern-gegen-leipzig-2026-bundesliga-5226854/spielbericht",
+   "title": "Trainingsspiel in der Allianz-Arena: Bayern demütigt trümmerhaftes Leipzig",
+   "link": "https://www.kicker.de/bayern-gegen-leipzig-2026-bundesliga-5226854/spielbericht",
+   "source": "kicker",
+   "published": "2026-10-17T18:29:34Z",
+   "teaser": "Der FC Bayern hat mit einem Kantersieg gegen RB Leipzig seine Mini-Misere beendet. Gegen völlig überforderte Sachsen machten die Münchner und insbesondere Luis Diaz, was sie wollten. Die Gäste lieferten keine Gegenwehr.",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/dreierpack-von-luis-diaz-fc-bayern-schiesst-desastroeses-leipzig-ab-1261678/artikel",
+   "title": "Dreierpack von Luis Diaz: FC Bayern schießt desaströses Leipzig ab",
+   "link": "https://www.kicker.de/dreierpack-von-luis-diaz-fc-bayern-schiesst-desastroeses-leipzig-ab-1261678/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T18:25:20Z",
+   "teaser": "Nach dem Ausrutscher in Stavanger hat sich der FC Bayern eindrucksvoll mit einem 6:1 gegen RB Leipzig zurückgemeldet. Der Rekordmeister war von der ersten Minute an in allen Belangen gegen hilf- und wehrlose Gäste überlegen.",
    "clubs": [
     40,
     1635
@@ -64,6 +102,19 @@
    "clubs": [
     7,
     80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/swr/swr-keine-spitzenmannschaft--undavs-klartext-als-wachmacher-vor-dem-atltico-kracher-100.html",
+   "title": "Stuttgart fehlt der Flow",
+   "link": "https://www.sportschau.de/regional/swr/swr-keine-spitzenmannschaft--undavs-klartext-als-wachmacher-vor-dem-atltico-kracher-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T17:45:35Z",
+   "teaser": "Nach dem späten 0:1 beim HSV nimmt Kapitän Deniz Undav den VfB Stuttgart in die Pflicht. Vor dem Atlético-Kracher am Dienstag fehlt den Schwaben der Flow.",
+   "clubs": [
+    16,
+    100
    ],
    "transfer": false
   },
@@ -2542,58 +2593,6 @@
    "published": "2026-10-10T20:26:25Z",
    "teaser": "Mehr als zufrieden konnte Martin Demichelis mit der Vorstellung seiner Mannschaft gegen Frankfurt sein. Der RB-Coach lobte besonders die Reaktion auf die Partie vor der Länderspielpause.",
    "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nkunku-schafft-historisches-aber-dazu-gehoert-auch-ein-gegner-1259995/video",
-   "title": "Nkunku schafft Historisches, aber \"dazu gehört auch ein Gegner\"",
-   "link": "https://www.kicker.de/nkunku-schafft-historisches-aber-dazu-gehoert-auch-ein-gegner-1259995/video",
-   "source": "kicker",
-   "published": "2026-10-10T20:12:10Z",
-   "teaser": "Während RB Leipzig die Länderspielpause gut genutzt zu haben scheint, bleiben die Defensiv-Probleme bei Frankfurt massiv. Der Samstagabend verlief besonders für Christopher Nkunku wie gemalt.",
-   "clubs": [
-    1635,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/huetters-deutliche-worte-zu-koch-dann-setze-ich-irgendwann-mal-ein-zeichen-1259989/video",
-   "title": "Hütters deutliche Worte zu Koch: \"Dann setze ich irgendwann mal ein Zeichen\"",
-   "link": "https://www.kicker.de/huetters-deutliche-worte-zu-koch-dann-setze-ich-irgendwann-mal-ein-zeichen-1259989/video",
-   "source": "kicker",
-   "published": "2026-10-10T20:05:02Z",
-   "teaser": "Nach der deutlichen Pleite in Leipzig wählte SGE-Coach Adi Hütter klare Worte in Richtung seines Kapitäns Robin Koch. Den hatte er bereits zur Pause ausgewechselt.",
-   "clubs": [
-    1635,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/huetter-kritisiert-koch-hart-hat-mir-ueberhaupt-nicht-gefallen-1259989/video",
-   "title": "Hütter kritisiert Koch hart: \"Hat mir überhaupt nicht gefallen\"",
-   "link": "https://www.kicker.de/huetter-kritisiert-koch-hart-hat-mir-ueberhaupt-nicht-gefallen-1259989/video",
-   "source": "kicker",
-   "published": "2026-10-10T20:05:02Z",
-   "teaser": "Nach der deutlichen Pleite in Leipzig wählte SGE-Coach Adi Hütter klare Worte in Richtung seines Kapitäns Robin Koch. Den hatte er bereits zur Pause ausgewechselt.",
-   "clubs": [
-    1635,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/nkunkus-hattrick-duepiert-eine-ganz-schwache-eintracht,spielbericht-rb-leipzig-eintracht-frankfurt-106.html",
-   "title": "Hattrick Nkunku - Leipziger Kantersieg gegen Frankfurt",
-   "link": "https://www.sportschau.de/fussball/bundesliga/nkunkus-hattrick-duepiert-eine-ganz-schwache-eintracht,spielbericht-rb-leipzig-eintracht-frankfurt-106.html",
-   "source": "Sportschau",
-   "published": "2026-10-10T19:55:46Z",
-   "teaser": "RB Leipzig feiert einen Kantersieg gegen eine ganz schwache Frankfurter Eintracht. Christopher Nkunku sorgte mit einem Hattrick schon vor der Pause für klare Verhältnisse.",
-   "clubs": [
-    1635,
     91
    ],
    "transfer": false
