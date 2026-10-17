@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T17:27:10Z",
+ "updated": "2026-10-17T17:55:24Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,12 +16,37 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/live-bayern-gnadenlos-gegen-desastroeses-leipzig-kane-ist-jetzt-auch-dran-1261678/artikel",
+   "title": "LIVE! Bayern gnadenlos gegen desaströses Leipzig: Kane ist jetzt auch dran",
+   "link": "https://www.kicker.de/live-bayern-gnadenlos-gegen-desastroeses-leipzig-kane-ist-jetzt-auch-dran-1261678/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T17:43:57Z",
+   "teaser": "Die Champions-League-Reise des FC Bayern nach Stavanger brachte nicht das gewünschte Ergebnis. Zurück im Ligaalltag wartet vor heimischer Kulisse Leipzig, das in der letzten Saison zweimal durch den Fleischwolf gedreht wurde. Wie wird's am …",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/die-rueckkehr-zur-werder-dna-hier-ist-das-spektakel-zuhause-1262379/video",
+   "title": "Die Rückkehr zur Werder-DNA: \"Hier ist das Spektakel zuhause\"",
+   "link": "https://www.kicker.de/die-rueckkehr-zur-werder-dna-hier-ist-das-spektakel-zuhause-1262379/video",
+   "source": "kicker",
+   "published": "2026-10-17T17:43:49Z",
+   "teaser": "Auch im dritten Spiel im Weserstadion wurde Spektakel geboten, diesmal reichte es für Werder allerdings nicht zum Sieg. Niclas Füllkrug war mal wieder der Mann, dem die Schlagzeilen gehörten.",
+   "clubs": [
+    134
+   ],
+   "transfer": true
+  },
+  {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194206/bayern-muenchen_rb-leipzig/liveticker",
-   "title": "Jetzt live - Diaz, Pavlovic, Olise: Bayern viel zu gut für Leipzig",
+   "title": "Jetzt live - Leizigs bitterer Abend bei den Bayern geht weiter",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194206/bayern-muenchen_rb-leipzig/liveticker",
    "source": "Sportschau",
-   "published": "2026-10-17T17:15:01Z",
-   "teaser": "RB Leipzig sieht im Topspiel beim FC Bayern kein Land. Ist das Topspiel bereits entschieden?",
+   "published": "2026-10-17T17:38:09Z",
+   "teaser": "Es ist kein Topspiel, weil der Klassenunterschied viel zu groß ist - RB Leipzig hat beim FC Bayern keinerlei Chance und sieht einer üblen Klatsche entgegen.",
    "clubs": [
     40,
     1635
@@ -108,7 +133,7 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/muheims-knaller-bringt-dem-hsv-dritten-sieg,spielbericht-hamburger-sv-vfb-stuttgart-102.html",
-   "title": "Muheim als Matchwinner: Der Hamburger SV bezwingt den VfB Stuttgart in der Fußball-Bundesliga",
+   "title": "Muheim als Hamburgs Matchwinner gegen Stuttgart",
    "link": "https://www.sportschau.de/fussball/bundesliga/muheims-knaller-bringt-dem-hsv-dritten-sieg,spielbericht-hamburger-sv-vfb-stuttgart-102.html",
    "source": "Sportschau",
    "published": "2026-10-17T16:33:42Z",
@@ -2569,32 +2594,6 @@
    "teaser": "Bayern-Coach Vincent Kompany erklärte nach der Partie, dass er beim Fehler von Manuel Neuer in die andere Richtung geschaut hatte. Er wollte die Situation aber auch nicht zu hoch hängen.",
    "clubs": [
     40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kompany-ueber-abseitsentscheidungen-geht-um-millimeter-und-details-1259944/video",
-   "title": "Kompany über Abseitsentscheidungen: \"Geht um Millimeter und Details\"",
-   "link": "https://www.kicker.de/kompany-ueber-abseitsentscheidungen-geht-um-millimeter-und-details-1259944/video",
-   "source": "kicker",
-   "published": "2026-10-10T18:23:18Z",
-   "teaser": "Ganze vier Treffer wurden dem FC Bayern gegen den FC Augsburg nach Abseitssituationen aberkannt. Trainer Vincent Kompany sprach deshalb trotz des Remis von einem \"schönen Spiel\".",
-   "clubs": [
-    40,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/baum-ueber-vier-aberkannte-bayern-tore-habe-ich-noch-nie-erlebt-1259943/video",
-   "title": "Baum über vier aberkannte Bayern-Tore: \"Habe ich noch nie erlebt\"",
-   "link": "https://www.kicker.de/baum-ueber-vier-aberkannte-bayern-tore-habe-ich-noch-nie-erlebt-1259943/video",
-   "source": "kicker",
-   "published": "2026-10-10T18:23:16Z",
-   "teaser": "Augsburg-Coach Manuel Baum musste anhand von vier aberkannten Bayern-Toren auf der PK nach dem Spiel beinahe schmunzeln. Für sein Team fand er ausschließlich positive Worte.",
-   "clubs": [
-    40,
-    95
    ],
    "transfer": false
   }
