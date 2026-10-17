@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T21:56:55Z",
+ "updated": "2026-10-17T22:27:31Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,26 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/die-sportschau-am-samstag-in-voller-laenge,sportschau-am-samstag-1710-100.html",
+   "title": "Die Sportschau am Samstag in voller Länge",
+   "link": "https://www.sportschau.de/fussball/die-sportschau-am-samstag-in-voller-laenge,sportschau-am-samstag-1710-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T22:00:01Z",
+   "teaser": "Sehen Sie hier die Sportschau am Samstag in voller Länge. Unter anderem mit der Bundesliga und der 2. Bundesliga sowie den Highlights der Premier-League-Partie zwischen Brentford und Liverpool.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/demichelis-entschuldigt-sich-und-will-nicht-ueber-klostermann-sprechen-1262457/video",
+   "title": "Demichelis entschuldigt sich und will nicht über Klostermann sprechen",
+   "link": "https://www.kicker.de/demichelis-entschuldigt-sich-und-will-nicht-ueber-klostermann-sprechen-1262457/video",
+   "source": "kicker",
+   "published": "2026-10-17T21:50:47Z",
+   "teaser": "Nach dem 1:6-Debakel in München wollte Martin Demichelis nicht über einzelne Spieler sprechen. Stattdessen bat er die RB-Fans um Entschuldigung.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/ungewohnter-pk-gast-eberl-vertritt-kompany-und-erklaert-dessen-fehlen-1262455/video",
    "title": "Ungewohnter PK-Gast: Eberl vertritt Kompany und erklärt dessen Fehlen",
@@ -2574,28 +2594,6 @@
     81
    ],
    "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/dortmunds-triple-b-woche-mit-schwierigen-vorzeichen-1259770/artikel",
-   "title": "Dortmunds Triple-B-Woche mit schwierigen Vorzeichen",
-   "link": "https://www.kicker.de/dortmunds-triple-b-woche-mit-schwierigen-vorzeichen-1259770/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T07:50:00Z",
-   "teaser": "Bodö, Berlin, Baku: Für Borussia Dortmund steht eine Woche mit drei Auswärtsspielen in sieben Tagen, weiten Flügen und sehr unterschiedlichen Bedingungen an. Ist die Mannschaft dafür bereit?",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/der-rekord-vor-fellhauer-die-neun-sekunden-tore-von-bellarabi-und-volland-1260083/video",
-   "title": "Der Rekord vor Fellhauer: Die Neun-Sekunden-Tore von Bellarabi und Volland",
-   "link": "https://www.kicker.de/der-rekord-vor-fellhauer-die-neun-sekunden-tore-von-bellarabi-und-volland-1260083/video",
-   "source": "kicker",
-   "published": "2026-10-11T07:48:00Z",
-   "teaser": "Bevor Robin Fellhauer mit seinem Tor nach acht Sekunden einen neuen Bundesliga-Rekord aufstellte, teilten sich den Rekord für das schnellste Tor Karim Bellarabi und Kevin Volland.",
-   "clubs": [],
-   "transfer": false
   }
  ]
 }
