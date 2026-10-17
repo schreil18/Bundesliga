@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T16:58:28Z",
+ "updated": "2026-10-17T17:27:10Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,11 +16,24 @@
  ],
  "items": [
   {
-   "id": "https://www.kicker.de/live-kimmich-legt-butterweich-zur-fuehrung-auf-1261678/artikel",
-   "title": "LIVE! Kimmich legt butterweich zur Führung auf",
-   "link": "https://www.kicker.de/live-kimmich-legt-butterweich-zur-fuehrung-auf-1261678/artikel",
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194206/bayern-muenchen_rb-leipzig/liveticker",
+   "title": "Jetzt live - Diaz, Pavlovic, Olise: Bayern viel zu gut für Leipzig",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194206/bayern-muenchen_rb-leipzig/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-17T17:15:01Z",
+   "teaser": "RB Leipzig sieht im Topspiel beim FC Bayern kein Land. Ist das Topspiel bereits entschieden?",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-leipzig-total-ueberfordert-olise-legt-nach-1261678/artikel",
+   "title": "LIVE! Leipzig total überfordert: Olise legt nach",
+   "link": "https://www.kicker.de/live-leipzig-total-ueberfordert-olise-legt-nach-1261678/artikel",
    "source": "kicker",
-   "published": "2026-10-17T16:52:14Z",
+   "published": "2026-10-17T17:09:44Z",
    "teaser": "Die Champions-League-Reise des FC Bayern nach Stavanger brachte nicht das gewünschte Ergebnis. Zurück im Ligaalltag wartet vor heimischer Kulisse Leipzig, das in der letzten Saison zweimal durch den Fleischwolf gedreht wurde. Wie wird's am …",
    "clubs": [
     40,
@@ -29,12 +42,25 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194206/bayern-muenchen_rb-leipzig/liveticker",
-   "title": "Jetzt live - Luis Diaz schießt FC Bayern gegen RB Leipzig in Führung",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194206/bayern-muenchen_rb-leipzig/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-17T16:48:47Z",
-   "teaser": "Der FC Bayern hat gegen RB Leipzig schwungvoll losgelegt und schon nach 11 Minuten das erste Ausrufezeichen gesetzt.",
+   "id": "https://www.kicker.de/offensive-flaute-schalke-und-die-sehnsucht-nach-stuermer-toren-1262360/video",
+   "title": "Offensive Flaute: Schalke und die Sehnsucht nach Stürmer-Toren",
+   "link": "https://www.kicker.de/offensive-flaute-schalke-und-die-sehnsucht-nach-stuermer-toren-1262360/video",
+   "source": "kicker",
+   "published": "2026-10-17T17:06:52Z",
+   "teaser": "Auch im dritten Spiel in der Schalker Arena verpasste es Königsblau, ein eigenes Tor zu erzielen. Weil man diesmal aber hinten nicht ebenfalls die Null hielt, gab es die erste Heimpleite gegen Mainz.",
+   "clubs": [
+    81,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-kimmich-legt-butterweich-zur-fuehrung-auf-1261678/artikel",
+   "title": "LIVE! Kimmich legt butterweich zur Führung auf",
+   "link": "https://www.kicker.de/live-kimmich-legt-butterweich-zur-fuehrung-auf-1261678/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T16:52:14Z",
+   "teaser": "Die Champions-League-Reise des FC Bayern nach Stavanger brachte nicht das gewünschte Ergebnis. Zurück im Ligaalltag wartet vor heimischer Kulisse Leipzig, das in der letzten Saison zweimal durch den Fleischwolf gedreht wurde. Wie wird's am …",
    "clubs": [
     40,
     1635
@@ -56,7 +82,7 @@
   },
   {
    "id": "https://www.kicker.de/faktor-volkspark-muheim-und-der-neu-erfundene-hsv-1262344/video",
-   "title": "Faktor Volkspark, Muheim und der \"neu-erfundene HSV\"",
+   "title": "Faktor Volkspark, Muheim und der \"neu erfundene HSV\"",
    "link": "https://www.kicker.de/faktor-volkspark-muheim-und-der-neu-erfundene-hsv-1262344/video",
    "source": "kicker",
    "published": "2026-10-17T16:43:02Z",
@@ -2569,31 +2595,6 @@
    "clubs": [
     40,
     95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/blitzstart-und-nkunku-hattrick-leipzig-zerlegt-frankfurt-1259165/artikel",
-   "title": "Blitzstart und Nkunku-Hattrick: Leipzig zerlegt Frankfurt",
-   "link": "https://www.kicker.de/blitzstart-und-nkunku-hattrick-leipzig-zerlegt-frankfurt-1259165/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T18:23:13Z",
-   "teaser": "Sowohl Leipzig als auch Frankfurt haben einen für die eigenen Verhältnisse mäßigen Saisonstart hingelegt, zumindest RB diesen aber fulminant korrigiert. Mit einem Tor in der ersten Minute, einem Nkunku-Hattrick und noch zwei Toren in …",
-   "clubs": [
-    1635,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wer-sollte-am-dienstag-im-bayern-tor-stehen-1259941/artikel",
-   "title": "Wer sollte am Dienstag im Bayern-Tor stehen?",
-   "link": "https://www.kicker.de/wer-sollte-am-dienstag-im-bayern-tor-stehen-1259941/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T18:18:25Z",
-   "teaser": "Manuel Neuer hat bereits eine \"Vorahnung\": Auf welchen Torhüter sollte Bayern-Trainer Vincent Kompany am Dienstag in Stavanger setzen? Hier geht es zu unserer Umfrage.",
-   "clubs": [
-    40
    ],
    "transfer": false
   }
