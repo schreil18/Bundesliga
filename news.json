@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T19:26:57Z",
+ "updated": "2026-10-17T19:55:24Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/hoeness-hadert-mit-hsv-momenten-besonders-gerne-gegen-uns-1262428/video",
+   "title": "Hoeneß hadert mit HSV-Momenten: \"Besonders gerne gegen uns\"",
+   "link": "https://www.kicker.de/hoeness-hadert-mit-hsv-momenten-besonders-gerne-gegen-uns-1262428/video",
+   "source": "kicker",
+   "published": "2026-10-17T19:45:05Z",
+   "teaser": "Bereits im Vorjahr traf der HSV daheim gegen Stuttgart spät zum Sieg. Diesmal war es Miro Muheim, der den VfB spät schockte, was Coach Sebastian Hoeneß frustriert zurückließ.",
+   "clubs": [
+    16,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/schaefer-ein-komplettes-versagen-in-allen-bereichen-1262413/artikel",
+   "title": "Schäfer: \"Ein komplettes Versagen in allen Bereichen\"",
+   "link": "https://www.kicker.de/schaefer-ein-komplettes-versagen-in-allen-bereichen-1262413/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T19:31:38Z",
+   "teaser": "RB Leipzig kassierte bei Bayern München wie vor einem Jahr sechs Gegentore und zeigte von der ersten Minute an einen desaströsen Auftritt. Sport-Geschäftsführer Marcel Schäfer fand danach deutliche Worte.",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/swr/swr-wolke-sieben-nein-danke-mainz-liebling-tietz-bleibt-lieber-am-boden-100.html",
    "title": "Wolke sieben? Nein, danke! Mainz-Liebling Tietz bleibt lieber am Boden",
@@ -173,6 +199,18 @@
    "id": "https://www.kicker.de/die-rueckkehr-zur-werder-dna-hier-ist-das-spektakel-zuhause-1262379/video",
    "title": "Die Rückkehr zur Werder-DNA: \"Hier ist das Spektakel zuhause\"",
    "link": "https://www.kicker.de/die-rueckkehr-zur-werder-dna-hier-ist-das-spektakel-zuhause-1262379/video",
+   "source": "kicker",
+   "published": "2026-10-17T17:43:49Z",
+   "teaser": "Auch im dritten Spiel im Weserstadion wurde Spektakel geboten, diesmal reichte es für Werder allerdings nicht zum Sieg. Niclas Füllkrug war mal wieder der Mann, dem die Schlagzeilen gehörten.",
+   "clubs": [
+    134
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/fuellkrug-und-eine-rueckkehr-ins-dfb-team-warum-nicht-1262379/video",
+   "title": "Füllkrug und eine Rückkehr ins DFB-Team: \"Warum nicht?\"",
+   "link": "https://www.kicker.de/fuellkrug-und-eine-rueckkehr-ins-dfb-team-warum-nicht-1262379/video",
    "source": "kicker",
    "published": "2026-10-17T17:43:49Z",
    "teaser": "Auch im dritten Spiel im Weserstadion wurde Spektakel geboten, diesmal reichte es für Werder allerdings nicht zum Sieg. Niclas Füllkrug war mal wieder der Mann, dem die Schlagzeilen gehörten.",
@@ -2558,45 +2596,6 @@
    "teaser": "Der Vorstandsvorsitzende des FC Schalke 04 Matthias Tillmann sprach vor dem Spiel gegen Freiburg im exklusiven Interview mit kicker-Reporter Toni Lieto über die Pläne rund um die Schalker Infrastruktur und eine ambitionierte Zukunft.",
    "clubs": [
     7,
-    112,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wer-uebertraegt-1-fc-koeln-gegen-borussia-moenchengladbach-live-im-tv-und-stream-1257305/artikel",
-   "title": "Wer überträgt 1. FC Köln gegen Borussia Mönchengladbach live im TV und Stream?",
-   "link": "https://www.kicker.de/wer-uebertraegt-1-fc-koeln-gegen-borussia-moenchengladbach-live-im-tv-und-stream-1257305/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T06:30:00Z",
-   "teaser": "Am 5. Spieltag duelliert sich der 1. FC Köln mit Borussia Mönchengladbach im 101. Rheinderby der Bundesliga-Geschichte. Wo ihr die Partie live verfolgen könnt, erfahrt ihr hier.",
-   "clubs": [
-    87,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wer-stuermt-fuer-den-fc-welcher-borusse-stoppt-el-mala-letzte-fragen-und-antworten-vor-dem-rheinderby-1259216/artikel",
-   "title": "Wer stürmt für den FC? Welcher Borusse stoppt El Mala? Letzte Fragen und Antworten vor dem Rheinderby",
-   "link": "https://www.kicker.de/wer-stuermt-fuer-den-fc-welcher-borusse-stoppt-el-mala-letzte-fragen-und-antworten-vor-dem-rheinderby-1259216/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T06:21:07Z",
-   "teaser": "Im rheinischen Derby zwischen dem 1. FC Köln gegen Borussia Mönchengladbach stehen beide Teams unter Druck. Für den einen Trainer geht es darum, nicht in die Krise zu rutschen. Der andere will mit seinem Team die Trendwende herbeiführen. …",
-   "clubs": [
-    87,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ploetzlich-gelb-rot-als-petersen-seine-erste-gelbe-karte-verpasste-1259135/video",
-   "title": "Plötzlich Gelb-Rot: Als Petersen seine erste Gelbe Karte verpasste",
-   "link": "https://www.kicker.de/ploetzlich-gelb-rot-als-petersen-seine-erste-gelbe-karte-verpasste-1259135/video",
-   "source": "kicker",
-   "published": "2026-10-11T06:20:50Z",
-   "teaser": "Im März 2018 gastierte Freiburg auf Schalke, besonders für Nils Petersen wurde es ein Nachmittag, der ihm noch lange in Erinnerung bleiben sollte. All das wegen einer Gelben Karte, die er nicht mitbekam.",
-   "clubs": [
     112,
     9
    ],
