@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T05:58:51Z",
+ "updated": "2026-10-17T06:36:04Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/an-zahlen-nicht-ablesbar-was-beier-fuer-kovac-so-wertvoll-macht-1262027/artikel",
+   "title": "An Zahlen nicht ablesbar: Was Beier für Kovac so wertvoll macht",
+   "link": "https://www.kicker.de/an-zahlen-nicht-ablesbar-was-beier-fuer-kovac-so-wertvoll-macht-1262027/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T06:26:30Z",
+   "teaser": "Die Kritik an Maximilian Beier wehrte Niko Kovac auf der Pressekonferenz am Freitag mit Lob ab. Der einstige Mittelstürmer wird auch in den kommenden Wochen ein wichtiger Faktor für Borussia Dortmund bleiben.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wer-uebertraegt-fc-bayern-muenchen-gegen-rb-leipzig-live-im-tv-und-stream-1260760/artikel",
    "title": "Wer überträgt FC Bayern München gegen RB Leipzig live im TV und Stream?",
@@ -2566,19 +2578,6 @@
     6,
     81,
     95,
-    80,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/1-fc-union-berlin-gegen-sv-07-elversberg,audiostream-1-fc-union-berlin-gegen-sv-07-elversberg-100.html",
-   "title": "Live hören: 1. FC Union Berlin gegen SV 07 Elversberg - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/1-fc-union-berlin-gegen-sv-07-elversberg,audiostream-1-fc-union-berlin-gegen-sv-07-elversberg-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-10T13:15:00Z",
-   "teaser": "5. Spieltag: Anpfiff des Spiels ist am 10.10.2026 um 15:30 Uhr. SV 07 Elversberg spielt in Berlin.",
-   "clubs": [
     80,
     198
    ],
