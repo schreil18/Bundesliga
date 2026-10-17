@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T17:55:24Z",
+ "updated": "2026-10-17T18:31:37Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,58 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/dreierpack-von-luis-diaz-fc-bayern-schiesst-desastroeses-leipzig-ab-1261678/artikel",
+   "title": "Dreierpack von Luis Diaz: FC Bayern schießt desaströses Leipzig ab",
+   "link": "https://www.kicker.de/dreierpack-von-luis-diaz-fc-bayern-schiesst-desastroeses-leipzig-ab-1261678/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T18:25:20Z",
+   "teaser": "Nach dem Ausrutscher in Stavanger hat sich der FC Bayern eindrucksvoll mit einem 6:1 gegen RB Leipzig zurückgemeldet. Der Rekordmeister war von der ersten Minute an in allen Belangen gegen hilf- und wehrlose Gäste überlegen.",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-schiesst-sich-gegen-leipzig-frust-von-der-seele,spielbericht-bayern-muenchen-rb-leipzig-110.html",
+   "title": "FC Bayern schießt sich gegen RB Leipzig den Frust von der Seele",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-schiesst-sich-gegen-leipzig-frust-von-der-seele,spielbericht-bayern-muenchen-rb-leipzig-110.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T18:24:24Z",
+   "teaser": "RB Leipzig hat darunter leiden müssen, dass der FC Bayern München zuvor zwei Enttäuschungen erlebt hatte. Luis Diaz war beim Schützenfest des Rekordmeisters der Hauptakteur.",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/petkov-nach-elfmeter-show-wusste-nicht-wo-oben-und-unten-ist-1262355/artikel",
+   "title": "Petkov nach Elfmeter-Show: \"Wusste nicht, wo oben und unten ist\"",
+   "link": "https://www.kicker.de/petkov-nach-elfmeter-show-wusste-nicht-wo-oben-und-unten-ist-1262355/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T18:22:46Z",
+   "teaser": "Es war eine denkwürdige Bundesliga-Partie am Samstagnachmittag in Elversberg. Denn das 4:3 zwischen der SVE und dem FC Augsburg wurde nicht nur ein Tor-, sondern auch eine Elfmeter-Gala, wie es sie nur sehr selten zu sehen gibt.",
+   "clubs": [
+    95,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kovac-unzufrieden-fuer-unsere-ansprueche-zu-wenig-1262396/video",
+   "title": "Kovac unzufrieden: \"Für unsere Ansprüche zu wenig\"",
+   "link": "https://www.kicker.de/kovac-unzufrieden-fuer-unsere-ansprueche-zu-wenig-1262396/video",
+   "source": "kicker",
+   "published": "2026-10-17T18:16:19Z",
+   "teaser": "Niko Kovac konnte mit dem torlosen Remis seiner Dortmunder bei Union nicht zufrieden sein. Besonders die fehlende Präzision ärgerte den Coach.",
+   "clubs": [
+    7,
+    80
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/live-bayern-gnadenlos-gegen-desastroeses-leipzig-kane-ist-jetzt-auch-dran-1261678/artikel",
    "title": "LIVE! Bayern gnadenlos gegen desaströses Leipzig: Kane ist jetzt auch dran",
@@ -94,7 +146,7 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/werder-schafft-naechste-zwei-tore-comeback,spielbericht-werder-bremen-sc-paderborn-100.html",
-   "title": "Bundesliga: Bremen nur Remis gegen Paderborn",
+   "title": "Bremen schafft gegen Paderborn das nächste Zwei-Tore-Comeback",
    "link": "https://www.sportschau.de/fussball/bundesliga/werder-schafft-naechste-zwei-tore-comeback,spielbericht-werder-bremen-sc-paderborn-100.html",
    "source": "Sportschau",
    "published": "2026-10-17T16:44:44Z",
@@ -172,7 +224,7 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
-   "title": "Bundesliga: Schalke enttäuscht bei nächstem Auswärtscoup von Mainz 05",
+   "title": "Schalke enttäuscht bei nächstem Auswärtscoup von Mainz 05",
    "link": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
    "source": "Sportschau",
    "published": "2026-10-17T16:00:52Z",
@@ -2543,57 +2595,6 @@
    "clubs": [
     1635,
     91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/burkardt-schaeumt-nach-debakel-die-fuehrungsspieler-haben-heute-wieder-versagt-1259960/artikel",
-   "title": "Burkardt schäumt nach Debakel: \"Die Führungsspieler haben heute wieder versagt\"",
-   "link": "https://www.kicker.de/burkardt-schaeumt-nach-debakel-die-fuehrungsspieler-haben-heute-wieder-versagt-1259960/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T19:54:46Z",
-   "teaser": "Einmal mehr kam Eintracht Frankfurt in Leipzig unter die Räder, wieder setzte es eine 0:6-Pleite. Trainer Adi Hütter und Jonathan Burkardt adressierten deutliche Worte an die Mannschaft, Sportvorstand Markus Krösche beschwichtigte.",
-   "clubs": [
-    1635,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kettemann-hadert-mit-chancenverwertung-duerfen-angepisst-sein-1259979/video",
-   "title": "Kettemann hadert mit Chancenverwertung: \"Dürfen angepisst sein\"",
-   "link": "https://www.kicker.de/kettemann-hadert-mit-chancenverwertung-duerfen-angepisst-sein-1259979/video",
-   "source": "kicker",
-   "published": "2026-10-10T19:40:10Z",
-   "teaser": "Paderborn-Trainer Ralf Kettemann spricht nach der 0:2-Niederlage gegen Stuttgart über die Chancenverwertung, war jedoch insgesamt happy, wie sich die junge SC-Truppe in die Partie reingeboxt hat.",
-   "clubs": [
-    16,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hoeness-trotz-sieg-nicht-so-wie-wir-uns-das-vorgestellt-haben-1259956/video",
-   "title": "Hoeneß trotz Sieg: \"Nicht so, wie wir uns das vorgestellt haben\"",
-   "link": "https://www.kicker.de/hoeness-trotz-sieg-nicht-so-wie-wir-uns-das-vorgestellt-haben-1259956/video",
-   "source": "kicker",
-   "published": "2026-10-10T19:03:19Z",
-   "teaser": "Sebastian Hoeneß war nach dem 2:0-Sieg gegen Paderborn nicht unglücklich, jedoch habe der VfB viel Abwehrarbeit leisten müssen und im letzten Drittel falsche Entscheidungen getroffen.",
-   "clubs": [
-    16,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kompany-zu-neuer-er-weiss-wie-er-damit-umgehen-muss-1259945/video",
-   "title": "Kompany zu Neuer: \"Er weiß, wie er damit umgehen muss\"",
-   "link": "https://www.kicker.de/kompany-zu-neuer-er-weiss-wie-er-damit-umgehen-muss-1259945/video",
-   "source": "kicker",
-   "published": "2026-10-10T18:24:09Z",
-   "teaser": "Bayern-Coach Vincent Kompany erklärte nach der Partie, dass er beim Fehler von Manuel Neuer in die andere Richtung geschaut hatte. Er wollte die Situation aber auch nicht zu hoch hängen.",
-   "clubs": [
-    40
    ],
    "transfer": false
   }
