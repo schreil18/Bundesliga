@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T07:14:19Z",
+ "updated": "2026-10-17T07:59:37Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/huetter-mit-extralob-an-koch-hat-gezeigt-was-er-imstande-ist-zu-leisten-1262207/video",
+   "title": "Hütter mit Extralob an Koch: \"Hat gezeigt, was er imstande ist zu leisten\"",
+   "link": "https://www.kicker.de/huetter-mit-extralob-an-koch-hat-gezeigt-was-er-imstande-ist-zu-leisten-1262207/video",
+   "source": "kicker",
+   "published": "2026-10-17T07:05:04Z",
+   "teaser": "Gegen den 1. FC Köln setzte sich Eintracht Frankfurt am Freitagabend knapp mit 1:0 durch. Nach Abpfiff war die Erleichterung bei Trainer Adi Hütter groß, besonders Robin Koch bekam nach der Kritik der letzten Wochen ein Sonderlob.",
+   "clubs": [
+    91,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/an-zahlen-nicht-ablesbar-was-beier-fuer-kovac-so-wertvoll-macht-1262027/artikel",
    "title": "An Zahlen nicht ablesbar: Was Beier für Kovac so wertvoll macht",
@@ -2555,23 +2568,6 @@
    "link": "https://www.kicker.de/live-bayern-rennt-fca-blitztor-hinterher-doppelter-caci-meldet-mainz-zurueck-1259164/artikel",
    "source": "kicker",
    "published": "2026-10-10T14:13:35Z",
-   "teaser": "Am ersten Bundesliga-Samstag nach der Länderspielpause sind für die Bayern drei Punkte in Augsburg fest eingeplant. Unter anderem empfängt auch Mainz Leverkusen, die SVE ist bei Union zu Gast.",
-   "clubs": [
-    40,
-    6,
-    81,
-    95,
-    80,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-nach-neuer-patzer-fca-erzielt-fruehestes-tor-der-bundesliga-poulsen-gedankenschnell-1259164/artikel",
-   "title": "LIVE! Nach Neuer-Patzer: FCA erzielt frühestes Tor der Bundesliga - Poulsen gedankenschnell",
-   "link": "https://www.kicker.de/live-nach-neuer-patzer-fca-erzielt-fruehestes-tor-der-bundesliga-poulsen-gedankenschnell-1259164/artikel",
-   "source": "kicker",
-   "published": "2026-10-10T13:37:57Z",
    "teaser": "Am ersten Bundesliga-Samstag nach der Länderspielpause sind für die Bayern drei Punkte in Augsburg fest eingeplant. Unter anderem empfängt auch Mainz Leverkusen, die SVE ist bei Union zu Gast.",
    "clubs": [
     40,
