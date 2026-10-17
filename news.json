@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:58:00Z",
+ "updated": "2026-10-17T16:29:20Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/kampf-und-krampf-in-berlin-bvb-enttaeuscht-wieder,spielbericht-union-berlin-borussia-dortmund-104.html",
+   "title": "Kampf und Krampf in Berlin - BVB enttäuscht bei Union wieder",
+   "link": "https://www.sportschau.de/fussball/bundesliga/kampf-und-krampf-in-berlin-bvb-enttaeuscht-wieder,spielbericht-union-berlin-borussia-dortmund-104.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T16:28:04Z",
+   "teaser": "Borussia Dortmund ist hat zum dritten Mal in Folge nicht gewonnen - und schoss in einem unansehnlichen Spiel bei Union Berlin erneut kein Tor.",
+   "clubs": [
+    7,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194206/bayern-muenchen_rb-leipzig/liveticker",
+   "title": "Jetzt live - Bayern kann mit Sieg gegen Leipzig an die Spitze stürmen",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194206/bayern-muenchen_rb-leipzig/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-17T16:22:42Z",
+   "teaser": "RB Leipzig ist im Topspiel der Bundesliga zu Gast beim FC Bayern. Die Münchener könnten zumindest zeitweise die Tabellenspitze übernehmen. Oder zieht Leipzig an den Bayern vorbei?",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/bayern-muenchen-gegen-rb-leipzig,audiostream-bayern-muenchen-gegen-rb-leipzig-110.html",
    "title": "Live hören: Bayern München gegen RB Leipzig - Bundesliga",
@@ -33,7 +59,7 @@
    "title": "Bundesliga: Schalke enttäuscht bei nächstem Mainzer Auswärtscoup",
    "link": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
    "source": "Sportschau",
-   "published": "2026-10-17T15:52:23Z",
+   "published": "2026-10-17T16:00:52Z",
    "teaser": "Schalke 04 bleibt ohne Heimtor, Mainz 05 gewinnt nur auswärts: Beim Mainzer Sieg auf Schalke setzten sich zwei Serien fort.",
    "clubs": [
     81,
@@ -100,6 +126,19 @@
    "transfer": false
   },
   {
+   "id": "https://www.kicker.de/live-beim-fc-bayern-steht-wieder-urbig-im-tor-klostermann-startet-bei-rb-1261678/artikel",
+   "title": "LIVE! Beim FC Bayern steht wieder Urbig im Tor - Klostermann startet bei RB",
+   "link": "https://www.kicker.de/live-beim-fc-bayern-steht-wieder-urbig-im-tor-klostermann-startet-bei-rb-1261678/artikel",
+   "source": "kicker",
+   "published": "2026-10-17T15:29:27Z",
+   "teaser": "Die Champions-League-Reise des FC Bayern nach Stavanger brachte nicht das gewünschte Ergebnis. Zurück im Ligaalltag wartet vor heimischer Kulisse Leipzig, das in der letzten Saison zweimal durch den Fleischwolf gedreht wurde. Wie wird's am …",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3903/",
    "title": "Jetzt live - Enge Schlussphase in Elversberg",
    "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3903/",
@@ -109,19 +148,6 @@
    "clubs": [
     95,
     198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/kampf-und-krampf-in-berlin-bvb-enttaeuscht-wieder,spielbericht-union-berlin-borussia-dortmund-104.html",
-   "title": "Kampf und Krampf in Berlin - BVB enttäuscht bei Union wieder",
-   "link": "https://www.sportschau.de/fussball/bundesliga/kampf-und-krampf-in-berlin-bvb-enttaeuscht-wieder,spielbericht-union-berlin-borussia-dortmund-104.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T15:25:58Z",
-   "teaser": "Borussia Dortmund ist hat zum dritten Mal in Folge nicht gewonnen - und schoss in einem unansehnlichen Spiel bei Union Berlin erneut kein Tor.",
-   "clubs": [
-    7,
-    80
    ],
    "transfer": false
   },
@@ -358,19 +384,6 @@
    "clubs": [
     91,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194206/bayern-muenchen_rb-leipzig/liveticker",
-   "title": "Ab 18.30 Uhr live - Bayern empfängt Leipzig zum Topspiel",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194206/bayern-muenchen_rb-leipzig/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-17T07:54:40Z",
-   "teaser": "Im Bundesliga-Topspiel empfängt der FC Bayern RB Leipzig.",
-   "clubs": [
-    40,
-    1635
    ],
    "transfer": false
   },
@@ -2574,19 +2587,6 @@
    "clubs": [
     1635,
     91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kollektives-aufatmen-bei-union-bedeutung-ist-fundamental-1259928/video",
-   "title": "Kollektives Aufatmen bei Union: \"Bedeutung ist fundamental\"",
-   "link": "https://www.kicker.de/kollektives-aufatmen-bei-union-bedeutung-ist-fundamental-1259928/video",
-   "source": "kicker",
-   "published": "2026-10-10T17:35:50Z",
-   "teaser": "Durch den Sieg gegen Elversberg hat sich Union Berlin etwas Luft zum Atmen verschafft. Das war in der Alten Försterei bei Abpfiff auch deutlich zu hören.",
-   "clubs": [
-    80,
-    198
    ],
    "transfer": false
   }
