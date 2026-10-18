@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T09:00:01Z",
+ "updated": "2026-10-18T09:29:48Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/collins-gibt-raetsel-auf-baut-huetter-die-eintracht-abwehr-erneut-um-1262497/artikel",
+   "title": "Collins gibt Rätsel auf: Baut Hütter die Eintracht-Abwehr erneut um?",
+   "link": "https://www.kicker.de/collins-gibt-raetsel-auf-baut-huetter-die-eintracht-abwehr-erneut-um-1262497/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T09:17:49Z",
+   "teaser": "Nnamdi Collins sucht nach zwei längeren Verletzungspausen weiter seine Form. In der zuletzt gezeigten Verfassung stellt er ein Sicherheitsrisiko dar. Kann er sich stabilisieren? Oder baut Trainer Adi Hütter die Abwehr erneut um?",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/swr/swr-keine-spitzenmannschaft--undavs-klartext-als-wachmacher-vor-dem-atltico-kracher-100.html",
    "title": "\"Keine Spitzenmannschaft\" - VfB Stuttgart fehlt der Flow",
@@ -2579,18 +2589,6 @@
    "clubs": [
     40,
     95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ausfall-im-xxl-programm-wimmer-fehlt-der-tsg-mit-einer-oberschenkelverletzung-1260121/artikel",
-   "title": "Ausfall im XXL-Programm: Wimmer fehlt der TSG mit einer Oberschenkelverletzung",
-   "link": "https://www.kicker.de/ausfall-im-xxl-programm-wimmer-fehlt-der-tsg-mit-einer-oberschenkelverletzung-1260121/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T10:00:17Z",
-   "teaser": "Die TSG Hoffenheim muss in den kommenden Wochen auf Patrick Wimmer verzichten. Der Österreicher hat sich eine Muskelverletzung im Oberschenkel zugezogen und fehlt voraussichtlich bis zur nächsten Länderspielpause.",
-   "clubs": [
-    175
    ],
    "transfer": false
   }
