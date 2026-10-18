@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T20:58:32Z",
+ "updated": "2026-10-18T21:28:53Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/im-kopf-ist-es-drin-was-blessin-mut-macht-1262839/video",
+   "title": "\"Im Kopf ist es drin\": Was Blessin Mut macht",
+   "link": "https://www.kicker.de/im-kopf-ist-es-drin-was-blessin-mut-macht-1262839/video",
+   "source": "kicker",
+   "published": "2026-10-18T21:02:48Z",
+   "teaser": "Mönchengladbach-Trainer Alexander Blessin sieht trotz der 1:2-Niederlage gegen Hoffenheim positive Ansätze. Die tägliche Arbeit und die Bereitschaft seiner Mannschaft, die Vorgaben umzusetzen, geben ihm Mut.",
+   "clubs": [
+    175,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/einlaufkind-und-aufholjagd-werder-wahnsinn-geht-weiter,bundesliga-update-rueckblick-spieltag-sechs-106.html",
+   "title": "Der SV Werder Bremen holt schon wieder einen Rückstand auf",
+   "link": "https://www.sportschau.de/fussball/bundesliga/einlaufkind-und-aufholjagd-werder-wahnsinn-geht-weiter,bundesliga-update-rueckblick-spieltag-sechs-106.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T20:46:52Z",
+   "teaser": "Auf eines können sie sich in Bremen in dieser Saison verlassen: Niclas Füllkrug dreht einen 0:2-Rückstand. Trotzdem hardert man bei Werder mit dem Punkt gegen Paderborn.",
+   "clubs": [
+    134,
+    31
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/ein-halbes-dutzend-bayern-und-dreimal-die-bestnote-die-kicker-elf-des-6-spieltags-1262788/slideshow",
    "title": "Ein halbes Dutzend Bayern und dreimal die Bestnote: Die kicker-Elf des 6. Spieltags",
@@ -424,6 +450,19 @@
    "published": "2026-10-18T09:17:49Z",
    "teaser": "Nnamdi Collins sucht nach zwei längeren Verletzungspausen weiter seine Form. In der zuletzt gezeigten Verfassung stellt er ein Sicherheitsrisiko dar. Kann er sich stabilisieren? Oder baut Trainer Adi Hütter die Abwehr erneut um?",
    "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-nach-wochen-voller-frust-die-erloesung-des-luis-daz-102.html",
+   "title": "Die Erlösung des Luis Díaz",
+   "link": "https://www.sportschau.de/regional/br/br-nach-wochen-voller-frust-die-erloesung-des-luis-daz-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T08:45:24Z",
+   "teaser": "Wochenlang fehlten Luis Díaz Zentimeter, Glück oder Timing. Gegen RB Leipzig platzte beim Offensivspieler endlich der Knoten. Beim 6:1 gegen RB Leipzig glänzte Luis Díaz als Offensivmotor des FC Bayern.",
+   "clubs": [
+    40,
+    1635
+   ],
    "transfer": false
   },
   {
@@ -2537,45 +2576,6 @@
    "source": "kicker",
    "published": "2026-10-11T18:53:25Z",
    "teaser": "Said El Mala führte den 1. FC Köln mit seinem Tor zum 2:1 zum Derbysieg über Gladbach. Der 20-Jährige verriet anschließend, wie emotional das Spiel für ihn war - und welche Bedeutung sein Treffer hat.",
-   "clubs": [
-    87,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/koeln-muss-laenger-auf-skhiri-verzichten-1260219/artikel",
-   "title": "Köln muss länger auf Skhiri verzichten",
-   "link": "https://www.kicker.de/koeln-muss-laenger-auf-skhiri-verzichten-1260219/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T18:49:12Z",
-   "teaser": "Der 1. FC Köln muss länger auf Ellyes Skhiri verzichten, was am Sonntagabend eine MRT-Untersuchung ergab. Im Rheinderby gegen Borussia Mönchengladbach war er nach einem Foul heftig umgeknickt und musste vom Feld getragen werden.",
-   "clubs": [
-    87,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
-   "title": "Keisuke Goto köpft SC Freiburg gegen Schalke an die Spitze",
-   "link": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T18:26:55Z",
-   "teaser": "Ein Joker hat im Breisgau für etwas beinahe Einmaliges gesorgt: Dank des späten Tores von Keisuke Goto gegen Schalke 04 ist der SC Freiburg nach dem fünften Spieltag Tabellenführer.",
-   "clubs": [
-    112,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/muessen-da-kante-zeigen-und-stehen-bleiben-blessin-erklaert-szene-mit-fans-1260321/video",
-   "title": "\"Müssen da Kante zeigen und stehen bleiben\": Blessin erklärt Szene mit Fans",
-   "link": "https://www.kicker.de/muessen-da-kante-zeigen-und-stehen-bleiben-blessin-erklaert-szene-mit-fans-1260321/video",
-   "source": "kicker",
-   "published": "2026-10-11T18:22:15Z",
-   "teaser": "Nach der enttäuschenden Derbypleite gegen Köln stellte sich Alexander Blessin bei den Fans demonstrativ vor die Gladbacher Mannschaft. Der neue Trainer erklärte im Anschluss, welche Botschaft er damit senden wollte.",
    "clubs": [
     87,
     65
