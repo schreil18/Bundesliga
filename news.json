@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T13:09:52Z",
+ "updated": "2026-10-18T13:59:01Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194212/bayer-leverkusen_sc-freiburg/liveticker",
+   "title": "Jetzt live - Leverkusen erzielt schnellen Ausgleich gegen Freiburg",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194212/bayer-leverkusen_sc-freiburg/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-18T13:53:24Z",
+   "teaser": "Der SC Freiburg ist bei Bayer Leverkusen früh in Führung gegangen, musste dann aber schnell den Ausgleich hinnehmen.",
+   "clubs": [
+    6,
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/raetselraten-beim-vfb-angebliches-muster-oder-mehr-1262594/artikel",
    "title": "Rätselraten beim VfB: \"Angebliches Muster\" oder mehr?",
@@ -44,6 +57,19 @@
    "id": "https://www.kicker.de/live-bayers-schick-stuermt-im-topduell-grosse-rotation-beim-sc-freiburg-1261689/artikel",
    "title": "LIVE! Bayers Schick stürmt im Topduell - Große Rotation beim SC Freiburg",
    "link": "https://www.kicker.de/live-bayers-schick-stuermt-im-topduell-grosse-rotation-beim-sc-freiburg-1261689/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T12:23:56Z",
+   "teaser": "Setzt Freiburg seinen Traumstart fort? Oder fügt Leverkusen dem Sport-Club die erste Niederlage zu und zieht nach Punkten mit den Breisgauern gleich?",
+   "clubs": [
+    6,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-schick-kann-s-auch-als-vorbereiter-leverkusen-antwortet-schnell-1261689/artikel",
+   "title": "LIVE! Schick kann's auch als Vorbereiter - Leverkusen antwortet schnell",
+   "link": "https://www.kicker.de/live-schick-kann-s-auch-als-vorbereiter-leverkusen-antwortet-schnell-1261689/artikel",
    "source": "kicker",
    "published": "2026-10-18T12:23:56Z",
    "teaser": "Setzt Freiburg seinen Traumstart fort? Oder fügt Leverkusen dem Sport-Club die erste Niederlage zu und zieht nach Punkten mit den Breisgauern gleich?",
@@ -2556,32 +2582,6 @@
    "source": "Sportschau",
    "published": "2026-10-11T12:04:34Z",
    "teaser": "Mehrere zurückgenommene Treffer, ein Platzverweis, eine Verletzung und ein spätes Traumtor zum Sieg - die Partie zwischen Hoffenheim und Hamburg hatte wirklich alles.",
-   "clubs": [
-    175,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hauptdarsteller-seimen-und-fuehrich-wiedersehen-mit-freude-1260139/artikel",
-   "title": "Hauptdarsteller Seimen und Führich: Wiedersehen mit Freude",
-   "link": "https://www.kicker.de/hauptdarsteller-seimen-und-fuehrich-wiedersehen-mit-freude-1260139/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T11:49:23Z",
-   "teaser": "Beim SC Paderborn machten sie den Schritt in die Bundesliga. Bei ihrer Rückkehr mit dem VfB waren Dennis Seimen und Chris Führich die Hauptdarsteller des Stuttgarter Sieges.",
-   "clubs": [
-    16,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV,hsv-2216.html",
-   "title": "Schock für den HSV: Kreuzbandriss bei Kapitän Remberg",
-   "link": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV,hsv-2216.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T11:42:25Z",
-   "teaser": "Einen Tag nach dem Spiel bei der TSG Hoffenheim bestätigten sich die schlimmen Befürchtungen der Hamburger. Der Mittelfeldspieler fällt monatelang aus.",
    "clubs": [
     175,
     100
