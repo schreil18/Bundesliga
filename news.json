@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T17:28:03Z",
+ "updated": "2026-10-18T17:55:42Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,8 +16,32 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/wie-findest-du-die-trennung-von-frankfurt-und-kroesche-1262755/artikel",
+   "title": "Wie findest du die Trennung von Frankfurt und Krösche?",
+   "link": "https://www.kicker.de/wie-findest-du-die-trennung-von-frankfurt-und-kroesche-1262755/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T17:41:21Z",
+   "teaser": "Einen Tag vor der Mitgliederversammlung hat Eintracht Frankfurt dem Wunsch von Markus Krösche entsprochen und den Sportvorstand freigestellt. Was hältst du von der Entscheidung?",
+   "clubs": [
+    91
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/naechster-langer-ausfall-auch-de-cat-fehlt-hoffenheim-1262717/artikel",
+   "title": "Nächster langer Ausfall: Auch De Cat fehlt Hoffenheim",
+   "link": "https://www.kicker.de/naechster-langer-ausfall-auch-de-cat-fehlt-hoffenheim-1262717/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T17:40:07Z",
+   "teaser": "Die TSG Hoffenheim wird voraussichtlich länger auf Nathan De Cat verzichten müssen. Das belgische Toptalent muss wahrscheinlich sogar operiert werden.",
+   "clubs": [
+    175
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
-   "title": "Hoffenheim befeuert Borussia Mönchengladbachs Abstiegsangst",
+   "title": "Hoffenheim befeuert Mönchengladbachs Abstiegsangst",
    "link": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
    "source": "Sportschau",
    "published": "2026-10-18T17:23:52Z",
@@ -110,7 +134,7 @@
    "link": "https://www.sportschau.de/fussball/bundesliga/ibrahim-maza-ueberragt-bei-leverkusens-sieg-gegen-freiburg,spielbericht-bayer-leverkusen-sc-freiburg-108.html",
    "source": "Sportschau",
    "published": "2026-10-18T16:15:54Z",
-   "teaser": "Bayer 04 Leverkusen setzt sich knapp gegen den SC Freiburg durch und zieht mit den Breisgauern gleich. Überragender Spieler war Bayer-Offensivmann Ibrahim Maza.",
+   "teaser": "Bayer 04 Leverkusen setzt sich knapp gegen den SC Freiburg durch und zieht mit den Breisgauern in der Fußball-Bundesliga gleich. Überragender Spieler war Bayer-Offensivmann Ibrahim Maza.",
    "clubs": [
     6,
     112
@@ -2556,34 +2580,6 @@
    "clubs": [
     87,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/in-unterzahl-freiburg-schlaegt-schalke-und-ist-neuer-tabellenfuehrer-1259182/artikel",
-   "title": "In Unterzahl: Freiburg schlägt Schalke und ist neuer Tabellenführer",
-   "link": "https://www.kicker.de/in-unterzahl-freiburg-schlaegt-schalke-und-ist-neuer-tabellenfuehrer-1259182/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T17:25:16Z",
-   "teaser": "Der SC Freiburg nutzt die Patzer vom FC Bayern und Borussia Dortmund und ist nach dem 5. Spieltag neuer Tabellenführer in der Bundesliga. Bei den nach einer Ampelkarte für Suzuki (64.) dezimierten Freiburger traf Joker Goto (85.) zum …",
-   "clubs": [
-    40,
-    7,
-    112,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-in-unterzahl-freiburgs-joker-treffen-zur-fuehrung-1259182/artikel",
-   "title": "LIVE! In Unterzahl: Freiburgs Joker treffen zur Führung",
-   "link": "https://www.kicker.de/live-in-unterzahl-freiburgs-joker-treffen-zur-fuehrung-1259182/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T16:51:36Z",
-   "teaser": "Zum Abschluss des 5. Bundesliga-Spieltags trifft Freiburg auf Schalke. Beide Klubs präsentierten sich vor der langen Länderspielpause formstark und möchten ihre Serien weiter ausbauen.",
-   "clubs": [
-    112,
-    9
    ],
    "transfer": false
   }
