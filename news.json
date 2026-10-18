@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T16:59:48Z",
+ "updated": "2026-10-18T17:28:03Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,32 @@
  ],
  "items": [
   {
+   "id": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
+   "title": "Hoffenheim befeuert Borussia Mönchengladbachs Abstiegsangst",
+   "link": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T17:23:52Z",
+   "teaser": "Sechster Spieltag, sechste Niederlage: Im Duell der Bundesliga-Schlusslichter hat die TSG Hoffenheim dafür gesorgt, dass Borussia Mönchengladbach weiter punktlos bleibt.",
+   "clubs": [
+    175,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/gladbach-weiter-punktlos-hoffenheim-gewinnt-kellerduell-1261692/artikel",
+   "title": "Gladbach weiter punktlos: Hoffenheim gewinnt Kellerduell",
+   "link": "https://www.kicker.de/gladbach-weiter-punktlos-hoffenheim-gewinnt-kellerduell-1261692/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T17:23:42Z",
+   "teaser": "Borussia Mönchengladbachs Situation wird immer misslicher. Die Fohlen gingen am Sonntagabend auch im sechsten Bundesliga-Spiel als Verlierer vom Platz, 1:2 stand es am Ende gegen die ebenfalls schwach gestartete TSG Hoffenheim. Mit einer …",
+   "clubs": [
+    175,
+    87
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/live-prass-kontert-mohya-nicolas-pariert-gegen-hlozek-1261692/artikel",
    "title": "LIVE! Prass kontert Mohya - Nicolas pariert gegen Hlozek",
    "link": "https://www.kicker.de/live-prass-kontert-mohya-nicolas-pariert-gegen-hlozek-1261692/artikel",
@@ -29,18 +55,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/regional/hr/hr-paukenschlag-bei-eintracht-frankfurt-sportvorstand-markus-kroesche-freigestellt-100.html",
-   "title": "Sportvorstand Markus Krösche in Frankfurt freigestellt",
-   "link": "https://www.sportschau.de/regional/hr/hr-paukenschlag-bei-eintracht-frankfurt-sportvorstand-markus-kroesche-freigestellt-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T16:50:58Z",
-   "teaser": "Die Zeit von Markus Krösche bei Eintracht Frankfurt ist vorbei. Der Sportvorstand verlässt die Hessen auf eigenen Wunsch - und mit sofortiger Wirkung.",
-   "clubs": [
-    91
-   ],
-   "transfer": true
-  },
-  {
    "id": "https://www.kicker.de/bestes-erkenntnis-wir-waren-zu-gierig-1262707/artikel",
    "title": "Bestes Erkenntnis: \"Wir waren zu gierig\"",
    "link": "https://www.kicker.de/bestes-erkenntnis-wir-waren-zu-gierig-1262707/artikel",
@@ -52,6 +66,18 @@
     112
    ],
    "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-paukenschlag-bei-eintracht-frankfurt-sportvorstand-markus-kroesche-freigestellt-100.html",
+   "title": "Sportvorstand Markus Krösche in Frankfurt freigestellt",
+   "link": "https://www.sportschau.de/regional/hr/hr-paukenschlag-bei-eintracht-frankfurt-sportvorstand-markus-kroesche-freigestellt-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T16:48:08Z",
+   "teaser": "Die Zeit von Markus Krösche bei Eintracht Frankfurt ist vorbei, der Sportvorstand verlässt die Hessen auf eigenen Wunsch. Die Macht von Axel Hellmann wird gleichzeitig noch größer.",
+   "clubs": [
+    91
+   ],
+   "transfer": true
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194245/borussia-moenchengladbach_tsg-hoffenheim/liveticker",
@@ -2554,32 +2580,6 @@
    "link": "https://www.kicker.de/live-in-unterzahl-freiburgs-joker-treffen-zur-fuehrung-1259182/artikel",
    "source": "kicker",
    "published": "2026-10-11T16:51:36Z",
-   "teaser": "Zum Abschluss des 5. Bundesliga-Spieltags trifft Freiburg auf Schalke. Beide Klubs präsentierten sich vor der langen Länderspielpause formstark und möchten ihre Serien weiter ausbauen.",
-   "clubs": [
-    112,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/koch-reagiert-auf-huetter-kritik-aendert-nichts-an-meiner-haltung-1260212/artikel",
-   "title": "Koch reagiert auf Hütter-Kritik: \"Ändert nichts an meiner Haltung\"",
-   "link": "https://www.kicker.de/koch-reagiert-auf-huetter-kritik-aendert-nichts-an-meiner-haltung-1260212/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T15:42:27Z",
-   "teaser": "Nach dem 0:6 gegen RB Leipzig steht Robin Koch bei Eintracht Frankfurt im Zentrum der Kritik. Nun hat sich der SGE-Kapitän zu seiner aktuell schwierigen Situation geäußert.",
-   "clubs": [
-    1635,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-fruehe-freiburger-fuehrung-nach-ecke-1259182/artikel",
-   "title": "LIVE! Frühe Freiburger Führung nach Ecke",
-   "link": "https://www.kicker.de/live-fruehe-freiburger-fuehrung-nach-ecke-1259182/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T15:41:25Z",
    "teaser": "Zum Abschluss des 5. Bundesliga-Spieltags trifft Freiburg auf Schalke. Beide Klubs präsentierten sich vor der langen Länderspielpause formstark und möchten ihre Serien weiter ausbauen.",
    "clubs": [
     112,
