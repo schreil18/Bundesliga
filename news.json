@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T14:29:16Z",
+ "updated": "2026-10-18T14:57:22Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/harte-schalker-selbsturteile-und-die-erkenntnis-bei-dzeko-1262620/artikel",
+   "title": "Harte Schalker Selbsturteile - und die Erkenntnis bei Dzeko",
+   "link": "https://www.kicker.de/harte-schalker-selbsturteile-und-die-erkenntnis-bei-dzeko-1262620/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T14:54:28Z",
+   "teaser": "Auch nach sechs Spieltagen wartet Schalke 04 auf ein echtes Stürmer-Tor, doch dieses Manko geriet angesichts der schlechten Gesamtleistung gegen Mainz sogar noch in den Hintergrund. Die Schalker fällten nach dem 0:1 harte Selbsturteile.",
+   "clubs": [
+    81,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-mohya-beim-krisentreffen-in-der-startelf-tsg-mit-prass-1261692/artikel",
+   "title": "LIVE! Mohya beim Krisentreffen in der Startelf - TSG mit Prass",
+   "link": "https://www.kicker.de/live-mohya-beim-krisentreffen-in-der-startelf-tsg-mit-prass-1261692/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T14:35:42Z",
+   "teaser": "Letzter gegen Vorletzter oder Gladbach gegen Hoffenheim: Wer schafft beim Aufeinandertreffen der beiden Kellerkinder die Trendwende?",
+   "clubs": [
+    175,
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194212/bayer-leverkusen_sc-freiburg/liveticker",
    "title": "Jetzt live - Ausgeglichenes Spiel zwischen Leverkusen und Freiburg",
@@ -70,6 +96,19 @@
    "id": "https://www.kicker.de/live-schick-kann-s-auch-als-vorbereiter-leverkusen-antwortet-schnell-1261689/artikel",
    "title": "LIVE! Schick kann's auch als Vorbereiter - Leverkusen antwortet schnell",
    "link": "https://www.kicker.de/live-schick-kann-s-auch-als-vorbereiter-leverkusen-antwortet-schnell-1261689/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T12:23:56Z",
+   "teaser": "Setzt Freiburg seinen Traumstart fort? Oder fügt Leverkusen dem Sport-Club die erste Niederlage zu und zieht nach Punkten mit den Breisgauern gleich?",
+   "clubs": [
+    6,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-medina-von-der-strafraumgrenze-knapp-vorbei-1261689/artikel",
+   "title": "LIVE! Medina von der Strafraumgrenze - knapp vorbei",
+   "link": "https://www.kicker.de/live-medina-von-der-strafraumgrenze-knapp-vorbei-1261689/artikel",
    "source": "kicker",
    "published": "2026-10-18T12:23:56Z",
    "teaser": "Setzt Freiburg seinen Traumstart fort? Oder fügt Leverkusen dem Sport-Club die erste Niederlage zu und zieht nach Punkten mit den Breisgauern gleich?",
@@ -2542,45 +2581,6 @@
    "link": "https://www.kicker.de/live-wuchtiger-freistoss-schwaebe-klaert-mit-den-faeusten-1259174/artikel",
    "source": "kicker",
    "published": "2026-10-11T13:41:40Z",
-   "teaser": "Am Sonntagnachmittag steigt in Köln das 101. Rheinderby der Bundesliga-Geschichte. Die Gladbacher wollen beim Debüt ihres neuen Trainers Alexander Blessin endlich die ersten Punkte holen. Auch beim FC ist der Druck groß.",
-   "clubs": [
-    87,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/1-fc-koeln-gegen-borussia-moenchengladbach,audiostream-1-fc-koeln-gegen-borussia-moenchengladbach-102.html",
-   "title": "Live hören: 1. FC Köln gegen Borussia Mönchengladbach - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/1-fc-koeln-gegen-borussia-moenchengladbach,audiostream-1-fc-koeln-gegen-borussia-moenchengladbach-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T13:15:00Z",
-   "teaser": "5. Spieltag: Anpfiff des Spiels ist am 11.10.2026 um 15:30 Uhr. Borussia Mönchengladbach spielt in Köln.",
-   "clubs": [
-    87,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194107/sc-freiburg_fc-schalke-04/liveticker",
-   "title": "Jetzt live - Freiburg führt in Unterzahl gegen Schalke",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194107/sc-freiburg_fc-schalke-04/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-11T12:41:48Z",
-   "teaser": "Freiburg kann mit einem Sieg gegen Schalke die Tabellenführung in der Bundesliga übernehmen. In Unterzahl gelingt dem Sportclub kurz vor Schluss die Führung.",
-   "clubs": [
-    112,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-101-rheinderby-holt-gladbach-beim-blessin-debuet-die-ersten-punkte-1259174/artikel",
-   "title": "LIVE! 101. Rheinderby: Holt Gladbach beim Blessin-Debüt die ersten Punkte?",
-   "link": "https://www.kicker.de/live-101-rheinderby-holt-gladbach-beim-blessin-debuet-die-ersten-punkte-1259174/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T12:38:33Z",
    "teaser": "Am Sonntagnachmittag steigt in Köln das 101. Rheinderby der Bundesliga-Geschichte. Die Gladbacher wollen beim Debüt ihres neuen Trainers Alexander Blessin endlich die ersten Punkte holen. Auch beim FC ist der Druck groß.",
    "clubs": [
     87,
