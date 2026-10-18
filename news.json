@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:57:38Z",
+ "updated": "2026-10-18T16:30:23Z",
  "sources": [
   {
    "name": "kicker",
@@ -20,11 +20,24 @@
    "title": "Ibrahim Maza überragt bei Leverkusens Sieg gegen Freiburg",
    "link": "https://www.sportschau.de/fussball/bundesliga/ibrahim-maza-ueberragt-bei-leverkusens-sieg-gegen-freiburg,spielbericht-bayer-leverkusen-sc-freiburg-108.html",
    "source": "Sportschau",
-   "published": "2026-10-18T15:41:04Z",
+   "published": "2026-10-18T16:15:54Z",
    "teaser": "Bayer 04 Leverkusen setzt sich knapp gegen den SC Freiburg durch und zieht mit den Breisgauern gleich. Überragender Spieler war Bayer-Offensivmann Ibrahim Maza.",
    "clubs": [
     6,
     112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194245/borussia-moenchengladbach_tsg-hoffenheim/liveticker",
+   "title": "Jetzt live - Hoffenheim führt und dominiert gegen Gladbach",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194245/borussia-moenchengladbach_tsg-hoffenheim/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-18T16:15:03Z",
+   "teaser": "Nach fünf Niederlagen in Folge braucht Borussia Mönchengladbach gegen die TSG Hoffenheim dringend einen Sieg - doch die Gäste sind das bessere Team.",
+   "clubs": [
+    175,
+    87
    ],
    "transfer": false
   },
@@ -38,19 +51,6 @@
    "clubs": [
     6,
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194245/borussia-moenchengladbach_tsg-hoffenheim/liveticker",
-   "title": "Jetzt live - Gladbach und Hoffenheim im Krisenduell",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194245/borussia-moenchengladbach_tsg-hoffenheim/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-18T15:17:46Z",
-   "teaser": "Es ist ein richtiges Kellerduell: Der Tabellenletzte Borussia Mönchengladbach empfängt die ebenfalls kriselnden Hoffenheimer.",
-   "clubs": [
-    175,
-    87
    ],
    "transfer": false
   },
@@ -84,6 +84,19 @@
    "id": "https://www.kicker.de/live-prass-findet-conte-tsg-bestraft-vergebene-borussia-chance-1261692/artikel",
    "title": "LIVE! Prass findet Conté: TSG bestraft vergebene Borussia-Chance",
    "link": "https://www.kicker.de/live-prass-findet-conte-tsg-bestraft-vergebene-borussia-chance-1261692/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T14:35:42Z",
+   "teaser": "Letzter gegen Vorletzter oder Gladbach gegen Hoffenheim: Wer schafft beim Aufeinandertreffen der beiden Kellerkinder die Trendwende?",
+   "clubs": [
+    175,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-latte-steht-hoffenheims-2-0-im-weg-pfiffe-zur-pause-1261692/artikel",
+   "title": "LIVE! Latte steht Hoffenheims 2:0 im Weg - Pfiffe zur Pause",
+   "link": "https://www.kicker.de/live-latte-steht-hoffenheims-2-0-im-weg-pfiffe-zur-pause-1261692/artikel",
    "source": "kicker",
    "published": "2026-10-18T14:35:42Z",
    "teaser": "Letzter gegen Vorletzter oder Gladbach gegen Hoffenheim: Wer schafft beim Aufeinandertreffen der beiden Kellerkinder die Trendwende?",
@@ -2572,19 +2585,6 @@
    "clubs": [
     112,
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-kurze-unterbrechung-in-koeln-el-mala-trifft-traumhaft-1259174/artikel",
-   "title": "LIVE! Kurze Unterbrechung in Köln - El Mala trifft traumhaft",
-   "link": "https://www.kicker.de/live-kurze-unterbrechung-in-koeln-el-mala-trifft-traumhaft-1259174/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T15:03:57Z",
-   "teaser": "Am Sonntagnachmittag steigt in Köln das 101. Rheinderby der Bundesliga-Geschichte. Die Gladbacher wollen beim Debüt ihres neuen Trainers Alexander Blessin endlich die ersten Punkte holen. Auch beim FC ist der Druck groß.",
-   "clubs": [
-    87,
-    65
    ],
    "transfer": false
   }
