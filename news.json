@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T12:34:30Z",
+ "updated": "2026-10-18T13:09:52Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,44 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/raetselraten-beim-vfb-angebliches-muster-oder-mehr-1262594/artikel",
+   "title": "Rätselraten beim VfB: \"Angebliches Muster\" oder mehr?",
+   "link": "https://www.kicker.de/raetselraten-beim-vfb-angebliches-muster-oder-mehr-1262594/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T12:56:51Z",
+   "teaser": "Der VfB Stuttgart präsentiert sich beim HSV in vielerlei Hinsicht als Wiederholungstäter - doch eine Debatte nervt Sportchef Fabian Wohlgemuth.",
+   "clubs": [
+    16,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fehlende-frische-oder-muster-dortmunds-suche-nach-der-durchschlagskraft-1262383/artikel",
+   "title": "Fehlende Frische oder Muster? Dortmunds Suche nach der Durchschlagskraft",
+   "link": "https://www.kicker.de/fehlende-frische-oder-muster-dortmunds-suche-nach-der-durchschlagskraft-1262383/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T12:53:34Z",
+   "teaser": "Zwei Spiele ohne Treffer sind symptomatisch für die derzeit schwache Offensive von Borussia Dortmund. Dazu kommt die möglicherweise schwere Verletzung von Konstantinos Karetsas.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-bayers-schick-stuermt-im-topduell-grosse-rotation-beim-sc-freiburg-1261689/artikel",
+   "title": "LIVE! Bayers Schick stürmt im Topduell - Große Rotation beim SC Freiburg",
+   "link": "https://www.kicker.de/live-bayers-schick-stuermt-im-topduell-grosse-rotation-beim-sc-freiburg-1261689/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T12:23:56Z",
+   "teaser": "Setzt Freiburg seinen Traumstart fort? Oder fügt Leverkusen dem Sport-Club die erste Niederlage zu und zieht nach Punkten mit den Breisgauern gleich?",
+   "clubs": [
+    6,
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/das-ende-der-wilden-aktionen-wie-schaefer-union-jetzt-stabilisiert-1262552/artikel",
    "title": "Das Ende der wilden Aktionen: Wie Schäfer Union jetzt stabilisiert",
@@ -2548,42 +2586,6 @@
     175,
     100
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/martinez-rueffelt-ben-seghir-muss-lernen-seinen-koerper-besser-zu-managen-1260108/artikel",
-   "title": "Martinez rüffelt Ben Seghir: \"Muss lernen, seinen Körper besser zu managen\"",
-   "link": "https://www.kicker.de/martinez-rueffelt-ben-seghir-muss-lernen-seinen-koerper-besser-zu-managen-1260108/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T11:19:20Z",
-   "teaser": "Beim 4:3-Sieg in Mainz fehlte Eliesse Ben Seghir im Leverkusener Aufgebot. Es ist bereits die dritte Verletzung, die den Marokkaner in dieser Saison zum Pausieren zwingt. Deshalb rüffelt Trainer Carles Martinez den hochbegabten Angreifer …",
-   "clubs": [
-    6,
-    81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194167/1-fc-koeln_borussia-moenchengladbach/liveticker",
-   "title": "Jetzt live - Köln führt im rheinischen Derby",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194167/1-fc-koeln_borussia-moenchengladbach/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-11T11:18:03Z",
-   "teaser": "Flottes rheinisches Derby in der Bundesliga: der 1. FC Köln führt nach einem sehenswerten Tor von Said El Mala mit 2:1 gegen Mönchengladbach.",
-   "clubs": [
-    87,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kimmichs-klare-reaktion-auf-die-kritik-1260076/artikel",
-   "title": "Kimmichs klare Reaktion auf die Kritik",
-   "link": "https://www.kicker.de/kimmichs-klare-reaktion-auf-die-kritik-1260076/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T10:40:28Z",
-   "teaser": "Nach seiner Abreise von der Nationalmannschaft entbrannte eine Debatte um Joshua Kimmich. Jetzt äußerte sich auch der Kapitän erstmals.",
-   "clubs": [],
    "transfer": false
   }
  ]
