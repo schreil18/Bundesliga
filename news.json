@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T14:57:22Z",
+ "updated": "2026-10-18T15:28:19Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/ibrahim-maza-ueberragt-bei-leverkusens-sieg-gegen-freiburg,spielbericht-bayer-leverkusen-sc-freiburg-108.html",
+   "title": "Ibrahim Maza überragt bei Leverkusens Sieg gegen Freiburg",
+   "link": "https://www.sportschau.de/fussball/bundesliga/ibrahim-maza-ueberragt-bei-leverkusens-sieg-gegen-freiburg,spielbericht-bayer-leverkusen-sc-freiburg-108.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T15:27:14Z",
+   "teaser": "Bayer 04 Leverkusen setzt sich knapp gegen den SC Freiburg durch und zieht mit den Breisgauern gleich. Überragender Spieler war Bayer-Offensivmann Ibrahim Maza.",
+   "clubs": [
+    6,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194245/borussia-moenchengladbach_tsg-hoffenheim/liveticker",
+   "title": "Jetzt live - Gladbach und Hoffenheim im Krisenduell",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194245/borussia-moenchengladbach_tsg-hoffenheim/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-18T15:17:46Z",
+   "teaser": "Es ist ein richtiges Kellerduell: Der Tabellenletzte Borussia Mönchengladbach empfängt die ebenfalls kriselnden Hoffenheimer.",
+   "clubs": [
+    175,
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/harte-schalker-selbsturteile-und-die-erkenntnis-bei-dzeko-1262620/artikel",
    "title": "Harte Schalker Selbsturteile - und die Erkenntnis bei Dzeko",
@@ -80,6 +106,18 @@
    "transfer": false
   },
   {
+   "id": "https://www.kicker.de/dortmunds-suche-nach-der-durchschlagskraft-1262383/artikel",
+   "title": "Dortmunds Suche nach der Durchschlagskraft",
+   "link": "https://www.kicker.de/dortmunds-suche-nach-der-durchschlagskraft-1262383/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T12:53:34Z",
+   "teaser": "Zwei Spiele ohne Treffer sind symptomatisch für die derzeit schwache Offensive von Borussia Dortmund. Dazu kommt die möglicherweise schwere Verletzung von Konstantinos Karetsas.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/live-bayers-schick-stuermt-im-topduell-grosse-rotation-beim-sc-freiburg-1261689/artikel",
    "title": "LIVE! Bayers Schick stürmt im Topduell - Große Rotation beim SC Freiburg",
    "link": "https://www.kicker.de/live-bayers-schick-stuermt-im-topduell-grosse-rotation-beim-sc-freiburg-1261689/artikel",
@@ -109,6 +147,19 @@
    "id": "https://www.kicker.de/live-medina-von-der-strafraumgrenze-knapp-vorbei-1261689/artikel",
    "title": "LIVE! Medina von der Strafraumgrenze - knapp vorbei",
    "link": "https://www.kicker.de/live-medina-von-der-strafraumgrenze-knapp-vorbei-1261689/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T12:23:56Z",
+   "teaser": "Setzt Freiburg seinen Traumstart fort? Oder fügt Leverkusen dem Sport-Club die erste Niederlage zu und zieht nach Punkten mit den Breisgauern gleich?",
+   "clubs": [
+    6,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-schick-trifft-auch-am-sechsten-spieltag-1261689/artikel",
+   "title": "LIVE! Schick trifft auch am sechsten Spieltag",
+   "link": "https://www.kicker.de/live-schick-trifft-auch-am-sechsten-spieltag-1261689/artikel",
    "source": "kicker",
    "published": "2026-10-18T12:23:56Z",
    "teaser": "Setzt Freiburg seinen Traumstart fort? Oder fügt Leverkusen dem Sport-Club die erste Niederlage zu und zieht nach Punkten mit den Breisgauern gleich?",
@@ -2532,58 +2583,6 @@
    "published": "2026-10-11T14:56:20Z",
    "teaser": "Der 1. FC Köln sorgt sich um Ellyes Skhiri. Im Rheinderby war er nach einem Foul heftig umgeknickt und musste vom Feld getragen werden.",
    "clubs": [
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-zu-gast-bei-unbesiegten-freiburgern-punktet-schalke-auch-im-breisgau-1259182/artikel",
-   "title": "LIVE! Zu Gast bei unbesiegten Freiburgern: Punktet Schalke auch im Breisgau?",
-   "link": "https://www.kicker.de/live-zu-gast-bei-unbesiegten-freiburgern-punktet-schalke-auch-im-breisgau-1259182/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T14:31:25Z",
-   "teaser": "Zum Abschluss des 5. Bundesliga-Spieltags trifft Freiburg auf Schalke. Beide Klubs präsentierten sich vor der langen Länderspielpause formstark und möchten ihre Serien weiter ausbauen.",
-   "clubs": [
-    112,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-fc-defensive-ungeordnet-scally-aus-kurzer-distanz-zum-ausgleich-1259174/artikel",
-   "title": "LIVE! FC-Defensive ungeordnet: Scally aus kurzer Distanz zum Ausgleich",
-   "link": "https://www.kicker.de/live-fc-defensive-ungeordnet-scally-aus-kurzer-distanz-zum-ausgleich-1259174/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T14:06:32Z",
-   "teaser": "Am Sonntagnachmittag steigt in Köln das 101. Rheinderby der Bundesliga-Geschichte. Die Gladbacher wollen beim Debüt ihres neuen Trainers Alexander Blessin endlich die ersten Punkte holen. Auch beim FC ist der Druck groß.",
-   "clubs": [
-    87,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-scally-aus-kurzer-distanz-skhiri-wird-vom-feld-getragen-1259174/artikel",
-   "title": "LIVE! Scally aus kurzer Distanz - Skhiri wird vom Feld getragen",
-   "link": "https://www.kicker.de/live-scally-aus-kurzer-distanz-skhiri-wird-vom-feld-getragen-1259174/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T14:06:32Z",
-   "teaser": "Am Sonntagnachmittag steigt in Köln das 101. Rheinderby der Bundesliga-Geschichte. Die Gladbacher wollen beim Debüt ihres neuen Trainers Alexander Blessin endlich die ersten Punkte holen. Auch beim FC ist der Druck groß.",
-   "clubs": [
-    87,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-wuchtiger-freistoss-schwaebe-klaert-mit-den-faeusten-1259174/artikel",
-   "title": "LIVE! Wuchtiger Freistoß: Schwäbe klärt mit den Fäusten",
-   "link": "https://www.kicker.de/live-wuchtiger-freistoss-schwaebe-klaert-mit-den-faeusten-1259174/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T13:41:40Z",
-   "teaser": "Am Sonntagnachmittag steigt in Köln das 101. Rheinderby der Bundesliga-Geschichte. Die Gladbacher wollen beim Debüt ihres neuen Trainers Alexander Blessin endlich die ersten Punkte holen. Auch beim FC ist der Druck groß.",
-   "clubs": [
-    87,
     65
    ],
    "transfer": false
