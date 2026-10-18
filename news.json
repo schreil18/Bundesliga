@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T19:55:19Z",
+ "updated": "2026-10-18T20:28:26Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/ein-halbes-dutzend-bayern-und-dreimal-die-bestnote-die-kicker-elf-des-6-spieltags-1262788/slideshow",
+   "title": "Ein halbes Dutzend Bayern und dreimal die Bestnote: Die kicker-Elf des 6. Spieltags",
+   "link": "https://www.kicker.de/ein-halbes-dutzend-bayern-und-dreimal-die-bestnote-die-kicker-elf-des-6-spieltags-1262788/slideshow",
+   "source": "kicker",
+   "published": "2026-10-18T19:57:25Z",
+   "teaser": "Der FC Bayern schenkte RB Leipzig im Topspiel sechs Tore ein, sechs Münchner schafften es nun auch in die kicker-Elf des Spieltags. Drei Spieler verdienten sich die Note 1, nur zwei davon kicken beim Rekordmeister.",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/aus-der-zweiten-reihe-in-den-mittelpunkt-prass-reisst-die-tsg-kollegen-mit-1262772/artikel",
    "title": "Aus der zweiten Reihe in den Mittelpunkt: Prass reißt die TSG-Kollegen mit",
@@ -2563,19 +2576,6 @@
    "source": "kicker",
    "published": "2026-10-11T18:22:15Z",
    "teaser": "Nach der enttäuschenden Derbypleite gegen Köln stellte sich Alexander Blessin bei den Fans demonstrativ vor die Gladbacher Mannschaft. Der neue Trainer erklärte im Anschluss, welche Botschaft er damit senden wollte.",
-   "clubs": [
-    87,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wagner-das-war-brutal-die-jungs-haben-sich-in-alles-reingeschmissen-1260320/video",
-   "title": "Wagner: \"Das war brutal, die Jungs haben sich in alles reingeschmissen\"",
-   "link": "https://www.kicker.de/wagner-das-war-brutal-die-jungs-haben-sich-in-alles-reingeschmissen-1260320/video",
-   "source": "kicker",
-   "published": "2026-10-11T18:21:41Z",
-   "teaser": "Der 1. FC Köln fährt im hitzigen Derby gegen Gladbach drei Punkte ein. Trainer René Wagner bedankt sich dabei bei den Fans, die der Mannschaft am Schluss noch den entscheidenden Push gegeben hätten.",
    "clubs": [
     87,
     65
