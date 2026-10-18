@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T07:14:22Z",
+ "updated": "2026-10-18T07:59:33Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/kanes-sonderrolle-wie-bayern-leipzig-demontierte-1262466/artikel",
+   "title": "Kanes Sonderrolle: Wie Bayern Leipzig demontierte",
+   "link": "https://www.kicker.de/kanes-sonderrolle-wie-bayern-leipzig-demontierte-1262466/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T07:54:36Z",
+   "teaser": "Beim 6:1 gegen Leipzig brillierte Harry Kane nicht nur als Torschütze und Vorbereiter. Blöd nur, dass diese Rolle am Mittwoch eher nicht zugelassen wird.",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/man-musste-warten-bis-er-wieder-rauslaeuft-um-sich-hilfe-zu-holen-1262478/artikel",
+   "title": "\"Man musste warten, bis er wieder rausläuft, um sich Hilfe zu holen\"",
+   "link": "https://www.kicker.de/man-musste-warten-bis-er-wieder-rauslaeuft-um-sich-hilfe-zu-holen-1262478/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T07:08:53Z",
+   "teaser": "Der FC Augsburg ist nach der Pleite in Elversberg selbstkritisch genug - sucht aber auch Fehler beim Schiedsrichter.",
+   "clubs": [
+    95,
+    198
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/die-sportschau-am-samstag-in-voller-laenge,sportschau-am-samstag-1710-100.html",
    "title": "Die Sportschau am Samstag in voller Länge",
@@ -2568,32 +2594,6 @@
     100
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/darum-zaehlte-der-treffer-von-luis-diaz-nicht-1260059/artikel",
-   "title": "Darum zählte der Treffer von Luis Diaz nicht",
-   "link": "https://www.kicker.de/darum-zaehlte-der-treffer-von-luis-diaz-nicht-1260059/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T08:53:12Z",
-   "teaser": "Vier Tore des FC Bayern wurden beim 2:2 in Augsburg zurückgenommen, drei davon unstrittig. Das erste von Luis Diaz hätte jedoch trotz der Argumente des DFB besser zählen sollen, die Entscheidung konterkarierte den Sinn des Spiels.",
-   "clubs": [
-    40,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/verfruehter-abgang-bayers-boniface-bricht-mit-dem-teamgeist-1260061/artikel",
-   "title": "Verfrühter Abgang: Bayers Boniface bricht mit dem Teamgeist",
-   "link": "https://www.kicker.de/verfruehter-abgang-bayers-boniface-bricht-mit-dem-teamgeist-1260061/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T08:00:00Z",
-   "teaser": "In der Schlussphase des Spiels in Mainz erlaubt sich Leverkusens Victor Boniface einen Fauxpas, als der Ersatzspieler nach seiner Nicht-Einwechslung vorzeitig in die Kabine geht. Ein Bruch mit dem Teamgeist.",
-   "clubs": [
-    6,
-    81
-   ],
-   "transfer": true
   }
  ]
 }
