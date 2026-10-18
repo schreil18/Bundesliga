@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T18:32:18Z",
+ "updated": "2026-10-18T19:01:15Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/blessin-wird-deutlich-wir-brauchen-keine-duckmaeuser-1262792/artikel",
+   "title": "Blessin wird deutlich: \"Wir brauchen keine Duckmäuser\"",
+   "link": "https://www.kicker.de/blessin-wird-deutlich-wir-brauchen-keine-duckmaeuser-1262792/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T18:39:21Z",
+   "teaser": "Borussia Mönchengladbach hat im sechsten Saisonspiel zum sechsten Mal verloren. Aber nicht nur die Niederlage ärgerte Trainer Alexander Blessin, sondern vor allem die Art und Weise, wie die Fohlen sich phasenweise präsentiert hatten.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
    "title": "Hoffenheim befeuert Borussia Mönchengladbachs Abstiegsangst",
@@ -38,6 +50,18 @@
    "clubs": [
     6,
     112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/total-aergerlich-schuster-hadert-mit-den-gegentoren-1262796/video",
+   "title": "\"Total ärgerlich\": Schuster hadert mit den Gegentoren",
+   "link": "https://www.kicker.de/total-aergerlich-schuster-hadert-mit-den-gegentoren-1262796/video",
+   "source": "kicker",
+   "published": "2026-10-18T18:21:45Z",
+   "teaser": "Julian Schuster hadert nach der 1:2-Niederlage gegen Bayer Leverkusen mit den Gegentoren seiner Mannschaft.",
+   "clubs": [
+    6
    ],
    "transfer": false
   },
@@ -2554,32 +2578,6 @@
    "teaser": "Jens Härtel ist nach nur knapp fünf Monaten als Trainer der U 19 des 1. FC Union Berlin zurückgetreten. Grund dafür sind schwere Vorwürfe gegen den Coach.",
    "clubs": [
     80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bah-als-symbol-fuer-augsburgs-moeglichkeiten-1260126/artikel",
-   "title": "Bah als Symbol für Augsburgs Möglichkeiten",
-   "link": "https://www.kicker.de/bah-als-symbol-fuer-augsburgs-moeglichkeiten-1260126/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T17:50:48Z",
-   "teaser": "Oberflächlich betrachtet hat der FC Augsburg im zweiten Heimspiel in Serie ein glückliches 2:2 gegen ein besseres Team herausgeholt. Erst gegen Leverkusen, nun gegen den FC Bayern. Eine solche Analyse würde den Fuggerstädtern jedoch nicht …",
-   "clubs": [
-    40,
-    6,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kein-krisenende-in-sicht-gladbach-steuert-auch-mit-blessin-richtung-abgrund-1260284/artikel",
-   "title": "Kein Krisenende in Sicht: Gladbach steuert auch mit Blessin Richtung Abgrund",
-   "link": "https://www.kicker.de/kein-krisenende-in-sicht-gladbach-steuert-auch-mit-blessin-richtung-abgrund-1260284/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T17:40:26Z",
-   "teaser": "Die Borussia verliert das erste Spiel unter der Regie des neuen Cheftrainers Alexander Blessin. Bei der 1:2-Niederlage im Derby brachte eine spielentscheidende Szene den Coach auf die Palme.",
-   "clubs": [
-    87
    ],
    "transfer": false
   }
