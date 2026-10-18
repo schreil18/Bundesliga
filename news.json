@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T21:57:30Z",
+ "updated": "2026-10-18T22:27:42Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,137 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
+   "title": "Hoffenheim befeuert Borussia Mönchengladbachs Abstiegsangst",
+   "link": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T22:01:28Z",
+   "teaser": "Sechster Spieltag, sechste Niederlage: Im Duell der Bundesliga-Schlusslichter hat die TSG Hoffenheim dafür gesorgt, dass Borussia Mönchengladbach weiter punktlos bleibt.",
+   "clubs": [
+    175,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/mainz-verdient-sich-drei-punkte-gegen-harmlose-schalker,video-bundesliga-fc-schalke-04-1-fsv-mainz-05-100.html",
+   "title": "Bundesliga: Mainz verdient sich den Sieg gegen Schalke 04",
+   "link": "https://www.sportschau.de/fussball/bundesliga/mainz-verdient-sich-drei-punkte-gegen-harmlose-schalker,video-bundesliga-fc-schalke-04-1-fsv-mainz-05-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T22:00:40Z",
+   "teaser": "Die Schalker Fans warten weiter auf einen Treffer ihrer Mannschaft im heimischen Stadion. Auch gegen Mainz bleibt Königsblau ohne Torerfolg.",
+   "clubs": [
+    81,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/dortmund-stolpert-bei-union-und-bangt-um-karetsas,video-bundesliga-1-fc-union-berlin-borussia-dortmund-100.html",
+   "title": "Bundesliga: Dortmund stolpert bei Union Berlin",
+   "link": "https://www.sportschau.de/fussball/bundesliga/dortmund-stolpert-bei-union-und-bangt-um-karetsas,video-bundesliga-1-fc-union-berlin-borussia-dortmund-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T22:00:34Z",
+   "teaser": "Der BVB tritt weiter auf der Stelle. Bei Union Berlin kommen die Borussen nicht über ein torloses Remis hinaus und müssen darüber hinaus um Konstantinos Karetsas bangen.",
+   "clubs": [
+    7,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-verschlimmert-gladbachs-krise,video-bundesliga-borussia-moenchengladbach-tsg-1899-hoffenheim-100.html",
+   "title": "Bundesliga: TSG Hoffenheim verschlimmert Gladbachs Krise",
+   "link": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-verschlimmert-gladbachs-krise,video-bundesliga-borussia-moenchengladbach-tsg-1899-hoffenheim-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T22:00:26Z",
+   "teaser": "Die Krise von Borussia Mönchengladbach in der Bundesliga nimmt immer schlimmere Züge an. Gegen Hoffenheim verloren die Fohlen das sechste Spiel in Folge und warten weiterhin auf die ersten Punkte.",
+   "clubs": [
+    175,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/schick-und-maza-sorgen-fuer-erste-freiburger-niederlage,video-bundesliga-bayer-04-leverkusen-sc-freiburg-100.html",
+   "title": "Bundesliga: Leverkusen sorgt für erste Freiburger Niederlage",
+   "link": "https://www.sportschau.de/fussball/bundesliga/schick-und-maza-sorgen-fuer-erste-freiburger-niederlage,video-bundesliga-bayer-04-leverkusen-sc-freiburg-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T22:00:25Z",
+   "teaser": "Bayer Leverkusen hat dem SC Freiburg die erste Pleite der Saison zugefügt. Beim knappen Heimerfolg der Werkself trafen Maza und Schick.",
+   "clubs": [
+    6,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/ebnoutalib-vollendet-asekos-geniestreich-gegen-koeln,video-bundesliga-eintracht-frankfurt-1-fc-koeln-100.html",
+   "title": "Bundesliga: Frankfurts Ebnoutalib entscheidet Spiel gegen Köln",
+   "link": "https://www.sportschau.de/fussball/bundesliga/ebnoutalib-vollendet-asekos-geniestreich-gegen-koeln,video-bundesliga-eintracht-frankfurt-1-fc-koeln-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T22:00:18Z",
+   "teaser": "Nach der Klatsche in Leipzig letzte Woche zeigt Eintracht Frankfurt eine Reaktion und besiegt den 1. FC Köln dank einer überragenden Aktion.",
+   "clubs": [
+    1635,
+    91,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/muenchens-machtdemonstration-zeigt-leipzig-die-grenzen-auf,video-bundesliga-fc-bayern-muenchen-rb-leipzig-100.html",
+   "title": "Bundesliga: Bayern München zeigt Leipzig die Grenzen auf",
+   "link": "https://www.sportschau.de/fussball/bundesliga/muenchens-machtdemonstration-zeigt-leipzig-die-grenzen-auf,video-bundesliga-fc-bayern-muenchen-rb-leipzig-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T22:00:17Z",
+   "teaser": "Bayern München hat die zuletzt aufstrebenden Leipziger in die Schranken gewiesen. Luis Diaz traf beim Heimsieg gleich dreimal.",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/elversberg-behaelt-gegen-ausgburg-die-oberhand,video-bundesliga-sv-07-elversberg-fc-augsburg-100.html",
+   "title": "Bundesliga: Elversberg behält gegen Ausgburg die Oberhand",
+   "link": "https://www.sportschau.de/fussball/bundesliga/elversberg-behaelt-gegen-ausgburg-die-oberhand,video-bundesliga-sv-07-elversberg-fc-augsburg-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T22:00:13Z",
+   "teaser": "Die SV Elversberg sorgt in der Bundesliga weiter für Furore und fährt in einem vogelwilden Spiel einen Heimsieg gegen den FC Augsburg ein.",
+   "clubs": [
+    95,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/werders-comebacker-schlagen-auch-gegen-paderborn-zu,video-bundesliga-sv-werder-bremen-sc-paderborn-100.html",
+   "title": "Bundesliga: Werder Bremen kommt auch gegen Paderborn zurück",
+   "link": "https://www.sportschau.de/fussball/bundesliga/werders-comebacker-schlagen-auch-gegen-paderborn-zu,video-bundesliga-sv-werder-bremen-sc-paderborn-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T22:00:10Z",
+   "teaser": "Werder Bremen und Niclas Füllkrug beweisen weiter Comeback-Qualitäten. Gegen den SC Paderborn gelingt nach einem 0:2-Rückstand noch der Ausgleich.",
+   "clubs": [
+    134,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/wiederholungstaeter-muheim-erloest-hamburg-spaet,video-bundesliga-hamburger-sv-vfb-stuttgart-100.html",
+   "title": "Bundesliga: Matchwinner Muheim erlöst Hamburg gegen den VfB",
+   "link": "https://www.sportschau.de/fussball/bundesliga/wiederholungstaeter-muheim-erloest-hamburg-spaet,video-bundesliga-hamburger-sv-vfb-stuttgart-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T22:00:08Z",
+   "teaser": "Der Hamburger SV gewinnt gegen den VfB Stuttgart das dritte Bundesligaspiel in Serie und kann sich dabei auf seinen neuen Matchwinner verlassen.",
+   "clubs": [
+    16,
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/im-kopf-ist-es-drin-was-blessin-mut-macht-1262839/video",
    "title": "\"Im Kopf ist es drin\": Was Blessin Mut macht",
@@ -75,19 +206,6 @@
    "published": "2026-10-18T18:39:21Z",
    "teaser": "Borussia Mönchengladbach hat im sechsten Saisonspiel zum sechsten Mal verloren. Aber nicht nur die Niederlage ärgerte Trainer Alexander Blessin, sondern vor allem die Art und Weise, wie die Fohlen sich phasenweise präsentiert hatten.",
    "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
-   "title": "Hoffenheim befeuert Borussia Mönchengladbachs Abstiegsangst",
-   "link": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T18:24:26Z",
-   "teaser": "Sechster Spieltag, sechste Niederlage: Im Duell der Bundesliga-Schlusslichter hat die TSG Hoffenheim dafür gesorgt, dass Borussia Mönchengladbach weiter punktlos bleibt.",
-   "clubs": [
-    175,
     87
    ],
    "transfer": false
@@ -2465,122 +2583,6 @@
     134
    ],
    "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/muheims-last-minute-tor-kroent-hsv-comeback,video-bundesliga-tsg-1899-hoffenheim-hamburger-sv-100.html",
-   "title": "Bundesliga: Muheims Last-Minute-Tor krönt HSV-Comeback",
-   "link": "https://www.sportschau.de/fussball/bundesliga/muheims-last-minute-tor-kroent-hsv-comeback,video-bundesliga-tsg-1899-hoffenheim-hamburger-sv-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T22:00:01Z",
-   "teaser": "Der Hamburger SV nimmt drei Punkte aus Hoffenheim mit. In einer hart umkämpften Partie fiel die Entscheidung zum 3:2 für den HSV erst in der Nachspielzeit.",
-   "clubs": [
-    175,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/muss-urbig-statt-neuer-ins-bayern-tor,bundesliga-update-rueckblick-spieltag-fuenf-106.html",
-   "title": "Muss Jonas Urbig statt Manuel Neuer ins Bayern-Tor?",
-   "link": "https://www.sportschau.de/fussball/bundesliga/muss-urbig-statt-neuer-ins-bayern-tor,bundesliga-update-rueckblick-spieltag-fuenf-106.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T21:49:07Z",
-   "teaser": "Patzer und Negativrekord: Das Team des Bundesliga Update Podcasts diskutiert, ob Manuel Neuer noch gut genug für das Tor des FC Bayern ist.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/swr/swr-richtig-stolz-freiburgs-wahnsinnslauf-geht-auch-in-unterzahl-weiter-100.html",
-   "title": "Nach Heimsieg in Unterzahl: Freiburgs Schuster \"richtig stolz\"",
-   "link": "https://www.sportschau.de/regional/swr/swr-richtig-stolz-freiburgs-wahnsinnslauf-geht-auch-in-unterzahl-weiter-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T21:02:05Z",
-   "teaser": "Der SC Freiburg bleibt in der Bundesliga das Team der Stunde. Nach dem Spiel gegen den FC Schalke 04 spricht Trainer Julian Schuster über den \"größten Trumpf\" im Breisgau.",
-   "clubs": [
-    112,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/muslic-gibt-fehler-zu-niederlage-geht-auf-meine-kappe-1260355/video",
-   "title": "Muslic gibt Fehler zu: \"Niederlage geht auf meine Kappe\"",
-   "link": "https://www.kicker.de/muslic-gibt-fehler-zu-niederlage-geht-auf-meine-kappe-1260355/video",
-   "source": "kicker",
-   "published": "2026-10-11T20:24:32Z",
-   "teaser": "Miron Muslic gab nach der Niederlage der Schalker gegen Freiburg offen zu, taktische Fehler begangen zu haben. Julian Schuster meldete sich ebenfalls zu Wort und zollte seinem Trainerkollegen für die Offenheit Respekt.",
-   "clubs": [
-    112,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/rb-quintett-auf-dem-debuetantenball-die-kicker-elf-des-5-spieltags-1260336/slideshow",
-   "title": "RB-Quintett auf dem Debütantenball: Die kicker-Elf des 5. Spieltags",
-   "link": "https://www.kicker.de/rb-quintett-auf-dem-debuetantenball-die-kicker-elf-des-5-spieltags-1260336/slideshow",
-   "source": "kicker",
-   "published": "2026-10-11T20:13:27Z",
-   "teaser": "RB Leipzig schenkte Frankfurt ein halbes Dutzend Tore ein und stellt nun gleich fünf Spieler in der kicker-Elf des 5. Spieltags, zwei davon erhielte sogar die Bestnote.",
-   "clubs": [
-    1635,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/als-waere-eine-meisterschaft-unter-dach-und-fach-freiburg-in-feierstimmung-1260350/video",
-   "title": "\"Als wäre eine Meisterschaft unter Dach und Fach\": Freiburg in Feierstimmung",
-   "link": "https://www.kicker.de/als-waere-eine-meisterschaft-unter-dach-und-fach-freiburg-in-feierstimmung-1260350/video",
-   "source": "kicker",
-   "published": "2026-10-11T20:05:25Z",
-   "teaser": "SC Freiburg führt nach dem 2:1-Sieg gegen FC Schalke 04 die Bundesligatabelle an. Der eingewechselte Keisuke Goto köpfte das Siegtor und das Stadion feierte den Sieg, fast wie eine Meisterschaft, wie kicker-Reporter Thiemo Müller berichtet.",
-   "clubs": [
-    112,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/boeller-und-raketen-im-rheinderby-es-ist-nicht-voellig-aus-dem-ruder-gelaufen-1260318/artikel",
-   "title": "Böller und Raketen im Rheinderby: \"Es ist nicht völlig aus dem Ruder gelaufen\"",
-   "link": "https://www.kicker.de/boeller-und-raketen-im-rheinderby-es-ist-nicht-voellig-aus-dem-ruder-gelaufen-1260318/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T19:20:19Z",
-   "teaser": "Das Spiel zwischen Köln und Gladbach wurde am Sonntag von Ausschreitungen überschattet. Beide Klubs verurteilten die Vorkommnisse scharf und kündigten eine Aufarbeitung an. FC-Geschäftsführer Philipp Türoff verteidigt derweil das neue …",
-   "clubs": [
-    87,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/loest-nun-amoako-die-hsv-probleme-1260250/artikel",
-   "title": "Löst nun Amoako die HSV-Probleme?",
-   "link": "https://www.kicker.de/loest-nun-amoako-die-hsv-probleme-1260250/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T19:15:50Z",
-   "teaser": "Der Kreuzbandriss von Nicolai Remberg überschattet den Hamburger Sieg in Hoffenheim. Immerhin: Anders als in der Vorsaison ist mit Sommer-Zugang Kofi Amoako nun ein Profi im Kader, der vom Profil her zum direkten Ersatz taugt.",
-   "clubs": [
-    175,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/el-mala-ueber-befreiungsschlag-und-was-ihm-am-gladbacher-jubel-missfallen-hat-1260265/artikel",
-   "title": "El Mala über Befreiungsschlag und was ihm am Gladbacher Jubel missfallen hat",
-   "link": "https://www.kicker.de/el-mala-ueber-befreiungsschlag-und-was-ihm-am-gladbacher-jubel-missfallen-hat-1260265/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T18:53:25Z",
-   "teaser": "Said El Mala führte den 1. FC Köln mit seinem Tor zum 2:1 zum Derbysieg über Gladbach. Der 20-Jährige verriet anschließend, wie emotional das Spiel für ihn war - und welche Bedeutung sein Treffer hat.",
-   "clubs": [
-    87,
-    65
-   ],
-   "transfer": false
   }
  ]
 }
