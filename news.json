@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T08:31:02Z",
+ "updated": "2026-10-18T09:00:01Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/swr/swr-keine-spitzenmannschaft--undavs-klartext-als-wachmacher-vor-dem-atltico-kracher-100.html",
+   "title": "\"Keine Spitzenmannschaft\" - VfB Stuttgart fehlt der Flow",
+   "link": "https://www.sportschau.de/regional/swr/swr-keine-spitzenmannschaft--undavs-klartext-als-wachmacher-vor-dem-atltico-kracher-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T08:44:30Z",
+   "teaser": "Nach dem späten 0:1 beim HSV nimmt Kapitän Deniz Undav den VfB Stuttgart in die Pflicht. Vor dem Atlético-Kracher am Dienstag fehlt den Schwaben der Flow.",
+   "clubs": [
+    16,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ist-eggestein-auf-dem-weg-zu-einem-neuen-scorerbestwert-1262508/artikel",
+   "title": "Ist Eggestein auf dem Weg zu einem neuen Scorerbestwert?",
+   "link": "https://www.kicker.de/ist-eggestein-auf-dem-weg-zu-einem-neuen-scorerbestwert-1262508/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T08:44:25Z",
+   "teaser": "Der SC Freiburg ist weiterhin ungeschlagen, hat jetzt aber drei knackige Aufgaben vor sich - und will auch gegen die vermeintlich größeren Teams mithalten.",
+   "clubs": [
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/rbb/rbb-nach-00-gegen-bvb-oldschool-union-ist-zurueck-100.html",
    "title": "Oldschool-Union ist zurück",
@@ -248,19 +273,6 @@
    "clubs": [
     7,
     80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/swr/swr-keine-spitzenmannschaft--undavs-klartext-als-wachmacher-vor-dem-atltico-kracher-100.html",
-   "title": "Stuttgart fehlt der Flow",
-   "link": "https://www.sportschau.de/regional/swr/swr-keine-spitzenmannschaft--undavs-klartext-als-wachmacher-vor-dem-atltico-kracher-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T17:45:35Z",
-   "teaser": "Nach dem späten 0:1 beim HSV nimmt Kapitän Deniz Undav den VfB Stuttgart in die Pflicht. Vor dem Atlético-Kracher am Dienstag fehlt den Schwaben der Flow.",
-   "clubs": [
-    16,
-    100
    ],
    "transfer": false
   },
@@ -2579,19 +2591,6 @@
    "teaser": "Die TSG Hoffenheim muss in den kommenden Wochen auf Patrick Wimmer verzichten. Der Österreicher hat sich eine Muskelverletzung im Oberschenkel zugezogen und fehlt voraussichtlich bis zur nächsten Länderspielpause.",
    "clubs": [
     175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kreuzbandriss-remberg-fehlt-dem-hsv-lange-1260093/artikel",
-   "title": "Kreuzbandriss: Remberg fehlt dem HSV lange",
-   "link": "https://www.kicker.de/kreuzbandriss-remberg-fehlt-dem-hsv-lange-1260093/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T09:13:20Z",
-   "teaser": "In den ersten Auswärtssieg des Hamburger SV in Hoffenheim mischte sich ein bitterer Beigeschmack in den Freudenbecher: Nicolai Remberg verletzte sich dabei - schwer, wie sich nun nach der genauen Diagnose herausstellte.",
-   "clubs": [
-    175,
-    100
    ],
    "transfer": false
   }
