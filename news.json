@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:28:19Z",
+ "updated": "2026-10-18T15:57:38Z",
  "sources": [
   {
    "name": "kicker",
@@ -20,8 +20,21 @@
    "title": "Ibrahim Maza überragt bei Leverkusens Sieg gegen Freiburg",
    "link": "https://www.sportschau.de/fussball/bundesliga/ibrahim-maza-ueberragt-bei-leverkusens-sieg-gegen-freiburg,spielbericht-bayer-leverkusen-sc-freiburg-108.html",
    "source": "Sportschau",
-   "published": "2026-10-18T15:27:14Z",
+   "published": "2026-10-18T15:41:04Z",
    "teaser": "Bayer 04 Leverkusen setzt sich knapp gegen den SC Freiburg durch und zieht mit den Breisgauern gleich. Überragender Spieler war Bayer-Offensivmann Ibrahim Maza.",
+   "clubs": [
+    6,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/leverkusen-gegen-freiburg-2026-bundesliga-5226855/spielbericht",
+   "title": "Maza verzückt, Schick stellt Rekord auf: Bayer gewinnt Topspiel gegen Freiburg",
+   "link": "https://www.kicker.de/leverkusen-gegen-freiburg-2026-bundesliga-5226855/spielbericht",
+   "source": "kicker",
+   "published": "2026-10-18T15:29:56Z",
+   "teaser": "Bayer 04 Leverkusen hat das Topspiel gegen Freiburg nach Rückstand mit 2:1 gewonnen und stürzte den Sport-Club damit von der Tabellenspitze. In einem stark von den Defensivreihen geprägten Duell sorgte Maza für Staunen, während Schick …",
    "clubs": [
     6,
     112
@@ -58,6 +71,19 @@
    "id": "https://www.kicker.de/live-mohya-beim-krisentreffen-in-der-startelf-tsg-mit-prass-1261692/artikel",
    "title": "LIVE! Mohya beim Krisentreffen in der Startelf - TSG mit Prass",
    "link": "https://www.kicker.de/live-mohya-beim-krisentreffen-in-der-startelf-tsg-mit-prass-1261692/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T14:35:42Z",
+   "teaser": "Letzter gegen Vorletzter oder Gladbach gegen Hoffenheim: Wer schafft beim Aufeinandertreffen der beiden Kellerkinder die Trendwende?",
+   "clubs": [
+    175,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-prass-findet-conte-tsg-bestraft-vergebene-borussia-chance-1261692/artikel",
+   "title": "LIVE! Prass findet Conté: TSG bestraft vergebene Borussia-Chance",
+   "link": "https://www.kicker.de/live-prass-findet-conte-tsg-bestraft-vergebene-borussia-chance-1261692/artikel",
    "source": "kicker",
    "published": "2026-10-18T14:35:42Z",
    "teaser": "Letzter gegen Vorletzter oder Gladbach gegen Hoffenheim: Wer schafft beim Aufeinandertreffen der beiden Kellerkinder die Trendwende?",
@@ -2558,31 +2584,6 @@
    "teaser": "Am Sonntagnachmittag steigt in Köln das 101. Rheinderby der Bundesliga-Geschichte. Die Gladbacher wollen beim Debüt ihres neuen Trainers Alexander Blessin endlich die ersten Punkte holen. Auch beim FC ist der Druck groß.",
    "clubs": [
     87,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-zu-gast-bei-unbesiegten-freiburgern-vier-wechsel-bei-schalke-1259182/artikel",
-   "title": "LIVE! Zu Gast bei unbesiegten Freiburgern: Vier Wechsel bei Schalke",
-   "link": "https://www.kicker.de/live-zu-gast-bei-unbesiegten-freiburgern-vier-wechsel-bei-schalke-1259182/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T15:00:44Z",
-   "teaser": "Zum Abschluss des 5. Bundesliga-Spieltags trifft Freiburg auf Schalke. Beide Klubs präsentierten sich vor der langen Länderspielpause formstark und möchten ihre Serien weiter ausbauen.",
-   "clubs": [
-    112,
-    9
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/sorgen-um-skhiri-auswechslung-und-untersuchung-in-klinik-1260219/artikel",
-   "title": "Sorgen um Skhiri: Auswechslung und Untersuchung in Klinik",
-   "link": "https://www.kicker.de/sorgen-um-skhiri-auswechslung-und-untersuchung-in-klinik-1260219/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T14:56:20Z",
-   "teaser": "Der 1. FC Köln sorgt sich um Ellyes Skhiri. Im Rheinderby war er nach einem Foul heftig umgeknickt und musste vom Feld getragen werden.",
-   "clubs": [
     65
    ],
    "transfer": false
