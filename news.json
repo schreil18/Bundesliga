@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T13:59:01Z",
+ "updated": "2026-10-18T14:29:16Z",
  "sources": [
   {
    "name": "kicker",
@@ -17,11 +17,11 @@
  "items": [
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194212/bayer-leverkusen_sc-freiburg/liveticker",
-   "title": "Jetzt live - Leverkusen erzielt schnellen Ausgleich gegen Freiburg",
+   "title": "Jetzt live - Ausgeglichenes Spiel zwischen Leverkusen und Freiburg",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194212/bayer-leverkusen_sc-freiburg/liveticker",
    "source": "Sportschau",
-   "published": "2026-10-18T13:53:24Z",
-   "teaser": "Der SC Freiburg ist bei Bayer Leverkusen früh in Führung gegangen, musste dann aber schnell den Ausgleich hinnehmen.",
+   "published": "2026-10-18T14:13:00Z",
+   "teaser": "Der SC Freiburg war bei Bayer Leverkusen früh in Führung gegangen, musste dann aber schnell den Ausgleich hinnehmen. Danach zeigten sich die Defensivreihen stabil.",
    "clubs": [
     6,
     112
@@ -100,6 +100,19 @@
    "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
    "clubs": [],
    "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-keine-punkte-keine-leistung-schalke-macht-sich-sorgen-100.html",
+   "title": "Keine Punkte, keine Leistung - Schalke macht sich Sorgen",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-keine-punkte-keine-leistung-schalke-macht-sich-sorgen-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T10:44:03Z",
+   "teaser": "Der FC Schalke 04 zeigt gegen Mainz 05 die schwächste Saisonleistung. Die Alarmglocken schrillen bei allen Beteiligten.",
+   "clubs": [
+    81,
+    9
+   ],
+   "transfer": false
   },
   {
    "id": "https://www.kicker.de/schick-ist-erst-der-elfte-diese-spieler-trafen-an-den-ersten-fuenf-spieltagen-1260404/slideshow",
@@ -2572,19 +2585,6 @@
    "clubs": [
     87,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
-   "title": "Muheims Traumtor gegen Hoffenheim lässt Hamburg eskalieren",
-   "link": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T12:04:34Z",
-   "teaser": "Mehrere zurückgenommene Treffer, ein Platzverweis, eine Verletzung und ein spätes Traumtor zum Sieg - die Partie zwischen Hoffenheim und Hamburg hatte wirklich alles.",
-   "clubs": [
-    175,
-    100
    ],
    "transfer": false
   }
