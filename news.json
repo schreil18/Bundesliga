@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T16:30:23Z",
+ "updated": "2026-10-18T16:59:48Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,69 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/live-prass-kontert-mohya-nicolas-pariert-gegen-hlozek-1261692/artikel",
+   "title": "LIVE! Prass kontert Mohya - Nicolas pariert gegen Hlozek",
+   "link": "https://www.kicker.de/live-prass-kontert-mohya-nicolas-pariert-gegen-hlozek-1261692/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T16:53:32Z",
+   "teaser": "Letzter gegen Vorletzter oder Gladbach gegen Hoffenheim: Wer schafft beim Aufeinandertreffen der beiden Kellerkinder die Trendwende?",
+   "clubs": [
+    175,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-paukenschlag-bei-eintracht-frankfurt-sportvorstand-markus-kroesche-freigestellt-100.html",
+   "title": "Sportvorstand Markus Krösche in Frankfurt freigestellt",
+   "link": "https://www.sportschau.de/regional/hr/hr-paukenschlag-bei-eintracht-frankfurt-sportvorstand-markus-kroesche-freigestellt-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T16:50:58Z",
+   "teaser": "Die Zeit von Markus Krösche bei Eintracht Frankfurt ist vorbei. Der Sportvorstand verlässt die Hessen auf eigenen Wunsch - und mit sofortiger Wirkung.",
+   "clubs": [
+    91
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/bestes-erkenntnis-wir-waren-zu-gierig-1262707/artikel",
+   "title": "Bestes Erkenntnis: \"Wir waren zu gierig\"",
+   "link": "https://www.kicker.de/bestes-erkenntnis-wir-waren-zu-gierig-1262707/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T16:50:11Z",
+   "teaser": "Fußball ist bekanntlich ein Fehlerspiel - und zwei Fehler kamen den SC Freiburg in Leverkusen teuer zu stehen. Der Ärger war nach Abpfiff entsprechend groß.",
+   "clubs": [
+    6,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194245/borussia-moenchengladbach_tsg-hoffenheim/liveticker",
+   "title": "Jetzt live - Hoffenheim kontert sich in Gladbach zur erneuten Führung",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194245/borussia-moenchengladbach_tsg-hoffenheim/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-18T16:45:50Z",
+   "teaser": "Borussia Mönchengladbach durfte sich nur wenige Minuten über den Ausgleich freuen. Dann konterte Hoffenheim zweimal - und traf einmal.",
+   "clubs": [
+    175,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/eintracht-frankfurt-stellt-sportvorstand-kroesche-frei-1262686/artikel",
+   "title": "Eintracht Frankfurt stellt Sportvorstand Krösche frei",
+   "link": "https://www.kicker.de/eintracht-frankfurt-stellt-sportvorstand-kroesche-frei-1262686/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T16:35:04Z",
+   "teaser": "Paukenschlag am Sonntagabend: Eintracht Frankfurt hat Sportvorstand Markus Krösche mit sofortiger Wirkung freigestellt. Der bisherige Vorstandssprecher Axel Hellmann wird Vorstandsvorsitzender und übernimmt zudem Krösches Aufgabe …",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/ibrahim-maza-ueberragt-bei-leverkusens-sieg-gegen-freiburg,spielbericht-bayer-leverkusen-sc-freiburg-108.html",
    "title": "Ibrahim Maza überragt bei Leverkusens Sieg gegen Freiburg",
    "link": "https://www.sportschau.de/fussball/bundesliga/ibrahim-maza-ueberragt-bei-leverkusens-sieg-gegen-freiburg,spielbericht-bayer-leverkusen-sc-freiburg-108.html",
@@ -25,19 +88,6 @@
    "clubs": [
     6,
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194245/borussia-moenchengladbach_tsg-hoffenheim/liveticker",
-   "title": "Jetzt live - Hoffenheim führt und dominiert gegen Gladbach",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194245/borussia-moenchengladbach_tsg-hoffenheim/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-18T16:15:03Z",
-   "teaser": "Nach fünf Niederlagen in Folge braucht Borussia Mönchengladbach gegen die TSG Hoffenheim dringend einen Sieg - doch die Gäste sind das bessere Team.",
-   "clubs": [
-    175,
-    87
    ],
    "transfer": false
   },
@@ -2531,57 +2581,6 @@
    "source": "kicker",
    "published": "2026-10-11T15:41:25Z",
    "teaser": "Zum Abschluss des 5. Bundesliga-Spieltags trifft Freiburg auf Schalke. Beide Klubs präsentierten sich vor der langen Länderspielpause formstark und möchten ihre Serien weiter ausbauen.",
-   "clubs": [
-    112,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-wieder-nach-einer-ecke-schalke-gleicht-aus-1259182/artikel",
-   "title": "LIVE! Wieder nach einer Ecke: Schalke gleicht aus",
-   "link": "https://www.kicker.de/live-wieder-nach-einer-ecke-schalke-gleicht-aus-1259182/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T15:41:25Z",
-   "teaser": "Zum Abschluss des 5. Bundesliga-Spieltags trifft Freiburg auf Schalke. Beide Klubs präsentierten sich vor der langen Länderspielpause formstark und möchten ihre Serien weiter ausbauen.",
-   "clubs": [
-    112,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-vorerst-keine-wechsel-schalke-haelt-gut-dagegen-1259182/artikel",
-   "title": "LIVE! Vorerst keine Wechsel - Schalke hält gut dagegen",
-   "link": "https://www.kicker.de/live-vorerst-keine-wechsel-schalke-haelt-gut-dagegen-1259182/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T15:41:25Z",
-   "teaser": "Zum Abschluss des 5. Bundesliga-Spieltags trifft Freiburg auf Schalke. Beide Klubs präsentierten sich vor der langen Länderspielpause formstark und möchten ihre Serien weiter ausbauen.",
-   "clubs": [
-    112,
-    9
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/erleichterung-im-fall-von-stuttgarts-abwehr-jeff-chabot-1260170/artikel",
-   "title": "Erleichterung im Fall von Stuttgarts \"Abwehr-Jeff\" Chabot",
-   "link": "https://www.kicker.de/erleichterung-im-fall-von-stuttgarts-abwehr-jeff-chabot-1260170/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T15:35:51Z",
-   "teaser": "Die Sorge eines Ausfalls war groß, die Erleichterung nicht kleiner. Stuttgart kann in Bratislava mit seinem \"Abwehr-Jeff\" rechnen.",
-   "clubs": [
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/sc-freiburg-gegen-fc-schalke-04,audiostream-sc-freiburg-gegen-fc-schalke-04-102.html",
-   "title": "Live hören: SC Freiburg gegen FC Schalke 04 - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/sc-freiburg-gegen-fc-schalke-04,audiostream-sc-freiburg-gegen-fc-schalke-04-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T15:15:00Z",
-   "teaser": "5. Spieltag: Anpfiff des Spiels ist am 11.10.2026 um 17:30 Uhr. FC Schalke 04 spielt in Freiburg.",
    "clubs": [
     112,
     9
