@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T07:59:33Z",
+ "updated": "2026-10-18T08:31:02Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/rbb/rbb-nach-00-gegen-bvb-oldschool-union-ist-zurueck-100.html",
+   "title": "Oldschool-Union ist zurück",
+   "link": "https://www.sportschau.de/regional/rbb/rbb-nach-00-gegen-bvb-oldschool-union-ist-zurueck-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T08:17:46Z",
+   "teaser": "Ein torloses Remis, das wie eine weitere Annäherung zwischen Team und Trainer wirkt. Union verteidigt leidenschaftlich gegen den BVB, wie zu alten Zeiten. Von den Defensivproblemen zum Saisonstart keine Spur.",
+   "clubs": [
+    7,
+    80
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/kanes-sonderrolle-wie-bayern-leipzig-demontierte-1262466/artikel",
    "title": "Kanes Sonderrolle: Wie Bayern Leipzig demontierte",
@@ -158,19 +171,6 @@
    "teaser": "Am Samstag absolvierte Harry Kane sein 100. Bundesligaspiel für den FC Bayern. Kein anderer Akteur erzielte in diesem Zeitraum mehr Tore in der Bundesliga.",
    "clubs": [
     40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/rbb/rbb-nach-00-gegen-bvb-oldschool-union-ist-zurueck-100.html",
-   "title": "Oldschool-Union ist zurück",
-   "link": "https://www.sportschau.de/regional/rbb/rbb-nach-00-gegen-bvb-oldschool-union-ist-zurueck-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T18:47:51Z",
-   "teaser": "Ein torloses Remis, das wie eine weitere Annäherung zwischen Team und Trainer wirkt. Union verteidigt leidenschaftlich gegen den BVB, wie zu alten Zeiten. Von den Defensivproblemen zum Saisonstart keine Spur.",
-   "clubs": [
-    7,
-    80
    ],
    "transfer": false
   },
