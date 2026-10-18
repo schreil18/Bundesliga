@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T09:29:48Z",
+ "updated": "2026-10-18T09:59:07Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/schick-ist-erst-der-elfte-diese-spieler-trafen-an-den-ersten-fuenf-spieltagen-1260404/slideshow",
+   "title": "Schick ist erst der Elfte: Diese Spieler trafen an den ersten fünf Spieltagen",
+   "link": "https://www.kicker.de/schick-ist-erst-der-elfte-diese-spieler-trafen-an-den-ersten-fuenf-spieltagen-1260404/slideshow",
+   "source": "kicker",
+   "published": "2026-10-18T09:31:25Z",
+   "teaser": "Patrik Schick hat an jedem der ersten fünf Spieltage getroffen - das ist vor ihm nur zehn anderen Bundesliga-Spielern gelungen. Wem genau? Und welches Duo verlängerte die Serie noch weiter?",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/collins-gibt-raetsel-auf-baut-huetter-die-eintracht-abwehr-erneut-um-1262497/artikel",
    "title": "Collins gibt Rätsel auf: Baut Hütter die Eintracht-Abwehr erneut um?",
@@ -172,19 +182,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/regional/swr/swr-wolke-sieben-nein-danke-mainz-liebling-tietz-bleibt-lieber-am-boden-100.html",
-   "title": "Wolke sieben? Nein, danke! Mainz-Liebling Tietz bleibt lieber am Boden",
-   "link": "https://www.sportschau.de/regional/swr/swr-wolke-sieben-nein-danke-mainz-liebling-tietz-bleibt-lieber-am-boden-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T19:13:25Z",
-   "teaser": "Fünftes Tor im sechsten Spiel und Kneipen-Kult in Mainz: Stürmer Phillip Tietz schießt den FSV zum Sieg auf Schalke. Doch trotz Traumstart hebt beim Tabellenfünften niemand ab.",
-   "clubs": [
-    81,
-    9
-   ],
-   "transfer": false
-  },
-  {
    "id": "https://www.kicker.de/saison-geht-jetzt-erst-richtig-los-luis-diaz-glaenzt-gegen-ueberfordertes-rb-1262410/video",
    "title": "\"Saison geht jetzt erst richtig los\": Luis Diaz glänzt gegen überfordertes RB",
    "link": "https://www.kicker.de/saison-geht-jetzt-erst-richtig-los-luis-diaz-glaenzt-gegen-ueberfordertes-rb-1262410/video",
@@ -194,6 +191,19 @@
    "clubs": [
     40,
     1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/swr/swr-wolke-sieben-nein-danke-mainz-liebling-tietz-bleibt-lieber-am-boden-100.html",
+   "title": "Wolke sieben? Nein, danke! Mainz-Liebling Tietz bleibt lieber am Boden",
+   "link": "https://www.sportschau.de/regional/swr/swr-wolke-sieben-nein-danke-mainz-liebling-tietz-bleibt-lieber-am-boden-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-17T18:54:47Z",
+   "teaser": "Fünftes Tor im sechsten Spiel und Kneipen-Kult in Mainz: Stürmer Phillip Tietz schießt den FSV zum Sieg auf Schalke. Doch trotz Traumstart hebt beim Tabellenfünften niemand ab.",
+   "clubs": [
+    81,
+    9
    ],
    "transfer": false
   },
@@ -2570,19 +2580,6 @@
    "id": "https://www.kicker.de/neuer-oder-urbig-wer-darf-in-stavager-ran-1260109/artikel",
    "title": "Neuer oder Urbig: Wer darf in Stavager ran?",
    "link": "https://www.kicker.de/neuer-oder-urbig-wer-darf-in-stavager-ran-1260109/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T10:00:45Z",
-   "teaser": "Jonas Urbig soll auch in der Phase bis zur nächsten Länderspielpause mindestens zwei Einsätze beim FC Bayern bekommen. Ausgerechnet Manuel Neuers Patzer in Augsburg könnte den Ursprungsplan nun verändert werden.",
-   "clubs": [
-    40,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/neuer-oder-urbig-wer-darf-in-stavanger-ran-1260109/artikel",
-   "title": "Neuer oder Urbig: Wer darf in Stavanger ran?",
-   "link": "https://www.kicker.de/neuer-oder-urbig-wer-darf-in-stavanger-ran-1260109/artikel",
    "source": "kicker",
    "published": "2026-10-11T10:00:45Z",
    "teaser": "Jonas Urbig soll auch in der Phase bis zur nächsten Länderspielpause mindestens zwei Einsätze beim FC Bayern bekommen. Ausgerechnet Manuel Neuers Patzer in Augsburg könnte den Ursprungsplan nun verändert werden.",
