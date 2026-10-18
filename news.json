@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T19:01:15Z",
+ "updated": "2026-10-18T19:26:46Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/aus-der-zweiten-reihe-in-den-mittelpunkt-prass-reisst-die-tsg-kollegen-mit-1262772/artikel",
+   "title": "Aus der zweiten Reihe in den Mittelpunkt: Prass reißt die TSG-Kollegen mit",
+   "link": "https://www.kicker.de/aus-der-zweiten-reihe-in-den-mittelpunkt-prass-reisst-die-tsg-kollegen-mit-1262772/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T19:01:02Z",
+   "teaser": "Ausgerechnet Alexander Prass, der lange in der zweiten Reihe geschmort hat, beendet in Gladbach mit einem Tor, einer Vorlage und als Aggressiv-Leader die Hoffenheimer Niederlagenserie.",
+   "clubs": [
+    175,
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/blessin-wird-deutlich-wir-brauchen-keine-duckmaeuser-1262792/artikel",
    "title": "Blessin wird deutlich: \"Wir brauchen keine Duckmäuser\"",
@@ -83,7 +96,7 @@
    "link": "https://www.kicker.de/naechster-langer-ausfall-auch-de-cat-fehlt-hoffenheim-1262717/artikel",
    "source": "kicker",
    "published": "2026-10-18T17:40:07Z",
-   "teaser": "Die TSG Hoffenheim wird voraussichtlich länger auf Nathan De Cat verzichten müssen. Das belgische Toptalent muss wahrscheinlich sogar operiert werden.",
+   "teaser": "Die TSG Hoffenheim wird voraussichtlich länger auf Nathan De Cat verzichten müssen. Das belgische Top-Talent muss sogar operiert werden.",
    "clubs": [
     175
    ],
@@ -2566,18 +2579,6 @@
    "clubs": [
     87,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/diskriminierungsvorwuerfe-haertel-legt-amt-als-u-19-trainer-bei-union-berlin-nieder-1260290/artikel",
-   "title": "Diskriminierungsvorwürfe: Härtel legt Amt als U-19-Trainer bei Union Berlin nieder",
-   "link": "https://www.kicker.de/diskriminierungsvorwuerfe-haertel-legt-amt-als-u-19-trainer-bei-union-berlin-nieder-1260290/artikel",
-   "source": "kicker",
-   "published": "2026-10-11T17:53:16Z",
-   "teaser": "Jens Härtel ist nach nur knapp fünf Monaten als Trainer der U 19 des 1. FC Union Berlin zurückgetreten. Grund dafür sind schwere Vorwürfe gegen den Coach.",
-   "clubs": [
-    80
    ],
    "transfer": false
   }
