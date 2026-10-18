@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T17:55:42Z",
+ "updated": "2026-10-18T18:32:18Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
+   "title": "Hoffenheim befeuert Borussia Mönchengladbachs Abstiegsangst",
+   "link": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T18:24:26Z",
+   "teaser": "Sechster Spieltag, sechste Niederlage: Im Duell der Bundesliga-Schlusslichter hat die TSG Hoffenheim dafür gesorgt, dass Borussia Mönchengladbach weiter punktlos bleibt.",
+   "clubs": [
+    175,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/zocken-im-kaefig-maza-erklaert-zauber-assist-schick-nimmt-ein-duo-ins-visier-1262757/artikel",
+   "title": "\"Zocken im Käfig\": Maza erklärt Zauber-Assist, Schick nimmt ein Duo ins Visier",
+   "link": "https://www.kicker.de/zocken-im-kaefig-maza-erklaert-zauber-assist-schick-nimmt-ein-duo-ins-visier-1262757/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T18:21:56Z",
+   "teaser": "Beim 2:1 gegen Freiburg trifft Ibrahim Maza nicht nur selbst, sondern liefert auch eine traumhafte Vorlage für Rekordtorschütze Patrik Schick. Wie der Spielmacher des Werksklubs die Szene erklärt - und wer nun noch vor Leverkusens …",
+   "clubs": [
+    6,
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wie-findest-du-die-trennung-von-frankfurt-und-kroesche-1262755/artikel",
    "title": "Wie findest du die Trennung von Frankfurt und Krösche?",
@@ -36,19 +62,6 @@
    "teaser": "Die TSG Hoffenheim wird voraussichtlich länger auf Nathan De Cat verzichten müssen. Das belgische Toptalent muss wahrscheinlich sogar operiert werden.",
    "clubs": [
     175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
-   "title": "Hoffenheim befeuert Mönchengladbachs Abstiegsangst",
-   "link": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T17:23:52Z",
-   "teaser": "Sechster Spieltag, sechste Niederlage: Im Duell der Bundesliga-Schlusslichter hat die TSG Hoffenheim dafür gesorgt, dass Borussia Mönchengladbach weiter punktlos bleibt.",
-   "clubs": [
-    175,
-    87
    ],
    "transfer": false
   },
@@ -2567,19 +2580,6 @@
    "teaser": "Die Borussia verliert das erste Spiel unter der Regie des neuen Cheftrainers Alexander Blessin. Bei der 1:2-Niederlage im Derby brachte eine spielentscheidende Szene den Coach auf die Palme.",
    "clubs": [
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fette-drei-punkte-el-mala-regelt-das-101-rheinderby-1260298/video",
-   "title": "\"Fette drei Punkte\": El Mala regelt das 101. Rheinderby",
-   "link": "https://www.kicker.de/fette-drei-punkte-el-mala-regelt-das-101-rheinderby-1260298/video",
-   "source": "kicker",
-   "published": "2026-10-11T17:34:26Z",
-   "teaser": "Mit 2:1 gewinnt der 1. FC Köln das Rheinderby gegen Gladbach - Said El Mala bescherte Köln am Ende den Derbysieg und die \"fetten drei Punkte\", wie kicker-Reporter Jim Decker berichtet.",
-   "clubs": [
-    87,
-    65
    ],
    "transfer": false
   }
