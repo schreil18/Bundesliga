@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T10:29:04Z",
+ "updated": "2026-10-18T10:57:54Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Düsseldorf schasst Ende - Rebbe stärkt KSV-Coach Walter - Kübler bleibt in Freiburg",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-10-18T10:48:33Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [
+    112
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/schick-ist-erst-der-elfte-diese-spieler-trafen-an-den-ersten-fuenf-spieltagen-1260404/slideshow",
    "title": "Schick ist erst der Elfte: Diese Spieler trafen an den ersten fünf Spieltagen",
@@ -1053,18 +1065,6 @@
    "teaser": "Warum funktioniert in NRW nicht, was anderswo erfolgreich ist? Fanprojekte und Kommunen fühlen sich übergangen. Ist das Projekt bereits gescheitert?",
    "clubs": [],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Kübler bleibt in Freiburg - Bellingham soll vorzeitig verlängern",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T14:50:45Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [
-    112
-   ],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/bei-seiner-rueckkehr-nach-muenchen-demichelis-will-die-flucht-nach-vorn-suchen-1261942/artikel",
