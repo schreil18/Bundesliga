@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T18:39:23Z",
+ "updated": "2026-10-19T19:35:53Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/ablaufdatum-2035-hellmann-forciert-die-stadionplaene-in-frankfurt-1263076/artikel",
+   "title": "Ablaufdatum 2035: Hellmann forciert die Stadionpläne in Frankfurt",
+   "link": "https://www.kicker.de/ablaufdatum-2035-hellmann-forciert-die-stadionplaene-in-frankfurt-1263076/artikel",
+   "source": "kicker",
+   "published": "2026-10-19T18:38:29Z",
+   "teaser": "Die 2005 eröffnete Arena im Frankfurter Stadtwald geht laut Eintracht-Vorstand Axel Hellmann auf ihre finale Dekade zu. Hinzukommt die häufig lange Anlaufzeit großer Infrastrukturprojekte in Deutschland. Der Klubchef forciert daher die …",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/donnernder-applaus-der-mitglieder-kroesche-emotional-wie-nie-1263053/artikel",
    "title": "Donnernder Applaus der Mitglieder - Krösche emotional wie nie",
@@ -2557,19 +2569,6 @@
    "teaser": "In einem anonymen Schreiben wird Union-Nachwuchstrainer Jens Härtel Diskriminierung vorgeworfen. Der Coach legt sein Amt nieder. Auch das Sportgericht des DFB reagiert.",
    "clubs": [
     80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hsv-deshalb-bleibt-muheims-perspektive-schwierig-1260561/artikel",
-   "title": "HSV: Deshalb bleibt Muheims Perspektive schwierig",
-   "link": "https://www.kicker.de/hsv-deshalb-bleibt-muheims-perspektive-schwierig-1260561/artikel",
-   "source": "kicker",
-   "published": "2026-10-12T16:49:50Z",
-   "teaser": "In Hoffenheim gehörte Miro Muheim erstmals in dieser Spielzeit zum HSV-Kader und hatte als Joker direkt entscheidenden Anteil am 3:2-Sieg. Die Perspektive des Schweizers verändert sich dadurch jedoch zumindest nicht zwangsläufig.",
-   "clubs": [
-    175,
-    100
    ],
    "transfer": false
   }
