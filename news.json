@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T13:21:13Z",
+ "updated": "2026-10-19T14:17:38Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,9 +16,34 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/neuer-lack-oder-ein-pfeifkonzert-mainz-sucht-das-auswaertsgefuehl-1262513/artikel",
+   "title": "Neuer Lack oder ein Pfeifkonzert? Mainz sucht das Auswärtsgefühl",
+   "link": "https://www.kicker.de/neuer-lack-oder-ein-pfeifkonzert-mainz-sucht-das-auswaertsgefuehl-1262513/artikel",
+   "source": "kicker",
+   "published": "2026-10-19T14:03:44Z",
+   "teaser": "Der dritte Sieg im dritten Auswärtsspiel setzt die Mainzer Serie und zugleich das Rätsel fort, warum es im eigenen Stadion nicht klappen will. Womöglich hilft der Griff in die mentale Trickkiste.",
+   "clubs": [
+    81
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/matthaeus-ueber-olise-lasst-ihn-so-wie-er-ist-1262985/artikel",
    "title": "Matthäus über Olise: \"Lasst ihn so, wie er ist!\"",
    "link": "https://www.kicker.de/matthaeus-ueber-olise-lasst-ihn-so-wie-er-ist-1262985/artikel",
+   "source": "kicker",
+   "published": "2026-10-19T12:03:48Z",
+   "teaser": "Lothar Matthäus erfreut sich am FC Bayern und leidet mit Borussia Mönchengladbach. Der Rekordnationalspieler über die Tendenzen in der Bundesliga - und beim Ballon d'Or.",
+   "clubs": [
+    40,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/matthaeus-was-ihm-bei-olise-auffiel-und-er-in-gladbach-vermisst-1262985/artikel",
+   "title": "Matthäus: Was ihm bei Olise auffiel und er in Gladbach vermisst",
+   "link": "https://www.kicker.de/matthaeus-was-ihm-bei-olise-auffiel-und-er-in-gladbach-vermisst-1262985/artikel",
    "source": "kicker",
    "published": "2026-10-19T12:03:48Z",
    "teaser": "Lothar Matthäus erfreut sich am FC Bayern und leidet mit Borussia Mönchengladbach. Der Rekordnationalspieler über die Tendenzen in der Bundesliga - und beim Ballon d'Or.",
@@ -2546,31 +2571,6 @@
    "teaser": "Schon fünf Punkte nach Rückstand, damit ist der SV Werder Bremen bislang führend in der Bundesliga - genauso wie bei Toren in den Schlussminuten. Über Gründe und Begleiterscheinungen.",
    "clubs": [
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-bremer-bieger-warum-ist-werder-nach-rueckstaenden-so-stark-1260552/artikel",
-   "title": "Die Bremer Bieger: Warum ist Werder nach Rückständen so stark?",
-   "link": "https://www.kicker.de/die-bremer-bieger-warum-ist-werder-nach-rueckstaenden-so-stark-1260552/artikel",
-   "source": "kicker",
-   "published": "2026-10-12T11:14:56Z",
-   "teaser": "Schon fünf Punkte nach Rückstand, damit ist der SV Werder Bremen bislang führend in der Bundesliga - genauso wie bei Toren in den Schlussminuten. Über Gründe und Begleiterscheinungen.",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/werden-eine-entwicklung-nehmen-sanders-glaube-an-die-wende-in-gladbach-1260493/artikel",
-   "title": "\"Werden eine Entwicklung nehmen\": Sanders Glaube an die Wende in Gladbach",
-   "link": "https://www.kicker.de/werden-eine-entwicklung-nehmen-sanders-glaube-an-die-wende-in-gladbach-1260493/artikel",
-   "source": "kicker",
-   "published": "2026-10-12T11:11:30Z",
-   "teaser": "Die Borussen müssen die Enttäuschung über die 1:2-Niederlage in Köln wegstecken. Mittelfeldspieler Philipp Sander nimmt aus dem Derby aber auch positive Erkenntnisse mit.",
-   "clubs": [
-    87,
-    65
    ],
    "transfer": false
   }
