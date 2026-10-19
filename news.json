@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T16:41:25Z",
+ "updated": "2026-10-19T17:33:11Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/gouweleeuw-zieht-beim-fca-gleich-die-bundesliga-rekordspieler-der-18-erstligisten-1009243/slideshow",
+   "title": "Gouweleeuw zieht beim FCA gleich: Die Bundesliga-Rekordspieler der 18 Erstligisten",
+   "link": "https://www.kicker.de/gouweleeuw-zieht-beim-fca-gleich-die-bundesliga-rekordspieler-der-18-erstligisten-1009243/slideshow",
+   "source": "kicker",
+   "published": "2026-10-19T17:03:01Z",
+   "teaser": "Der FC Augsburg hat seit dem Wochenende zwei Bundesliga-Rekordspieler. Aber wer hat bei den anderen 17 Bundesligisten die Nase vorn? Ein Überblick.",
+   "clubs": [
+    95
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/gladbacher-fanverband-fordert-ruecktritt-des-borussia-praesidiums-1263058/artikel",
    "title": "Gladbacher Fanverband fordert Rücktritt des Borussia-Präsidiums",
@@ -2558,18 +2570,6 @@
    "teaser": "In der zweiten Hälfte des Derbys zwischen dem 1. FC Köln und Borussia Mönchengladbach geraten Anhänger beider Fanlager aneinander. Sechs Menschen werden dabei laut Polizei verletzt - unter anderem ein Kind.",
    "clubs": [
     87,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-folgen-des-skhiri-ausfalls-fuer-koelns-mittelfeld-1260539/artikel",
-   "title": "Die Folgen des Skhiri-Ausfalls für Kölns Mittelfeld",
-   "link": "https://www.kicker.de/die-folgen-des-skhiri-ausfalls-fuer-koelns-mittelfeld-1260539/artikel",
-   "source": "kicker",
-   "published": "2026-10-12T12:49:44Z",
-   "teaser": "Zwischen all der Derbysieger-Feierlichkeiten dachten die Spieler und Verantwortlichen des 1. FC Köln am Sonntag auch an den verletzten Ellyes Skhiri. Die Säule im FC-Mittelfeld wird lange fehlen, besonders ein Duo ist nun gefordert.",
-   "clubs": [
     65
    ],
    "transfer": false
