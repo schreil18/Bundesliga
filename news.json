@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T06:06:22Z",
+ "updated": "2026-10-19T06:50:01Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,19 @@
  ],
  "items": [
   {
+   "id": "https://www.sportschau.de/regional/br/br-nach-wochen-voller-frust-die-erloesung-des-luis-daz-102.html",
+   "title": "Die Erlösung des Luis Díaz",
+   "link": "https://www.sportschau.de/regional/br/br-nach-wochen-voller-frust-die-erloesung-des-luis-daz-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-19T06:48:29Z",
+   "teaser": "Wochenlang fehlten Luis Díaz Zentimeter, Glück oder Timing. Gegen RB Leipzig platzte beim Offensivspieler endlich der Knoten. Beim 6:1 gegen RB Leipzig glänzte Luis Díaz als Offensivmotor des FC Bayern.",
+   "clubs": [
+    40,
+    1635
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/noll-festspiele-die-alleingaenge-des-besonderen-rundumpakets-1262588/artikel",
    "title": "Noll-Festspiele: Die Alleingänge des \"besonderen Rundumpakets\"",
    "link": "https://www.kicker.de/noll-festspiele-die-alleingaenge-des-besonderen-rundumpakets-1262588/artikel",
@@ -26,6 +39,18 @@
     134
    ],
    "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-kommentar-zum-bosse-beben-bei-eintracht-frankfurt-kroesche-trennung-war-noetig-100.html",
+   "title": "Kommentar: Die Trennung von Eintracht Frankfurt und Markus Krösche war nötig",
+   "link": "https://www.sportschau.de/regional/hr/hr-kommentar-zum-bosse-beben-bei-eintracht-frankfurt-kroesche-trennung-war-noetig-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-19T05:52:27Z",
+   "teaser": "Dass die Zeit von Markus Krösche als Sportvorstand von Eintracht Frankfurt endet, ist schade. Der Manager hat zweifelsohne viele Verdienste. Richtig aber ist die Entscheidung dennoch - aus mehreren Gründen.",
+   "clubs": [
+    91
+   ],
+   "transfer": true
   },
   {
    "id": "https://www.kicker.de/nach-tennisball-protest-schuster-kritisiert-freiburger-fans-1262870/artikel",
@@ -593,19 +618,6 @@
    "published": "2026-10-18T09:17:49Z",
    "teaser": "Nnamdi Collins sucht nach zwei längeren Verletzungspausen weiter seine Form. In der zuletzt gezeigten Verfassung stellt er ein Sicherheitsrisiko dar. Kann er sich stabilisieren? Oder baut Trainer Adi Hütter die Abwehr erneut um?",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-nach-wochen-voller-frust-die-erloesung-des-luis-daz-102.html",
-   "title": "Die Erlösung des Luis Díaz",
-   "link": "https://www.sportschau.de/regional/br/br-nach-wochen-voller-frust-die-erloesung-des-luis-daz-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T08:45:24Z",
-   "teaser": "Wochenlang fehlten Luis Díaz Zentimeter, Glück oder Timing. Gegen RB Leipzig platzte beim Offensivspieler endlich der Knoten. Beim 6:1 gegen RB Leipzig glänzte Luis Díaz als Offensivmotor des FC Bayern.",
-   "clubs": [
-    40,
-    1635
-   ],
    "transfer": false
   },
   {
@@ -2567,19 +2579,6 @@
    "clubs": [
     87,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/dreifacher-nkunku-ueberragt-bei-leipziger-kantersieg,video-bundesliga-rb-leipzig-eintracht-frankfurt-108.html",
-   "title": "Bundesliga: Dreifacher Nkunku überragt bei Leipziger Kantersieg",
-   "link": "https://www.sportschau.de/fussball/bundesliga/dreifacher-nkunku-ueberragt-bei-leipziger-kantersieg,video-bundesliga-rb-leipzig-eintracht-frankfurt-108.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T22:00:13Z",
-   "teaser": "Eintracht Frankfurt liegt in Leipzig bereits zur Pause mit 0:4 hinten und kassiert am Ende ein halbes Dutzend Gegentore. RB überzeugt auf ganzer Linie und verschärft die SGE-Krise.",
-   "clubs": [
-    1635,
-    91
    ],
    "transfer": false
   }
