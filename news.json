@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T16:06:33Z",
+ "updated": "2026-10-19T16:41:25Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/gladbacher-fanverband-fordert-ruecktritt-des-borussia-praesidiums-1263058/artikel",
+   "title": "Gladbacher Fanverband fordert Rücktritt des Borussia-Präsidiums",
+   "link": "https://www.kicker.de/gladbacher-fanverband-fordert-ruecktritt-des-borussia-praesidiums-1263058/artikel",
+   "source": "kicker",
+   "published": "2026-10-19T16:36:59Z",
+   "teaser": "Nach dem historisch schlechten Saisonstart wächst die Kritik an der Vereinsführung von Borussia Mönchengladbach. Der Fan-Dachverband der Borussia hat nun seine Rücktrittsforderung an das Präsidium um Präsident Rainer Bonhof aus dem …",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/neuer-lack-oder-ein-pfeifkonzert-mainz-sucht-das-auswaertsgefuehl-1262513/artikel",
    "title": "Neuer Lack oder ein Pfeifkonzert? Mainz sucht das Auswärtsgefühl",
@@ -2559,18 +2571,6 @@
    "teaser": "Zwischen all der Derbysieger-Feierlichkeiten dachten die Spieler und Verantwortlichen des 1. FC Köln am Sonntag auch an den verletzten Ellyes Skhiri. Die Säule im FC-Mittelfeld wird lange fehlen, besonders ein Duo ist nun gefordert.",
    "clubs": [
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-bremer-bieger-eine-bessere-basis-und-das-bank-geheimnis-1260552/artikel",
-   "title": "Die Bremer Bieger, eine bessere Basis und das Bank-Geheimnis",
-   "link": "https://www.kicker.de/die-bremer-bieger-eine-bessere-basis-und-das-bank-geheimnis-1260552/artikel",
-   "source": "kicker",
-   "published": "2026-10-12T11:14:56Z",
-   "teaser": "Schon fünf Punkte nach Rückstand, damit ist der SV Werder Bremen bislang führend in der Bundesliga - genauso wie bei Toren in den Schlussminuten. Über Gründe und Begleiterscheinungen.",
-   "clubs": [
-    134
    ],
    "transfer": false
   }
