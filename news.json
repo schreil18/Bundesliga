@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T12:08:26Z",
+ "updated": "2026-10-19T13:21:13Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/matthaeus-ueber-olise-lasst-ihn-so-wie-er-ist-1262985/artikel",
+   "title": "Matthäus über Olise: \"Lasst ihn so, wie er ist!\"",
+   "link": "https://www.kicker.de/matthaeus-ueber-olise-lasst-ihn-so-wie-er-ist-1262985/artikel",
+   "source": "kicker",
+   "published": "2026-10-19T12:03:48Z",
+   "teaser": "Lothar Matthäus erfreut sich am FC Bayern und leidet mit Borussia Mönchengladbach. Der Rekordnationalspieler über die Tendenzen in der Bundesliga - und beim Ballon d'Or.",
+   "clubs": [
+    40,
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/ache-steigt-teilintegriert-ins-training-ein-schmied-muss-pausieren-1262978/artikel",
    "title": "Ache steigt teilintegriert ins Training ein - Schmied muss pausieren",
@@ -2558,19 +2571,6 @@
    "clubs": [
     87,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/eberl-fuehlt-mit-gladbach-ich-war-kein-gluecksbringer-1260529/video",
-   "title": "Eberl fühlt mit Gladbach: \"Ich war kein Glücksbringer\"",
-   "link": "https://www.kicker.de/eberl-fuehlt-mit-gladbach-ich-war-kein-gluecksbringer-1260529/video",
-   "source": "kicker",
-   "published": "2026-10-12T09:43:06Z",
-   "teaser": "Max Eberl wurde vor dem Abflug des FC Bayern nach Norwegen auf seinen Ex-Klub Borussia Mönchengladbach angesprochen. Für die Fohlen hofft er, dass sie schnell wieder aus der Krise kommen.",
-   "clubs": [
-    40,
-    87
    ],
    "transfer": false
   }
