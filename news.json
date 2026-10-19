@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T07:50:39Z",
+ "updated": "2026-10-19T08:41:54Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-gladbachs-absturz-auf-rekordniveau-und-kaum-hoffnung-100.html",
+   "title": "Gladbachs Absturz auf Rekordniveau - und kaum Hoffnung",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-gladbachs-absturz-auf-rekordniveau-und-kaum-hoffnung-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-19T08:11:40Z",
+   "teaser": "Borussia Mönchengladbach bleibt trotz eines Trainerwechsels in der Krise. Wenig spricht dafür, dass sich das bald ändert.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/bandverletzung-bvb-muss-erneut-auf-karetsas-verzichten-1262326/artikel",
    "title": "Bandverletzung: BVB muss erneut auf Karetsas verzichten",
@@ -2566,19 +2578,6 @@
    "clubs": [
     40,
     95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/freiburg-dank-goto-am-platz-an-der-sonne,video-bundesliga-sc-freiburg-fc-schalke-04-100.html",
-   "title": "Freiburg dank Goto am Platz an der Sonne",
-   "link": "https://www.sportschau.de/fussball/bundesliga/freiburg-dank-goto-am-platz-an-der-sonne,video-bundesliga-sc-freiburg-fc-schalke-04-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T22:00:23Z",
-   "teaser": "Der SC Freiburg steht nach dem 5. Spieltag an der Tabellenspitze der Bundesliga. Gegen Schalke 04 gelang der Siegtreffer sogar mit einem Mann weniger auf dem Platz.",
-   "clubs": [
-    112,
-    9
    ],
    "transfer": false
   }
