@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T08:41:54Z",
+ "updated": "2026-10-19T09:39:08Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,28 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/mister-omnipraesent-krauss-beisst-sich-in-koelns-mittelfeld-durch-1262893/artikel",
+   "title": "Mister Omnipräsent: Krauß beißt sich in Kölns Mittelfeld durch",
+   "link": "https://www.kicker.de/mister-omnipraesent-krauss-beisst-sich-in-koelns-mittelfeld-durch-1262893/artikel",
+   "source": "kicker",
+   "published": "2026-10-19T08:56:35Z",
+   "teaser": "Tom Krauß spielte schon in England und bei sechs verschiedenen Klubs in Deutschland. Nun ist er beim 1. FC Köln im Mittelfeld unverzichtbar geworden. Wird er im Rheinland endlich glücklich?",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kurz-vor-einer-einigung-mit-milan-eintracht-bekaeme-abloese-fuer-kroesche-1262923/artikel",
+   "title": "Kurz vor einer Einigung mit Milan? Eintracht bekäme Ablöse für Krösche",
+   "link": "https://www.kicker.de/kurz-vor-einer-einigung-mit-milan-eintracht-bekaeme-abloese-fuer-kroesche-1262923/artikel",
+   "source": "kicker",
+   "published": "2026-10-19T08:49:23Z",
+   "teaser": "Markus Krösche steht nach übereinstimmenden italienischen Medienberichten dicht vor einer neuen Aufgabe bei der AC Mailand. Mit einer Einigung wird noch in dieser Woche gerechnet.",
+   "clubs": [],
+   "transfer": true
+  },
   {
    "id": "https://www.sportschau.de/regional/wdr/wdr-gladbachs-absturz-auf-rekordniveau-und-kaum-hoffnung-100.html",
    "title": "Gladbachs Absturz auf Rekordniveau - und kaum Hoffnung",
@@ -2552,32 +2574,6 @@
    "clubs": [
     80,
     198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/leverkusen-behaelt-in-wildem-schlagabtausch-die-oberhand,video-bundesliga-fsv-mainz-05-bayer-04-leverkusen-100.html",
-   "title": "Bundesliga: Leverkusen behält bei Spektakel in Mainz die Oberhand",
-   "link": "https://www.sportschau.de/fussball/bundesliga/leverkusen-behaelt-in-wildem-schlagabtausch-die-oberhand,video-bundesliga-fsv-mainz-05-bayer-04-leverkusen-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T22:00:29Z",
-   "teaser": "Mainz 05 reichen drei eigene Treffer nicht, um etwas Zählbares aus dem Heimspiel gegen Bayer Leverkusen mitzunehmen. Die Werkself holt ihren ersten Bundesliga-Auswärtssieg der Saison.",
-   "clubs": [
-    6,
-    81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/augsburg-nutzt-neuer-patzer-bei-remis-gegen-bayern,video-bundesliga-fc-augsburg-fc-bayern-muenchen-104.html",
-   "title": "Bundesliga: Augsburg nutzt Neuer-Patzer bei Remis gegen Bayern",
-   "link": "https://www.sportschau.de/fussball/bundesliga/augsburg-nutzt-neuer-patzer-bei-remis-gegen-bayern,video-bundesliga-fc-augsburg-fc-bayern-muenchen-104.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T22:00:24Z",
-   "teaser": "Der FC Augsburg und der FC Bayern München trennen sich mit 2:2. Bereits die erste Szene des Spiels sorgte für Spektakel.",
-   "clubs": [
-    40,
-    95
    ],
    "transfer": false
   }
