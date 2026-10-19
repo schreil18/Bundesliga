@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T04:35:42Z",
+ "updated": "2026-10-19T05:13:19Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/nach-tennisball-protest-schuster-kritisiert-freiburger-fans-1262870/artikel",
+   "title": "Nach Tennisball-Protest: Schuster kritisiert Freiburger Fans",
+   "link": "https://www.kicker.de/nach-tennisball-protest-schuster-kritisiert-freiburger-fans-1262870/artikel",
+   "source": "kicker",
+   "published": "2026-10-19T04:51:00Z",
+   "teaser": "Im Topspiel bei Bayer 04 Leverkusen hat der SC Freiburg den Kürzeren gezogen. Julian Schuster musste sich dabei auch noch über das Verhalten der Gästefans ärgern.",
+   "clubs": [
+    6,
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
    "title": "Hoffenheim befeuert Borussia Mönchengladbachs Abstiegsangst",
@@ -2570,19 +2583,6 @@
     31
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/rueckkehrer-fuellkrug-bringt-bvb-zum-schweigen,video-bundesliga-borussia-dortmund-werder-bremen-100.html",
-   "title": "Bundesliga: Rückkehrer Füllkrug bringt BVB zum Schweigen",
-   "link": "https://www.sportschau.de/fussball/bundesliga/rueckkehrer-fuellkrug-bringt-bvb-zum-schweigen,video-bundesliga-borussia-dortmund-werder-bremen-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T22:00:04Z",
-   "teaser": "Dortmund und Bremen trennen sich nach einer spektakulären Schlussphase mit einem Unentschieden. Ausgerechnet Niclas Füllkrug entreißt seinem Ex-Klub den sicher geglaubten Sieg.",
-   "clubs": [
-    7,
-    134
-   ],
-   "transfer": true
   }
  ]
 }
