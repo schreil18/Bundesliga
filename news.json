@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T19:35:53Z",
+ "updated": "2026-10-19T20:09:18Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/kroesche-kaempft-mit-den-traenen-die-emotionale-abschiesdrede-im-video-1263130/video",
+   "title": "Krösche kämpft mit den Tränen: Die emotionale Abschiesdrede im Video",
+   "link": "https://www.kicker.de/kroesche-kaempft-mit-den-traenen-die-emotionale-abschiesdrede-im-video-1263130/video",
+   "source": "kicker",
+   "published": "2026-10-19T19:54:26Z",
+   "teaser": "Markus Krösche verlässt nach über fünf Jahren Eintracht Frankfurt. Auf der Mitgliederversammlung verabschiedete sich der Sportvorstand emotional wie selten.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/ablaufdatum-2035-hellmann-forciert-die-stadionplaene-in-frankfurt-1263076/artikel",
    "title": "Ablaufdatum 2035: Hellmann forciert die Stadionpläne in Frankfurt",
@@ -2557,18 +2569,6 @@
    "teaser": "Seit rund drei Jahren leitet Matthias Tillmann den FC Schalke 04 als Vorstandsvorsitzender. Beinahe wäre er gescheitert.",
    "clubs": [
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-diskriminierungsvorwuerfen-zwoelfwoechiges-funktionsverbot-fuer-haertel-1260653/artikel",
-   "title": "Nach Diskriminierungsvorwürfen: Zwölfwöchiges Funktionsverbot für Härtel",
-   "link": "https://www.kicker.de/nach-diskriminierungsvorwuerfen-zwoelfwoechiges-funktionsverbot-fuer-haertel-1260653/artikel",
-   "source": "kicker",
-   "published": "2026-10-12T17:33:25Z",
-   "teaser": "In einem anonymen Schreiben wird Union-Nachwuchstrainer Jens Härtel Diskriminierung vorgeworfen. Der Coach legt sein Amt nieder. Auch das Sportgericht des DFB reagiert.",
-   "clubs": [
-    80
    ],
    "transfer": false
   }
