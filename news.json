@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T18:02:22Z",
+ "updated": "2026-10-19T18:39:23Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/donnernder-applaus-der-mitglieder-kroesche-emotional-wie-nie-1263053/artikel",
+   "title": "Donnernder Applaus der Mitglieder - Krösche emotional wie nie",
+   "link": "https://www.kicker.de/donnernder-applaus-der-mitglieder-kroesche-emotional-wie-nie-1263053/artikel",
+   "source": "kicker",
+   "published": "2026-10-19T18:20:59Z",
+   "teaser": "Große Emotionen auf der Mitgliederversammlung von Eintracht Frankfurt: Markus Krösche wählt bewegende Worte zum Abschied und erhält donnernden Applaus. Der Sportvorstand verlässt den Klub durch das große Tor.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/gouweleeuw-zieht-beim-fca-gleich-die-bundesliga-rekordspieler-der-18-erstligisten-1009243/slideshow",
    "title": "Gouweleeuw zieht beim FCA gleich: Die Bundesliga-Rekordspieler der 18 Erstligisten",
@@ -2558,19 +2570,6 @@
    "clubs": [
     175,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/sechs-verletzte-nach-ausschreitungen-beim-rheinderby-1260599/artikel",
-   "title": "Sechs Verletzte nach Ausschreitungen beim Rheinderby",
-   "link": "https://www.kicker.de/sechs-verletzte-nach-ausschreitungen-beim-rheinderby-1260599/artikel",
-   "source": "kicker",
-   "published": "2026-10-12T13:02:32Z",
-   "teaser": "In der zweiten Hälfte des Derbys zwischen dem 1. FC Köln und Borussia Mönchengladbach geraten Anhänger beider Fanlager aneinander. Sechs Menschen werden dabei laut Polizei verletzt - unter anderem ein Kind.",
-   "clubs": [
-    87,
-    65
    ],
    "transfer": false
   }
