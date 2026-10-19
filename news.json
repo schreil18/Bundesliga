@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T06:50:01Z",
+ "updated": "2026-10-19T07:50:39Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/bandverletzung-bvb-muss-erneut-auf-karetsas-verzichten-1262326/artikel",
+   "title": "Bandverletzung: BVB muss erneut auf Karetsas verzichten",
+   "link": "https://www.kicker.de/bandverletzung-bvb-muss-erneut-auf-karetsas-verzichten-1262326/artikel",
+   "source": "kicker",
+   "published": "2026-10-19T07:30:27Z",
+   "teaser": "Beim torlosen Remis des BVB bei Union Berlin musste Konstantinos Karetsas nur wenige Minuten nach seiner Einwechslung das Spielfeld verletzt verlassen. Nun steht fest, dass der Grieche Dortmund erneut fehlen wird.",
+   "clubs": [
+    7,
+    80
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/br/br-nach-wochen-voller-frust-die-erloesung-des-luis-daz-102.html",
    "title": "Die Erlösung des Luis Díaz",
@@ -2566,19 +2579,6 @@
    "clubs": [
     112,
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/el-malas-traumtor-beschert-koeln-derbysieg,video-bundesliga-1-fc-koeln-borussia-moenchengladbach-100.html",
-   "title": "Bundesliga: El Malas Traumtor beschert Köln den Derbysieg",
-   "link": "https://www.sportschau.de/fussball/bundesliga/el-malas-traumtor-beschert-koeln-derbysieg,video-bundesliga-1-fc-koeln-borussia-moenchengladbach-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T22:00:22Z",
-   "teaser": "Borussia Mönchengladbach wartet auch nach dem rheinischen Derby auf den ersten Punkt in dieser Bundesliga-Saison. Said El Malas Traumtor entscheidet ein umkämpftes Spiel.",
-   "clubs": [
-    87,
-    65
    ],
    "transfer": false
   }
