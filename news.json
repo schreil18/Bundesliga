@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T05:13:19Z",
+ "updated": "2026-10-19T06:06:22Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/noll-festspiele-die-alleingaenge-des-besonderen-rundumpakets-1262588/artikel",
+   "title": "Noll-Festspiele: Die Alleingänge des \"besonderen Rundumpakets\"",
+   "link": "https://www.kicker.de/noll-festspiele-die-alleingaenge-des-besonderen-rundumpakets-1262588/artikel",
+   "source": "kicker",
+   "published": "2026-10-19T05:59:59Z",
+   "teaser": "Ein halbes Dutzend Rettungstaten, sicher abgefangene Flanken und - bis auf eine Ausnahme - ein kluger Spielaufbau. So präsentierte sich der Deutsch-Spanier in Bremen zwischen den Pfosten des Aufsteigers.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/nach-tennisball-protest-schuster-kritisiert-freiburger-fans-1262870/artikel",
    "title": "Nach Tennisball-Protest: Schuster kritisiert Freiburger Fans",
@@ -2568,19 +2580,6 @@
    "clubs": [
     1635,
     91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/fuehrich-hammer-besiegelt-paderborner-niederlage,video-bundesliga-sc-paderborn-07-vfb-stuttgart-100.html",
-   "title": "Bundesliga: Führich-Hammer besiegelt Paderborns Pleite gegen Stuttgart",
-   "link": "https://www.sportschau.de/fussball/bundesliga/fuehrich-hammer-besiegelt-paderborner-niederlage,video-bundesliga-sc-paderborn-07-vfb-stuttgart-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T22:00:08Z",
-   "teaser": "Trotz einer kämpferischen Leistung in der zweiten Hälfte muss sich der SC Paderborn dem VfB Stuttgart mit 0:2 geschlagen geben. Chris Führich sorgt mit dem 2:0 für die Entscheidung.",
-   "clubs": [
-    16,
-    31
    ],
    "transfer": false
   }
