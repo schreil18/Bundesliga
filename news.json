@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T09:39:08Z",
+ "updated": "2026-10-19T10:35:50Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/becks-wiederwahl-und-applaus-fuer-kroesche-das-bietet-frankfurts-mitgliederversammlung-1262610/artikel",
+   "title": "Becks Wiederwahl und Applaus für Krösche? Das bietet Frankfurts Mitgliederversammlung",
+   "link": "https://www.kicker.de/becks-wiederwahl-und-applaus-fuer-kroesche-das-bietet-frankfurts-mitgliederversammlung-1262610/artikel",
+   "source": "kicker",
+   "published": "2026-10-19T10:11:39Z",
+   "teaser": "Am Montagabend steigt die Mitgliederversammlung bei Eintracht Frankfurt. Neben der Präsidentenwahl steht auch die Reaktion des Plenums auf Markus Krösches Verabschiedung im Blickpunkt.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/mister-omnipraesent-krauss-beisst-sich-in-koelns-mittelfeld-durch-1262893/artikel",
    "title": "Mister Omnipräsent: Krauß beißt sich in Kölns Mittelfeld durch",
@@ -2558,19 +2570,6 @@
    "source": "kicker",
    "published": "2026-10-12T04:28:57Z",
    "teaser": "Beim so wichtigen 1:0-Heimsieg gegen die SV Elversberg feierte Kastriot Imeri seinen Einstand für Union Berlin und somit in der Bundesliga. Der Neuzugang aus der Schweiz hatte gute Szenen, weist aber auch noch Steigerungspotenzial auf.",
-   "clubs": [
-    80,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/burcu-treffer-stoppt-unions-sieglosserie,video-bundesliga-union-berlin-sv-07-elversberg-100.html",
-   "title": "Bundesliga: Burcu-Tor stoppt Unions Sieglosserie gegen Elversberg",
-   "link": "https://www.sportschau.de/fussball/bundesliga/burcu-treffer-stoppt-unions-sieglosserie,video-bundesliga-union-berlin-sv-07-elversberg-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-11T22:00:30Z",
-   "teaser": "Am 5. Spieltag der laufenden Bundesligasaison hat Union Berlin gegen Elversberg den ersten Sieg eingefahren. In einer umkämpften Partie erzielte Livan Burcu das entscheidende Tor.",
    "clubs": [
     80,
     198
