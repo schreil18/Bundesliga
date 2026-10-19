@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T20:09:18Z",
+ "updated": "2026-10-19T21:03:06Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,9 +16,45 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/kunststueck-konzept-und-kilometer-wo-werder-einen-grossen-schritt-gemacht-hat-1262945/artikel",
+   "title": "Kunststück, Konzept und Kilometer: Wo Werder einen \"großen Schritt\" gemacht hat",
+   "link": "https://www.kicker.de/kunststueck-konzept-und-kilometer-wo-werder-einen-grossen-schritt-gemacht-hat-1262945/artikel",
+   "source": "kicker",
+   "published": "2026-10-19T20:33:55Z",
+   "teaser": "Neun Punkte nach sechs Spielen und 12:12 Tore: Die Ausbeute des SV Werder Bremen ist \"okay\", dafür erscheint die Art und Weise wieder begeisternd - und geht bislang trotzdem zulasten der Defensive.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/99-prozent-eintracht-praesident-beck-wiedergewaehlt-1263072/artikel",
+   "title": "99 Prozent: Eintracht Präsident Beck wiedergewählt",
+   "link": "https://www.kicker.de/99-prozent-eintracht-praesident-beck-wiedergewaehlt-1263072/artikel",
+   "source": "kicker",
+   "published": "2026-10-19T20:09:48Z",
+   "teaser": "Der Abschied von Markus Krösche zwang Eintracht Frankfurt kurzfristig dazu, die Scheinwerfer bei der Mitgliederversammlung am Montagabend neu zu justieren. Gleichwohl ging der eigentliche Hauptakt des Abends wie erwartet über die Bühne …",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/kroesche-kaempft-mit-den-traenen-die-emotionale-abschiesdrede-im-video-1263130/video",
    "title": "Krösche kämpft mit den Tränen: Die emotionale Abschiesdrede im Video",
    "link": "https://www.kicker.de/kroesche-kaempft-mit-den-traenen-die-emotionale-abschiesdrede-im-video-1263130/video",
+   "source": "kicker",
+   "published": "2026-10-19T19:54:26Z",
+   "teaser": "Markus Krösche verlässt nach über fünf Jahren Eintracht Frankfurt. Auf der Mitgliederversammlung verabschiedete sich der Sportvorstand emotional wie selten.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kroesche-kaempft-mit-den-traenen-die-emotionale-abschiedsrede-im-video-1263130/video",
+   "title": "Krösche kämpft mit den Tränen: Die emotionale Abschiedsrede im Video",
+   "link": "https://www.kicker.de/kroesche-kaempft-mit-den-traenen-die-emotionale-abschiedsrede-im-video-1263130/video",
    "source": "kicker",
    "published": "2026-10-19T19:54:26Z",
    "teaser": "Markus Krösche verlässt nach über fünf Jahren Eintracht Frankfurt. Auf der Mitgliederversammlung verabschiedete sich der Sportvorstand emotional wie selten.",
@@ -2535,42 +2571,6 @@
     7
    ],
    "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/regional/swr/swr-der-sc-freiburg-als-spitzenteam-eine-momentaufnahme-die-laengst-keine-mehr-ist-100.html",
-   "title": "Kommentar: SC Freiburgs Höhenflug ist längst keine \"Momentaufnahme\" mehr",
-   "link": "https://www.sportschau.de/regional/swr/swr-der-sc-freiburg-als-spitzenteam-eine-momentaufnahme-die-laengst-keine-mehr-ist-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-13T07:53:25Z",
-   "teaser": "Nach fünf Spielen grüßt der SC Freiburg als Tabellenführer von der Bundesliga-Spitze. SWR-Reporter Pirmin Styrnol glaubt, dass das keine Momentaufnahme ist.",
-   "clubs": [
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-was-passiert-mit-eintracht-sportchef-markus-kroesche-koechelnde-geruechtekueche-100.html",
-   "title": "Eintrachts Sportchef Markus Krösche wackelt",
-   "link": "https://www.sportschau.de/regional/hr/hr-was-passiert-mit-eintracht-sportchef-markus-kroesche-koechelnde-geruechtekueche-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-13T07:50:40Z",
-   "teaser": "Nach der Demütigung in Leipzig wächst auch wieder die Kritik an der Kader-Zusammenstellung von Markus Krösche. Die Zukunft des Eintracht-Sportvorstands scheint ungewisser denn je.",
-   "clubs": [
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-mattias-tillmann-es-gab-keine-klare-spielidee-100.html",
-   "title": "Mattias Tillmann - \"Es gab keine klare Spielidee\"",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-mattias-tillmann-es-gab-keine-klare-spielidee-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-13T06:00:00Z",
-   "teaser": "Seit rund drei Jahren leitet Matthias Tillmann den FC Schalke 04 als Vorstandsvorsitzender. Beinahe wäre er gescheitert.",
-   "clubs": [
-    9
-   ],
-   "transfer": false
   }
  ]
 }
