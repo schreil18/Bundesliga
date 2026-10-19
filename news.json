@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T03:37:21Z",
+ "updated": "2026-10-19T04:35:42Z",
  "sources": [
   {
    "name": "kicker",
@@ -60,7 +60,7 @@
    "link": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-verschlimmert-gladbachs-krise,video-bundesliga-borussia-moenchengladbach-tsg-1899-hoffenheim-100.html",
    "source": "Sportschau",
    "published": "2026-10-18T22:00:26Z",
-   "teaser": "Die Krise von Borussia Mönchengladbach in der Bundesliga nimmt immer schlimmere Züge an. Gegen Hoffenheim verloren die Fohlen das sechste Spiel in Folge und warten weiterhin auf die ersten Punkte.",
+   "teaser": "Die Krise von Borussia Mönchengladbach in der Bundesliga nimmt immer schlimmere Züge an. Gegen Hoffenheim verloren die \"Fohlen\" das sechste Spiel in Folge und warten weiterhin auf die ersten Punkte.",
    "clubs": [
     175,
     87
@@ -86,7 +86,7 @@
    "link": "https://www.sportschau.de/fussball/bundesliga/ebnoutalib-vollendet-asekos-geniestreich-gegen-koeln,video-bundesliga-eintracht-frankfurt-1-fc-koeln-100.html",
    "source": "Sportschau",
    "published": "2026-10-18T22:00:18Z",
-   "teaser": "Nach der Klatsche in Leipzig letzte Woche zeigt Eintracht Frankfurt eine Reaktion und besiegt den 1. FC Köln dank einer überragenden Aktion.",
+   "teaser": "Nach der Klatsche in Leipzig vergangene Woche zeigt Eintracht Frankfurt eine Reaktion und besiegt den 1. FC Köln dank einer überragenden Aktion.",
    "clubs": [
     1635,
     91,
@@ -147,6 +147,19 @@
    "transfer": false
   },
   {
+   "id": "https://www.sportschau.de/fussball/bundesliga/einlaufkind-und-aufholjagd-werder-wahnsinn-geht-weiter,bundesliga-update-rueckblick-spieltag-sechs-106.html",
+   "title": "Der SV Werder Bremen holt schon wieder einen Rückstand auf",
+   "link": "https://www.sportschau.de/fussball/bundesliga/einlaufkind-und-aufholjagd-werder-wahnsinn-geht-weiter,bundesliga-update-rueckblick-spieltag-sechs-106.html",
+   "source": "Sportschau",
+   "published": "2026-10-18T21:53:00Z",
+   "teaser": "Auf eines können sie sich in Bremen in dieser Saison verlassen: Niclas Füllkrug dreht einen 0:2-Rückstand. Trotzdem hadert man bei Werder mit dem Punkt gegen Paderborn.",
+   "clubs": [
+    134,
+    31
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/im-kopf-ist-es-drin-was-blessin-mut-macht-1262839/video",
    "title": "\"Im Kopf ist es drin\": Was Blessin Mut macht",
    "link": "https://www.kicker.de/im-kopf-ist-es-drin-was-blessin-mut-macht-1262839/video",
@@ -156,19 +169,6 @@
    "clubs": [
     175,
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/einlaufkind-und-aufholjagd-werder-wahnsinn-geht-weiter,bundesliga-update-rueckblick-spieltag-sechs-106.html",
-   "title": "Der SV Werder Bremen holt schon wieder einen Rückstand auf",
-   "link": "https://www.sportschau.de/fussball/bundesliga/einlaufkind-und-aufholjagd-werder-wahnsinn-geht-weiter,bundesliga-update-rueckblick-spieltag-sechs-106.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T20:46:52Z",
-   "teaser": "Auf eines können sie sich in Bremen in dieser Saison verlassen: Niclas Füllkrug dreht einen 0:2-Rückstand. Trotzdem hardert man bei Werder mit dem Punkt gegen Paderborn.",
-   "clubs": [
-    134,
-    31
    ],
    "transfer": false
   },
