@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:03:06Z",
+ "updated": "2026-10-19T21:34:16Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/eintracht-praesident-beck-muessen-verstaerkt-auf-s-nlz-bauen-1263161/video",
+   "title": "Eintracht-Präsident Beck: \"Müssen verstärkt auf's NLZ bauen\"",
+   "link": "https://www.kicker.de/eintracht-praesident-beck-muessen-verstaerkt-auf-s-nlz-bauen-1263161/video",
+   "source": "kicker",
+   "published": "2026-10-19T21:19:49Z",
+   "teaser": "Eintracht Frankfurts wiedergewählter Präsident Mathias Beck sprach nach der Wahl über Markus Krösche und die Zukunftspläne der Profiabteilung.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/kunststueck-konzept-und-kilometer-wo-werder-einen-grossen-schritt-gemacht-hat-1262945/artikel",
    "title": "Kunststück, Konzept und Kilometer: Wo Werder einen \"großen Schritt\" gemacht hat",
@@ -2555,18 +2567,6 @@
    "source": "kicker",
    "published": "2026-10-13T08:49:34Z",
    "teaser": "Borussia Dortmund geht mit Trainer Niko Kovac in die Zukunft. Wie findest du diese Entscheidung?",
-   "clubs": [
-    7
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/offiziell-bvb-verlaengert-mit-trainer-kovac-bis-2029-1259227/artikel",
-   "title": "Offiziell: BVB verlängert mit Trainer Kovac bis 2029",
-   "link": "https://www.kicker.de/offiziell-bvb-verlaengert-mit-trainer-kovac-bis-2029-1259227/artikel",
-   "source": "kicker",
-   "published": "2026-10-13T08:42:46Z",
-   "teaser": "Borussia Dortmund und Niko Kovac haben sich auf die Verlängerung der Zusammenarbeit geeinigt. Der Coach unterschrieb einen neuen Vertrag bis 2029.",
    "clubs": [
     7
    ],
