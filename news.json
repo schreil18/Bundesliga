@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T11:09:00Z",
+ "updated": "2026-10-19T12:08:26Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/ache-steigt-teilintegriert-ins-training-ein-schmied-muss-pausieren-1262978/artikel",
+   "title": "Ache steigt teilintegriert ins Training ein - Schmied muss pausieren",
+   "link": "https://www.kicker.de/ache-steigt-teilintegriert-ins-training-ein-schmied-muss-pausieren-1262978/artikel",
+   "source": "kicker",
+   "published": "2026-10-19T11:13:38Z",
+   "teaser": "Rund zweieinhalb Wochen nach seiner Muskelverletzung ist Ragnar Ache teilintegriert ins Training des 1. FC Köln zurückgekehrt. Joel Schmied fehlte dagegen verletzt.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/matthaeus-plaedoyer-klopp-sollte-ueber-fuellkrug-nachdenken-1262964/artikel",
    "title": "Matthäus' Plädoyer: \"Klopp sollte über Füllkrug nachdenken\"",
@@ -2559,19 +2571,6 @@
    "clubs": [
     40,
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-koelns-el-mala-entscheidet-derby-gegen-moenchengladbach-102.html",
-   "title": "Kölns El Mala entscheidet rheinisches Derby gegen Mönchengladbach",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-koelns-el-mala-entscheidet-derby-gegen-moenchengladbach-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-12T07:28:00Z",
-   "teaser": "Der 1. FC Köln hat Borussia Mönchengladbach in einem hitzigen rheinischen Derby eine weitere Niederlage zugefügt.",
-   "clubs": [
-    87,
-    65
    ],
    "transfer": false
   }
