@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T14:36:06Z",
+ "updated": "2026-10-20T15:13:26Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/swr/swr-phillip-tietz-und-niclas-fuellkrug-die-renaissance-der-echten-neuner-100.html",
+   "title": "Phillip Tietz und Niclas Füllkrug - Die Renaissance der \"echten Neuner\"",
+   "link": "https://www.sportschau.de/regional/swr/swr-phillip-tietz-und-niclas-fuellkrug-die-renaissance-der-echten-neuner-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-20T14:56:14Z",
+   "teaser": "Der klassische Mittelstürmer galt in den vergangenen Jahren fast schon als ausgestorben. Phillip Tietz und Niclas Füllkrug beweisen, wie wichtig eine zentrale Spitze sein kann.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/gosens-verteidigt-schalkes-stuermer-wir-spielen-slow-motion-paesse-1263310/video",
    "title": "Gosens verteidigt Schalkes Stürmer: Wir spielen \"Slow-Motion-Pässe\"",
@@ -2558,18 +2568,6 @@
    "teaser": "Medial trat Werner Wenning fast nie in Erscheinung. Dennoch ist der 80-Jährige eine entscheidende Figur bei Bayer 04. Zum Jahreswechsel wird der Vorsitzende des Kontrollgremiums des Klubs von Wolfgang Nickl abgelöst.",
    "clubs": [
     6
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/heins-no-brainer-entscheidung-fuer-werder-ich-lebe-meinen-traum-1260804/artikel",
-   "title": "Heins \"No-Brainer\"-Entscheidung für Werder: \"Ich lebe meinen Traum\"",
-   "link": "https://www.kicker.de/heins-no-brainer-entscheidung-fuer-werder-ich-lebe-meinen-traum-1260804/artikel",
-   "source": "kicker",
-   "published": "2026-10-13T10:28:19Z",
-   "teaser": "Mit dem nächsten herausragenden Auftritt manifestiert Karl Hein seinen Status als Bremer Nummer 1 - und spricht auch über das Verhältnis zu Herausforderer Alexander Schlager.",
-   "clubs": [
-    134
    ],
    "transfer": false
   }
