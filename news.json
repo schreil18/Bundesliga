@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T12:06:05Z",
+ "updated": "2026-10-20T12:46:41Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/hellmann-erklaert-strategiewandel-kroesche-nachfolger-soll-abgeworben-werden-1263250/artikel",
+   "title": "Hellmann erklärt Strategiewandel - Krösche-Nachfolger soll abgeworben werden",
+   "link": "https://www.kicker.de/hellmann-erklaert-strategiewandel-kroesche-nachfolger-soll-abgeworben-werden-1263250/artikel",
+   "source": "kicker",
+   "published": "2026-10-20T12:23:34Z",
+   "teaser": "Der Nachfolger des ausgeschiedenen Frankfurter Sportvorstands Markus Krösche wird sich mit großen Herausforderungen konfrontiert sehen. Auf der Mitgliederversammlung erklären die Bosse den Strategiewandel der Eintracht.",
+   "clubs": [
+    91
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/ein-protagonist-der-werder-comebacks-wer-weicht-fuer-weiser-1263258/artikel",
    "title": "Ein Protagonist der Werder-Comebacks: Wer weicht für Weiser?",
@@ -2559,18 +2571,6 @@
     7
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/noch-vor-der-abreise-hier-unterschreibt-kovac-seinen-neuen-bvb-vertrag-1260777/video",
-   "title": "Noch vor der Abreise: Hier unterschreibt Kovac seinen neuen BVB-Vertrag",
-   "link": "https://www.kicker.de/noch-vor-der-abreise-hier-unterschreibt-kovac-seinen-neuen-bvb-vertrag-1260777/video",
-   "source": "kicker",
-   "published": "2026-10-13T08:51:25Z",
-   "teaser": "Niko Kovac hat seinen Vertrag beim BVB bis 2029 verlängert. Noch vor dem Champions-League-Spiel bei Bodö/Glimt veröffentlichten die Schwarz-Gelben die Neuigkeit.",
-   "clubs": [
-    7
-   ],
-   "transfer": true
   }
  ]
 }
