@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T10:06:31Z",
+ "updated": "2026-10-20T10:37:35Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/ein-protagonist-der-werder-comebacks-wer-weicht-fuer-weiser-1263258/artikel",
+   "title": "Ein Protagonist der Werder-Comebacks: Wer weicht für Weiser?",
+   "link": "https://www.kicker.de/ein-protagonist-der-werder-comebacks-wer-weicht-fuer-weiser-1263258/artikel",
+   "source": "kicker",
+   "published": "2026-10-20T10:30:00Z",
+   "teaser": "Dass die Bremer dreimal in Serie nach einem 0:2 zurückkamen, hängt auch mit Mitchell Weiser zusammen - der allmählich in die Werder-Startelf drängen dürfte.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/eintracht-praesident-beck-muessen-verstaerkt-auf-s-nlz-bauen-1263161/video",
    "title": "Eintracht-Präsident Beck: \"Müssen verstärkt auf's NLZ bauen\"",
@@ -2555,18 +2567,6 @@
    "source": "kicker",
    "published": "2026-10-13T08:51:25Z",
    "teaser": "Niko Kovac hat seinen Vertrag beim BVB bis 2029 verlängert. Noch vor dem Champions-League-Spiel bei Bodö/Glimt veröffentlichten die Schwarz-Gelben die Neuigkeit.",
-   "clubs": [
-    7
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/bvb-verlaengert-mit-kovac-eine-gute-entscheidung-1260767/artikel",
-   "title": "BVB verlängert mit Kovac - eine gute Entscheidung?",
-   "link": "https://www.kicker.de/bvb-verlaengert-mit-kovac-eine-gute-entscheidung-1260767/artikel",
-   "source": "kicker",
-   "published": "2026-10-13T08:49:34Z",
-   "teaser": "Borussia Dortmund geht mit Trainer Niko Kovac in die Zukunft. Wie findest du diese Entscheidung?",
    "clubs": [
     7
    ],
