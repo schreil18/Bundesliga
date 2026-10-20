@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T12:46:41Z",
+ "updated": "2026-10-20T13:43:35Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/gosens-verteidigt-schalkes-stuermer-wir-spielen-slow-motion-paesse-1263310/video",
+   "title": "Gosens verteidigt Schalkes Stürmer: Wir spielen \"Slow-Motion-Pässe\"",
+   "link": "https://www.kicker.de/gosens-verteidigt-schalkes-stuermer-wir-spielen-slow-motion-paesse-1263310/video",
+   "source": "kicker",
+   "published": "2026-10-20T12:33:52Z",
+   "teaser": "Schalke 04 muss sich nach der Heimniederlage gegen Mainz 05 erneut beweisen. Bei kicker-Reporter Toni Lieto spricht Robin Gosens über die Stürmer-Thematik und den Umgang mit der Niederlage.",
+   "clubs": [
+    81,
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/hellmann-erklaert-strategiewandel-kroesche-nachfolger-soll-abgeworben-werden-1263250/artikel",
    "title": "Hellmann erklärt Strategiewandel - Krösche-Nachfolger soll abgeworben werden",
@@ -2557,18 +2570,6 @@
    "teaser": "Mit dem nächsten herausragenden Auftritt manifestiert Karl Hein seinen Status als Bremer Nummer 1 - und spricht auch über das Verhältnis zu Herausforderer Alexander Schlager.",
    "clubs": [
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nur-einer-vor-kovac-die-punkteschnitte-der-bvb-trainer-seit-2000-1084246/slideshow",
-   "title": "Nur einer vor Kovac: Die Punkteschnitte der BVB-Trainer seit 2000",
-   "link": "https://www.kicker.de/nur-einer-vor-kovac-die-punkteschnitte-der-bvb-trainer-seit-2000-1084246/slideshow",
-   "source": "kicker",
-   "published": "2026-10-13T09:55:19Z",
-   "teaser": "Borussia Dortmund hat den Vertrag mit Niko Kovac verlängert - kein Wunder mit Blick auf den starken Punkteschnitt des Coaches. Seit 2000 kommt nur ein Trainer auf eine bessere Bilanz auf der BVB-Bank.",
-   "clubs": [
-    7
    ],
    "transfer": false
   }
