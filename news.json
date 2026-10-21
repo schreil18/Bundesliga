@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T10:11:08Z",
+ "updated": "2026-10-21T11:07:46Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/druck-auf-claude-maurice-steigt-liegt-an-alexis-sich-ins-team-zu-kaempfen-1263595/artikel",
+   "title": "Druck auf Claude-Maurice steigt: \"Liegt an Alexis, sich ins Team zu kämpfen\"",
+   "link": "https://www.kicker.de/druck-auf-claude-maurice-steigt-liegt-an-alexis-sich-ins-team-zu-kaempfen-1263595/artikel",
+   "source": "kicker",
+   "published": "2026-10-21T10:10:00Z",
+   "teaser": "Fast zwei Jahre lang galt: Ohne Alexis Claude-Maurice geht in der Offensive des FC Augsburg wenig. Das hat sich geändert. Der offensive Mittelfeldspieler muss um seinen Platz kämpfen, auch mit Blick auf den Sommer.",
+   "clubs": [
+    95
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/rolfes-zu-kiessling-plakat-vorher-das-tornetz-kontrollieren-1263628/video",
    "title": "Rolfes zu Kießling-Plakat: \"Vorher das Tornetz kontrollieren\"",
@@ -2554,19 +2566,6 @@
     134
    ],
    "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/praesident-bonhof-adressiert-eigene-fans-werte-unserer-borussia-verraten-1260893/artikel",
-   "title": "Präsident Bonhof adressiert eigene Fans: \"Werte unserer Borussia verraten\"",
-   "link": "https://www.kicker.de/praesident-bonhof-adressiert-eigene-fans-werte-unserer-borussia-verraten-1260893/artikel",
-   "source": "kicker",
-   "published": "2026-10-13T15:20:00Z",
-   "teaser": "Borussia Mönchengladbach liegt sportlich am Boden. Präsident Rainer Bonhof ließ nach dem verlorenen Derby in Köln aber vor allem das Verhalten einiger Borussia-Anhänger fassungslos zurück.",
-   "clubs": [
-    87,
-    65
-   ],
-   "transfer": false
   }
  ]
 }
