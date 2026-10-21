@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T07:44:59Z",
+ "updated": "2026-10-21T08:38:08Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-schaedelbrummen-bei-dzeko-und-ganz-schalke-100.html",
+   "title": "Schädelbrummen bei Dzeko und ganz Schalke",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-schaedelbrummen-bei-dzeko-und-ganz-schalke-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-21T08:33:25Z",
+   "teaser": "Auf Schalke suchen sie nach den Ursachen für die schwache Leistung gegen Mainz. Ob Edin Dzeko mit dabei sein kann, ist unsicher.",
+   "clubs": [
+    81,
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/auch-spors-ist-ein-kandidat-fuer-die-kroesche-nachfolge-1263546/artikel",
    "title": "Auch Spors ist ein Kandidat für die Krösche-Nachfolge",
@@ -2557,19 +2570,6 @@
     7
    ],
    "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/poulsens-quoten-geheimnis-1260821/artikel",
-   "title": "Poulsens Quoten-Geheimnis",
-   "link": "https://www.kicker.de/poulsens-quoten-geheimnis-1260821/artikel",
-   "source": "kicker",
-   "published": "2026-10-13T11:27:29Z",
-   "teaser": "Beim 3:2-Auswärtssieg des Hamburger SV in Hoffenheim hat Yussuf Poulsen sein zweites Saisontor erzielt und damit bereits seine Vorjahres-Quote verdoppelt. Es ist nicht die einzige Zahl, die der Sturm-Routinier gesteigert hat.",
-   "clubs": [
-    175,
-    100
-   ],
-   "transfer": false
   }
  ]
 }
