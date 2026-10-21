@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T13:42:53Z",
+ "updated": "2026-10-21T14:36:57Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/brasilianische-blitzintegration-wie-arthur-die-werder-baustelle-schloss-1263639/artikel",
+   "title": "Brasilianische Blitzintegration: Wie Arthur die Werder-Baustelle schloss",
+   "link": "https://www.kicker.de/brasilianische-blitzintegration-wie-arthur-die-werder-baustelle-schloss-1263639/artikel",
+   "source": "kicker",
+   "published": "2026-10-21T14:32:41Z",
+   "teaser": "Arthur ist nicht nur der schnellste Werder-Spieler in dieser Saison, sondern der Brasilianer hat sich auch innerhalb kürzester Zeit in Bremen akklimatisiert - und eine Lücke im Kader gefüllt, vorerst.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/druck-auf-claude-maurice-steigt-liegt-an-alexis-sich-ins-team-zu-kaempfen-1263595/artikel",
    "title": "Druck auf Claude-Maurice steigt: \"Liegt an Alexis, sich ins Team zu kämpfen\"",
@@ -2554,18 +2566,6 @@
     31
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wir-wollten-eine-veraenderung-fritz-erklaert-das-neue-werder-mindset-1261177/artikel",
-   "title": "\"Wir wollten eine Veränderung\": Fritz erklärt das neue Werder-Mindset",
-   "link": "https://www.kicker.de/wir-wollten-eine-veraenderung-fritz-erklaert-das-neue-werder-mindset-1261177/artikel",
-   "source": "kicker",
-   "published": "2026-10-14T10:42:52Z",
-   "teaser": "Dass bei Werder im Sommer kein Neuzugang ohne ein persönliches Treffen im Vorfeld verpflichtet wurde, hat sich offensichtlich auch auf die Mentalität der Mannschaft ausgewirkt. Zum großen Weserstadion-Jubiläum folgt nun der nächste …",
-   "clubs": [
-    134
-   ],
-   "transfer": true
   }
  ]
 }
