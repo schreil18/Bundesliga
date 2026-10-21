@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T09:35:26Z",
+ "updated": "2026-10-21T10:11:08Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/rolfes-zu-kiessling-plakat-vorher-das-tornetz-kontrollieren-1263628/video",
+   "title": "Rolfes zu Kießling-Plakat: \"Vorher das Tornetz kontrollieren\"",
+   "link": "https://www.kicker.de/rolfes-zu-kiessling-plakat-vorher-das-tornetz-kontrollieren-1263628/video",
+   "source": "kicker",
+   "published": "2026-10-21T09:36:41Z",
+   "teaser": "Ein Hoffenheimer Plakat mit der Aufschrift \"Es war kein Tor, Stefan\", in Anspielung auf das Phantomtor von Stefan Kießling aus dem Jahr 2013 stieß im Bayer-Lager auf wenig Verständnis. Simon Rolfes erinnerte sich an die damalige Situation …",
+   "clubs": [
+    175
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/teamplayer-da-costa-erst-opfer-jetzt-gewinner-1263536/artikel",
    "title": "Teamplayer da Costa: Erst Opfer, jetzt Gewinner",
@@ -2553,19 +2565,6 @@
    "clubs": [
     87,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/schalke-verzweifelt-immer-noch-kein-stuermer-tor-1260862/artikel",
-   "title": "Schalke verzweifelt: Immer noch kein Stürmer-Tor",
-   "link": "https://www.kicker.de/schalke-verzweifelt-immer-noch-kein-stuermer-tor-1260862/artikel",
-   "source": "kicker",
-   "published": "2026-10-13T12:56:10Z",
-   "teaser": "Aller Ehren wert, wie Miron Muslic nach dem 1:2 in Überzahl beim SC Freiburg voller Selbstkritik die Verantwortung für die späte Niederlage übernahm. Seine Äußerungen verwässerten zugleich ein Manko, das Schalke 04 unbedingt in den Griff …",
-   "clubs": [
-    112,
-    9
    ],
    "transfer": false
   }
