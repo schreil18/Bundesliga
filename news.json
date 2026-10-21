@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T08:38:08Z",
+ "updated": "2026-10-21T09:35:26Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/teamplayer-da-costa-erst-opfer-jetzt-gewinner-1263536/artikel",
+   "title": "Teamplayer da Costa: Erst Opfer, jetzt Gewinner",
+   "link": "https://www.kicker.de/teamplayer-da-costa-erst-opfer-jetzt-gewinner-1263536/artikel",
+   "source": "kicker",
+   "published": "2026-10-21T08:57:06Z",
+   "teaser": "Trotz starker Leistungen verlor Danny da Costa zwischenzeitlich seinen Stammplatz. Der Umgang damit macht ihn zum Vorbild für die Kollegen.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/wdr/wdr-schaedelbrummen-bei-dzeko-und-ganz-schalke-100.html",
    "title": "Schädelbrummen bei Dzeko und ganz Schalke",
@@ -2558,18 +2568,6 @@
     9
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ricken-ueber-kovac-loyalitaet-und-diskretion-haben-wir-umsonst-dazu-bekommen-1260854/video",
-   "title": "Ricken über Kovac: \"Loyalität und Diskretion haben wir umsonst dazu bekommen\"",
-   "link": "https://www.kicker.de/ricken-ueber-kovac-loyalitaet-und-diskretion-haben-wir-umsonst-dazu-bekommen-1260854/video",
-   "source": "kicker",
-   "published": "2026-10-13T12:02:48Z",
-   "teaser": "Geschäftsführer des BVB, Lars Ricken, spricht vor der Abreise nach Norwegen über die Vertragsverlängerung von Niko Kovac und warum Borussia Dortmund den Cheftrainer so sehr schätzt.",
-   "clubs": [
-    7
-   ],
-   "transfer": true
   }
  ]
 }
