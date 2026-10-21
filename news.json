@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T21:34:34Z",
+ "updated": "2026-10-21T22:06:55Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Tresoldi rückt in Arsenals Fokus - Drei Szenarien für Augsburgs Claude-Maurice",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-10-21T22:01:21Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [
+    95
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/auf-dem-weg-zum-abwehrchef-nach-dem-horrorstart-hat-sich-uduokhai-zuegig-stabilisiert-1263696/artikel",
    "title": "Auf dem Weg zum Abwehrchef: Nach dem Horrorstart hat sich Uduokhai zügig stabilisiert",
@@ -947,16 +959,6 @@
     80
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Düsseldorf schasst Ende - Rebbe stärkt KSV-Coach Walter",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T10:48:33Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
-   "transfer": true
   },
   {
    "id": "https://www.sportschau.de/regional/wdr/wdr-keine-punkte-keine-leistung-schalke-macht-sich-sorgen-100.html",
