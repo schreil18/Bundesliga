@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T14:36:57Z",
+ "updated": "2026-10-21T15:12:23Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/auf-dem-weg-zum-abwehrchef-nach-dem-horrorstart-hat-sich-uduokhai-zuegig-stabilisiert-1263696/artikel",
+   "title": "Auf dem Weg zum Abwehrchef: Nach dem Horrorstart hat sich Uduokhai zügig stabilisiert",
+   "link": "https://www.kicker.de/auf-dem-weg-zum-abwehrchef-nach-dem-horrorstart-hat-sich-uduokhai-zuegig-stabilisiert-1263696/artikel",
+   "source": "kicker",
+   "published": "2026-10-21T14:47:20Z",
+   "teaser": "Der 29-Jährige stand anfangs neben der Spur, doch mittlerweile hat er sich gefangen und großen Anteil daran, dass die Eisernen zuletzt zwei Mal zu null spielen konnten.",
+   "clubs": [
+    80
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/brasilianische-blitzintegration-wie-arthur-die-werder-baustelle-schloss-1263639/artikel",
    "title": "Brasilianische Blitzintegration: Wie Arthur die Werder-Baustelle schloss",
@@ -2552,18 +2564,6 @@
    "clubs": [
     175,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/er-darf-gerne-noch-mehr-zu-schuessen-kommen-vidovic-bleibt-kettemanns-schluessel-zum-tor-1261211/artikel",
-   "title": "\"Er darf gerne noch mehr zu Schüssen kommen\": Vidovic bleibt Kettemanns Schlüssel zum Tor",
-   "link": "https://www.kicker.de/er-darf-gerne-noch-mehr-zu-schuessen-kommen-vidovic-bleibt-kettemanns-schluessel-zum-tor-1261211/artikel",
-   "source": "kicker",
-   "published": "2026-10-14T11:43:25Z",
-   "teaser": "Die \"Gruppe von jungen, unerfahrenen Bundesligamenschen\", wie Paderborns Trainer Ralf Kettemann sein Team liebevoll bezeichnet, lernt dazu. Die geschlossene Mannschaftsleistung soll den Erfolg bringen, meinen Führungsspieler. Doch ganz …",
-   "clubs": [
-    31
    ],
    "transfer": false
   }
