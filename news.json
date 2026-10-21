@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T05:37:53Z",
+ "updated": "2026-10-21T06:42:00Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/auch-spors-ist-ein-kandidat-fuer-die-kroesche-nachfolge-1263546/artikel",
+   "title": "Auch Spors ist ein Kandidat für die Krösche-Nachfolge",
+   "link": "https://www.kicker.de/auch-spors-ist-ein-kandidat-fuer-die-kroesche-nachfolge-1263546/artikel",
+   "source": "kicker",
+   "published": "2026-10-21T06:08:33Z",
+   "teaser": "Eintracht Frankfurt arbeitet nach der Trennung von Sportvorstand Markus Krösche mit Hochdruck an einer personellen Neuausrichtung. Im Gespräch ist auch Johannes Spors, der als Technischer Direktor beim englischen Zweitligisten FC …",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/swr/swr-phillip-tietz-und-niclas-fuellkrug-die-renaissance-der-echten-neuner-100.html",
    "title": "Phillip Tietz und Niclas Füllkrug - Die Renaissance der \"echten Neuner\"",
@@ -2556,18 +2568,6 @@
    "clubs": [
     175,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-graue-eminenz-geht-nickl-loest-wenning-als-obersten-bayer-kontrolleur-ab-1260781/artikel",
-   "title": "Die graue Eminenz geht: Nickl löst Wenning als obersten Bayer-Kontrolleur ab",
-   "link": "https://www.kicker.de/die-graue-eminenz-geht-nickl-loest-wenning-als-obersten-bayer-kontrolleur-ab-1260781/artikel",
-   "source": "kicker",
-   "published": "2026-10-13T10:28:43Z",
-   "teaser": "Medial trat Werner Wenning fast nie in Erscheinung. Dennoch ist der 80-Jährige eine entscheidende Figur bei Bayer 04. Zum Jahreswechsel wird der Vorsitzende des Kontrollgremiums des Klubs von Wolfgang Nickl abgelöst.",
-   "clubs": [
-    6
    ],
    "transfer": false
   }
