@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T19:17:02Z",
+ "updated": "2026-10-22T20:06:41Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,40 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/chukwuemekas-positiver-auftritt-und-ein-kniff-von-kovac-1263779/artikel",
+   "title": "Chukwuemekas \"positiver Auftritt\" und ein Kniff von Kovac",
+   "link": "https://www.kicker.de/chukwuemekas-positiver-auftritt-und-ein-kniff-von-kovac-1263779/artikel",
+   "source": "kicker",
+   "published": "2026-10-22T19:43:51Z",
+   "teaser": "Beim Sabah FK ersetze Niko Kovac den verletzten Konstantinos Karetsas mit Carney Chukwuemeka. Der bekam eine leicht veränderte Rolle zugeteilt. Eine, die ihm sichtlich guttat.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-koelns-mikey-moore-wann-kommt-der-knall-100.html",
+   "title": "Kölns Mikey Moore - wann kommt der Knall?",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-koelns-mikey-moore-wann-kommt-der-knall-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-22T19:34:46Z",
+   "teaser": "Mikey Moore hat beim 1. FC Köln bislang nur angedeutet, was in ihm steckt. Dabei braucht die Kölner Offensive seine Impulse dringend.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-diagnose-da-fcb-vorerst-ohne-daz-2026-kein-einsatz-mehr-102.html",
+   "title": "Bayern \"vorerst\" ohne Díaz - 2026 kein Einsatz mehr?",
+   "link": "https://www.sportschau.de/regional/br/br-diagnose-da-fcb-vorerst-ohne-daz-2026-kein-einsatz-mehr-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-22T19:22:35Z",
+   "teaser": "Der FC Bayern München muss \"vorerst\" auf Luis Díaz verzichten. Der Kolumbianer zog sich beim Champions-League-Duell gegen den FC Arsenal eine Muskelverletzung zu und könnte sogar für den Rest des Jahres ausfallen.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/bonhof-weist-ruecktrittsforderungen-zurueck-und-laesst-erneute-kandidatur-offen-1264159/artikel",
    "title": "Bonhof weist Rücktrittsforderungen zurück - und lässt erneute Kandidatur offen",
@@ -112,18 +146,6 @@
    "teaser": "Der FC Augsburg hat in dieser Saison schon sportliche Ausrufezeichen gesetzt, zuletzt aber viermal nicht gewonnen. Für einen Weg aus dieser sportlichen Delle muss die Defensive besser stehen.",
    "clubs": [
     95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-diagnose-da-fcb-vorerst-ohne-daz-2026-kein-einsatz-mehr-102.html",
-   "title": "Bayern \"vorerst\" ohne Díaz - 2026 kein Einsatz mehr?",
-   "link": "https://www.sportschau.de/regional/br/br-diagnose-da-fcb-vorerst-ohne-daz-2026-kein-einsatz-mehr-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-22T14:35:15Z",
-   "teaser": "Der FC Bayern München muss \"vorerst\" auf Luis Díaz verzichten. Der Kolumbianer zog sich beim Champions-League-Duell gegen den FC Arsenal eine Muskelverletzung zu und könnte sogar für den Rest des Jahres ausfallen.",
-   "clubs": [
-    40
    ],
    "transfer": false
   },
@@ -2533,31 +2555,6 @@
     40
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/neuer-auch-fuers-topspiel-gegen-leipzig-fraglich-1261792/artikel",
-   "title": "Neuer auch fürs Topspiel gegen Leipzig fraglich",
-   "link": "https://www.kicker.de/neuer-auch-fuers-topspiel-gegen-leipzig-fraglich-1261792/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T08:14:51Z",
-   "teaser": "In Stavanger saß Manuel Neuer bereits auf der Bank, auch gegen Leipzig könnte dem Kapitän des FC Bayern eine Zuschauerrolle drohen.",
-   "clubs": [
-    40,
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-stoffwechselstoerung-eichhorn-strebt-rueckkehr-in-diesem-jahr-an-1255158/artikel",
-   "title": "Nach Stoffwechselstörung: Eichhorn strebt Rückkehr in diesem Jahr an",
-   "link": "https://www.kicker.de/nach-stoffwechselstoerung-eichhorn-strebt-rueckkehr-in-diesem-jahr-an-1255158/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T07:09:40Z",
-   "teaser": "Nach seiner Stoffwechselstörung arbeitet Kennet Eichhorn an seinem Comeback. Bayer 04 hat nicht die Erwartung, dass der 17-Jährige 2026 noch für den Werksklub spielt. Das Toptalent strebt aber eine Rückkehr auf den Platz vor Weihnachten an.",
-   "clubs": [
-    6
-   ],
-   "transfer": true
   }
  ]
 }
