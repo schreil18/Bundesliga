@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T04:10:09Z",
+ "updated": "2026-10-22T05:09:08Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/philippes-besonderes-wiedersehen-mit-dem-hsv-1263752/artikel",
+   "title": "Philippes besonderes Wiedersehen mit dem HSV",
+   "link": "https://www.kicker.de/philippes-besonderes-wiedersehen-mit-dem-hsv-1263752/artikel",
+   "source": "kicker",
+   "published": "2026-10-22T04:53:37Z",
+   "teaser": "Paderborns Neuzugang Rayan Philippe fehlt nicht viel zum großen Glück - findet er es ausgerechnet am Samstag gegen seinen Ex-Klub?",
+   "clubs": [
+    100,
+    31
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
    "title": "Tresoldi rückt in Arsenals Fokus - Drei Szenarien für Augsburgs Claude-Maurice",
@@ -2553,19 +2566,6 @@
    "teaser": "Er kam aus der 2. spanischen Liga nach Bremen - und hat sich bei Werder und in der Bundesliga früh akklimatisiert. Nur eine Sache würde Chuki gern zeitnah ändern.",
    "clubs": [
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hsv-erster-auftrag-fuer-das-remberg-double-1261272/artikel",
-   "title": "HSV: Erster Auftrag für das Remberg-Double",
-   "link": "https://www.kicker.de/hsv-erster-auftrag-fuer-das-remberg-double-1261272/artikel",
-   "source": "kicker",
-   "published": "2026-10-14T13:20:46Z",
-   "teaser": "Beim Hamburger 3:2-Erfolg in Hoffenheim kam Kofi Amoako zu seinen ersten Einsatzminuten seit seinem Wechsel. Weil der Kapitän mit Kreuzbandriss voraussichtlich bis zum Saisonende ausfällt, ist er fortan als Abräumer im Mittelfeld gefordert.",
-   "clubs": [
-    175,
-    100
    ],
    "transfer": false
   }
