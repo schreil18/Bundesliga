@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T11:08:11Z",
+ "updated": "2026-10-22T12:07:12Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/gegen-atletico-ausgewechselt-vagnoman-fehlt-stuttgart-vorerst-1264057/artikel",
+   "title": "Gegen Atletico ausgewechselt: Vagnoman fehlt Stuttgart vorerst",
+   "link": "https://www.kicker.de/gegen-atletico-ausgewechselt-vagnoman-fehlt-stuttgart-vorerst-1264057/artikel",
+   "source": "kicker",
+   "published": "2026-10-22T11:47:16Z",
+   "teaser": "Nach seiner Auswechslung gegen Atletico Madrid steht fest, dass Josha Vagnoman dem VfB Stuttgart mehrere Wochen fehlen wird. In der bisherigen Saison war er absolute Stammkraft - und obendrein bester VfB-Torjäger in der Bundesliga.",
+   "clubs": [
+    16
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/adidas-boom-el-mala-effekt-eigenvermarktung-der-fc-erwartet-ein-rekordergebnis-1264025/artikel",
    "title": "Adidas-Boom, El-Mala-Effekt, Eigenvermarktung: Der FC erwartet ein Rekordergebnis",
@@ -2548,18 +2560,6 @@
    "teaser": "Mit zwei Vorlagen und einem Treffer zeigt Linton Maina aktuell eine Top-Leistung beim 1. FC Köln. Effzeh-Trainer René Wagner zeigt sich positiv überrascht.",
    "clubs": [
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/auf-highlight-folgt-highlight-muss-fellhauer-sich-umstellen-1261108/artikel",
-   "title": "Auf Highlight folgt Highlight: Muss Fellhauer sich umstellen?",
-   "link": "https://www.kicker.de/auf-highlight-folgt-highlight-muss-fellhauer-sich-umstellen-1261108/artikel",
-   "source": "kicker",
-   "published": "2026-10-14T16:24:58Z",
-   "teaser": "In Elversberg wurde Robin Fellhauer Fußballprofi, nun steht die Rückkehr bevor - auf einer anderen Position?",
-   "clubs": [
-    198
    ],
    "transfer": false
   }
