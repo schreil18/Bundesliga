@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T12:07:12Z",
+ "updated": "2026-10-22T13:22:07Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,43 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/thioune-ueber-die-aktuelle-situation-von-stark-das-tut-mir-auch-persoenlich-leid-1264081/artikel",
+   "title": "Thioune über die aktuelle Situation von Stark: \"Das tut mir auch persönlich leid\"",
+   "link": "https://www.kicker.de/thioune-ueber-die-aktuelle-situation-von-stark-das-tut-mir-auch-persoenlich-leid-1264081/artikel",
+   "source": "kicker",
+   "published": "2026-10-22T13:00:00Z",
+   "teaser": "Niklas Stark und Werder Bremen - das hat in der Vergangenheit oft gepasst. Seit geraumer Zeit aber nicht mehr, was bekannte Gründe hat. Gründe, die eventuell zu einem Aus im Sommer führen können. So weit denkt Trainer Daniel Thioune aber …",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/gladbach-vor-negativrekord-ohne-punkte-und-ohne-lidberg-nach-stuttgart-1264090/artikel",
+   "title": "Gladbach vor Negativrekord: Ohne Punkte und ohne Lidberg nach Stuttgart",
+   "link": "https://www.kicker.de/gladbach-vor-negativrekord-ohne-punkte-und-ohne-lidberg-nach-stuttgart-1264090/artikel",
+   "source": "kicker",
+   "published": "2026-10-22T12:59:26Z",
+   "teaser": "Borussia Mönchengladbach droht der schlechteste Ligastart der Bundesliga-Geschichte. Und Hoffnung macht vor der Partie in Stuttgart wenig: Jetzt fällt auch noch Isac Lidberg aus.",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/handynutzung-im-stadion-wie-der-bvb-seine-fans-ans-spiel-fesseln-moechte-1264083/artikel",
+   "title": "Handynutzung im Stadion: Wie der BVB seine Fans ans Spiel fesseln möchte",
+   "link": "https://www.kicker.de/handynutzung-im-stadion-wie-der-bvb-seine-fans-ans-spiel-fesseln-moechte-1264083/artikel",
+   "source": "kicker",
+   "published": "2026-10-22T12:26:44Z",
+   "teaser": "Der ein oder andere Fan, der Fußballspiele im Stadion verfolgt, neigt zu regelmäßigen Abschweifungen in Richtung des eigenen Smartphones. Borussia Dortmund hat eine Idee, wie sich das ändern könnte.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/gegen-atletico-ausgewechselt-vagnoman-fehlt-stuttgart-vorerst-1264057/artikel",
    "title": "Gegen Atletico ausgewechselt: Vagnoman fehlt Stuttgart vorerst",
@@ -65,7 +102,7 @@
   },
   {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Argentinien vor Scaloni-Deal - Tresoldi rückt in Arsenals Fokus",
+   "title": "Nagelsmann wird bei ManUnited gehandelt - Argentinien vor Scaloni-Deal",
    "link": "https://www.kicker.de/transferticker-953155/artikel",
    "source": "kicker",
    "published": "2026-10-22T08:20:00Z",
@@ -2525,40 +2562,6 @@
     40,
     7,
     91,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/die-sportschau-am-samstag-mit-der-bundesliga,livestream-sportschau-am-samstag-198.html",
-   "title": "Livestream - Bundesliga-Highlights: Die Sportschau am Samstag mit der Bundesliga",
-   "link": "https://www.sportschau.de/fussball/die-sportschau-am-samstag-mit-der-bundesliga,livestream-sportschau-am-samstag-198.html",
-   "source": "Sportschau",
-   "published": "2026-10-15T08:49:11Z",
-   "teaser": "Die Sportschau am Samstag mit den Highlights der Nachmittagsspiele der Bundesliga, 2. Liga und 3. Liga.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/zwischen-titelchance-und-risiko-warum-erfolg-in-der-europa-league-fuer-bayer-doppelt-wichtig-ist-1261336/artikel",
-   "title": "Zwischen Titelchance und Risiko: Warum Erfolg in der Europa League für Bayer doppelt wichtig ist",
-   "link": "https://www.kicker.de/zwischen-titelchance-und-risiko-warum-erfolg-in-der-europa-league-fuer-bayer-doppelt-wichtig-ist-1261336/artikel",
-   "source": "kicker",
-   "published": "2026-10-15T08:14:11Z",
-   "teaser": "Leverkusens Kader ist gleichsam qualitativ wie quantitativ stark besetzt. Letzteres sogar zu stark, wie Manager Simon Rolfes einräumt. Deswegen hat eine erfolgreiche Europa-League-Saison für den Klub gleich doppelte Bedeutung. So stellt …",
-   "clubs": [
-    6
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wagner-ueber-maina-entwicklung-einer-seiner-guten-freunde-war-ueberrascht-1261384/video",
-   "title": "Wagner über Maina-Entwicklung: \"Einer seiner guten Freunde war überrascht\"",
-   "link": "https://www.kicker.de/wagner-ueber-maina-entwicklung-einer-seiner-guten-freunde-war-ueberrascht-1261384/video",
-   "source": "kicker",
-   "published": "2026-10-14T18:19:40Z",
-   "teaser": "Mit zwei Vorlagen und einem Treffer zeigt Linton Maina aktuell eine Top-Leistung beim 1. FC Köln. Effzeh-Trainer René Wagner zeigt sich positiv überrascht.",
-   "clubs": [
     65
    ],
    "transfer": false
