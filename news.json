@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T18:37:26Z",
+ "updated": "2026-10-22T19:17:02Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/bonhof-weist-ruecktrittsforderungen-zurueck-und-laesst-erneute-kandidatur-offen-1264159/artikel",
+   "title": "Bonhof weist Rücktrittsforderungen zurück - und lässt erneute Kandidatur offen",
+   "link": "https://www.kicker.de/bonhof-weist-ruecktrittsforderungen-zurueck-und-laesst-erneute-kandidatur-offen-1264159/artikel",
+   "source": "kicker",
+   "published": "2026-10-22T18:34:59Z",
+   "teaser": "In der Krise von Borussia Mönchengladbach ist zuletzt auch Präsident Rainer Bonhof ins Kreuzfeuer der Kritik geraten. Nun hat sich der 74-Jährige zu den Rücktrittsforderungen des Gladbacher Fan-Dachverbands geäußert.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wagners-plan-um-schalke-zu-schlagen-die-basics-des-fussballs-leben-1264139/video",
    "title": "Wagners Plan um Schalke zu schlagen: \"Die Basics des Fußballs leben\"",
@@ -2546,18 +2558,6 @@
     6
    ],
    "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/regional/rb/rb-partylaune-statt-katerstimmung-darum-laeuft-es-bei-werder-so-gut-100.html",
-   "title": "Partylaune statt Katerstimmung: Darum läuft es bei Werder so gut",
-   "link": "https://www.sportschau.de/regional/rb/rb-partylaune-statt-katerstimmung-darum-laeuft-es-bei-werder-so-gut-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-16T06:08:08Z",
-   "teaser": "Die Sorgen im Sommer waren groß. Gemessen daran läuft die bisherige Bundesliga-Saison für Werder Bremen sehr gut. Platz sieben nach 5 Spielen. Woran liegt das?",
-   "clubs": [
-    134
-   ],
-   "transfer": false
   }
  ]
 }
