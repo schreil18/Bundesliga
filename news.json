@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T14:12:16Z",
+ "updated": "2026-10-22T15:10:10Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,56 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/hellmann-ueber-transferstrategie-der-eintracht-modifikation-ist-das-zauberwort-1264130/video",
+   "title": "Hellmann über Transferstrategie der Eintracht: \"Modifikation ist das Zauberwort\"",
+   "link": "https://www.kicker.de/hellmann-ueber-transferstrategie-der-eintracht-modifikation-ist-das-zauberwort-1264130/video",
+   "source": "kicker",
+   "published": "2026-10-22T14:48:56Z",
+   "teaser": "Axel Hellmann, Vorstandssprecher der Eintracht Frankfurt spricht auf einer Pressekonferenz über die aktuelle Lage der Eintracht, den Spielstil, der vermisst wird und über mögliche Gladbach-Vergleiche.",
+   "clubs": [
+    91,
+    87
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/augsburgs-kampf-gegen-die-krise-und-gegentore-zum-schluss-1264060/artikel",
+   "title": "Augsburgs Kampf gegen die Krise und Gegentore zum Schluss",
+   "link": "https://www.kicker.de/augsburgs-kampf-gegen-die-krise-und-gegentore-zum-schluss-1264060/artikel",
+   "source": "kicker",
+   "published": "2026-10-22T14:47:05Z",
+   "teaser": "Der FC Augsburg hat in dieser Saison schon sportliche Ausrufezeichen gesetzt, zuletzt aber viermal nicht gewonnen. Für einen Weg aus dieser sportlichen Delle muss die Defensive besser stehen.",
+   "clubs": [
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-diagnose-da-fcb-vorerst-ohne-daz-2026-kein-einsatz-mehr-102.html",
+   "title": "Bayern \"vorerst\" ohne Díaz - 2026 kein Einsatz mehr?",
+   "link": "https://www.sportschau.de/regional/br/br-diagnose-da-fcb-vorerst-ohne-daz-2026-kein-einsatz-mehr-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-22T14:35:15Z",
+   "teaser": "Der FC Bayern München muss \"vorerst\" auf Luis Díaz verzichten. Der Kolumbianer zog sich beim Champions-League-Duell gegen den FC Arsenal eine Muskelverletzung zu und könnte sogar für den Rest des Jahres ausfallen.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/schalker-personalsorgen-woeber-fehlt-bis-jahresende-karaman-in-koeln-1264031/artikel",
+   "title": "Schalker Personalsorgen: Wöber fehlt bis Jahresende, Karaman in Köln",
+   "link": "https://www.kicker.de/schalker-personalsorgen-woeber-fehlt-bis-jahresende-karaman-in-koeln-1264031/artikel",
+   "source": "kicker",
+   "published": "2026-10-22T14:10:39Z",
+   "teaser": "Schlechte Nachrichten für den FC Schalke 04: Neben Maximilian Wöber, der laut Trainer Miron Muslic langfristig fehlt, fällt unter anderem auch Kapitän Kenan Karaman in Köln aus.",
+   "clubs": [
+    65,
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/baum-ein-bayern-spieler-hat-mehr-bundesliga-minuten-als-unsere-ganze-mannschaft-1264116/video",
    "title": "Baum: \"Ein Bayern-Spieler hat mehr Bundesliga-Minuten, als unsere ganze Mannschaft\"",
@@ -2510,58 +2560,6 @@
    "clubs": [
     40,
     95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/profivertrag-fuer-senkrechtstarter-nakuzola-ging-dann-doch-relativ-schnell-1261774/artikel",
-   "title": "Profivertrag für Senkrechtstarter Nakuzola: \"Ging dann doch relativ schnell\"",
-   "link": "https://www.kicker.de/profivertrag-fuer-senkrechtstarter-nakuzola-ging-dann-doch-relativ-schnell-1261774/artikel",
-   "source": "kicker",
-   "published": "2026-10-15T14:38:30Z",
-   "teaser": "Im Sommer war Rael Nakuzola von der A-Jugend Rot-Weiss Essens zur Zweitvertretung des 1. FSV Mainz 05 gewechselt, doch dort stieg er schnell zur ernsthaften Alternative bei den Profis auf. Nach zwei Bundesliga-Einwechslungen ist der 19 …",
-   "clubs": [
-    81
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/regional/rbb/rbb-bundesliga-was-union-gegen-dortmund-mut-machen-kann-100.html",
-   "title": "Bundesliga: Was Union gegen Dortmund Mut machen kann",
-   "link": "https://www.sportschau.de/regional/rbb/rbb-bundesliga-was-union-gegen-dortmund-mut-machen-kann-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-15T13:48:28Z",
-   "teaser": "Wenn Union Berlin am Samstag Borussia Dortmund in der Fußball-Bundesliga empfängt, sind die Eisernen allein tabellarisch der klare Außenseiter. Trotzdem gibt es einige Faktoren, die für das Team von Mauro Lustrinelli sprechen könnten.",
-   "clubs": [
-    7,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-remberg-aus-fehlt-dem-hsv-auch-sambi-lokonga-gegen-stuttgart-1261737/artikel",
-   "title": "Nach Remberg-Aus: Fehlt dem HSV auch Sambi Lokonga gegen Stuttgart?",
-   "link": "https://www.kicker.de/nach-remberg-aus-fehlt-dem-hsv-auch-sambi-lokonga-gegen-stuttgart-1261737/artikel",
-   "source": "kicker",
-   "published": "2026-10-15T13:36:02Z",
-   "teaser": "Bei beiden Siegen des Hamburger SV in dieser Saison standen sowohl Nicolai Remberg als auch Albert Sambi Lokonga auf der Doppelsechs in der Startelf. Gegen Stuttgart droht dort nun eine Komplettrotation.",
-   "clubs": [
-    16,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ich-weiss-dass-er-ungeduldig-ist-thioune-schraubt-weiser-erwartungen-zurueck-1261731/artikel",
-   "title": "\"Ich weiß, dass er ungeduldig ist\": Thioune schraubt Weiser-Erwartungen zurück",
-   "link": "https://www.kicker.de/ich-weiss-dass-er-ungeduldig-ist-thioune-schraubt-weiser-erwartungen-zurueck-1261731/artikel",
-   "source": "kicker",
-   "published": "2026-10-15T13:33:43Z",
-   "teaser": "Nach dem furiosen Schlussspurt in Dortmund will der SV Werder Bremen gegen den SC Paderborn den dritten Sieg im dritten Heimspiel feiern. Dabei kann auch der gegen den BVB früh ausgewechselte Amos Pieper mitwirken, bei einem anderen …",
-   "clubs": [
-    7,
-    134,
-    31
    ],
    "transfer": false
   }
