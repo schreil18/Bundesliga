@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T20:37:14Z",
+ "updated": "2026-10-22T21:32:57Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/gouweleeuw-mueller-und-der-treue-charly,rekordspieler-100.html",
+   "title": "Gouweleeuw, Müller und der \"treue Charly\"",
+   "link": "https://www.sportschau.de/fussball/bundesliga/gouweleeuw-mueller-und-der-treue-charly,rekordspieler-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-22T19:51:05Z",
+   "teaser": "Jeffrey Gouweleeuw steht kurz davor, alleiniger Rekordspieler des FC Augsburg in der Fußball-Bundesliga zu werden. Er wäre dann in prominenter Gesellschaft mit Thomas Müller und Karl-Heinz-Körbel, dem \"treuen Charly\".",
+   "clubs": [
+    95
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/chukwuemekas-positiver-auftritt-und-ein-kniff-von-kovac-1263779/artikel",
    "title": "Chukwuemekas \"positiver Auftritt\" und ein Kniff von Kovac",
@@ -2541,18 +2553,6 @@
    "clubs": [
     40,
     1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kompany-lacht-vor-regionalligaderby-dante-hat-viel-mehr-haare-als-ich-1261962/video",
-   "title": "Kompany lacht vor Regionalligaderby: \"Dante hat viel mehr Haare als ich\"",
-   "link": "https://www.kicker.de/kompany-lacht-vor-regionalligaderby-dante-hat-viel-mehr-haare-als-ich-1261962/video",
-   "source": "kicker",
-   "published": "2026-10-16T09:14:32Z",
-   "teaser": "Am Sonntag steigt in der Regionalliga Bayern das Derby zwischen 1860 München und dem FC Bayern München II. Auch Max Eberl und Vincent Kompany äußerten sich dazu.",
-   "clubs": [
-    40
    ],
    "transfer": false
   }
