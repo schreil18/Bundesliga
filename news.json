@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T07:47:00Z",
+ "updated": "2026-10-22T08:40:06Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,40 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/stoegers-fehlstart-hattrick-warum-gladbach-daraus-hoffnung-schoepfen-kann-1263579/artikel",
+   "title": "Stögers Fehlstart-Hattrick: Warum Gladbach daraus Hoffnung schöpfen kann",
+   "link": "https://www.kicker.de/stoegers-fehlstart-hattrick-warum-gladbach-daraus-hoffnung-schoepfen-kann-1263579/artikel",
+   "source": "kicker",
+   "published": "2026-10-22T08:34:10Z",
+   "teaser": "Gladbach ist das vierte Team der Liga-Geschichte, das mit sechs Niederlagen in eine Saison startet. Warum für die Borussia damit noch nichts verloren ist, weiß niemand besser als Kevin Stöger.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Argentinien vor Scaloni-Deal - Tresoldi rückt in Arsenals Fokus",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-10-22T08:20:00Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/viessmann-deal-durch-fc-bayern-verkauft-weitere-anteile-1263928/artikel",
+   "title": "Viessmann-Deal durch: FC Bayern verkauft weitere Anteile",
+   "link": "https://www.kicker.de/viessmann-deal-durch-fc-bayern-verkauft-weitere-anteile-1263928/artikel",
+   "source": "kicker",
+   "published": "2026-10-22T08:19:21Z",
+   "teaser": "Das letzte verfügbare Anteilspaket ist verkauft: Die Viessmann Generations Group wird Gesellschafter der FC Bayern München AG. Der Aufsichtsrat wächst damit auch.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/philippes-besonderes-wiedersehen-mit-dem-hsv-1263752/artikel",
    "title": "Philippes besonderes Wiedersehen mit dem HSV",
    "link": "https://www.kicker.de/philippes-besonderes-wiedersehen-mit-dem-hsv-1263752/artikel",
@@ -27,18 +61,6 @@
     31
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Tresoldi rückt in Arsenals Fokus - Drei Szenarien für Augsburgs Claude-Maurice",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-10-21T22:01:21Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [
-    95
-   ],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/auf-dem-weg-zum-abwehrchef-nach-dem-horrorstart-hat-sich-uduokhai-zuegig-stabilisiert-1263696/artikel",
@@ -2540,32 +2562,6 @@
    "clubs": [
     6,
     81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/er-hat-es-eingesehen-huetter-ueber-kochs-reaktion-und-warum-er-gegen-koeln-spielt-1261288/video",
-   "title": "\"Er hat es eingesehen\": Hütter über Kochs Reaktion und warum er gegen Köln spielt",
-   "link": "https://www.kicker.de/er-hat-es-eingesehen-huetter-ueber-kochs-reaktion-und-warum-er-gegen-koeln-spielt-1261288/video",
-   "source": "kicker",
-   "published": "2026-10-14T13:42:02Z",
-   "teaser": "Adi Hütter sprach auf der Pressekonferenz vor dem Spiel von Eintracht Frankfurt gegen den 1. FC Köln über seinen Kapitän Robin Koch, den er nach dem 0:6 in Leipzig zur Halbzeit ausgewechselt und stark kritisiert hatte. Der Trainer …",
-   "clubs": [
-    1635,
-    91,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/chuki-ueber-fuellkrug-die-bruder-wg-und-sein-warten-auf-das-erste-tor-1261275/artikel",
-   "title": "Chuki über Füllkrug, die Bruder-WG - und sein Warten auf das erste Tor",
-   "link": "https://www.kicker.de/chuki-ueber-fuellkrug-die-bruder-wg-und-sein-warten-auf-das-erste-tor-1261275/artikel",
-   "source": "kicker",
-   "published": "2026-10-14T13:37:03Z",
-   "teaser": "Er kam aus der 2. spanischen Liga nach Bremen - und hat sich bei Werder und in der Bundesliga früh akklimatisiert. Nur eine Sache würde Chuki gern zeitnah ändern.",
-   "clubs": [
-    134
    ],
    "transfer": false
   }
