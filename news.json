@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T10:14:44Z",
+ "updated": "2026-10-22T11:08:11Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,30 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/adidas-boom-el-mala-effekt-eigenvermarktung-der-fc-erwartet-ein-rekordergebnis-1264025/artikel",
+   "title": "Adidas-Boom, El-Mala-Effekt, Eigenvermarktung: Der FC erwartet ein Rekordergebnis",
+   "link": "https://www.kicker.de/adidas-boom-el-mala-effekt-eigenvermarktung-der-fc-erwartet-ein-rekordergebnis-1264025/artikel",
+   "source": "kicker",
+   "published": "2026-10-22T10:53:22Z",
+   "teaser": "Der 1. FC Köln setzt in der Vermarktung auf Eigenregie. Geschäftsführer Philipp Liesenfeld zieht eine positive Zwischenbilanz - und will bei der Mitgliederversammlung 2027 ein Rekordergebnis vorlegen.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/im-training-verletzt-woeber-fehlt-schalke-bis-auf-weiteres-1264031/artikel",
+   "title": "Im Training verletzt: Wöber fehlt Schalke \"bis auf Weiteres\"",
+   "link": "https://www.kicker.de/im-training-verletzt-woeber-fehlt-schalke-bis-auf-weiteres-1264031/artikel",
+   "source": "kicker",
+   "published": "2026-10-22T10:47:03Z",
+   "teaser": "Schlechte Nachrichten für den FC Schalke 04: Maximilian Wöber hat sich im Training verletzt und fehlt vorerst.",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/stoegers-fehlstart-hattrick-warum-gladbach-daraus-hoffnung-schoepfen-kann-1263579/artikel",
    "title": "Stögers Fehlstart-Hattrick: Warum Gladbach daraus Hoffnung schöpfen kann",
@@ -2536,32 +2560,6 @@
    "teaser": "In Elversberg wurde Robin Fellhauer Fußballprofi, nun steht die Rückkehr bevor - auf einer anderen Position?",
    "clubs": [
     198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/mehr-schafherde-als-wolfsrudel-huetter-kritisiert-bequemlichkeit-und-fordert-neuen-biss-1261166/artikel",
-   "title": "Mehr Schafherde als Wolfsrudel? Hütter kritisiert Bequemlichkeit und fordert neuen Biss",
-   "link": "https://www.kicker.de/mehr-schafherde-als-wolfsrudel-huetter-kritisiert-bequemlichkeit-und-fordert-neuen-biss-1261166/artikel",
-   "source": "kicker",
-   "published": "2026-10-14T15:53:05Z",
-   "teaser": "Beim 0:6-Debakel in Leipzig ließ sich Frankfurt von der ersten Minute an den Schneid abkaufen. Der brave Auftritt seiner Profis schmeckt Adi Hütter überhaupt nicht. Der Coach stützt Kapitän Robin Koch, verlangt aber einen Mentalitätswandel.",
-   "clubs": [
-    1635,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/rolfes-ueber-einen-zweiten-fall-boniface-das-geht-nicht-1261242/artikel",
-   "title": "Rolfes über einen zweiten Fall Boniface: \"Das geht nicht\"",
-   "link": "https://www.kicker.de/rolfes-ueber-einen-zweiten-fall-boniface-das-geht-nicht-1261242/artikel",
-   "source": "kicker",
-   "published": "2026-10-14T14:54:50Z",
-   "teaser": "Mit seinem verfrühten Gang in die Kabine stellte sich Victor Boniface bei Leverkusens 4:3-Sieg in Mainz ins Abseits. Geschäftsführer Simon Rolfes zeigt zwar Verständnis für den Frust des Stürmers, macht aber auch eindeutig klar, dass eine …",
-   "clubs": [
-    6,
-    81
    ],
    "transfer": false
   }
