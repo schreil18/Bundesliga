@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T22:06:20Z",
+ "updated": "2026-10-22T22:35:30Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/null-punkte-nach-sechs-spielen-so-erging-es-bundesliga-fehlstartern,borussia-moenchengladbach-fehlstart-historie-100.html",
+   "title": "Mönchengladbachs Minusserie: So erging es den Bundesliga-Fehlstartern",
+   "link": "https://www.sportschau.de/fussball/bundesliga/null-punkte-nach-sechs-spielen-so-erging-es-bundesliga-fehlstartern,borussia-moenchengladbach-fehlstart-historie-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-22T22:04:39Z",
+   "teaser": "Borussia Mönchengladbach hat vergangenes Wochenende den Bundesliga-Negativrekord von sechs Niederlagen zum Saisonstart eingestellt. Zwei Klubs schafften mit diesem Fehlstart trotzdem noch den Klassenerhalt.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/gouweleeuw-mueller-und-der-treue-charly,rekordspieler-100.html",
    "title": "Gouweleeuw, Müller und der \"treue Charly\"",
@@ -392,6 +404,18 @@
    "teaser": "Arthur ist nicht nur der schnellste Werder-Spieler in dieser Saison, sondern der Brasilianer hat sich auch innerhalb kürzester Zeit in Bremen akklimatisiert - und eine Lücke im Kader gefüllt, vorerst.",
    "clubs": [
     134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/giovane-elbers-weisse-schuhe,video-historie-weisse-schuhe-100.html",
+   "title": "Als Giovane Elber mit weißen Schuhen seinen Tor-Fluch brach",
+   "link": "https://www.sportschau.de/fussball/bundesliga/giovane-elbers-weisse-schuhe,video-historie-weisse-schuhe-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-21T13:09:09Z",
+   "teaser": "In der Saison 1995/96 hatte Stuttgarts Topstürmer Giovane Elber eine Torflaute. Ein Wechsel seines Schuhwerks half dem Brasilianer wieder beim Toreschießen.",
+   "clubs": [
+    16
    ],
    "transfer": false
   },
@@ -2527,32 +2551,6 @@
    "teaser": "Er bleibt Bayers Pechvogel. Beim 4:0-Sieg in Posen musste Martin Terrier früh mit einer Oberschenkelverletzung ausgewechselt werden. Trainer Carles Martinez schreibt den Angreifer fürs Spiel gegen Freiburg ab. Doch die Zwangspause könne …",
    "clubs": [
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/rolfes-lobt-entwicklungsschritt-und-spitzenreiter-freiburg-keine-ueberraschung-mehr-1261907/artikel",
-   "title": "Rolfes lobt Entwicklungsschritt und Spitzenreiter Freiburg: \"Keine Überraschung mehr\"",
-   "link": "https://www.kicker.de/rolfes-lobt-entwicklungsschritt-und-spitzenreiter-freiburg-keine-ueberraschung-mehr-1261907/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T10:20:02Z",
-   "teaser": "Beim 4:0 in Posen zeigt sich Bayer 04 deutlich konstanter und konsequenter als zuletzt. Manager Simon Rolfes lobt den Entwicklungsschritt. Wie belastbar dieser ist, wird sich schon am Sonntag gegen den SC Freiburg zeigen, der ein ganz …",
-   "clubs": [
-    6,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kompany-ihr-muesst-nach-muenchen-ihr-muesst-gegen-die-bayern-1261964/video",
-   "title": "Kompany: \"Ihr müsst nach München, ihr müsst gegen die Bayern\"",
-   "link": "https://www.kicker.de/kompany-ihr-muesst-nach-muenchen-ihr-muesst-gegen-die-bayern-1261964/video",
-   "source": "kicker",
-   "published": "2026-10-16T09:16:45Z",
-   "teaser": "Bayern-Trainer Vincent Kompany spricht vor dem Spiel gegen RB Leipzig über die aktuelle Form des Rekordmeisters und wirft einen Blick auf die Situation der anderen Vereine.",
-   "clubs": [
-    40,
-    1635
    ],
    "transfer": false
   }
