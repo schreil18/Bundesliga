@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T15:10:10Z",
+ "updated": "2026-10-22T16:08:51Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,43 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wagners-plan-um-schalke-zu-schlagen-die-basics-des-fussballs-leben-1264139/video",
+   "title": "Wagners Plan um Schalke zu schlagen: \"Die Basics des Fußballs leben\"",
+   "link": "https://www.kicker.de/wagners-plan-um-schalke-zu-schlagen-die-basics-des-fussballs-leben-1264139/video",
+   "source": "kicker",
+   "published": "2026-10-22T15:54:59Z",
+   "teaser": "René Wagner hat einen klaren Plan mit Blick auf das Duell mit Schalke 04. Der Köln-Coach analysiert die Gelsenkirchener und verrät, dass nur die Grundtugenden des Fußballs zum Erfolg führen können.",
+   "clubs": [
+    65,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/blessin-ueber-stimmung-ist-ja-klar-dass-hier-niemand-party-macht-1264136/video",
+   "title": "Blessin über Stimmung: \"Ist ja klar, dass hier niemand Party macht\"",
+   "link": "https://www.kicker.de/blessin-ueber-stimmung-ist-ja-klar-dass-hier-niemand-party-macht-1264136/video",
+   "source": "kicker",
+   "published": "2026-10-22T15:32:08Z",
+   "teaser": "Alexander Blessin spricht über die Stimmung innerhalb der Gladbacher Mannschaft. Dem Team ist klar, dass die Lage nicht einfach ist, trotzdem ist es für den Trainer essenziell, dass die Mannschaft den Spaß nicht verliert.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ploetzlich-vorstandsboss-wie-hellmann-seine-neue-rolle-in-frankfurt-interpretiert-1264088/artikel",
+   "title": "Plötzlich Vorstandsboss: Wie Hellmann seine neue Rolle in Frankfurt interpretiert",
+   "link": "https://www.kicker.de/ploetzlich-vorstandsboss-wie-hellmann-seine-neue-rolle-in-frankfurt-interpretiert-1264088/artikel",
+   "source": "kicker",
+   "published": "2026-10-22T15:05:58Z",
+   "teaser": "Nach dem Aus von Sportvorstand Markus Krösche gibt es viel Gesprächsbedarf in Frankfurt. Der zum Vorstandsvorsitzenden aufgestiegene neue \"Eintracht-Kapitän\" Axel Hellmann vermittelte am Donnerstag gleich mehrere wichtige Botschaften.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/hellmann-ueber-transferstrategie-der-eintracht-modifikation-ist-das-zauberwort-1264130/video",
    "title": "Hellmann über Transferstrategie der Eintracht: \"Modifikation ist das Zauberwort\"",
@@ -2521,45 +2558,6 @@
    "clubs": [
     16,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-1-fc-koeln-aushalten-statt-beherrschen-100.html",
-   "title": "Köln vor Frankfurt-Gastspiel - Aushalten statt beherrschen",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-1-fc-koeln-aushalten-statt-beherrschen-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-15T19:59:39Z",
-   "teaser": "Der FC gewinnt Spiele durch Momente, Führungen hält der Verein selten. Trainer René Wagner sieht das gelassen. Reicht das in Frankfurt?",
-   "clubs": [
-    91,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/naechster-ausfall-im-sturm-auch-rondic-fehlt-koeln-1261801/artikel",
-   "title": "Nächster Ausfall im Sturm: Auch Rondic fehlt Köln",
-   "link": "https://www.kicker.de/naechster-ausfall-im-sturm-auch-rondic-fehlt-koeln-1261801/artikel",
-   "source": "kicker",
-   "published": "2026-10-15T15:48:11Z",
-   "teaser": "Der 1. FC Köln hat den nächsten Verletzten im Sturm zu beklagen: Imad Rondic fällt für das Spiel bei Eintracht Frankfurt aus.",
-   "clubs": [
-    91,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/lob-als-stoerfaktor-baums-lehren-aus-dem-bayern-spiel-1261806/video",
-   "title": "Lob als Störfaktor? Baums Lehren aus dem Bayern-Spiel",
-   "link": "https://www.kicker.de/lob-als-stoerfaktor-baums-lehren-aus-dem-bayern-spiel-1261806/video",
-   "source": "kicker",
-   "published": "2026-10-15T15:30:28Z",
-   "teaser": "Manuel Baum und seine Mannschaft waren nach dem 2:2 gegen die Bayern und Robin Fellhauers schnellstem Bundesligator öfter Gesprächsthema als sonst. Der Augsburg-Trainer verrät, warum so etwas einer Mannschaft auch schaden kann.",
-   "clubs": [
-    40,
-    95
    ],
    "transfer": false
   }
