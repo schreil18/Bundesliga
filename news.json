@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T16:08:51Z",
+ "updated": "2026-10-22T17:07:58Z",
  "sources": [
   {
    "name": "kicker",
@@ -29,6 +29,19 @@
    "transfer": false
   },
   {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-gehen-die-spieler-aus-100.html",
+   "title": "Schalke 04 gehen die Spieler aus",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-gehen-die-spieler-aus-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-22T15:32:47Z",
+   "teaser": "Schlechter könnte die Aussicht auf das Bundesligaspiel beim 1. FC Köln für Schalke 04 kaum sein: Es fallen weitere Spieler aus.",
+   "clubs": [
+    65,
+    9
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/blessin-ueber-stimmung-ist-ja-klar-dass-hier-niemand-party-macht-1264136/video",
    "title": "Blessin über Stimmung: \"Ist ja klar, dass hier niemand Party macht\"",
    "link": "https://www.kicker.de/blessin-ueber-stimmung-ist-ja-klar-dass-hier-niemand-party-macht-1264136/video",
@@ -36,6 +49,19 @@
    "published": "2026-10-22T15:32:08Z",
    "teaser": "Alexander Blessin spricht über die Stimmung innerhalb der Gladbacher Mannschaft. Dem Team ist klar, dass die Lage nicht einfach ist, trotzdem ist es für den Trainer essenziell, dass die Mannschaft den Spaß nicht verliert.",
    "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-vorbilder-machen-mut-jetzt-muss-gladbach-eins-werden-100.html",
+   "title": "Vorbilder machen Mut - Gelingt Gladbach die Wende in Stuttgart?",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-vorbilder-machen-mut-jetzt-muss-gladbach-eins-werden-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-22T15:21:00Z",
+   "teaser": "Die Historie zeigt: Ein Fehlstart wie ihn Borussia Mönchengladbach hingelegt hat, muss längst nicht den Abstieg bedeuten.",
+   "clubs": [
+    16,
     87
    ],
    "transfer": false
@@ -138,6 +164,18 @@
    "teaser": "Keine guten Nachrichten für den FC Bayern München: Luis Diaz hat sich in der Champions League verletzt und fehlt dem Rekordmeister in den nächsten Wochen.",
    "clubs": [
     40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/die-zwei-vfb-gesichter-wirklich-keine-spitzenmannschaft-1264108/video",
+   "title": "Die zwei VfB-Gesichter: Wirklich keine \"Spitzenmannschaft\"?",
+   "link": "https://www.kicker.de/die-zwei-vfb-gesichter-wirklich-keine-spitzenmannschaft-1264108/video",
+   "source": "kicker",
+   "published": "2026-10-22T13:37:21Z",
+   "teaser": "In der neuen Folge \"Was geht, Bundesliga?\" spricht kicker-Reporter George Moissidis über die jüngsten Leistungen des VfB Stuttgart. Während es in der Champions League sehr gut läuft, gab es in der Bundesliga in sechs Spielen vier …",
+   "clubs": [
+    16
    ],
    "transfer": false
   },
@@ -2518,46 +2556,6 @@
    "teaser": "Die Sorgen im Sommer waren groß. Gemessen daran läuft die bisherige Bundesliga-Saison für Werder Bremen sehr gut. Platz sieben nach 5 Spielen. Woran liegt das?",
    "clubs": [
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-stammplatzgarantie-als-letzte-warnung-fuer-kapitaen-koch-100.html",
-   "title": "Krise in Frankfurt - Hütter nimmt Kapitän Koch in die Pflicht",
-   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-stammplatzgarantie-als-letzte-warnung-fuer-kapitaen-koch-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-16T06:04:48Z",
-   "teaser": "Auf die Demontage von Leipzig folgt die Wiedereingliederung gegen Köln: Adi Hütter spricht Robin Koch das Vertrauen aus, der Druck auf den Kapitän von Eintracht Frankfurt wird dadurch aber noch größer.",
-   "clubs": [
-    1635,
-    91,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wer-uebertraegt-eintracht-frankfurt-gegen-1-fc-koeln-live-im-tv-und-stream-1261207/artikel",
-   "title": "Wer überträgt Eintracht Frankfurt gegen 1. FC Köln live im TV und Stream?",
-   "link": "https://www.kicker.de/wer-uebertraegt-eintracht-frankfurt-gegen-1-fc-koeln-live-im-tv-und-stream-1261207/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T05:30:00Z",
-   "teaser": "Eintracht Frankfurt trifft zum Auftakt des 6. Bundesliga-Spieltags auf den 1. FC Köln. Wo ihr die Partie live verfolgen könnt, erfahrt ihr hier.",
-   "clubs": [
-    91,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/ndr/hsv-ohne-rambo-remberg-wer-rueckt-auf-seine-position,hsv-2222.html",
-   "title": "HSV ohne \"Rambo\" Remberg - wer rückt auf seine Position?",
-   "link": "https://www.sportschau.de/regional/ndr/hsv-ohne-rambo-remberg-wer-rueckt-auf-seine-position,hsv-2222.html",
-   "source": "Sportschau",
-   "published": "2026-10-15T20:13:09Z",
-   "teaser": "Der langwierige Ausfall des Kapitäns wiegt schwer. Kofi Amoako könnte gegen den VfB Stuttgart der Ersatz für Nicolai Remberg sein.",
-   "clubs": [
-    16,
-    100
    ],
    "transfer": false
   }
