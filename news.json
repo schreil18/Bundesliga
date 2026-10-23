@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T15:37:26Z",
+ "updated": "2026-10-23T16:37:37Z",
  "sources": [
   {
    "name": "kicker",
@@ -25,6 +25,31 @@
    "clubs": [
     16,
     87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/sorgen-beim-fc-bayern-kompany-in-krankenhaus-eingeliefert-1264411/artikel",
+   "title": "Sorgen beim FC Bayern: Kompany in Krankenhaus eingeliefert",
+   "link": "https://www.kicker.de/sorgen-beim-fc-bayern-kompany-in-krankenhaus-eingeliefert-1264411/artikel",
+   "source": "kicker",
+   "published": "2026-10-23T16:24:39Z",
+   "teaser": "Vincent Kompany wurde am Freitag mit einem Notarzt in ein Münchner Krankenhaus eingeliefert. Die genauen Ursachen sind noch unbekannt. Der FC Bayern äußerte sich inzwischen auch.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/das-blau-weisse-fiasko-des-toni-schumacher,historie-toni-schumacher-100.html",
+   "title": "Das blau-weisse Fiasko des Toni Schumacher",
+   "link": "https://www.sportschau.de/fussball/das-blau-weisse-fiasko-des-toni-schumacher,historie-toni-schumacher-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-23T16:07:22Z",
+   "teaser": "Kölns Torwartlegende Toni Schumacher wurde 1987 nach der Veröffentlichung seiner Autobiografie \"Anpfiff\" vom Hof gejagt. Im Jahr darauf kämpfte er mit Schalke 04 gegen den Abstieg - und das auch noch vergeblich.",
+   "clubs": [
+    65,
+    9
    ],
    "transfer": false
   },
@@ -2530,31 +2555,6 @@
     1635,
     91,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/eintracht-frankfurt-gegen-1-fc-koeln,audiostream-eintracht-frankfurt-gegen-1-fc-koeln-106.html",
-   "title": "Live hören: Eintracht Frankfurt gegen 1. FC Köln - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/eintracht-frankfurt-gegen-1-fc-koeln,audiostream-eintracht-frankfurt-gegen-1-fc-koeln-106.html",
-   "source": "Sportschau",
-   "published": "2026-10-16T18:15:00Z",
-   "teaser": "6. Spieltag: Anpfiff des Spiels ist am 16.10.2026 um 20:30 Uhr. 1. FC Köln spielt in Frankfurt am Main.",
-   "clubs": [
-    91,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/naechster-rueckschlag-pechvogel-terrier-fehlt-leverkusen-wochenlang-1261970/artikel",
-   "title": "Nächster Rückschlag: Pechvogel Terrier fehlt Leverkusen wochenlang",
-   "link": "https://www.kicker.de/naechster-rueckschlag-pechvogel-terrier-fehlt-leverkusen-wochenlang-1261970/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T18:12:54Z",
-   "teaser": "Er bleibt Bayers Pechvogel. Beim 4:0-Sieg in Posen musste Martin Terrier früh mit einer Oberschenkelverletzung ausgewechselt werden. Nun steht die Diagnose fest: Der Franzose wird Leverkusen wochenlang fehlen.",
-   "clubs": [
-    6
    ],
    "transfer": false
   }
