@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T09:10:31Z",
+ "updated": "2026-10-23T10:08:28Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,83 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/vfb-stuttgart-gegen-borussia-moenchengladbach,audiostream-vfb-stuttgart-gegen-borussia-moenchengladbach-106.html",
+   "title": "Live hören: VfB Stuttgart gegen Borussia Mönchengladbach - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/vfb-stuttgart-gegen-borussia-moenchengladbach,audiostream-vfb-stuttgart-gegen-borussia-moenchengladbach-106.html",
+   "source": "Sportschau",
+   "published": "2026-10-23T18:15:00Z",
+   "teaser": "7. Spieltag: Anpfiff des Spiels ist am 23.10.2026 um 20:30 Uhr. Borussia Mönchengladbach spielt in Stuttgart.",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/swr/swr-noch-selbstbewusster-stuttgarts-jamie-leweling-kommt-in-fahrt-100.html",
+   "title": "\"Noch selbstbewusster\" - Stuttgarts Jamie Leweling kommt in Fahrt",
+   "link": "https://www.sportschau.de/regional/swr/swr-noch-selbstbewusster-stuttgarts-jamie-leweling-kommt-in-fahrt-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-23T09:47:39Z",
+   "teaser": "Der VfB Stuttgart hadert mit dem 1:1 gegen Atlético Madrid. Stürmer Jamie Leweling hat dennoch gute Laune - und könnte auch gegen Mönchengladbach zum Erfolgsfaktor werden.",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/zweistellige-ausfallliste-auch-kapitaen-diks-fehlt-gladbach-in-stuttgart-1264294/artikel",
+   "title": "Zweistellige Ausfallliste: Auch Kapitän Diks fehlt Gladbach in Stuttgart",
+   "link": "https://www.kicker.de/zweistellige-ausfallliste-auch-kapitaen-diks-fehlt-gladbach-in-stuttgart-1264294/artikel",
+   "source": "kicker",
+   "published": "2026-10-23T09:43:28Z",
+   "teaser": "Die Lage bei Bundesliga-Schlusslicht Borussia Mönchengladbach ist vor dem 7. Spieltag ohnehin schon prekär. Nun fehlt beim Auswärtsspiel in Stuttgart auch noch Abwehrchef und Vize-Kapitän Kevin Diks.",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194353/vfb-stuttgart_borussia-moenchengladbach/liveticker",
+   "title": "Ab 20.30 Uhr live - Stuttgart empfängt punktlose Gladbacher",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194353/vfb-stuttgart_borussia-moenchengladbach/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-23T09:41:07Z",
+   "teaser": "Borussia Mönchengladbach trifft im Freitagabendspiel auf den VfB Stuttgart. Die Mannschaft von Trainer Alexander Blessin wartet noch auf die ersten Saisonpunkte.",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-schalkes-karius-und-die-hoffnung-aufs-dfb-team-100.html",
+   "title": "Schalkes Karius und die Hoffnung aufs DFB-Team",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-schalkes-karius-und-die-hoffnung-aufs-dfb-team-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-23T09:27:02Z",
+   "teaser": "Schalkes Karius hat sich mit starken Leistungen für die Nationalelf empfohlen. Aber sieht das Bundestrainer Klopp auch so?",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-will-von-gladbach-2-0-nichts-wissen-100.html",
+   "title": "Eintracht Frankfurt will von \"Gladbach 2.0\" nichts wissen",
+   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-will-von-gladbach-2-0-nichts-wissen-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-23T09:25:46Z",
+   "teaser": "An Spekulationen zum Markus-Krösche-Nachfolger will sich der Frankfurter Vorstandsvorsitzende Axel Hellmann nicht beteiligen. Dennoch sendet er diverse Botschaften - eine zentrale: Die Eintracht will wieder angreifen. Diesmal nur auf …",
+   "clubs": [
+    91,
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/das-bundesliga-quiz-zum-7-spieltag-1264265/artikel",
    "title": "Das Bundesliga-Quiz zum 7. Spieltag",
@@ -2477,82 +2554,6 @@
    "teaser": "Bayern-Präsident Herbert Hainer spricht im Interview über das Münchener Regionalliga-Derby und die intensiven kommenden Wochen für den FC Bayern",
    "clubs": [
     40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-tim-kleindienst-fehlt-moenchengladbach-erneut-100.html",
-   "title": "Tim Kleindienst fehlt Mönchengladbach erneut",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-tim-kleindienst-fehlt-moenchengladbach-erneut-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-16T13:39:00Z",
-   "teaser": "Borussia Mönchengladbach geht mit Personalsorgen ins Kellerduell gegen die TSG Hoffenheim. Tim Kleindienst fällt erneut aus.",
-   "clubs": [
-    175,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/der-bayern-vorstand-den-die-nazis-hinrichteten-gedenktafel-fuer-willi-buisson-1261913/artikel",
-   "title": "Der Bayern-Vorstand, den die Nazis hinrichteten: Gedenktafel für Willi Buisson",
-   "link": "https://www.kicker.de/der-bayern-vorstand-den-die-nazis-hinrichteten-gedenktafel-fuer-willi-buisson-1261913/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T12:37:07Z",
-   "teaser": "Schon 2015 erinnerten die Fans des FC Bayern mit einer Choreografie an Willi Buisson, der einst weit mehr als nur ein Vorstandsmitglied des Klubs war. Am Freitag wurde zu seinen Ehren eine Gedenktafel in München eingeweiht.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kovacs-klarer-appell-und-seine-anforderung-fuer-die-startelf-1261992/artikel",
-   "title": "Kovacs klarer Appell - und seine Anforderung für die Startelf",
-   "link": "https://www.kicker.de/kovacs-klarer-appell-und-seine-anforderung-fuer-die-startelf-1261992/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T12:29:42Z",
-   "teaser": "Das 2:2 gegen Bremen war ein Rückschlag, das 0:1 in Bodö ein echter Dämpfer. Doch in anspruchsvollen Wochen von Borussia Dortmund bleibt nicht viel Zeit, um darüber nachzudenken. Gegen Union Berlin will Niko Kovac auf die Spieler setzen …",
-   "clubs": [
-    7,
-    134,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-kompany-beschwoert-allerbeste-version-des-fc-bayern-102.html",
-   "title": "Kompany beschwört \"allerbeste Version\" des FC Bayern",
-   "link": "https://www.sportschau.de/regional/br/br-kompany-beschwoert-allerbeste-version-des-fc-bayern-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-16T12:01:33Z",
-   "teaser": "Das Heimspiel gegen RB Leipzig markiert den Start in herausfordernde Wochen für den FC Bayern. Nach der Enttäuschung von Stavanger setzt Trainer Vincent Kompany darauf, dass seine Spieler genau jetzt gegen die Topgegner ihren bekannten …",
-   "clubs": [
-    40,
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-vor-dem-tor-fehlt-der-letzte-kick-100.html",
-   "title": "Vor dem Tor fehlt der letzte Kick",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-vor-dem-tor-fehlt-der-letzte-kick-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-16T11:59:00Z",
-   "teaser": "Aufsteiger SC Paderborn ist eigentlich gut in der Bundesliga angekommen, wenn da nicht die schwache Chancenverwertung wäre.",
-   "clubs": [
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/das-ist-mir-zu-billig-kovac-stellt-sich-vor-beier-1261991/video",
-   "title": "\"Das ist mir zu billig\": Kovac stellt sich vor Beier",
-   "link": "https://www.kicker.de/das-ist-mir-zu-billig-kovac-stellt-sich-vor-beier-1261991/video",
-   "source": "kicker",
-   "published": "2026-10-16T11:00:56Z",
-   "teaser": "Niko Kovac stellte sich auf der BVB-PK vor Maximilian Beier, der immer häufiger in der Kritik steht. Für den Dortmund-Trainer nicht nachvollziehbar.",
-   "clubs": [
-    7
    ],
    "transfer": false
   }
