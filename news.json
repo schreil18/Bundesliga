@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T18:38:47Z",
+ "updated": "2026-10-23T19:34:46Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,11 +16,24 @@
  ],
  "items": [
   {
-   "id": "https://www.kicker.de/live-nicolas-sieht-bei-demirovics-direktabnahme-schlecht-aus-stuttgart-fuehrt-1263985/artikel",
-   "title": "LIVE! Nicolas sieht bei Demirovics Direktabnahme schlecht aus: Stuttgart führt",
-   "link": "https://www.kicker.de/live-nicolas-sieht-bei-demirovics-direktabnahme-schlecht-aus-stuttgart-fuehrt-1263985/artikel",
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194353/vfb-stuttgart_borussia-moenchengladbach/liveticker",
+   "title": "Pause - Gladbach lässt in verrücktem Spiel die Führung liegen",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194353/vfb-stuttgart_borussia-moenchengladbach/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-23T19:22:28Z",
+   "teaser": "In der Anfangsphase sah es so aus, als könnte Stuttgart die bisher noch punktlosen Gladbacher vorführen - aber dann kippte das Spiel. Gladbach glich aus und und hätte die Partie sogar drehen müssen.",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-ploetzlich-ist-gladbach-am-druecker-mohya-an-die-latte-1263985/artikel",
+   "title": "LIVE! Plötzlich ist Gladbach am Drücker: Mohya an die Latte",
+   "link": "https://www.kicker.de/live-ploetzlich-ist-gladbach-am-druecker-mohya-an-die-latte-1263985/artikel",
    "source": "kicker",
-   "published": "2026-10-23T18:36:26Z",
+   "published": "2026-10-23T19:20:43Z",
    "teaser": "Beim VfB Stuttgart läuft längst nicht alles rund, nichtsdestotrotz gehen die Schwaben gegen das punktlose Schlusslicht Gladbach als klarer Favorit ins Spiel.",
    "clubs": [
     16,
@@ -29,12 +42,12 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194353/vfb-stuttgart_borussia-moenchengladbach/liveticker",
-   "title": "Jetzt live - Stuttgart empfängt punktlose Gladbacher",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194353/vfb-stuttgart_borussia-moenchengladbach/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-23T18:17:02Z",
-   "teaser": "Borussia Mönchengladbach trifft im Freitagabendspiel auf den VfB Stuttgart. Die Mannschaft von Trainer Alexander Blessin wartet noch auf die ersten Saisonpunkte.",
+   "id": "https://www.kicker.de/live-nicolas-sieht-bei-demirovics-direktabnahme-schlecht-aus-stuttgart-fuehrt-1263985/artikel",
+   "title": "LIVE! Nicolas sieht bei Demirovics Direktabnahme schlecht aus: Stuttgart führt",
+   "link": "https://www.kicker.de/live-nicolas-sieht-bei-demirovics-direktabnahme-schlecht-aus-stuttgart-fuehrt-1263985/artikel",
+   "source": "kicker",
+   "published": "2026-10-23T18:36:26Z",
+   "teaser": "Beim VfB Stuttgart läuft längst nicht alles rund, nichtsdestotrotz gehen die Schwaben gegen das punktlose Schlusslicht Gladbach als klarer Favorit ins Spiel.",
    "clubs": [
     16,
     87
@@ -2533,19 +2546,6 @@
    "source": "kicker",
    "published": "2026-10-16T20:32:45Z",
    "teaser": "Eintracht Frankfurt gewinnt das erste Bundesliga-Heimspiel seit März und feiert dank des 1:0-Sieges gegen den 1. FC Köln einen kleinen Befreiungsschlag. Am Ende war es Ebnoutalib, der den Kölner Abwehrriegel einmal durchbrechen konnte.",
-   "clubs": [
-    91,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/erloeser-ebnoutalib-frankfurt-knackt-koelner-abwehrriegel-1261676/artikel",
-   "title": "Erlöser Ebnoutalib: Frankfurt knackt Kölner Abwehrriegel",
-   "link": "https://www.kicker.de/erloeser-ebnoutalib-frankfurt-knackt-koelner-abwehrriegel-1261676/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T20:26:24Z",
-   "teaser": "Lange Zeit entnervte der 1. FC Köln dank klarem Fokus auf die Defensive die Frankfurter Eintracht - und musste sich am Ende dann aber doch beugen, weil Ebnoutalib einen Zuckerpass zum 1:0-Siegtreffer verwandelte.",
    "clubs": [
     91,
     65
