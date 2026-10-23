@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T03:08:57Z",
+ "updated": "2026-10-23T04:09:07Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wer-uebertraegt-stuttgart-gegen-gladbach-heute-live-im-tv-stream-1263277/artikel",
+   "title": "Wer überträgt Stuttgart gegen Gladbach heute live im TV & Stream?",
+   "link": "https://www.kicker.de/wer-uebertraegt-stuttgart-gegen-gladbach-heute-live-im-tv-stream-1263277/artikel",
+   "source": "kicker",
+   "published": "2026-10-23T04:00:00Z",
+   "teaser": "Zum Auftakt des 7. Spieltags in der Bundesliga empfängt der VfB Stuttgart die kriselnde Borussia aus Mönchengladbach. Wo ihr die Partie heute live im TV und Stream verfolgen könnt, erfahrt ihr hier.",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/null-punkte-nach-sechs-spielen-so-erging-es-bundesliga-fehlstartern,borussia-moenchengladbach-fehlstart-historie-100.html",
    "title": "Mönchengladbachs Minusserie: So erging es den Bundesliga-Fehlstartern",
@@ -2540,18 +2553,6 @@
    "published": "2026-10-16T10:40:56Z",
    "teaser": "Was haben Jan Koller, Michael Tarnat, Mike Büskens, Jan Rosenthal, Sebastian Polter und Kevin Großkreutz gemeinsam? Sie alle mussten auf einmal ungeplant ins Tor ihrer Mannschaft - mit unterschiedlichen Ausgängen...",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ist-die-sehne-beteiligt-bayer-bangt-um-pechvogel-terrier-1261970/artikel",
-   "title": "Ist die Sehne beteiligt? Bayer bangt um Pechvogel Terrier",
-   "link": "https://www.kicker.de/ist-die-sehne-beteiligt-bayer-bangt-um-pechvogel-terrier-1261970/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T10:28:32Z",
-   "teaser": "Er bleibt Bayers Pechvogel. Beim 4:0-Sieg in Posen musste Martin Terrier früh mit einer Oberschenkelverletzung ausgewechselt werden. Trainer Carles Martinez schreibt den Angreifer fürs Spiel gegen Freiburg ab. Doch die Zwangspause könne …",
-   "clubs": [
-    112
-   ],
    "transfer": false
   }
  ]
