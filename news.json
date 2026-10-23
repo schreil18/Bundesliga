@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T10:08:28Z",
+ "updated": "2026-10-23T11:06:09Z",
  "sources": [
   {
    "name": "kicker",
@@ -25,6 +25,19 @@
    "clubs": [
     16,
     87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/huetter-ueber-uzun-dann-wird-er-sich-moeglicherweise-selbst-im-weg-stehen-1261022/artikel",
+   "title": "Hütter über Uzun: \"Dann wird er sich möglicherweise selbst im Weg stehen\"",
+   "link": "https://www.kicker.de/huetter-ueber-uzun-dann-wird-er-sich-moeglicherweise-selbst-im-weg-stehen-1261022/artikel",
+   "source": "kicker",
+   "published": "2026-10-23T10:51:41Z",
+   "teaser": "Nach dem Sieg gegen Köln verpackte Eintracht-Trainer Adi Hütter seine Kritik an Can Uzun geschickt. Vor dem Duell mit dem BVB wurde er abermals auf sein Talent angesprochen - und ging etwas ins Detail.",
+   "clubs": [
+    7,
+    65
    ],
    "transfer": false
   },
@@ -2542,18 +2555,6 @@
    "teaser": "Ein Muskelfaserriss bedeutet die nächste Ausfallzeit für Tim Kleindienst, den Kapitän der Borussia. Zu den Gladbacher Problemen gehört, dass bisher keiner der möglichen Stellvertreter zündet.",
    "clubs": [
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hainer-bei-mir-ist-die-anspannung-groesser-als-bei-den-spielern-1262038/video",
-   "title": "Hainer: \"Bei mir ist die Anspannung größer, als bei den Spielern\"",
-   "link": "https://www.kicker.de/hainer-bei-mir-ist-die-anspannung-groesser-als-bei-den-spielern-1262038/video",
-   "source": "kicker",
-   "published": "2026-10-16T13:40:18Z",
-   "teaser": "Bayern-Präsident Herbert Hainer spricht im Interview über das Münchener Regionalliga-Derby und die intensiven kommenden Wochen für den FC Bayern",
-   "clubs": [
-    40
    ],
    "transfer": false
   }
