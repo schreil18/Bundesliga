@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T11:39:19Z",
+ "updated": "2026-10-23T12:39:17Z",
  "sources": [
   {
    "name": "kicker",
@@ -29,6 +29,42 @@
    "transfer": false
   },
   {
+   "id": "https://www.kicker.de/ich-bin-nur-hier-um-ihn-zu-unterstuetzen-aber-auch-ihm-die-augen-zu-oeffnen-1264348/video",
+   "title": "\"Ich bin nur hier, um ihn zu unterstützen, aber auch ihm die Augen zu öffnen\"",
+   "link": "https://www.kicker.de/ich-bin-nur-hier-um-ihn-zu-unterstuetzen-aber-auch-ihm-die-augen-zu-oeffnen-1264348/video",
+   "source": "kicker",
+   "published": "2026-10-23T12:11:28Z",
+   "teaser": "Eintracht-Coach Adi Hütter spricht Klartext um SGE-Juwel Can Uzun und fordert von seinem Schützling eine bessere Einstellung, ansonsten sei eine große Karriere in Gefahr.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/huetter-aus-versprecher-laesst-huetter-schmunzeln-1264346/video",
+   "title": "\"Hütter-Aus\": Versprecher lässt Hütter schmunzeln",
+   "link": "https://www.kicker.de/huetter-aus-versprecher-laesst-huetter-schmunzeln-1264346/video",
+   "source": "kicker",
+   "published": "2026-10-23T11:56:51Z",
+   "teaser": "Auf der Pressekonferenz vor der Partie gegen Borussia Dortmund war die \"intensive Woche\" der Eintracht mit dem Abgang von Markus Krösche Thema. Ein Versprecher eines Journalisten sorgte für ein paar Lacher.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kovac-vor-duell-mit-dem-ex-klub-wo-ich-arbeite-lasse-ich-mein-herz-1264343/video",
+   "title": "Kovac vor Duell mit dem Ex-Klub: \"Wo ich arbeite, lasse ich mein Herz\"",
+   "link": "https://www.kicker.de/kovac-vor-duell-mit-dem-ex-klub-wo-ich-arbeite-lasse-ich-mein-herz-1264343/video",
+   "source": "kicker",
+   "published": "2026-10-23T11:52:39Z",
+   "teaser": "Nach den Reisestrapazen in der Königsklasse will Niko Kovac mit seinem Team auch den Bundesliga-Alltag erfolgreich meistern. Das Duell gegen seinen Ex-Verein aus Frankfurt hat immer einen besonderen Stellenwert für den 55-Jährigen.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/huetter-ueber-uzun-dann-wird-er-sich-moeglicherweise-selbst-im-weg-stehen-1261022/artikel",
    "title": "Hütter über Uzun: \"Dann wird er sich möglicherweise selbst im Weg stehen\"",
    "link": "https://www.kicker.de/huetter-ueber-uzun-dann-wird-er-sich-moeglicherweise-selbst-im-weg-stehen-1261022/artikel",
@@ -38,6 +74,18 @@
    "clubs": [
     7,
     65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kein-handyverbot-fuer-die-spieler-bei-kovac-mit-einer-ausnahme-1264315/artikel",
+   "title": "Kein Handyverbot für die Spieler bei Kovac - mit einer Ausnahme",
+   "link": "https://www.kicker.de/kein-handyverbot-fuer-die-spieler-bei-kovac-mit-einer-ausnahme-1264315/artikel",
+   "source": "kicker",
+   "published": "2026-10-23T10:28:57Z",
+   "teaser": "Die Fans von Borussia Dortmund sollen während den Spielen ihr Handy nicht mehr benutzen und in den \"FanModus\" wechseln. Aber was erlaubt Niko Kovac eigentlich seinen Spielern?",
+   "clubs": [
+    7
    ],
    "transfer": false
   },
@@ -114,6 +162,19 @@
    "teaser": "An der Spitze der Bundesliga-Tabelle entwickelt sich aktuell ein Vierkampf, im Keller hofft Borussia Mönchengladbach auf seinen ersten Punkt. Bist du gut vorbereitet auf den 7. Spieltag?",
    "clubs": [
     87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/starker-deutscher-europapokal-start-zeigt-sich-im-uefa-ranking-1264267/artikel",
+   "title": "Starker deutscher Europapokal-Start zeigt sich im UEFA-Ranking",
+   "link": "https://www.kicker.de/starker-deutscher-europapokal-start-zeigt-sich-im-uefa-ranking-1264267/artikel",
+   "source": "kicker",
+   "published": "2026-10-23T08:41:40Z",
+   "teaser": "In der Europa League zeigten Leverkusen und Hoffenheim ihren Gegnern die Grenzen auf und rundeten damit einen starken ersten Gesamteindruck der Bundesliga im Europapokal ab. Das schlägt sich auch im UEFA-Ranking nieder.",
+   "clubs": [
+    6,
+    175
    ],
    "transfer": false
   },
@@ -2494,67 +2555,6 @@
    "clubs": [
     40,
     1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/stadionallianzen-was-im-westen-schief-laeuft,stadionallianzen-fussball-100.html",
-   "title": "Stadionallianzen - was im Westen schiefläuft",
-   "link": "https://www.sportschau.de/fussball/bundesliga/stadionallianzen-was-im-westen-schief-laeuft,stadionallianzen-fussball-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-16T15:45:39Z",
-   "teaser": "Warum funktioniert in NRW nicht, was anderswo erfolgreich ist? Fanprojekte und Kommunen fühlen sich übergangen. Ist das Projekt bereits gescheitert?",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bei-seiner-rueckkehr-nach-muenchen-demichelis-will-die-flucht-nach-vorn-suchen-1261942/artikel",
-   "title": "Bei seiner Rückkehr nach München: Demichelis will die Flucht nach vorn suchen",
-   "link": "https://www.kicker.de/bei-seiner-rueckkehr-nach-muenchen-demichelis-will-die-flucht-nach-vorn-suchen-1261942/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T14:03:34Z",
-   "teaser": "16 Jahre nach seinem letzten Heimspiel für den FC Bayern kehrt Martin Demichelis in die Allianz-Arena zurück. Nimmt man die letzten RB-Gastspiele zum Maßstab, scheint seine Mission mit Leipzig nahezu aussichtslos.",
-   "clubs": [
-    40,
-    1635
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/blessin-trainer-du-hast-gar-keine-ahnung-du-vollpfosten-1262048/video",
-   "title": "Blessin: \"Trainer, du hast gar keine Ahnung, du Vollpfosten\"",
-   "link": "https://www.kicker.de/blessin-trainer-du-hast-gar-keine-ahnung-du-vollpfosten-1262048/video",
-   "source": "kicker",
-   "published": "2026-10-16T14:00:19Z",
-   "teaser": "Vor dem Spiel gegen die TSG Hoffenheim ging es auf der Pressekonferenz in Mönchengladbach um die Härtefälle, die nicht für den Kader nominiert werden, wie Kevin Stöger gegen Köln. Gladbach-Trainer Alexander Blessin erklärte seine …",
-   "clubs": [
-    175,
-    87,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hainer-zu-wirtz-form-tut-mir-fast-leid-fuer-ihn-1262046/video",
-   "title": "Hainer zu Wirtz-Form: \"Tut mir fast leid für ihn\"",
-   "link": "https://www.kicker.de/hainer-zu-wirtz-form-tut-mir-fast-leid-fuer-ihn-1262046/video",
-   "source": "kicker",
-   "published": "2026-10-16T13:58:01Z",
-   "teaser": "Bayern-Präsident Herbert Hainer schwärmt zwar von Florian Wirtz betont aber, dass er aufgrund des aktuellen Kaders der Bayern, kein Thema in München sei.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wieder-etwas-neues-kleindiensts-unendliche-leidenszeit-1262031/artikel",
-   "title": "\"Wieder etwas Neues\": Kleindiensts unendliche Leidenszeit",
-   "link": "https://www.kicker.de/wieder-etwas-neues-kleindiensts-unendliche-leidenszeit-1262031/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T13:45:30Z",
-   "teaser": "Ein Muskelfaserriss bedeutet die nächste Ausfallzeit für Tim Kleindienst, den Kapitän der Borussia. Zu den Gladbacher Problemen gehört, dass bisher keiner der möglichen Stellvertreter zündet.",
-   "clubs": [
-    87
    ],
    "transfer": false
   }
