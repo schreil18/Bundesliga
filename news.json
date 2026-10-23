@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T08:13:10Z",
+ "updated": "2026-10-23T09:10:31Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,30 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/das-bundesliga-quiz-zum-7-spieltag-1264265/artikel",
+   "title": "Das Bundesliga-Quiz zum 7. Spieltag",
+   "link": "https://www.kicker.de/das-bundesliga-quiz-zum-7-spieltag-1264265/artikel",
+   "source": "kicker",
+   "published": "2026-10-23T08:45:45Z",
+   "teaser": "An der Spitze der Bundesliga-Tabelle entwickelt sich aktuell ein Vierkampf, im Keller hofft Borussia Mönchengladbach auf seinen ersten Punkt. Bist du gut vorbereitet auf den 7. Spieltag?",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bundestrainer-oder-noch-experte-kahn-wundert-sich-ueber-klopp-1264258/artikel",
+   "title": "Bundestrainer oder noch Experte? Kahn wundert sich über Klopp",
+   "link": "https://www.kicker.de/bundestrainer-oder-noch-experte-kahn-wundert-sich-ueber-klopp-1264258/artikel",
+   "source": "kicker",
+   "published": "2026-10-23T08:22:04Z",
+   "teaser": "Jürgen Klopp wunderte sich in einem TV-Interview über das Abwehrverhalten des FC Bayern. Nun reagiert Oliver Kahn und zeigt kein Verständnis für den Bundestrainer.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wer-uebertraegt-stuttgart-gegen-gladbach-heute-live-im-tv-stream-1263277/artikel",
    "title": "Wer überträgt Stuttgart gegen Gladbach heute live im TV & Stream?",
@@ -2530,29 +2554,6 @@
    "clubs": [
     7
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/der-meister-ist-zum-siegen-verdammt-1261986/video",
-   "title": "\"Der Meister ist zum Siegen verdammt\"",
-   "link": "https://www.kicker.de/der-meister-ist-zum-siegen-verdammt-1261986/video",
-   "source": "kicker",
-   "published": "2026-10-16T10:48:16Z",
-   "teaser": "Die Bayern wollen gegen RB Leipzig wieder in die Erfolgsspur finden. Unser kicker-Reporter Mario Krischel berichtet aus München, wie das gelingen kann.",
-   "clubs": [
-    40,
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/als-koller-grosskreutz-tarnat-co-auf-einmal-torhueter-waren-1260908/video",
-   "title": "Als Koller, Großkreutz, Tarnat & Co. auf einmal Torhüter waren",
-   "link": "https://www.kicker.de/als-koller-grosskreutz-tarnat-co-auf-einmal-torhueter-waren-1260908/video",
-   "source": "kicker",
-   "published": "2026-10-16T10:40:56Z",
-   "teaser": "Was haben Jan Koller, Michael Tarnat, Mike Büskens, Jan Rosenthal, Sebastian Polter und Kevin Großkreutz gemeinsam? Sie alle mussten auf einmal ungeplant ins Tor ihrer Mannschaft - mit unterschiedlichen Ausgängen...",
-   "clubs": [],
    "transfer": false
   }
  ]
