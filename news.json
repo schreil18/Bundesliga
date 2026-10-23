@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T20:33:56Z",
+ "updated": "2026-10-23T21:06:22Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/stuttgart-gegen-mgladbach-2026-bundesliga-5226865/spielbericht",
+   "title": "Mohya glänzt mit Tor und Assist: Gladbach feiert in Stuttgart ersten Saisonsieg",
+   "link": "https://www.kicker.de/stuttgart-gegen-mgladbach-2026-bundesliga-5226865/spielbericht",
+   "source": "kicker",
+   "published": "2026-10-23T20:34:28Z",
+   "teaser": "Borussia Mönchengladbach gewinnt trotz frühen Rückstands mit 3:2 beim VfB Stuttgart und holt die ersten Punkte der neuen Saison. Während die Fohlen den historischen Fehlstart vermieden, spitzte sich beim VfB die Ergebniskrise in der Liga …",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/mohya-geht-voran-gladbach-feiert-in-stuttgart-nach-rueckstand-ersten-saisonsieg-1263985/artikel",
    "title": "Mohya geht voran: Gladbach feiert in Stuttgart nach Rückstand ersten Saisonsieg",
@@ -2537,19 +2550,6 @@
    "clubs": [
     40,
     1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/eintracht-atmet-auf-fest-verankerte-kinderkrankheiten-beim-effzeh-1262187/video",
-   "title": "Eintracht atmet auf - \"Fest verankerte Kinderkrankheiten\" beim Effzeh",
-   "link": "https://www.kicker.de/eintracht-atmet-auf-fest-verankerte-kinderkrankheiten-beim-effzeh-1262187/video",
-   "source": "kicker",
-   "published": "2026-10-16T22:20:41Z",
-   "teaser": "Julian Franzke, Moritz Kreilinger und Jim Decker berichten aus Frankfurt über das Freitagabendspiel zwischen der Eintracht und dem Effezeh. Die Frankfurter durften aufatmen, müssen sich aber noch finden. Für die Kölner gilt akribischer zu …",
-   "clubs": [
-    91,
-    65
    ],
    "transfer": false
   }
