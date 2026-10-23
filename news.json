@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T21:37:31Z",
+ "updated": "2026-10-23T22:32:05Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,42 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/hoeness-es-lief-zu-gut-fuer-uns-1264514/artikel",
+   "title": "Hoeneß: \"Es lief zu gut für uns\"",
+   "link": "https://www.kicker.de/hoeness-es-lief-zu-gut-fuer-uns-1264514/artikel",
+   "source": "kicker",
+   "published": "2026-10-23T22:07:07Z",
+   "teaser": "Der VfB Stuttgart kassierte gegen Gladbach den nächsten Dämpfer in der Liga und muss nun mit Sorge nach unten schauen. Wie es zur Niederlage gegen die Fohlenelf kam, wusste indes Trainer Sebastian Hoeneß - und auch, was es braucht, um die …",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-freitag-re-live-2310-100.html",
+   "title": "Die Sportschau am Freitag in voller Länge",
+   "link": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-freitag-re-live-2310-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-23T22:00:10Z",
+   "teaser": "Sehen Sie hier die Sportschau am Freitag mit Zusammenfassungen der Bundesliga, 2. Bundesliga und der Frauen-Bundesliga.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/unbeschreiblich-gut-gladbach-feiert-matchwinner-mohya-1264503/artikel",
+   "title": "\"Unbeschreiblich gut\": Gladbach feiert Matchwinner Mohya",
+   "link": "https://www.kicker.de/unbeschreiblich-gut-gladbach-feiert-matchwinner-mohya-1264503/artikel",
+   "source": "kicker",
+   "published": "2026-10-23T21:37:09Z",
+   "teaser": "Gladbach hat den Fehlstart gestoppt und in Stuttgart den ersten Saisonsieg gefeiert. Sportdirektor Rouven Schröder zeigte sich nach dem Kraftakt hörbar erleichtert. Das Lob der Fohlen-Verantwortlichen erntete vor allem der starke Wael …",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/stuttgart-gegen-mgladbach-2026-bundesliga-5226865/spielbericht",
    "title": "Mohya glänzt mit Tor und Assist: Gladbach feiert in Stuttgart ersten Saisonsieg",
@@ -2512,44 +2548,6 @@
    "clubs": [
     91,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/huetter-mit-extralob-an-koch-hat-gezeigt-was-er-imstande-ist-zu-leisten-1262207/video",
-   "title": "Hütter mit Extralob an Koch: \"Hat gezeigt, was er imstande ist zu leisten\"",
-   "link": "https://www.kicker.de/huetter-mit-extralob-an-koch-hat-gezeigt-was-er-imstande-ist-zu-leisten-1262207/video",
-   "source": "kicker",
-   "published": "2026-10-17T07:05:04Z",
-   "teaser": "Gegen den 1. FC Köln setzte sich Eintracht Frankfurt am Freitagabend knapp mit 1:0 durch. Nach Abpfiff war die Erleichterung bei Trainer Adi Hütter groß, besonders Robin Koch bekam nach der Kritik der letzten Wochen ein Sonderlob.",
-   "clubs": [
-    91,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/an-zahlen-nicht-ablesbar-was-beier-fuer-kovac-so-wertvoll-macht-1262027/artikel",
-   "title": "An Zahlen nicht ablesbar: Was Beier für Kovac so wertvoll macht",
-   "link": "https://www.kicker.de/an-zahlen-nicht-ablesbar-was-beier-fuer-kovac-so-wertvoll-macht-1262027/artikel",
-   "source": "kicker",
-   "published": "2026-10-17T06:26:30Z",
-   "teaser": "Die Kritik an Maximilian Beier wehrte Niko Kovac auf der Pressekonferenz am Freitag mit Lob ab. Der einstige Mittelstürmer wird auch in den kommenden Wochen ein wichtiger Faktor für Borussia Dortmund bleiben.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wer-uebertraegt-fc-bayern-muenchen-gegen-rb-leipzig-live-im-tv-und-stream-1260760/artikel",
-   "title": "Wer überträgt FC Bayern München gegen RB Leipzig live im TV und Stream?",
-   "link": "https://www.kicker.de/wer-uebertraegt-fc-bayern-muenchen-gegen-rb-leipzig-live-im-tv-und-stream-1260760/artikel",
-   "source": "kicker",
-   "published": "2026-10-17T05:30:00Z",
-   "teaser": "Der FC Bayern duelliert sich im Topspiel des 6. Spieltags mit RB Leipzig. Wo ihr die Partie live verfolgen könnt, erfahrt ihr hier.",
-   "clubs": [
-    40,
-    1635
    ],
    "transfer": false
   }
