@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T17:32:41Z",
+ "updated": "2026-10-23T18:02:38Z",
  "sources": [
   {
    "name": "kicker",
@@ -22,6 +22,19 @@
    "source": "Sportschau",
    "published": "2026-10-23T18:15:00Z",
    "teaser": "7. Spieltag: Anpfiff des Spiels ist am 23.10.2026 um 20:30 Uhr. Borussia Mönchengladbach spielt in Stuttgart.",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-vfb-mit-pejcinovic-und-demirovic-kassiert-gladbach-die-siebte-pleite-1263985/artikel",
+   "title": "LIVE! VfB mit Pejcinovic und Demirovic: Kassiert Gladbach die siebte Pleite?",
+   "link": "https://www.kicker.de/live-vfb-mit-pejcinovic-und-demirovic-kassiert-gladbach-die-siebte-pleite-1263985/artikel",
+   "source": "kicker",
+   "published": "2026-10-23T17:31:28Z",
+   "teaser": "Beim VfB Stuttgart läuft längst nicht alles rund, nichtsdestotrotz gehen die Schwaben gegen das punktlose Schlusslicht Gladbach als klarer Favorit ins Spiel.",
    "clubs": [
     16,
     87
@@ -55,7 +68,7 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/das-blau-weisse-fiasko-des-toni-schumacher,historie-toni-schumacher-100.html",
-   "title": "Das blau-weisse Fiasko des Toni Schumacher",
+   "title": "Das blau-weiße Fiasko des Toni Schumacher",
    "link": "https://www.sportschau.de/fussball/das-blau-weisse-fiasko-des-toni-schumacher,historie-toni-schumacher-100.html",
    "source": "Sportschau",
    "published": "2026-10-23T16:07:22Z",
@@ -2538,20 +2551,6 @@
    "published": "2026-10-16T19:21:17Z",
    "teaser": "Eintracht Frankfurt hat im Spiel gegen den 1. FC Köln das Kommando übernommen und drängt auf die Führung. Die Rheinländer können sich kaum befreien.",
    "clubs": [
-    91,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-frankfurt-wird-staerker-atubolu-pariert-gegen-buelter-1261676/artikel",
-   "title": "LIVE! Frankfurt wird stärker - Atubolu pariert gegen Bülter",
-   "link": "https://www.kicker.de/live-frankfurt-wird-staerker-atubolu-pariert-gegen-buelter-1261676/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T19:02:18Z",
-   "teaser": "Rehabilitiert sich Eintracht Frankfurt für die Klatsche in Leipzig? Die SGE trifft auf Köln und peilt den ersten Heimsieg an.",
-   "clubs": [
-    1635,
     91,
     65
    ],
