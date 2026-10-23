@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T16:37:37Z",
+ "updated": "2026-10-23T17:32:41Z",
  "sources": [
   {
    "name": "kicker",
@@ -25,6 +25,19 @@
    "clubs": [
     16,
     87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kimmich-fehlt-dem-fc-bayern-wohl-auch-in-freiburg-1264439/artikel",
+   "title": "Kimmich fehlt dem FC Bayern wohl auch in Freiburg",
+   "link": "https://www.kicker.de/kimmich-fehlt-dem-fc-bayern-wohl-auch-in-freiburg-1264439/artikel",
+   "source": "kicker",
+   "published": "2026-10-23T17:18:10Z",
+   "teaser": "Der FC Bayern muss aktuell auf Joshua Kimmich verzichten. Auch beim Auswärtsspiel in Freiburg wird der DFB-Kapitän nach einem Trauerfall wohl nicht dabei sein.",
+   "clubs": [
+    40,
+    112
    ],
    "transfer": false
   },
@@ -2536,20 +2549,6 @@
    "link": "https://www.kicker.de/live-frankfurt-wird-staerker-atubolu-pariert-gegen-buelter-1261676/artikel",
    "source": "kicker",
    "published": "2026-10-16T19:02:18Z",
-   "teaser": "Rehabilitiert sich Eintracht Frankfurt für die Klatsche in Leipzig? Die SGE trifft auf Köln und peilt den ersten Heimsieg an.",
-   "clubs": [
-    1635,
-    91,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-sekunden-nach-anstoss-buelter-prueft-direkt-atubolu-1261676/artikel",
-   "title": "LIVE! Sekunden nach Anstoß: Bülter prüft direkt Atubolu",
-   "link": "https://www.kicker.de/live-sekunden-nach-anstoss-buelter-prueft-direkt-atubolu-1261676/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T18:31:45Z",
    "teaser": "Rehabilitiert sich Eintracht Frankfurt für die Klatsche in Leipzig? Die SGE trifft auf Köln und peilt den ersten Heimsieg an.",
    "clubs": [
     1635,
