@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T22:32:05Z",
+ "updated": "2026-10-23T23:01:39Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/der-vfb-wird-sich-viele-fragen-anhoeren-muessen-in-stuttgart-liegt-einiges-im-argen-1264528/video",
+   "title": "\"Der VfB wird sich viele Fragen anhören müssen\": In Stuttgart liegt einiges im Argen",
+   "link": "https://www.kicker.de/der-vfb-wird-sich-viele-fragen-anhoeren-muessen-in-stuttgart-liegt-einiges-im-argen-1264528/video",
+   "source": "kicker",
+   "published": "2026-10-23T22:22:35Z",
+   "teaser": "George Moissidis berichtet aus Stuttgart von einer \"sehr, sehr, sehr schwachen Leistung\" des VfB. Trotz eines guten Startes blieb die Mannschaft nicht konsequent und so gewann Gladbach folgerichtig.",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/hoeness-es-lief-zu-gut-fuer-uns-1264514/artikel",
    "title": "Hoeneß: \"Es lief zu gut für uns\"",
@@ -2534,19 +2547,6 @@
    "published": "2026-10-17T07:39:42Z",
    "teaser": "Die Eintracht verschafft sich mit dem Arbeitssieg gegen Köln ein bisschen Ruhe, ist in dieser Form aber kein Kandidat fürs erste Tabellendrittel. Während Robin Koch überzeugt, schmort Can Uzun auf der Bank. Die Signale von Trainer Adi …",
    "clubs": [
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wagner-bedauert-deswegen-waren-wir-in-der-phase-zu-tief-drinnen-1262211/video",
-   "title": "Wagner bedauert: \"Deswegen waren wir in der Phase zu tief drinnen\"",
-   "link": "https://www.kicker.de/wagner-bedauert-deswegen-waren-wir-in-der-phase-zu-tief-drinnen-1262211/video",
-   "source": "kicker",
-   "published": "2026-10-17T07:37:08Z",
-   "teaser": "Der 1. FC Köln agierte bei der 0:1-Niederlage in Frankfurt gegen den Ball mit einer Fünferkette. Trainer René Wagner erklärte anschließend die Anpassung und warum dabei dennoch nichts Zählbares heraussprang.",
-   "clubs": [
-    91,
     65
    ],
    "transfer": false
