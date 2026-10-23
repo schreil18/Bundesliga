@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T14:39:39Z",
+ "updated": "2026-10-23T15:37:26Z",
  "sources": [
   {
    "name": "kicker",
@@ -25,6 +25,20 @@
    "clubs": [
     16,
     87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nicht-im-abschlusstraining-leipzig-bangt-um-nkunku-1264390/artikel",
+   "title": "Nicht im Abschlusstraining: Leipzig bangt um Nkunku",
+   "link": "https://www.kicker.de/nicht-im-abschlusstraining-leipzig-bangt-um-nkunku-1264390/artikel",
+   "source": "kicker",
+   "published": "2026-10-23T14:46:18Z",
+   "teaser": "Drei Tage nach dem 1:4 in Madrid plant Martin Demichelis bei RB Leipzig gegen die SV Elversberg mehrere Veränderungen in seiner Mannschaft. Nach den Klatschen gegen Real und den FC Bayern (1:6) stehen Trainer und Team unter Siegesdruck.",
+   "clubs": [
+    40,
+    1635,
+    198
    ],
    "transfer": false
   },
@@ -2541,20 +2555,6 @@
    "teaser": "Er bleibt Bayers Pechvogel. Beim 4:0-Sieg in Posen musste Martin Terrier früh mit einer Oberschenkelverletzung ausgewechselt werden. Nun steht die Diagnose fest: Der Franzose wird Leverkusen wochenlang fehlen.",
    "clubs": [
     6
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-koeln-erstmals-mit-fuenferkette-drei-neue-bei-der-eintracht-1261676/artikel",
-   "title": "LIVE! Köln erstmals mit Fünferkette - Drei Neue bei der Eintracht",
-   "link": "https://www.kicker.de/live-koeln-erstmals-mit-fuenferkette-drei-neue-bei-der-eintracht-1261676/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T17:32:24Z",
-   "teaser": "Rehabilitiert sich Eintracht Frankfurt für die Klatsche in Leipzig? Die SGE trifft auf Köln und peilt den ersten Heimsieg an.",
-   "clubs": [
-    1635,
-    91,
-    65
    ],
    "transfer": false
   }
