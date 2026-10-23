@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T18:02:38Z",
+ "updated": "2026-10-23T18:38:47Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,32 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/live-nicolas-sieht-bei-demirovics-direktabnahme-schlecht-aus-stuttgart-fuehrt-1263985/artikel",
+   "title": "LIVE! Nicolas sieht bei Demirovics Direktabnahme schlecht aus: Stuttgart führt",
+   "link": "https://www.kicker.de/live-nicolas-sieht-bei-demirovics-direktabnahme-schlecht-aus-stuttgart-fuehrt-1263985/artikel",
+   "source": "kicker",
+   "published": "2026-10-23T18:36:26Z",
+   "teaser": "Beim VfB Stuttgart läuft längst nicht alles rund, nichtsdestotrotz gehen die Schwaben gegen das punktlose Schlusslicht Gladbach als klarer Favorit ins Spiel.",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194353/vfb-stuttgart_borussia-moenchengladbach/liveticker",
+   "title": "Jetzt live - Stuttgart empfängt punktlose Gladbacher",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194353/vfb-stuttgart_borussia-moenchengladbach/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-23T18:17:02Z",
+   "teaser": "Borussia Mönchengladbach trifft im Freitagabendspiel auf den VfB Stuttgart. Die Mannschaft von Trainer Alexander Blessin wartet noch auf die ersten Saisonpunkte.",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/vfb-stuttgart-gegen-borussia-moenchengladbach,audiostream-vfb-stuttgart-gegen-borussia-moenchengladbach-106.html",
    "title": "Live hören: VfB Stuttgart gegen Borussia Mönchengladbach - Bundesliga",
    "link": "https://www.sportschau.de/fussball/bundesliga/vfb-stuttgart-gegen-borussia-moenchengladbach,audiostream-vfb-stuttgart-gegen-borussia-moenchengladbach-106.html",
@@ -26,6 +52,16 @@
     16,
     87
    ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-nach-zusammenbruch-fcb-coach-kompany-in-klinik-gebracht-102.html",
+   "title": "Bayerns Trainer Vincent Kompany mit Notarzt in Klinik gebracht",
+   "link": "https://www.sportschau.de/regional/br/br-nach-zusammenbruch-fcb-coach-kompany-in-klinik-gebracht-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-23T17:31:55Z",
+   "teaser": "Vincent Kompany ist nach einer Trainingseinheit zusammengebrochen und wurde in ein Münchner Krankenhaus gebracht. Der Verein bestätigte entsprechende Medienberichte. Sein Zustand ist allerdings stabil.",
+   "clubs": [],
    "transfer": false
   },
   {
@@ -187,19 +223,6 @@
    "source": "kicker",
    "published": "2026-10-23T09:43:28Z",
    "teaser": "Die Lage bei Bundesliga-Schlusslicht Borussia Mönchengladbach ist vor dem 7. Spieltag ohnehin schon prekär. Nun fehlt beim Auswärtsspiel in Stuttgart auch noch Abwehrchef und Vize-Kapitän Kevin Diks.",
-   "clubs": [
-    16,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194353/vfb-stuttgart_borussia-moenchengladbach/liveticker",
-   "title": "Ab 20.30 Uhr live - Stuttgart empfängt punktlose Gladbacher",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194353/vfb-stuttgart_borussia-moenchengladbach/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-23T09:41:07Z",
-   "teaser": "Borussia Mönchengladbach trifft im Freitagabendspiel auf den VfB Stuttgart. Die Mannschaft von Trainer Alexander Blessin wartet noch auf die ersten Saisonpunkte.",
    "clubs": [
     16,
     87
@@ -2523,33 +2546,6 @@
    "source": "kicker",
    "published": "2026-10-16T20:26:24Z",
    "teaser": "Lange Zeit entnervte der 1. FC Köln dank klarem Fokus auf die Defensive die Frankfurter Eintracht - und musste sich am Ende dann aber doch beugen, weil Ebnoutalib einen Zuckerpass zum 1:0-Siegtreffer verwandelte.",
-   "clubs": [
-    91,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-frankfurt-schwungvoll-und-mit-chancen-1261676/artikel",
-   "title": "LIVE! Frankfurt schwungvoll und mit Chancen",
-   "link": "https://www.kicker.de/live-frankfurt-schwungvoll-und-mit-chancen-1261676/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T19:46:27Z",
-   "teaser": "Rehabilitiert sich Eintracht Frankfurt für die Klatsche in Leipzig? Die SGE trifft auf Köln und peilt den ersten Heimsieg an.",
-   "clubs": [
-    1635,
-    91,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194218/eintracht-frankfurt_1-fc-koeln/liveticker",
-   "title": "Jetzt live - Frankfurt drängt Köln in die Defensive",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194218/eintracht-frankfurt_1-fc-koeln/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-16T19:21:17Z",
-   "teaser": "Eintracht Frankfurt hat im Spiel gegen den 1. FC Köln das Kommando übernommen und drängt auf die Führung. Die Rheinländer können sich kaum befreien.",
    "clubs": [
     91,
     65
