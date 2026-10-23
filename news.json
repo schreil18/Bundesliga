@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T12:39:17Z",
+ "updated": "2026-10-23T13:41:51Z",
  "sources": [
   {
    "name": "kicker",
@@ -49,6 +49,19 @@
    "teaser": "Auf der Pressekonferenz vor der Partie gegen Borussia Dortmund war die \"intensive Woche\" der Eintracht mit dem Abgang von Markus Krösche Thema. Ein Versprecher eines Journalisten sorgte für ein paar Lacher.",
    "clubs": [
     7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/huetter-aus-versprecher-laesst-sge-trainer-schmunzeln-1264346/video",
+   "title": "\"Hütter-Aus\": Versprecher lässt SGE-Trainer schmunzeln",
+   "link": "https://www.kicker.de/huetter-aus-versprecher-laesst-sge-trainer-schmunzeln-1264346/video",
+   "source": "kicker",
+   "published": "2026-10-23T11:56:51Z",
+   "teaser": "Auf der Pressekonferenz vor der Partie gegen Borussia Dortmund war die \"intensive Woche\" der Eintracht mit dem Abgang von Markus Krösche Thema. Ein Versprecher eines Journalisten sorgte für ein paar Lacher.",
+   "clubs": [
+    7,
+    91
    ],
    "transfer": false
   },
@@ -2542,19 +2555,6 @@
     1635,
     91,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/demichelis-beeindruckt-von-bayern-das-ist-nicht-normal-im-fussball-1262091/video",
-   "title": "Demichelis beeindruckt von Bayern: \"Das ist nicht normal im Fußball\"",
-   "link": "https://www.kicker.de/demichelis-beeindruckt-von-bayern-das-ist-nicht-normal-im-fussball-1262091/video",
-   "source": "kicker",
-   "published": "2026-10-16T16:25:09Z",
-   "teaser": "Martin Demichelis glaubt vor dem Duell mit dem FC Bayern an seine Mannschaft, weiß aber auch, dass mit dem Rekordmeister eine Mammutaufgabe auf die Leipziger zukommt.",
-   "clubs": [
-    40,
-    1635
    ],
    "transfer": false
   }
