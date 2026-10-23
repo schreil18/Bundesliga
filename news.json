@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T20:02:42Z",
+ "updated": "2026-10-23T20:33:56Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/mohya-geht-voran-gladbach-feiert-in-stuttgart-nach-rueckstand-ersten-saisonsieg-1263985/artikel",
+   "title": "Mohya geht voran: Gladbach feiert in Stuttgart nach Rückstand ersten Saisonsieg",
+   "link": "https://www.kicker.de/mohya-geht-voran-gladbach-feiert-in-stuttgart-nach-rueckstand-ersten-saisonsieg-1263985/artikel",
+   "source": "kicker",
+   "published": "2026-10-23T20:26:14Z",
+   "teaser": "Borussia Mönchengladbach hat nach sechs Niederlagen in Folge erstmals gepunktet - und das nach Rückstand beim Champions-League-Teilnehmer VfB Stuttgart. Dass sich das Blatt für die Fohlenelf beim 3:2 noch wendete, lag auch an einer klasse …",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/gladbachs-not-elf-ueberrumpelt-schwache-stuttgarter,spielbericht-vfb-stuttgart-borussia-moenchengladbach-108.html",
+   "title": "Erster Sieg: Gladbachs Not-Elf überrumpelt schwache Stuttgarter",
+   "link": "https://www.sportschau.de/fussball/bundesliga/gladbachs-not-elf-ueberrumpelt-schwache-stuttgarter,spielbericht-vfb-stuttgart-borussia-moenchengladbach-108.html",
+   "source": "Sportschau",
+   "published": "2026-10-23T20:25:49Z",
+   "teaser": "Borussia Mönchengladbach hat den alleinigen Rekord-Fehlstart in der Bundesliga abgewendet und mit einem furiosen Sieg beim VfB Stuttgart für eine dicke Überraschung gesorgt.",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/live-vfb-oeffnet-seimen-patzt-mohya-nickt-ein-1263985/artikel",
    "title": "LIVE! VfB öffnet, Seimen patzt, Mohya nickt ein",
@@ -47,7 +73,7 @@
    "link": "https://www.kicker.de/nach-kompanys-zusammenbruch-spiel-der-bayern-amateure-abgesagt-1264475/artikel",
    "source": "kicker",
    "published": "2026-10-23T19:38:25Z",
-   "teaser": "Wie der FC Bayern am Freitagabend bestätigte, wurde das für Samstag (14 Uhr) anberaumte Heimspiel der FC Bayern Amateure gegen die DJK Vilzing kurzfristig abgesagt werden.",
+   "teaser": "Wie der FC Bayern am Freitagabend bestätigte, wurde das für Samstag (14 Uhr) anberaumte Heimspiel der FC Bayern Amateure gegen die DJK Vilzing kurzfristig abgesagt.",
    "clubs": [
     40
    ],
@@ -638,6 +664,19 @@
     16
    ],
    "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-mit-hsv-gegen-gladbach,livestream-sportschau-am-freitag-178.html",
+   "title": "Livestream - Bundesliga-Highlights: Die Sportschau am Freitag mit Stuttgart gegen Gladbach",
+   "link": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-mit-hsv-gegen-gladbach,livestream-sportschau-am-freitag-178.html",
+   "source": "Sportschau",
+   "published": "2026-10-22T10:58:00Z",
+   "teaser": "Am 7. Spieltag empfängt der VfB Stuttgart die noch punktlosen Gäste von Borussia Mönchengladbach. Die Highlights in der Sportschau am Freitag. Dazu: die 2. Bundesliga.",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
   },
   {
    "id": "https://www.kicker.de/adidas-boom-el-mala-effekt-eigenvermarktung-der-fc-erwartet-ein-rekordergebnis-1264025/artikel",
@@ -2509,43 +2548,6 @@
    "published": "2026-10-16T22:20:41Z",
    "teaser": "Julian Franzke, Moritz Kreilinger und Jim Decker berichten aus Frankfurt über das Freitagabendspiel zwischen der Eintracht und dem Effezeh. Die Frankfurter durften aufatmen, müssen sich aber noch finden. Für die Kölner gilt akribischer zu …",
    "clubs": [
-    91,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-freitag-re-live-1610-100.html",
-   "title": "Die Sportschau am Freitag in voller Länge",
-   "link": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-freitag-re-live-1610-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-16T22:00:16Z",
-   "teaser": "Sehen Sie hier die Sportschau am Freitag mit den Zusammenfassungen der Bundesliga, 2. Bundesliga und der Frauen-Bundesliga.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/el-mala-frankfurt-war-so-tot-1262174/artikel",
-   "title": "El Mala: \"Frankfurt war so tot\"",
-   "link": "https://www.kicker.de/el-mala-frankfurt-war-so-tot-1262174/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T21:50:10Z",
-   "teaser": "Über ein Jahr ist es her, dass der 1. FC Köln auf fremdem Platz gewonnen hat, seither gab es 16 Spiele ohne Sieg. Die jüngste Schlappe setzte es am Freitagabend beim 0:1 in Frankfurt. Die Enttäuschung darüber war nach Abpfiff riesengroß  …",
-   "clubs": [
-    91,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/koch-nach-kritik-ich-bin-froh-dass-ich-es-abbekomme-1262170/artikel",
-   "title": "Koch nach Kritik: \"Ich bin froh, dass ich es abbekomme\"",
-   "link": "https://www.kicker.de/koch-nach-kritik-ich-bin-froh-dass-ich-es-abbekomme-1262170/artikel",
-   "source": "kicker",
-   "published": "2026-10-16T21:50:03Z",
-   "teaser": "Nach der Klatsche in Leipzig und der öffentlichen Kritik von Adi Hütter stand Robin Koch im Fokus. Beim Frankfurter Heimsieg gegen Köln folgte die Antwort auf dem Platz. Hinterher hatte der SGE-Kapitän Zeit zum Durchschnaufen.",
-   "clubs": [
-    1635,
     91,
     65
    ],
