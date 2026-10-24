@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T16:30:54Z",
+ "updated": "2026-10-24T17:01:36Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,31 @@
  ],
  "items": [
   {
+   "id": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
+   "title": "Berlin holt ersten Auswärts-Punkt gegen hadernde Augsburger",
+   "link": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
+   "source": "Sportschau",
+   "published": "2026-10-24T16:46:07Z",
+   "teaser": "Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
+   "clubs": [
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/sorgen-um-gosens-und-el-faouzi-el-mala-entschuldigt-sich-1264663/artikel",
+   "title": "Sorgen um Gosens und El-Faouzi - El Mala entschuldigt sich",
+   "link": "https://www.kicker.de/sorgen-um-gosens-und-el-faouzi-el-mala-entschuldigt-sich-1264663/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T15:59:00Z",
+   "teaser": "Schalke sorgt sich um Robin Gosens und Soufiane El-Faouzi. Die Königsblauen verloren die beiden Akteure beim Gastspiel beim 1. FC Köln, als sie in der Luft mit den Köpfen zusammenprallten.",
+   "clubs": [
+    65,
+    9
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
    "title": "Füllkrug trifft für Werder Bremen, wie er will",
    "link": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
@@ -25,18 +50,6 @@
    "clubs": [
     81,
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
-   "title": "Berlin holt ersten Auswärts-Punkt gegen hadernde Augsburger",
-   "link": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
-   "source": "Sportschau",
-   "published": "2026-10-24T15:46:36Z",
-   "teaser": "Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
-   "clubs": [
-    95
    ],
    "transfer": false
   },
@@ -57,6 +70,19 @@
    "id": "https://www.kicker.de/live-bvb-nimmt-platz-1-ins-visier-huetter-setzt-kosugi-auf-die-bank-1264002/artikel",
    "title": "LIVE! BVB nimmt Platz 1 ins Visier - Hütter setzt Kosugi auf die Bank",
    "link": "https://www.kicker.de/live-bvb-nimmt-platz-1-ins-visier-huetter-setzt-kosugi-auf-die-bank-1264002/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T15:41:26Z",
+   "teaser": "Die letzten fünf Heimspiele gegen Frankfurt gewann Dortmund allesamt. Legt der BVB den sechsten Sieg in Serie nach?",
+   "clubs": [
+    7,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-guirassy-scheitert-zweimal-an-atubolu-bvb-fordert-vergeblich-elfmeter-1264002/artikel",
+   "title": "LIVE! Guirassy scheitert zweimal an Atubolu - BVB fordert vergeblich Elfmeter",
+   "link": "https://www.kicker.de/live-guirassy-scheitert-zweimal-an-atubolu-bvb-fordert-vergeblich-elfmeter-1264002/artikel",
    "source": "kicker",
    "published": "2026-10-24T15:41:26Z",
    "teaser": "Die letzten fünf Heimspiele gegen Frankfurt gewann Dortmund allesamt. Legt der BVB den sechsten Sieg in Serie nach?",
@@ -110,19 +136,6 @@
    "id": "https://www.kicker.de/schlimmer-zusammenprall-sorgen-um-gosens-und-el-faouzi-1264663/artikel",
    "title": "Schlimmer Zusammenprall: Sorgen um Gosens und El-Faouzi",
    "link": "https://www.kicker.de/schlimmer-zusammenprall-sorgen-um-gosens-und-el-faouzi-1264663/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T14:59:54Z",
-   "teaser": "Schalke sorgt sich um Robin Gosens und Soufiane El-Faouzi. Die Königsblauen verloren die beiden Akteure beim Gastspiel beim 1. FC Köln, als sie in der Luft mit den Köpfen zusammenprallten.",
-   "clubs": [
-    65,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/sorgen-um-gosens-und-el-faouzi-el-mala-entschuldigt-sich-1264663/artikel",
-   "title": "Sorgen um Gosens und El-Faouzi - El Mala entschuldigt sich",
-   "link": "https://www.kicker.de/sorgen-um-gosens-und-el-faouzi-el-mala-entschuldigt-sich-1264663/artikel",
    "source": "kicker",
    "published": "2026-10-24T14:59:54Z",
    "teaser": "Schalke sorgt sich um Robin Gosens und Soufiane El-Faouzi. Die Königsblauen verloren die beiden Akteure beim Gastspiel beim 1. FC Köln, als sie in der Luft mit den Köpfen zusammenprallten.",
@@ -2520,19 +2533,6 @@
    "clubs": [
     40,
     1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/werder-schafft-naechste-zwei-tore-comeback,spielbericht-werder-bremen-sc-paderborn-100.html",
-   "title": "Bremen schafft gegen Paderborn das nächste Zwei-Tore-Comeback",
-   "link": "https://www.sportschau.de/fussball/bundesliga/werder-schafft-naechste-zwei-tore-comeback,spielbericht-werder-bremen-sc-paderborn-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T16:44:44Z",
-   "teaser": "Drei Mal in Folge lag Werder Bremen in der Bundesliga mit 0:2 zurück, drei Mal hat Bremen nicht verloren. Gegen den SC Paderborn war sogar ein Sieg drin.",
-   "clubs": [
-    134,
-    31
    ],
    "transfer": false
   }
