@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:55:12Z",
+ "updated": "2026-10-24T20:28:25Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,69 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/kovac-schenkt-beier-dart-ticket-er-ist-ein-toller-kerl-1264802/video",
+   "title": "Kovac schenkt Beier Dart-Ticket: \"Er ist ein toller Kerl\"",
+   "link": "https://www.kicker.de/kovac-schenkt-beier-dart-ticket-er-ist-ein-toller-kerl-1264802/video",
+   "source": "kicker",
+   "published": "2026-10-24T20:05:11Z",
+   "teaser": "Maximilian Beier war der gefeierte Mann beim BVB nach dem Spiel gegen Frankfurt. Von Trainer Niko Kovac gab es sogar noch eine ganz besondere Überraschung.",
+   "clubs": [
+    7,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kovac-und-huetter-schicken-genesungswuensche-an-kompany-1264801/video",
+   "title": "Kovac und Hütter schicken Genesungswünsche an Kompany",
+   "link": "https://www.kicker.de/kovac-und-huetter-schicken-genesungswuensche-an-kompany-1264801/video",
+   "source": "kicker",
+   "published": "2026-10-24T20:04:54Z",
+   "teaser": "Angesprochen auf die Situation rund um Bayern-Coach Vincent Kompany sandten sowohl Adi Hütter als auch Niko Kovac Genesungswünsche. Dazu sprachen sie auch noch über die hohe Belastung für Trainer in der Bundesliga.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fca-kuendigt-anzeigen-an-bah-nach-platzverweis-rassistisch-beleidigt-1264789/artikel",
+   "title": "FCA kündigt Anzeigen an: Bah nach Platzverweis rassistisch beleidigt",
+   "link": "https://www.kicker.de/fca-kuendigt-anzeigen-an-bah-nach-platzverweis-rassistisch-beleidigt-1264789/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T20:01:39Z",
+   "teaser": "Der FC Augsburg tritt sportlich seit Wochen auf der Stelle. Nach dem 1:1 gegen Union Berlin entlud sich die Fan-Wut auf untolerierbare Weise in Richtung von Juma Bah.",
+   "clubs": [
+    95,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/das-sind-die-finisher-kovac-freut-sich-ueber-seine-auswahlmoeglichkeiten-1264772/artikel",
+   "title": "\"Das sind die Finisher\": Kovac freut sich über seine Auswahlmöglichkeiten",
+   "link": "https://www.kicker.de/das-sind-die-finisher-kovac-freut-sich-ueber-seine-auswahlmoeglichkeiten-1264772/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T19:55:00Z",
+   "teaser": "Vorlagengeber von der Bank, Torschütze von der Bank: Solch gelungene Händchen sind Niko Kovac schon einige Male in dieser Saison geglückt. Gegen Frankfurt eben gleich beides auf einen Schlag, was für den BVB-Trainer einen Umstand ganz klar …",
+   "clubs": [
+    7,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/trotz-reisestrapazen-fitnessfanatiker-kovac-beweist-erneut-haendchen-1264796/video",
+   "title": "Trotz Reisestrapazen: \"Fitnessfanatiker\" Kovac beweist erneut Händchen",
+   "link": "https://www.kicker.de/trotz-reisestrapazen-fitnessfanatiker-kovac-beweist-erneut-haendchen-1264796/video",
+   "source": "kicker",
+   "published": "2026-10-24T19:54:43Z",
+   "teaser": "Niko Kovac bewies gegen seinen Ex-Klub Eintracht Frankfurt ein gutes Händchen und wechselte den Sieg ein. Die Joker Maximilian Beier und Jobe Bellingham sorgten mit ihrer Koproduktion für das spielentscheidende 1:0.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/leider-gottes-hat-es-ihn-zerlegt-wagner-bestaetigt-gyamerah-verletzung-1264788/artikel",
    "title": "\"Leider Gottes hat es ihn zerlegt\": Wagner bestätigt Gyamerah-Verletzung",
@@ -2471,68 +2534,6 @@
    "published": "2026-10-17T21:50:47Z",
    "teaser": "Nach dem 1:6-Debakel in München wollte Martin Demichelis nicht über einzelne Spieler sprechen. Stattdessen bat er die RB-Fans um Entschuldigung.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ungewohnter-pk-gast-eberl-vertritt-kompany-und-erklaert-dessen-fehlen-1262455/video",
-   "title": "Ungewohnter PK-Gast: Eberl vertritt Kompany und erklärt dessen Fehlen",
-   "link": "https://www.kicker.de/ungewohnter-pk-gast-eberl-vertritt-kompany-und-erklaert-dessen-fehlen-1262455/video",
-   "source": "kicker",
-   "published": "2026-10-17T21:48:32Z",
-   "teaser": "Weil Coach Vincent Kompany gesundheitlich angeschlagen war und geschont werden sollte, übernahm für ihn Sportvorstand Max Eberl die Post-Match-PK.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/polzin-der-weg-dem-wir-uns-als-hsv-verschrieben-haben-1262441/video",
-   "title": "Polzin: \"Der Weg, dem wir uns als HSV verschrieben haben\"",
-   "link": "https://www.kicker.de/polzin-der-weg-dem-wir-uns-als-hsv-verschrieben-haben-1262441/video",
-   "source": "kicker",
-   "published": "2026-10-17T20:49:25Z",
-   "teaser": "Obwohl der HSV gegen Stuttgart den dritten Liga-Sieg in Serie einfuhr, wollte Coach Merlin Polzin danach nicht in Euphorie verfallen. Er erinnerte stattdessen auch an die schwierigen Anfangswochen der Saison zurück.",
-   "clubs": [
-    16,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kimmich-die-ersten-60-waren-schon-auf-einem-anderen-level-1262403/artikel",
-   "title": "Kimmich: \"Die ersten 60 waren schon auf einem anderen Level\"",
-   "link": "https://www.kicker.de/kimmich-die-ersten-60-waren-schon-auf-einem-anderen-level-1262403/artikel",
-   "source": "kicker",
-   "published": "2026-10-17T20:06:00Z",
-   "teaser": "Der FC Bayern ist mit Bravour zurück in die Erfolgsspur gekehrt. Nach dem Kantersieg gegen Leipzig sprach Joshua Kimmich über den Mann des Abends - und Trainer Vincent Kompany, der alle Termine nach dem Spiel absagte.",
-   "clubs": [
-    40,
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hoeness-hadert-mit-hsv-momenten-besonders-gerne-gegen-uns-1262428/video",
-   "title": "Hoeneß hadert mit HSV-Momenten: \"Besonders gerne gegen uns\"",
-   "link": "https://www.kicker.de/hoeness-hadert-mit-hsv-momenten-besonders-gerne-gegen-uns-1262428/video",
-   "source": "kicker",
-   "published": "2026-10-17T19:45:05Z",
-   "teaser": "Bereits im Vorjahr traf der HSV daheim gegen Stuttgart spät zum Sieg. Diesmal war es Miro Muheim, der den VfB spät schockte, was Coach Sebastian Hoeneß frustriert zurückließ.",
-   "clubs": [
-    16,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/schaefer-ein-komplettes-versagen-in-allen-bereichen-1262413/artikel",
-   "title": "Schäfer: \"Ein komplettes Versagen in allen Bereichen\"",
-   "link": "https://www.kicker.de/schaefer-ein-komplettes-versagen-in-allen-bereichen-1262413/artikel",
-   "source": "kicker",
-   "published": "2026-10-17T19:31:38Z",
-   "teaser": "RB Leipzig kassierte bei Bayern München wie vor einem Jahr sechs Gegentore und zeigte von der ersten Minute an einen desaströsen Auftritt. Sport-Geschäftsführer Marcel Schäfer fand danach deutliche Worte.",
-   "clubs": [
-    40,
-    1635
-   ],
    "transfer": false
   }
  ]
