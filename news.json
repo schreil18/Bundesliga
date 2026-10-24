@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T20:28:25Z",
+ "updated": "2026-10-24T20:58:36Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/huetter-schwaermt-von-aseko-das-gefaellt-uns-trainern-1264807/video",
+   "title": "Hütter schwärmt von Aseko: \"Das gefällt uns Trainern\"",
+   "link": "https://www.kicker.de/huetter-schwaermt-von-aseko-das-gefaellt-uns-trainern-1264807/video",
+   "source": "kicker",
+   "published": "2026-10-24T20:22:26Z",
+   "teaser": "Noel Aseko war einer der auffälligsten Frankfurter im Spiel gegen Dortmund. Dass ihm am Ende ein wenig die Luft ausging, war für seinen Coach Adi Hütter kaum verwunderlich.",
+   "clubs": [
+    7,
+    91
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/kovac-schenkt-beier-dart-ticket-er-ist-ein-toller-kerl-1264802/video",
    "title": "Kovac schenkt Beier Dart-Ticket: \"Er ist ein toller Kerl\"",
@@ -2523,16 +2536,6 @@
    "source": "Sportschau",
    "published": "2026-10-17T22:00:01Z",
    "teaser": "Sehen Sie hier die Sportschau am Samstag in voller Länge. Unter anderem mit der Bundesliga und der 2. Bundesliga sowie den Highlights der Premier-League-Partie zwischen Brentford und Liverpool.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/demichelis-entschuldigt-sich-und-will-nicht-ueber-klostermann-sprechen-1262457/video",
-   "title": "Demichelis entschuldigt sich und will nicht über Klostermann sprechen",
-   "link": "https://www.kicker.de/demichelis-entschuldigt-sich-und-will-nicht-ueber-klostermann-sprechen-1262457/video",
-   "source": "kicker",
-   "published": "2026-10-17T21:50:47Z",
-   "teaser": "Nach dem 1:6-Debakel in München wollte Martin Demichelis nicht über einzelne Spieler sprechen. Stattdessen bat er die RB-Fans um Entschuldigung.",
    "clubs": [],
    "transfer": false
   }
