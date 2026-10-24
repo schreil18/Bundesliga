@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T09:04:26Z",
+ "updated": "2026-10-24T09:33:46Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,30 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/br/br-eberl-kompany-rueckkehr-auf-bank-erst-in-wochen-102.html",
+   "title": "Kompany-Rückkehr auf der Bank erst in Wochen",
+   "link": "https://www.sportschau.de/regional/br/br-eberl-kompany-rueckkehr-auf-bank-erst-in-wochen-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-24T09:13:19Z",
+   "teaser": "Vincent Kompany befindet sich nach seinem Zusammenbruch in stabilem Zustand, muss aber weiter im Krankenhaus bleiben. Beim FC Bayern denkt niemand an eine schnelle Rückkehr: Sportvorstand Max Eberl rechnet mit einer Ausfallzeit von Wochen.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/eberl-ueber-kompany-ihn-ein-stueck-weit-vor-sich-selbst-beschuetzen-1264574/video",
+   "title": "Eberl über Kompany: \"Ihn ein Stück weit vor sich selbst beschützen\"",
+   "link": "https://www.kicker.de/eberl-ueber-kompany-ihn-ein-stueck-weit-vor-sich-selbst-beschuetzen-1264574/video",
+   "source": "kicker",
+   "published": "2026-10-24T08:51:37Z",
+   "teaser": "Bayern-Sportvorstand Max Eberl gibt ein Update zu Vincent Kompanys Gesundheitszustand. Der Bayern-Trainer sei in den besten Händen und bekomme die nötige Zeit und Unterstützung, um sich vollständig zu erholen.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/sander-sieht-in-gladbach-das-signal-zum-aufbruch-1264555/artikel",
    "title": "Sander sieht in Gladbach das Signal zum Aufbruch",
@@ -2517,32 +2541,6 @@
    "clubs": [
     81,
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/hamburger-sv-gegen-vfb-stuttgart,audiostream-hamburger-sv-gegen-vfb-stuttgart-106.html",
-   "title": "Live hören: Hamburger SV gegen VfB Stuttgart - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/hamburger-sv-gegen-vfb-stuttgart,audiostream-hamburger-sv-gegen-vfb-stuttgart-106.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T13:15:00Z",
-   "teaser": "6. Spieltag: Anpfiff des Spiels ist am 17.10.2026 um 15:30 Uhr. VfB Stuttgart spielt in Hamburg.",
-   "clubs": [
-    16,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/sv-07-elversberg-gegen-fc-augsburg,audiostream-sv-07-elversberg-gegen-fc-augsburg-100.html",
-   "title": "Live hören: SV 07 Elversberg gegen FC Augsburg - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/sv-07-elversberg-gegen-fc-augsburg,audiostream-sv-07-elversberg-gegen-fc-augsburg-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T13:15:00Z",
-   "teaser": "6. Spieltag: Anpfiff des Spiels ist am 17.10.2026 um 15:30 Uhr. FC Augsburg spielt in Elversberg.",
-   "clubs": [
-    95,
-    198
    ],
    "transfer": false
   }
