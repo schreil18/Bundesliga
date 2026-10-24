@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T05:03:48Z",
+ "updated": "2026-10-24T05:33:24Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wer-uebertraegt-borussia-dortmund-gegen-eintracht-frankfurt-live-im-tv-stream-1263218/artikel",
+   "title": "Wer überträgt Borussia Dortmund gegen Eintracht Frankfurt live im TV & Stream?",
+   "link": "https://www.kicker.de/wer-uebertraegt-borussia-dortmund-gegen-eintracht-frankfurt-live-im-tv-stream-1263218/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T05:30:00Z",
+   "teaser": "Das Topspiel des 7. Spieltags verspricht geballte Bundesliga-Tradition: Der BVB trifft auf Eintracht Frankfurt. Wo ihr die Partie live verfolgen könnt, erfahrt ihr hier.",
+   "clubs": [
+    7,
+    91
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/der-vfb-wird-sich-viele-fragen-anhoeren-muessen-in-stuttgart-liegt-einiges-im-argen-1264528/video",
    "title": "\"Der VfB wird sich viele Fragen anhören müssen\": In Stuttgart liegt einiges im Argen",
@@ -2535,18 +2548,6 @@
    "teaser": "Frankfurts Pressekonferenz nach dem Sieg gegen Köln musste aufgrund einer technischen Störung beendet werden. Trainer Adi Hütter schob die Schuld scherzhaft einem Reporter in die Schuhe.",
    "clubs": [
     91,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-koch-uzun-system-huetters-eintracht-entscheidungen-gehen-auf-100.html",
-   "title": "Hütters Eintracht-Entscheidungen gehen auf",
-   "link": "https://www.sportschau.de/regional/hr/hr-koch-uzun-system-huetters-eintracht-entscheidungen-gehen-auf-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T07:39:42Z",
-   "teaser": "Die Eintracht verschafft sich mit dem Arbeitssieg gegen Köln ein bisschen Ruhe, ist in dieser Form aber kein Kandidat fürs erste Tabellendrittel. Während Robin Koch überzeugt, schmort Can Uzun auf der Bank. Die Signale von Trainer Adi …",
-   "clubs": [
     65
    ],
    "transfer": false
