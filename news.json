@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T21:59:29Z",
+ "updated": "2026-10-24T22:28:02Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/die-sportschau-am-samstag-in-voller-laenge,sportschau-am-samstag-re-live-2410-100.html",
+   "title": "Die Sportschau am Samstag in voller Länge",
+   "link": "https://www.sportschau.de/die-sportschau-am-samstag-in-voller-laenge,sportschau-am-samstag-re-live-2410-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-24T22:00:01Z",
+   "teaser": "Sehen Sie hier die Sportschau am Samstag in voller Länge. Mit den Zusammenfassungen der Bundesliga und 2. Bundesliga, sowie ausgewählten Highlights der 3. Liga und Premier League.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/polzin-schimpft-ueber-gegentor-es-ist-ein-klares-foulspiel-1264820/video",
    "title": "Polzin schimpft über Gegentor: \"Es ist ein klares Foulspiel\"",
@@ -2525,19 +2535,6 @@
    "clubs": [
     7,
     80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kanes-sonderrolle-wie-bayern-leipzig-demontierte-1262466/artikel",
-   "title": "Kanes Sonderrolle: Wie Bayern Leipzig demontierte",
-   "link": "https://www.kicker.de/kanes-sonderrolle-wie-bayern-leipzig-demontierte-1262466/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T07:54:36Z",
-   "teaser": "Beim 6:1 gegen Leipzig brillierte Harry Kane nicht nur als Torschütze und Vorbereiter. Blöd nur, dass diese Rolle am Mittwoch eher nicht zugelassen wird.",
-   "clubs": [
-    40,
-    1635
    ],
    "transfer": false
   }
