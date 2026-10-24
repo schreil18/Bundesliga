@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T06:37:05Z",
+ "updated": "2026-10-24T07:19:00Z",
  "sources": [
   {
    "name": "kicker",
@@ -314,6 +314,19 @@
    "teaser": "Nach den Reisestrapazen in der Königsklasse will Niko Kovac mit seinem Team auch den Bundesliga-Alltag erfolgreich meistern. Das Duell gegen seinen Ex-Verein aus Frankfurt hat immer einen besonderen Stellenwert für den 55-Jährigen.",
    "clubs": [
     91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/die-mutter-aller-handspiele-als-held-fuer-den-groessten-aufreger-der-saison-97-98-sorgte-1264331/video",
+   "title": "Die Mutter aller Handspiele? Als Held für den größten Aufreger der Saison 97/98 sorgte",
+   "link": "https://www.kicker.de/die-mutter-aller-handspiele-als-held-fuer-den-groessten-aufreger-der-saison-97-98-sorgte-1264331/video",
+   "source": "kicker",
+   "published": "2026-10-23T11:14:28Z",
+   "teaser": "In der 80. Minute der Partie Schalke 04 gegen den 1. FC Köln sorgte Oliver Held mit einem Handspiel für den Skandal der Saison - Der Schalker stritt auf Nachfrage von Schiedsrichter Uwe Kemmling alles ab und am Ende siegte S04 mit 1:0 und …",
+   "clubs": [
+    65,
+    9
    ],
    "transfer": false
   },
@@ -2535,19 +2548,6 @@
    "published": "2026-10-17T11:54:19Z",
    "teaser": "Die Gegentor-Serie mit 20 Ligaspielen ohne weiße Weste hält an - und doch stabilisiert sich die Abwehr des 1. FC Köln immer weiter. Nun erweitert Coach René Wagner auch das taktische Repertoire.",
    "clubs": [
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/huetter-erstaunt-pk-abgebrochen-ploetzlich-geht-der-feueralarm-im-stadion-los-1262260/video",
-   "title": "Hütter erstaunt, PK abgebrochen: Plötzlich geht der Feueralarm im Stadion los",
-   "link": "https://www.kicker.de/huetter-erstaunt-pk-abgebrochen-ploetzlich-geht-der-feueralarm-im-stadion-los-1262260/video",
-   "source": "kicker",
-   "published": "2026-10-17T11:47:35Z",
-   "teaser": "Frankfurts Pressekonferenz nach dem Sieg gegen Köln musste aufgrund einer technischen Störung beendet werden. Trainer Adi Hütter schob die Schuld scherzhaft einem Reporter in die Schuhe.",
-   "clubs": [
-    91,
     65
    ],
    "transfer": false
