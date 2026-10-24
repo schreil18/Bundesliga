@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:00:17Z",
+ "updated": "2026-10-24T14:29:50Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/neuer-fehlt-den-bayern-in-freiburg-1264642/artikel",
+   "title": "Neuer fehlt den Bayern in Freiburg",
+   "link": "https://www.kicker.de/neuer-fehlt-den-bayern-in-freiburg-1264642/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T14:03:06Z",
+   "teaser": "Der FC Bayern tritt ohne seinen angeschlagenen Torhüter Manuel Neuer beim SC Freiburg an. Darüber informierten die Münchner am Samstagnachmittag.",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/live-werder-startet-mit-weiser-leipzig-wechselt-achtmal-1263993/artikel",
    "title": "LIVE! Werder startet mit Weiser - Leipzig wechselt achtmal",
@@ -51,6 +64,23 @@
     198
    ],
    "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/live-fuellkrug-mit-elfmeter-doppelpack-sorgen-um-gosens-und-el-faouzi-1263993/artikel",
+   "title": "LIVE! Füllkrug mit Elfmeter-Doppelpack - Sorgen um Gosens und El-Faouzi",
+   "link": "https://www.kicker.de/live-fuellkrug-mit-elfmeter-doppelpack-sorgen-um-gosens-und-el-faouzi-1263993/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T12:29:12Z",
+   "teaser": "Leipzig plant vor heimischer Kulisse gegen Elversberg den vierten Heimdreier. Mainz (gegen Bremen) will seine Großzügigkeit zuhause beenden, In Köln trifft sich beim Duell gegen Schalke viel Tradition.",
+   "clubs": [
+    1635,
+    81,
+    134,
+    65,
+    9,
+    198
+   ],
+   "transfer": false
   },
   {
    "id": "https://www.kicker.de/pfiffe-beim-vfb-hoeness-spricht-von-einem-grossen-warnschuss-1264593/artikel",
@@ -2500,32 +2530,6 @@
    "clubs": [
     40,
     1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-beim-fc-bayern-steht-wieder-urbig-im-tor-klostermann-startet-bei-rb-1261678/artikel",
-   "title": "LIVE! Beim FC Bayern steht wieder Urbig im Tor - Klostermann startet bei RB",
-   "link": "https://www.kicker.de/live-beim-fc-bayern-steht-wieder-urbig-im-tor-klostermann-startet-bei-rb-1261678/artikel",
-   "source": "kicker",
-   "published": "2026-10-17T15:29:27Z",
-   "teaser": "Die Champions-League-Reise des FC Bayern nach Stavanger brachte nicht das gewünschte Ergebnis. Zurück im Ligaalltag wartet vor heimischer Kulisse Leipzig, das in der letzten Saison zweimal durch den Fleischwolf gedreht wurde. Wie wird's am …",
-   "clubs": [
-    40,
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3903/",
-   "title": "Jetzt live - Enge Schlussphase in Elversberg",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3903/",
-   "source": "Sportschau",
-   "published": "2026-10-17T15:26:27Z",
-   "teaser": "Die SV Elversberg hat 3:0 gegen den FC Augsburg geführt - kurz vor dem Ende steht es nur noch 3:2. Ist noch mehr drin für den FCA?",
-   "clubs": [
-    95,
-    198
    ],
    "transfer": false
   }
