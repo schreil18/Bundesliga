@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:05:01Z",
+ "updated": "2026-10-24T19:30:23Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wagner-zu-pfiffen-der-fans-erwartungshaltung-ist-riesig-1264778/video",
+   "title": "Wagner zu Pfiffen der Fans: \"Erwartungshaltung ist riesig\"",
+   "link": "https://www.kicker.de/wagner-zu-pfiffen-der-fans-erwartungshaltung-ist-riesig-1264778/video",
+   "source": "kicker",
+   "published": "2026-10-24T19:03:00Z",
+   "teaser": "Köln-Coach René Wagner zeigte Verständnis für die Pfiffe der Kölner Fans. Der Effzeh-Coach erklärte zudem, warum er Top-Talent Mikey Moore nach 68 Minuten auswechselte.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
    "title": "Maxi Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
@@ -2520,19 +2532,6 @@
    "clubs": [
     40,
     1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/swr/swr-wolke-sieben-nein-danke-mainz-liebling-tietz-bleibt-lieber-am-boden-100.html",
-   "title": "Wolke sieben? Nein, danke! Mainz-Liebling Tietz bleibt lieber am Boden",
-   "link": "https://www.sportschau.de/regional/swr/swr-wolke-sieben-nein-danke-mainz-liebling-tietz-bleibt-lieber-am-boden-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T18:54:47Z",
-   "teaser": "Fünftes Tor im sechsten Spiel und Kneipen-Kult in Mainz: Stürmer Phillip Tietz schießt den FSV zum Sieg auf Schalke. Doch trotz Traumstart hebt beim Tabellenfünften niemand ab.",
-   "clubs": [
-    81,
-    9
    ],
    "transfer": false
   }
