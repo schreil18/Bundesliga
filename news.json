@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T17:28:39Z",
+ "updated": "2026-10-24T17:58:11Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/rekordsieg-ohne-glanz-ergebnis-besser-als-der-vortrag-1264745/video",
+   "title": "Rekordsieg ohne Glanz: \"Ergebnis besser als der Vortrag\"",
+   "link": "https://www.kicker.de/rekordsieg-ohne-glanz-ergebnis-besser-als-der-vortrag-1264745/video",
+   "source": "kicker",
+   "published": "2026-10-24T17:46:45Z",
+   "teaser": "Gegen Elversberg konnte RB seine beeindruckende Heim-Serie ausbauen, die mittlerweile sogar Rekordformat angenommen hat. Der Vortrag entsprach dem Ergebnis allerdings nicht.",
+   "clubs": [
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/jetzt-hat-er-riesen-theater-aufregung-beim-hsv-wegen-schiedsrichter-entscheidung-1264712/artikel",
+   "title": "\"Jetzt hat er Riesen-Theater\": Aufregung beim HSV wegen Schiedsrichter-Entscheidung",
+   "link": "https://www.kicker.de/jetzt-hat-er-riesen-theater-aufregung-beim-hsv-wegen-schiedsrichter-entscheidung-1264712/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T17:41:12Z",
+   "teaser": "Hamburgs Gastspiel in Paderborn kam lange Zeit als Langweiler daher, doch nach Wiederanpfiff änderte sich das - und nach Abpfiff war die Aufregung groß. Der Grund: ein vermeintliches Foulspiel vor dem Siegtreffer.",
+   "clubs": [
+    100,
+    31
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/amiri-zum-wortgefecht-mit-fuellkrug-ein-paar-beleidigungen-sind-gefallen-1264701/artikel",
    "title": "Amiri zum Wortgefecht mit Füllkrug: \"Ein paar Beleidigungen sind gefallen\"",
@@ -79,13 +104,14 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
-   "title": "Berlin holt ersten Auswärts-Punkt gegen hadernde Augsburger",
+   "title": "Union holt ersten Auswärts-Punkt gegen hadernde Augsburger",
    "link": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
    "source": "Sportschau",
    "published": "2026-10-24T16:46:07Z",
    "teaser": "Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
    "clubs": [
-    95
+    95,
+    80
    ],
    "transfer": false
   },
@@ -158,6 +184,19 @@
    "id": "https://www.kicker.de/live-frankfurt-steigert-sich-verdientes-0-0-zur-pause-in-dortmund-1264002/artikel",
    "title": "LIVE! Frankfurt steigert sich: Verdientes 0:0 zur Pause in Dortmund",
    "link": "https://www.kicker.de/live-frankfurt-steigert-sich-verdientes-0-0-zur-pause-in-dortmund-1264002/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T15:41:26Z",
+   "teaser": "Die letzten fünf Heimspiele gegen Frankfurt gewann Dortmund allesamt. Legt der BVB den sechsten Sieg in Serie nach?",
+   "clubs": [
+    7,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-guirassy-an-den-querbalken-bvb-erneut-im-lattenpech-1264002/artikel",
+   "title": "LIVE! Guirassy an den Querbalken: BVB erneut im Lattenpech",
+   "link": "https://www.kicker.de/live-guirassy-an-den-querbalken-bvb-erneut-im-lattenpech-1264002/artikel",
    "source": "kicker",
    "published": "2026-10-24T15:41:26Z",
    "teaser": "Die letzten fünf Heimspiele gegen Frankfurt gewann Dortmund allesamt. Legt der BVB den sechsten Sieg in Serie nach?",
@@ -2494,43 +2533,6 @@
     80
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-bayern-gnadenlos-gegen-desastroeses-leipzig-kane-ist-jetzt-auch-dran-1261678/artikel",
-   "title": "LIVE! Bayern gnadenlos gegen desaströses Leipzig: Kane ist jetzt auch dran",
-   "link": "https://www.kicker.de/live-bayern-gnadenlos-gegen-desastroeses-leipzig-kane-ist-jetzt-auch-dran-1261678/artikel",
-   "source": "kicker",
-   "published": "2026-10-17T17:43:57Z",
-   "teaser": "Die Champions-League-Reise des FC Bayern nach Stavanger brachte nicht das gewünschte Ergebnis. Zurück im Ligaalltag wartet vor heimischer Kulisse Leipzig, das in der letzten Saison zweimal durch den Fleischwolf gedreht wurde. Wie wird's am …",
-   "clubs": [
-    40,
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-rueckkehr-zur-werder-dna-hier-ist-das-spektakel-zuhause-1262379/video",
-   "title": "Die Rückkehr zur Werder-DNA: \"Hier ist das Spektakel zuhause\"",
-   "link": "https://www.kicker.de/die-rueckkehr-zur-werder-dna-hier-ist-das-spektakel-zuhause-1262379/video",
-   "source": "kicker",
-   "published": "2026-10-17T17:43:49Z",
-   "teaser": "Auch im dritten Spiel im Weserstadion wurde Spektakel geboten, diesmal reichte es für Werder allerdings nicht zum Sieg. Niclas Füllkrug war mal wieder der Mann, dem die Schlagzeilen gehörten.",
-   "clubs": [
-    134
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/fuellkrug-und-eine-rueckkehr-ins-dfb-team-warum-nicht-1262379/video",
-   "title": "Füllkrug und eine Rückkehr ins DFB-Team: \"Warum nicht?\"",
-   "link": "https://www.kicker.de/fuellkrug-und-eine-rueckkehr-ins-dfb-team-warum-nicht-1262379/video",
-   "source": "kicker",
-   "published": "2026-10-17T17:43:49Z",
-   "teaser": "Auch im dritten Spiel im Weserstadion wurde Spektakel geboten, diesmal reichte es für Werder allerdings nicht zum Sieg. Niclas Füllkrug war mal wieder der Mann, dem die Schlagzeilen gehörten.",
-   "clubs": [
-    134
-   ],
-   "transfer": true
   }
  ]
 }
