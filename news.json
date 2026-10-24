@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T08:33:55Z",
+ "updated": "2026-10-24T09:04:26Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/sander-sieht-in-gladbach-das-signal-zum-aufbruch-1264555/artikel",
+   "title": "Sander sieht in Gladbach das Signal zum Aufbruch",
+   "link": "https://www.kicker.de/sander-sieht-in-gladbach-das-signal-zum-aufbruch-1264555/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T08:44:30Z",
+   "teaser": "Die Borussia kann doch noch gewinnen. Und hat beim 3:2-Sieg in Stuttgart gezeigt, worauf es auch in den nächsten Wochen ankommen wird.",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/eberl-bestaetigt-kompany-bleibt-einige-tage-im-krankenhaus-1264540/artikel",
+   "title": "Eberl bestätigt: Kompany bleibt \"einige Tage im Krankenhaus\"",
+   "link": "https://www.kicker.de/eberl-bestaetigt-kompany-bleibt-einige-tage-im-krankenhaus-1264540/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T08:34:42Z",
+   "teaser": "Für das Topspiel in Freiburg fehlen dem FC Bayern zahlreiche Säulen, darunter auch Vincent Kompany. Der Trainer wird wohl länger raus sein.",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/es-braucht-mehr-um-ein-spiel-zu-gewinnnen-hoeness-nimmt-jeden-in-die-pflicht-1264554/video",
    "title": "\"Es braucht mehr, um ein Spiel zu gewinnnen\": Hoeneß nimmt jeden in die Pflicht",
@@ -2517,34 +2543,6 @@
    "clubs": [
     95,
     198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/6-spieltag-die-konferenz,audiostream-6-spieltag-die-konferenz-140.html",
-   "title": "Live hören: Die Konferenz - 6. Spieltag | Fußball Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/6-spieltag-die-konferenz,audiostream-6-spieltag-die-konferenz-140.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T13:10:00Z",
-   "teaser": "Bundesliga live - alle Spiele am 17.10.2026 um 15:30 Uhr in der Konferenz.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-schalke-geht-mit-dzeko-ins-rennen-springt-der-bvb-in-berlin-an-die-tabellenspitze-1261742/artikel",
-   "title": "LIVE! Schalke geht mit Dzeko ins Rennen - Springt der BVB in Berlin an die Tabellenspitze?",
-   "link": "https://www.kicker.de/live-schalke-geht-mit-dzeko-ins-rennen-springt-der-bvb-in-berlin-an-die-tabellenspitze-1261742/artikel",
-   "source": "kicker",
-   "published": "2026-10-17T12:21:33Z",
-   "teaser": "Der BVB kann mit einem Sieg bei Union die Tabellenspitze zurückerobern. Hamburg und Stuttgart möchten die untere Tabellenregion verlassen. Schalke hofft gegen Mainz auf den ersten Heimsieg. Kann Werder seinen guten Saisonstart auch gegen …",
-   "clubs": [
-    7,
-    16,
-    81,
-    134,
-    80,
-    100,
-    9
    ],
    "transfer": false
   }
