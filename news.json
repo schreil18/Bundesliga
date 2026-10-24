@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T18:31:45Z",
+ "updated": "2026-10-24T19:05:01Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,12 +16,12 @@
  ],
  "items": [
   {
-   "id": "https://www.kicker.de/dank-joker-kombi-bvb-besiegt-frankfurt-und-ist-vorlaeufig-wieder-erster-1264002/artikel",
-   "title": "Dank Joker-Kombi: BVB besiegt Frankfurt und ist vorläufig wieder Erster",
-   "link": "https://www.kicker.de/dank-joker-kombi-bvb-besiegt-frankfurt-und-ist-vorlaeufig-wieder-erster-1264002/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T18:22:06Z",
-   "teaser": "Borussia Dortmund hat das Topspiel gegen Eintracht Frankfurt am Samstagabend für sich entschieden. Letztlich besorgten zwei Joker den 1:0-Sieg.",
+   "id": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
+   "title": "Maxi Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
+   "link": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
+   "source": "Sportschau",
+   "published": "2026-10-24T18:59:09Z",
+   "teaser": "Borussia Dortmund hat in der Bundesliga seine kurze Durststrecke überwunden. Vor dem Tor von Maximilian Beier sah es gegen Eintracht Frankfurt zunächst anders aus.",
    "clubs": [
     7,
     91
@@ -29,12 +29,51 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
-   "title": "Maxi Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
-   "link": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
-   "source": "Sportschau",
-   "published": "2026-10-24T18:21:46Z",
-   "teaser": "Borussia Dortmund hat in der Bundesliga seine kurze Durststrecke überwunden. Vor dem Tor von Maximilian Beier sah es gegen Eintracht Frankfurt zunächst anders aus.",
+   "id": "https://www.kicker.de/dortmund-gegen-frankfurt-2026-bundesliga-5226863/spielbericht",
+   "title": "Beier mit Auge: BVB bringt sich vor dem Bundesliga-Knaller in Stellung",
+   "link": "https://www.kicker.de/dortmund-gegen-frankfurt-2026-bundesliga-5226863/spielbericht",
+   "source": "kicker",
+   "published": "2026-10-24T18:41:14Z",
+   "teaser": "Nach zuletzt zwei Bundesliga-Remis in Folge meldete sich Borussia Dortmund an diesem 7. Spieltag wieder zurück mit einem Dreier - und das eine Woche vor dem großen Showdown. Die Szene des Abends ereignete sich dabei spät durch zwei von …",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wenn-ich-dafuer-eine-begruendung-haette-leipzig-luchst-bayern-einen-bundesliga-rekord-ab-1264720/artikel",
+   "title": "\"Wenn ich dafür eine Begründung hätte\" - Leipzig luchst Bayern einen Bundesliga-Rekord ab",
+   "link": "https://www.kicker.de/wenn-ich-dafuer-eine-begruendung-haette-leipzig-luchst-bayern-einen-bundesliga-rekord-ab-1264720/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T18:35:52Z",
+   "teaser": "Während Leipzig auswärts regelmäßig Niederlagen einstecken muss, klappte es gegen die SV Elversberg mit dem nächsten deutlichen Heimsieg. Dabei konnte RB dem FC Bayern sogar einen Bundesliga-Rekord abluchsen.",
+   "clubs": [
+    40,
+    1635,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/muslic-dankt-den-koeln-fans-applaus-zeugt-von-groesse-1264764/video",
+   "title": "Muslic dankt den Köln-Fans: \"Applaus zeugt von Größe\"",
+   "link": "https://www.kicker.de/muslic-dankt-den-koeln-fans-applaus-zeugt-von-groesse-1264764/video",
+   "source": "kicker",
+   "published": "2026-10-24T18:30:53Z",
+   "teaser": "Die Schalker mussten beim Spiel gegen Köln den Schock um den Zusammenprall von Robin Gosens und Soufiane El-Faouzi verkraften. Coach Miron Muslic dankte anschließend den Heimfans für den Beifall.",
+   "clubs": [
+    65,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/dank-joker-kombi-bvb-besiegt-frankfurt-und-ist-vorlaeufig-wieder-erster-1264002/artikel",
+   "title": "Dank Joker-Kombi: BVB besiegt Frankfurt und ist vorläufig wieder Erster",
+   "link": "https://www.kicker.de/dank-joker-kombi-bvb-besiegt-frankfurt-und-ist-vorlaeufig-wieder-erster-1264002/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T18:22:06Z",
+   "teaser": "Borussia Dortmund hat das Topspiel gegen Eintracht Frankfurt am Samstagabend für sich entschieden. Letztlich besorgten zwei Joker den 1:0-Sieg.",
    "clubs": [
     7,
     91
@@ -2494,43 +2533,6 @@
    "clubs": [
     81,
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ueberflieger-kane-die-meisten-tore-in-den-ersten-100-bundesliga-spielen-1117344/slideshow",
-   "title": "Überflieger Kane: Die meisten Tore in den ersten 100 Bundesliga-Spielen",
-   "link": "https://www.kicker.de/ueberflieger-kane-die-meisten-tore-in-den-ersten-100-bundesliga-spielen-1117344/slideshow",
-   "source": "kicker",
-   "published": "2026-10-17T18:52:25Z",
-   "teaser": "Am Samstag absolvierte Harry Kane sein 100. Bundesligaspiel für den FC Bayern. Kein anderer Akteur erzielte in diesem Zeitraum mehr Tore in der Bundesliga.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kovac-zu-karetsas-verletzung-nicht-vom-glueck-gekuesst-1262405/video",
-   "title": "Kovac zu Karetsas-Verletzung: \"Nicht vom Glück geküsst\"",
-   "link": "https://www.kicker.de/kovac-zu-karetsas-verletzung-nicht-vom-glueck-gekuesst-1262405/video",
-   "source": "kicker",
-   "published": "2026-10-17T18:44:55Z",
-   "teaser": "BVB-Trainer Niko Kovac äußert sich zur Verletzung von Konstantinos Karetsas, der bei einer Aktion unglücklich auf dem Fuß landete. Ob die Verletzung schwerwiegender ist, muss sich noch zeigen.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-schiesst-sich-gegen-leipzig-frust-von-der-seele,spielbericht-bayern-muenchen-rb-leipzig-110.html",
-   "title": "Bayern schießt sich gegen Leipzig den Frust von der Seele",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-schiesst-sich-gegen-leipzig-frust-von-der-seele,spielbericht-bayern-muenchen-rb-leipzig-110.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T18:33:17Z",
-   "teaser": "RB Leipzig hat darunter leiden müssen, dass der FC Bayern München zuvor zwei Enttäuschungen erlebt hatte. Luis Diaz war beim Schützenfest des Rekordmeisters der Hauptakteur.",
-   "clubs": [
-    40,
-    1635
    ],
    "transfer": false
   }
