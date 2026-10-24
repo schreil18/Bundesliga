@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:30:23Z",
+ "updated": "2026-10-24T19:55:12Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/leider-gottes-hat-es-ihn-zerlegt-wagner-bestaetigt-gyamerah-verletzung-1264788/artikel",
+   "title": "\"Leider Gottes hat es ihn zerlegt\": Wagner bestätigt Gyamerah-Verletzung",
+   "link": "https://www.kicker.de/leider-gottes-hat-es-ihn-zerlegt-wagner-bestaetigt-gyamerah-verletzung-1264788/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T19:39:02Z",
+   "teaser": "Es war nicht der Tag der SV Elversberg. Die Saarländer kassierten in Leipzig nicht nur eine 0:4-Packung, sie verloren auch Jan Gyamerah, dem nun ein längerer Ausfall droht.",
+   "clubs": [
+    1635,
+    198
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wagner-zu-pfiffen-der-fans-erwartungshaltung-ist-riesig-1264778/video",
    "title": "Wagner zu Pfiffen der Fans: \"Erwartungshaltung ist riesig\"",
@@ -2516,19 +2529,6 @@
    "source": "kicker",
    "published": "2026-10-17T19:31:38Z",
    "teaser": "RB Leipzig kassierte bei Bayern München wie vor einem Jahr sechs Gegentore und zeigte von der ersten Minute an einen desaströsen Auftritt. Sport-Geschäftsführer Marcel Schäfer fand danach deutliche Worte.",
-   "clubs": [
-    40,
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/saison-geht-jetzt-erst-richtig-los-luis-diaz-glaenzt-gegen-ueberfordertes-rb-1262410/video",
-   "title": "\"Saison geht jetzt erst richtig los\": Luis Diaz glänzt gegen überfordertes RB",
-   "link": "https://www.kicker.de/saison-geht-jetzt-erst-richtig-los-luis-diaz-glaenzt-gegen-ueberfordertes-rb-1262410/video",
-   "source": "kicker",
-   "published": "2026-10-17T18:58:17Z",
-   "teaser": "Gegen einen überforderten Gegner ließ der FC Bayern die Muskeln spielen. Angeführt von Luis Diaz kombinierte der Rekordmeister die Leipzig-Defensive schwindelig und beseitigte die leisen Zweifel.",
    "clubs": [
     40,
     1635
