@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T09:33:46Z",
+ "updated": "2026-10-24T10:03:21Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/zur-stunde-noch-nicht-genau-klar-was-zum-zusammenbruch-gefuehrt-hat-1264580/video",
+   "title": "\"Zur Stunde noch nicht genau klar, was zum Zusammenbruch geführt hat\"",
+   "link": "https://www.kicker.de/zur-stunde-noch-nicht-genau-klar-was-zum-zusammenbruch-gefuehrt-hat-1264580/video",
+   "source": "kicker",
+   "published": "2026-10-24T09:32:01Z",
+   "teaser": "Nach dem Zusammenbruch von Vincent Kompany am Freitagabend steht der FC Bayern unter Schock. Aktuell befindet er sich im Krankenhaus, sein Zustand hat sich stabilisiert. Aus München berichtet kicker-Reporter Mario Krischel.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/br/br-eberl-kompany-rueckkehr-auf-bank-erst-in-wochen-102.html",
    "title": "Kompany-Rückkehr auf der Bank erst in Wochen",
@@ -49,6 +61,18 @@
    "clubs": [
     16,
     87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nach-kompanys-zusammenbruch-spiel-der-bayern-amateure-abgesagt-1264475/artikel",
+   "title": "Nach Kompanys Zusammenbruch: Spiel der Bayern-Amateure abgesagt",
+   "link": "https://www.kicker.de/nach-kompanys-zusammenbruch-spiel-der-bayern-amateure-abgesagt-1264475/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T08:40:00Z",
+   "teaser": "Wie der FC Bayern am Freitagabend bestätigte, wurde das für Samstag (14 Uhr) anberaumte Heimspiel der FC Bayern Amateure gegen die DJK Vilzing kurzfristig abgesagt.",
+   "clubs": [
+    40
    ],
    "transfer": false
   },
@@ -225,18 +249,6 @@
    "clubs": [
     16,
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-kompanys-zusammenbruch-spiel-der-bayern-amateure-abgesagt-1264475/artikel",
-   "title": "Nach Kompanys Zusammenbruch: Spiel der Bayern-Amateure abgesagt",
-   "link": "https://www.kicker.de/nach-kompanys-zusammenbruch-spiel-der-bayern-amateure-abgesagt-1264475/artikel",
-   "source": "kicker",
-   "published": "2026-10-23T19:38:25Z",
-   "teaser": "Wie der FC Bayern am Freitagabend bestätigte, wurde das für Samstag (14 Uhr) anberaumte Heimspiel der FC Bayern Amateure gegen die DJK Vilzing kurzfristig abgesagt.",
-   "clubs": [
-    40
    ],
    "transfer": false
   },
@@ -2528,19 +2540,6 @@
    "clubs": [
     7,
     80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/fc-schalke-04-gegen-1-fsv-mainz-05,audiostream-fc-schalke-04-gegen-1-fsv-mainz-05-102.html",
-   "title": "Live hören: FC Schalke 04 gegen 1. FSV Mainz 05 - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/fc-schalke-04-gegen-1-fsv-mainz-05,audiostream-fc-schalke-04-gegen-1-fsv-mainz-05-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T13:15:00Z",
-   "teaser": "6. Spieltag: Anpfiff des Spiels ist am 17.10.2026 um 15:30 Uhr. 1. FSV Mainz 05 spielt in Gelsenkirchen.",
-   "clubs": [
-    81,
-    9
    ],
    "transfer": false
   }
