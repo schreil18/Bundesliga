@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T17:01:36Z",
+ "updated": "2026-10-24T17:28:39Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,68 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/amiri-zum-wortgefecht-mit-fuellkrug-ein-paar-beleidigungen-sind-gefallen-1264701/artikel",
+   "title": "Amiri zum Wortgefecht mit Füllkrug: \"Ein paar Beleidigungen sind gefallen\"",
+   "link": "https://www.kicker.de/amiri-zum-wortgefecht-mit-fuellkrug-ein-paar-beleidigungen-sind-gefallen-1264701/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T17:14:26Z",
+   "teaser": "Das Spiel hatte es in sich. Am Samstagnachmittag lieferten sich der 1. FSV Mainz 05 und der SV Werder Bremen ein äußerst leidenschaftliches Duell. Nach Schlusspfiff kochten die Emotionen über. Im Blickpunkt: Nadiem Amiri und Niclas …",
+   "clubs": [
+    81,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
+   "title": "Paderborns Joker trifft: Rayan Philippe schockt Ex-Klub HSV",
+   "link": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-24T17:11:10Z",
+   "teaser": "Die Siegesserie des Hamburger SV endet beim SC Paderborn. Ausgerechnet der ehemalige Hamburger Rayan Philippe schoss das entscheidende Tor.",
+   "clubs": [
+    100,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/verletzungssorgen-ausgerechnet-philippe-und-eine-wohltuende-hsv-analyse-1264724/video",
+   "title": "Verletzungssorgen, \"ausgerechnet\" Philippe und eine wohltuende HSV-Analyse",
+   "link": "https://www.kicker.de/verletzungssorgen-ausgerechnet-philippe-und-eine-wohltuende-hsv-analyse-1264724/video",
+   "source": "kicker",
+   "published": "2026-10-24T17:05:37Z",
+   "teaser": "Der Nachmittag in Paderborn hätte für den HSV kaum bitterer Laufen können. Nicht nur setzte es eine späte Niederlage durch den Treffer von Rayan Philippe, es kamen auch noch weitere Verletzte dazu.",
+   "clubs": [
+    100,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/demichelis-ueber-das-risiko-der-rb-rotation-heute-spricht-die-ganze-welt-davon-1264718/video",
+   "title": "Demichelis über das Risiko der RB-Rotation: \"Heute spricht die ganze Welt davon\"",
+   "link": "https://www.kicker.de/demichelis-ueber-das-risiko-der-rb-rotation-heute-spricht-die-ganze-welt-davon-1264718/video",
+   "source": "kicker",
+   "published": "2026-10-24T16:54:28Z",
+   "teaser": "Im Vergleich zum Spiel gegen Real Madrid rutschten acht neue RB-Spieler in die Startformation. Coach Martin Demichelis erklärte die Beweggründe dahinter.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/elversberg-coach-wagner-solide-0-2-zu-verlieren-ist-nicht-unser-ding-1264719/video",
+   "title": "Elversberg-Coach Wagner: \"Solide 0:2 zu verlieren ist nicht unser Ding\"",
+   "link": "https://www.kicker.de/elversberg-coach-wagner-solide-0-2-zu-verlieren-ist-nicht-unser-ding-1264719/video",
+   "source": "kicker",
+   "published": "2026-10-24T16:54:28Z",
+   "teaser": "In der Schlussphase wurde die Auswärtspleite von Elversberg in Leipzig noch deutlich. Coach Vincent Wagner erklärte den risikoreichen Ansatz, der RB in die Karten spielte.",
+   "clubs": [
+    1635,
+    198
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
    "title": "Berlin holt ersten Auswärts-Punkt gegen hadernde Augsburger",
@@ -42,7 +104,7 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
-   "title": "Füllkrug trifft für Werder Bremen, wie er will",
+   "title": "Sieg in Mainz: Füllkrug trifft für Bremen, wie er will",
    "link": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
    "source": "Sportschau",
    "published": "2026-10-24T15:51:21Z",
@@ -93,8 +155,21 @@
    "transfer": false
   },
   {
+   "id": "https://www.kicker.de/live-frankfurt-steigert-sich-verdientes-0-0-zur-pause-in-dortmund-1264002/artikel",
+   "title": "LIVE! Frankfurt steigert sich: Verdientes 0:0 zur Pause in Dortmund",
+   "link": "https://www.kicker.de/live-frankfurt-steigert-sich-verdientes-0-0-zur-pause-in-dortmund-1264002/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T15:41:26Z",
+   "teaser": "Die letzten fünf Heimspiele gegen Frankfurt gewann Dortmund allesamt. Legt der BVB den sechsten Sieg in Serie nach?",
+   "clubs": [
+    7,
+    91
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
-   "title": "Halbzit-Gala von RB Leipzig schickt SV Elversberg in die Auswärtskrise",
+   "title": "Leipzigs Halbzeit-Gala schickt Elversberg in die Auswärtskrise",
    "link": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
    "source": "Sportschau",
    "published": "2026-10-24T15:39:52Z",
@@ -113,19 +188,6 @@
    "source": "kicker",
    "published": "2026-10-24T15:38:12Z",
    "teaser": "Lange Zeit hielt der ersatzgeschwächte Hamburger SV beim SC Paderborn Stand, brachte offensiv aber kein Bein auf den Boden - und wurde kurz vor Schluss dann doch kalt erwischt. Ausgerechnet HSV-Leihgabe Rayan Philippe versetzte den …",
-   "clubs": [
-    100,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
-   "title": "Paderborns Joker trifft: Rayan Philippe schockt Ex-Klub HSV",
-   "link": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-24T15:26:21Z",
-   "teaser": "Die Siegesserie des Hamburger SV endet beim SC Paderborn. Ausgerechnet der ehemalige Hamburger Rayan Philippe schoss das entscheidende Tor.",
    "clubs": [
     100,
     31
@@ -2469,72 +2531,6 @@
     134
    ],
    "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194206/bayern-muenchen_rb-leipzig/liveticker",
-   "title": "Jetzt live - Leizigs bitterer Abend bei den Bayern geht weiter",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194206/bayern-muenchen_rb-leipzig/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-17T17:38:09Z",
-   "teaser": "Es ist kein Topspiel, weil der Klassenunterschied viel zu groß ist - RB Leipzig hat beim FC Bayern keinerlei Chance und sieht einer üblen Klatsche entgegen.",
-   "clubs": [
-    40,
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-ueberschuettet-geschundenen-kapitaen-robin-koch-mit-komplimenten-100.html",
-   "title": "Frankfurt überschüttet geschundenen Kapitän Koch mit Komplimenten",
-   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-ueberschuettet-geschundenen-kapitaen-robin-koch-mit-komplimenten-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T17:20:43Z",
-   "teaser": "Nach der Blamage in Leipzig zählte Eintracht-Trainer Adi Hütter Kapitän Robin Koch öffentlich an, Kritik gab es auch von anderen Seiten. Nach dem Heimsieg gegen Köln schwärmten Verantwortliche und Kollegen unisono vom alten und neuen …",
-   "clubs": [
-    1635,
-    91,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-leipzig-total-ueberfordert-olise-legt-nach-1261678/artikel",
-   "title": "LIVE! Leipzig total überfordert: Olise legt nach",
-   "link": "https://www.kicker.de/live-leipzig-total-ueberfordert-olise-legt-nach-1261678/artikel",
-   "source": "kicker",
-   "published": "2026-10-17T17:09:44Z",
-   "teaser": "Die Champions-League-Reise des FC Bayern nach Stavanger brachte nicht das gewünschte Ergebnis. Zurück im Ligaalltag wartet vor heimischer Kulisse Leipzig, das in der letzten Saison zweimal durch den Fleischwolf gedreht wurde. Wie wird's am …",
-   "clubs": [
-    40,
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/offensive-flaute-schalke-und-die-sehnsucht-nach-stuermer-toren-1262360/video",
-   "title": "Offensive Flaute: Schalke und die Sehnsucht nach Stürmer-Toren",
-   "link": "https://www.kicker.de/offensive-flaute-schalke-und-die-sehnsucht-nach-stuermer-toren-1262360/video",
-   "source": "kicker",
-   "published": "2026-10-17T17:06:52Z",
-   "teaser": "Auch im dritten Spiel in der Schalker Arena verpasste es Königsblau, ein eigenes Tor zu erzielen. Weil man diesmal aber hinten nicht ebenfalls die Null hielt, gab es die erste Heimpleite gegen Mainz.",
-   "clubs": [
-    81,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-kimmich-legt-butterweich-zur-fuehrung-auf-1261678/artikel",
-   "title": "LIVE! Kimmich legt butterweich zur Führung auf",
-   "link": "https://www.kicker.de/live-kimmich-legt-butterweich-zur-fuehrung-auf-1261678/artikel",
-   "source": "kicker",
-   "published": "2026-10-17T16:52:14Z",
-   "teaser": "Die Champions-League-Reise des FC Bayern nach Stavanger brachte nicht das gewünschte Ergebnis. Zurück im Ligaalltag wartet vor heimischer Kulisse Leipzig, das in der letzten Saison zweimal durch den Fleischwolf gedreht wurde. Wie wird's am …",
-   "clubs": [
-    40,
-    1635
-   ],
-   "transfer": false
   }
  ]
 }
