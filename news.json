@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T07:19:00Z",
+ "updated": "2026-10-24T08:03:39Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/br/br-nach-zusammenbruch-fcb-coach-kompany-in-klinik-gebracht-102.html",
+   "title": "Bayerns Trainer Vincent Kompany mit Notarzt in Klinik gebracht",
+   "link": "https://www.sportschau.de/regional/br/br-nach-zusammenbruch-fcb-coach-kompany-in-klinik-gebracht-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-24T07:43:46Z",
+   "teaser": "Vincent Kompany ist nach einer Trainingseinheit zusammengebrochen und wurde in ein Münchner Krankenhaus gebracht. Der Verein bestätigte entsprechende Medienberichte. Sein Zustand ist allerdings stabil.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wer-uebertraegt-borussia-dortmund-gegen-eintracht-frankfurt-live-im-tv-stream-1263218/artikel",
    "title": "Wer überträgt Borussia Dortmund gegen Eintracht Frankfurt live im TV & Stream?",
@@ -191,16 +201,6 @@
     16,
     87
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-nach-zusammenbruch-fcb-coach-kompany-in-klinik-gebracht-102.html",
-   "title": "Bayerns Trainer Vincent Kompany mit Notarzt in Klinik gebracht",
-   "link": "https://www.sportschau.de/regional/br/br-nach-zusammenbruch-fcb-coach-kompany-in-klinik-gebracht-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-23T17:31:55Z",
-   "teaser": "Vincent Kompany ist nach einer Trainingseinheit zusammengebrochen und wurde in ein Münchner Krankenhaus gebracht. Der Verein bestätigte entsprechende Medienberichte. Sein Zustand ist allerdings stabil.",
-   "clubs": [],
    "transfer": false
   },
   {
