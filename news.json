@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:59:56Z",
+ "updated": "2026-10-24T15:29:50Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,59 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
+   "title": "Füllkrug, immer wieder Füllkrug",
+   "link": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-24T15:27:10Z",
+   "teaser": "Der SV Werder Bremen gewinnt beim 1. FSV Mainz 05 und überrascht weiter in der Fußball-Bundesliga. Garant für den Erfolg ist Niclas Füllkrug, der schon wieder traf, und das doppelt.",
+   "clubs": [
+    81,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
+   "title": "SC Paderborn stoppt Siegesserie des HSV",
+   "link": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-24T15:26:21Z",
+   "teaser": "Die Siegesserie des Hamburger SV endet beim SC Paderborn. Ausgerechnet der ehemalige Hamburger Rayan Philippe schoss das entscheidende Tor.",
+   "clubs": [
+    100,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
+   "title": "Halbzit-Gala von RB Leipzig schickt SV Elversberg in die Auswärtskrise",
+   "link": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-24T15:25:07Z",
+   "teaser": "Bei Bayern München und Real Madrid hatte es Klatschen für RB Leipzig gegeben, doch die englische Woche endete mit einem 45-minütigen Feuerwerk. Die SV Elversberg enttäuschte wieder in der Fremde.",
+   "clubs": [
+    40,
+    1635,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/schlimmer-zusammenprall-sorgen-um-gosens-und-el-faouzi-1264663/artikel",
+   "title": "Schlimmer Zusammenprall: Sorgen um Gosens und El-Faouzi",
+   "link": "https://www.kicker.de/schlimmer-zusammenprall-sorgen-um-gosens-und-el-faouzi-1264663/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T14:59:54Z",
+   "teaser": "Schalke sorgt sich um Robin Gosens und Soufiane El-Faouzi. Die Königsblauen verloren die beiden Akteure beim Gastspiel beim 1. FC Köln, als sie in der Luft mit den Köpfen zusammenprallten.",
+   "clubs": [
+    65,
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/br/br-eberl-kompany-rueckkehr-auf-bank-erst-in-wochen-102.html",
    "title": "Kompany-Rückkehr auf die Bank noch Wochen entfernt",
@@ -110,6 +163,24 @@
     198
    ],
    "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/baumgartner-kroent-rueckkehr-ausgerechnet-philippe-schockt-den-hsv-1263993/artikel",
+   "title": "Baumgartner krönt Rückkehr - Ausgerechnet Philippe schockt den HSV",
+   "link": "https://www.kicker.de/baumgartner-kroent-rueckkehr-ausgerechnet-philippe-schockt-den-hsv-1263993/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T12:29:12Z",
+   "teaser": "Leipzig plant vor heimischer Kulisse gegen Elversberg den vierten Heimdreier. Mainz (gegen Bremen) will seine Großzügigkeit zuhause beenden, In Köln trifft sich beim Duell gegen Schalke viel Tradition.",
+   "clubs": [
+    1635,
+    81,
+    134,
+    65,
+    100,
+    9,
+    198
+   ],
+   "transfer": true
   },
   {
    "id": "https://www.kicker.de/pfiffe-beim-vfb-hoeness-spricht-von-einem-grossen-warnschuss-1264593/artikel",
@@ -2463,77 +2534,6 @@
    "clubs": [
     40,
     1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
-   "title": "Schalke enttäuscht bei nächstem Auswärtscoup von Mainz 05",
-   "link": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T16:00:52Z",
-   "teaser": "Schalke 04 bleibt ohne Heimtor, Mainz 05 gewinnt nur auswärts: Beim Mainzer Sieg auf Schalke setzten sich zwei Serien fort.",
-   "clubs": [
-    81,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ein-und-wieder-ausgewechselt-bvb-bangt-erneut-um-karetsas-1262313/artikel",
-   "title": "Ein- und wieder ausgewechselt: BVB bangt erneut um Karetsas",
-   "link": "https://www.kicker.de/ein-und-wieder-ausgewechselt-bvb-bangt-erneut-um-karetsas-1262313/artikel",
-   "source": "kicker",
-   "published": "2026-10-17T15:46:21Z",
-   "teaser": "Konstantinos Karetsas droht eine erneute Zwangspause: Der 18 Jahre junge Grieche verletzte sich beim Gastspiel des BVB bei Union Berlin. Eine genaue Diagnose stand kurz nach Spielschluss noch aus.",
-   "clubs": [
-    7,
-    80
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/im-moment-nicht-vom-glueck-gekuesst-bvb-bangt-erneut-um-karetsas-1262313/artikel",
-   "title": "\"Im Moment nicht vom Glück geküsst\": BVB bangt erneut um Karetsas",
-   "link": "https://www.kicker.de/im-moment-nicht-vom-glueck-gekuesst-bvb-bangt-erneut-um-karetsas-1262313/artikel",
-   "source": "kicker",
-   "published": "2026-10-17T15:46:21Z",
-   "teaser": "Konstantinos Karetsas droht eine erneute Zwangspause: Der 18 Jahre junge Grieche verletzte sich beim Gastspiel des BVB bei Union Berlin. Eine genaue Diagnose stand kurz nach Spielschluss noch aus.",
-   "clubs": [
-    7,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/elversberger-happy-end-im-spektakel-gegen-augsburg,spielbericht-sv-elversberg-fc-augsburg-100.html",
-   "title": "Happy End für SV Elversberg im Spektakel gegen FC Augsburg",
-   "link": "https://www.sportschau.de/fussball/bundesliga/elversberger-happy-end-im-spektakel-gegen-augsburg,spielbericht-sv-elversberg-fc-augsburg-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T15:45:41Z",
-   "teaser": "Dieses Spiel hatte alles, was sich Fußballfans wünschen: Viele Tore, strittige Entscheidungen, zwei stürmende Teams - am Ende jubelte die SV Elversberg und nicht der FC Augsburg.",
-   "clubs": [
-    95,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hsv-jubelt-spaet-doppelpack-fuellkrug-sorgen-um-karetsas-kurioses-aus-elversberg-1261742/artikel",
-   "title": "HSV jubelt spät - Doppelpack Füllkrug - Sorgen um Karetsas - Kurioses aus Elversberg",
-   "link": "https://www.kicker.de/hsv-jubelt-spaet-doppelpack-fuellkrug-sorgen-um-karetsas-kurioses-aus-elversberg-1261742/artikel",
-   "source": "kicker",
-   "published": "2026-10-17T15:35:18Z",
-   "teaser": "Der BVB kann mit einem Sieg bei Union die Tabellenspitze zurückerobern. Hamburg und Stuttgart möchten die untere Tabellenregion verlassen. Schalke hofft gegen Mainz auf den ersten Heimsieg. Kann Werder seinen guten Saisonstart auch gegen …",
-   "clubs": [
-    7,
-    16,
-    81,
-    134,
-    80,
-    100,
-    9,
-    198
    ],
    "transfer": false
   }
