@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:01:08Z",
+ "updated": "2026-10-24T12:36:33Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,23 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/live-werder-startet-mit-weiser-leipzig-wechselt-achtmal-1263993/artikel",
+   "title": "LIVE! Werder startet mit Weiser - Leipzig wechselt achtmal",
+   "link": "https://www.kicker.de/live-werder-startet-mit-weiser-leipzig-wechselt-achtmal-1263993/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T12:29:12Z",
+   "teaser": "Leipzig plant vor heimischer Kulisse gegen Elversberg den vierten Heimdreier. Mainz (gegen Bremen) will seine Großzügigkeit zuhause beenden, In Köln trifft sich beim Duell gegen Schalke viel Tradition.",
+   "clubs": [
+    1635,
+    81,
+    134,
+    65,
+    9,
+    198
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/pfiffe-beim-vfb-hoeness-spricht-von-einem-grossen-warnschuss-1264593/artikel",
    "title": "Pfiffe beim VfB: Hoeneß spricht von einem \"großen Warnschuss\"",
@@ -2509,25 +2526,6 @@
     16,
     81,
     134,
-    80,
-    100,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-fca-verkuerzt-per-handelfmeter-undav-an-den-pfosten-kobel-reagiert-stark-1261742/artikel",
-   "title": "LIVE! FCA verkürzt per Handelfmeter - Undav an den Pfosten - Kobel reagiert stark",
-   "link": "https://www.kicker.de/live-fca-verkuerzt-per-handelfmeter-undav-an-den-pfosten-kobel-reagiert-stark-1261742/artikel",
-   "source": "kicker",
-   "published": "2026-10-17T14:24:39Z",
-   "teaser": "Der BVB kann mit einem Sieg bei Union die Tabellenspitze zurückerobern. Hamburg und Stuttgart möchten die untere Tabellenregion verlassen. Schalke hofft gegen Mainz auf den ersten Heimsieg. Kann Werder seinen guten Saisonstart auch gegen …",
-   "clubs": [
-    7,
-    16,
-    81,
-    134,
-    95,
     80,
     100,
     9
