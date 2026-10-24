@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:29:50Z",
+ "updated": "2026-10-24T14:59:56Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/br/br-eberl-kompany-rueckkehr-auf-bank-erst-in-wochen-102.html",
+   "title": "Kompany-Rückkehr auf die Bank noch Wochen entfernt",
+   "link": "https://www.sportschau.de/regional/br/br-eberl-kompany-rueckkehr-auf-bank-erst-in-wochen-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-24T14:59:18Z",
+   "teaser": "Vincent Kompany befindet sich nach seinem Zusammenbruch in stabilem Zustand, muss aber weiter im Krankenhaus bleiben. Beim FC Bayern denkt niemand an eine schnelle Rückkehr: Sportvorstand Max Eberl rechnet mit einer Ausfallzeit von Wochen.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/neuer-fehlt-den-bayern-in-freiburg-1264642/artikel",
    "title": "Neuer fehlt den Bayern in Freiburg",
@@ -83,6 +95,23 @@
    "transfer": false
   },
   {
+   "id": "https://www.kicker.de/live-mainz-ist-sofort-wieder-da-romulo-durch-die-beine-von-kristof-1263993/artikel",
+   "title": "LIVE! Mainz ist sofort wieder da - Romulo durch die Beine von Kristof",
+   "link": "https://www.kicker.de/live-mainz-ist-sofort-wieder-da-romulo-durch-die-beine-von-kristof-1263993/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T12:29:12Z",
+   "teaser": "Leipzig plant vor heimischer Kulisse gegen Elversberg den vierten Heimdreier. Mainz (gegen Bremen) will seine Großzügigkeit zuhause beenden, In Köln trifft sich beim Duell gegen Schalke viel Tradition.",
+   "clubs": [
+    1635,
+    81,
+    134,
+    65,
+    9,
+    198
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/pfiffe-beim-vfb-hoeness-spricht-von-einem-grossen-warnschuss-1264593/artikel",
    "title": "Pfiffe beim VfB: Hoeneß spricht von einem \"großen Warnschuss\"",
    "link": "https://www.kicker.de/pfiffe-beim-vfb-hoeness-spricht-von-einem-grossen-warnschuss-1264593/artikel",
@@ -93,18 +122,6 @@
     16
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-eberl-kompany-rueckkehr-auf-bank-erst-in-wochen-102.html",
-   "title": "Kompany-Rückkehr auf der Bank erst in Wochen",
-   "link": "https://www.sportschau.de/regional/br/br-eberl-kompany-rueckkehr-auf-bank-erst-in-wochen-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-24T10:47:31Z",
-   "teaser": "Vincent Kompany befindet sich nach seinem Zusammenbruch in stabilem Zustand, muss aber weiter im Krankenhaus bleiben. Beim FC Bayern denkt niemand an eine schnelle Rückkehr: Sportvorstand Max Eberl rechnet mit einer Ausfallzeit von Wochen.",
-   "clubs": [
-    40
-   ],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/danks-nach-kompany-ausfall-wir-wissen-wie-wir-arbeiten-muessen-1264594/video",
@@ -2517,19 +2534,6 @@
     100,
     9,
     198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-beim-fc-bayern-steht-wieder-urbig-im-tor-1261678/artikel",
-   "title": "LIVE! Beim FC Bayern steht wieder Urbig im Tor",
-   "link": "https://www.kicker.de/live-beim-fc-bayern-steht-wieder-urbig-im-tor-1261678/artikel",
-   "source": "kicker",
-   "published": "2026-10-17T15:29:27Z",
-   "teaser": "Die Champions-League-Reise des FC Bayern nach Stavanger brachte nicht das gewünschte Ergebnis. Zurück im Ligaalltag wartet vor heimischer Kulisse Leipzig, das in der letzten Saison zweimal durch den Fleischwolf gedreht wurde. Wie wird's am …",
-   "clubs": [
-    40,
-    1635
    ],
    "transfer": false
   }
