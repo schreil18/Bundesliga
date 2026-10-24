@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T15:29:50Z",
+ "updated": "2026-10-24T16:00:50Z",
  "sources": [
   {
    "name": "kicker",
@@ -17,10 +17,10 @@
  "items": [
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
-   "title": "Füllkrug, immer wieder Füllkrug",
+   "title": "Füllkrug trifft für Werder Bremen, wie er will",
    "link": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
    "source": "Sportschau",
-   "published": "2026-10-24T15:27:10Z",
+   "published": "2026-10-24T15:51:21Z",
    "teaser": "Der SV Werder Bremen gewinnt beim 1. FSV Mainz 05 und überrascht weiter in der Fußball-Bundesliga. Garant für den Erfolg ist Niclas Füllkrug, der schon wieder traf, und das doppelt.",
    "clubs": [
     81,
@@ -29,15 +29,27 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
-   "title": "SC Paderborn stoppt Siegesserie des HSV",
-   "link": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
+   "id": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
+   "title": "Berlin holt ersten Auswärts-Punkt gegen hadernde Augsburger",
+   "link": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
    "source": "Sportschau",
-   "published": "2026-10-24T15:26:21Z",
-   "teaser": "Die Siegesserie des Hamburger SV endet beim SC Paderborn. Ausgerechnet der ehemalige Hamburger Rayan Philippe schoss das entscheidende Tor.",
+   "published": "2026-10-24T15:46:36Z",
+   "teaser": "Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
    "clubs": [
-    100,
-    31
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-bvb-nimmt-platz-1-ins-visier-sabitzer-beginnt-1264002/artikel",
+   "title": "LIVE! BVB nimmt Platz 1 ins Visier - Sabitzer beginnt",
+   "link": "https://www.kicker.de/live-bvb-nimmt-platz-1-ins-visier-sabitzer-beginnt-1264002/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T15:41:26Z",
+   "teaser": "Die letzten fünf Heimspiele gegen Frankfurt gewann Dortmund allesamt. Legt der BVB den sechsten Sieg in Serie nach?",
+   "clubs": [
+    7,
+    91
    ],
    "transfer": false
   },
@@ -46,12 +58,38 @@
    "title": "Halbzit-Gala von RB Leipzig schickt SV Elversberg in die Auswärtskrise",
    "link": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
    "source": "Sportschau",
-   "published": "2026-10-24T15:25:07Z",
+   "published": "2026-10-24T15:39:52Z",
    "teaser": "Bei Bayern München und Real Madrid hatte es Klatschen für RB Leipzig gegeben, doch die englische Woche endete mit einem 45-minütigen Feuerwerk. Die SV Elversberg enttäuschte wieder in der Fremde.",
    "clubs": [
     40,
     1635,
     198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/paderborn-gegen-hsv-2026-bundesliga-5226871/spielbericht",
+   "title": "Ausgerechnet Philippe versetzt Hamburg den K. o.",
+   "link": "https://www.kicker.de/paderborn-gegen-hsv-2026-bundesliga-5226871/spielbericht",
+   "source": "kicker",
+   "published": "2026-10-24T15:38:12Z",
+   "teaser": "Lange Zeit hielt der ersatzgeschwächte Hamburger SV beim SC Paderborn Stand, brachte offensiv aber kein Bein auf den Boden - und wurde kurz vor Schluss dann doch kalt erwischt. Ausgerechnet HSV-Leihgabe Rayan Philippe versetzte den …",
+   "clubs": [
+    100,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
+   "title": "Paderborns Joker trifft: Rayan Philippe schockt Ex-Klub HSV",
+   "link": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-24T15:26:21Z",
+   "teaser": "Die Siegesserie des Hamburger SV endet beim SC Paderborn. Ausgerechnet der ehemalige Hamburger Rayan Philippe schoss das entscheidende Tor.",
+   "clubs": [
+    100,
+    31
    ],
    "transfer": false
   },
@@ -2495,45 +2533,6 @@
    "clubs": [
     16,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/muheims-knaller-bringt-dem-hsv-dritten-sieg,spielbericht-hamburger-sv-vfb-stuttgart-102.html",
-   "title": "Muheim als Hamburgs Matchwinner gegen Stuttgart",
-   "link": "https://www.sportschau.de/fussball/bundesliga/muheims-knaller-bringt-dem-hsv-dritten-sieg,spielbericht-hamburger-sv-vfb-stuttgart-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T16:33:42Z",
-   "teaser": "Der HSV und der VfB liefern sich ein ausgeglichenes Duell mit Chancen auf beiden Seiten - bis Muheim den Hammer rausholt. Der Schweizer erfindet sich gerade neu.",
-   "clubs": [
-    16,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/kampf-und-krampf-in-berlin-bvb-enttaeuscht-wieder,spielbericht-union-berlin-borussia-dortmund-104.html",
-   "title": "Kampf und Krampf in Berlin - BVB enttäuscht bei Union wieder",
-   "link": "https://www.sportschau.de/fussball/bundesliga/kampf-und-krampf-in-berlin-bvb-enttaeuscht-wieder,spielbericht-union-berlin-borussia-dortmund-104.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T16:28:04Z",
-   "teaser": "Borussia Dortmund ist hat zum dritten Mal in Folge nicht gewonnen - und schoss in einem unansehnlichen Spiel bei Union Berlin erneut kein Tor.",
-   "clubs": [
-    7,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-muenchen-gegen-rb-leipzig,audiostream-bayern-muenchen-gegen-rb-leipzig-110.html",
-   "title": "Live hören: Bayern München gegen RB Leipzig - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-muenchen-gegen-rb-leipzig,audiostream-bayern-muenchen-gegen-rb-leipzig-110.html",
-   "source": "Sportschau",
-   "published": "2026-10-17T16:15:00Z",
-   "teaser": "6. Spieltag: Anpfiff des Spiels ist am 17.10.2026 um 18:30 Uhr. RB Leipzig spielt in München.",
-   "clubs": [
-    40,
-    1635
    ],
    "transfer": false
   }
