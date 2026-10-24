@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T17:58:11Z",
+ "updated": "2026-10-24T18:31:45Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,58 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/dank-joker-kombi-bvb-besiegt-frankfurt-und-ist-vorlaeufig-wieder-erster-1264002/artikel",
+   "title": "Dank Joker-Kombi: BVB besiegt Frankfurt und ist vorläufig wieder Erster",
+   "link": "https://www.kicker.de/dank-joker-kombi-bvb-besiegt-frankfurt-und-ist-vorlaeufig-wieder-erster-1264002/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T18:22:06Z",
+   "teaser": "Borussia Dortmund hat das Topspiel gegen Eintracht Frankfurt am Samstagabend für sich entschieden. Letztlich besorgten zwei Joker den 1:0-Sieg.",
+   "clubs": [
+    7,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
+   "title": "Maxi Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
+   "link": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
+   "source": "Sportschau",
+   "published": "2026-10-24T18:21:46Z",
+   "teaser": "Borussia Dortmund hat in der Bundesliga seine kurze Durststrecke überwunden. Vor dem Tor von Maximilian Beier sah es gegen Eintracht Frankfurt zunächst anders aus.",
+   "clubs": [
+    7,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/neuer-fehlt-den-bayern-in-freiburg-auch-pavlovic-faellt-wohl-aus-1264642/artikel",
+   "title": "Neuer fehlt den Bayern in Freiburg - Auch Pavlovic fällt wohl aus",
+   "link": "https://www.kicker.de/neuer-fehlt-den-bayern-in-freiburg-auch-pavlovic-faellt-wohl-aus-1264642/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T18:13:08Z",
+   "teaser": "Der FC Bayern tritt ohne seinen angeschlagenen Torhüter Manuel Neuer beim SC Freiburg an. Darüber informierten die Münchner am Samstagnachmittag. Auch Aleksandar Pavlovic soll nicht zur Verfügung stehen.",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/zuschauern-stockte-der-atem-zusammenprall-ueberschattet-schalke-remis-1264750/video",
+   "title": "\"Zuschauern stockte der Atem\": Zusammenprall überschattet Schalke-Remis",
+   "link": "https://www.kicker.de/zuschauern-stockte-der-atem-zusammenprall-ueberschattet-schalke-remis-1264750/video",
+   "source": "kicker",
+   "published": "2026-10-24T17:56:03Z",
+   "teaser": "Der negative Schockmoment des Remis der Schalker in Köln war der böse Zusammenprall von Robin Gosens und Soufiane El-Faouzi. Abgesehen davon wurde den Zuschauern sportlich nur wenig Sehenswertes geboten.",
+   "clubs": [
+    65,
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/rekordsieg-ohne-glanz-ergebnis-besser-als-der-vortrag-1264745/video",
    "title": "Rekordsieg ohne Glanz: \"Ergebnis besser als der Vortrag\"",
@@ -2479,58 +2531,6 @@
    "clubs": [
     40,
     1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bayern-gegen-leipzig-2026-bundesliga-5226854/spielbericht",
-   "title": "Trainingsspiel in der Allianz-Arena: Bayern demütigt trümmerhaftes Leipzig",
-   "link": "https://www.kicker.de/bayern-gegen-leipzig-2026-bundesliga-5226854/spielbericht",
-   "source": "kicker",
-   "published": "2026-10-17T18:29:34Z",
-   "teaser": "Der FC Bayern hat mit einem Kantersieg gegen RB Leipzig seine Mini-Misere beendet. Gegen völlig überforderte Sachsen machten die Münchner und insbesondere Luis Diaz, was sie wollten. Die Gäste lieferten keine Gegenwehr.",
-   "clubs": [
-    40,
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/dreierpack-von-luis-diaz-fc-bayern-schiesst-desastroeses-leipzig-ab-1261678/artikel",
-   "title": "Dreierpack von Luis Diaz: FC Bayern schießt desaströses Leipzig ab",
-   "link": "https://www.kicker.de/dreierpack-von-luis-diaz-fc-bayern-schiesst-desastroeses-leipzig-ab-1261678/artikel",
-   "source": "kicker",
-   "published": "2026-10-17T18:25:20Z",
-   "teaser": "Nach dem Ausrutscher in Stavanger hat sich der FC Bayern eindrucksvoll mit einem 6:1 gegen RB Leipzig zurückgemeldet. Der Rekordmeister war von der ersten Minute an in allen Belangen gegen hilf- und wehrlose Gäste überlegen.",
-   "clubs": [
-    40,
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/petkov-nach-elfmeter-show-wusste-nicht-wo-oben-und-unten-ist-1262355/artikel",
-   "title": "Petkov nach Elfmeter-Show: \"Wusste nicht, wo oben und unten ist\"",
-   "link": "https://www.kicker.de/petkov-nach-elfmeter-show-wusste-nicht-wo-oben-und-unten-ist-1262355/artikel",
-   "source": "kicker",
-   "published": "2026-10-17T18:22:46Z",
-   "teaser": "Es war eine denkwürdige Bundesliga-Partie am Samstagnachmittag in Elversberg. Denn das 4:3 zwischen der SVE und dem FC Augsburg wurde nicht nur ein Tor-, sondern auch eine Elfmeter-Gala, wie es sie nur sehr selten zu sehen gibt.",
-   "clubs": [
-    95,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kovac-unzufrieden-fuer-unsere-ansprueche-zu-wenig-1262396/video",
-   "title": "Kovac unzufrieden: \"Für unsere Ansprüche zu wenig\"",
-   "link": "https://www.kicker.de/kovac-unzufrieden-fuer-unsere-ansprueche-zu-wenig-1262396/video",
-   "source": "kicker",
-   "published": "2026-10-17T18:16:19Z",
-   "teaser": "Niko Kovac konnte mit dem torlosen Remis seiner Dortmunder bei Union nicht zufrieden sein. Besonders die fehlende Präzision ärgerte den Coach.",
-   "clubs": [
-    7,
-    80
    ],
    "transfer": false
   }
