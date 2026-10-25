@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T16:31:16Z",
+ "updated": "2026-10-25T17:02:16Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/live-upamecano-kontert-wie-ein-stuermer-zur-fuehrung-1264014/artikel",
+   "title": "LIVE! Upamecano kontert wie ein Stürmer zur Führung",
+   "link": "https://www.kicker.de/live-upamecano-kontert-wie-ein-stuermer-zur-fuehrung-1264014/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T16:47:46Z",
+   "teaser": "Seit 2015 ist Freiburg gegen den FC Bayern in der Liga sieglos, kassierte dabei 16 Niederlagen und sehnt das Ende der Pleitenserie herbei. Klappt es am Sonntagabend?",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/1000-bl-tor-der-tsg-kramaric-leitet-3-0-sieg-ein-1264010/artikel",
+   "title": "1000. BL-Tor der TSG: Kramaric leitet 3:0-Sieg ein",
+   "link": "https://www.kicker.de/1000-bl-tor-der-tsg-kramaric-leitet-3-0-sieg-ein-1264010/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T16:29:23Z",
+   "teaser": "Die TSG Hoffenheim hat dank Joker Kramaric gegen Leverkusen drei Punkte eingefahren. In der Schlussphase erhöhte die TSG noch auf 3:0 - Torschütze Prass sah nach seinem Jubel die Ampelkarte.",
+   "clubs": [
+    6,
+    175
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/live-prass-kontert-zum-2-0-und-fliegt-vom-feld-1264010/artikel",
    "title": "LIVE! Prass kontert zum 2:0 und fliegt vom Feld",
@@ -2517,30 +2543,6 @@
    "teaser": "Julian Schuster hadert nach der 1:2-Niederlage gegen Bayer Leverkusen mit den Gegentoren seiner Mannschaft.",
    "clubs": [
     6
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wie-findest-du-die-trennung-von-frankfurt-und-kroesche-1262755/artikel",
-   "title": "Wie findest du die Trennung von Frankfurt und Krösche?",
-   "link": "https://www.kicker.de/wie-findest-du-die-trennung-von-frankfurt-und-kroesche-1262755/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T17:41:21Z",
-   "teaser": "Einen Tag vor der Mitgliederversammlung hat Eintracht Frankfurt dem Wunsch von Markus Krösche entsprochen und den Sportvorstand freigestellt. Was hältst du von der Entscheidung?",
-   "clubs": [
-    91
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/naechster-langer-ausfall-auch-de-cat-fehlt-hoffenheim-1262717/artikel",
-   "title": "Nächster langer Ausfall: Auch De Cat fehlt Hoffenheim",
-   "link": "https://www.kicker.de/naechster-langer-ausfall-auch-de-cat-fehlt-hoffenheim-1262717/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T17:40:07Z",
-   "teaser": "Die TSG Hoffenheim wird voraussichtlich länger auf Nathan De Cat verzichten müssen. Das belgische Top-Talent muss sogar operiert werden.",
-   "clubs": [
-    175
    ],
    "transfer": false
   }
