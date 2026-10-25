@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T12:35:42Z",
+ "updated": "2026-10-25T13:14:09Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/spielt-schlager-gegen-den-bvb-wer-gegen-argentinien-und-spanien-im-tor-steht-1264957/artikel",
+   "title": "Spielt Schlager gegen den BVB? \"Wer gegen Argentinien und Spanien im Tor steht, …\"",
+   "link": "https://www.kicker.de/spielt-schlager-gegen-den-bvb-wer-gegen-argentinien-und-spanien-im-tor-steht-1264957/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T13:00:16Z",
+   "teaser": "Werder-Coach Daniel Thioune kündigt eine Rotation für die Pokalpartie in Dortmund an - und hält auch einen Einsatz der Nummer zwei, Alexander Schlager, für möglich.",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/es-gibt-ein-paar-vollidioten-weisers-besondere-rolle-bei-fuellkrugs-elfmetern-1264961/artikel",
+   "title": "\"Es gibt ein paar Vollidioten\": Weisers besondere Rolle bei Füllkrugs Elfmetern",
+   "link": "https://www.kicker.de/es-gibt-ein-paar-vollidioten-weisers-besondere-rolle-bei-fuellkrugs-elfmetern-1264961/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T12:55:36Z",
+   "teaser": "Niclas Füllkrug baute seine bemerkenswerte Elfmeter-Serie in Mainz aus - auch wegen Mitchell Weiser? Dessen Rolle passte zum Zoff des Tages.",
+   "clubs": [
+    81
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/warum-in-freiburg-vor-dem-bayern-spiel-die-sinne-geschaerft-sind-1264710/artikel",
    "title": "Warum in Freiburg vor dem Bayern-Spiel die Sinne geschärft sind",
@@ -2516,32 +2541,6 @@
    "clubs": [
     81,
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-mohya-beim-krisentreffen-in-der-startelf-tsg-mit-prass-1261692/artikel",
-   "title": "LIVE! Mohya beim Krisentreffen in der Startelf - TSG mit Prass",
-   "link": "https://www.kicker.de/live-mohya-beim-krisentreffen-in-der-startelf-tsg-mit-prass-1261692/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T14:35:42Z",
-   "teaser": "Letzter gegen Vorletzter oder Gladbach gegen Hoffenheim: Wer schafft beim Aufeinandertreffen der beiden Kellerkinder die Trendwende?",
-   "clubs": [
-    175,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-prass-findet-conte-tsg-bestraft-vergebene-borussia-chance-1261692/artikel",
-   "title": "LIVE! Prass findet Conté: TSG bestraft vergebene Borussia-Chance",
-   "link": "https://www.kicker.de/live-prass-findet-conte-tsg-bestraft-vergebene-borussia-chance-1261692/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T14:35:42Z",
-   "teaser": "Letzter gegen Vorletzter oder Gladbach gegen Hoffenheim: Wer schafft beim Aufeinandertreffen der beiden Kellerkinder die Trendwende?",
-   "clubs": [
-    175,
-    87
    ],
    "transfer": false
   }
