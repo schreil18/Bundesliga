@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T17:29:26Z",
+ "updated": "2026-10-25T17:58:16Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/live-kane-koepft-freistehend-drueber-sc-findet-bisher-keine-loesung-1264014/artikel",
+   "title": "LIVE! Kane köpft freistehend drüber - SC findet bisher keine Lösung",
+   "link": "https://www.kicker.de/live-kane-koepft-freistehend-drueber-sc-findet-bisher-keine-loesung-1264014/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T17:43:13Z",
+   "teaser": "Seit 2015 ist Freiburg gegen den FC Bayern in der Liga sieglos, kassierte dabei 16 Niederlagen und sehnt das Ende der Pleitenserie herbei. Klappt es am Sonntagabend?",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/mehr-als-nur-philippe-wie-auch-goetze-und-co-das-paderborner-spiel-beleben-1264977/artikel",
+   "title": "Mehr als nur Philippe: Wie auch Götze und Co. das Paderborner Spiel beleben",
+   "link": "https://www.kicker.de/mehr-als-nur-philippe-wie-auch-goetze-und-co-das-paderborner-spiel-beleben-1264977/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T17:42:08Z",
+   "teaser": "Die Bank bringt den Sieg gegen den HSV; die Joker des SC Paderborn funktionieren. Darunter Felix Götze, der Kapitän, der gerne wieder mehr spielen würde. Der kicker analysiert die Breite im Kader des Aufsteigers.",
+   "clubs": [
+    100,
+    31
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/live-gnabry-tunnelt-backhaus-upamecano-im-stile-eines-stuermers-1264014/artikel",
    "title": "LIVE! Gnabry tunnelt Backhaus - Upamecano im Stile eines Stürmers",
@@ -2519,31 +2545,6 @@
    "clubs": [
     175,
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/blessin-wird-deutlich-wir-brauchen-keine-duckmaeuser-1262792/artikel",
-   "title": "Blessin wird deutlich: \"Wir brauchen keine Duckmäuser\"",
-   "link": "https://www.kicker.de/blessin-wird-deutlich-wir-brauchen-keine-duckmaeuser-1262792/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T18:39:21Z",
-   "teaser": "Borussia Mönchengladbach hat im sechsten Saisonspiel zum sechsten Mal verloren. Aber nicht nur die Niederlage ärgerte Trainer Alexander Blessin, sondern vor allem die Art und Weise, wie die Fohlen sich phasenweise präsentiert hatten.",
-   "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/zocken-im-kaefig-maza-erklaert-zauber-assist-schick-nimmt-ein-duo-ins-visier-1262757/artikel",
-   "title": "\"Zocken im Käfig\": Maza erklärt Zauber-Assist, Schick nimmt ein Duo ins Visier",
-   "link": "https://www.kicker.de/zocken-im-kaefig-maza-erklaert-zauber-assist-schick-nimmt-ein-duo-ins-visier-1262757/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T18:21:56Z",
-   "teaser": "Beim 2:1 gegen Freiburg trifft Ibrahim Maza nicht nur selbst, sondern liefert auch eine traumhafte Vorlage für Rekordtorschütze Patrik Schick. Wie der Spielmacher des Werksklubs die Szene erklärt - und wer nun noch vor Leverkusens …",
-   "clubs": [
-    6,
-    112
    ],
    "transfer": false
   }
