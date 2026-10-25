@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:28:52Z",
+ "updated": "2026-10-25T21:58:01Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/mehr-wert-als-ein-sieg-bayern-mit-bester-medizin-nach-schwieriger-woche-1265224/video",
+   "title": "\"Mehr wert als ein Sieg\": Bayern mit \"bester Medizin\" nach schwieriger Woche",
+   "link": "https://www.kicker.de/mehr-wert-als-ein-sieg-bayern-mit-bester-medizin-nach-schwieriger-woche-1265224/video",
+   "source": "kicker",
+   "published": "2026-10-25T21:27:49Z",
+   "teaser": "An der Säbener Straße hatte man in der abgelaufenen Woche so einige Rückschläge verschiedenster Natur zu verzeichnen. Besonders im Gedächtnis blieb Vincent Kompanys Zusammenbruch, dem Sportvorstand Max Eberl mit dem 3:1-Sieg in Freiburg …",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/bestnoten-fuer-fuellkrug-und-mohya-die-kicker-elf-des-7-spieltags-1265200/slideshow",
    "title": "Bestnoten für Füllkrug und Mohya: Die kicker-Elf des 7. Spieltags",
@@ -2532,19 +2545,6 @@
    "clubs": [
     6,
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
-   "title": "Hoffenheim befeuert Borussia Mönchengladbachs Abstiegsangst",
-   "link": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T22:01:28Z",
-   "teaser": "Sechster Spieltag, sechste Niederlage: Im Duell der Bundesliga-Schlusslichter hat die TSG Hoffenheim dafür gesorgt, dass Borussia Mönchengladbach weiter punktlos bleibt.",
-   "clubs": [
-    175,
-    87
    ],
    "transfer": false
   }
