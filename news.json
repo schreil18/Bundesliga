@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T16:01:17Z",
+ "updated": "2026-10-25T16:31:16Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,11 +16,24 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/live-prass-kontert-zum-2-0-und-fliegt-vom-feld-1264010/artikel",
+   "title": "LIVE! Prass kontert zum 2:0 und fliegt vom Feld",
+   "link": "https://www.kicker.de/live-prass-kontert-zum-2-0-und-fliegt-vom-feld-1264010/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T16:11:29Z",
+   "teaser": "Hoffenheim kommt in dieser Saison nur schwer aus den Startlöchern - im Gegensatz zu Leverkusen. Wer behält im direkten Duell die Oberhand?",
+   "clubs": [
+    6,
+    175
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/live-personalgeschwaechtes-bayern-mit-karl-und-gnabry-in-freiburg-1264014/artikel",
    "title": "LIVE! Personalgeschwächtes Bayern mit Karl und Gnabry in Freiburg",
    "link": "https://www.kicker.de/live-personalgeschwaechtes-bayern-mit-karl-und-gnabry-in-freiburg-1264014/artikel",
    "source": "kicker",
-   "published": "2026-10-25T15:34:49Z",
+   "published": "2026-10-25T16:06:48Z",
    "teaser": "Seit 2015 ist Freiburg gegen den FC Bayern in der Liga sieglos, kassierte dabei 16 Niederlagen und sehnt das Ende der Pleitenserie herbei. Klappt es am Sonntagabend?",
    "clubs": [
     40,
@@ -2528,19 +2541,6 @@
    "teaser": "Die TSG Hoffenheim wird voraussichtlich länger auf Nathan De Cat verzichten müssen. Das belgische Top-Talent muss sogar operiert werden.",
    "clubs": [
     175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gladbach-weiter-punktlos-hoffenheim-gewinnt-kellerduell-1261692/artikel",
-   "title": "Gladbach weiter punktlos: Hoffenheim gewinnt Kellerduell",
-   "link": "https://www.kicker.de/gladbach-weiter-punktlos-hoffenheim-gewinnt-kellerduell-1261692/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T17:23:42Z",
-   "teaser": "Borussia Mönchengladbachs Situation wird immer misslicher. Die Fohlen gingen am Sonntagabend auch im sechsten Bundesliga-Spiel als Verlierer vom Platz, 1:2 stand es am Ende gegen die ebenfalls schwach gestartete TSG Hoffenheim. Mit einer …",
-   "clubs": [
-    175,
-    87
    ],
    "transfer": false
   }
