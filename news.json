@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T10:31:24Z",
+ "updated": "2026-10-25T11:01:01Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/platzwunden-und-nasenbeinbruch-schalke-vermeldet-diagnosen-fuer-gosens-und-el-faouzi-1264890/artikel",
+   "title": "Platzwunden und Nasenbeinbruch: Schalke vermeldet Diagnosen für Gosens und El-Faouzi",
+   "link": "https://www.kicker.de/platzwunden-und-nasenbeinbruch-schalke-vermeldet-diagnosen-fuer-gosens-und-el-faouzi-1264890/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T10:49:49Z",
+   "teaser": "Die Zahl der verletzten oder zumindest angeschlagenen Schalker summiert sich mittlerweile auf eine komplette Elf. Am Sonntag veröffentlichte der Klub ein Update zu Robin Gosens' und Soufiane El-Faouzis Kopfverletzungen.",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/werder-vor-dem-goldenen-oktober-das-war-letztes-jahr-nicht-bei-jedem-so-1264862/artikel",
    "title": "Werder vor dem goldenen Oktober? \"Das war letztes Jahr nicht bei jedem so\"",
@@ -77,6 +89,19 @@
    "clubs": [
     40,
     112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-leidenschaft-allein-wird-dem-1-fc-koeln-nicht-reichen-100.html",
+   "title": "Leidenschaft allein wird dem 1. FC Köln nicht reichen",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-leidenschaft-allein-wird-dem-1-fc-koeln-nicht-reichen-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-25T08:49:33Z",
+   "teaser": "Der 1. FC Köln bringt gegen Schalke 04 erneut viel Leidenschaft auf den Platz. Trotz positiver Ansätze reicht das aber nicht für Siege.",
+   "clubs": [
+    65,
+    9
    ],
    "transfer": false
   },
@@ -2518,30 +2543,6 @@
    "clubs": [
     16,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fehlende-frische-oder-muster-dortmunds-suche-nach-der-durchschlagskraft-1262383/artikel",
-   "title": "Fehlende Frische oder Muster? Dortmunds Suche nach der Durchschlagskraft",
-   "link": "https://www.kicker.de/fehlende-frische-oder-muster-dortmunds-suche-nach-der-durchschlagskraft-1262383/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T12:53:34Z",
-   "teaser": "Zwei Spiele ohne Treffer sind symptomatisch für die derzeit schwache Offensive von Borussia Dortmund. Dazu kommt die möglicherweise schwere Verletzung von Konstantinos Karetsas.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/dortmunds-suche-nach-der-durchschlagskraft-1262383/artikel",
-   "title": "Dortmunds Suche nach der Durchschlagskraft",
-   "link": "https://www.kicker.de/dortmunds-suche-nach-der-durchschlagskraft-1262383/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T12:53:34Z",
-   "teaser": "Zwei Spiele ohne Treffer sind symptomatisch für die derzeit schwache Offensive von Borussia Dortmund. Dazu kommt die möglicherweise schwere Verletzung von Konstantinos Karetsas.",
-   "clubs": [
-    7
    ],
    "transfer": false
   }
