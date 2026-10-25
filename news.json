@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:58:01Z",
+ "updated": "2026-10-25T22:26:13Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/br/br-schwer-an-fussball-zu-denken-fcb-trotzt-seinen-sorgen-102.html",
+   "title": "\"Schwer, an Fußball zu denken\": FCB trotzt seinen Sorgen",
+   "link": "https://www.sportschau.de/regional/br/br-schwer-an-fussball-zu-denken-fcb-trotzt-seinen-sorgen-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-25T22:09:50Z",
+   "teaser": "Beim FC Bayern rückte der Fußball in den vergangenen Tagen in den Hintergrund. Nach den Sorgen um Vincent Kompany und einem Trauerfall in Joshua Kimmichs Familie setzte die Mannschaft beim 3:1 in Freiburg ein Zeichen des Zusammenhalts.",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/natuerlich-kotzt-mich-das-an-freiburgs-ernuechterung-nach-den-top-spielen-1265229/video",
+   "title": "\"Natürlich kotzt mich das an\": Freiburgs Ernüchterung nach den Top-Spielen",
+   "link": "https://www.kicker.de/natuerlich-kotzt-mich-das-an-freiburgs-ernuechterung-nach-den-top-spielen-1265229/video",
+   "source": "kicker",
+   "published": "2026-10-25T21:49:30Z",
+   "teaser": "Die Woche der drei Top-Spiele hat der SC Freiburg mit null Punkten abgeschlossen. Ernüchterung beim Sport-Club, der den Trend aber schnell wieder umdrehen kann, analysiert kicker-Reporter Carsten Schröter-Lorenz.",
+   "clubs": [
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/mehr-wert-als-ein-sieg-bayern-mit-bester-medizin-nach-schwieriger-woche-1265224/video",
    "title": "\"Mehr wert als ein Sieg\": Bayern mit \"bester Medizin\" nach schwieriger Woche",
@@ -32,6 +57,21 @@
    "id": "https://www.kicker.de/bestnoten-fuer-fuellkrug-und-mohya-die-kicker-elf-des-7-spieltags-1265200/slideshow",
    "title": "Bestnoten für Füllkrug und Mohya: Die kicker-Elf des 7. Spieltags",
    "link": "https://www.kicker.de/bestnoten-fuer-fuellkrug-und-mohya-die-kicker-elf-des-7-spieltags-1265200/slideshow",
+   "source": "kicker",
+   "published": "2026-10-25T21:10:00Z",
+   "teaser": "Eine Woche vor dem Kracher positionierten sich Meister Bayern München und Borussia Dortmund punktgleich an der Tabellenspitze. Ansonsten feierten Schlusslicht Gladbach und Hoffenheim wichtige Dreier. All das fand wie der abermals …",
+   "clubs": [
+    40,
+    7,
+    175,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/starke-torjaeger-drei-muenchner-und-eine-gladbacher-eins-die-kicker-elf-des-7-spieltags-1265200/slideshow",
+   "title": "Starke Torjäger, drei Münchner und eine Gladbacher Eins: Die kicker-Elf des 7. Spieltags",
+   "link": "https://www.kicker.de/starke-torjaeger-drei-muenchner-und-eine-gladbacher-eins-die-kicker-elf-des-7-spieltags-1265200/slideshow",
    "source": "kicker",
    "published": "2026-10-25T21:10:00Z",
    "teaser": "Eine Woche vor dem Kracher positionierten sich Meister Bayern München und Borussia Dortmund punktgleich an der Tabellenspitze. Ansonsten feierten Schlusslicht Gladbach und Hoffenheim wichtige Dreier. All das fand wie der abermals …",
@@ -63,6 +103,19 @@
    "source": "kicker",
    "published": "2026-10-25T20:08:05Z",
    "teaser": "Bayer 04 Leverkusen hat nicht in Hoffenheim nicht nur das Spiel mit 0:3 verloren, auch Abwehrspieler Loic Badé erwischte es knüppeldick. Inzwischen gab es aber auch schon leichte Entwarnung. Schiedsrichter Robert Hartmann erklärte zudem …",
+   "clubs": [
+    6,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ilzer-heute-duerfen-wir-uns-auf-die-schulter-klopfen-1265195/video",
+   "title": "Ilzer: \"Heute dürfen wir uns auf die Schulter klopfen\"",
+   "link": "https://www.kicker.de/ilzer-heute-duerfen-wir-uns-auf-die-schulter-klopfen-1265195/video",
+   "source": "kicker",
+   "published": "2026-10-25T20:05:14Z",
+   "teaser": "Christian Ilzer ist froh, dass man sich von Leverkusens Siegesserie nicht einlullen ließ. Nach drei Siegen in einer Woche darf sich das Team selbst auf die Schulter klopfen, so der Hoffenheim-Coach.",
    "clubs": [
     6,
     175
@@ -2495,56 +2548,6 @@
    "clubs": [
     7,
     80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-nach-wochen-voller-frust-die-erloesung-des-luis-daz-102.html",
-   "title": "Die Erlösung des Luis Díaz",
-   "link": "https://www.sportschau.de/regional/br/br-nach-wochen-voller-frust-die-erloesung-des-luis-daz-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-19T06:48:29Z",
-   "teaser": "Wochenlang fehlten Luis Díaz Zentimeter, Glück oder Timing. Gegen RB Leipzig platzte beim Offensivspieler endlich der Knoten. Beim 6:1 gegen RB Leipzig glänzte Luis Díaz als Offensivmotor des FC Bayern.",
-   "clubs": [
-    40,
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/noll-festspiele-die-alleingaenge-des-besonderen-rundumpakets-1262588/artikel",
-   "title": "Noll-Festspiele: Die Alleingänge des \"besonderen Rundumpakets\"",
-   "link": "https://www.kicker.de/noll-festspiele-die-alleingaenge-des-besonderen-rundumpakets-1262588/artikel",
-   "source": "kicker",
-   "published": "2026-10-19T05:59:59Z",
-   "teaser": "Ein halbes Dutzend Rettungstaten, sicher abgefangene Flanken und - bis auf eine Ausnahme - ein kluger Spielaufbau. So präsentierte sich der Deutsch-Spanier in Bremen zwischen den Pfosten des Aufsteigers.",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-kommentar-zum-bosse-beben-bei-eintracht-frankfurt-kroesche-trennung-war-noetig-100.html",
-   "title": "Kommentar: Die Trennung von Eintracht Frankfurt und Markus Krösche war nötig",
-   "link": "https://www.sportschau.de/regional/hr/hr-kommentar-zum-bosse-beben-bei-eintracht-frankfurt-kroesche-trennung-war-noetig-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-19T05:52:27Z",
-   "teaser": "Dass die Zeit von Markus Krösche als Sportvorstand von Eintracht Frankfurt endet, ist schade. Der Manager hat zweifelsohne viele Verdienste. Richtig aber ist die Entscheidung dennoch - aus mehreren Gründen.",
-   "clubs": [
-    91
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/nach-tennisball-protest-schuster-kritisiert-freiburger-fans-1262870/artikel",
-   "title": "Nach Tennisball-Protest: Schuster kritisiert Freiburger Fans",
-   "link": "https://www.kicker.de/nach-tennisball-protest-schuster-kritisiert-freiburger-fans-1262870/artikel",
-   "source": "kicker",
-   "published": "2026-10-19T04:51:00Z",
-   "teaser": "Im Topspiel bei Bayer 04 Leverkusen hat der SC Freiburg den Kürzeren gezogen. Julian Schuster musste sich dabei auch noch über das Verhalten der Gästefans ärgern.",
-   "clubs": [
-    6,
-    112
    ],
    "transfer": false
   }
