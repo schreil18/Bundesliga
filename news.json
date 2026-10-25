@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:06:10Z",
+ "updated": "2026-10-25T19:32:16Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/warum-gadou-in-baku-und-gegen-frankfurt-auf-der-bank-sass-1265050/artikel",
+   "title": "Warum Gadou in Baku und gegen Frankfurt auf der Bank saß",
+   "link": "https://www.kicker.de/warum-gadou-in-baku-und-gegen-frankfurt-auf-der-bank-sass-1265050/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T19:12:31Z",
+   "teaser": "Die ersten neun Pflichtspiele für Borussia Dortmund bestritt Neuzugang Joane Gadou jeweils von Anfang an. Zuletzt verdrängte ihn Ramy Bensebaini zweimal auf die Bank. Niko Kovac verriet, wo der 19-Jährige noch Nachholbedarf hat.",
+   "clubs": [
+    7,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
+   "title": "Trotz Personalsorgen: Bayern siegt in Freiburg und rückt an Tabellenspitze",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
+   "source": "Sportschau",
+   "published": "2026-10-25T19:06:13Z",
+   "teaser": "Der FC Bayern hat sich nicht anmerken lassen, in welch schwieriger Personalsituation er aktuell steckt. 80 Minuten dominierte der amtierende Meister gegen den SC Freiburg. Am Ende wurde es nochmal brenzlig.",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/hoffenheims-perfekte-woche-das-kann-die-wende-sein-1265163/video",
    "title": "Hoffenheims perfekte Woche: \"Das kann die Wende sein\"",
@@ -50,19 +76,6 @@
    "clubs": [
     95,
     80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
-   "title": "Trotz Personalsorgen: Bayern siegt in Freiburg und rückt an Tabellenspitze",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
-   "source": "Sportschau",
-   "published": "2026-10-25T18:30:03Z",
-   "teaser": "Der FC Bayern hat sich nicht anmerken lassen, in welch schwieriger Personalsituation er aktuell steckt. 80 Minuten dominierte der amtierende Meister gegen den SC Freiburg. Am Ende wurde es nochmal brenzlig.",
-   "clubs": [
-    40,
-    112
    ],
    "transfer": false
   },
@@ -2531,19 +2544,6 @@
     1635,
     91,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/muenchens-machtdemonstration-zeigt-leipzig-die-grenzen-auf,video-bundesliga-fc-bayern-muenchen-rb-leipzig-100.html",
-   "title": "Bundesliga: Bayern München zeigt Leipzig die Grenzen auf",
-   "link": "https://www.sportschau.de/fussball/bundesliga/muenchens-machtdemonstration-zeigt-leipzig-die-grenzen-auf,video-bundesliga-fc-bayern-muenchen-rb-leipzig-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T22:00:17Z",
-   "teaser": "Bayern München hat die zuletzt aufstrebenden Leipziger in die Schranken gewiesen. Luis Diaz traf beim Heimsieg gleich dreimal.",
-   "clubs": [
-    40,
-    1635
    ],
    "transfer": false
   }
