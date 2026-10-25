@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T15:30:23Z",
+ "updated": "2026-10-25T16:01:17Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/live-personalgeschwaechtes-bayern-mit-karl-und-gnabry-in-freiburg-1264014/artikel",
+   "title": "LIVE! Personalgeschwächtes Bayern mit Karl und Gnabry in Freiburg",
+   "link": "https://www.kicker.de/live-personalgeschwaechtes-bayern-mit-karl-und-gnabry-in-freiburg-1264014/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T15:34:49Z",
+   "teaser": "Seit 2015 ist Freiburg gegen den FC Bayern in der Liga sieglos, kassierte dabei 16 Niederlagen und sehnt das Ende der Pleitenserie herbei. Klappt es am Sonntagabend?",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/augsburgs-start-verblasst-erst-das-mittelmass-dann-die-abwehrnot-1264883/artikel",
    "title": "Augsburgs Start verblasst: Erst das Mittelmaß, dann die Abwehrnot",
@@ -32,6 +45,19 @@
    "id": "https://www.kicker.de/live-nach-fehlpass-im-mittelfeld-hlozek-ans-alu-diaby-verletzt-raus-1264010/artikel",
    "title": "LIVE! Nach Fehlpass im Mittelfeld: Hlozek ans Alu - Diaby verletzt raus",
    "link": "https://www.kicker.de/live-nach-fehlpass-im-mittelfeld-hlozek-ans-alu-diaby-verletzt-raus-1264010/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T15:08:35Z",
+   "teaser": "Hoffenheim kommt in dieser Saison nur schwer aus den Startlöchern - im Gegensatz zu Leverkusen. Wer behält im direkten Duell die Oberhand?",
+   "clubs": [
+    6,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-schiri-siebert-verletzt-vierter-offizieller-muss-ran-1264010/artikel",
+   "title": "LIVE! Schiri Siebert verletzt - Vierter Offizieller muss ran",
+   "link": "https://www.kicker.de/live-schiri-siebert-verletzt-vierter-offizieller-muss-ran-1264010/artikel",
    "source": "kicker",
    "published": "2026-10-25T15:08:35Z",
    "teaser": "Hoffenheim kommt in dieser Saison nur schwer aus den Startlöchern - im Gegensatz zu Leverkusen. Wer behält im direkten Duell die Oberhand?",
@@ -2515,32 +2541,6 @@
    "clubs": [
     175,
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-prass-kontert-mohya-nicolas-pariert-gegen-hlozek-1261692/artikel",
-   "title": "LIVE! Prass kontert Mohya - Nicolas pariert gegen Hlozek",
-   "link": "https://www.kicker.de/live-prass-kontert-mohya-nicolas-pariert-gegen-hlozek-1261692/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T16:53:32Z",
-   "teaser": "Letzter gegen Vorletzter oder Gladbach gegen Hoffenheim: Wer schafft beim Aufeinandertreffen der beiden Kellerkinder die Trendwende?",
-   "clubs": [
-    175,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bestes-erkenntnis-wir-waren-zu-gierig-1262707/artikel",
-   "title": "Bestes Erkenntnis: \"Wir waren zu gierig\"",
-   "link": "https://www.kicker.de/bestes-erkenntnis-wir-waren-zu-gierig-1262707/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T16:50:11Z",
-   "teaser": "Fußball ist bekanntlich ein Fehlerspiel - und zwei Fehler kamen den SC Freiburg in Leverkusen teuer zu stehen. Der Ärger war nach Abpfiff entsprechend groß.",
-   "clubs": [
-    6,
-    112
    ],
    "transfer": false
   }
