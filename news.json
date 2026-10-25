@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:32:16Z",
+ "updated": "2026-10-25T19:55:45Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/kramaric-nach-prass-jubel-ein-guter-spieler-aber-ein-bisschen-dumm-1265167/artikel",
+   "title": "Kramaric nach Prass-Jubel: \"Ein guter Spieler, aber ein bisschen dumm\"",
+   "link": "https://www.kicker.de/kramaric-nach-prass-jubel-ein-guter-spieler-aber-ein-bisschen-dumm-1265167/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T19:35:06Z",
+   "teaser": "Drittes Spiel, dritter Sieg in Serie: Die TSG Hoffenheim hat einen Lauf, doch beim 3:0 gegen Bayer 04 Leverkusen sorgte Alexander Prass für einen Wermutstropfen. Dafür gab's dann auch Schelte.",
+   "clubs": [
+    6,
+    175
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/warum-gadou-in-baku-und-gegen-frankfurt-auf-der-bank-sass-1265050/artikel",
    "title": "Warum Gadou in Baku und gegen Frankfurt auf der Bank saß",
@@ -2530,20 +2543,6 @@
    "clubs": [
     6,
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/ebnoutalib-vollendet-asekos-geniestreich-gegen-koeln,video-bundesliga-eintracht-frankfurt-1-fc-koeln-100.html",
-   "title": "Bundesliga: Frankfurts Ebnoutalib entscheidet Spiel gegen Köln",
-   "link": "https://www.sportschau.de/fussball/bundesliga/ebnoutalib-vollendet-asekos-geniestreich-gegen-koeln,video-bundesliga-eintracht-frankfurt-1-fc-koeln-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T22:00:18Z",
-   "teaser": "Nach der Klatsche in Leipzig vergangene Woche zeigt Eintracht Frankfurt eine Reaktion und besiegt den 1. FC Köln dank einer überragenden Aktion.",
-   "clubs": [
-    1635,
-    91,
-    65
    ],
    "transfer": false
   }
