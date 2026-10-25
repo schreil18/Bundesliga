@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T08:31:47Z",
+ "updated": "2026-10-25T09:03:08Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/kuriosum-an-der-bundesliga-tabellenspitze-das-hat-es-noch-nicht-gegeben-1263737/artikel",
+   "title": "Kuriosum an der Bundesliga-Tabellenspitze: Das hat es noch nicht gegeben",
+   "link": "https://www.kicker.de/kuriosum-an-der-bundesliga-tabellenspitze-das-hat-es-noch-nicht-gegeben-1263737/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T08:38:09Z",
+   "teaser": "Dass der FC Bayern von der Tabellenspitze grüßt, daran hat sich der geneigte Bundesliga-Fan schon seit vielen Jahren gewöhnt. In diesem Jahr ist aber einiges anders - historisch anders sogar.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/das-fuer-und-wider-des-elversberger-spielstils-1264860/artikel",
    "title": "Das Für und Wider des Elversberger Spielstils",
@@ -145,7 +157,7 @@
    "link": "https://www.kicker.de/fca-kuendigt-anzeigen-an-bah-nach-platzverweis-rassistisch-beleidigt-1264789/artikel",
    "source": "kicker",
    "published": "2026-10-24T20:01:39Z",
-   "teaser": "Der FC Augsburg tritt sportlich seit Wochen auf der Stelle. Nach dem 1:1 gegen Union Berlin entlud sich die Fan-Wut auf untolerierbare Weise in Richtung von Juma Bah.",
+   "teaser": "Nach dem 1:1 gegen Union Berlin wurde Augsburg-Profi Juma Bah rassistisch beleidigt. Der FCA reagierte mit einem Statement.",
    "clubs": [
     95,
     80
@@ -2529,19 +2541,6 @@
    "teaser": "Der 27-Jährige ist zurück auf seiner angestammten Position. Dort kann er seine Stärken deutlich besser ausspielen als auf der Zehn.",
    "clubs": [
     80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-keine-punkte-keine-leistung-schalke-macht-sich-sorgen-100.html",
-   "title": "Keine Punkte, keine Leistung - Schalke macht sich Sorgen",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-keine-punkte-keine-leistung-schalke-macht-sich-sorgen-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T10:44:03Z",
-   "teaser": "Der FC Schalke 04 zeigt gegen Mainz 05 die schwächste Saisonleistung. Die Alarmglocken schrillen bei allen Beteiligten.",
-   "clubs": [
-    81,
-    9
    ],
    "transfer": false
   }
