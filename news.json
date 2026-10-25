@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T09:03:08Z",
+ "updated": "2026-10-25T09:33:05Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/karl-schockt-freiburg-bayerns-denkwuerdiges-last-minute-comeback-1264320/video",
+   "title": "Karl schockt Freiburg: Bayerns denkwürdiges Last-Minute-Comeback",
+   "link": "https://www.kicker.de/karl-schockt-freiburg-bayerns-denkwuerdiges-last-minute-comeback-1264320/video",
+   "source": "kicker",
+   "published": "2026-10-25T09:02:53Z",
+   "teaser": "Am 28. Spieltag der Saison 2025/26 feierte der FC Bayern in Freiburg ein beeindruckendes Comeback. Angeführt von Tom Bischof und Lennart Karl drehten die Gäste ein 0:2 noch zu einem Sieg. Die Highlights im Video.",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/kuriosum-an-der-bundesliga-tabellenspitze-das-hat-es-noch-nicht-gegeben-1263737/artikel",
    "title": "Kuriosum an der Bundesliga-Tabellenspitze: Das hat es noch nicht gegeben",
@@ -2529,18 +2542,6 @@
    "clubs": [
     6,
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/das-ende-der-wilden-aktionen-wie-schaefer-union-jetzt-stabilisiert-1262552/artikel",
-   "title": "Das Ende der wilden Aktionen: Wie Schäfer Union jetzt stabilisiert",
-   "link": "https://www.kicker.de/das-ende-der-wilden-aktionen-wie-schaefer-union-jetzt-stabilisiert-1262552/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T11:50:23Z",
-   "teaser": "Der 27-Jährige ist zurück auf seiner angestammten Position. Dort kann er seine Stärken deutlich besser ausspielen als auf der Zehn.",
-   "clubs": [
-    80
    ],
    "transfer": false
   }
