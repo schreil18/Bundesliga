@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T10:02:54Z",
+ "updated": "2026-10-25T10:31:24Z",
  "sources": [
   {
    "name": "kicker",
@@ -30,6 +30,18 @@
    "transfer": false
   },
   {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-volltreffer-als-schienenersatz-100.html",
+   "title": "Maxi Beier - Volltreffer als Schienenersatz",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-volltreffer-als-schienenersatz-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-25T09:58:37Z",
+   "teaser": "Wieder reicht Borussia Dortmund ein Tor von Maximilian Beier für drei Punkte in der Fußball-Bundesliga. Seine Flexibilität zahlt sich aus.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/hlozeks-duell-mit-kumpel-schick-1264317/artikel",
    "title": "Hlozeks Duell mit Kumpel Schick",
    "link": "https://www.kicker.de/hlozeks-duell-mit-kumpel-schick-1264317/artikel",
@@ -39,6 +51,19 @@
    "clubs": [
     6,
     175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-worauf-kompany-vertreter-danks-gegen-freiburg-setzt-102.html",
+   "title": "Worauf Kompany-Vertreter Danks gegen Freiburg setzt",
+   "link": "https://www.sportschau.de/regional/br/br-worauf-kompany-vertreter-danks-gegen-freiburg-setzt-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-25T09:19:21Z",
+   "teaser": "Nach dem Ausfall von Cheftrainer Vincent Kompany führt Co-Trainer Aaron Danks den FC Bayern im Bundesliga-Spiel gegen den SC Freiburg. Die Rolle als Kompany-Vertretung kennt er schon und dafür hat er ein klares Erfolgsrezept.",
+   "clubs": [
+    40,
+    112
    ],
    "transfer": false
   },
@@ -2517,32 +2542,6 @@
    "teaser": "Zwei Spiele ohne Treffer sind symptomatisch für die derzeit schwache Offensive von Borussia Dortmund. Dazu kommt die möglicherweise schwere Verletzung von Konstantinos Karetsas.",
    "clubs": [
     7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-bayers-schick-stuermt-im-topduell-grosse-rotation-beim-sc-freiburg-1261689/artikel",
-   "title": "LIVE! Bayers Schick stürmt im Topduell - Große Rotation beim SC Freiburg",
-   "link": "https://www.kicker.de/live-bayers-schick-stuermt-im-topduell-grosse-rotation-beim-sc-freiburg-1261689/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T12:23:56Z",
-   "teaser": "Setzt Freiburg seinen Traumstart fort? Oder fügt Leverkusen dem Sport-Club die erste Niederlage zu und zieht nach Punkten mit den Breisgauern gleich?",
-   "clubs": [
-    6,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-schick-kann-s-auch-als-vorbereiter-leverkusen-antwortet-schnell-1261689/artikel",
-   "title": "LIVE! Schick kann's auch als Vorbereiter - Leverkusen antwortet schnell",
-   "link": "https://www.kicker.de/live-schick-kann-s-auch-als-vorbereiter-leverkusen-antwortet-schnell-1261689/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T12:23:56Z",
-   "teaser": "Setzt Freiburg seinen Traumstart fort? Oder fügt Leverkusen dem Sport-Club die erste Niederlage zu und zieht nach Punkten mit den Breisgauern gleich?",
-   "clubs": [
-    6,
-    112
    ],
    "transfer": false
   }
