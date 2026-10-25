@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T07:37:57Z",
+ "updated": "2026-10-25T08:31:47Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/das-fuer-und-wider-des-elversberger-spielstils-1264860/artikel",
+   "title": "Das Für und Wider des Elversberger Spielstils",
+   "link": "https://www.kicker.de/das-fuer-und-wider-des-elversberger-spielstils-1264860/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T08:11:41Z",
+   "teaser": "Erstmals in dieser Saison ist die SV Elversberg in der Bundesliga richtig auf die Bretter geschickt worden. Trainer Vincent Wagner hat Rückschläge wie jenen am Samstag in Leipzig einkalkuliert und denkt gar nicht daran, an seinem für einen …",
+   "clubs": [
+    1635,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/thioune-erklaert-fuellkrugs-aerger-bei-der-auswechslung-1264840/video",
+   "title": "Thioune erklärt Füllkrugs Ärger bei der Auswechslung",
+   "link": "https://www.kicker.de/thioune-erklaert-fuellkrugs-aerger-bei-der-auswechslung-1264840/video",
+   "source": "kicker",
+   "published": "2026-10-25T07:40:47Z",
+   "teaser": "Werder-Trainer Daniel Thioune kommt bei Niclas Füllkrug ins Schwärmen - und erklärt, was wirklich hinter dessen Ärger bei der Auswechslung in Mainz steckte.",
+   "clubs": [
+    81,
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/klose-co-reagieren-auf-kompany-schock-wir-sind-alle-stur-1264849/artikel",
    "title": "Klose & Co. reagieren auf Kompany-Schock: \"Wir sind alle stur\"",
@@ -205,6 +231,20 @@
    "id": "https://www.kicker.de/wenn-ich-dafuer-eine-begruendung-haette-leipzig-luchst-bayern-einen-bundesliga-rekord-ab-1264720/artikel",
    "title": "\"Wenn ich dafür eine Begründung hätte\" - Leipzig luchst Bayern einen Bundesliga-Rekord ab",
    "link": "https://www.kicker.de/wenn-ich-dafuer-eine-begruendung-haette-leipzig-luchst-bayern-einen-bundesliga-rekord-ab-1264720/artikel",
+   "source": "kicker",
+   "published": "2026-10-24T18:35:52Z",
+   "teaser": "Während Leipzig auswärts regelmäßig Niederlagen einstecken muss, klappte es gegen die SV Elversberg mit dem nächsten deutlichen Heimsieg. Dabei konnte RB dem FC Bayern sogar einen Bundesliga-Rekord abluchsen.",
+   "clubs": [
+    40,
+    1635,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/leipzig-luchst-bayern-einen-bundesliga-rekord-ab-1264720/artikel",
+   "title": "Leipzig luchst Bayern einen Bundesliga-Rekord ab",
+   "link": "https://www.kicker.de/leipzig-luchst-bayern-einen-bundesliga-rekord-ab-1264720/artikel",
    "source": "kicker",
    "published": "2026-10-24T18:35:52Z",
    "teaser": "Während Leipzig auswärts regelmäßig Niederlagen einstecken muss, klappte es gegen die SV Elversberg mit dem nächsten deutlichen Heimsieg. Dabei konnte RB dem FC Bayern sogar einen Bundesliga-Rekord abluchsen.",
@@ -2502,39 +2542,6 @@
    "clubs": [
     81,
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/schick-ist-erst-der-elfte-diese-spieler-trafen-an-den-ersten-fuenf-spieltagen-1260404/slideshow",
-   "title": "Schick ist erst der Elfte: Diese Spieler trafen an den ersten fünf Spieltagen",
-   "link": "https://www.kicker.de/schick-ist-erst-der-elfte-diese-spieler-trafen-an-den-ersten-fuenf-spieltagen-1260404/slideshow",
-   "source": "kicker",
-   "published": "2026-10-18T09:31:25Z",
-   "teaser": "Patrik Schick hat an jedem der ersten fünf Spieltage getroffen - das ist vor ihm nur zehn anderen Bundesliga-Spielern gelungen. Wem genau? Und welches Duo verlängerte die Serie noch weiter?",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/collins-gibt-raetsel-auf-baut-huetter-die-eintracht-abwehr-erneut-um-1262497/artikel",
-   "title": "Collins gibt Rätsel auf: Baut Hütter die Eintracht-Abwehr erneut um?",
-   "link": "https://www.kicker.de/collins-gibt-raetsel-auf-baut-huetter-die-eintracht-abwehr-erneut-um-1262497/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T09:17:49Z",
-   "teaser": "Nnamdi Collins sucht nach zwei längeren Verletzungspausen weiter seine Form. In der zuletzt gezeigten Verfassung stellt er ein Sicherheitsrisiko dar. Kann er sich stabilisieren? Oder baut Trainer Adi Hütter die Abwehr erneut um?",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/swr/swr-keine-spitzenmannschaft--undavs-klartext-als-wachmacher-vor-dem-atltico-kracher-100.html",
-   "title": "\"Keine Spitzenmannschaft\" - VfB Stuttgart fehlt der Flow",
-   "link": "https://www.sportschau.de/regional/swr/swr-keine-spitzenmannschaft--undavs-klartext-als-wachmacher-vor-dem-atltico-kracher-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T08:44:30Z",
-   "teaser": "Nach dem späten 0:1 beim HSV nimmt Kapitän Deniz Undav den VfB Stuttgart in die Pflicht. Vor dem Atlético-Kracher am Dienstag fehlt den Schwaben der Flow.",
-   "clubs": [
-    16,
-    100
    ],
    "transfer": false
   }
