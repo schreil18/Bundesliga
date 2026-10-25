@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T17:58:16Z",
+ "updated": "2026-10-25T18:32:11Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
+   "title": "Trotz Personalsorgen: Bayern siegt gegen Freiburg und rückt an Tabellenspitze",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
+   "source": "Sportschau",
+   "published": "2026-10-25T18:30:03Z",
+   "teaser": "Der FC Bayern hat sich nicht anmerken lassen, in welch schwieriger Personalsituation er aktuell steckt. 80 Minuten dominierte der amtierende deutsche Meister gegen den SC Freiburg. Am Ende wurde es nochmal brenzlig.",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/upamecanos-stuermertor-leitet-bayerns-zittersieg-in-freiburg-ein-1264014/artikel",
+   "title": "Upamecanos Stürmertor leitet Bayerns Zittersieg in Freiburg ein",
+   "link": "https://www.kicker.de/upamecanos-stuermertor-leitet-bayerns-zittersieg-in-freiburg-ein-1264014/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T18:26:52Z",
+   "teaser": "Seit 2015 ist Freiburg gegen den FC Bayern in der Liga sieglos, kassierte dabei 16 Niederlagen und sehnt das Ende der Pleitenserie herbei. Klappt es am Sonntagabend?",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/live-kane-koepft-freistehend-drueber-sc-findet-bisher-keine-loesung-1264014/artikel",
    "title": "LIVE! Kane köpft freistehend drüber - SC findet bisher keine Lösung",
@@ -399,6 +425,19 @@
    "transfer": false
   },
   {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-bei-schalke-04-ist-kein-platz-fuer-offensive-freigeister-100.html",
+   "title": "Bei Schalke 04 ist kein Platz für offensive Freigeister",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-bei-schalke-04-ist-kein-platz-fuer-offensive-freigeister-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-25T07:00:00Z",
+   "teaser": "Der FC Schalke 04 zeigt sich in Köln zwar verbessert, aber Tore zu schießen, bleibt für die Königsblauen ein Mysterium.",
+   "clubs": [
+    65,
+    9
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/wer-uebertraegt-sc-freiburg-gegen-bayern-muenchen-heute-live-im-tv-stream-1264282/artikel",
    "title": "Wer überträgt SC Freiburg gegen Bayern München heute live im TV & Stream?",
    "link": "https://www.kicker.de/wer-uebertraegt-sc-freiburg-gegen-bayern-muenchen-heute-live-im-tv-stream-1264282/artikel",
@@ -661,6 +700,19 @@
    "teaser": "Gegen Elversberg konnte RB seine beeindruckende Heim-Serie ausbauen, die mittlerweile sogar Rekordformat angenommen hat. Der Vortrag entsprach dem Ergebnis allerdings nicht.",
    "clubs": [
     198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-blutiger-zusammenprall-bei-nullnummer-in-koeln-100.html",
+   "title": "Blutiger Zusammenprall bei Nullnummer in Köln",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-blutiger-zusammenprall-bei-nullnummer-in-koeln-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-24T17:44:00Z",
+   "teaser": "Keine Tore im Traditionsduell der West-Klubs: Der 1. FC Köln und Schalke 04 haben sich in einer heiß umkämpften Partie remis getrennt.",
+   "clubs": [
+    65,
+    9
    ],
    "transfer": false
   },
@@ -2493,58 +2545,6 @@
    "clubs": [
     16,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/einlaufkind-und-aufholjagd-werder-wahnsinn-geht-weiter,bundesliga-update-rueckblick-spieltag-sechs-106.html",
-   "title": "Der SV Werder Bremen holt schon wieder einen Rückstand auf",
-   "link": "https://www.sportschau.de/fussball/bundesliga/einlaufkind-und-aufholjagd-werder-wahnsinn-geht-weiter,bundesliga-update-rueckblick-spieltag-sechs-106.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T21:53:00Z",
-   "teaser": "Auf eines können sie sich in Bremen in dieser Saison verlassen: Niclas Füllkrug dreht einen 0:2-Rückstand. Trotzdem hadert man bei Werder mit dem Punkt gegen Paderborn.",
-   "clubs": [
-    134,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/im-kopf-ist-es-drin-was-blessin-mut-macht-1262839/video",
-   "title": "\"Im Kopf ist es drin\": Was Blessin Mut macht",
-   "link": "https://www.kicker.de/im-kopf-ist-es-drin-was-blessin-mut-macht-1262839/video",
-   "source": "kicker",
-   "published": "2026-10-18T21:02:48Z",
-   "teaser": "Mönchengladbach-Trainer Alexander Blessin sieht trotz der 1:2-Niederlage gegen Hoffenheim positive Ansätze. Die tägliche Arbeit und die Bereitschaft seiner Mannschaft, die Vorgaben umzusetzen, geben ihm Mut.",
-   "clubs": [
-    175,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ein-halbes-dutzend-bayern-und-dreimal-die-bestnote-die-kicker-elf-des-6-spieltags-1262788/slideshow",
-   "title": "Ein halbes Dutzend Bayern und dreimal die Bestnote: Die kicker-Elf des 6. Spieltags",
-   "link": "https://www.kicker.de/ein-halbes-dutzend-bayern-und-dreimal-die-bestnote-die-kicker-elf-des-6-spieltags-1262788/slideshow",
-   "source": "kicker",
-   "published": "2026-10-18T19:57:25Z",
-   "teaser": "Der FC Bayern schenkte RB Leipzig im Topspiel sechs Tore ein, sechs Münchner schafften es nun auch in die kicker-Elf des Spieltags. Drei Spieler verdienten sich die Note 1, nur zwei davon kicken beim Rekordmeister.",
-   "clubs": [
-    40,
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/aus-der-zweiten-reihe-in-den-mittelpunkt-prass-reisst-die-tsg-kollegen-mit-1262772/artikel",
-   "title": "Aus der zweiten Reihe in den Mittelpunkt: Prass reißt die TSG-Kollegen mit",
-   "link": "https://www.kicker.de/aus-der-zweiten-reihe-in-den-mittelpunkt-prass-reisst-die-tsg-kollegen-mit-1262772/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T19:01:02Z",
-   "teaser": "Ausgerechnet Alexander Prass, der lange in der zweiten Reihe geschmort hat, beendet in Gladbach mit einem Tor, einer Vorlage und als Aggressiv-Leader die Hoffenheimer Niederlagenserie.",
-   "clubs": [
-    175,
-    87
    ],
    "transfer": false
   }
