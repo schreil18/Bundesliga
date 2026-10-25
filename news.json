@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T14:29:56Z",
+ "updated": "2026-10-25T15:00:15Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/live-tella-und-asllani-lassen-fuehrung-liegen-1264010/artikel",
+   "title": "LIVE! Tella und Asllani lassen Führung liegen",
+   "link": "https://www.kicker.de/live-tella-und-asllani-lassen-fuehrung-liegen-1264010/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T14:45:39Z",
+   "teaser": "Hoffenheim kommt in dieser Saison nur schwer aus den Startlöchern - im Gegensatz zu Leverkusen. Wer behält im direkten Duell die Oberhand?",
+   "clubs": [
+    6,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/der-bvb-zeigt-wieder-kovac-qualitaeten-auch-dessen-nummer-eins-ding-1264941/artikel",
+   "title": "Der BVB zeigt wieder Kovac-Qualitäten - auch dessen \"Nummer-eins-Ding\"",
+   "link": "https://www.kicker.de/der-bvb-zeigt-wieder-kovac-qualitaeten-auch-dessen-nummer-eins-ding-1264941/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T14:27:32Z",
+   "teaser": "Borussia Dortmund hat sich bei der Heim-Rückkehr nach drei intensiven Auswärtsspielen einen Sieg erkämpft. Die Formkurve zeigt nach oben, was vor allem daran liegt, dass gewohnte Stärken wieder zum Vorschein kommen.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/gefestigt-aber-zu-harmlos-huetters-eintracht-sucht-nach-der-richtigen-balance-1264856/artikel",
    "title": "Gefestigt, aber zu harmlos: Hütters Eintracht sucht nach der richtigen Balance",
@@ -2515,31 +2540,6 @@
    "clubs": [
     175,
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/eintracht-frankfurt-stellt-sportvorstand-kroesche-frei-1262686/artikel",
-   "title": "Eintracht Frankfurt stellt Sportvorstand Krösche frei",
-   "link": "https://www.kicker.de/eintracht-frankfurt-stellt-sportvorstand-kroesche-frei-1262686/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T16:35:04Z",
-   "teaser": "Paukenschlag am Sonntagabend: Eintracht Frankfurt hat Sportvorstand Markus Krösche mit sofortiger Wirkung freigestellt. Der bisherige Vorstandssprecher Axel Hellmann wird Vorstandsvorsitzender und übernimmt zudem Krösches Aufgabe …",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/ibrahim-maza-ueberragt-bei-leverkusens-sieg-gegen-freiburg,spielbericht-bayer-leverkusen-sc-freiburg-108.html",
-   "title": "Ibrahim Maza überragt bei Leverkusens Sieg gegen Freiburg",
-   "link": "https://www.sportschau.de/fussball/bundesliga/ibrahim-maza-ueberragt-bei-leverkusens-sieg-gegen-freiburg,spielbericht-bayer-leverkusen-sc-freiburg-108.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T16:15:54Z",
-   "teaser": "Bayer 04 Leverkusen setzt sich knapp gegen den SC Freiburg durch und zieht mit den Breisgauern in der Fußball-Bundesliga gleich. Überragender Spieler war Bayer-Offensivmann Ibrahim Maza.",
-   "clubs": [
-    6,
-    112
    ],
    "transfer": false
   }
