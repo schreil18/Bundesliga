@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:55:45Z",
+ "updated": "2026-10-25T20:28:07Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/kein-pfiff-nach-bades-schlimmem-zusammenprall-schiedsrichter-hartmann-erklaert-sich-1265175/artikel",
+   "title": "Kein Pfiff nach Badés schlimmem Zusammenprall: Schiedsrichter Hartmann erklärt sich",
+   "link": "https://www.kicker.de/kein-pfiff-nach-bades-schlimmem-zusammenprall-schiedsrichter-hartmann-erklaert-sich-1265175/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T20:08:05Z",
+   "teaser": "Bayer 04 Leverkusen hat nicht in Hoffenheim nicht nur das Spiel mit 0:3 verloren, auch Abwehrspieler Loic Badé erwischte es knüppeldick. Inzwischen gab es aber auch schon leichte Entwarnung. Schiedsrichter Robert Hartmann erklärte zudem …",
+   "clubs": [
+    6,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kompany-vertreter-danks-als-erstes-war-da-eine-whatsapp-von-vince-1265187/artikel",
+   "title": "Kompany-Vertreter Danks: \"Als Erstes war da eine WhatsApp von Vince\"",
+   "link": "https://www.kicker.de/kompany-vertreter-danks-als-erstes-war-da-eine-whatsapp-von-vince-1265187/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T19:50:08Z",
+   "teaser": "Allen Widerständen und Hiobsbotschaften der vergangenen Tage zum Trotz zeigte der FC Bayern in Freiburg Widerstandskraft und eine gute Leistung. Vincent Kompany war per WhatsApp der erste Gratulant, wird aber weiterhin fehlen.",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/kramaric-nach-prass-jubel-ein-guter-spieler-aber-ein-bisschen-dumm-1265167/artikel",
    "title": "Kramaric nach Prass-Jubel: \"Ein guter Spieler, aber ein bisschen dumm\"",
@@ -2517,32 +2543,6 @@
    "clubs": [
     7,
     80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-verschlimmert-gladbachs-krise,video-bundesliga-borussia-moenchengladbach-tsg-1899-hoffenheim-100.html",
-   "title": "Bundesliga: TSG Hoffenheim verschlimmert Gladbachs Krise",
-   "link": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-verschlimmert-gladbachs-krise,video-bundesliga-borussia-moenchengladbach-tsg-1899-hoffenheim-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T22:00:26Z",
-   "teaser": "Die Krise von Borussia Mönchengladbach in der Bundesliga nimmt immer schlimmere Züge an. Gegen Hoffenheim verloren die \"Fohlen\" das sechste Spiel in Folge und warten weiterhin auf die ersten Punkte.",
-   "clubs": [
-    175,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/schick-und-maza-sorgen-fuer-erste-freiburger-niederlage,video-bundesliga-bayer-04-leverkusen-sc-freiburg-100.html",
-   "title": "Bundesliga: Leverkusen sorgt für erste Freiburger Niederlage",
-   "link": "https://www.sportschau.de/fussball/bundesliga/schick-und-maza-sorgen-fuer-erste-freiburger-niederlage,video-bundesliga-bayer-04-leverkusen-sc-freiburg-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T22:00:25Z",
-   "teaser": "Bayer Leverkusen hat dem SC Freiburg die erste Pleite der Saison zugefügt. Beim knappen Heimerfolg der Werkself trafen Maza und Schick.",
-   "clubs": [
-    6,
-    112
    ],
    "transfer": false
   }
