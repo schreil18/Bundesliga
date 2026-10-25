@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:56:41Z",
+ "updated": "2026-10-25T23:26:37Z",
  "sources": [
   {
    "name": "kicker",
@@ -20,10 +20,140 @@
    "title": "\"Schwer, an Fußball zu denken\": FCB trotzt seinen Sorgen",
    "link": "https://www.sportschau.de/regional/br/br-schwer-an-fussball-zu-denken-fcb-trotzt-seinen-sorgen-102.html",
    "source": "Sportschau",
-   "published": "2026-10-25T22:09:50Z",
+   "published": "2026-10-25T23:14:55Z",
    "teaser": "Beim FC Bayern rückte der Fußball in den vergangenen Tagen in den Hintergrund. Nach den Sorgen um Vincent Kompany und einem Trauerfall in Joshua Kimmichs Familie setzte die Mannschaft beim 3:1 in Freiburg ein Zeichen des Zusammenhalts.",
    "clubs": [
     40,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/danks-upamecano-fast-schon-harry-kane-maessig-1265251/video",
+   "title": "Danks: Upamecano \"fast schon Harry-Kane-mäßig\"",
+   "link": "https://www.kicker.de/danks-upamecano-fast-schon-harry-kane-maessig-1265251/video",
+   "source": "kicker",
+   "published": "2026-10-25T23:03:00Z",
+   "teaser": "Aaron Danks ist sehr glücklich, wie der FCB gegen Freiburg aufgetreten ist und hob vor allem den Zusammenhalt in einer schwierigen Woche hervor. Der 1:0-Treffer von Dayot Upamecano wäre ganz im Stile eines Harry Kane.",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
+   "title": "Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
+   "link": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
+   "source": "Sportschau",
+   "published": "2026-10-25T23:00:37Z",
+   "teaser": "Borussia Dortmund hat in der Bundesliga seine kurze Durststrecke überwunden. Vor dem Tor von Maximilian Beier sah es gegen Eintracht Frankfurt zunächst anders aus.",
+   "clubs": [
+    7,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
+   "title": "Leipzigs Halbzeit-Gala schickt Elversberg in die Auswärtskrise",
+   "link": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-25T23:00:37Z",
+   "teaser": "Bei Bayern München und Real Madrid hatte es Klatschen für RB Leipzig gegeben, doch die englische Woche endete mit einem 45-minütigen Feuerwerk. Die SV Elversberg enttäuschte wieder in der Fremde.",
+   "clubs": [
+    40,
+    1635,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
+   "title": "Paderborns Joker trifft: Rayan Philippe schockt Ex-Klub HSV",
+   "link": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-25T23:00:36Z",
+   "teaser": "Die Siegesserie des Hamburger SV endet beim SC Paderborn. Ausgerechnet der ehemalige Hamburger Rayan Philippe schoss das entscheidende Tor.",
+   "clubs": [
+    100,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
+   "title": "Sieg in Mainz: Füllkrug trifft für Bremen, wie er will",
+   "link": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-25T23:00:36Z",
+   "teaser": "Der SV Werder Bremen gewinnt beim 1. FSV Mainz 05 und überrascht weiter in der Fußball-Bundesliga. Garant für den Erfolg ist Niclas Füllkrug, der schon wieder traf, und das doppelt.",
+   "clubs": [
+    81,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/gladbachs-not-elf-ueberrumpelt-schwache-stuttgarter,spielbericht-vfb-stuttgart-borussia-moenchengladbach-108.html",
+   "title": "Erster Sieg: Gladbachs Not-Elf überrumpelt schwache Stuttgarter",
+   "link": "https://www.sportschau.de/fussball/bundesliga/gladbachs-not-elf-ueberrumpelt-schwache-stuttgarter,spielbericht-vfb-stuttgart-borussia-moenchengladbach-108.html",
+   "source": "Sportschau",
+   "published": "2026-10-25T23:00:36Z",
+   "teaser": "Borussia Mönchengladbach hat den alleinigen Rekord-Fehlstart in der Bundesliga abgewendet und mit einem furiosen Sieg beim VfB Stuttgart für eine dicke Überraschung gesorgt.",
+   "clubs": [
+    16,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-blutiger-zusammenprall-bei-nullnummer-in-koeln-100.html",
+   "title": "Blutiger Zusammenprall bei Nullnummer in Köln",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-blutiger-zusammenprall-bei-nullnummer-in-koeln-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-25T23:00:22Z",
+   "teaser": "Keine Tore im Traditionsduell der West-Klubs: Der 1. FC Köln und Schalke 04 haben sich in einer heiß umkämpften Partie remis getrennt.",
+   "clubs": [
+    65,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
+   "title": "Trotz Personalsorgen: Bayern siegt in Freiburg und rückt an Tabellenspitze",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
+   "source": "Sportschau",
+   "published": "2026-10-25T23:00:11Z",
+   "teaser": "Der FC Bayern hat sich nicht anmerken lassen, in welch schwieriger Personalsituation er aktuell steckt. 80 Minuten dominierte der amtierende Meister gegen den SC Freiburg. Am Ende wurde es nochmal brenzlig.",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
+   "title": "Union holt ersten Auswärts-Punkt gegen hadernde Augsburger",
+   "link": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
+   "source": "Sportschau",
+   "published": "2026-10-25T23:00:06Z",
+   "teaser": "Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
+   "clubs": [
+    95,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/danks-vielleicht-waren-ein-zwei-spieler-ein-wenig-erschoepft-1265249/video",
+   "title": "Danks: \"Vielleicht waren ein, zwei Spieler ein wenig erschöpft\"",
+   "link": "https://www.kicker.de/danks-vielleicht-waren-ein-zwei-spieler-ein-wenig-erschoepft-1265249/video",
+   "source": "kicker",
+   "published": "2026-10-25T22:54:52Z",
+   "teaser": "Nach dem Sieg in Freiburg hat Bayerns Co-Trainer Aaron Danks ein Sonderlob an Torhüter Jonas Urbig verteilt und ein Update zu Manuel Neuer gegeben. Trotz der Freiburger Druckphase zum Schluss zeigte er sich mit seiner Mannschaft …",
+   "clubs": [
     112
    ],
    "transfer": false
@@ -158,19 +288,6 @@
    "clubs": [
     7,
     91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
-   "title": "Trotz Personalsorgen: Bayern siegt in Freiburg und rückt an Tabellenspitze",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
-   "source": "Sportschau",
-   "published": "2026-10-25T19:06:13Z",
-   "teaser": "Der FC Bayern hat sich nicht anmerken lassen, in welch schwieriger Personalsituation er aktuell steckt. 80 Minuten dominierte der amtierende Meister gegen den SC Freiburg. Am Ende wurde es nochmal brenzlig.",
-   "clubs": [
-    40,
-    112
    ],
    "transfer": false
   },
@@ -771,19 +888,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
-   "title": "Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
-   "link": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
-   "source": "Sportschau",
-   "published": "2026-10-24T18:59:09Z",
-   "teaser": "Borussia Dortmund hat in der Bundesliga seine kurze Durststrecke überwunden. Vor dem Tor von Maximilian Beier sah es gegen Eintracht Frankfurt zunächst anders aus.",
-   "clubs": [
-    7,
-    91
-   ],
-   "transfer": false
-  },
-  {
    "id": "https://www.kicker.de/dortmund-gegen-frankfurt-2026-bundesliga-5226863/spielbericht",
    "title": "Beier mit Auge: BVB bringt sich vor dem Bundesliga-Knaller in Stellung",
    "link": "https://www.kicker.de/dortmund-gegen-frankfurt-2026-bundesliga-5226863/spielbericht",
@@ -888,19 +992,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-blutiger-zusammenprall-bei-nullnummer-in-koeln-100.html",
-   "title": "Blutiger Zusammenprall bei Nullnummer in Köln",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-blutiger-zusammenprall-bei-nullnummer-in-koeln-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-24T17:44:00Z",
-   "teaser": "Keine Tore im Traditionsduell der West-Klubs: Der 1. FC Köln und Schalke 04 haben sich in einer heiß umkämpften Partie remis getrennt.",
-   "clubs": [
-    65,
-    9
-   ],
-   "transfer": false
-  },
-  {
    "id": "https://www.kicker.de/jetzt-hat-er-riesen-theater-aufregung-beim-hsv-wegen-schiedsrichter-entscheidung-1264712/artikel",
    "title": "\"Jetzt hat er Riesen-Theater\": Aufregung beim HSV wegen Schiedsrichter-Entscheidung",
    "link": "https://www.kicker.de/jetzt-hat-er-riesen-theater-aufregung-beim-hsv-wegen-schiedsrichter-entscheidung-1264712/artikel",
@@ -923,19 +1014,6 @@
    "clubs": [
     81,
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
-   "title": "Paderborns Joker trifft: Rayan Philippe schockt Ex-Klub HSV",
-   "link": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-24T17:11:10Z",
-   "teaser": "Die Siegesserie des Hamburger SV endet beim SC Paderborn. Ausgerechnet der ehemalige Hamburger Rayan Philippe schoss das entscheidende Tor.",
-   "clubs": [
-    100,
-    31
    ],
    "transfer": false
   },
@@ -976,19 +1054,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
-   "title": "Union holt ersten Auswärts-Punkt gegen hadernde Augsburger",
-   "link": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
-   "source": "Sportschau",
-   "published": "2026-10-24T16:46:07Z",
-   "teaser": "Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
-   "clubs": [
-    95,
-    80
-   ],
-   "transfer": false
-  },
-  {
    "id": "https://www.kicker.de/sorgen-um-gosens-und-el-faouzi-el-mala-entschuldigt-sich-1264663/artikel",
    "title": "Sorgen um Gosens und El-Faouzi - El Mala entschuldigt sich",
    "link": "https://www.kicker.de/sorgen-um-gosens-und-el-faouzi-el-mala-entschuldigt-sich-1264663/artikel",
@@ -998,19 +1063,6 @@
    "clubs": [
     65,
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
-   "title": "Sieg in Mainz: Füllkrug trifft für Bremen, wie er will",
-   "link": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-24T15:51:21Z",
-   "teaser": "Der SV Werder Bremen gewinnt beim 1. FSV Mainz 05 und überrascht weiter in der Fußball-Bundesliga. Garant für den Erfolg ist Niclas Füllkrug, der schon wieder traf, und das doppelt.",
-   "clubs": [
-    81,
-    134
    ],
    "transfer": false
   },
@@ -1076,20 +1128,6 @@
    "clubs": [
     7,
     91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
-   "title": "Leipzigs Halbzeit-Gala schickt Elversberg in die Auswärtskrise",
-   "link": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-24T15:39:52Z",
-   "teaser": "Bei Bayern München und Real Madrid hatte es Klatschen für RB Leipzig gegeben, doch die englische Woche endete mit einem 45-minütigen Feuerwerk. Die SV Elversberg enttäuschte wieder in der Fremde.",
-   "clubs": [
-    40,
-    1635,
-    198
    ],
    "transfer": false
   },
@@ -1437,19 +1475,6 @@
    "source": "kicker",
    "published": "2026-10-23T20:26:14Z",
    "teaser": "Borussia Mönchengladbach hat nach sechs Niederlagen in Folge erstmals gepunktet - und das nach Rückstand beim Champions-League-Teilnehmer VfB Stuttgart. Dass sich das Blatt für die Fohlenelf beim 3:2 noch wendete, lag auch an einer klasse …",
-   "clubs": [
-    16,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/gladbachs-not-elf-ueberrumpelt-schwache-stuttgarter,spielbericht-vfb-stuttgart-borussia-moenchengladbach-108.html",
-   "title": "Erster Sieg: Gladbachs Not-Elf überrumpelt schwache Stuttgarter",
-   "link": "https://www.sportschau.de/fussball/bundesliga/gladbachs-not-elf-ueberrumpelt-schwache-stuttgarter,spielbericht-vfb-stuttgart-borussia-moenchengladbach-108.html",
-   "source": "Sportschau",
-   "published": "2026-10-23T20:25:49Z",
-   "teaser": "Borussia Mönchengladbach hat den alleinigen Rekord-Fehlstart in der Bundesliga abgewendet und mit einem furiosen Sieg beim VfB Stuttgart für eine dicke Überraschung gesorgt.",
    "clubs": [
     16,
     87
@@ -2525,31 +2550,6 @@
    "teaser": "Markus Krösche steht nach übereinstimmenden italienischen Medienberichten dicht vor einer neuen Aufgabe bei der AC Mailand. Mit einer Einigung wird noch in dieser Woche gerechnet.",
    "clubs": [],
    "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-gladbachs-absturz-auf-rekordniveau-und-kaum-hoffnung-100.html",
-   "title": "Gladbachs Absturz auf Rekordniveau - und kaum Hoffnung",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-gladbachs-absturz-auf-rekordniveau-und-kaum-hoffnung-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-19T08:11:40Z",
-   "teaser": "Borussia Mönchengladbach bleibt trotz eines Trainerwechsels in der Krise. Wenig spricht dafür, dass sich das bald ändert.",
-   "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bandverletzung-bvb-muss-erneut-auf-karetsas-verzichten-1262326/artikel",
-   "title": "Bandverletzung: BVB muss erneut auf Karetsas verzichten",
-   "link": "https://www.kicker.de/bandverletzung-bvb-muss-erneut-auf-karetsas-verzichten-1262326/artikel",
-   "source": "kicker",
-   "published": "2026-10-19T07:30:27Z",
-   "teaser": "Beim torlosen Remis des BVB bei Union Berlin musste Konstantinos Karetsas nur wenige Minuten nach seiner Einwechslung das Spielfeld verletzt verlassen. Nun steht fest, dass der Grieche Dortmund erneut fehlen wird.",
-   "clubs": [
-    7,
-    80
-   ],
-   "transfer": false
   }
  ]
 }
