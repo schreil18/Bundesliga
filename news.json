@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T06:42:16Z",
+ "updated": "2026-10-25T07:37:57Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/klose-co-reagieren-auf-kompany-schock-wir-sind-alle-stur-1264849/artikel",
+   "title": "Klose & Co. reagieren auf Kompany-Schock: \"Wir sind alle stur\"",
+   "link": "https://www.kicker.de/klose-co-reagieren-auf-kompany-schock-wir-sind-alle-stur-1264849/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T07:05:06Z",
+   "teaser": "Der Zusammenbruch von Bayern-Trainer Vincent Kompany beschäftigt auch die Kollegen. Einige reagierten am Samstag mit nachdenklichen Worten - und dem Wunsch nach einer \"Coaching-Hygiene\".",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wer-uebertraegt-sc-freiburg-gegen-bayern-muenchen-heute-live-im-tv-stream-1264282/artikel",
    "title": "Wer überträgt SC Freiburg gegen Bayern München heute live im TV & Stream?",
@@ -2523,18 +2535,6 @@
    "clubs": [
     16,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ist-eggestein-auf-dem-weg-zu-einem-neuen-scorerbestwert-1262508/artikel",
-   "title": "Ist Eggestein auf dem Weg zu einem neuen Scorerbestwert?",
-   "link": "https://www.kicker.de/ist-eggestein-auf-dem-weg-zu-einem-neuen-scorerbestwert-1262508/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T08:44:25Z",
-   "teaser": "Der SC Freiburg ist weiterhin ungeschlagen, hat jetzt aber drei knackige Aufgaben vor sich - und will auch gegen die vermeintlich größeren Teams mithalten.",
-   "clubs": [
-    112
    ],
    "transfer": false
   }
