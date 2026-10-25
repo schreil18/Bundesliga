@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T15:00:15Z",
+ "updated": "2026-10-25T15:30:23Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/augsburgs-start-verblasst-erst-das-mittelmass-dann-die-abwehrnot-1264883/artikel",
+   "title": "Augsburgs Start verblasst: Erst das Mittelmaß, dann die Abwehrnot",
+   "link": "https://www.kicker.de/augsburgs-start-verblasst-erst-das-mittelmass-dann-die-abwehrnot-1264883/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T15:13:36Z",
+   "teaser": "Das fußballerisch armselige 1:1 gegen Union Berlin entspricht nicht mehr den Ansprüchen des FC Augsburg, der nach tollem Start im Mittelmaß angekommen ist und nun auch noch einen Personalnotstand in der Abwehr hat.",
+   "clubs": [
+    95,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-nach-fehlpass-im-mittelfeld-hlozek-ans-alu-diaby-verletzt-raus-1264010/artikel",
+   "title": "LIVE! Nach Fehlpass im Mittelfeld: Hlozek ans Alu - Diaby verletzt raus",
+   "link": "https://www.kicker.de/live-nach-fehlpass-im-mittelfeld-hlozek-ans-alu-diaby-verletzt-raus-1264010/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T15:08:35Z",
+   "teaser": "Hoffenheim kommt in dieser Saison nur schwer aus den Startlöchern - im Gegensatz zu Leverkusen. Wer behält im direkten Duell die Oberhand?",
+   "clubs": [
+    6,
+    175
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/live-tella-und-asllani-lassen-fuehrung-liegen-1264010/artikel",
    "title": "LIVE! Tella und Asllani lassen Führung liegen",
@@ -2515,31 +2541,6 @@
    "clubs": [
     6,
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-paukenschlag-bei-eintracht-frankfurt-sportvorstand-markus-kroesche-freigestellt-100.html",
-   "title": "Sportvorstand Markus Krösche in Frankfurt freigestellt",
-   "link": "https://www.sportschau.de/regional/hr/hr-paukenschlag-bei-eintracht-frankfurt-sportvorstand-markus-kroesche-freigestellt-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T16:48:08Z",
-   "teaser": "Die Zeit von Markus Krösche bei Eintracht Frankfurt ist vorbei, der Sportvorstand verlässt die Hessen auf eigenen Wunsch. Die Macht von Axel Hellmann wird gleichzeitig noch größer.",
-   "clubs": [
-    91
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194245/borussia-moenchengladbach_tsg-hoffenheim/liveticker",
-   "title": "Jetzt live - Hoffenheim kontert sich in Gladbach zur erneuten Führung",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194245/borussia-moenchengladbach_tsg-hoffenheim/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-18T16:45:50Z",
-   "teaser": "Borussia Mönchengladbach durfte sich nur wenige Minuten über den Ausgleich freuen. Dann konterte Hoffenheim zweimal - und traf einmal.",
-   "clubs": [
-    175,
-    87
    ],
    "transfer": false
   }
