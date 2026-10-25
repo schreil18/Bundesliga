@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:28:07Z",
+ "updated": "2026-10-25T20:59:35Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/danks-zu-kompany-super-und-jetzt-ruh-dich-wieder-aus-1265196/video",
+   "title": "Danks zu Kompany: \"Super und jetzt ruh dich wieder aus\"",
+   "link": "https://www.kicker.de/danks-zu-kompany-super-und-jetzt-ruh-dich-wieder-aus-1265196/video",
+   "source": "kicker",
+   "published": "2026-10-25T20:15:32Z",
+   "teaser": "Nach dem 3:1-Sieg des FC Bayern in Freiburg haben sich beide Trainer zu Vincent Kompany geäußert. Während dessen Co-Trainer Aaron Danks von gemeinsamen Chatnachrichten berichtet, hofft Freiburgs Coach Julian Schuster, dass sich Kompany …",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/kein-pfiff-nach-bades-schlimmem-zusammenprall-schiedsrichter-hartmann-erklaert-sich-1265175/artikel",
    "title": "Kein Pfiff nach Badés schlimmem Zusammenprall: Schiedsrichter Hartmann erklärt sich",
@@ -2530,19 +2543,6 @@
    "clubs": [
     81,
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/dortmund-stolpert-bei-union-und-bangt-um-karetsas,video-bundesliga-1-fc-union-berlin-borussia-dortmund-100.html",
-   "title": "Bundesliga: Dortmund stolpert bei Union Berlin",
-   "link": "https://www.sportschau.de/fussball/bundesliga/dortmund-stolpert-bei-union-und-bangt-um-karetsas,video-bundesliga-1-fc-union-berlin-borussia-dortmund-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T22:00:34Z",
-   "teaser": "Der BVB tritt weiter auf der Stelle. Bei Union Berlin kommen die Borussen nicht über ein torloses Remis hinaus und müssen darüber hinaus um Konstantinos Karetsas bangen.",
-   "clubs": [
-    7,
-    80
    ],
    "transfer": false
   }
