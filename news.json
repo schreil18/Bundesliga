@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T11:29:49Z",
+ "updated": "2026-10-25T11:59:13Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,9 +16,34 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/die-hsv-ausfaelle-bedeuten-eine-doppelte-herausforderung-1264928/artikel",
+   "title": "Die HSV-Ausfälle bedeuten eine doppelte Herausforderung",
+   "link": "https://www.kicker.de/die-hsv-ausfaelle-bedeuten-eine-doppelte-herausforderung-1264928/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T11:47:31Z",
+   "teaser": "Der HSV hat in Paderborn mit 0:1 ein Spiel und wieder zwei Spieler verloren. Die sich von Woche zu Woche zuspitzende Personalsituation stellt Trainer Merlin Polzin vor eine doppelte Herausforderung.",
+   "clubs": [
+    100,
+    31
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/platzwunden-und-nasenbeinbruch-schalke-vermeldet-diagnosen-fuer-gosens-und-el-faouzi-1264890/artikel",
    "title": "Platzwunden und Nasenbeinbruch: Schalke vermeldet Diagnosen für Gosens und El-Faouzi",
    "link": "https://www.kicker.de/platzwunden-und-nasenbeinbruch-schalke-vermeldet-diagnosen-fuer-gosens-und-el-faouzi-1264890/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T10:49:49Z",
+   "teaser": "Die Zahl der verletzten oder zumindest angeschlagenen Schalker summiert sich mittlerweile auf eine komplette Elf. Am Sonntag veröffentlichte der Klub ein Update zu Robin Gosens' und Soufiane El-Faouzis Kopfverletzungen.",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/platzwunden-und-nasenbeinbruch-schalke-vermeldet-diagnosen-bei-gosens-und-el-faouzi-1264890/artikel",
+   "title": "Platzwunden und Nasenbeinbruch: Schalke vermeldet Diagnosen bei Gosens und El-Faouzi",
+   "link": "https://www.kicker.de/platzwunden-und-nasenbeinbruch-schalke-vermeldet-diagnosen-bei-gosens-und-el-faouzi-1264890/artikel",
    "source": "kicker",
    "published": "2026-10-25T10:49:49Z",
    "teaser": "Die Zahl der verletzten oder zumindest angeschlagenen Schalker summiert sich mittlerweile auf eine komplette Elf. Am Sonntag veröffentlichte der Klub ein Update zu Robin Gosens' und Soufiane El-Faouzis Kopfverletzungen.",
@@ -2517,32 +2542,6 @@
    "clubs": [
     175,
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194212/bayer-leverkusen_sc-freiburg/liveticker",
-   "title": "Jetzt live - Ausgeglichenes Spiel zwischen Leverkusen und Freiburg",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194212/bayer-leverkusen_sc-freiburg/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-18T14:13:00Z",
-   "teaser": "Der SC Freiburg war bei Bayer Leverkusen früh in Führung gegangen, musste dann aber schnell den Ausgleich hinnehmen. Danach zeigten sich die Defensivreihen stabil.",
-   "clubs": [
-    6,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/raetselraten-beim-vfb-angebliches-muster-oder-mehr-1262594/artikel",
-   "title": "Rätselraten beim VfB: \"Angebliches Muster\" oder mehr?",
-   "link": "https://www.kicker.de/raetselraten-beim-vfb-angebliches-muster-oder-mehr-1262594/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T12:56:51Z",
-   "teaser": "Der VfB Stuttgart präsentiert sich beim HSV in vielerlei Hinsicht als Wiederholungstäter - doch eine Debatte nervt Sportchef Fabian Wohlgemuth.",
-   "clubs": [
-    16,
-    100
    ],
    "transfer": false
   }
