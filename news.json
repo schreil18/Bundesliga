@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T09:33:05Z",
+ "updated": "2026-10-25T10:02:54Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,33 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/werder-vor-dem-goldenen-oktober-das-war-letztes-jahr-nicht-bei-jedem-so-1264862/artikel",
+   "title": "Werder vor dem goldenen Oktober? \"Das war letztes Jahr nicht bei jedem so\"",
+   "link": "https://www.kicker.de/werder-vor-dem-goldenen-oktober-das-war-letztes-jahr-nicht-bei-jedem-so-1264862/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T09:58:56Z",
+   "teaser": "Der Sieg in Mainz, das Pokalspiel in Dortmund - und der nächste Sprung in der Bundesliga-Tabelle? Der SV Werder Bremen steht vor einer bedeutsamen Woche. Mit einem Niclas Füllkrug in Top-Form, der das DFB-Thema zwar selbst weiter von sich …",
+   "clubs": [
+    7,
+    81,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hlozeks-duell-mit-kumpel-schick-1264317/artikel",
+   "title": "Hlozeks Duell mit Kumpel Schick",
+   "link": "https://www.kicker.de/hlozeks-duell-mit-kumpel-schick-1264317/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T09:54:39Z",
+   "teaser": "Am Donnerstag gegen Lyon traf Adam Hlozek wieder ins Schwarze, nun geht es für Hoffenheims Rekordeinkauf gegen seinen Ex-Klub Leverkusen und seinen Nationalelfkollegen und Freund Patrick Schick. Und um einen historischen Treffer.",
+   "clubs": [
+    6,
+    175
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/karl-schockt-freiburg-bayerns-denkwuerdiges-last-minute-comeback-1264320/video",
    "title": "Karl schockt Freiburg: Bayerns denkwürdiges Last-Minute-Comeback",
@@ -2510,32 +2537,6 @@
    "id": "https://www.kicker.de/live-schick-kann-s-auch-als-vorbereiter-leverkusen-antwortet-schnell-1261689/artikel",
    "title": "LIVE! Schick kann's auch als Vorbereiter - Leverkusen antwortet schnell",
    "link": "https://www.kicker.de/live-schick-kann-s-auch-als-vorbereiter-leverkusen-antwortet-schnell-1261689/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T12:23:56Z",
-   "teaser": "Setzt Freiburg seinen Traumstart fort? Oder fügt Leverkusen dem Sport-Club die erste Niederlage zu und zieht nach Punkten mit den Breisgauern gleich?",
-   "clubs": [
-    6,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-medina-von-der-strafraumgrenze-knapp-vorbei-1261689/artikel",
-   "title": "LIVE! Medina von der Strafraumgrenze - knapp vorbei",
-   "link": "https://www.kicker.de/live-medina-von-der-strafraumgrenze-knapp-vorbei-1261689/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T12:23:56Z",
-   "teaser": "Setzt Freiburg seinen Traumstart fort? Oder fügt Leverkusen dem Sport-Club die erste Niederlage zu und zieht nach Punkten mit den Breisgauern gleich?",
-   "clubs": [
-    6,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-schick-trifft-auch-am-sechsten-spieltag-1261689/artikel",
-   "title": "LIVE! Schick trifft auch am sechsten Spieltag",
-   "link": "https://www.kicker.de/live-schick-trifft-auch-am-sechsten-spieltag-1261689/artikel",
    "source": "kicker",
    "published": "2026-10-18T12:23:56Z",
    "teaser": "Setzt Freiburg seinen Traumstart fort? Oder fügt Leverkusen dem Sport-Club die erste Niederlage zu und zieht nach Punkten mit den Breisgauern gleich?",
