@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T13:14:09Z",
+ "updated": "2026-10-25T14:00:34Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/gefestigt-aber-zu-harmlos-huetters-eintracht-sucht-nach-der-richtigen-balance-1264856/artikel",
+   "title": "Gefestigt, aber zu harmlos: Hütters Eintracht sucht nach der richtigen Balance",
+   "link": "https://www.kicker.de/gefestigt-aber-zu-harmlos-huetters-eintracht-sucht-nach-der-richtigen-balance-1264856/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T13:30:11Z",
+   "teaser": "Sportlich wähnt Eintracht-Trainer Adi Hütter seine Mannschaft trotz der Niederlage in Dortmund auf dem richtigen Weg. Indes rechnet Vorstandsboss Axel Hellmann mit einer schnellen Entscheidung, wer die Nachfolge von Markus Krösche antritt.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-asllani-zurueck-bei-der-tsg-beisst-sich-bayer-weiter-oben-fest-1264010/artikel",
+   "title": "LIVE! Asllani zurück bei der TSG - Beißt sich Bayer weiter oben fest?",
+   "link": "https://www.kicker.de/live-asllani-zurueck-bei-der-tsg-beisst-sich-bayer-weiter-oben-fest-1264010/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T13:28:53Z",
+   "teaser": "Hoffenheim kommt in dieser Saison nur schwer aus den Startlöchern - im Gegensatz zu Leverkusen. Wer behält im direkten Duell die Oberhand?",
+   "clubs": [
+    6,
+    175
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/spielt-schlager-gegen-den-bvb-wer-gegen-argentinien-und-spanien-im-tor-steht-1264957/artikel",
    "title": "Spielt Schlager gegen den BVB? \"Wer gegen Argentinien und Spanien im Tor steht, …\"",
@@ -2515,32 +2540,6 @@
    "clubs": [
     6,
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/leverkusen-gegen-freiburg-2026-bundesliga-5226855/spielbericht",
-   "title": "Maza verzückt, Schick stellt Rekord auf: Bayer gewinnt Topspiel gegen Freiburg",
-   "link": "https://www.kicker.de/leverkusen-gegen-freiburg-2026-bundesliga-5226855/spielbericht",
-   "source": "kicker",
-   "published": "2026-10-18T15:29:56Z",
-   "teaser": "Bayer 04 Leverkusen hat das Topspiel gegen Freiburg nach Rückstand mit 2:1 gewonnen und stürzte den Sport-Club damit von der Tabellenspitze. In einem stark von den Defensivreihen geprägten Duell sorgte Maza für Staunen, während Schick …",
-   "clubs": [
-    6,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/harte-schalker-selbsturteile-und-die-erkenntnis-bei-dzeko-1262620/artikel",
-   "title": "Harte Schalker Selbsturteile - und die Erkenntnis bei Dzeko",
-   "link": "https://www.kicker.de/harte-schalker-selbsturteile-und-die-erkenntnis-bei-dzeko-1262620/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T14:54:28Z",
-   "teaser": "Auch nach sechs Spieltagen wartet Schalke 04 auf ein echtes Stürmer-Tor, doch dieses Manko geriet angesichts der schlechten Gesamtleistung gegen Mainz sogar noch in den Hintergrund. Die Schalker fällten nach dem 0:1 harte Selbsturteile.",
-   "clubs": [
-    81,
-    9
    ],
    "transfer": false
   }
