@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:59:35Z",
+ "updated": "2026-10-25T21:28:52Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,21 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/bestnoten-fuer-fuellkrug-und-mohya-die-kicker-elf-des-7-spieltags-1265200/slideshow",
+   "title": "Bestnoten für Füllkrug und Mohya: Die kicker-Elf des 7. Spieltags",
+   "link": "https://www.kicker.de/bestnoten-fuer-fuellkrug-und-mohya-die-kicker-elf-des-7-spieltags-1265200/slideshow",
+   "source": "kicker",
+   "published": "2026-10-25T21:10:00Z",
+   "teaser": "Eine Woche vor dem Kracher positionierten sich Meister Bayern München und Borussia Dortmund punktgleich an der Tabellenspitze. Ansonsten feierten Schlusslicht Gladbach und Hoffenheim wichtige Dreier. All das fand wie der abermals …",
+   "clubs": [
+    40,
+    7,
+    175,
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/danks-zu-kompany-super-und-jetzt-ruh-dich-wieder-aus-1265196/video",
    "title": "Danks zu Kompany: \"Super und jetzt ruh dich wieder aus\"",
@@ -2530,19 +2545,6 @@
    "clubs": [
     175,
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/mainz-verdient-sich-drei-punkte-gegen-harmlose-schalker,video-bundesliga-fc-schalke-04-1-fsv-mainz-05-100.html",
-   "title": "Bundesliga: Mainz verdient sich den Sieg gegen Schalke 04",
-   "link": "https://www.sportschau.de/fussball/bundesliga/mainz-verdient-sich-drei-punkte-gegen-harmlose-schalker,video-bundesliga-fc-schalke-04-1-fsv-mainz-05-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T22:00:40Z",
-   "teaser": "Die Schalker Fans warten weiter auf einen Treffer ihrer Mannschaft im heimischen Stadion. Auch gegen Mainz bleibt Königsblau ohne Torerfolg.",
-   "clubs": [
-    81,
-    9
    ],
    "transfer": false
   }
