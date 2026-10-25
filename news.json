@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T11:59:13Z",
+ "updated": "2026-10-25T12:35:42Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/warum-in-freiburg-vor-dem-bayern-spiel-die-sinne-geschaerft-sind-1264710/artikel",
+   "title": "Warum in Freiburg vor dem Bayern-Spiel die Sinne geschärft sind",
+   "link": "https://www.kicker.de/warum-in-freiburg-vor-dem-bayern-spiel-die-sinne-geschaerft-sind-1264710/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T12:22:06Z",
+   "teaser": "Nach dem nahezu perfekten Saisonstart hat der SC Freiburg gegen zwei Top-Klubs zwei Niederlagen kassiert. Nun trifft der Sport-Club mit dem FC Bayern auf das nächste Spitzenteam, gegen das es bisher wenig zu holen war. Doch womöglich kommt …",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/die-hsv-ausfaelle-bedeuten-eine-doppelte-herausforderung-1264928/artikel",
    "title": "Die HSV-Ausfälle bedeuten eine doppelte Herausforderung",
@@ -2523,19 +2536,6 @@
    "id": "https://www.kicker.de/live-prass-findet-conte-tsg-bestraft-vergebene-borussia-chance-1261692/artikel",
    "title": "LIVE! Prass findet Conté: TSG bestraft vergebene Borussia-Chance",
    "link": "https://www.kicker.de/live-prass-findet-conte-tsg-bestraft-vergebene-borussia-chance-1261692/artikel",
-   "source": "kicker",
-   "published": "2026-10-18T14:35:42Z",
-   "teaser": "Letzter gegen Vorletzter oder Gladbach gegen Hoffenheim: Wer schafft beim Aufeinandertreffen der beiden Kellerkinder die Trendwende?",
-   "clubs": [
-    175,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-latte-steht-hoffenheims-2-0-im-weg-pfiffe-zur-pause-1261692/artikel",
-   "title": "LIVE! Latte steht Hoffenheims 2:0 im Weg - Pfiffe zur Pause",
-   "link": "https://www.kicker.de/live-latte-steht-hoffenheims-2-0-im-weg-pfiffe-zur-pause-1261692/artikel",
    "source": "kicker",
    "published": "2026-10-18T14:35:42Z",
    "teaser": "Letzter gegen Vorletzter oder Gladbach gegen Hoffenheim: Wer schafft beim Aufeinandertreffen der beiden Kellerkinder die Trendwende?",
