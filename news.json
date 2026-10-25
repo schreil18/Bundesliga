@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T04:08:43Z",
+ "updated": "2026-10-25T05:06:50Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wer-uebertraegt-sc-freiburg-gegen-bayern-muenchen-heute-live-im-tv-stream-1264282/artikel",
+   "title": "Wer überträgt SC Freiburg gegen Bayern München heute live im TV & Stream?",
+   "link": "https://www.kicker.de/wer-uebertraegt-sc-freiburg-gegen-bayern-muenchen-heute-live-im-tv-stream-1264282/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T05:00:00Z",
+   "teaser": "Der Tabellenführer aus München reist am Sonntag zum Spitzenspiel nach Freiburg. Wo ihr die Partie des FC Bayern beim Sport-Club heute live im TV und Stream verfolgen könnt, erfahrt ihr hier.",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/die-sportschau-am-samstag-in-voller-laenge,sportschau-am-samstag-re-live-2410-100.html",
    "title": "Die Sportschau am Samstag in voller Länge",
@@ -153,7 +166,7 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
-   "title": "Maxi Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
+   "title": "Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
    "link": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
    "source": "Sportschau",
    "published": "2026-10-24T18:59:09Z",
@@ -2522,19 +2535,6 @@
    "teaser": "Der SC Freiburg ist weiterhin ungeschlagen, hat jetzt aber drei knackige Aufgaben vor sich - und will auch gegen die vermeintlich größeren Teams mithalten.",
    "clubs": [
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/rbb/rbb-nach-00-gegen-bvb-oldschool-union-ist-zurueck-100.html",
-   "title": "Oldschool-Union ist zurück",
-   "link": "https://www.sportschau.de/regional/rbb/rbb-nach-00-gegen-bvb-oldschool-union-ist-zurueck-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T08:17:46Z",
-   "teaser": "Ein torloses Remis, das wie eine weitere Annäherung zwischen Team und Trainer wirkt. Union verteidigt leidenschaftlich gegen den BVB, wie zu alten Zeiten. Von den Defensivproblemen zum Saisonstart keine Spur.",
-   "clubs": [
-    7,
-    80
    ],
    "transfer": false
   }
