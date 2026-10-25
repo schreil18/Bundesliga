@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T17:02:16Z",
+ "updated": "2026-10-25T17:29:26Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/live-gnabry-tunnelt-backhaus-upamecano-im-stile-eines-stuermers-1264014/artikel",
+   "title": "LIVE! Gnabry tunnelt Backhaus - Upamecano im Stile eines Stürmers",
+   "link": "https://www.kicker.de/live-gnabry-tunnelt-backhaus-upamecano-im-stile-eines-stuermers-1264014/artikel",
+   "source": "kicker",
+   "published": "2026-10-25T17:05:38Z",
+   "teaser": "Seit 2015 ist Freiburg gegen den FC Bayern in der Liga sieglos, kassierte dabei 16 Niederlagen und sehnt das Ende der Pleitenserie herbei. Klappt es am Sonntagabend?",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/live-upamecano-kontert-wie-ein-stuermer-zur-fuehrung-1264014/artikel",
    "title": "LIVE! Upamecano kontert wie ein Stürmer zur Führung",
@@ -2531,18 +2544,6 @@
    "clubs": [
     6,
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/total-aergerlich-schuster-hadert-mit-den-gegentoren-1262796/video",
-   "title": "\"Total ärgerlich\": Schuster hadert mit den Gegentoren",
-   "link": "https://www.kicker.de/total-aergerlich-schuster-hadert-mit-den-gegentoren-1262796/video",
-   "source": "kicker",
-   "published": "2026-10-18T18:21:45Z",
-   "teaser": "Julian Schuster hadert nach der 1:2-Niederlage gegen Bayer Leverkusen mit den Gegentoren seiner Mannschaft.",
-   "clubs": [
-    6
    ],
    "transfer": false
   }
