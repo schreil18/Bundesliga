@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T18:32:11Z",
+ "updated": "2026-10-25T19:06:10Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,12 +16,50 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/hoffenheims-perfekte-woche-das-kann-die-wende-sein-1265163/video",
+   "title": "Hoffenheims perfekte Woche: \"Das kann die Wende sein\"",
+   "link": "https://www.kicker.de/hoffenheims-perfekte-woche-das-kann-die-wende-sein-1265163/video",
+   "source": "kicker",
+   "published": "2026-10-25T18:44:58Z",
+   "teaser": "Der zweite 3:0-Sieg in Folge und der dritte Dreier in einer Woche: Für Hoffenheim könnte es zurzeit kaum besser laufen. kicker-Reporter Michael Pfeifer sieht darin die Wende in einer bislang komplizierten Saison für die TSG.",
+   "clubs": [
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/freiburg-gegen-bayern-2026-bundesliga-5226867/spielbericht",
+   "title": "Wilde Schlussphase: Erst rettet Urbig, dann begräbt Olise Freiburgs Hoffnungen",
+   "link": "https://www.kicker.de/freiburg-gegen-bayern-2026-bundesliga-5226867/spielbericht",
+   "source": "kicker",
+   "published": "2026-10-25T18:41:44Z",
+   "teaser": "Der FC Bayern trotzt allen Widerständen: Beim SC Freiburg siegten die Münchner auch ohne Vincent Kompany, setzten den Dreier in der Schlussphase aber noch einmal unnötig aufs Spiel. Upamecano leitete mit einem eindrucksvollen Sprint den …",
+   "clubs": [
+    40,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/rbb/rbb-union-berlin-nach-11-in-augsburg-lustrinelli-will-mehr-100.html",
+   "title": "Union Berlin nach 1:1 in Augsburg: Lustrinelli will mehr",
+   "link": "https://www.sportschau.de/regional/rbb/rbb-union-berlin-nach-11-in-augsburg-lustrinelli-will-mehr-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-25T18:34:34Z",
+   "teaser": "In Augsburg sieht Union Berlin früh Rot und tritt danach eine Zeitreise an. Nach dem Spiel ist klar, dass die Mannschaft wieder kann, was sie über Jahre auszeichnete. Spielerisch sollen nächste Schritte folgen.",
+   "clubs": [
+    95,
+    80
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
-   "title": "Trotz Personalsorgen: Bayern siegt gegen Freiburg und rückt an Tabellenspitze",
+   "title": "Trotz Personalsorgen: Bayern siegt in Freiburg und rückt an Tabellenspitze",
    "link": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
    "source": "Sportschau",
    "published": "2026-10-25T18:30:03Z",
-   "teaser": "Der FC Bayern hat sich nicht anmerken lassen, in welch schwieriger Personalsituation er aktuell steckt. 80 Minuten dominierte der amtierende deutsche Meister gegen den SC Freiburg. Am Ende wurde es nochmal brenzlig.",
+   "teaser": "Der FC Bayern hat sich nicht anmerken lassen, in welch schwieriger Personalsituation er aktuell steckt. 80 Minuten dominierte der amtierende Meister gegen den SC Freiburg. Am Ende wurde es nochmal brenzlig.",
    "clubs": [
     40,
     112
@@ -2506,45 +2544,6 @@
    "clubs": [
     40,
     1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/elversberg-behaelt-gegen-ausgburg-die-oberhand,video-bundesliga-sv-07-elversberg-fc-augsburg-100.html",
-   "title": "Bundesliga: Elversberg behält gegen Ausgburg die Oberhand",
-   "link": "https://www.sportschau.de/fussball/bundesliga/elversberg-behaelt-gegen-ausgburg-die-oberhand,video-bundesliga-sv-07-elversberg-fc-augsburg-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T22:00:13Z",
-   "teaser": "Die SV Elversberg sorgt in der Bundesliga weiter für Furore und fährt in einem vogelwilden Spiel einen Heimsieg gegen den FC Augsburg ein.",
-   "clubs": [
-    95,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/werders-comebacker-schlagen-auch-gegen-paderborn-zu,video-bundesliga-sv-werder-bremen-sc-paderborn-100.html",
-   "title": "Bundesliga: Werder Bremen kommt auch gegen Paderborn zurück",
-   "link": "https://www.sportschau.de/fussball/bundesliga/werders-comebacker-schlagen-auch-gegen-paderborn-zu,video-bundesliga-sv-werder-bremen-sc-paderborn-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T22:00:10Z",
-   "teaser": "Werder Bremen und Niclas Füllkrug beweisen weiter Comeback-Qualitäten. Gegen den SC Paderborn gelingt nach einem 0:2-Rückstand noch der Ausgleich.",
-   "clubs": [
-    134,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/wiederholungstaeter-muheim-erloest-hamburg-spaet,video-bundesliga-hamburger-sv-vfb-stuttgart-100.html",
-   "title": "Bundesliga: Matchwinner Muheim erlöst Hamburg gegen den VfB",
-   "link": "https://www.sportschau.de/fussball/bundesliga/wiederholungstaeter-muheim-erloest-hamburg-spaet,video-bundesliga-hamburger-sv-vfb-stuttgart-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-18T22:00:08Z",
-   "teaser": "Der Hamburger SV gewinnt gegen den VfB Stuttgart das dritte Bundesligaspiel in Serie und kann sich dabei auf seinen neuen Matchwinner verlassen.",
-   "clubs": [
-    16,
-    100
    ],
    "transfer": false
   }
