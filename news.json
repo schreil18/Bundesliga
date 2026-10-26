@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:21:31Z",
+ "updated": "2026-10-26T09:19:50Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,30 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/gouweleeuw-loest-beim-fca-baier-ab-die-bundesliga-rekordspieler-der-18-erstligisten-1009243/slideshow",
+   "title": "Gouweleeuw löst beim FCA Baier ab: Die Bundesliga-Rekordspieler der 18 Erstligisten",
+   "link": "https://www.kicker.de/gouweleeuw-loest-beim-fca-baier-ab-die-bundesliga-rekordspieler-der-18-erstligisten-1009243/slideshow",
+   "source": "kicker",
+   "published": "2026-10-26T09:00:42Z",
+   "teaser": "Der FC Augsburg hat seit dem Wochenende einen neuen Bundesliga-Rekordspieler. Aber wer hat bei den anderen 17 Bundesligisten die Nase vorn? Ein Überblick.",
+   "clubs": [
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/vielleicht-hat-hoeness-undav-damit-keinen-gefallen-getan-1265328/artikel",
+   "title": "\"Vielleicht hat Hoeneß Undav damit keinen Gefallen getan\"",
+   "link": "https://www.kicker.de/vielleicht-hat-hoeness-undav-damit-keinen-gefallen-getan-1265328/artikel",
+   "source": "kicker",
+   "published": "2026-10-26T08:47:46Z",
+   "teaser": "Die Formkrise des VfB Stuttgart ist auch die Formkrise des Deniz Undav. Lothar Matthäus überlegt, ob es eine gute Entscheidung war, ihn zum Kapitän zu machen.",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/gomis-auf-dem-besten-weg-zur-festen-groesse-1264934/artikel",
    "title": "Gomis: Auf dem besten Weg zur festen Größe",
@@ -2529,30 +2553,6 @@
    "clubs": [
     40,
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ache-steigt-teilintegriert-ins-training-ein-schmied-muss-pausieren-1262978/artikel",
-   "title": "Ache steigt teilintegriert ins Training ein - Schmied muss pausieren",
-   "link": "https://www.kicker.de/ache-steigt-teilintegriert-ins-training-ein-schmied-muss-pausieren-1262978/artikel",
-   "source": "kicker",
-   "published": "2026-10-19T11:13:38Z",
-   "teaser": "Rund zweieinhalb Wochen nach seiner Muskelverletzung ist Ragnar Ache teilintegriert ins Training des 1. FC Köln zurückgekehrt. Joel Schmied fehlte dagegen verletzt.",
-   "clubs": [
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/matthaeus-plaedoyer-klopp-sollte-ueber-fuellkrug-nachdenken-1262964/artikel",
-   "title": "Matthäus' Plädoyer: \"Klopp sollte über Füllkrug nachdenken\"",
-   "link": "https://www.kicker.de/matthaeus-plaedoyer-klopp-sollte-ueber-fuellkrug-nachdenken-1262964/artikel",
-   "source": "kicker",
-   "published": "2026-10-19T10:43:27Z",
-   "teaser": "Kehrt Niclas Füllkrug noch mal ins DFB-Team zurück? Während der Werder-Angreifer das Thema selbst nicht befeuern will, tun das zunehmend andere - so deutlich wie bislang kein anderer jetzt auch Lothar Matthäus.",
-   "clubs": [
-    134
    ],
    "transfer": false
   }
