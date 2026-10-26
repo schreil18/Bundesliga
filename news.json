@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T15:37:22Z",
+ "updated": "2026-10-26T16:46:27Z",
  "sources": [
   {
    "name": "kicker",
@@ -80,6 +80,18 @@
    "id": "https://www.kicker.de/nach-rassismus-gegen-bah-mit-einem-laecheln-in-der-kabine-1265424/artikel",
    "title": "Nach Rassismus gegen Bah: \"Mit einem Lächeln in der Kabine\"",
    "link": "https://www.kicker.de/nach-rassismus-gegen-bah-mit-einem-laecheln-in-der-kabine-1265424/artikel",
+   "source": "kicker",
+   "published": "2026-10-26T13:27:30Z",
+   "teaser": "Nach den rassistischen Beleidigungen gegen den Augsburger Juma Bah äußerte sich Coach Manuel Baum und zeigte sich beeindruckt von der Reaktion des Vereins - was auch Bah geholfen habe.",
+   "clubs": [
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nach-rassismus-gegen-bah-herausragend-wie-der-verein-sich-positioniert-1265424/artikel",
+   "title": "Nach Rassismus gegen Bah: \"Herausragend, wie der Verein sich positioniert\"",
+   "link": "https://www.kicker.de/nach-rassismus-gegen-bah-herausragend-wie-der-verein-sich-positioniert-1265424/artikel",
    "source": "kicker",
    "published": "2026-10-26T13:27:30Z",
    "teaser": "Nach den rassistischen Beleidigungen gegen den Augsburger Juma Bah äußerte sich Coach Manuel Baum und zeigte sich beeindruckt von der Reaktion des Vereins - was auch Bah geholfen habe.",
@@ -2542,18 +2554,6 @@
    "teaser": "Eintracht Frankfurts wiedergewählter Präsident Mathias Beck sprach nach der Wahl über Markus Krösche und die Zukunftspläne der Profiabteilung.",
    "clubs": [
     91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kunststueck-konzept-und-kilometer-wo-werder-einen-grossen-schritt-gemacht-hat-1262945/artikel",
-   "title": "Kunststück, Konzept und Kilometer: Wo Werder einen \"großen Schritt\" gemacht hat",
-   "link": "https://www.kicker.de/kunststueck-konzept-und-kilometer-wo-werder-einen-grossen-schritt-gemacht-hat-1262945/artikel",
-   "source": "kicker",
-   "published": "2026-10-19T20:33:55Z",
-   "teaser": "Neun Punkte nach sechs Spielen und 12:12 Tore: Die Ausbeute des SV Werder Bremen ist \"okay\", dafür erscheint die Art und Weise wieder begeisternd - und geht bislang trotzdem zulasten der Defensive.",
-   "clubs": [
-    134
    ],
    "transfer": false
   }
