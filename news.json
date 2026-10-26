@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T11:14:31Z",
+ "updated": "2026-10-26T13:56:46Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,80 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/kompany-kimmich-co-so-geht-es-bei-den-bayern-in-dieser-woche-weiter-1265421/artikel",
+   "title": "Kompany, Kimmich & Co.: So geht es bei den Bayern in dieser Woche weiter",
+   "link": "https://www.kicker.de/kompany-kimmich-co-so-geht-es-bei-den-bayern-in-dieser-woche-weiter-1265421/artikel",
+   "source": "kicker",
+   "published": "2026-10-26T13:51:37Z",
+   "teaser": "Eine schlechte Nachricht jagte beim FC Bayern in der vergangenen Woche die nächste, der Spielplan kennt trotzdem keine Gnade. Immerhin: Mit dem ein oder anderen Rückkehrer ist bald zu rechnen.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nach-rassismus-gegen-bah-mit-einem-laecheln-in-der-kabine-1265424/artikel",
+   "title": "Nach Rassismus gegen Bah: \"Mit einem Lächeln in der Kabine\"",
+   "link": "https://www.kicker.de/nach-rassismus-gegen-bah-mit-einem-laecheln-in-der-kabine-1265424/artikel",
+   "source": "kicker",
+   "published": "2026-10-26T13:27:30Z",
+   "teaser": "Nach den rassistischen Beleidigungen gegen den Augsburger Juma Bah äußerte sich Coach Manuel Baum und zeigte sich beeindruckt von der Reaktion des Vereins - was auch Bah geholfen habe.",
+   "clubs": [
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kleiner-erfolg-im-grossen-aerger-koelns-defensive-stabilisiert-sich-immer-weiter-1265325/artikel",
+   "title": "Kleiner Erfolg im großen Ärger: Kölns Defensive stabilisiert sich immer weiter",
+   "link": "https://www.kicker.de/kleiner-erfolg-im-grossen-aerger-koelns-defensive-stabilisiert-sich-immer-weiter-1265325/artikel",
+   "source": "kicker",
+   "published": "2026-10-26T13:24:22Z",
+   "teaser": "Erstmals seit Januar kassierte der 1. FC Köln kein Gegentor. Das ist ein Fortschritt, doch der Ärger über die offensive Harmlosigkeit überwiegt.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/gibt-es-die-kroenung-fuer-kane-beim-fc-bayern-sind-sie-sich-nicht-sicher-1265418/video",
+   "title": "Gibt es die Krönung für Kane? \"Beim FC Bayern sind sie sich nicht sicher\"",
+   "link": "https://www.kicker.de/gibt-es-die-kroenung-fuer-kane-beim-fc-bayern-sind-sie-sich-nicht-sicher-1265418/video",
+   "source": "kicker",
+   "published": "2026-10-26T12:34:53Z",
+   "teaser": "Harry Kane hat große Hoffnungen, den Ballon d'Or in diesem Jahr zu gewinnen. Auch wenige Stunden vor der Verleihung gibt es noch keine Tendenzen, beim FC Bayern sind sie geteilter Meinung, wie gut die Chancen des Stürmers stehen.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/er-hat-keinen-einfachen-stand-tor-held-philippe-und-der-kritische-blick-seines-trainers-1264904/artikel",
+   "title": "\"Er hat keinen einfachen Stand\": Tor-Held Philippe und der kritische Blick seines Trainers",
+   "link": "https://www.kicker.de/er-hat-keinen-einfachen-stand-tor-held-philippe-und-der-kritische-blick-seines-trainers-1264904/artikel",
+   "source": "kicker",
+   "published": "2026-10-26T11:38:56Z",
+   "teaser": "Rayan Philippe entscheidet das Spiel gegen den Hamburger SV. Ausgerechnet! Startet der Leihstürmer des SC Paderborn nun in die Startelf durch? Trainer Ralf Kettemann reagiert nicht nur mit einer Lobeshymne.",
+   "clubs": [
+    100,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/gosens-nimmt-el-mala-in-schutz-einfach-scheisse-gelaufen-1265391/artikel",
+   "title": "Gosens nimmt El Mala in Schutz: \"Einfach scheiße gelaufen\"",
+   "link": "https://www.kicker.de/gosens-nimmt-el-mala-in-schutz-einfach-scheisse-gelaufen-1265391/artikel",
+   "source": "kicker",
+   "published": "2026-10-26T11:32:13Z",
+   "teaser": "Ein heftiger Zusammenprall zwischen Robin Gosens und Soufiane El-Faouzi hatte im Spiel zwischen Köln und Schalke für einen Schockmoment gesorgt. Tags darauf gab es Diagnosen und einen Post von Gosens.",
+   "clubs": [
+    65,
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/gouweleeuw-loest-beim-fca-baier-ab-die-bundesliga-rekordspieler-der-18-erstligisten-1009243/slideshow",
    "title": "Gouweleeuw löst beim FCA Baier ab: Die Bundesliga-Rekordspieler der 18 Erstligisten",
@@ -2479,80 +2553,6 @@
    "teaser": "Die 2005 eröffnete Arena im Frankfurter Stadtwald geht laut Eintracht-Vorstand Axel Hellmann auf ihre finale Dekade zu. Hinzukommt die häufig lange Anlaufzeit großer Infrastrukturprojekte in Deutschland. Der Klubchef forciert daher die …",
    "clubs": [
     91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/donnernder-applaus-der-mitglieder-kroesche-emotional-wie-nie-1263053/artikel",
-   "title": "Donnernder Applaus der Mitglieder - Krösche emotional wie nie",
-   "link": "https://www.kicker.de/donnernder-applaus-der-mitglieder-kroesche-emotional-wie-nie-1263053/artikel",
-   "source": "kicker",
-   "published": "2026-10-19T18:20:59Z",
-   "teaser": "Große Emotionen auf der Mitgliederversammlung von Eintracht Frankfurt: Markus Krösche wählt bewegende Worte zum Abschied und erhält donnernden Applaus. Der Sportvorstand verlässt den Klub durch das große Tor.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gouweleeuw-zieht-beim-fca-gleich-die-bundesliga-rekordspieler-der-18-erstligisten-1009243/slideshow",
-   "title": "Gouweleeuw zieht beim FCA gleich: Die Bundesliga-Rekordspieler der 18 Erstligisten",
-   "link": "https://www.kicker.de/gouweleeuw-zieht-beim-fca-gleich-die-bundesliga-rekordspieler-der-18-erstligisten-1009243/slideshow",
-   "source": "kicker",
-   "published": "2026-10-19T17:03:01Z",
-   "teaser": "Der FC Augsburg hat seit dem Wochenende zwei Bundesliga-Rekordspieler. Aber wer hat bei den anderen 17 Bundesligisten die Nase vorn? Ein Überblick.",
-   "clubs": [
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gladbacher-fanverband-fordert-ruecktritt-des-borussia-praesidiums-1263058/artikel",
-   "title": "Gladbacher Fanverband fordert Rücktritt des Borussia-Präsidiums",
-   "link": "https://www.kicker.de/gladbacher-fanverband-fordert-ruecktritt-des-borussia-praesidiums-1263058/artikel",
-   "source": "kicker",
-   "published": "2026-10-19T16:36:59Z",
-   "teaser": "Nach dem historisch schlechten Saisonstart wächst die Kritik an der Vereinsführung von Borussia Mönchengladbach. Der Fan-Dachverband der Borussia hat nun seine Rücktrittsforderung an das Präsidium um Präsident Rainer Bonhof aus dem …",
-   "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/neuer-lack-oder-ein-pfeifkonzert-mainz-sucht-das-auswaertsgefuehl-1262513/artikel",
-   "title": "Neuer Lack oder ein Pfeifkonzert? Mainz sucht das Auswärtsgefühl",
-   "link": "https://www.kicker.de/neuer-lack-oder-ein-pfeifkonzert-mainz-sucht-das-auswaertsgefuehl-1262513/artikel",
-   "source": "kicker",
-   "published": "2026-10-19T14:03:44Z",
-   "teaser": "Der dritte Sieg im dritten Auswärtsspiel setzt die Mainzer Serie und zugleich das Rätsel fort, warum es im eigenen Stadion nicht klappen will. Womöglich hilft der Griff in die mentale Trickkiste.",
-   "clubs": [
-    81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/matthaeus-ueber-olise-lasst-ihn-so-wie-er-ist-1262985/artikel",
-   "title": "Matthäus über Olise: \"Lasst ihn so, wie er ist!\"",
-   "link": "https://www.kicker.de/matthaeus-ueber-olise-lasst-ihn-so-wie-er-ist-1262985/artikel",
-   "source": "kicker",
-   "published": "2026-10-19T12:03:48Z",
-   "teaser": "Lothar Matthäus erfreut sich am FC Bayern und leidet mit Borussia Mönchengladbach. Der Rekordnationalspieler über die Tendenzen in der Bundesliga - und beim Ballon d'Or.",
-   "clubs": [
-    40,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/matthaeus-was-ihm-bei-olise-auffiel-und-er-in-gladbach-vermisst-1262985/artikel",
-   "title": "Matthäus: Was ihm bei Olise auffiel und er in Gladbach vermisst",
-   "link": "https://www.kicker.de/matthaeus-was-ihm-bei-olise-auffiel-und-er-in-gladbach-vermisst-1262985/artikel",
-   "source": "kicker",
-   "published": "2026-10-19T12:03:48Z",
-   "teaser": "Lothar Matthäus erfreut sich am FC Bayern und leidet mit Borussia Mönchengladbach. Der Rekordnationalspieler über die Tendenzen in der Bundesliga - und beim Ballon d'Or.",
-   "clubs": [
-    40,
-    87
    ],
    "transfer": false
   }
