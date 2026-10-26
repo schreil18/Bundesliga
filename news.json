@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T06:09:13Z",
+ "updated": "2026-10-26T07:30:03Z",
  "sources": [
   {
    "name": "kicker",
@@ -29,12 +29,24 @@
    "transfer": false
   },
   {
+   "id": "https://www.kicker.de/historischer-kramaric-ilzer-hat-ein-vermaechtnis-geschaffen-1265258/video",
+   "title": "Historischer Kramaric? Ilzer: \"Hat ein Vermächtnis geschaffen\"",
+   "link": "https://www.kicker.de/historischer-kramaric-ilzer-hat-ein-vermaechtnis-geschaffen-1265258/video",
+   "source": "kicker",
+   "published": "2026-10-26T00:06:28Z",
+   "teaser": "Für Christian Ilzer war es kein Zufall, dass ausgerechnet Andrej Kramaric das 1000. Tor der TSG erzielte. Der 35-Jährige habe abermals seine Klasse gezeigt und den Verein über eine Dekade offensiv geprägt.",
+   "clubs": [
+    175
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/regional/br/br-schwer-an-fussball-zu-denken-fcb-trotzt-seinen-sorgen-102.html",
-   "title": "\"Schwer, an Fußball zu denken\": FCB trotzt seinen Sorgen",
+   "title": "\"Schwer, an Fußball zu denken\" - Bayern trotzt seinen Sorgen",
    "link": "https://www.sportschau.de/regional/br/br-schwer-an-fussball-zu-denken-fcb-trotzt-seinen-sorgen-102.html",
    "source": "Sportschau",
    "published": "2026-10-25T23:14:55Z",
-   "teaser": "Beim FC Bayern rückte der Fußball in den vergangenen Tagen in den Hintergrund. Nach den Sorgen um Vincent Kompany und einem Trauerfall in Joshua Kimmichs Familie setzte die Mannschaft beim 3:1 in Freiburg ein Zeichen des Zusammenhalts.",
+   "teaser": "Beim FC Bayern rückte der Fußball zuletzt in den Hintergrund. Nach den Sorgen um Vincent Kompany und einem Trauerfall in Joshua Kimmichs Familie setzte die Mannschaft in Freiburg ein Zeichen des Zusammenhalts.",
    "clubs": [
     40,
     112
@@ -117,6 +129,19 @@
    "clubs": [
     16,
     87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-siegt-im-endspurt-gegen-leverkusen,spielbericht-tsg-hoffenheim-bayer-leverkusen-102.html",
+   "title": "Hoffenheimer Arbeitssieg gegen Leverkusen",
+   "link": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-siegt-im-endspurt-gegen-leverkusen,spielbericht-tsg-hoffenheim-bayer-leverkusen-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-25T23:00:27Z",
+   "teaser": "Die TSG 1899 Hoffenheim hat das Duell mit Bayer 04 Leverkusen in der Fußball-Bundesliga für sich entschieden. Es war ein später Arbeitssieg der Kraichgauer in einer lange ausgeglichenen Partie.",
+   "clubs": [
+    6,
+    175
    ],
    "transfer": false
   },
@@ -744,7 +769,7 @@
    "link": "https://www.sportschau.de/regional/wdr/wdr-bei-schalke-04-ist-kein-platz-fuer-offensive-freigeister-100.html",
    "source": "Sportschau",
    "published": "2026-10-25T07:00:00Z",
-   "teaser": "Der FC Schalke 04 zeigt sich in Köln zwar verbessert, aber Tore zu schießen, bleibt für die Königsblauen ein Mysterium.",
+   "teaser": "Der FC Schalke 04 zeigt sich in Köln zwar verbessert. Aber Tore zu schießen, bleibt für die Königsblauen ein Mysterium.",
    "clubs": [
     65,
     9
@@ -2527,30 +2552,6 @@
    "teaser": "Nach der sechsten Niederlage spitzt sich die Lage bei Borussia Mönchengladbach weiter zu. Neue Personalsorgen kommen obendrauf.",
    "clubs": [
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/becks-wiederwahl-und-applaus-fuer-kroesche-das-bietet-frankfurts-mitgliederversammlung-1262610/artikel",
-   "title": "Becks Wiederwahl und Applaus für Krösche? Das bietet Frankfurts Mitgliederversammlung",
-   "link": "https://www.kicker.de/becks-wiederwahl-und-applaus-fuer-kroesche-das-bietet-frankfurts-mitgliederversammlung-1262610/artikel",
-   "source": "kicker",
-   "published": "2026-10-19T10:11:39Z",
-   "teaser": "Am Montagabend steigt die Mitgliederversammlung bei Eintracht Frankfurt. Neben der Präsidentenwahl steht auch die Reaktion des Plenums auf Markus Krösches Verabschiedung im Blickpunkt.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/mister-omnipraesent-krauss-beisst-sich-in-koelns-mittelfeld-durch-1262893/artikel",
-   "title": "Mister Omnipräsent: Krauß beißt sich in Kölns Mittelfeld durch",
-   "link": "https://www.kicker.de/mister-omnipraesent-krauss-beisst-sich-in-koelns-mittelfeld-durch-1262893/artikel",
-   "source": "kicker",
-   "published": "2026-10-19T08:56:35Z",
-   "teaser": "Tom Krauß spielte schon in England und bei sechs verschiedenen Klubs in Deutschland. Nun ist er beim 1. FC Köln im Mittelfeld unverzichtbar geworden. Wird er im Rheinland endlich glücklich?",
-   "clubs": [
-    65
    ],
    "transfer": false
   }
