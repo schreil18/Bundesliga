@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T18:47:05Z",
+ "updated": "2026-10-26T19:42:36Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,28 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/halb-so-wild-prass-gibt-ueberraschende-einblicke-zu-seinem-platzverweis-1265502/artikel",
+   "title": "\"Halb so wild\": Prass gibt überraschende Einblicke zu seinem Platzverweis",
+   "link": "https://www.kicker.de/halb-so-wild-prass-gibt-ueberraschende-einblicke-zu-seinem-platzverweis-1265502/artikel",
+   "source": "kicker",
+   "published": "2026-10-26T19:31:28Z",
+   "teaser": "Sein unnötiger Platzverweis gegen Leverkusen brachte Alexander Prass Kritik ein. Nun äußerte sich der Österreicher selbst dazu, zeigte Einsicht, gab überraschende Einblicke und verriet, warum die Gelb-Rote dennoch halb so wild war.",
+   "clubs": [
+    6
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kurz-vor-einer-massenpanik-enges-gedraenge-unter-fans-sorgt-fuer-pures-chaos-1265515/video",
+   "title": "\"Kurz vor einer Massenpanik\": Enges Gedränge unter Fans sorgt für \"pures Chaos\"",
+   "link": "https://www.kicker.de/kurz-vor-einer-massenpanik-enges-gedraenge-unter-fans-sorgt-fuer-pures-chaos-1265515/video",
+   "source": "kicker",
+   "published": "2026-10-26T19:28:42Z",
+   "teaser": "Kurz vor der offiziellen Ballon-d'Or-Verleihung ereigneten sich beunruhigende Szenen vor den Hallen des London Palladium Theatre. Aufgrund von feiernden Fans kam es wohl zu dichtem Gedränge, die Security musste eingreifen. Vor Ort …",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/franzoesisches-duo-verletzt-bade-und-diaby-fehlen-leverkusen-1265488/artikel",
    "title": "Französisches Duo verletzt: Badé und Diaby fehlen Leverkusen",
@@ -2532,31 +2554,6 @@
    "teaser": "Der klassische Mittelstürmer galt in den vergangenen Jahren fast schon als ausgestorben. Phillip Tietz und Niclas Füllkrug beweisen, wie wichtig eine zentrale Spitze sein kann.",
    "clubs": [],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gosens-verteidigt-schalkes-stuermer-wir-spielen-slow-motion-paesse-1263310/video",
-   "title": "Gosens verteidigt Schalkes Stürmer: Wir spielen \"Slow-Motion-Pässe\"",
-   "link": "https://www.kicker.de/gosens-verteidigt-schalkes-stuermer-wir-spielen-slow-motion-paesse-1263310/video",
-   "source": "kicker",
-   "published": "2026-10-20T12:33:52Z",
-   "teaser": "Schalke 04 muss sich nach der Heimniederlage gegen Mainz 05 erneut beweisen. Bei kicker-Reporter Toni Lieto spricht Robin Gosens über die Stürmer-Thematik und den Umgang mit der Niederlage.",
-   "clubs": [
-    81,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hellmann-erklaert-strategiewandel-kroesche-nachfolger-soll-abgeworben-werden-1263250/artikel",
-   "title": "Hellmann erklärt Strategiewandel - Krösche-Nachfolger soll abgeworben werden",
-   "link": "https://www.kicker.de/hellmann-erklaert-strategiewandel-kroesche-nachfolger-soll-abgeworben-werden-1263250/artikel",
-   "source": "kicker",
-   "published": "2026-10-20T12:23:34Z",
-   "teaser": "Der Nachfolger des ausgeschiedenen Frankfurter Sportvorstands Markus Krösche wird sich mit großen Herausforderungen konfrontiert sehen. Auf der Mitgliederversammlung erklären die Bosse den Strategiewandel der Eintracht.",
-   "clubs": [
-    91
-   ],
-   "transfer": true
   }
  ]
 }
