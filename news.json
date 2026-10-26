@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T05:12:26Z",
+ "updated": "2026-10-26T06:09:13Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/die-300-ist-gouweleeuws-naechstes-ziel-1264926/artikel",
+   "title": "Die 300 ist Gouweleeuws nächstes Ziel",
+   "link": "https://www.kicker.de/die-300-ist-gouweleeuws-naechstes-ziel-1264926/artikel",
+   "source": "kicker",
+   "published": "2026-10-26T05:07:49Z",
+   "teaser": "Einen Grund zu feiern gab es für den FC Augsburg beim 1:1 gegen Union Berlin dann doch: Kapitän Jeff Gouweleeuw stieg mit seinem 275. Bundesligaspiel zum Rekordmann des Klubs auf.",
+   "clubs": [
+    95,
+    80
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/br/br-schwer-an-fussball-zu-denken-fcb-trotzt-seinen-sorgen-102.html",
    "title": "\"Schwer, an Fußball zu denken\": FCB trotzt seinen Sorgen",
@@ -2540,16 +2553,6 @@
     65
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kurz-vor-einer-einigung-mit-milan-eintracht-bekaeme-abloese-fuer-kroesche-1262923/artikel",
-   "title": "Kurz vor einer Einigung mit Milan? Eintracht bekäme Ablöse für Krösche",
-   "link": "https://www.kicker.de/kurz-vor-einer-einigung-mit-milan-eintracht-bekaeme-abloese-fuer-kroesche-1262923/artikel",
-   "source": "kicker",
-   "published": "2026-10-19T08:49:23Z",
-   "teaser": "Markus Krösche steht nach übereinstimmenden italienischen Medienberichten dicht vor einer neuen Aufgabe bei der AC Mailand. Mit einer Einigung wird noch in dieser Woche gerechnet.",
-   "clubs": [],
-   "transfer": true
   }
  ]
 }
