@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T07:30:03Z",
+ "updated": "2026-10-26T08:21:31Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/gomis-auf-dem-besten-weg-zur-festen-groesse-1264934/artikel",
+   "title": "Gomis: Auf dem besten Weg zur festen Größe",
+   "link": "https://www.kicker.de/gomis-auf-dem-besten-weg-zur-festen-groesse-1264934/artikel",
+   "source": "kicker",
+   "published": "2026-10-26T08:09:17Z",
+   "teaser": "Sein Tor zum 1:0 war für RB Leipzig der Dosenöffner beim 4:0-Heimsieg gegen die SV Elversberg. Abseits dieses Treffers ist der junge Stürmer zuletzt insgesamt deutlich weitergekommen.",
+   "clubs": [
+    1635,
+    198
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/die-300-ist-gouweleeuws-naechstes-ziel-1264926/artikel",
    "title": "Die 300 ist Gouweleeuws nächstes Ziel",
@@ -2540,18 +2553,6 @@
    "teaser": "Kehrt Niclas Füllkrug noch mal ins DFB-Team zurück? Während der Werder-Angreifer das Thema selbst nicht befeuern will, tun das zunehmend andere - so deutlich wie bislang kein anderer jetzt auch Lothar Matthäus.",
    "clubs": [
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wir-werden-den-laden-nicht-zusperren-schroeder-beschwoert-in-der-krise-den-zusammenhalt-1262949/artikel",
-   "title": "\"Wir werden den Laden nicht zusperren\": Schröder beschwört in der Krise den Zusammenhalt",
-   "link": "https://www.kicker.de/wir-werden-den-laden-nicht-zusperren-schroeder-beschwoert-in-der-krise-den-zusammenhalt-1262949/artikel",
-   "source": "kicker",
-   "published": "2026-10-19T10:33:43Z",
-   "teaser": "Nach der sechsten Niederlage spitzt sich die Lage bei Borussia Mönchengladbach weiter zu. Neue Personalsorgen kommen obendrauf.",
-   "clubs": [
-    87
    ],
    "transfer": false
   }
