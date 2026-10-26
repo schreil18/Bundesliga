@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T16:46:27Z",
+ "updated": "2026-10-26T17:38:47Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/franzoesisches-duo-verletzt-bade-und-diaby-fehlen-leverkusen-1265488/artikel",
+   "title": "Französisches Duo verletzt: Badé und Diaby fehlen Leverkusen",
+   "link": "https://www.kicker.de/franzoesisches-duo-verletzt-bade-und-diaby-fehlen-leverkusen-1265488/artikel",
+   "source": "kicker",
+   "published": "2026-10-26T17:15:38Z",
+   "teaser": "Nicht nur das Spiel in Hoffenheim hat Bayer 04 Leverkusen verloren, sondern auch zwei Spieler. Während die Ausfallzeit bei Loic Badé unklar ist, wagte die Werkself in der Personalie Moussa Diaby eine Prognose.",
+   "clubs": [
+    6,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bei-union-nach-hinten-beordert-warum-auf-haberer-als-rechtsverteidiger-verlass-ist-1264962/artikel",
+   "title": "Bei Union nach hinten beordert: Warum auf Haberer als Rechtsverteidiger Verlass ist",
+   "link": "https://www.kicker.de/bei-union-nach-hinten-beordert-warum-auf-haberer-als-rechtsverteidiger-verlass-ist-1264962/artikel",
+   "source": "kicker",
+   "published": "2026-10-26T16:54:21Z",
+   "teaser": "Janik Haberer wurde bei den Eisernen weiter nach hinten beordert, macht als Vertreter von Josip Juranovic eine solide Figur.",
+   "clubs": [
+    80
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/schuster-ueber-trainergesundheit-selbstkritik-selbstpflege-und-kurze-amtszeiten-1265326/artikel",
    "title": "Schuster über Trainergesundheit: Selbstkritik, Selbstpflege und kurze Amtszeiten",
@@ -2532,30 +2557,6 @@
     91
    ],
    "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/ein-protagonist-der-werder-comebacks-wer-weicht-fuer-weiser-1263258/artikel",
-   "title": "Ein Protagonist der Werder-Comebacks: Wer weicht für Weiser?",
-   "link": "https://www.kicker.de/ein-protagonist-der-werder-comebacks-wer-weicht-fuer-weiser-1263258/artikel",
-   "source": "kicker",
-   "published": "2026-10-20T10:30:00Z",
-   "teaser": "Dass die Bremer dreimal in Serie nach einem 0:2 zurückkamen, hängt auch mit Mitchell Weiser zusammen - der allmählich in die Werder-Startelf drängen dürfte.",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/eintracht-praesident-beck-muessen-verstaerkt-auf-s-nlz-bauen-1263161/video",
-   "title": "Eintracht-Präsident Beck: \"Müssen verstärkt auf's NLZ bauen\"",
-   "link": "https://www.kicker.de/eintracht-praesident-beck-muessen-verstaerkt-auf-s-nlz-bauen-1263161/video",
-   "source": "kicker",
-   "published": "2026-10-19T21:19:49Z",
-   "teaser": "Eintracht Frankfurts wiedergewählter Präsident Mathias Beck sprach nach der Wahl über Markus Krösche und die Zukunftspläne der Profiabteilung.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
   }
  ]
 }
