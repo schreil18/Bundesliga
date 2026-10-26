@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T13:56:46Z",
+ "updated": "2026-10-26T15:37:22Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,55 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/schuster-ueber-trainergesundheit-selbstkritik-selbstpflege-und-kurze-amtszeiten-1265326/artikel",
+   "title": "Schuster über Trainergesundheit: Selbstkritik, Selbstpflege und kurze Amtszeiten",
+   "link": "https://www.kicker.de/schuster-ueber-trainergesundheit-selbstkritik-selbstpflege-und-kurze-amtszeiten-1265326/artikel",
+   "source": "kicker",
+   "published": "2026-10-26T15:27:32Z",
+   "teaser": "Julian Schuster hat Vincent Kompany mit Nachrichten verschont, dem Bayern-Tross nach dem direkten Duell aber eine Aufmerksamkeit für den von ihm sehr geschätzten FCB-Chefcoach mitgegeben. Danach äußerte Schuster anhand seines intensiven …",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/union-muss-zwei-spiele-auf-uduokhai-verzichten-1265467/artikel",
+   "title": "Union muss zwei Spiele auf Uduokhai verzichten",
+   "link": "https://www.kicker.de/union-muss-zwei-spiele-auf-uduokhai-verzichten-1265467/artikel",
+   "source": "kicker",
+   "published": "2026-10-26T15:15:46Z",
+   "teaser": "Felix Uduokhai erlebte einen gebrauchten Samstagnachmittag. Nun steht fest, wie lange Union Berlin auf den Innenverteidiger verzichten muss. Seine Fehlzeit könnte allerdings noch länger dauern.",
+   "clubs": [
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nach-grobem-foulspiel-bah-fuer-zwei-spiele-gesperrt-1265466/artikel",
+   "title": "Nach grobem Foulspiel: Bah für zwei Spiele gesperrt",
+   "link": "https://www.kicker.de/nach-grobem-foulspiel-bah-fuer-zwei-spiele-gesperrt-1265466/artikel",
+   "source": "kicker",
+   "published": "2026-10-26T15:12:41Z",
+   "teaser": "Aufgrund seiner Roten Karte gegen Union Berlin wurde Juma Bah für zwei Spiele gesperrt. In der Bundesliga fehlt der Verteidiger dem FC Augsburg somit, im DFB-Pokal allerdings darf er spielen.",
+   "clubs": [
+    95,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hsv-zwei-neue-schocks-und-pause-bei-poulsen-1265434/artikel",
+   "title": "HSV: Zwei neue Schocks und Pause bei Poulsen",
+   "link": "https://www.kicker.de/hsv-zwei-neue-schocks-und-pause-bei-poulsen-1265434/artikel",
+   "source": "kicker",
+   "published": "2026-10-26T14:10:56Z",
+   "teaser": "Das Improvisieren war für Merlin Polzin bereits in den zurückliegenden Wochen Programm, fortan ist Hamburgs Trainer auf diesem Gebiet noch mehr gefordert: Bilal Nadir und Fabio Vieira fallen langfristig aus, Yussuf Poulsen verlängert die …",
+   "clubs": [
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/kompany-kimmich-co-so-geht-es-bei-den-bayern-in-dieser-woche-weiter-1265421/artikel",
    "title": "Kompany, Kimmich & Co.: So geht es bei den Bayern in dieser Woche weiter",
@@ -2505,54 +2554,6 @@
    "teaser": "Neun Punkte nach sechs Spielen und 12:12 Tore: Die Ausbeute des SV Werder Bremen ist \"okay\", dafür erscheint die Art und Weise wieder begeisternd - und geht bislang trotzdem zulasten der Defensive.",
    "clubs": [
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/99-prozent-eintracht-praesident-beck-wiedergewaehlt-1263072/artikel",
-   "title": "99 Prozent: Eintracht Präsident Beck wiedergewählt",
-   "link": "https://www.kicker.de/99-prozent-eintracht-praesident-beck-wiedergewaehlt-1263072/artikel",
-   "source": "kicker",
-   "published": "2026-10-19T20:09:48Z",
-   "teaser": "Der Abschied von Markus Krösche zwang Eintracht Frankfurt kurzfristig dazu, die Scheinwerfer bei der Mitgliederversammlung am Montagabend neu zu justieren. Gleichwohl ging der eigentliche Hauptakt des Abends wie erwartet über die Bühne …",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kroesche-kaempft-mit-den-traenen-die-emotionale-abschiesdrede-im-video-1263130/video",
-   "title": "Krösche kämpft mit den Tränen: Die emotionale Abschiesdrede im Video",
-   "link": "https://www.kicker.de/kroesche-kaempft-mit-den-traenen-die-emotionale-abschiesdrede-im-video-1263130/video",
-   "source": "kicker",
-   "published": "2026-10-19T19:54:26Z",
-   "teaser": "Markus Krösche verlässt nach über fünf Jahren Eintracht Frankfurt. Auf der Mitgliederversammlung verabschiedete sich der Sportvorstand emotional wie selten.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kroesche-kaempft-mit-den-traenen-die-emotionale-abschiedsrede-im-video-1263130/video",
-   "title": "Krösche kämpft mit den Tränen: Die emotionale Abschiedsrede im Video",
-   "link": "https://www.kicker.de/kroesche-kaempft-mit-den-traenen-die-emotionale-abschiedsrede-im-video-1263130/video",
-   "source": "kicker",
-   "published": "2026-10-19T19:54:26Z",
-   "teaser": "Markus Krösche verlässt nach über fünf Jahren Eintracht Frankfurt. Auf der Mitgliederversammlung verabschiedete sich der Sportvorstand emotional wie selten.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ablaufdatum-2035-hellmann-forciert-die-stadionplaene-in-frankfurt-1263076/artikel",
-   "title": "Ablaufdatum 2035: Hellmann forciert die Stadionpläne in Frankfurt",
-   "link": "https://www.kicker.de/ablaufdatum-2035-hellmann-forciert-die-stadionplaene-in-frankfurt-1263076/artikel",
-   "source": "kicker",
-   "published": "2026-10-19T18:38:29Z",
-   "teaser": "Die 2005 eröffnete Arena im Frankfurter Stadtwald geht laut Eintracht-Vorstand Axel Hellmann auf ihre finale Dekade zu. Hinzukommt die häufig lange Anlaufzeit großer Infrastrukturprojekte in Deutschland. Der Klubchef forciert daher die …",
-   "clubs": [
-    91
    ],
    "transfer": false
   }
