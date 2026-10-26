@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T21:09:54Z",
+ "updated": "2026-10-26T22:07:14Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,28 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/das-laecheln-eines-siegers-harry-kane-bei-der-ankunft-lautstark-umjubelt-1265526/video",
+   "title": "Das Lächeln eines Siegers? Harry Kane bei der Ankunft lautstark umjubelt",
+   "link": "https://www.kicker.de/das-laecheln-eines-siegers-harry-kane-bei-der-ankunft-lautstark-umjubelt-1265526/video",
+   "source": "kicker",
+   "published": "2026-10-26T21:42:49Z",
+   "teaser": "Bei seiner Rückkehr nach London für die Ballon-d'Or-Gala verteilt Harry Kane Autogramme und wird lautstark bejubelt. Auch die anderen Bayern-Spieler werden gebührend empfangen.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/die-fans-hatten-uns-das-nicht-zugetraut-em-helden-von-96-feiern-jubilaeum-1265523/video",
+   "title": "\"Die Fans hatten uns das nicht zugetraut\": EM-Helden von 96 feiern Jubiläum",
+   "link": "https://www.kicker.de/die-fans-hatten-uns-das-nicht-zugetraut-em-helden-von-96-feiern-jubilaeum-1265523/video",
+   "source": "kicker",
+   "published": "2026-10-26T21:05:24Z",
+   "teaser": "Die deutschen EM-Sieger von 1996 kommen zusammen und feiern das 30-jährige Jubiläum. Berti Vogts erinnert sich zurück an das \"Golden Goal\" von Oliver Bierhoff, Jürgen Klinsmann freut sich, alte Kollegen wiederzusehen.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/halb-so-wild-prass-gibt-ueberraschende-einblicke-zu-seinem-platzverweis-1265502/artikel",
    "title": "\"Halb so wild\": Prass gibt überraschende Einblicke zu seinem Platzverweis",
@@ -2531,28 +2553,6 @@
     81,
     9
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/auch-spors-ist-ein-kandidat-fuer-die-kroesche-nachfolge-1263546/artikel",
-   "title": "Auch Spors ist ein Kandidat für die Krösche-Nachfolge",
-   "link": "https://www.kicker.de/auch-spors-ist-ein-kandidat-fuer-die-kroesche-nachfolge-1263546/artikel",
-   "source": "kicker",
-   "published": "2026-10-21T06:08:33Z",
-   "teaser": "Eintracht Frankfurt arbeitet nach der Trennung von Sportvorstand Markus Krösche mit Hochdruck an einer personellen Neuausrichtung. Im Gespräch ist auch Johannes Spors, der als Sportdirektor beim englischen Zweitligisten FC Southampton …",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/swr/swr-phillip-tietz-und-niclas-fuellkrug-die-renaissance-der-echten-neuner-100.html",
-   "title": "Phillip Tietz und Niclas Füllkrug - Die Renaissance der \"echten Neuner\"",
-   "link": "https://www.sportschau.de/regional/swr/swr-phillip-tietz-und-niclas-fuellkrug-die-renaissance-der-echten-neuner-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-20T14:56:14Z",
-   "teaser": "Der klassische Mittelstürmer galt in den vergangenen Jahren fast schon als ausgestorben. Phillip Tietz und Niclas Füllkrug beweisen, wie wichtig eine zentrale Spitze sein kann.",
-   "clubs": [],
    "transfer": false
   }
  ]
