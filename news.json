@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T17:21:00Z",
+ "updated": "2026-10-27T18:15:16Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/br/br-kimmich-comeback-gegen-dortmund-danks-macht-hoffnung-102.html",
+   "title": "Joshua Kimmich steht vor Comeback gegen Dortmund",
+   "link": "https://www.sportschau.de/regional/br/br-kimmich-comeback-gegen-dortmund-danks-macht-hoffnung-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-27T17:24:50Z",
+   "teaser": "Der FC Bayern München muss seit zwei Pflichtspielen aufgrund eines Trauerfalls in der Familie auf Joshua Kimmich verzichten. Gegen Borussia Dortmund kann der deutsche Rekordmeister auf eine Rückkehr des Mittelfeldspielers hoffen.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/lehrreiche-tage-was-treu-ankotzt-und-freiburg-lernen-muss-1265508/artikel",
    "title": "Lehrreiche Tage: Was Treu \"ankotzt\" und Freiburg lernen muss",
@@ -2538,19 +2551,6 @@
    "teaser": "Das letzte verfügbare Anteilspaket ist verkauft: Die Viessmann Generations Group wird Gesellschafter der FC Bayern München AG. Der Aufsichtsrat wächst damit auch.",
    "clubs": [
     40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/philippes-besonderes-wiedersehen-mit-dem-hsv-1263752/artikel",
-   "title": "Philippes besonderes Wiedersehen mit dem HSV",
-   "link": "https://www.kicker.de/philippes-besonderes-wiedersehen-mit-dem-hsv-1263752/artikel",
-   "source": "kicker",
-   "published": "2026-10-22T04:53:37Z",
-   "teaser": "Paderborns Neuzugang Rayan Philippe fehlt nicht viel zum großen Glück - findet er es ausgerechnet am Samstag gegen seinen Ex-Klub?",
-   "clubs": [
-    100,
-    31
    ],
    "transfer": false
   }
