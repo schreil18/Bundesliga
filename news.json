@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T09:16:10Z",
+ "updated": "2026-10-27T10:15:14Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Vuskovic-Verlängerung beim HSV wohl nur Formsache",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-10-27T09:42:15Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [
+    100
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/das-ist-einfach-das-traurige-baumgart-aeussert-sich-zum-union-aus-1265581/artikel",
    "title": "\"Das ist einfach das Traurige\": Baumgart äußert sich zum Union-Aus",
@@ -2492,16 +2504,6 @@
     87
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Nagelsmann wird bei ManUnited gehandelt - Argentinien vor Scaloni-Deal",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-10-22T08:20:00Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/viessmann-deal-durch-fc-bayern-verkauft-weitere-anteile-1263928/artikel",
