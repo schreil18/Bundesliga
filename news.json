@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T06:09:08Z",
+ "updated": "2026-10-27T07:25:39Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,28 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/kane-kann-es-nicht-glauben-ronaldo-verkuendet-den-ballon-d-or-sieger-1265585/video",
+   "title": "Kane kann es nicht glauben: Ronaldo verkündet den Ballon-d'Or-Sieger",
+   "link": "https://www.kicker.de/kane-kann-es-nicht-glauben-ronaldo-verkuendet-den-ballon-d-or-sieger-1265585/video",
+   "source": "kicker",
+   "published": "2026-10-27T07:05:55Z",
+   "teaser": "Ronaldo freute sich sichtlich, den Ballon-d'Or-Triumph von Harry Kane zu verkünden. Mit einem breiten Grinsen rief er seinen Namen in den Saal, es folgten Sprechchöre und Glückwünsche aus dem Publikum.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kane-dankt-olise-und-co-ermoeglichen-mir-der-spieler-zu-sein-der-ich-bin-1265573/video",
+   "title": "Kane dankt Olise und Co.: \"Ermöglichen mir, der Spieler zu sein, der ich bin\"",
+   "link": "https://www.kicker.de/kane-dankt-olise-und-co-ermoeglichen-mir-der-spieler-zu-sein-der-ich-bin-1265573/video",
+   "source": "kicker",
+   "published": "2026-10-27T06:25:20Z",
+   "teaser": "Angesprochen auf den Anteil seiner Mitspieler an seinem Ballon d'Or, setzte Harry Kane zu einer Lobeshymne auf seine Teamkollegen bei Bayern und der Nationalmannschaft an.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/der-ballon-d-or-fuer-die-bundesliga-kane-versetzt-london-in-ekstase-1265556/video",
    "title": "\"Der Ballon d'Or für die Bundesliga\": Kane versetzt London in Ekstase",
@@ -2527,30 +2549,6 @@
    "teaser": "In der Saison 1995/96 hatte Stuttgarts Topstürmer Giovane Elber eine Torflaute. Ein Wechsel seines Schuhwerks half dem Brasilianer wieder beim Toreschießen.",
    "clubs": [
     16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/druck-auf-claude-maurice-steigt-liegt-an-alexis-sich-ins-team-zu-kaempfen-1263595/artikel",
-   "title": "Druck auf Claude-Maurice steigt: \"Liegt an Alexis, sich ins Team zu kämpfen\"",
-   "link": "https://www.kicker.de/druck-auf-claude-maurice-steigt-liegt-an-alexis-sich-ins-team-zu-kaempfen-1263595/artikel",
-   "source": "kicker",
-   "published": "2026-10-21T10:10:00Z",
-   "teaser": "Fast zwei Jahre lang galt: Ohne Alexis Claude-Maurice geht in der Offensive des FC Augsburg wenig. Das hat sich geändert. Der offensive Mittelfeldspieler muss um seinen Platz kämpfen, auch mit Blick auf den Sommer.",
-   "clubs": [
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/rolfes-zu-kiessling-plakat-vorher-das-tornetz-kontrollieren-1263628/video",
-   "title": "Rolfes zu Kießling-Plakat: \"Vorher das Tornetz kontrollieren\"",
-   "link": "https://www.kicker.de/rolfes-zu-kiessling-plakat-vorher-das-tornetz-kontrollieren-1263628/video",
-   "source": "kicker",
-   "published": "2026-10-21T09:36:41Z",
-   "teaser": "Ein Hoffenheimer Plakat mit der Aufschrift \"Es war kein Tor, Stefan\", in Anspielung auf das Phantomtor von Stefan Kießling aus dem Jahr 2013 stieß im Bayer-Lager auf wenig Verständnis. Simon Rolfes erinnerte sich an die damalige Situation …",
-   "clubs": [
-    175
    ],
    "transfer": false
   }
