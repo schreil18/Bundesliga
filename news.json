@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T00:03:59Z",
+ "updated": "2026-10-27T00:46:29Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/du-bist-verdammt-nochmal-brillant-mueller-gratuliert-kane-zum-ballon-d-or-sieg-1265554/video",
+   "title": "\"Du bist verdammt nochmal brillant\": Müller gratuliert Kane zum Ballon-d'Or-Sieg",
+   "link": "https://www.kicker.de/du-bist-verdammt-nochmal-brillant-mueller-gratuliert-kane-zum-ballon-d-or-sieg-1265554/video",
+   "source": "kicker",
+   "published": "2026-10-26T23:57:07Z",
+   "teaser": "Knapp zwei Jahre haben Harry Kane und Thomas Müller beim FC Bayern zusammengespielt. Nun gratuliert der 37-Jährige seinem früheren Kollegen via Instagram zum Gewinn des Ballon d’Ors.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/das-laecheln-eines-siegers-harry-kane-bei-der-ankunft-lautstark-umjubelt-1265526/video",
    "title": "Das Lächeln eines Siegers? Harry Kane bei der Ankunft lautstark umjubelt",
@@ -2540,19 +2552,6 @@
    "published": "2026-10-21T08:57:06Z",
    "teaser": "Trotz starker Leistungen verlor Danny da Costa zwischenzeitlich seinen Stammplatz. Der Umgang damit macht ihn zum Vorbild für die Kollegen.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-schaedelbrummen-bei-dzeko-und-ganz-schalke-100.html",
-   "title": "Schädelbrummen bei Dzeko und ganz Schalke",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-schaedelbrummen-bei-dzeko-und-ganz-schalke-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-21T08:33:25Z",
-   "teaser": "Auf Schalke suchen sie nach den Ursachen für die schwache Leistung gegen Mainz. Ob Edin Dzeko mit dabei sein kann, ist unsicher.",
-   "clubs": [
-    81,
-    9
-   ],
    "transfer": false
   }
  ]
