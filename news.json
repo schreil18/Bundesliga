@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T20:13:23Z",
+ "updated": "2026-10-27T21:10:39Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/auf-den-spuren-des-ballon-d-or-siegers-wo-fuer-kane-alles-begann-1265878/video",
+   "title": "Auf den Spuren des Ballon-d'Or-Siegers: Wo für Kane alles begann",
+   "link": "https://www.kicker.de/auf-den-spuren-des-ballon-d-or-siegers-wo-fuer-kane-alles-begann-1265878/video",
+   "source": "kicker",
+   "published": "2026-10-27T20:18:47Z",
+   "teaser": "Harry Kane hat den Ballon d'Or gewonnen und am Tag nach der Zeremonie hat sich kicker-Reporter Mario Krischel in London auf Spurensuche nach Kanes Anfängen begeben.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/br/br-kimmich-comeback-gegen-dortmund-danks-macht-hoffnung-102.html",
    "title": "Joshua Kimmich steht vor Comeback gegen Dortmund",
@@ -2539,18 +2549,6 @@
    "teaser": "Gladbach ist das vierte Team der Liga-Geschichte, das mit sechs Niederlagen in eine Saison startet. Warum für die Borussia damit noch nichts verloren ist, weiß niemand besser als Kevin Stöger.",
    "clubs": [
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/viessmann-deal-durch-fc-bayern-verkauft-weitere-anteile-1263928/artikel",
-   "title": "Viessmann-Deal durch: FC Bayern verkauft weitere Anteile",
-   "link": "https://www.kicker.de/viessmann-deal-durch-fc-bayern-verkauft-weitere-anteile-1263928/artikel",
-   "source": "kicker",
-   "published": "2026-10-22T08:19:21Z",
-   "teaser": "Das letzte verfügbare Anteilspaket ist verkauft: Die Viessmann Generations Group wird Gesellschafter der FC Bayern München AG. Der Aufsichtsrat wächst damit auch.",
-   "clubs": [
-    40
    ],
    "transfer": false
   }
