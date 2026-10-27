@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T12:11:07Z",
+ "updated": "2026-10-27T13:27:55Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,20 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/lehrreiche-tage-was-treu-ankotzt-und-freiburg-lernen-muss-1265508/artikel",
+   "title": "Lehrreiche Tage: Was Treu \"ankotzt\" und Freiburg lernen muss",
+   "link": "https://www.kicker.de/lehrreiche-tage-was-treu-ankotzt-und-freiburg-lernen-muss-1265508/artikel",
+   "source": "kicker",
+   "published": "2026-10-27T12:54:50Z",
+   "teaser": "Leverkusen, Monaco, Bayern: Binnen acht Tagen zeigten drei Top-Teams dem SC Freiburg nach dem perfekten Saisonstart die Grenzen auf. Doch trotz der null Punkte macht die Entwicklung Hoffnung. Nationalspieler Philipp Treu erklärt warum.",
+   "clubs": [
+    40,
+    6,
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/kramaric-in-zwei-spielen-sechs-scorerpunkte-zu-sammeln-ist-schon-krank-1265126/artikel",
    "title": "Kramaric: \"In zwei Spielen sechs Scorerpunkte zu sammeln, ist schon krank\"",
@@ -2537,18 +2551,6 @@
    "clubs": [
     100,
     31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/auf-dem-weg-zum-abwehrchef-nach-dem-horrorstart-hat-sich-uduokhai-zuegig-stabilisiert-1263696/artikel",
-   "title": "Auf dem Weg zum Abwehrchef: Nach dem Horrorstart hat sich Uduokhai zügig stabilisiert",
-   "link": "https://www.kicker.de/auf-dem-weg-zum-abwehrchef-nach-dem-horrorstart-hat-sich-uduokhai-zuegig-stabilisiert-1263696/artikel",
-   "source": "kicker",
-   "published": "2026-10-21T14:47:20Z",
-   "teaser": "Der 29-Jährige stand anfangs neben der Spur, doch mittlerweile hat er sich gefangen und großen Anteil daran, dass die Eisernen zuletzt zwei Mal zu null spielen konnten.",
-   "clubs": [
-    80
    ],
    "transfer": false
   }
