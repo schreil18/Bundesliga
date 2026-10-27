@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T00:46:29Z",
+ "updated": "2026-10-27T01:44:07Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/der-ballon-d-or-fuer-die-bundesliga-kane-versetzt-london-in-ekstase-1265556/video",
+   "title": "\"Der Ballon d'Or für die Bundesliga\": Kane versetzt London in Ekstase",
+   "link": "https://www.kicker.de/der-ballon-d-or-fuer-die-bundesliga-kane-versetzt-london-in-ekstase-1265556/video",
+   "source": "kicker",
+   "published": "2026-10-27T00:44:31Z",
+   "teaser": "Erstmals seit 1996 gewinnt mit Harry Kane ein Spieler aus der Bundesliga den Ballon d'Or. Der Engländer feiert jetzt erstmal, richtet aber den Blick bereits auf weitere Titel und das Pokalspiel am Mittwoch gegen Magdeburg. Aus London …",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/du-bist-verdammt-nochmal-brillant-mueller-gratuliert-kane-zum-ballon-d-or-sieg-1265554/video",
    "title": "\"Du bist verdammt nochmal brillant\": Müller gratuliert Kane zum Ballon-d'Or-Sieg",
@@ -2542,16 +2552,6 @@
    "clubs": [
     175
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/teamplayer-da-costa-erst-opfer-jetzt-gewinner-1263536/artikel",
-   "title": "Teamplayer da Costa: Erst Opfer, jetzt Gewinner",
-   "link": "https://www.kicker.de/teamplayer-da-costa-erst-opfer-jetzt-gewinner-1263536/artikel",
-   "source": "kicker",
-   "published": "2026-10-21T08:57:06Z",
-   "teaser": "Trotz starker Leistungen verlor Danny da Costa zwischenzeitlich seinen Stammplatz. Der Umgang damit macht ihn zum Vorbild für die Kollegen.",
-   "clubs": [],
    "transfer": false
   }
  ]
