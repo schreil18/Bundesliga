@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T11:12:59Z",
+ "updated": "2026-10-27T12:11:07Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/kramaric-in-zwei-spielen-sechs-scorerpunkte-zu-sammeln-ist-schon-krank-1265126/artikel",
+   "title": "Kramaric: \"In zwei Spielen sechs Scorerpunkte zu sammeln, ist schon krank\"",
+   "link": "https://www.kicker.de/kramaric-in-zwei-spielen-sechs-scorerpunkte-zu-sammeln-ist-schon-krank-1265126/artikel",
+   "source": "kicker",
+   "published": "2026-10-27T11:22:01Z",
+   "teaser": "Andrej Kramaric hat eine lange Leidenszeit hinter sich, war zwei Monate aufgrund einer Leisten-OP außer Gefecht. Jetzt aber ist der Kroate zurück - und wie.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
    "title": "Vuskovic-Verlängerung beim HSV wohl nur Formsache",
@@ -2539,18 +2549,6 @@
    "teaser": "Der 29-Jährige stand anfangs neben der Spur, doch mittlerweile hat er sich gefangen und großen Anteil daran, dass die Eisernen zuletzt zwei Mal zu null spielen konnten.",
    "clubs": [
     80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/brasilianische-blitzintegration-wie-arthur-die-werder-baustelle-schloss-1263639/artikel",
-   "title": "Brasilianische Blitzintegration: Wie Arthur die Werder-Baustelle schloss",
-   "link": "https://www.kicker.de/brasilianische-blitzintegration-wie-arthur-die-werder-baustelle-schloss-1263639/artikel",
-   "source": "kicker",
-   "published": "2026-10-21T14:32:41Z",
-   "teaser": "Arthur ist nicht nur der schnellste Werder-Spieler in dieser Saison, sondern der Brasilianer hat sich auch innerhalb kürzester Zeit in Bremen akklimatisiert - und eine Lücke im Kader gefüllt, vorerst.",
-   "clubs": [
-    134
    ],
    "transfer": false
   }
