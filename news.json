@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T07:25:39Z",
+ "updated": "2026-10-27T08:17:52Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/das-ist-einfach-das-traurige-baumgart-aeussert-sich-zum-union-aus-1265581/artikel",
+   "title": "\"Das ist einfach das Traurige\": Baumgart äußert sich zum Union-Aus",
+   "link": "https://www.kicker.de/das-ist-einfach-das-traurige-baumgart-aeussert-sich-zum-union-aus-1265581/artikel",
+   "source": "kicker",
+   "published": "2026-10-27T07:43:55Z",
+   "teaser": "Steffen Baumgart hat die vergangenen Monate ohne Fußball verbracht, er tankt Kraft, genießt Zeit mit der Familie. Irgendwann will er wieder an der Seitenlinie stehen - über die Zahl der Angebote spricht er sehr offen.",
+   "clubs": [
+    80
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/kane-kann-es-nicht-glauben-ronaldo-verkuendet-den-ballon-d-or-sieger-1265585/video",
    "title": "Kane kann es nicht glauben: Ronaldo verkündet den Ballon-d'Or-Sieger",
@@ -2537,18 +2549,6 @@
    "teaser": "Arthur ist nicht nur der schnellste Werder-Spieler in dieser Saison, sondern der Brasilianer hat sich auch innerhalb kürzester Zeit in Bremen akklimatisiert - und eine Lücke im Kader gefüllt, vorerst.",
    "clubs": [
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/giovane-elbers-weisse-schuhe,video-historie-weisse-schuhe-100.html",
-   "title": "Als Giovane Elber mit weißen Schuhen seinen Tor-Fluch brach",
-   "link": "https://www.sportschau.de/fussball/bundesliga/giovane-elbers-weisse-schuhe,video-historie-weisse-schuhe-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-21T13:09:09Z",
-   "teaser": "In der Saison 1995/96 hatte Stuttgarts Topstürmer Giovane Elber eine Torflaute. Ein Wechsel seines Schuhwerks half dem Brasilianer wieder beim Toreschießen.",
-   "clubs": [
-    16
    ],
    "transfer": false
   }
