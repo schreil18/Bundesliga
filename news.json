@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T11:42:47Z",
+ "updated": "2026-10-28T12:52:59Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/daumen-schon-gesenkt-rose-springt-demichelis-zur-seite-1266068/artikel",
+   "title": "Daumen schon gesenkt? Rose springt Demichelis zur Seite",
+   "link": "https://www.kicker.de/daumen-schon-gesenkt-rose-springt-demichelis-zur-seite-1266068/artikel",
+   "source": "kicker",
+   "published": "2026-10-28T12:13:00Z",
+   "teaser": "Ende März 2025 musste Marco Rose in Leipzig seinen Hut nehmen, seit dem vergangenen Sommer ist der Ex-RB-Coach für den AFC Bournemouth zuständig. Nun wirft er einen Blick zurück auf seine Zeit in Leipzig und auf die aktuelle Situation von …",
+   "clubs": [
+    1635
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/aufschwung-und-alternativen-gladbach-bereit-fuer-paderborn-1266035/artikel",
    "title": "Aufschwung und Alternativen: Gladbach bereit für Paderborn",
@@ -2541,18 +2553,6 @@
     112
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gegen-atletico-ausgewechselt-vagnoman-fehlt-stuttgart-vorerst-1264057/artikel",
-   "title": "Gegen Atletico ausgewechselt: Vagnoman fehlt Stuttgart vorerst",
-   "link": "https://www.kicker.de/gegen-atletico-ausgewechselt-vagnoman-fehlt-stuttgart-vorerst-1264057/artikel",
-   "source": "kicker",
-   "published": "2026-10-22T11:47:16Z",
-   "teaser": "Nach seiner Auswechslung gegen Atletico Madrid steht fest, dass Josha Vagnoman dem VfB Stuttgart mehrere Wochen fehlen wird. In der bisherigen Saison war er absolute Stammkraft - und obendrein bester VfB-Torjäger in der Bundesliga.",
-   "clubs": [
-    16
-   ],
-   "transfer": true
   }
  ]
 }
