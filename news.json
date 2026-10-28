@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T19:48:10Z",
+ "updated": "2026-10-28T20:42:30Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,28 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/kein-kroesche-nachfolger-spycher-bleibt-aus-privaten-gruenden-bei-young-boys-1266219/artikel",
+   "title": "Kein Krösche-Nachfolger: Spycher bleibt aus privaten Gründen bei Young Boys",
+   "link": "https://www.kicker.de/kein-kroesche-nachfolger-spycher-bleibt-aus-privaten-gruenden-bei-young-boys-1266219/artikel",
+   "source": "kicker",
+   "published": "2026-10-28T20:32:57Z",
+   "teaser": "Am Mittwoch sickerte durch, dass der frühere Eintracht-Kapitän Christoph Spycher nicht in neuer Funktion als Sportvorstand an den Main zurückkehren wird. Warum? Das wird der Sportchef des BSC Young Boys zeitnah öffentlich mitteilen.",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/eberl-bestaetigt-kompany-nach-hirnhautreizung-aus-krankenhaus-entlassen-1266223/artikel",
+   "title": "Eberl bestätigt: Kompany nach Hirnhautreizung aus Krankenhaus entlassen",
+   "link": "https://www.kicker.de/eberl-bestaetigt-kompany-nach-hirnhautreizung-aus-krankenhaus-entlassen-1266223/artikel",
+   "source": "kicker",
+   "published": "2026-10-28T20:00:00Z",
+   "teaser": "Vincent Kompany ist an diesem Mittwoch aus dem Krankenhaus entlassen worden - Diagnose und Reha-Plan inklusive. Das hat im Zuge der DFB-Pokal-Partie gegen Magdeburg Bayern Münchens Sportvorstand Max Eberl verkündet.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/stadioneinweihung-in-nairobi-bayern-trifft-auf-ajax-1266151/artikel",
    "title": "Stadioneinweihung in Nairobi: Bayern trifft auf Ajax",
@@ -2526,30 +2548,6 @@
    "teaser": "In der neuen Folge \"Was geht, Bundesliga?\" spricht kicker-Reporter George Moissidis über die jüngsten Leistungen des VfB Stuttgart. Während es in der Champions League sehr gut läuft, gab es in der Bundesliga in sechs Spielen vier …",
    "clubs": [
     16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/verletzungen-auf-schalke-haeufen-sich-situation-spitzt-sich-zu-1264102/video",
-   "title": "Verletzungen auf Schalke häufen sich: \"Situation spitzt sich zu\"",
-   "link": "https://www.kicker.de/verletzungen-auf-schalke-haeufen-sich-situation-spitzt-sich-zu-1264102/video",
-   "source": "kicker",
-   "published": "2026-10-22T13:06:41Z",
-   "teaser": "Die Verletzungssorgen beim FC Schalke 04 werden nicht weniger. Nach Kenan Karaman fällt jetzt auch noch Maximilian Wöber aus und wird dieses Jahr nicht mehr zum Einsatz kommen, wie kicker-Reporter Toni Lieto berichtet.",
-   "clubs": [
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/thioune-ueber-die-aktuelle-situation-von-stark-das-tut-mir-auch-persoenlich-leid-1264081/artikel",
-   "title": "Thioune über die aktuelle Situation von Stark: \"Das tut mir auch persönlich leid\"",
-   "link": "https://www.kicker.de/thioune-ueber-die-aktuelle-situation-von-stark-das-tut-mir-auch-persoenlich-leid-1264081/artikel",
-   "source": "kicker",
-   "published": "2026-10-22T13:00:00Z",
-   "teaser": "Niklas Stark und Werder Bremen - das hat in der Vergangenheit oft gepasst. Seit geraumer Zeit aber nicht mehr, was bekannte Gründe hat. Gründe, die eventuell zu einem Aus im Sommer führen können. So weit denkt Trainer Daniel Thioune aber …",
-   "clubs": [
-    134
    ],
    "transfer": false
   }
