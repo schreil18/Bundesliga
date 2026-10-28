@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T09:49:42Z",
+ "updated": "2026-10-28T10:46:01Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/aufschwung-und-alternativen-gladbach-bereit-fuer-paderborn-1266035/artikel",
+   "title": "Aufschwung und Alternativen: Gladbach bereit für Paderborn",
+   "link": "https://www.kicker.de/aufschwung-und-alternativen-gladbach-bereit-fuer-paderborn-1266035/artikel",
+   "source": "kicker",
+   "published": "2026-10-28T10:23:55Z",
+   "teaser": "Zwei Siege in Folge. Das Lazarett lichtet sich. Bei der Borussia wächst vor dem wegweisenden Heimspiel der Optimismus.",
+   "clubs": [
+    87,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wie-sonst-nur-harry-kane-krauss-besondere-rolle-beim-1-fc-koeln-1265986/artikel",
+   "title": "Wie sonst nur Harry Kane: Krauß' besondere Rolle beim 1. FC Köln",
+   "link": "https://www.kicker.de/wie-sonst-nur-harry-kane-krauss-besondere-rolle-beim-1-fc-koeln-1265986/artikel",
+   "source": "kicker",
+   "published": "2026-10-28T10:21:17Z",
+   "teaser": "Beim 5:0-Triumph des 1. FC Köln im Pokal überragen nicht nur die Stürmer, sondern auch Mittelfeldspieler Tom Krauß. Der 26-Jährige nimmt dabei eine Sonderrolle ein, die sogar an den Bayern-Stürmer erinnert.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/wdr/wdr-moenchengladbachs-sieg-teambuilding-in-unterzahl-100.html",
    "title": "Mönchengladbachs Sieg im DFB-Pokal - Teambuilding in Unterzahl",
@@ -2527,31 +2553,6 @@
     16
    ],
    "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-mit-hsv-gegen-gladbach,livestream-sportschau-am-freitag-178.html",
-   "title": "Livestream - Bundesliga-Highlights: Die Sportschau am Freitag mit Stuttgart gegen Gladbach",
-   "link": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-mit-hsv-gegen-gladbach,livestream-sportschau-am-freitag-178.html",
-   "source": "Sportschau",
-   "published": "2026-10-22T10:58:00Z",
-   "teaser": "Am 7. Spieltag empfängt der VfB Stuttgart die noch punktlosen Gäste von Borussia Mönchengladbach. Die Highlights in der Sportschau am Freitag. Dazu: die 2. Bundesliga.",
-   "clubs": [
-    16,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/adidas-boom-el-mala-effekt-eigenvermarktung-der-fc-erwartet-ein-rekordergebnis-1264025/artikel",
-   "title": "Adidas-Boom, El-Mala-Effekt, Eigenvermarktung: Der FC erwartet ein Rekordergebnis",
-   "link": "https://www.kicker.de/adidas-boom-el-mala-effekt-eigenvermarktung-der-fc-erwartet-ein-rekordergebnis-1264025/artikel",
-   "source": "kicker",
-   "published": "2026-10-22T10:53:22Z",
-   "teaser": "Der 1. FC Köln setzt in der Vermarktung auf Eigenregie. Geschäftsführer Philipp Liesenfeld zieht eine positive Zwischenbilanz - und will bei der Mitgliederversammlung 2027 ein Rekordergebnis vorlegen.",
-   "clubs": [
-    65
-   ],
-   "transfer": false
   }
  ]
 }
