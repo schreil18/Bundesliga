@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T20:42:30Z",
+ "updated": "2026-10-28T21:40:35Z",
  "sources": [
   {
    "name": "kicker",
@@ -19,6 +19,16 @@
    "id": "https://www.kicker.de/kein-kroesche-nachfolger-spycher-bleibt-aus-privaten-gruenden-bei-young-boys-1266219/artikel",
    "title": "Kein Krösche-Nachfolger: Spycher bleibt aus privaten Gründen bei Young Boys",
    "link": "https://www.kicker.de/kein-kroesche-nachfolger-spycher-bleibt-aus-privaten-gruenden-bei-young-boys-1266219/artikel",
+   "source": "kicker",
+   "published": "2026-10-28T20:32:57Z",
+   "teaser": "Am Mittwoch sickerte durch, dass der frühere Eintracht-Kapitän Christoph Spycher nicht in neuer Funktion als Sportvorstand an den Main zurückkehren wird. Warum? Das wird der Sportchef des BSC Young Boys zeitnah öffentlich mitteilen.",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/kein-kroesche-nachfolger-spycher-bleibt-aus-privaten-gruenden-bei-den-young-boys-1266219/artikel",
+   "title": "Kein Krösche-Nachfolger: Spycher bleibt aus privaten Gründen bei den Young Boys",
+   "link": "https://www.kicker.de/kein-kroesche-nachfolger-spycher-bleibt-aus-privaten-gruenden-bei-den-young-boys-1266219/artikel",
    "source": "kicker",
    "published": "2026-10-28T20:32:57Z",
    "teaser": "Am Mittwoch sickerte durch, dass der frühere Eintracht-Kapitän Christoph Spycher nicht in neuer Funktion als Sportvorstand an den Main zurückkehren wird. Warum? Das wird der Sportchef des BSC Young Boys zeitnah öffentlich mitteilen.",
@@ -2536,18 +2546,6 @@
    "teaser": "Keine guten Nachrichten für den FC Bayern München: Luis Diaz hat sich in der Champions League verletzt und fehlt dem Rekordmeister in den nächsten Wochen.",
    "clubs": [
     40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-zwei-vfb-gesichter-wirklich-keine-spitzenmannschaft-1264108/video",
-   "title": "Die zwei VfB-Gesichter: Wirklich keine \"Spitzenmannschaft\"?",
-   "link": "https://www.kicker.de/die-zwei-vfb-gesichter-wirklich-keine-spitzenmannschaft-1264108/video",
-   "source": "kicker",
-   "published": "2026-10-22T13:37:21Z",
-   "teaser": "In der neuen Folge \"Was geht, Bundesliga?\" spricht kicker-Reporter George Moissidis über die jüngsten Leistungen des VfB Stuttgart. Während es in der Champions League sehr gut läuft, gab es in der Bundesliga in sechs Spielen vier …",
-   "clubs": [
-    16
    ],
    "transfer": false
   }
