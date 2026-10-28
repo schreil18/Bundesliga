@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T14:54:22Z",
+ "updated": "2026-10-28T15:53:07Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/stadioneinweihung-in-nairobi-bayern-trifft-auf-ajax-1266151/artikel",
+   "title": "Stadioneinweihung in Nairobi: Bayern trifft auf Ajax",
+   "link": "https://www.kicker.de/stadioneinweihung-in-nairobi-bayern-trifft-auf-ajax-1266151/artikel",
+   "source": "kicker",
+   "published": "2026-10-28T15:44:02Z",
+   "teaser": "In der Bundesliga wartet auf den FC Bayern nach der Winterpause der Klassiker gegen Borussia Mönchengladbach. Zur Generalprobe gehen die Münchner auf Reisen und treffen Anfang des neuen Jahres in Nairobi auf Ajax Amsterdam.",
+   "clubs": [
+    40,
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/schon-die-trendwende-wie-ausnahmespieler-uzun-seinem-trainer-ein-kompliment-entlockt-1266031/artikel",
    "title": "Schon die Trendwende? Wie \"Ausnahmespieler\" Uzun seinem Trainer ein Kompliment entlockt",
@@ -2537,19 +2550,6 @@
    "teaser": "Niklas Stark und Werder Bremen - das hat in der Vergangenheit oft gepasst. Seit geraumer Zeit aber nicht mehr, was bekannte Gründe hat. Gründe, die eventuell zu einem Aus im Sommer führen können. So weit denkt Trainer Daniel Thioune aber …",
    "clubs": [
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gladbach-vor-negativrekord-ohne-punkte-und-ohne-lidberg-nach-stuttgart-1264090/artikel",
-   "title": "Gladbach vor Negativrekord: Ohne Punkte und ohne Lidberg nach Stuttgart",
-   "link": "https://www.kicker.de/gladbach-vor-negativrekord-ohne-punkte-und-ohne-lidberg-nach-stuttgart-1264090/artikel",
-   "source": "kicker",
-   "published": "2026-10-22T12:59:26Z",
-   "teaser": "Borussia Mönchengladbach droht der schlechteste Ligastart der Bundesliga-Geschichte. Und Hoffnung macht vor der Partie in Stuttgart wenig: Jetzt fällt auch noch Isac Lidberg aus.",
-   "clubs": [
-    16,
-    87
    ],
    "transfer": false
   }
