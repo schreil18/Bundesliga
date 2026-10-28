@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T07:58:15Z",
+ "updated": "2026-10-28T08:52:36Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-moenchengladbachs-sieg-teambuilding-in-unterzahl-100.html",
+   "title": "Mönchengladbachs Sieg im DFB-Pokal - Teambuilding in Unterzahl",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-moenchengladbachs-sieg-teambuilding-in-unterzahl-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-28T07:22:00Z",
+   "teaser": "Borussia Mönchengladbach macht den nächsten Schritt aus der Krise. Die Art des Erfolgs im DFB-Pokal macht ihn noch wertvoller.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/rbb/rbb-unions-pokal-klatsche-in-koeln-systemversagen-100.html",
+   "title": "Unions Pokal-Klatsche in Köln: Systemversagen",
+   "link": "https://www.sportschau.de/regional/rbb/rbb-unions-pokal-klatsche-in-koeln-systemversagen-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-28T06:10:05Z",
+   "teaser": "Nach dem bitteren 0:5 im Kölner Regen steht der 1. FC Union Berlin vor einem Rätsel: War der chancenlose Pokal-Auftritt nur ein temporärer Rückschritt oder offenbart er grundlegende Probleme?",
+   "clubs": [
+    80,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/auf-den-spuren-des-ballon-d-or-siegers-wo-fuer-kane-alles-begann-1265878/video",
    "title": "Auf den Spuren des Ballon-d'Or-Siegers: Wo für Kane alles begann",
@@ -2525,30 +2550,6 @@
    "teaser": "Der 1. FC Köln setzt in der Vermarktung auf Eigenregie. Geschäftsführer Philipp Liesenfeld zieht eine positive Zwischenbilanz - und will bei der Mitgliederversammlung 2027 ein Rekordergebnis vorlegen.",
    "clubs": [
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/im-training-verletzt-woeber-fehlt-schalke-bis-auf-weiteres-1264031/artikel",
-   "title": "Im Training verletzt: Wöber fehlt Schalke \"bis auf Weiteres\"",
-   "link": "https://www.kicker.de/im-training-verletzt-woeber-fehlt-schalke-bis-auf-weiteres-1264031/artikel",
-   "source": "kicker",
-   "published": "2026-10-22T10:47:03Z",
-   "teaser": "Schlechte Nachrichten für den FC Schalke 04: Maximilian Wöber hat sich im Training verletzt und fehlt vorerst.",
-   "clubs": [
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/stoegers-fehlstart-hattrick-warum-gladbach-daraus-hoffnung-schoepfen-kann-1263579/artikel",
-   "title": "Stögers Fehlstart-Hattrick: Warum Gladbach daraus Hoffnung schöpfen kann",
-   "link": "https://www.kicker.de/stoegers-fehlstart-hattrick-warum-gladbach-daraus-hoffnung-schoepfen-kann-1263579/artikel",
-   "source": "kicker",
-   "published": "2026-10-22T08:34:10Z",
-   "teaser": "Gladbach ist das vierte Team der Liga-Geschichte, das mit sechs Niederlagen in eine Saison startet. Warum für die Borussia damit noch nichts verloren ist, weiß niemand besser als Kevin Stöger.",
-   "clubs": [
-    87
    ],
    "transfer": false
   }
