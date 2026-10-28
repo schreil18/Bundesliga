@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T12:52:59Z",
+ "updated": "2026-10-28T13:58:48Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/schon-die-trendwende-wie-ausnahmespieler-uzun-seinem-trainer-ein-kompliment-entlockt-1266031/artikel",
+   "title": "Schon die Trendwende? Wie \"Ausnahmespieler\" Uzun seinem Trainer ein Kompliment entlockt",
+   "link": "https://www.kicker.de/schon-die-trendwende-wie-ausnahmespieler-uzun-seinem-trainer-ein-kompliment-entlockt-1266031/artikel",
+   "source": "kicker",
+   "published": "2026-10-28T13:38:47Z",
+   "teaser": "Durch einen 3:1-Sieg beim HSV zieht die Eintracht ins DFB-Pokal-Achtelfinale ein. Can Uzun leitet zwei Tore ein, überzeugt seinen Trainer aber auch aus einem anderen Grund. Da Younes Ebnoutalib ebenfalls Eigenwerbung betreibt, bleibt die …",
+   "clubs": [
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nach-sieberts-verletzung-stieler-soll-den-klassiker-pfeifen-1266070/artikel",
+   "title": "Nach Sieberts Verletzung: Stieler soll den Klassiker pfeifen",
+   "link": "https://www.kicker.de/nach-sieberts-verletzung-stieler-soll-den-klassiker-pfeifen-1266070/artikel",
+   "source": "kicker",
+   "published": "2026-10-28T12:48:43Z",
+   "teaser": "Bayern gegen Dortmund - der deutsche Topspiel-Klassiker hat auch für die Schiedsrichter eine große Bedeutung. Für das Duell am Samstag kam es zu einer Umbesetzung, von einem FIFA-Referee zum anderen.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/daumen-schon-gesenkt-rose-springt-demichelis-zur-seite-1266068/artikel",
    "title": "Daumen schon gesenkt? Rose springt Demichelis zur Seite",
@@ -2525,32 +2550,6 @@
    "clubs": [
     16,
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/handynutzung-im-stadion-wie-der-bvb-seine-fans-ans-spiel-fesseln-moechte-1264083/artikel",
-   "title": "Handynutzung im Stadion: Wie der BVB seine Fans ans Spiel fesseln möchte",
-   "link": "https://www.kicker.de/handynutzung-im-stadion-wie-der-bvb-seine-fans-ans-spiel-fesseln-moechte-1264083/artikel",
-   "source": "kicker",
-   "published": "2026-10-22T12:26:44Z",
-   "teaser": "Der ein oder andere Fan, der Fußballspiele im Stadion verfolgt, neigt zu regelmäßigen Abschweifungen in Richtung des eigenen Smartphones. Borussia Dortmund hat eine Idee, wie sich das ändern könnte.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/reicht-bayerns-form-fuer-freiburg,bundesliga-update-vorschau-spieltag-sieben-106.html",
-   "title": "Reicht Bayerns Form für Freiburg?",
-   "link": "https://www.sportschau.de/fussball/bundesliga/reicht-bayerns-form-fuer-freiburg,bundesliga-update-vorschau-spieltag-sieben-106.html",
-   "source": "Sportschau",
-   "published": "2026-10-22T12:24:52Z",
-   "teaser": "Der SC Freiburg steht vor dem nächsten Spitzenspiel in der Fußball-Bundesliga. Nach Leverkusen ist jetzt der FC Bayern zu Gast im Breisgau. Können die Freiburger den Tabellenführer ärgern?",
-   "clubs": [
-    40,
-    6,
-    112
    ],
    "transfer": false
   }
