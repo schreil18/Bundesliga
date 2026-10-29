@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T06:53:51Z",
+ "updated": "2026-10-29T08:00:18Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/vom-bankdruecker-zum-hoffnungstraeger-chukwuemeka-deutet-seine-faehigkeiten-an-1266117/artikel",
+   "title": "Vom Bankdrücker zum Hoffnungsträger: Chukwuemeka deutet seine Fähigkeiten an",
+   "link": "https://www.kicker.de/vom-bankdruecker-zum-hoffnungstraeger-chukwuemeka-deutet-seine-faehigkeiten-an-1266117/artikel",
+   "source": "kicker",
+   "published": "2026-10-29T07:00:05Z",
+   "teaser": "Carney Chukwuemeka musste in der ersten Phase der Saison häufig von außen zuschauen. Vor einer Woche änderte sich sein Status jedoch. Nach ansprechenden Leistungen in Baku und gegen Frankfurt blitzten gegen Werder mehrmals seine …",
+   "clubs": [
+    91,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/problemloeser-keitel-wird-gegen-den-ex-klub-wichtig-1266122/artikel",
+   "title": "Problemlöser Keitel wird gegen den Ex-Klub wichtig",
+   "link": "https://www.kicker.de/problemloeser-keitel-wird-gegen-den-ex-klub-wichtig-1266122/artikel",
+   "source": "kicker",
+   "published": "2026-10-29T06:57:59Z",
+   "teaser": "Auf diese Chance hat Yannik Keitel in dieser Saison warten müssen: Ausgerechnet gegen seinen Ex-Klub SC Freiburg soll der 26-Jährige die Defensive organisieren und für den ersten Dreier seit dem 2. Spieltag sorgen.",
+   "clubs": [
+    112
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/kein-kroesche-nachfolger-spycher-bleibt-aus-privaten-gruenden-bei-young-boys-1266219/artikel",
    "title": "Kein Krösche-Nachfolger: Spycher bleibt aus privaten Gründen bei Young Boys",
@@ -2521,31 +2546,6 @@
     40,
     95,
     80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/was-beim-hsv-fuer-polzin-jetzt-von-unfassbarem-wert-ist-1264103/artikel",
-   "title": "Was beim HSV für Polzin jetzt von \"unfassbarem Wert\" ist",
-   "link": "https://www.kicker.de/was-beim-hsv-fuer-polzin-jetzt-von-unfassbarem-wert-ist-1264103/artikel",
-   "source": "kicker",
-   "published": "2026-10-22T13:46:10Z",
-   "teaser": "Der Hamburger SV peilt am Samstag den vierten Pflichtspielsieg in Serie an. Vor dem Auswärtsspiel in Paderborn verriet Coach Merlin Polzin, was für ihn \"von unfassbarem Wert\" ist.",
-   "clubs": [
-    100,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bayern-im-pech-luis-diaz-erleidet-kleinen-muskelbuendelriss-1264073/artikel",
-   "title": "Bayern im Pech: Luis Diaz erleidet kleinen Muskelbündelriss",
-   "link": "https://www.kicker.de/bayern-im-pech-luis-diaz-erleidet-kleinen-muskelbuendelriss-1264073/artikel",
-   "source": "kicker",
-   "published": "2026-10-22T13:45:06Z",
-   "teaser": "Keine guten Nachrichten für den FC Bayern München: Luis Diaz hat sich in der Champions League verletzt und fehlt dem Rekordmeister in den nächsten Wochen.",
-   "clubs": [
-    40
    ],
    "transfer": false
   }
