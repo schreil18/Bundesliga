@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T14:56:49Z",
+ "updated": "2026-10-29T15:54:00Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,33 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/rb/rb-fuellkrug-in-startelf-werder-will-horrorserie-gegen-hoffenheim-beenden-100.html",
+   "title": "Werder will Horrorserie gegen Hoffenheim beenden",
+   "link": "https://www.sportschau.de/regional/rb/rb-fuellkrug-in-startelf-werder-will-horrorserie-gegen-hoffenheim-beenden-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-29T15:19:13Z",
+   "teaser": "Nach der 2:3-Pokalpleite in Dortmund darf Niclas Füllkrug in der Liga wieder von Beginn an ran. Die Bremer warten seit zwölf Jahren auf einen Sieg gegen Hoffenheim.",
+   "clubs": [
+    7,
+    175,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-gegen-dortmund-mehr-topspiel-geht-nicht,vorschau-bundesliga-bayern-muenchen-borussia-dortmund-100.html",
+   "title": "Bayern gegen Dortmund - mehr Topspiel geht nicht",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-gegen-dortmund-mehr-topspiel-geht-nicht,vorschau-bundesliga-bayern-muenchen-borussia-dortmund-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-29T14:59:18Z",
+   "teaser": "Der FC Bayern München erwartet Borussia Dortmund am Samstag zum Bundesliga-Spitzenspiel. Alles, was man dazu wissen muss.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wann-hat-borussia-dortmund-zuletzt-gegen-bayern-gewonnen-943519/artikel",
    "title": "Wann hat Borussia Dortmund zuletzt gegen Bayern gewonnen?",
@@ -86,19 +113,6 @@
    "source": "kicker",
    "published": "2026-10-29T12:52:12Z",
    "teaser": "Borussia Dortmund will am Samstagabend in München die Tabellenspitze erobern. Ob Konstantinos Karetsas bei diesem Unterfangen eine Rolle spielen kann, entscheidet sich am Freitag.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-gegen-dortmund-mehr-topspiel-geht-nicht,vorschau-bundesliga-bayern-muenchen-borussia-dortmund-100.html",
-   "title": "Bayern gegen Dortmund - mehr Topspiel geht nicht",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-gegen-dortmund-mehr-topspiel-geht-nicht,vorschau-bundesliga-bayern-muenchen-borussia-dortmund-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-29T12:29:16Z",
-   "teaser": "Der FC Bayern München erwartet Borussia Dortmund am Samstag zum Bundesliga-Spitzenspiel. Alles, was man dazu wissen muss.",
    "clubs": [
     40,
     7
@@ -281,6 +295,18 @@
    "teaser": "Ende März 2025 musste Marco Rose in Leipzig seinen Hut nehmen, seit dem vergangenen Sommer ist der Ex-RB-Coach für den AFC Bournemouth zuständig. Nun wirft er einen Blick zurück auf seine Zeit in Leipzig und auf die aktuelle Situation von …",
    "clubs": [
     1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/rb/rb-werder-ist-abhaengig-von-fuellkrug-wird-der-torjaeger-zum-risiko-100.html",
+   "title": "Wird Füllkrug für Werder zum Risiko?",
+   "link": "https://www.sportschau.de/regional/rb/rb-werder-ist-abhaengig-von-fuellkrug-wird-der-torjaeger-zum-risiko-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-28T12:11:00Z",
+   "teaser": "Werder funktioniert offenbar nur mit Füllkrug. Elf der 20 Bremer Tore gehen auf sein Konto. Doch die Dauerbelastung und die ungeklärte Zukunft könnten \"Lücke\" zum Risiko machen.",
+   "clubs": [
+    134
    ],
    "transfer": false
   },
@@ -2523,30 +2549,6 @@
    "clubs": [
     16,
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/null-punkte-nach-sechs-spielen-so-erging-es-bundesliga-fehlstartern,borussia-moenchengladbach-fehlstart-historie-100.html",
-   "title": "Mönchengladbachs Minusserie: So erging es den Bundesliga-Fehlstartern",
-   "link": "https://www.sportschau.de/fussball/bundesliga/null-punkte-nach-sechs-spielen-so-erging-es-bundesliga-fehlstartern,borussia-moenchengladbach-fehlstart-historie-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-22T22:04:39Z",
-   "teaser": "Borussia Mönchengladbach hat vergangenes Wochenende den Bundesliga-Negativrekord von sechs Niederlagen zum Saisonstart eingestellt. Zwei Klubs schafften mit diesem Fehlstart trotzdem noch den Klassenerhalt.",
-   "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/gouweleeuw-mueller-und-der-treue-charly,rekordspieler-100.html",
-   "title": "Gouweleeuw, Müller und der \"treue Charly\"",
-   "link": "https://www.sportschau.de/fussball/bundesliga/gouweleeuw-mueller-und-der-treue-charly,rekordspieler-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-22T22:04:00Z",
-   "teaser": "Jeffrey Gouweleeuw steht kurz davor, alleiniger Rekordspieler des FC Augsburg in der Fußball-Bundesliga zu werden. Er wäre dann in prominenter Gesellschaft mit Thomas Müller und Karl-Heinz-Körbel, dem \"treuen Charly\".",
-   "clubs": [
-    95
    ],
    "transfer": false
   }
