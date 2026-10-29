@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T12:53:43Z",
+ "updated": "2026-10-29T14:01:59Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,12 +16,99 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/thioune-stellt-klar-ich-tue-mich-schwer-jetzt-nur-von-einem-torwartfehler-zu-sprechen-1266539/artikel",
+   "title": "Thioune stellt klar: \"Ich tue mich schwer, jetzt nur von einem Torwartfehler zu sprechen\"",
+   "link": "https://www.kicker.de/thioune-stellt-klar-ich-tue-mich-schwer-jetzt-nur-von-einem-torwartfehler-zu-sprechen-1266539/artikel",
+   "source": "kicker",
+   "published": "2026-10-29T13:50:00Z",
+   "teaser": "Daniel Thioune hat vor dem Bundesliga-Duell mit Hoffenheim klargestellt, dass das Positive beim DFB-Pokal-Aus in Dortmund eindeutig überwiegt. Apropos Übergewicht: Das Ordnungsamt hat den zuletzt gesperrten Block 53 im Weserstadion wieder …",
+   "clubs": [
+    7,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/gladbachs-lazarett-lichtet-sich-aber-blessin-bremst-bei-kleindienst-1266534/artikel",
+   "title": "Gladbachs Lazarett lichtet sich - aber Blessin bremst bei Kleindienst",
+   "link": "https://www.kicker.de/gladbachs-lazarett-lichtet-sich-aber-blessin-bremst-bei-kleindienst-1266534/artikel",
+   "source": "kicker",
+   "published": "2026-10-29T13:48:54Z",
+   "teaser": "Die lange Ausfall-Liste bei Borussia Mönchengladbach schrumpft allmählich. Gegen Paderborn wird dafür ein anderer Stammspieler fehlen - und der Kapitän wird auch noch länger auf seine Rückkehr warten müssen.",
+   "clubs": [
+    87,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/dauerbrenner-stiller-fehlt-stuttgart-in-leverkusen-1266531/artikel",
+   "title": "Dauerbrenner Stiller fehlt Stuttgart in Leverkusen",
+   "link": "https://www.kicker.de/dauerbrenner-stiller-fehlt-stuttgart-in-leverkusen-1266531/artikel",
+   "source": "kicker",
+   "published": "2026-10-29T13:15:43Z",
+   "teaser": "Er ist der Dauerbrenner beim VfB Stuttgart, beim Gastspiel der Schwaben bei Bayer Leverkusen wird Angelo Stiller aber fehlen. Auch Leo Sauer wird VfB-Coach Sebastian Hoeneß nicht zur Verfügung stehen.",
+   "clubs": [
+    6,
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fraktur-des-wadenbeins-naechster-schwerer-rueckschlag-fuer-hoffenheims-gendrey-1266533/artikel",
+   "title": "Fraktur des Wadenbeins: Nächster schwerer Rückschlag für Hoffenheims Gendrey",
+   "link": "https://www.kicker.de/fraktur-des-wadenbeins-naechster-schwerer-rueckschlag-fuer-hoffenheims-gendrey-1266533/artikel",
+   "source": "kicker",
+   "published": "2026-10-29T13:06:27Z",
+   "teaser": "Seit Donnerstag herrscht bittere Gewissheit für die TSG Hoffenheim: Valentin Gendrey hat sich beim Pokal-Aus in Kiel das Wadenbein gebrochen und fällt lange aus. Es ist die vierte schwere Verletzung des Franzosen in seinen knapp zwei …",
+   "clubs": [
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bvb-nah-dran-an-bayern-karetsas-entscheidung-am-freitag-1266524/artikel",
+   "title": "BVB \"nah dran\" an Bayern - Karetsas-Entscheidung am Freitag",
+   "link": "https://www.kicker.de/bvb-nah-dran-an-bayern-karetsas-entscheidung-am-freitag-1266524/artikel",
+   "source": "kicker",
+   "published": "2026-10-29T12:52:12Z",
+   "teaser": "Borussia Dortmund will am Samstagabend in München die Tabellenspitze erobern. Ob Konstantinos Karetsas bei diesem Unterfangen eine Rolle spielen kann, entscheidet sich am Freitag.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/bayern-gegen-dortmund-mehr-topspiel-geht-nicht,vorschau-bundesliga-bayern-muenchen-borussia-dortmund-100.html",
    "title": "Bayern gegen Dortmund - mehr Topspiel geht nicht",
    "link": "https://www.sportschau.de/fussball/bundesliga/bayern-gegen-dortmund-mehr-topspiel-geht-nicht,vorschau-bundesliga-bayern-muenchen-borussia-dortmund-100.html",
    "source": "Sportschau",
    "published": "2026-10-29T12:29:16Z",
    "teaser": "Der FC Bayern München erwartet Borussia Dortmund am Samstag zum Bundesliga-Spitzenspiel. Alles, was man dazu wissen muss.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kovac-lobt-kane-richtig-grossen-sprung-gemacht-1266529/video",
+   "title": "Kovac lobt Kane: \"Richtig großen Sprung gemacht\"",
+   "link": "https://www.kicker.de/kovac-lobt-kane-richtig-grossen-sprung-gemacht-1266529/video",
+   "source": "kicker",
+   "published": "2026-10-29T12:22:41Z",
+   "teaser": "Niko Kovac schwärmt vor dem Klassiker in München von Harry Kane. Der Ballon-d'Or-Gewinner habe nochmals einen Sprung gemacht und könne nur im Kollektiv gestoppt werden.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kovac-endlich-mal-ein-spannendes-aufeinandertreffen-1266522/video",
+   "title": "Kovac: \"Endlich mal ein spannendes Aufeinandertreffen\"",
+   "link": "https://www.kicker.de/kovac-endlich-mal-ein-spannendes-aufeinandertreffen-1266522/video",
+   "source": "kicker",
+   "published": "2026-10-29T12:08:27Z",
+   "teaser": "Es ist das absolute Topspiel des achten Bundesligaspieltags, der Zweite gastiert beim Ersten: Bayern München empfängt Borussia Dortmund. BVB-Trainer Niko Kovac erklärt den Stellenwert dieser \"spannenden\" Partie.",
    "clubs": [
     40,
     7
@@ -87,6 +174,18 @@
    "teaser": "Auf diese Chance hat Yannik Keitel in dieser Saison warten müssen: Ausgerechnet gegen seinen Ex-Klub SC Freiburg soll der 26-Jährige die Defensive organisieren und für den ersten Dreier seit dem 2. Spieltag sorgen.",
    "clubs": [
     112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bischof-habe-kennengelernt-was-bayern-bedeutet-1266283/artikel",
+   "title": "Bischof: \"Habe kennengelernt, was Bayern bedeutet\"",
+   "link": "https://www.kicker.de/bischof-habe-kennengelernt-was-bayern-bedeutet-1266283/artikel",
+   "source": "kicker",
+   "published": "2026-10-28T23:47:15Z",
+   "teaser": "Der FC Bayern hat turbulente Tage hinter sich. Nach dem 6:1-Erfolg in der 2. Pokalrunde über den 1. FC Magdeburg hat sich unter anderem Tom Bischof zu den vergangenen Tagen geäußert.",
+   "clubs": [
+    40
    ],
    "transfer": false
   },
@@ -2446,105 +2545,6 @@
    "published": "2026-10-22T19:43:51Z",
    "teaser": "Beim Sabah FK ersetze Niko Kovac den verletzten Konstantinos Karetsas mit Carney Chukwuemeka. Der bekam eine leicht veränderte Rolle zugeteilt. Eine, die ihm sichtlich guttat.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-koelns-mikey-moore-wann-kommt-der-knall-100.html",
-   "title": "Kölns Mikey Moore - wann kommt der Knall?",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-koelns-mikey-moore-wann-kommt-der-knall-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-22T19:34:46Z",
-   "teaser": "Mikey Moore hat beim 1. FC Köln bislang nur angedeutet, was in ihm steckt. Dabei braucht die Kölner Offensive seine Impulse dringend.",
-   "clubs": [
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-diagnose-da-fcb-vorerst-ohne-daz-2026-kein-einsatz-mehr-102.html",
-   "title": "Bayern \"vorerst\" ohne Díaz - 2026 kein Einsatz mehr?",
-   "link": "https://www.sportschau.de/regional/br/br-diagnose-da-fcb-vorerst-ohne-daz-2026-kein-einsatz-mehr-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-22T19:22:35Z",
-   "teaser": "Der FC Bayern München muss \"vorerst\" auf Luis Díaz verzichten. Der Kolumbianer zog sich beim Champions-League-Duell gegen den FC Arsenal eine Muskelverletzung zu und könnte sogar für den Rest des Jahres ausfallen.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bonhof-weist-ruecktrittsforderungen-zurueck-und-laesst-erneute-kandidatur-offen-1264159/artikel",
-   "title": "Bonhof weist Rücktrittsforderungen zurück - und lässt erneute Kandidatur offen",
-   "link": "https://www.kicker.de/bonhof-weist-ruecktrittsforderungen-zurueck-und-laesst-erneute-kandidatur-offen-1264159/artikel",
-   "source": "kicker",
-   "published": "2026-10-22T18:34:59Z",
-   "teaser": "In der Krise von Borussia Mönchengladbach ist zuletzt auch Präsident Rainer Bonhof ins Kreuzfeuer der Kritik geraten. Nun hat sich der 74-Jährige zu den Rücktrittsforderungen des Gladbacher Fan-Dachverbands geäußert.",
-   "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wagners-plan-um-schalke-zu-schlagen-die-basics-des-fussballs-leben-1264139/video",
-   "title": "Wagners Plan um Schalke zu schlagen: \"Die Basics des Fußballs leben\"",
-   "link": "https://www.kicker.de/wagners-plan-um-schalke-zu-schlagen-die-basics-des-fussballs-leben-1264139/video",
-   "source": "kicker",
-   "published": "2026-10-22T15:54:59Z",
-   "teaser": "René Wagner hat einen klaren Plan mit Blick auf das Duell mit Schalke 04. Der Köln-Coach analysiert die Gelsenkirchener und verrät, dass nur die Grundtugenden des Fußballs zum Erfolg führen können.",
-   "clubs": [
-    65,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-gehen-die-spieler-aus-100.html",
-   "title": "Schalke 04 gehen die Spieler aus",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-gehen-die-spieler-aus-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-22T15:32:47Z",
-   "teaser": "Schlechter könnte die Aussicht auf das Bundesligaspiel beim 1. FC Köln für Schalke 04 kaum sein: Es fallen weitere Spieler aus.",
-   "clubs": [
-    65,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/blessin-ueber-stimmung-ist-ja-klar-dass-hier-niemand-party-macht-1264136/video",
-   "title": "Blessin über Stimmung: \"Ist ja klar, dass hier niemand Party macht\"",
-   "link": "https://www.kicker.de/blessin-ueber-stimmung-ist-ja-klar-dass-hier-niemand-party-macht-1264136/video",
-   "source": "kicker",
-   "published": "2026-10-22T15:32:08Z",
-   "teaser": "Alexander Blessin spricht über die Stimmung innerhalb der Gladbacher Mannschaft. Dem Team ist klar, dass die Lage nicht einfach ist, trotzdem ist es für den Trainer essenziell, dass die Mannschaft den Spaß nicht verliert.",
-   "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-vorbilder-machen-mut-jetzt-muss-gladbach-eins-werden-100.html",
-   "title": "Vorbilder machen Mut - Gelingt Gladbach die Wende in Stuttgart?",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-vorbilder-machen-mut-jetzt-muss-gladbach-eins-werden-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-22T15:21:00Z",
-   "teaser": "Die Historie zeigt: Ein Fehlstart wie ihn Borussia Mönchengladbach hingelegt hat, muss längst nicht den Abstieg bedeuten.",
-   "clubs": [
-    16,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ploetzlich-vorstandsboss-wie-hellmann-seine-neue-rolle-in-frankfurt-interpretiert-1264088/artikel",
-   "title": "Plötzlich Vorstandsboss: Wie Hellmann seine neue Rolle in Frankfurt interpretiert",
-   "link": "https://www.kicker.de/ploetzlich-vorstandsboss-wie-hellmann-seine-neue-rolle-in-frankfurt-interpretiert-1264088/artikel",
-   "source": "kicker",
-   "published": "2026-10-22T15:05:58Z",
-   "teaser": "Nach dem Aus von Sportvorstand Markus Krösche gibt es viel Gesprächsbedarf in Frankfurt. Der zum Vorstandsvorsitzenden aufgestiegene neue \"Eintracht-Kapitän\" Axel Hellmann vermittelte am Donnerstag gleich mehrere wichtige Botschaften.",
-   "clubs": [
-    91
-   ],
    "transfer": false
   }
  ]
