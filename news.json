@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T18:49:28Z",
+ "updated": "2026-10-29T19:49:56Z",
  "sources": [
   {
    "name": "kicker",
@@ -80,6 +80,19 @@
    "id": "https://www.kicker.de/topspiel-auf-augenhoehe-damit-tue-ich-mich-schwer-1266599/video",
    "title": "Topspiel auf Augenhöhe? \"Damit tue ich mich schwer\"",
    "link": "https://www.kicker.de/topspiel-auf-augenhoehe-damit-tue-ich-mich-schwer-1266599/video",
+   "source": "kicker",
+   "published": "2026-10-29T15:11:07Z",
+   "teaser": "In unserer Vorschau auf den Klassiker zwischen dem FC Bayern und Borussia Dortmund besprechen wir mit Ex-Profi Thomas Helmer die Frage: Hat der BVB am Samstagabend in München eine Chance? Spoiler: Der ehemalige Bayern- und Dortmund-Akteur …",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ein-duell-auf-augenhoehe-die-show-zum-topspiel-fcb-vs-bvb-1266599/video",
+   "title": "Ein Duell auf Augenhöhe? Die Show zum Topspiel FCB vs. BVB",
+   "link": "https://www.kicker.de/ein-duell-auf-augenhoehe-die-show-zum-topspiel-fcb-vs-bvb-1266599/video",
    "source": "kicker",
    "published": "2026-10-29T15:11:07Z",
    "teaser": "In unserer Vorschau auf den Klassiker zwischen dem FC Bayern und Borussia Dortmund besprechen wir mit Ex-Profi Thomas Helmer die Frage: Hat der BVB am Samstagabend in München eine Chance? Spoiler: Der ehemalige Bayern- und Dortmund-Akteur …",
@@ -224,6 +237,18 @@
    "clubs": [
     40,
     7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/schubser-gegen-eigenen-mannschaftsarzt-schalke-will-mit-hwang-sprechen-1266452/artikel",
+   "title": "Schubser gegen eigenen Mannschaftsarzt: Schalke will mit Hwang sprechen",
+   "link": "https://www.kicker.de/schubser-gegen-eigenen-mannschaftsarzt-schalke-will-mit-hwang-sprechen-1266452/artikel",
+   "source": "kicker",
+   "published": "2026-10-29T11:11:54Z",
+   "teaser": "Hee Chan Hwang versteckte im Gastspiel bei Dynamo Dresden seinen Ärger über einen ausbleibenden Pfiff nicht - im Gegenteil. Aus Sicht von Miron Muslic schlug er sogar über die Stränge.",
+   "clubs": [
+    9
    ],
    "transfer": false
   },
@@ -2521,31 +2546,6 @@
    "clubs": [
     16,
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/zweistellige-ausfallliste-auch-kapitaen-diks-fehlt-gladbach-in-stuttgart-1264294/artikel",
-   "title": "Zweistellige Ausfallliste: Auch Kapitän Diks fehlt Gladbach in Stuttgart",
-   "link": "https://www.kicker.de/zweistellige-ausfallliste-auch-kapitaen-diks-fehlt-gladbach-in-stuttgart-1264294/artikel",
-   "source": "kicker",
-   "published": "2026-10-23T09:43:28Z",
-   "teaser": "Die Lage bei Bundesliga-Schlusslicht Borussia Mönchengladbach ist vor dem 7. Spieltag ohnehin schon prekär. Nun fehlt beim Auswärtsspiel in Stuttgart auch noch Abwehrchef und Vize-Kapitän Kevin Diks.",
-   "clubs": [
-    16,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-schalkes-karius-und-die-hoffnung-aufs-dfb-team-100.html",
-   "title": "Schalkes Karius und die Hoffnung aufs DFB-Team",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-schalkes-karius-und-die-hoffnung-aufs-dfb-team-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-23T09:27:02Z",
-   "teaser": "Schalkes Karius hat sich mit starken Leistungen für die Nationalelf empfohlen. Aber sieht das Bundestrainer Klopp auch so?",
-   "clubs": [
-    9
    ],
    "transfer": false
   }
