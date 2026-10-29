@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T17:49:56Z",
+ "updated": "2026-10-29T18:49:28Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/wie-kovac-und-kompany-ihre-trainerteams-organisieren,bundesliga-update-rueckblick-spieltag-sechsundzwanzig-104.html",
+   "title": "Bundesliga Update Podcast: Wie arbeiten Trainer in der Bundesliga?",
+   "link": "https://www.sportschau.de/wie-kovac-und-kompany-ihre-trainerteams-organisieren,bundesliga-update-rueckblick-spieltag-sechsundzwanzig-104.html",
+   "source": "Sportschau",
+   "published": "2026-10-29T18:11:00Z",
+   "teaser": "Tiefe Einblicke gibt es nicht. Das Bundesliga Update Team spricht drüber: Wie teilen sich Bundesliga-Trainer ihre Arbeit auf?",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/rb/rb-fuellkrug-in-startelf-werder-will-horrorserie-gegen-hoffenheim-beenden-100.html",
    "title": "Werder will Horrorserie gegen Hoffenheim beenden",
@@ -2536,19 +2546,6 @@
    "teaser": "Schalkes Karius hat sich mit starken Leistungen für die Nationalelf empfohlen. Aber sieht das Bundestrainer Klopp auch so?",
    "clubs": [
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-will-von-gladbach-2-0-nichts-wissen-100.html",
-   "title": "Eintracht Frankfurt will von \"Gladbach 2.0\" nichts wissen",
-   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-will-von-gladbach-2-0-nichts-wissen-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-23T09:25:46Z",
-   "teaser": "An Spekulationen zum Markus-Krösche-Nachfolger will sich der Frankfurter Vorstandsvorsitzende Axel Hellmann nicht beteiligen. Dennoch sendet er diverse Botschaften - eine zentrale: Die Eintracht will wieder angreifen. Diesmal nur auf …",
-   "clubs": [
-    91,
-    87
    ],
    "transfer": false
   }
