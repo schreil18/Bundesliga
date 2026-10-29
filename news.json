@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T15:54:00Z",
+ "updated": "2026-10-29T16:54:08Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,31 @@
  ],
  "items": [
   {
+   "id": "https://www.sportschau.de/regional/swr/swr-vfb-stuermer-dzenan-pejcinovic-und-der-25-millionen-euro-rucksack-100.html",
+   "title": "VfB-Stürmer Dzenan Pejcinovic und der 25-Millionen-Euro-Rucksack",
+   "link": "https://www.sportschau.de/regional/swr/swr-vfb-stuermer-dzenan-pejcinovic-und-der-25-millionen-euro-rucksack-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-29T16:19:22Z",
+   "teaser": "Dzenan Pejcinovic kam im Sommer als 25 Millionen Euro schwere Zukunftshoffnung zum VfB Stuttgart. Bislang gab er eine weitgehend unglückliche Figur ab. Es wirkt, als ob sich der Youngster zu viel Druck macht.",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/blessin-warnt-wenn-wir-es-zu-schnell-spielerisch-loesen-wollen-1266624/video",
+   "title": "Blessin warnt: \"Wenn wir es zu schnell spielerisch lösen wollen\"",
+   "link": "https://www.kicker.de/blessin-warnt-wenn-wir-es-zu-schnell-spielerisch-loesen-wollen-1266624/video",
+   "source": "kicker",
+   "published": "2026-10-29T15:57:32Z",
+   "teaser": "Gladbach-Trainer Alexander Blessin spricht auf der Pressekonferenz vor dem Spiel gegen Paderborn über das Spielerische in Gladbachs Fußball und den Youngster Wael Mohya.",
+   "clubs": [
+    87,
+    31
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/regional/rb/rb-fuellkrug-in-startelf-werder-will-horrorserie-gegen-hoffenheim-beenden-100.html",
    "title": "Werder will Horrorserie gegen Hoffenheim beenden",
    "link": "https://www.sportschau.de/regional/rb/rb-fuellkrug-in-startelf-werder-will-horrorserie-gegen-hoffenheim-beenden-100.html",
@@ -30,8 +55,21 @@
    "transfer": false
   },
   {
+   "id": "https://www.kicker.de/topspiel-auf-augenhoehe-damit-tue-ich-mich-schwer-1266599/video",
+   "title": "Topspiel auf Augenhöhe? \"Damit tue ich mich schwer\"",
+   "link": "https://www.kicker.de/topspiel-auf-augenhoehe-damit-tue-ich-mich-schwer-1266599/video",
+   "source": "kicker",
+   "published": "2026-10-29T15:11:07Z",
+   "teaser": "In unserer Vorschau auf den Klassiker zwischen dem FC Bayern und Borussia Dortmund besprechen wir mit Ex-Profi Thomas Helmer die Frage: Hat der BVB am Samstagabend in München eine Chance? Spoiler: Der ehemalige Bayern- und Dortmund-Akteur …",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/bayern-gegen-dortmund-mehr-topspiel-geht-nicht,vorschau-bundesliga-bayern-muenchen-borussia-dortmund-100.html",
-   "title": "Bayern gegen Dortmund - mehr Topspiel geht nicht",
+   "title": "TV, Stream, Aufstellung: Alle Infos zu Bayern gegen Dortmund",
    "link": "https://www.sportschau.de/fussball/bundesliga/bayern-gegen-dortmund-mehr-topspiel-geht-nicht,vorschau-bundesliga-bayern-muenchen-borussia-dortmund-100.html",
    "source": "Sportschau",
    "published": "2026-10-29T14:59:18Z",
@@ -2510,44 +2548,6 @@
    "published": "2026-10-23T08:45:45Z",
    "teaser": "An der Spitze der Bundesliga-Tabelle entwickelt sich aktuell ein Vierkampf, im Keller hofft Borussia Mönchengladbach auf seinen ersten Punkt. Bist du gut vorbereitet auf den 7. Spieltag?",
    "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/starker-deutscher-europapokal-start-zeigt-sich-im-uefa-ranking-1264267/artikel",
-   "title": "Starker deutscher Europapokal-Start zeigt sich im UEFA-Ranking",
-   "link": "https://www.kicker.de/starker-deutscher-europapokal-start-zeigt-sich-im-uefa-ranking-1264267/artikel",
-   "source": "kicker",
-   "published": "2026-10-23T08:41:40Z",
-   "teaser": "In der Europa League zeigten Leverkusen und Hoffenheim ihren Gegnern die Grenzen auf und rundeten damit einen starken ersten Gesamteindruck der Bundesliga im Europapokal ab. Das schlägt sich auch im UEFA-Ranking nieder.",
-   "clubs": [
-    6,
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bundestrainer-oder-noch-experte-kahn-wundert-sich-ueber-klopp-1264258/artikel",
-   "title": "Bundestrainer oder noch Experte? Kahn wundert sich über Klopp",
-   "link": "https://www.kicker.de/bundestrainer-oder-noch-experte-kahn-wundert-sich-ueber-klopp-1264258/artikel",
-   "source": "kicker",
-   "published": "2026-10-23T08:22:04Z",
-   "teaser": "Jürgen Klopp wunderte sich in einem TV-Interview über das Abwehrverhalten des FC Bayern. Nun reagiert Oliver Kahn und zeigt kein Verständnis für den Bundestrainer.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wer-uebertraegt-stuttgart-gegen-gladbach-heute-live-im-tv-stream-1263277/artikel",
-   "title": "Wer überträgt Stuttgart gegen Gladbach heute live im TV & Stream?",
-   "link": "https://www.kicker.de/wer-uebertraegt-stuttgart-gegen-gladbach-heute-live-im-tv-stream-1263277/artikel",
-   "source": "kicker",
-   "published": "2026-10-23T04:00:00Z",
-   "teaser": "Zum Auftakt des 7. Spieltags in der Bundesliga empfängt der VfB Stuttgart die kriselnde Borussia aus Mönchengladbach. Wo ihr die Partie heute live im TV und Stream verfolgen könnt, erfahrt ihr hier.",
-   "clubs": [
-    16,
     87
    ],
    "transfer": false
