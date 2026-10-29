@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T14:01:59Z",
+ "updated": "2026-10-29T14:56:49Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wann-hat-borussia-dortmund-zuletzt-gegen-bayern-gewonnen-943519/artikel",
+   "title": "Wann hat Borussia Dortmund zuletzt gegen Bayern gewonnen?",
+   "link": "https://www.kicker.de/wann-hat-borussia-dortmund-zuletzt-gegen-bayern-gewonnen-943519/artikel",
+   "source": "kicker",
+   "published": "2026-10-29T14:00:00Z",
+   "teaser": "Jedes Jahr aufs Neue messen sich Borussia Dortmund und der FC Bayern München in der Bundesliga. Doch wann konnte der BVB zuletzt gegen den FCB gewinnen?",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/thioune-stellt-klar-ich-tue-mich-schwer-jetzt-nur-von-einem-torwartfehler-zu-sprechen-1266539/artikel",
    "title": "Thioune stellt klar: \"Ich tue mich schwer, jetzt nur von einem Torwartfehler zu sprechen\"",
@@ -2535,16 +2548,6 @@
    "clubs": [
     95
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/chukwuemekas-positiver-auftritt-und-ein-kniff-von-kovac-1263779/artikel",
-   "title": "Chukwuemekas \"positiver Auftritt\" und ein Kniff von Kovac",
-   "link": "https://www.kicker.de/chukwuemekas-positiver-auftritt-und-ein-kniff-von-kovac-1263779/artikel",
-   "source": "kicker",
-   "published": "2026-10-22T19:43:51Z",
-   "teaser": "Beim Sabah FK ersetze Niko Kovac den verletzten Konstantinos Karetsas mit Carney Chukwuemeka. Der bekam eine leicht veränderte Rolle zugeteilt. Eine, die ihm sichtlich guttat.",
-   "clubs": [],
    "transfer": false
   }
  ]
