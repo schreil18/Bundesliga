@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T16:54:08Z",
+ "updated": "2026-10-29T17:49:56Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/rb/rb-fuellkrug-in-startelf-werder-will-horrorserie-gegen-hoffenheim-beenden-100.html",
+   "title": "Werder will Horrorserie gegen Hoffenheim beenden",
+   "link": "https://www.sportschau.de/regional/rb/rb-fuellkrug-in-startelf-werder-will-horrorserie-gegen-hoffenheim-beenden-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-29T17:45:24Z",
+   "teaser": "Nach der 2:3-Pokalpleite in Dortmund darf Niclas Füllkrug in der Liga wieder von Beginn an ran. Die Bremer warten seit zwölf Jahren auf einen Sieg gegen Hoffenheim.",
+   "clubs": [
+    7,
+    175,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/frankfurt-erweitert-hardungs-kompetenzen-und-bindet-rode-ein-1266630/artikel",
+   "title": "Frankfurt erweitert Hardungs Kompetenzen und bindet Rode ein",
+   "link": "https://www.kicker.de/frankfurt-erweitert-hardungs-kompetenzen-und-bindet-rode-ein-1266630/artikel",
+   "source": "kicker",
+   "published": "2026-10-29T16:55:30Z",
+   "teaser": "Bis bei Eintracht Frankfurt die Suche nach einem neuen Sportvorstand abgeschlossen ist, rücken Timmo Hardung und der langjährige Kapitän Sebastian Rode verstärkt in den Fokus.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/swr/swr-vfb-stuermer-dzenan-pejcinovic-und-der-25-millionen-euro-rucksack-100.html",
    "title": "VfB-Stürmer Dzenan Pejcinovic und der 25-Millionen-Euro-Rucksack",
@@ -37,20 +63,6 @@
    "clubs": [
     87,
     31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/rb/rb-fuellkrug-in-startelf-werder-will-horrorserie-gegen-hoffenheim-beenden-100.html",
-   "title": "Werder will Horrorserie gegen Hoffenheim beenden",
-   "link": "https://www.sportschau.de/regional/rb/rb-fuellkrug-in-startelf-werder-will-horrorserie-gegen-hoffenheim-beenden-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-29T15:19:13Z",
-   "teaser": "Nach der 2:3-Pokalpleite in Dortmund darf Niclas Füllkrug in der Liga wieder von Beginn an ran. Die Bremer warten seit zwölf Jahren auf einen Sieg gegen Hoffenheim.",
-   "clubs": [
-    7,
-    175,
-    134
    ],
    "transfer": false
   },
@@ -2536,18 +2548,6 @@
    "teaser": "An Spekulationen zum Markus-Krösche-Nachfolger will sich der Frankfurter Vorstandsvorsitzende Axel Hellmann nicht beteiligen. Dennoch sendet er diverse Botschaften - eine zentrale: Die Eintracht will wieder angreifen. Diesmal nur auf …",
    "clubs": [
     91,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/das-bundesliga-quiz-zum-7-spieltag-1264265/artikel",
-   "title": "Das Bundesliga-Quiz zum 7. Spieltag",
-   "link": "https://www.kicker.de/das-bundesliga-quiz-zum-7-spieltag-1264265/artikel",
-   "source": "kicker",
-   "published": "2026-10-23T08:45:45Z",
-   "teaser": "An der Spitze der Bundesliga-Tabelle entwickelt sich aktuell ein Vierkampf, im Keller hofft Borussia Mönchengladbach auf seinen ersten Punkt. Bist du gut vorbereitet auf den 7. Spieltag?",
-   "clubs": [
     87
    ],
    "transfer": false
