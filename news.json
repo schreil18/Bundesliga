@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T11:43:22Z",
+ "updated": "2026-10-29T12:53:43Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,44 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-gegen-dortmund-mehr-topspiel-geht-nicht,vorschau-bundesliga-bayern-muenchen-borussia-dortmund-100.html",
+   "title": "Bayern gegen Dortmund - mehr Topspiel geht nicht",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-gegen-dortmund-mehr-topspiel-geht-nicht,vorschau-bundesliga-bayern-muenchen-borussia-dortmund-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-29T12:29:16Z",
+   "teaser": "Der FC Bayern München erwartet Borussia Dortmund am Samstag zum Bundesliga-Spitzenspiel. Alles, was man dazu wissen muss.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/chatzialexiou-und-frankfurt-die-anzeichen-verdichten-sich-1266503/artikel",
+   "title": "Chatzialexiou und Frankfurt: Die Anzeichen verdichten sich",
+   "link": "https://www.kicker.de/chatzialexiou-und-frankfurt-die-anzeichen-verdichten-sich-1266503/artikel",
+   "source": "kicker",
+   "published": "2026-10-29T12:06:36Z",
+   "teaser": "Verlässt Joti Chatzialexiou Nürnberg in Richtung Frankfurt? Die Anzeichen verdichten sich - und womöglich gibt es gar nicht mehr allzu viel zu verhandeln.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/das-bundesliga-quiz-zum-8-spieltag-1266506/artikel",
+   "title": "Das Bundesliga-Quiz zum 8. Spieltag",
+   "link": "https://www.kicker.de/das-bundesliga-quiz-zum-8-spieltag-1266506/artikel",
+   "source": "kicker",
+   "published": "2026-10-29T12:03:49Z",
+   "teaser": "Das Wochenende steht ganz im Zeichen des Bundesliga-Schlagerspiels zwischen dem FC Bayern und Borussia Dortmund, die aktuell punktgleich sind. Wie gut bist du auf den 8. Spieltag vorbereitet?",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/sge-kandidat-spycher-verlaesst-bern-aber-erst-im-sommer-2027-1266446/artikel",
    "title": "SGE-Kandidat Spycher verlässt Bern - aber erst im Sommer 2027",
@@ -2506,44 +2544,6 @@
    "teaser": "Nach dem Aus von Sportvorstand Markus Krösche gibt es viel Gesprächsbedarf in Frankfurt. Der zum Vorstandsvorsitzenden aufgestiegene neue \"Eintracht-Kapitän\" Axel Hellmann vermittelte am Donnerstag gleich mehrere wichtige Botschaften.",
    "clubs": [
     91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hellmann-ueber-transferstrategie-der-eintracht-modifikation-ist-das-zauberwort-1264130/video",
-   "title": "Hellmann über Transferstrategie der Eintracht: \"Modifikation ist das Zauberwort\"",
-   "link": "https://www.kicker.de/hellmann-ueber-transferstrategie-der-eintracht-modifikation-ist-das-zauberwort-1264130/video",
-   "source": "kicker",
-   "published": "2026-10-22T14:48:56Z",
-   "teaser": "Axel Hellmann, Vorstandssprecher der Eintracht Frankfurt spricht auf einer Pressekonferenz über die aktuelle Lage der Eintracht, den Spielstil, der vermisst wird und über mögliche Gladbach-Vergleiche.",
-   "clubs": [
-    91,
-    87
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/augsburgs-kampf-gegen-die-krise-und-gegentore-zum-schluss-1264060/artikel",
-   "title": "Augsburgs Kampf gegen die Krise und Gegentore zum Schluss",
-   "link": "https://www.kicker.de/augsburgs-kampf-gegen-die-krise-und-gegentore-zum-schluss-1264060/artikel",
-   "source": "kicker",
-   "published": "2026-10-22T14:47:05Z",
-   "teaser": "Der FC Augsburg hat in dieser Saison schon sportliche Ausrufezeichen gesetzt, zuletzt aber viermal nicht gewonnen. Für einen Weg aus dieser sportlichen Delle muss die Defensive besser stehen.",
-   "clubs": [
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/schalker-personalsorgen-woeber-fehlt-bis-jahresende-karaman-in-koeln-1264031/artikel",
-   "title": "Schalker Personalsorgen: Wöber fehlt bis Jahresende, Karaman in Köln",
-   "link": "https://www.kicker.de/schalker-personalsorgen-woeber-fehlt-bis-jahresende-karaman-in-koeln-1264031/artikel",
-   "source": "kicker",
-   "published": "2026-10-22T14:10:39Z",
-   "teaser": "Schlechte Nachrichten für den FC Schalke 04: Neben Maximilian Wöber, der laut Trainer Miron Muslic langfristig fehlt, fällt unter anderem auch Kapitän Kenan Karaman in Köln aus.",
-   "clubs": [
-    65,
-    9
    ],
    "transfer": false
   }
