@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T20:44:03Z",
+ "updated": "2026-10-29T21:42:32Z",
  "sources": [
   {
    "name": "kicker",
@@ -48,18 +48,6 @@
    "teaser": "Bis bei Eintracht Frankfurt die Suche nach einem neuen Sportvorstand abgeschlossen ist, rücken Timmo Hardung und der langjährige Kapitän Sebastian Rode verstärkt in den Fokus.",
    "clubs": [
     91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/swr/swr-vfb-stuermer-dzenan-pejcinovic-und-der-25-millionen-euro-rucksack-100.html",
-   "title": "VfB-Stürmer Dzenan Pejcinovic und der 25-Millionen-Euro-Rucksack",
-   "link": "https://www.sportschau.de/regional/swr/swr-vfb-stuermer-dzenan-pejcinovic-und-der-25-millionen-euro-rucksack-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-29T16:19:22Z",
-   "teaser": "Dzenan Pejcinovic kam im Sommer als 25 Millionen Euro schwere Zukunftshoffnung zum VfB Stuttgart. Bislang gab er eine weitgehend unglückliche Figur ab. Es wirkt, als ob sich der Youngster zu viel Druck macht.",
-   "clubs": [
-    16
    ],
    "transfer": false
   },
@@ -200,6 +188,18 @@
    "published": "2026-10-29T12:22:41Z",
    "teaser": "Niko Kovac schwärmt vor dem Klassiker in München von Harry Kane. Der Ballon-d'Or-Gewinner habe nochmals einen Sprung gemacht und könne nur im Kollektiv gestoppt werden.",
    "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/swr/swr-vfb-stuermer-dzenan-pejcinovic-und-der-25-millionen-euro-rucksack-100.html",
+   "title": "VfB-Stürmer Dzenan Pejcinovic und der 25-Millionen-Euro-Rucksack",
+   "link": "https://www.sportschau.de/regional/swr/swr-vfb-stuermer-dzenan-pejcinovic-und-der-25-millionen-euro-rucksack-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-29T12:12:49Z",
+   "teaser": "Dzenan Pejcinovic kam im Sommer als 25 Millionen Euro schwere Zukunftshoffnung zum VfB Stuttgart. Bislang gab er eine weitgehend unglückliche Figur ab. Es wirkt, als ob sich der Youngster zu viel Druck macht.",
+   "clubs": [
+    16
+   ],
    "transfer": false
   },
   {
