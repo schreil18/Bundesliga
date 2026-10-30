@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T12:53:25Z",
+ "updated": "2026-10-30T13:59:32Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wagner-von-steffen-baumgart-gibt-viele-goldene-ratschlaege-1266830/video",
+   "title": "Wagner: \"Von Steffen Baumgart gibt viele goldene Ratschläge\"",
+   "link": "https://www.kicker.de/wagner-von-steffen-baumgart-gibt-viele-goldene-ratschlaege-1266830/video",
+   "source": "kicker",
+   "published": "2026-10-30T13:47:12Z",
+   "teaser": "Köln-Trainer René Wagner spricht vor dem Bundesliga-Duell gegen Union Berlin über die Schlüsse aus dem deutlichen Pokal-Sieg und ein Gespräch mit dem ehemaligen Köln und Union-Trainer Stefffen Baumgart.",
+   "clubs": [
+    80,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/disziplin-appell-von-muslic-das-haben-wir-hee-chan-versucht-zu-erklaeren-1266781/artikel",
+   "title": "Disziplin-Appell von Muslic: \"Das haben wir Hee-Chan versucht zu erklären\"",
+   "link": "https://www.kicker.de/disziplin-appell-von-muslic-das-haben-wir-hee-chan-versucht-zu-erklaeren-1266781/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T12:54:46Z",
+   "teaser": "Kaum Punkte, keine Tore, nun das Aus im DFB-Pokal: Bei Schalke ist die Stimmung nach langer Zeit mal wieder angespannt. Miron Muslic fordert die Rückkehr zu alten Tugenden - und erklärte speziell Hee-Chan Hwang nochmal, wie sie lauten.",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/option-fuer-die-startelf-gendreys-pech-ist-abrahas-chance-1266777/artikel",
    "title": "\"Option für die Startelf\": Gendreys Pech ist Abrahas Chance",
@@ -2511,32 +2536,6 @@
    "clubs": [
     16,
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-vfb-mit-pejcinovic-und-demirovic-kassiert-gladbach-die-siebte-pleite-1263985/artikel",
-   "title": "LIVE! VfB mit Pejcinovic und Demirovic: Kassiert Gladbach die siebte Pleite?",
-   "link": "https://www.kicker.de/live-vfb-mit-pejcinovic-und-demirovic-kassiert-gladbach-die-siebte-pleite-1263985/artikel",
-   "source": "kicker",
-   "published": "2026-10-23T17:31:28Z",
-   "teaser": "Beim VfB Stuttgart läuft längst nicht alles rund, nichtsdestotrotz gehen die Schwaben gegen das punktlose Schlusslicht Gladbach als klarer Favorit ins Spiel.",
-   "clubs": [
-    16,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kimmich-fehlt-dem-fc-bayern-wohl-auch-in-freiburg-1264439/artikel",
-   "title": "Kimmich fehlt dem FC Bayern wohl auch in Freiburg",
-   "link": "https://www.kicker.de/kimmich-fehlt-dem-fc-bayern-wohl-auch-in-freiburg-1264439/artikel",
-   "source": "kicker",
-   "published": "2026-10-23T17:18:10Z",
-   "teaser": "Der FC Bayern muss aktuell auf Joshua Kimmich verzichten. Auch beim Auswärtsspiel in Freiburg wird der DFB-Kapitän nach einem Trauerfall wohl nicht dabei sein.",
-   "clubs": [
-    40,
-    112
    ],
    "transfer": false
   }
