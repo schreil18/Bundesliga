@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T20:40:25Z",
+ "updated": "2026-10-30T21:38:54Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/elversberg-ueberrumpelt-mainz,spielbericht-sv-elversberg-mainz-05-100.html",
+   "title": "Traumtor Campbell - Elversberg überrumpelt Mainz",
+   "link": "https://www.sportschau.de/fussball/bundesliga/elversberg-ueberrumpelt-mainz,spielbericht-sv-elversberg-mainz-05-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-30T21:37:30Z",
+   "teaser": "Aufsteiger SV Elversberg überrascht weiter in der Fußball-Bundesliga und nimmt den 1. FSV Mainz 05 schon in der ersten Halbzeit auseinander.",
+   "clubs": [
+    81,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/traumtore-inklusive-elversberg-bezwingt-desolate-mainzer-1266538/artikel",
+   "title": "Traumtore inklusive: Elversberg bezwingt desolate Mainzer",
+   "link": "https://www.kicker.de/traumtore-inklusive-elversberg-bezwingt-desolate-mainzer-1266538/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T21:25:07Z",
+   "teaser": "Die SV Elversberg schwimmt weiter auf der Erfolgswelle und feierte gegen einen vor allem in der ersten Hälfte völlig desolaten FSV Mainz 05 einen 4:1-Sieg; direkt verwandelter Freistoß und toller Seitfallzieher inklusive. Einen späten …",
+   "clubs": [
+    81,
+    198
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/live-mainz-desolat-elversberg-schon-zur-pause-3-0-in-fuehrung-1266538/artikel",
    "title": "LIVE! Mainz desolat: Elversberg schon zur Pause 3:0 in Führung",
@@ -229,6 +255,19 @@
    "clubs": [
     80,
     65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-218.html",
+   "title": "Eintracht Frankfurt: Supertalent Ilicevic winkt Bundesliga-Rekord – mit 16",
+   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-218.html",
+   "source": "Sportschau",
+   "published": "2026-10-30T13:09:57Z",
+   "teaser": "Am Samstag Geburtstag, am Sonntag Bundesliga-Premiere? Youngster Niko Ilicevic könnte im Heimspiel gegen den HSV erstmals für die Profis von Eintracht Frankfurt auflaufen und damit Geschichte schreiben. Der erste Schritt einer großen …",
+   "clubs": [
+    91,
+    100
    ],
    "transfer": false
   },
@@ -2502,43 +2541,6 @@
    "teaser": "Nach seinem Zusammenbruch am Freitag befindet sich Bayern-Trainer Vincent Kompany im Krankenhaus. In den nächsten Wochen werden die Bayern ohne den Belgier auskommen müssen. Solange übernimmt Co-Trainer Aaron Danks, der versucht, Ruhe in …",
    "clubs": [
     40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/zur-stunde-noch-nicht-genau-klar-was-zum-zusammenbruch-gefuehrt-hat-1264580/video",
-   "title": "\"Zur Stunde noch nicht genau klar, was zum Zusammenbruch geführt hat\"",
-   "link": "https://www.kicker.de/zur-stunde-noch-nicht-genau-klar-was-zum-zusammenbruch-gefuehrt-hat-1264580/video",
-   "source": "kicker",
-   "published": "2026-10-24T09:32:01Z",
-   "teaser": "Nach dem Zusammenbruch von Vincent Kompany am Freitagabend steht der FC Bayern unter Schock. Aktuell befindet er sich im Krankenhaus, sein Zustand hat sich stabilisiert. Aus München berichtet kicker-Reporter Mario Krischel.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/eberl-ueber-kompany-ihn-ein-stueck-weit-vor-sich-selbst-beschuetzen-1264574/video",
-   "title": "Eberl über Kompany: \"Ihn ein Stück weit vor sich selbst beschützen\"",
-   "link": "https://www.kicker.de/eberl-ueber-kompany-ihn-ein-stueck-weit-vor-sich-selbst-beschuetzen-1264574/video",
-   "source": "kicker",
-   "published": "2026-10-24T08:51:37Z",
-   "teaser": "Bayern-Sportvorstand Max Eberl gibt ein Update zu Vincent Kompanys Gesundheitszustand. Der Bayern-Trainer sei in den besten Händen und bekomme die nötige Zeit und Unterstützung, um sich vollständig zu erholen.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/sander-sieht-in-gladbach-das-signal-zum-aufbruch-1264555/artikel",
-   "title": "Sander sieht in Gladbach das Signal zum Aufbruch",
-   "link": "https://www.kicker.de/sander-sieht-in-gladbach-das-signal-zum-aufbruch-1264555/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T08:44:30Z",
-   "teaser": "Die Borussia kann doch noch gewinnen. Und hat beim 3:2-Sieg in Stuttgart gezeigt, worauf es auch in den nächsten Wochen ankommen wird.",
-   "clubs": [
-    16,
-    87
    ],
    "transfer": false
   }
