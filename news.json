@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T09:51:25Z",
+ "updated": "2026-10-30T10:47:36Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,67 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/kimmich-vor-comeback-alltag-nichts-sehnt-der-fc-bayern-mehr-herbei-1266780/video",
+   "title": "Kimmich vor Comeback: \"Alltag, nichts sehnt der FC Bayern mehr herbei\"",
+   "link": "https://www.kicker.de/kimmich-vor-comeback-alltag-nichts-sehnt-der-fc-bayern-mehr-herbei-1266780/video",
+   "source": "kicker",
+   "published": "2026-10-30T10:29:34Z",
+   "teaser": "Auf der PK vor dem Spiel gegen Dortmund gab Bayerns Co-Trainer Aaron Danks bekannt, dass Joshua Kimmich in den Kader zurückkehren könnte. Trainer Vincent Kompany wird dagegen noch nicht wieder vor Ort sein.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/danks-waehlt-tier-vergleich-wie-das-zebra-und-der-strauss-in-der-savanne-1266769/video",
+   "title": "Danks wählt Tier-Vergleich: \"Wie das Zebra und der Strauß in der Savanne\"",
+   "link": "https://www.kicker.de/danks-waehlt-tier-vergleich-wie-das-zebra-und-der-strauss-in-der-savanne-1266769/video",
+   "source": "kicker",
+   "published": "2026-10-30T10:15:41Z",
+   "teaser": "Angesprochen auf mögliche Unterschiede im Stil als Trainer zwischen ihm und Vincent Kompany wählte Aaron Danks einen ungewöhnlichen Vergleich.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/die-bayern-und-die-frage-wann-ist-alltag-1266745/artikel",
+   "title": "Die Bayern und die Frage: Wann ist Alltag?",
+   "link": "https://www.kicker.de/die-bayern-und-die-frage-wann-ist-alltag-1266745/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T10:07:56Z",
+   "teaser": "Trainer Vincent Kompany fehlt wie Kapitän Manuel Neuer auch gegen den BVB, Joshua Kimmich könnte dagegen zurückkehren. Kehrt beim Rekordmeister nach turbulenten Tagen damit ein Stück Normalität zurück?",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/muss-ein-bayern-trainer-deutsch-sprechen-danks-arbeite-hart-daran-1266762/video",
+   "title": "Muss ein Bayern-Trainer Deutsch sprechen? Danks: \"Arbeite hart daran\"",
+   "link": "https://www.kicker.de/muss-ein-bayern-trainer-deutsch-sprechen-danks-arbeite-hart-daran-1266762/video",
+   "source": "kicker",
+   "published": "2026-10-30T10:01:29Z",
+   "teaser": "Vor dem Klassiker gegen Dortmund wurde Bayerns Co-Trainer Aaron Danks auf seine Deutschkentnisse angesprochen. Er startete mit einer kleinen Kostprobe und erklärte dann seinen aktuellen Stand.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/eberl-zu-kimmich-unterstuetzung-wir-labern-das-nicht-nur-1266760/video",
+   "title": "Eberl zu Kimmich-Unterstützung: \"Wir labern das nicht nur\"",
+   "link": "https://www.kicker.de/eberl-zu-kimmich-unterstuetzung-wir-labern-das-nicht-nur-1266760/video",
+   "source": "kicker",
+   "published": "2026-10-30T09:57:04Z",
+   "teaser": "Max Eberl spricht auf der Pressekonferenz vor dem Spiel gegen Dortmund über Joshua Kimmich und die nötige Unterstützung, die der Kapitän vom Verein erhält.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/kimmich-kehrt-wohl-zurueck-fuer-neuer-kommt-das-bvb-spiel-zu-frueh-1266728/artikel",
    "title": "Kimmich kehrt wohl zurück - Für Neuer kommt das BVB-Spiel \"zu früh\"",
@@ -2481,69 +2542,6 @@
    "source": "kicker",
    "published": "2026-10-23T11:56:51Z",
    "teaser": "Auf der Pressekonferenz vor der Partie gegen Borussia Dortmund war die \"intensive Woche\" der Eintracht mit dem Abgang von Markus Krösche Thema. Ein Versprecher eines Journalisten sorgte für ein paar Lacher.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/huetter-aus-versprecher-laesst-sge-trainer-schmunzeln-1264346/video",
-   "title": "\"Hütter-Aus\": Versprecher lässt SGE-Trainer schmunzeln",
-   "link": "https://www.kicker.de/huetter-aus-versprecher-laesst-sge-trainer-schmunzeln-1264346/video",
-   "source": "kicker",
-   "published": "2026-10-23T11:56:51Z",
-   "teaser": "Auf der Pressekonferenz vor der Partie gegen Borussia Dortmund war die \"intensive Woche\" der Eintracht mit dem Abgang von Markus Krösche Thema. Ein Versprecher eines Journalisten sorgte für ein paar Lacher.",
-   "clubs": [
-    7,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kovac-vor-duell-mit-dem-ex-klub-wo-ich-arbeite-lasse-ich-mein-herz-1264343/video",
-   "title": "Kovac vor Duell mit dem Ex-Klub: \"Wo ich arbeite, lasse ich mein Herz\"",
-   "link": "https://www.kicker.de/kovac-vor-duell-mit-dem-ex-klub-wo-ich-arbeite-lasse-ich-mein-herz-1264343/video",
-   "source": "kicker",
-   "published": "2026-10-23T11:52:39Z",
-   "teaser": "Nach den Reisestrapazen in der Königsklasse will Niko Kovac mit seinem Team auch den Bundesliga-Alltag erfolgreich meistern. Das Duell gegen seinen Ex-Verein aus Frankfurt hat immer einen besonderen Stellenwert für den 55-Jährigen.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-mutter-aller-handspiele-als-held-fuer-den-groessten-aufreger-der-saison-97-98-sorgte-1264331/video",
-   "title": "Die Mutter aller Handspiele? Als Held für den größten Aufreger der Saison 97/98 sorgte",
-   "link": "https://www.kicker.de/die-mutter-aller-handspiele-als-held-fuer-den-groessten-aufreger-der-saison-97-98-sorgte-1264331/video",
-   "source": "kicker",
-   "published": "2026-10-23T11:14:28Z",
-   "teaser": "In der 80. Minute der Partie Schalke 04 gegen den 1. FC Köln sorgte Oliver Held mit einem Handspiel für den Skandal der Saison - Der Schalker stritt auf Nachfrage von Schiedsrichter Uwe Kemmling alles ab und am Ende siegte S04 mit 1:0 und …",
-   "clubs": [
-    65,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/huetter-ueber-uzun-dann-wird-er-sich-moeglicherweise-selbst-im-weg-stehen-1261022/artikel",
-   "title": "Hütter über Uzun: \"Dann wird er sich möglicherweise selbst im Weg stehen\"",
-   "link": "https://www.kicker.de/huetter-ueber-uzun-dann-wird-er-sich-moeglicherweise-selbst-im-weg-stehen-1261022/artikel",
-   "source": "kicker",
-   "published": "2026-10-23T10:51:41Z",
-   "teaser": "Nach dem Sieg gegen Köln verpackte Eintracht-Trainer Adi Hütter seine Kritik an Can Uzun geschickt. Vor dem Duell mit dem BVB wurde er abermals auf sein Talent angesprochen - und ging etwas ins Detail.",
-   "clubs": [
-    7,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kein-handyverbot-fuer-die-spieler-bei-kovac-mit-einer-ausnahme-1264315/artikel",
-   "title": "Kein Handyverbot für die Spieler bei Kovac - mit einer Ausnahme",
-   "link": "https://www.kicker.de/kein-handyverbot-fuer-die-spieler-bei-kovac-mit-einer-ausnahme-1264315/artikel",
-   "source": "kicker",
-   "published": "2026-10-23T10:28:57Z",
-   "teaser": "Die Fans von Borussia Dortmund sollen während den Spielen ihr Handy nicht mehr benutzen und in den \"FanModus\" wechseln. Aber was erlaubt Niko Kovac eigentlich seinen Spielern?",
    "clubs": [
     7
    ],
