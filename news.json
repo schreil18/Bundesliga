@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T18:46:11Z",
+ "updated": "2026-10-30T19:46:56Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,32 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194518/sv-07-elversberg_1-fsv-mainz-05/liveticker",
+   "title": "Jetzt live - 1:0! Elversberg braucht nur sechs Minuten zur Führung",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194518/sv-07-elversberg_1-fsv-mainz-05/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-30T19:38:32Z",
+   "teaser": "Die SV Elversberg wird seinem Ruf als Favoritenschreck zunächst auch gegen Mainz 05 gerecht. Die Saarländer führen.",
+   "clubs": [
+    81,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-keidel-trifft-klasse-per-direktem-freistoss-1266538/artikel",
+   "title": "LIVE! Keidel trifft klasse per direktem Freistoß",
+   "link": "https://www.kicker.de/live-keidel-trifft-klasse-per-direktem-freistoss-1266538/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T19:37:55Z",
+   "teaser": "Zum Auftakt des 8. Spieltags empfängt der Tabellen-Achte SV Elversberg am Freitagabend den punktgleichen Siebten aus Mainz. Kann der Aufsteiger die auswärts bislang noch ungeschlagenen 05er ärgern?",
+   "clubs": [
+    81,
+    198
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/sv-07-elversberg-gegen-1-fsv-mainz-05,audiostream-sv-07-elversberg-gegen-1-fsv-mainz-05-104.html",
    "title": "Live hören: SV 07 Elversberg gegen 1. FSV Mainz 05 - Bundesliga",
@@ -135,19 +161,6 @@
    "source": "Sportschau",
    "published": "2026-10-30T16:08:59Z",
    "teaser": "Nach ihrem Ausscheiden aus dem DFB-Pokal treffen Elversberg und Mainz heute in der Fußball-Bundesliga aufeinander.",
-   "clubs": [
-    81,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194518/sv-07-elversberg_1-fsv-mainz-05/liveticker",
-   "title": "Ab 20.30 Uhr live - Auswärtsstarke Mainzer in Elversberg",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194518/sv-07-elversberg_1-fsv-mainz-05/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-30T15:33:31Z",
-   "teaser": "Die SV Elversberg empfängt Mainz 05. Die Bilanz beider Mannschaften könnte ausgeglichener nicht sein: drei Siege, drei Niederlagen und ein Remis.",
    "clubs": [
     81,
     198
@@ -2525,19 +2538,6 @@
    "teaser": "Wie der FC Bayern am Freitagabend bestätigte, wurde das für Samstag (14 Uhr) anberaumte Heimspiel der FC Bayern Amateure gegen die DJK Vilzing kurzfristig abgesagt.",
    "clubs": [
     40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/eberl-bestaetigt-kompany-bleibt-einige-tage-im-krankenhaus-1264540/artikel",
-   "title": "Eberl bestätigt: Kompany bleibt \"einige Tage im Krankenhaus\"",
-   "link": "https://www.kicker.de/eberl-bestaetigt-kompany-bleibt-einige-tage-im-krankenhaus-1264540/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T08:34:42Z",
-   "teaser": "Für das Topspiel in Freiburg fehlen dem FC Bayern zahlreiche Säulen, darunter auch Vincent Kompany. Der Trainer wird wohl länger raus sein.",
-   "clubs": [
-    40,
-    112
    ],
    "transfer": false
   }
