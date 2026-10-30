@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T17:42:34Z",
+ "updated": "2026-10-30T18:46:11Z",
  "sources": [
   {
    "name": "kicker",
@@ -25,6 +25,32 @@
    "clubs": [
     81,
     198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-onyeka-zurueck-in-elversberger-startelf-zentner-huetet-mainzer-tor-1266538/artikel",
+   "title": "LIVE! Onyeka zurück in Elversberger Startelf - Zentner hütet Mainzer Tor",
+   "link": "https://www.kicker.de/live-onyeka-zurueck-in-elversberger-startelf-zentner-huetet-mainzer-tor-1266538/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T18:30:52Z",
+   "teaser": "Zum Auftakt des 8. Spieltags empfängt der Tabellen-Achte SV Elversberg am Freitagabend den punktgleichen Siebten aus Mainz. Kann der Aufsteiger die auswärts bislang noch ungeschlagenen 05er ärgern?",
+   "clubs": [
+    81,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nach-bandverletzung-karetsas-kehrt-gegen-den-fc-bayern-zurueck-1266901/artikel",
+   "title": "Nach Bandverletzung: Karetsas kehrt gegen den FC Bayern zurück",
+   "link": "https://www.kicker.de/nach-bandverletzung-karetsas-kehrt-gegen-den-fc-bayern-zurueck-1266901/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T18:23:49Z",
+   "teaser": "Pünktlich zum Gipfeltreffen mit dem FC Bayern München steht Konstantinos Karetsas Borussia Dortmund wieder zur Verfügung. Der 18 Jahre alte Grieche wird nach einer Mitte Oktober erlittenen Bandverletzung Teil des BVB-Kaders am Samstagabend …",
+   "clubs": [
+    40,
+    7
    ],
    "transfer": false
   },
@@ -74,6 +100,18 @@
    "clubs": [
     91,
     100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/demichelis-ueber-dzeko-wahnsinn-dass-er-immer-noch-spielt-1266887/video",
+   "title": "Demichelis über Dzeko: \"Wahnsinn, dass er immer noch spielt\"",
+   "link": "https://www.kicker.de/demichelis-ueber-dzeko-wahnsinn-dass-er-immer-noch-spielt-1266887/video",
+   "source": "kicker",
+   "published": "2026-10-30T16:33:20Z",
+   "teaser": "Martin Demichelis spricht vor dem Schalke-Duell über die Stärken des Gegners und die besondere Atmosphäre in Gelsenkirchen. Zudem freut er sich auf das Wiedersehen mit seinem ehemaligen Mitspieler Edin Dzeko.",
+   "clubs": [
+    9
    ],
    "transfer": false
   },
@@ -2500,42 +2538,6 @@
    "clubs": [
     40,
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/es-braucht-mehr-um-ein-spiel-zu-gewinnnen-hoeness-nimmt-jeden-in-die-pflicht-1264554/video",
-   "title": "\"Es braucht mehr, um ein Spiel zu gewinnnen\": Hoeneß nimmt jeden in die Pflicht",
-   "link": "https://www.kicker.de/es-braucht-mehr-um-ein-spiel-zu-gewinnnen-hoeness-nimmt-jeden-in-die-pflicht-1264554/video",
-   "source": "kicker",
-   "published": "2026-10-24T07:51:14Z",
-   "teaser": "Stuttgart-Coach Sebastian Hoeneß zeigt sich nach der 2:3-Niederlage gegen Borussia Mönchengladbach enttäuscht. Mit nur sechs Punkten aus sieben Spielen liegt der VfB deutlich hinter den eigenen Erwartungen zurück.",
-   "clubs": [
-    16,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-nach-zusammenbruch-fcb-coach-kompany-in-klinik-gebracht-102.html",
-   "title": "Bayerns Trainer Vincent Kompany mit Notarzt in Klinik gebracht",
-   "link": "https://www.sportschau.de/regional/br/br-nach-zusammenbruch-fcb-coach-kompany-in-klinik-gebracht-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-24T07:43:46Z",
-   "teaser": "Vincent Kompany ist nach einer Trainingseinheit zusammengebrochen und wurde in ein Münchner Krankenhaus gebracht. Der Verein bestätigte entsprechende Medienberichte. Sein Zustand ist allerdings stabil.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/blessin-erleichtert-natuerlich-die-totengraeberstimmung-mitbekommen-1264549/video",
-   "title": "Blessin erleichtert: \"Natürlich die Totengräberstimmung mitbekommen\"",
-   "link": "https://www.kicker.de/blessin-erleichtert-natuerlich-die-totengraeberstimmung-mitbekommen-1264549/video",
-   "source": "kicker",
-   "published": "2026-10-24T07:35:14Z",
-   "teaser": "Mit 3:2 gewinnt Borussia Mönchengladbach überraschend beim VfB Stuttgart und wendet den Negativ-Startrekord ab. Trainer Alexander Blessin zeigt sich nach Abpfiff erleichtert, betont aber, dass die Fohlen weiterhin an ihre Grenzen gehen …",
-   "clubs": [
-    16,
-    87
    ],
    "transfer": false
   }
