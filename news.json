@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T11:40:22Z",
+ "updated": "2026-10-30T12:53:25Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,43 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/option-fuer-die-startelf-gendreys-pech-ist-abrahas-chance-1266777/artikel",
+   "title": "\"Option für die Startelf\": Gendreys Pech ist Abrahas Chance",
+   "link": "https://www.kicker.de/option-fuer-die-startelf-gendreys-pech-ist-abrahas-chance-1266777/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T12:29:24Z",
+   "teaser": "Bereits am heutigen Freitag wird Hoffenheims Valentin Gendrey nach seinem Wadenbeinbruch operiert. Sein Ausfall eröffnet Talent Natnael Abraha (18) die Chancen auf einen unverhofften Karrieresprung.",
+   "clubs": [
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wer-uebertraegt-fc-bayern-muenchen-gegen-den-bvb-live-im-tv-und-stream-1266088/artikel",
+   "title": "Wer überträgt FC Bayern München gegen den BVB live im TV und Stream?",
+   "link": "https://www.kicker.de/wer-uebertraegt-fc-bayern-muenchen-gegen-den-bvb-live-im-tv-und-stream-1266088/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T12:07:42Z",
+   "teaser": "Der FC Bayern München und Borussia Dortmund duellieren sich am 8. Spieltag um die Tabellenspitze. Wo ihr die Partie live verfolgen könnt, erfahrt ihr hier.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/erstmals-seit-neun-jahren-schalker-verbindlichkeiten-sinken-unter-100-millionen-euro-1266791/artikel",
+   "title": "Erstmals seit neun Jahren: Schalker Verbindlichkeiten sinken unter 100 Millionen Euro",
+   "link": "https://www.kicker.de/erstmals-seit-neun-jahren-schalker-verbindlichkeiten-sinken-unter-100-millionen-euro-1266791/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T11:40:24Z",
+   "teaser": "Der FC Schalke 04 zieht finanzielle Bilanz - und hat seine Situation leicht stabilisiert. Neben einem Erfolg bei den Nettofinanzverbindlichkeiten vermelden die Knappen gestiegene Umsätze in Vermarktung und Merchandising.",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wann-geht-es-wo-wieder-los-der-rahmenterminkalender-fuer-die-saison-2027-28-928963/artikel",
    "title": "Wann geht es wo wieder los? Der Rahmenterminkalender für die Saison 2027/28",
@@ -88,6 +125,18 @@
    "id": "https://www.kicker.de/eberl-zu-kimmich-unterstuetzung-wir-labern-das-nicht-nur-1266760/video",
    "title": "Eberl zu Kimmich-Unterstützung: \"Wir labern das nicht nur\"",
    "link": "https://www.kicker.de/eberl-zu-kimmich-unterstuetzung-wir-labern-das-nicht-nur-1266760/video",
+   "source": "kicker",
+   "published": "2026-10-30T09:57:04Z",
+   "teaser": "Max Eberl spricht auf der Pressekonferenz vor dem Spiel gegen Dortmund über Joshua Kimmich und die nötige Unterstützung, die der Kapitän vom Verein erhält.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/eberl-mit-emotionalen-worten-zu-kimmich-1266760/video",
+   "title": "Eberl mit emotionalen Worten zu Kimmich",
+   "link": "https://www.kicker.de/eberl-mit-emotionalen-worten-zu-kimmich-1266760/video",
    "source": "kicker",
    "published": "2026-10-30T09:57:04Z",
    "teaser": "Max Eberl spricht auf der Pressekonferenz vor dem Spiel gegen Dortmund über Joshua Kimmich und die nötige Unterstützung, die der Kapitän vom Verein erhält.",
@@ -2488,58 +2537,6 @@
    "clubs": [
     40,
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/sorgen-beim-fc-bayern-kompany-in-krankenhaus-eingeliefert-1264411/artikel",
-   "title": "Sorgen beim FC Bayern: Kompany in Krankenhaus eingeliefert",
-   "link": "https://www.kicker.de/sorgen-beim-fc-bayern-kompany-in-krankenhaus-eingeliefert-1264411/artikel",
-   "source": "kicker",
-   "published": "2026-10-23T16:24:39Z",
-   "teaser": "Vincent Kompany wurde am Freitag mit einem Notarzt in ein Münchner Krankenhaus eingeliefert. Die genauen Ursachen sind noch unbekannt. Der FC Bayern äußerte sich inzwischen auch.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/das-blau-weisse-fiasko-des-toni-schumacher,historie-toni-schumacher-100.html",
-   "title": "Das blau-weiße Fiasko des Toni Schumacher",
-   "link": "https://www.sportschau.de/fussball/das-blau-weisse-fiasko-des-toni-schumacher,historie-toni-schumacher-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-23T16:07:22Z",
-   "teaser": "Kölns Torwartlegende Toni Schumacher wurde 1987 nach der Veröffentlichung seiner Autobiografie \"Anpfiff\" vom Hof gejagt. Im Jahr darauf kämpfte er mit Schalke 04 gegen den Abstieg - und das auch noch vergeblich.",
-   "clubs": [
-    65,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nicht-im-abschlusstraining-leipzig-bangt-um-nkunku-1264390/artikel",
-   "title": "Nicht im Abschlusstraining: Leipzig bangt um Nkunku",
-   "link": "https://www.kicker.de/nicht-im-abschlusstraining-leipzig-bangt-um-nkunku-1264390/artikel",
-   "source": "kicker",
-   "published": "2026-10-23T14:46:18Z",
-   "teaser": "Drei Tage nach dem 1:4 in Madrid plant Martin Demichelis bei RB Leipzig gegen die SV Elversberg mehrere Veränderungen in seiner Mannschaft. Nach den Klatschen gegen Real und den FC Bayern (1:6) stehen Trainer und Team unter Siegesdruck.",
-   "clubs": [
-    40,
-    1635,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/das-skandal-spiel-als-hoyzer-den-hsv-in-paderborn-verpfiff-1264381/video",
-   "title": "Das Skandal-Spiel: Als Hoyzer den HSV in Paderborn verpfiff",
-   "link": "https://www.kicker.de/das-skandal-spiel-als-hoyzer-den-hsv-in-paderborn-verpfiff-1264381/video",
-   "source": "kicker",
-   "published": "2026-10-23T13:29:12Z",
-   "teaser": "Im August 2004 verpfiff Schiedsrichter Robert Hoyzer das DFB-Pokalspiel zwischen dem HSV und Paderborn. Das Spiel war Ausgangspunkt eines der größten Skandale der deutschen Fußballgeschichte.",
-   "clubs": [
-    100,
-    31
    ],
    "transfer": false
   }
