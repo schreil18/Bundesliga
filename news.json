@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T19:46:56Z",
+ "updated": "2026-10-30T20:40:25Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,12 +16,25 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/live-mainz-desolat-elversberg-schon-zur-pause-3-0-in-fuehrung-1266538/artikel",
+   "title": "LIVE! Mainz desolat: Elversberg schon zur Pause 3:0 in Führung",
+   "link": "https://www.kicker.de/live-mainz-desolat-elversberg-schon-zur-pause-3-0-in-fuehrung-1266538/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T20:34:06Z",
+   "teaser": "Zum Auftakt des 8. Spieltags empfängt der Tabellen-Achte SV Elversberg am Freitagabend den punktgleichen Siebten aus Mainz. Kann der Aufsteiger die auswärts bislang noch ungeschlagenen 05er ärgern?",
+   "clubs": [
+    81,
+    198
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194518/sv-07-elversberg_1-fsv-mainz-05/liveticker",
-   "title": "Jetzt live - 1:0! Elversberg braucht nur sechs Minuten zur Führung",
+   "title": "Jetzt live - Elversberg erwischt Sahnetag gegen Mainz 05",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194518/sv-07-elversberg_1-fsv-mainz-05/liveticker",
    "source": "Sportschau",
-   "published": "2026-10-30T19:38:32Z",
-   "teaser": "Die SV Elversberg wird seinem Ruf als Favoritenschreck zunächst auch gegen Mainz 05 gerecht. Die Saarländer führen.",
+   "published": "2026-10-30T20:17:31Z",
+   "teaser": "Die SV Elversberg trifft gegen Mainz 05 fast mit jedem Torschuss. Die Saarländer führen bereits mit 3:0 gegen die eigentlich auswärtsstarken Gäste.",
    "clubs": [
     81,
     198
@@ -2526,18 +2539,6 @@
    "clubs": [
     16,
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-kompanys-zusammenbruch-spiel-der-bayern-amateure-abgesagt-1264475/artikel",
-   "title": "Nach Kompanys Zusammenbruch: Spiel der Bayern-Amateure abgesagt",
-   "link": "https://www.kicker.de/nach-kompanys-zusammenbruch-spiel-der-bayern-amateure-abgesagt-1264475/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T08:40:00Z",
-   "teaser": "Wie der FC Bayern am Freitagabend bestätigte, wurde das für Samstag (14 Uhr) anberaumte Heimspiel der FC Bayern Amateure gegen die DJK Vilzing kurzfristig abgesagt.",
-   "clubs": [
-    40
    ],
    "transfer": false
   }
