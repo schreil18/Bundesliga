@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T10:47:36Z",
+ "updated": "2026-10-30T11:40:22Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,26 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wann-geht-es-wo-wieder-los-der-rahmenterminkalender-fuer-die-saison-2027-28-928963/artikel",
+   "title": "Wann geht es wo wieder los? Der Rahmenterminkalender für die Saison 2027/28",
+   "link": "https://www.kicker.de/wann-geht-es-wo-wieder-los-der-rahmenterminkalender-fuer-die-saison-2027-28-928963/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T11:28:24Z",
+   "teaser": "Die Saison 2027/28 wartet noch in der Ferne, doch seit Freitag steht der Rahmenterminkalender fest. Bundesliga, 2. Liga, Champions League & Co. - ein Überblick über die wichtigsten Eckdaten.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/501-fanszenen-stellen-forderungen,50-plus-1-proteste-forderungen-fanszenen-leverkusen-wolfsburg-leipzig-100.html",
+   "title": "50+1 - Fanszenen stellen Forderungen an die Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/501-fanszenen-stellen-forderungen,50-plus-1-proteste-forderungen-fanszenen-leverkusen-wolfsburg-leipzig-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-30T11:00:00Z",
+   "teaser": "Das Bündnis \"Fanszenen Deutschlands\" hat für die Neuregelung von 50+1 eine konsequente Beendigung der Ausnahmen gefordert.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/kimmich-vor-comeback-alltag-nichts-sehnt-der-fc-bayern-mehr-herbei-1266780/video",
    "title": "Kimmich vor Comeback: \"Alltag, nichts sehnt der FC Bayern mehr herbei\"",
@@ -2520,30 +2540,6 @@
    "clubs": [
     100,
     31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ich-bin-nur-hier-um-ihn-zu-unterstuetzen-aber-auch-ihm-die-augen-zu-oeffnen-1264348/video",
-   "title": "\"Ich bin nur hier, um ihn zu unterstützen, aber auch ihm die Augen zu öffnen\"",
-   "link": "https://www.kicker.de/ich-bin-nur-hier-um-ihn-zu-unterstuetzen-aber-auch-ihm-die-augen-zu-oeffnen-1264348/video",
-   "source": "kicker",
-   "published": "2026-10-23T12:11:28Z",
-   "teaser": "Eintracht-Coach Adi Hütter spricht Klartext um SGE-Juwel Can Uzun und fordert von seinem Schützling eine bessere Einstellung, ansonsten sei eine große Karriere in Gefahr.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/huetter-aus-versprecher-laesst-huetter-schmunzeln-1264346/video",
-   "title": "\"Hütter-Aus\": Versprecher lässt Hütter schmunzeln",
-   "link": "https://www.kicker.de/huetter-aus-versprecher-laesst-huetter-schmunzeln-1264346/video",
-   "source": "kicker",
-   "published": "2026-10-23T11:56:51Z",
-   "teaser": "Auf der Pressekonferenz vor der Partie gegen Borussia Dortmund war die \"intensive Woche\" der Eintracht mit dem Abgang von Markus Krösche Thema. Ein Versprecher eines Journalisten sorgte für ein paar Lacher.",
-   "clubs": [
-    7
    ],
    "transfer": false
   }
