@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T15:50:56Z",
+ "updated": "2026-10-30T16:48:05Z",
  "sources": [
   {
    "name": "kicker",
@@ -22,6 +22,45 @@
    "source": "Sportschau",
    "published": "2026-10-30T19:15:00Z",
    "teaser": "8. Spieltag: Anpfiff des Spiels ist am 30.10.2026 um 20:30 Uhr. 1. FSV Mainz 05 spielt in Elversberg.",
+   "clubs": [
+    81,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/dantes-tor-klau-kobels-bock-die-besten-duelle-zwischen-bayern-und-dem-bvb-1266884/video",
+   "title": "Dantes \"Tor-Klau\", Kobels Bock: Die besten Duelle zwischen Bayern und dem BVB",
+   "link": "https://www.kicker.de/dantes-tor-klau-kobels-bock-die-besten-duelle-zwischen-bayern-und-dem-bvb-1266884/video",
+   "source": "kicker",
+   "published": "2026-10-30T16:29:09Z",
+   "teaser": "Es ist das Topspiel schlechthin, wenn der FC Bayern und Borussia Dortmund aufeinandertreffen. Und das verspricht selten Langeweile: Pure Dramatik in Pokalfinals, Schützenfeste in der Liga und Auseinandersetzungen auf und neben dem Platz. …",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/sr/sr-sv-elversberg-trifft-am-abend-auf-auswaertsstarke-mainzer-108.html",
+   "title": "Elversberg sucht den Switch gegen auswärtsstarke Mainzer",
+   "link": "https://www.sportschau.de/regional/sr/sr-sv-elversberg-trifft-am-abend-auf-auswaertsstarke-mainzer-108.html",
+   "source": "Sportschau",
+   "published": "2026-10-30T16:08:59Z",
+   "teaser": "Nach ihrem Ausscheiden aus dem DFB-Pokal treffen Elversberg und Mainz heute in der Fußball-Bundesliga aufeinander.",
+   "clubs": [
+    81,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194518/sv-07-elversberg_1-fsv-mainz-05/liveticker",
+   "title": "Ab 20.30 Uhr live - Auswärtsstarke Mainzer in Elversberg",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194518/sv-07-elversberg_1-fsv-mainz-05/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-30T15:33:31Z",
+   "teaser": "Die SV Elversberg empfängt Mainz 05. Die Bilanz beider Mannschaften könnte ausgeglichener nicht sein: drei Siege, drei Niederlagen und ein Remis.",
    "clubs": [
     81,
     198
@@ -156,6 +195,19 @@
    "source": "kicker",
    "published": "2026-10-30T10:29:34Z",
    "teaser": "Auf der PK vor dem Spiel gegen Dortmund gab Bayerns Co-Trainer Aaron Danks bekannt, dass Joshua Kimmich in den Kader zurückkehren könnte. Trainer Vincent Kompany wird dagegen noch nicht wieder vor Ort sein.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-bvb-nahe-dran-und-doch-so-weit-weg-100.html",
+   "title": "BVB \"nahe dran\" und doch so weit weg",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-bvb-nahe-dran-und-doch-so-weit-weg-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-30T10:25:00Z",
+   "teaser": "BVB-Trainer Niko Kovač sieht sein Team \"nahe dran\" am FC Bayern München. Ein Vergleich zeigt, dass die Münchner weit weg sind.",
    "clubs": [
     40,
     7
@@ -2485,58 +2537,6 @@
    "published": "2026-10-23T22:00:10Z",
    "teaser": "Sehen Sie hier die Sportschau am Freitag mit Zusammenfassungen der Bundesliga, 2. Bundesliga und der Frauen-Bundesliga.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/unbeschreiblich-gut-gladbach-feiert-matchwinner-mohya-1264503/artikel",
-   "title": "\"Unbeschreiblich gut\": Gladbach feiert Matchwinner Mohya",
-   "link": "https://www.kicker.de/unbeschreiblich-gut-gladbach-feiert-matchwinner-mohya-1264503/artikel",
-   "source": "kicker",
-   "published": "2026-10-23T21:37:09Z",
-   "teaser": "Gladbach hat den Fehlstart gestoppt und in Stuttgart den ersten Saisonsieg gefeiert. Sportdirektor Rouven Schröder zeigte sich nach dem Kraftakt hörbar erleichtert. Das Lob der Fohlen-Verantwortlichen erntete vor allem der starke Wael …",
-   "clubs": [
-    16,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/stuttgart-gegen-mgladbach-2026-bundesliga-5226865/spielbericht",
-   "title": "Mohya glänzt mit Tor und Assist: Gladbach feiert in Stuttgart ersten Saisonsieg",
-   "link": "https://www.kicker.de/stuttgart-gegen-mgladbach-2026-bundesliga-5226865/spielbericht",
-   "source": "kicker",
-   "published": "2026-10-23T20:34:28Z",
-   "teaser": "Borussia Mönchengladbach gewinnt trotz frühen Rückstands mit 3:2 beim VfB Stuttgart und holt die ersten Punkte der neuen Saison. Während die Fohlen den historischen Fehlstart vermieden, spitzte sich beim VfB die Ergebniskrise in der Liga …",
-   "clubs": [
-    16,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/mohya-geht-voran-gladbach-feiert-in-stuttgart-nach-rueckstand-ersten-saisonsieg-1263985/artikel",
-   "title": "Mohya geht voran: Gladbach feiert in Stuttgart nach Rückstand ersten Saisonsieg",
-   "link": "https://www.kicker.de/mohya-geht-voran-gladbach-feiert-in-stuttgart-nach-rueckstand-ersten-saisonsieg-1263985/artikel",
-   "source": "kicker",
-   "published": "2026-10-23T20:26:14Z",
-   "teaser": "Borussia Mönchengladbach hat nach sechs Niederlagen in Folge erstmals gepunktet - und das nach Rückstand beim Champions-League-Teilnehmer VfB Stuttgart. Dass sich das Blatt für die Fohlenelf beim 3:2 noch wendete, lag auch an einer klasse …",
-   "clubs": [
-    16,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-vfb-oeffnet-seimen-patzt-mohya-nickt-ein-1263985/artikel",
-   "title": "LIVE! VfB öffnet, Seimen patzt, Mohya nickt ein",
-   "link": "https://www.kicker.de/live-vfb-oeffnet-seimen-patzt-mohya-nickt-ein-1263985/artikel",
-   "source": "kicker",
-   "published": "2026-10-23T19:56:32Z",
-   "teaser": "Beim VfB Stuttgart läuft längst nicht alles rund, nichtsdestotrotz gehen die Schwaben gegen das punktlose Schlusslicht Gladbach als klarer Favorit ins Spiel.",
-   "clubs": [
-    16,
-    87
-   ],
    "transfer": false
   }
  ]
