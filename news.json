@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T16:48:05Z",
+ "updated": "2026-10-30T17:42:34Z",
  "sources": [
   {
    "name": "kicker",
@@ -25,6 +25,55 @@
    "clubs": [
     81,
     198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/schuster-ueber-gregoritsch-wahnsinnstyp-und-geradeheraus-1266898/artikel",
+   "title": "Schuster über Gregoritsch: \"Wahnsinnstyp und geradeheraus\"",
+   "link": "https://www.kicker.de/schuster-ueber-gregoritsch-wahnsinnstyp-und-geradeheraus-1266898/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T17:21:34Z",
+   "teaser": "Gleich drei Augsburger Spieler haben eine längere Freiburger Vergangenheit. SC-Coach Schuster freut sich aufs Wiedersehen.",
+   "clubs": [
+    112,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fanszenen-bestaerken-forderungen-zum-ende-von-501-ausnahmen-1266891/artikel",
+   "title": "Fanszenen bestärken Forderungen zum Ende von 50+1-Ausnahmen",
+   "link": "https://www.kicker.de/fanszenen-bestaerken-forderungen-zum-ende-von-501-ausnahmen-1266891/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T17:16:07Z",
+   "teaser": "Das Bundeskartellamt hat die Bundesliga im August zur einheitlichen Umsetzung der 50+1-Regel aufgefordert. Das Bündnis \"Fanszenen Deutschlands\" verlangt nun eine konsequente Umsetzung.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/andere-hausnummer-vor-60-000-zu-kicken-huetter-will-ilicevic-behutsam-aufbauen-1266893/video",
+   "title": "\"Andere Hausnummer, vor 60.000 zu kicken\": Hütter will Ilicevic behutsam aufbauen",
+   "link": "https://www.kicker.de/andere-hausnummer-vor-60-000-zu-kicken-huetter-will-ilicevic-behutsam-aufbauen-1266893/video",
+   "source": "kicker",
+   "published": "2026-10-30T16:59:48Z",
+   "teaser": "Mit Niko Ilicevic hat Eintracht Frankfurt ein echtes Juwel in den eigenen Reihen. Am Sonntag, einen Tag nach seinem 16. Geburtstag, wird er erstmals gegen den HSV im Profikader stehen. Trainer Adi Hütter möchte den Jungen behutsam aufbauen.",
+   "clubs": [
+    91,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bundesliga-rekord-winkt-eintracht-juwel-ilicevic-vor-debuet-1266870/artikel",
+   "title": "Bundesliga-Rekord winkt: Eintracht-Juwel Ilicevic vor Debüt",
+   "link": "https://www.kicker.de/bundesliga-rekord-winkt-eintracht-juwel-ilicevic-vor-debuet-1266870/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T16:41:23Z",
+   "teaser": "Einen Tag nach seinem 16. Geburtstag wird Niko Ilicevic erstmals zum Profikader von Eintracht Frankfurt gehören. SGE-Trainer Adi Hütter stellte dem Talent sogar sein Debüt in Aussicht - ausgerechnet gegen den HSV, bei dem einst sein Onkel …",
+   "clubs": [
+    91,
+    100
    ],
    "transfer": false
   },
@@ -2488,55 +2537,6 @@
     16,
     87
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wer-uebertraegt-borussia-dortmund-gegen-eintracht-frankfurt-live-im-tv-stream-1263218/artikel",
-   "title": "Wer überträgt Borussia Dortmund gegen Eintracht Frankfurt live im TV & Stream?",
-   "link": "https://www.kicker.de/wer-uebertraegt-borussia-dortmund-gegen-eintracht-frankfurt-live-im-tv-stream-1263218/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T05:30:00Z",
-   "teaser": "Das Topspiel des 7. Spieltags verspricht geballte Bundesliga-Tradition: Der BVB trifft auf Eintracht Frankfurt. Wo ihr die Partie live verfolgen könnt, erfahrt ihr hier.",
-   "clubs": [
-    7,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/der-vfb-wird-sich-viele-fragen-anhoeren-muessen-in-stuttgart-liegt-einiges-im-argen-1264528/video",
-   "title": "\"Der VfB wird sich viele Fragen anhören müssen\": In Stuttgart liegt einiges im Argen",
-   "link": "https://www.kicker.de/der-vfb-wird-sich-viele-fragen-anhoeren-muessen-in-stuttgart-liegt-einiges-im-argen-1264528/video",
-   "source": "kicker",
-   "published": "2026-10-23T22:22:35Z",
-   "teaser": "George Moissidis berichtet aus Stuttgart von einer \"sehr, sehr, sehr schwachen Leistung\" des VfB. Trotz eines guten Startes blieb die Mannschaft nicht konsequent und so gewann Gladbach folgerichtig.",
-   "clubs": [
-    16,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hoeness-es-lief-zu-gut-fuer-uns-1264514/artikel",
-   "title": "Hoeneß: \"Es lief zu gut für uns\"",
-   "link": "https://www.kicker.de/hoeness-es-lief-zu-gut-fuer-uns-1264514/artikel",
-   "source": "kicker",
-   "published": "2026-10-23T22:07:07Z",
-   "teaser": "Der VfB Stuttgart kassierte gegen Gladbach den nächsten Dämpfer in der Liga und muss nun mit Sorge nach unten schauen. Wie es zur Niederlage gegen die Fohlenelf kam, wusste Trainer Sebastian Hoeneß - und auch, was es braucht, um die …",
-   "clubs": [
-    16,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-freitag-re-live-2310-100.html",
-   "title": "Die Sportschau am Freitag in voller Länge",
-   "link": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-freitag-re-live-2310-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-23T22:00:10Z",
-   "teaser": "Sehen Sie hier die Sportschau am Freitag mit Zusammenfassungen der Bundesliga, 2. Bundesliga und der Frauen-Bundesliga.",
-   "clubs": [],
    "transfer": false
   }
  ]
