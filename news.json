@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T22:39:44Z",
+ "updated": "2026-10-30T23:37:06Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,29 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wagners-mahnruf-nach-sve-sieg-junge-nationalspieler-werden-durch-den-fleischwolf-gedreht-1266981/artikel",
+   "title": "Wagners Mahnruf nach SVE-Sieg: Junge Nationalspieler werden \"durch den Fleischwolf gedreht\"",
+   "link": "https://www.kicker.de/wagners-mahnruf-nach-sve-sieg-junge-nationalspieler-werden-durch-den-fleischwolf-gedreht-1266981/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T23:24:36Z",
+   "teaser": "Die SV Elversberg hat den 8. Spieltag mit einem deutlichen Heimsieg gegen den 1. FSV Mainz 05 eröffnet. Vincent Wagner freute sich selbstredend, nutzte den Anlass aber auch für eine Generalkritik am vollen Terminkalender seiner …",
+   "clubs": [
+    81,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-freitag-re-live-3010-100.html",
+   "title": "Die Sportschau am Freitag in voller Länge",
+   "link": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-freitag-re-live-3010-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-30T23:03:27Z",
+   "teaser": "Sehen Sie hier die Sportschau am Freitag mit Zusammenfassungen der Bundesliga, 2. Bundesliga und dem DFB-Pokal der Frauen.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/zentner-wir-haben-uns-wie-eine-schulmannschaft-verkauft-1266987/artikel",
    "title": "Zentner: \"Wir haben uns wie eine Schulmannschaft verkauft\"",
@@ -2511,36 +2534,6 @@
     65,
     9,
     198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/baumgartner-kroent-rueckkehr-ausgerechnet-philippe-schockt-den-hsv-1263993/artikel",
-   "title": "Baumgartner krönt Rückkehr - Ausgerechnet Philippe schockt den HSV",
-   "link": "https://www.kicker.de/baumgartner-kroent-rueckkehr-ausgerechnet-philippe-schockt-den-hsv-1263993/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T12:29:12Z",
-   "teaser": "Leipzig plant vor heimischer Kulisse gegen Elversberg den vierten Heimdreier. Mainz (gegen Bremen) will seine Großzügigkeit zuhause beenden, In Köln trifft sich beim Duell gegen Schalke viel Tradition.",
-   "clubs": [
-    1635,
-    81,
-    134,
-    65,
-    100,
-    9,
-    198
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/pfiffe-beim-vfb-hoeness-spricht-von-einem-grossen-warnschuss-1264593/artikel",
-   "title": "Pfiffe beim VfB: Hoeneß spricht von einem \"großen Warnschuss\"",
-   "link": "https://www.kicker.de/pfiffe-beim-vfb-hoeness-spricht-von-einem-grossen-warnschuss-1264593/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T11:05:41Z",
-   "teaser": "Wieder gibt Stuttgart ein Spiel aus der Hand. Die Verantwortlichen reden jetzt Klartext und nehmen die Spieler in die Pflicht.",
-   "clubs": [
-    16
    ],
    "transfer": false
   }
