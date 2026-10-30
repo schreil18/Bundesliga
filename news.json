@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T21:38:54Z",
+ "updated": "2026-10-30T22:39:44Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,12 +16,24 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/zentner-wir-haben-uns-wie-eine-schulmannschaft-verkauft-1266987/artikel",
+   "title": "Zentner: \"Wir haben uns wie eine Schulmannschaft verkauft\"",
+   "link": "https://www.kicker.de/zentner-wir-haben-uns-wie-eine-schulmannschaft-verkauft-1266987/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T22:31:09Z",
+   "teaser": "Das hatten sich die Mainzer anders vorgestellt: Nach einer aus ihrer Sicht katastrophalen englischen Woche stehen die Rheinhessen ziemlich blank da - und zugleich ratlos wie auch sauer.",
+   "clubs": [
+    81
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/elversberg-ueberrumpelt-mainz,spielbericht-sv-elversberg-mainz-05-100.html",
    "title": "Traumtor Campbell - Elversberg überrumpelt Mainz",
    "link": "https://www.sportschau.de/fussball/bundesliga/elversberg-ueberrumpelt-mainz,spielbericht-sv-elversberg-mainz-05-100.html",
    "source": "Sportschau",
    "published": "2026-10-30T21:37:30Z",
-   "teaser": "Aufsteiger SV Elversberg überrascht weiter in der Fußball-Bundesliga und nimmt den 1. FSV Mainz 05 schon in der ersten Halbzeit auseinander.",
+   "teaser": "Aufsteiger SV Elversberg überrascht weiter in der Fußball-Bundesliga und nimmt den FSV Mainz 05 schon in Hälfte eins auseinander. Der Höhepunkt aber kommt erst in der Nachspielzeit der Partie.",
    "clubs": [
     81,
     198
@@ -2529,18 +2541,6 @@
    "teaser": "Wieder gibt Stuttgart ein Spiel aus der Hand. Die Verantwortlichen reden jetzt Klartext und nehmen die Spieler in die Pflicht.",
    "clubs": [
     16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/danks-nach-kompany-ausfall-wir-wissen-wie-wir-arbeiten-muessen-1264594/video",
-   "title": "Danks nach Kompany-Ausfall: \"Wir wissen, wie wir arbeiten müssen\"",
-   "link": "https://www.kicker.de/danks-nach-kompany-ausfall-wir-wissen-wie-wir-arbeiten-muessen-1264594/video",
-   "source": "kicker",
-   "published": "2026-10-24T10:20:52Z",
-   "teaser": "Nach seinem Zusammenbruch am Freitag befindet sich Bayern-Trainer Vincent Kompany im Krankenhaus. In den nächsten Wochen werden die Bayern ohne den Belgier auskommen müssen. Solange übernimmt Co-Trainer Aaron Danks, der versucht, Ruhe in …",
-   "clubs": [
-    40
    ],
    "transfer": false
   }
