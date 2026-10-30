@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T08:54:12Z",
+ "updated": "2026-10-30T09:51:25Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/kimmich-kehrt-wohl-zurueck-fuer-neuer-kommt-das-bvb-spiel-zu-frueh-1266728/artikel",
+   "title": "Kimmich kehrt wohl zurück - Für Neuer kommt das BVB-Spiel \"zu früh\"",
+   "link": "https://www.kicker.de/kimmich-kehrt-wohl-zurueck-fuer-neuer-kommt-das-bvb-spiel-zu-frueh-1266728/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T09:05:45Z",
+   "teaser": "Fürs Bundesliga-Schlagerspiel gegen Borussia Dortmund kann der FC Bayern wohl wieder auf Joshua Kimmich zurückgreifen. Manuel Neuer wird noch nicht wieder mitwirken können.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/wie-kovac-und-kompany-ihre-trainerteams-organisieren,bundesliga-update-rueckblick-spieltag-sechsundzwanzig-104.html",
    "title": "Bundesliga Update Podcast: Wie arbeiten Trainer in der Bundesliga?",
@@ -2533,19 +2546,6 @@
    "teaser": "Die Fans von Borussia Dortmund sollen während den Spielen ihr Handy nicht mehr benutzen und in den \"FanModus\" wechseln. Aber was erlaubt Niko Kovac eigentlich seinen Spielern?",
    "clubs": [
     7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/swr/swr-noch-selbstbewusster-stuttgarts-jamie-leweling-kommt-in-fahrt-100.html",
-   "title": "\"Noch selbstbewusster\" - Stuttgarts Jamie Leweling kommt in Fahrt",
-   "link": "https://www.sportschau.de/regional/swr/swr-noch-selbstbewusster-stuttgarts-jamie-leweling-kommt-in-fahrt-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-23T09:47:39Z",
-   "teaser": "Der VfB Stuttgart hadert mit dem 1:1 gegen Atlético Madrid. Stürmer Jamie Leweling hat dennoch gute Laune - und könnte auch gegen Mönchengladbach zum Erfolgsfaktor werden.",
-   "clubs": [
-    16,
-    87
    ],
    "transfer": false
   }
