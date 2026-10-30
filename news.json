@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T13:59:32Z",
+ "updated": "2026-10-30T14:56:36Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,9 +16,61 @@
  ],
  "items": [
   {
+   "id": "https://www.sportschau.de/fussball/bundesliga/sv-07-elversberg-gegen-1-fsv-mainz-05,audiostream-sv-07-elversberg-gegen-1-fsv-mainz-05-104.html",
+   "title": "Live hören: SV 07 Elversberg gegen 1. FSV Mainz 05 - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/sv-07-elversberg-gegen-1-fsv-mainz-05,audiostream-sv-07-elversberg-gegen-1-fsv-mainz-05-104.html",
+   "source": "Sportschau",
+   "published": "2026-10-30T19:15:00Z",
+   "teaser": "8. Spieltag: Anpfiff des Spiels ist am 30.10.2026 um 20:30 Uhr. 1. FSV Mainz 05 spielt in Elversberg.",
+   "clubs": [
+    81,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bvb-ohne-chance-das-sagen-die-zahlen-wenn-ein-spitzenreiter-auf-den-direkten-verfolger-trifft-1266620/artikel",
+   "title": "BVB ohne Chance? Das sagen die Zahlen, wenn ein Spitzenreiter auf den direkten Verfolger trifft",
+   "link": "https://www.kicker.de/bvb-ohne-chance-das-sagen-die-zahlen-wenn-ein-spitzenreiter-auf-den-direkten-verfolger-trifft-1266620/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T14:30:23Z",
+   "teaser": "21-mal standen sich Bayern und Dortmund im direkten Duell gegenüber, wenn sie auf den ersten beiden Plätzen lagen. Wir klären auf, welche Teams am häufigsten bei einem solchen Spitzenspiel dabei waren, wann Bayern zuletzt fehlte und warum …",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/torunarigha-lindert-hamburgs-abwehrsorgen-fragezeichen-bei-bornauw-1266825/artikel",
+   "title": "Torunarigha lindert Hamburgs Abwehrsorgen - Fragezeichen bei Bornauw",
+   "link": "https://www.kicker.de/torunarigha-lindert-hamburgs-abwehrsorgen-fragezeichen-bei-bornauw-1266825/artikel",
+   "source": "kicker",
+   "published": "2026-10-30T14:00:33Z",
+   "teaser": "Die Hamburger Verletzungssorgen werden vor dem Bundesliga-Duell mit Frankfurt ein wenig kleiner. Jordan Torunarigha kehrt in den Kader zurück, bei Sebastiaan Bornauw steht dagegen noch ein Fragezeichen.",
+   "clubs": [
+    91,
+    100
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/wagner-von-steffen-baumgart-gibt-viele-goldene-ratschlaege-1266830/video",
    "title": "Wagner: \"Von Steffen Baumgart gibt viele goldene Ratschläge\"",
    "link": "https://www.kicker.de/wagner-von-steffen-baumgart-gibt-viele-goldene-ratschlaege-1266830/video",
+   "source": "kicker",
+   "published": "2026-10-30T13:47:12Z",
+   "teaser": "Köln-Trainer René Wagner spricht vor dem Bundesliga-Duell gegen Union Berlin über die Schlüsse aus dem deutlichen Pokal-Sieg und ein Gespräch mit dem ehemaligen Köln und Union-Trainer Stefffen Baumgart.",
+   "clubs": [
+    80,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wagner-von-steffen-baumgart-gibt-es-viele-goldene-ratschlaege-1266830/video",
+   "title": "Wagner: \"Von Steffen Baumgart gibt es viele goldene Ratschläge\"",
+   "link": "https://www.kicker.de/wagner-von-steffen-baumgart-gibt-es-viele-goldene-ratschlaege-1266830/video",
    "source": "kicker",
    "published": "2026-10-30T13:47:12Z",
    "teaser": "Köln-Trainer René Wagner spricht vor dem Bundesliga-Duell gegen Union Berlin über die Schlüsse aus dem deutlichen Pokal-Sieg und ein Gespräch mit dem ehemaligen Köln und Union-Trainer Stefffen Baumgart.",
@@ -2481,58 +2533,6 @@
    "source": "kicker",
    "published": "2026-10-23T19:56:32Z",
    "teaser": "Beim VfB Stuttgart läuft längst nicht alles rund, nichtsdestotrotz gehen die Schwaben gegen das punktlose Schlusslicht Gladbach als klarer Favorit ins Spiel.",
-   "clubs": [
-    16,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194353/vfb-stuttgart_borussia-moenchengladbach/liveticker",
-   "title": "Jetzt live - Gladbach dreht verrückte Partie gegen Stuttgart",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194353/vfb-stuttgart_borussia-moenchengladbach/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-23T19:45:32Z",
-   "teaser": "In der Anfangsphase sah es so aus, als könnte Stuttgart die bisher noch punktlosen Gladbacher vorführen - aber dann kippte das Spiel. Gladbach glich aus, ließ riesige Chancen aus und ging dann doch in Führung.",
-   "clubs": [
-    16,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-ploetzlich-ist-gladbach-am-druecker-mohya-an-die-latte-1263985/artikel",
-   "title": "LIVE! Plötzlich ist Gladbach am Drücker: Mohya an die Latte",
-   "link": "https://www.kicker.de/live-ploetzlich-ist-gladbach-am-druecker-mohya-an-die-latte-1263985/artikel",
-   "source": "kicker",
-   "published": "2026-10-23T19:20:43Z",
-   "teaser": "Beim VfB Stuttgart läuft längst nicht alles rund, nichtsdestotrotz gehen die Schwaben gegen das punktlose Schlusslicht Gladbach als klarer Favorit ins Spiel.",
-   "clubs": [
-    16,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-nicolas-sieht-bei-demirovics-direktabnahme-schlecht-aus-stuttgart-fuehrt-1263985/artikel",
-   "title": "LIVE! Nicolas sieht bei Demirovics Direktabnahme schlecht aus: Stuttgart führt",
-   "link": "https://www.kicker.de/live-nicolas-sieht-bei-demirovics-direktabnahme-schlecht-aus-stuttgart-fuehrt-1263985/artikel",
-   "source": "kicker",
-   "published": "2026-10-23T18:36:26Z",
-   "teaser": "Beim VfB Stuttgart läuft längst nicht alles rund, nichtsdestotrotz gehen die Schwaben gegen das punktlose Schlusslicht Gladbach als klarer Favorit ins Spiel.",
-   "clubs": [
-    16,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/vfb-stuttgart-gegen-borussia-moenchengladbach,audiostream-vfb-stuttgart-gegen-borussia-moenchengladbach-106.html",
-   "title": "Live hören: VfB Stuttgart gegen Borussia Mönchengladbach - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/vfb-stuttgart-gegen-borussia-moenchengladbach,audiostream-vfb-stuttgart-gegen-borussia-moenchengladbach-106.html",
-   "source": "Sportschau",
-   "published": "2026-10-23T18:15:00Z",
-   "teaser": "7. Spieltag: Anpfiff des Spiels ist am 23.10.2026 um 20:30 Uhr. Borussia Mönchengladbach spielt in Stuttgart.",
    "clubs": [
     16,
     87
