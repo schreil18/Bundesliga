@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T19:39:35Z",
+ "updated": "2026-10-31T20:36:38Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,83 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/ilzer-trotz-pleite-gelassen-mir-ist-nicht-bange-um-mein-team-1267242/video",
+   "title": "Ilzer trotz Pleite gelassen: \"Mir ist nicht bange um mein Team\"",
+   "link": "https://www.kicker.de/ilzer-trotz-pleite-gelassen-mir-ist-nicht-bange-um-mein-team-1267242/video",
+   "source": "kicker",
+   "published": "2026-10-31T20:17:57Z",
+   "teaser": "Trotz des Pokalaus und der Niederlage gegen Bremen bleibt Christian Ilzer positiv gestimmt. Zwar befinde sich der Verein in einer schwierigen Lage, Lösungen dafür seien aber auf dem Platz zu sehen, so der Coach.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/muslic-nur-mit-gut-verteidigen-werden-wir-die-ziele-nicht-erreichen-1267236/video",
+   "title": "Muslic: \"Nur mit gut verteidigen werden wir die Ziele nicht erreichen\"",
+   "link": "https://www.kicker.de/muslic-nur-mit-gut-verteidigen-werden-wir-die-ziele-nicht-erreichen-1267236/video",
+   "source": "kicker",
+   "published": "2026-10-31T20:07:17Z",
+   "teaser": "Nach der 0:2-Niederlage gegen Leipzig spricht Schalke Trainer Miron Muslic über die gute Defensivarbeit, aber auch die geringe Torausbeute der Schalker.",
+   "clubs": [
+    1635,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
+   "title": "FC Bayern und Harry Kane feiern sich gegen den BVB zu früh",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T19:42:50Z",
+   "teaser": "Vor dem Anpfiff hatte es die Weltfußballer-Party für Harry Kane gegeben, kurz vor Schluss sah auch alles nach einem Sieg des FC Bayern aus - doch dann schlug Borussia Dortmund durch Fabio Silva zu.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/martinez-nimmt-es-locker-die-stimmung-kocht-manchmal-hoch-1267226/video",
+   "title": "Martinez nimmt es locker: \"Die Stimmung kocht manchmal hoch\"",
+   "link": "https://www.kicker.de/martinez-nimmt-es-locker-die-stimmung-kocht-manchmal-hoch-1267226/video",
+   "source": "kicker",
+   "published": "2026-10-31T19:37:30Z",
+   "teaser": "Leverkusen und Stuttgart liefern sich ein umkämpftes Duell. Nach der Niederlage von Bayer spricht Carles Martinez über die hitzigen Szenen zwischen beiden Mannschaften und den Trainern.",
+   "clubs": [
+    6,
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bayern-bangt-um-saibari-und-gnabry-auch-olise-muss-runter-1267184/artikel",
+   "title": "Bayern bangt um Saibari und Gnabry - Auch Olise muss runter",
+   "link": "https://www.kicker.de/bayern-bangt-um-saibari-und-gnabry-auch-olise-muss-runter-1267184/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T19:36:04Z",
+   "teaser": "Dem FC Bayern München drohen weitere Ausfälle im Offensivbereich: Im Topspiel gegen Borussia Dortmund mussten sowohl Ismael Saibari als auch Serge Gnabry früh ausgewechselt werden.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hoeness-stolz-nach-vfb-sieg-gefightet-wie-die-loewen-1267225/video",
+   "title": "Hoeneß stolz nach VfB-Sieg: \"Gefightet wie die Löwen\"",
+   "link": "https://www.kicker.de/hoeness-stolz-nach-vfb-sieg-gefightet-wie-die-loewen-1267225/video",
+   "source": "kicker",
+   "published": "2026-10-31T19:35:02Z",
+   "teaser": "Besonders der Kampfgeist seiner Mannschaft beeindruckte Sebastian Hoeneß. Beim 4:2-Sieg in Leverkusen warf der VfB alles in die Waagschale.",
+   "clubs": [
+    6,
+    16
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
    "title": "2:2! BVB belohnt sich für leidenschaftlichen Auftritt bei den Bayern",
@@ -35,19 +112,6 @@
    "source": "kicker",
    "published": "2026-10-31T19:29:05Z",
    "teaser": "Kein Sieger im Klassiker: Der FC Bayern München und Borussia Dortmund haben sich im Bundesliga-Topspiel 2:2 getrennt. Wermutstropfen für den Rekordmeister: Kane verschoss einen Elfmeter, Saibari und Gnabry schieden verletzt aus.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
-   "title": "FC Bayern und Harry Kane feiern sich gegen den BVB zu früh",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T19:29:04Z",
-   "teaser": "Vor dem Anpfiff hatte es die Weltfußballer-Party für Harry Kane gegeben, kurz vor Schluss sah auch alles nach einem Sieg aus - doch dann schlug Borussia Dortmund durch Fabio Silva zu.",
    "clubs": [
     40,
     7
@@ -274,6 +338,19 @@
    "transfer": false
   },
   {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-gladbach-wartet-weiter-auf-den-ersten-heimdreier-100.html",
+   "title": "Gladbach wartet weiter auf den ersten Heimdreier",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-gladbach-wartet-weiter-auf-den-ersten-heimdreier-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T17:13:00Z",
+   "teaser": "Borussia Mönchengladbach wartet weiter auf den ersten Heimsieg der Saison. Gegen Paderborn langte es nur zu einem torlosen Remis.",
+   "clubs": [
+    87,
+    31
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/nach-kritik-an-karl-berater-ballack-kontert-eberl-und-hoeness-1267153/artikel",
    "title": "Nach Kritik an Karl: Berater Ballack kontert Eberl und Hoeneß",
    "link": "https://www.kicker.de/nach-kritik-an-karl-berater-ballack-kontert-eberl-und-hoeness-1267153/artikel",
@@ -369,25 +446,12 @@
    "link": "https://www.sportschau.de/fussball/bundesliga/freiburg-macht-optimum-aus-einem-grusel-kick,spielbericht-fc-augsburg-sc-freiburg-112.html",
    "source": "Sportschau",
    "published": "2026-10-31T16:25:30Z",
-   "teaser": "Der SC Freiburg entscheidet einen lange müden Kick beim FC Augsburg mit einem späten Siegtreffer und ist weiter härtester Verfolger der beiden Top-Teams Bayern und Dortmund.",
+   "teaser": "Der SC Freiburg entscheidet einen lange müden Kick beim FC Augsburg mit seinem späten Siegtreffer und ist weiter härtester Verfolger der beiden Top-Teams Bayern und Dortmund.",
    "clubs": [
     40,
     7,
     112,
     95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-gladbach-wartet-weiter-auf-den-ersten-heimdreier-100.html",
-   "title": "Gladbach wartet weiter auf den ersten Heimdreier",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-gladbach-wartet-weiter-auf-den-ersten-heimdreier-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T16:20:00Z",
-   "teaser": "Borussia Mönchengladbach wartet weiter auf den ersten Heimsieg der Saison. Gegen Paderborn langte es nur zu einem torlosen Remis.",
-   "clubs": [
-    87,
-    31
    ],
    "transfer": false
   },
@@ -2458,70 +2522,6 @@
    "teaser": "Niclas Füllkrug baute seine bemerkenswerte Elfmeter-Serie in Mainz aus - auch wegen Mitchell Weiser? Dessen Rolle passte zum Zoff des Tages.",
    "clubs": [
     81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/warum-in-freiburg-vor-dem-bayern-spiel-die-sinne-geschaerft-sind-1264710/artikel",
-   "title": "Warum in Freiburg vor dem Bayern-Spiel die Sinne geschärft sind",
-   "link": "https://www.kicker.de/warum-in-freiburg-vor-dem-bayern-spiel-die-sinne-geschaerft-sind-1264710/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T12:22:06Z",
-   "teaser": "Nach dem nahezu perfekten Saisonstart hat der SC Freiburg gegen zwei Top-Klubs zwei Niederlagen kassiert. Nun trifft der Sport-Club mit dem FC Bayern auf das nächste Spitzenteam, gegen das es bisher wenig zu holen war. Doch womöglich kommt …",
-   "clubs": [
-    40,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-hsv-ausfaelle-bedeuten-eine-doppelte-herausforderung-1264928/artikel",
-   "title": "Die HSV-Ausfälle bedeuten eine doppelte Herausforderung",
-   "link": "https://www.kicker.de/die-hsv-ausfaelle-bedeuten-eine-doppelte-herausforderung-1264928/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T11:47:31Z",
-   "teaser": "Der HSV hat in Paderborn mit 0:1 ein Spiel und wieder zwei Spieler verloren. Die sich von Woche zu Woche zuspitzende Personalsituation stellt Trainer Merlin Polzin vor eine doppelte Herausforderung.",
-   "clubs": [
-    100,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/platzwunden-und-nasenbeinbruch-schalke-vermeldet-diagnosen-fuer-gosens-und-el-faouzi-1264890/artikel",
-   "title": "Platzwunden und Nasenbeinbruch: Schalke vermeldet Diagnosen für Gosens und El-Faouzi",
-   "link": "https://www.kicker.de/platzwunden-und-nasenbeinbruch-schalke-vermeldet-diagnosen-fuer-gosens-und-el-faouzi-1264890/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T10:49:49Z",
-   "teaser": "Die Zahl der verletzten oder zumindest angeschlagenen Schalker summiert sich mittlerweile auf eine komplette Elf. Am Sonntag veröffentlichte der Klub ein Update zu Robin Gosens' und Soufiane El-Faouzis Kopfverletzungen.",
-   "clubs": [
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/platzwunden-und-nasenbeinbruch-schalke-vermeldet-diagnosen-bei-gosens-und-el-faouzi-1264890/artikel",
-   "title": "Platzwunden und Nasenbeinbruch: Schalke vermeldet Diagnosen bei Gosens und El-Faouzi",
-   "link": "https://www.kicker.de/platzwunden-und-nasenbeinbruch-schalke-vermeldet-diagnosen-bei-gosens-und-el-faouzi-1264890/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T10:49:49Z",
-   "teaser": "Die Zahl der verletzten oder zumindest angeschlagenen Schalker summiert sich mittlerweile auf eine komplette Elf. Am Sonntag veröffentlichte der Klub ein Update zu Robin Gosens' und Soufiane El-Faouzis Kopfverletzungen.",
-   "clubs": [
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/werder-vor-dem-goldenen-oktober-das-war-letztes-jahr-nicht-bei-jedem-so-1264862/artikel",
-   "title": "Werder vor dem goldenen Oktober? \"Das war letztes Jahr nicht bei jedem so\"",
-   "link": "https://www.kicker.de/werder-vor-dem-goldenen-oktober-das-war-letztes-jahr-nicht-bei-jedem-so-1264862/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T09:58:56Z",
-   "teaser": "Der Sieg in Mainz, das Pokalspiel in Dortmund - und der nächste Sprung in der Bundesliga-Tabelle? Der SV Werder Bremen steht vor einer bedeutsamen Woche. Mit einem Niclas Füllkrug in Top-Form, der das DFB-Thema zwar selbst weiter von sich …",
-   "clubs": [
-    7,
-    81,
-    134
    ],
    "transfer": false
   }
