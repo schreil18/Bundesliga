@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T13:25:13Z",
+ "updated": "2026-10-31T14:13:48Z",
  "sources": [
   {
    "name": "kicker",
@@ -101,6 +101,22 @@
    "published": "2026-10-31T14:10:00Z",
    "teaser": "Bundesliga live - alle Spiele am 31.10.2026 um 15:30 Uhr in der Konferenz.",
    "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-bundesliga-debuet-fuer-tsg-talent-batz-im-borussia-tor-matanovic-auf-der-bank-1266547/artikel",
+   "title": "LIVE! Bundesliga-Debüt für TSG-Talent - Batz im Borussia-Tor - Matanovic auf der Bank",
+   "link": "https://www.kicker.de/live-bundesliga-debuet-fuer-tsg-talent-batz-im-borussia-tor-matanovic-auf-der-bank-1266547/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T13:32:32Z",
+   "teaser": "Freiburg (in Augsburg) führt auf Platz 3 ein Verfolger-Quartett an, das am Samstagnachmittag zur gleichen Zeit am Ball ist. Gladbach hat nach dem ersten Sieg Lunte gerochen - gelingt gegen Paderborn der nächste Dreier?",
+   "clubs": [
+    112,
+    175,
+    87,
+    95,
+    31
+   ],
    "transfer": false
   },
   {
@@ -2499,19 +2515,6 @@
    "clubs": [
     100,
     31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/amiri-zum-wortgefecht-mit-fuellkrug-ein-paar-beleidigungen-sind-gefallen-1264701/artikel",
-   "title": "Amiri zum Wortgefecht mit Füllkrug: \"Ein paar Beleidigungen sind gefallen\"",
-   "link": "https://www.kicker.de/amiri-zum-wortgefecht-mit-fuellkrug-ein-paar-beleidigungen-sind-gefallen-1264701/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T17:14:26Z",
-   "teaser": "Das Spiel hatte es in sich. Am Samstagnachmittag lieferten sich der 1. FSV Mainz 05 und der SV Werder Bremen ein äußerst leidenschaftliches Duell. Nach Schlusspfiff kochten die Emotionen über. Im Blickpunkt: Nadiem Amiri und Niclas …",
-   "clubs": [
-    81,
-    134
    ],
    "transfer": false
   }
