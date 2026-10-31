@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T14:13:48Z",
+ "updated": "2026-10-31T15:08:54Z",
  "sources": [
   {
    "name": "kicker",
@@ -22,6 +22,51 @@
    "source": "Sportschau",
    "published": "2026-10-31T17:15:00Z",
    "teaser": "8. Spieltag: Anpfiff des Spiels ist am 31.10.2026 um 18:30 Uhr. Borussia Dortmund spielt in München.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3909/",
+   "title": "Jetzt live - Schon drei Tore in Leverkusen, Gladbach trifft",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3909/",
+   "source": "Sportschau",
+   "published": "2026-10-31T15:05:34Z",
+   "teaser": "Der VfB Stuttgart hat in Leverkusen den Anschlusstreffer kassiert. Der FC Augsburg führt gegen Freiburg. Und Gladbach hat im Kellerduell gegen Paderborn getroffen.",
+   "clubs": [
+    6,
+    16,
+    112,
+    87,
+    95,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-bayer-verkuerzt-nach-fehlstart-feiner-fuss-von-gregoritsch-fuellkrug-verpasst-weiser-verletzt-1266547/artikel",
+   "title": "LIVE! Bayer verkürzt nach Fehlstart - Feiner Fuß von Gregoritsch - Füllkrug verpasst, Weiser verletzt",
+   "link": "https://www.kicker.de/live-bayer-verkuerzt-nach-fehlstart-feiner-fuss-von-gregoritsch-fuellkrug-verpasst-weiser-verletzt-1266547/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T14:44:38Z",
+   "teaser": "Freiburg (in Augsburg) führt auf Platz 3 ein Verfolger-Quartett an, das am Samstagnachmittag zur gleichen Zeit am Ball ist. Gladbach hat nach dem ersten Sieg Lunte gerochen - gelingt gegen Paderborn der nächste Dreier?",
+   "clubs": [
+    112,
+    87,
+    95,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/die-elf-legendaersten-duelle-zwischen-dortmund-und-bayernelf-880817/artikel",
+   "title": "Die elf legendärsten Duelle zwischen Dortmund und Bayern",
+   "link": "https://www.kicker.de/die-elf-legendaersten-duelle-zwischen-dortmund-und-bayernelf-880817/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T14:42:05Z",
+   "teaser": "Was waren die denkwürdigsten Duelle zwischen dem BVB und Bayern? Ein Ranking von kicker-Reporter Frank Linkesch - mit Demütigungen auf beiden Seiten und einem unvergessenen Karsamstag.",
    "clubs": [
     40,
     7
@@ -115,24 +160,6 @@
     175,
     87,
     95,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3909/",
-   "title": "Ab 15.30 Uhr live - Kellerduell in Gladbach, Schalke gegen Leipzig",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3909/",
-   "source": "Sportschau",
-   "published": "2026-10-31T13:13:59Z",
-   "teaser": "In der Bundesliga empfängt Werder Bremen die TSG Hoffenheim. Paderborn trifft im Keller auf Mönchengladbach, das vergangene Woche gegen aus der Form geratene Stuttgarter ihren ersten Saisonsieg feierten.",
-   "clubs": [
-    1635,
-    16,
-    175,
-    87,
-    134,
-    9,
     31
    ],
    "transfer": false
@@ -2490,31 +2517,6 @@
    "clubs": [
     65,
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/rekordsieg-ohne-glanz-ergebnis-besser-als-der-vortrag-1264745/video",
-   "title": "Rekordsieg ohne Glanz: \"Ergebnis besser als der Vortrag\"",
-   "link": "https://www.kicker.de/rekordsieg-ohne-glanz-ergebnis-besser-als-der-vortrag-1264745/video",
-   "source": "kicker",
-   "published": "2026-10-24T17:46:45Z",
-   "teaser": "Gegen Elversberg konnte RB seine beeindruckende Heim-Serie ausbauen, die mittlerweile sogar Rekordformat angenommen hat. Der Vortrag entsprach dem Ergebnis allerdings nicht.",
-   "clubs": [
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/jetzt-hat-er-riesen-theater-aufregung-beim-hsv-wegen-schiedsrichter-entscheidung-1264712/artikel",
-   "title": "\"Jetzt hat er Riesen-Theater\": Aufregung beim HSV wegen Schiedsrichter-Entscheidung",
-   "link": "https://www.kicker.de/jetzt-hat-er-riesen-theater-aufregung-beim-hsv-wegen-schiedsrichter-entscheidung-1264712/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T17:41:12Z",
-   "teaser": "Hamburgs Gastspiel in Paderborn kam lange Zeit als Langweiler daher, doch nach Wiederanpfiff änderte sich das - und nach Abpfiff war die Aufregung groß. Der Grund: ein vermeintliches Foulspiel vor dem Siegtreffer.",
-   "clubs": [
-    100,
-    31
    ],
    "transfer": false
   }
