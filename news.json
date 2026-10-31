@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T08:20:12Z",
+ "updated": "2026-10-31T09:16:55Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/einigung-erzielt-chatzialexiou-wird-sportvorstand-in-frankfurt-1267031/artikel",
+   "title": "Einigung erzielt: Chatzialexiou wird Sportvorstand in Frankfurt",
+   "link": "https://www.kicker.de/einigung-erzielt-chatzialexiou-wird-sportvorstand-in-frankfurt-1267031/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T09:07:10Z",
+   "teaser": "Eintracht Frankfurt hat einen Nachfolger für Sportvorstand Markus Krösche gefunden: Joti Chatzialexiou kommt vom 1. FC Nürnberg - nach kicker-Informationen ist der Wechsel fix.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/fussball-mit-grusel-faktor-welche-partien-fans-auf-beiden-seiten-erschauern-liessen-1265774/artikel",
    "title": "Fußball mit Grusel-Faktor: Welche Partien Fans auf beiden Seiten erschauern ließen",
@@ -2512,23 +2524,6 @@
     198
    ],
    "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/live-fuellkrug-mit-elfmeter-doppelpack-sorgen-um-gosens-und-el-faouzi-1263993/artikel",
-   "title": "LIVE! Füllkrug mit Elfmeter-Doppelpack - Sorgen um Gosens und El-Faouzi",
-   "link": "https://www.kicker.de/live-fuellkrug-mit-elfmeter-doppelpack-sorgen-um-gosens-und-el-faouzi-1263993/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T12:29:12Z",
-   "teaser": "Leipzig plant vor heimischer Kulisse gegen Elversberg den vierten Heimdreier. Mainz (gegen Bremen) will seine Großzügigkeit zuhause beenden, In Köln trifft sich beim Duell gegen Schalke viel Tradition.",
-   "clubs": [
-    1635,
-    81,
-    134,
-    65,
-    9,
-    198
-   ],
-   "transfer": false
   }
  ]
 }
