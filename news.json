@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T09:16:55Z",
+ "updated": "2026-10-31T10:13:45Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,11 +16,112 @@
  ],
  "items": [
   {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-muenchen-gegen-borussia-dortmund,audiostream-bayern-muenchen-gegen-borussia-dortmund-108.html",
+   "title": "Live hören: Bayern München gegen Borussia Dortmund - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-muenchen-gegen-borussia-dortmund,audiostream-bayern-muenchen-gegen-borussia-dortmund-108.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T17:15:00Z",
+   "teaser": "8. Spieltag: Anpfiff des Spiels ist am 31.10.2026 um 18:30 Uhr. Borussia Dortmund spielt in München.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/werder-bremen-gegen-tsg-hoffenheim,audiostream-werder-bremen-gegen-tsg-hoffenheim-100.html",
+   "title": "Live hören: Werder Bremen gegen TSG Hoffenheim - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/werder-bremen-gegen-tsg-hoffenheim,audiostream-werder-bremen-gegen-tsg-hoffenheim-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T14:15:00Z",
+   "teaser": "8. Spieltag: Anpfiff des Spiels ist am 31.10.2026 um 15:30 Uhr. TSG Hoffenheim spielt in Bremen.",
+   "clubs": [
+    175,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/fc-augsburg-gegen-sc-freiburg,audiostream-fc-augsburg-gegen-sc-freiburg-108.html",
+   "title": "Live hören: FC Augsburg gegen SC Freiburg - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/fc-augsburg-gegen-sc-freiburg,audiostream-fc-augsburg-gegen-sc-freiburg-108.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T14:15:00Z",
+   "teaser": "8. Spieltag: Anpfiff des Spiels ist am 31.10.2026 um 15:30 Uhr. SC Freiburg spielt in Augsburg.",
+   "clubs": [
+    112,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bayer-leverkusen-gegen-vfb-stuttgart,audiostream-bayer-leverkusen-gegen-vfb-stuttgart-110.html",
+   "title": "Live hören: Bayer Leverkusen gegen VfB Stuttgart - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bayer-leverkusen-gegen-vfb-stuttgart,audiostream-bayer-leverkusen-gegen-vfb-stuttgart-110.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T14:15:00Z",
+   "teaser": "8. Spieltag: Anpfiff des Spiels ist am 31.10.2026 um 15:30 Uhr. VfB Stuttgart spielt in Leverkusen.",
+   "clubs": [
+    6,
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/fc-schalke-04-gegen-rb-leipzig,audiostream-fc-schalke-04-gegen-rb-leipzig-104.html",
+   "title": "Live hören: FC Schalke 04 gegen RB Leipzig - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/fc-schalke-04-gegen-rb-leipzig,audiostream-fc-schalke-04-gegen-rb-leipzig-104.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T14:15:00Z",
+   "teaser": "8. Spieltag: Anpfiff des Spiels ist am 31.10.2026 um 15:30 Uhr. RB Leipzig spielt in Gelsenkirchen.",
+   "clubs": [
+    1635,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/borussia-moenchengladbach-gegen-sc-paderborn-07,audiostream-borussia-moenchengladbach-gegen-sc-paderborn-07-102.html",
+   "title": "Live hören: Borussia Mönchengladbach gegen SC Paderborn 07 - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/borussia-moenchengladbach-gegen-sc-paderborn-07,audiostream-borussia-moenchengladbach-gegen-sc-paderborn-07-102.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T14:15:00Z",
+   "teaser": "8. Spieltag: Anpfiff des Spiels ist am 31.10.2026 um 15:30 Uhr. SC Paderborn 07 spielt in Mönchengladbach.",
+   "clubs": [
+    87,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/8-spieltag-die-konferenz,audiostream-8-spieltag-die-konferenz-144.html",
+   "title": "Live hören: Die Konferenz - 8. Spieltag | Fußball Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/8-spieltag-die-konferenz,audiostream-8-spieltag-die-konferenz-144.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T14:10:00Z",
+   "teaser": "Bundesliga live - alle Spiele am 31.10.2026 um 15:30 Uhr in der Konferenz.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wagner-rechnet-den-klassenerhalt-vor-hoehere-mathematik-1267035/video",
+   "title": "Wagner rechnet den Klassenerhalt vor: \"Höhere Mathematik\"",
+   "link": "https://www.kicker.de/wagner-rechnet-den-klassenerhalt-vor-hoehere-mathematik-1267035/video",
+   "source": "kicker",
+   "published": "2026-10-31T09:56:38Z",
+   "teaser": "Elversberg-Trainer Vincent Wagner sprach nach dem 4:1-Sieg gegen Mainz über die Statistiken, die zuvor gegen sein Team gesprochen hatten. Der Aufsteiger steht mit 13 Punkten in der oberen Tabellenhälfte.",
+   "clubs": [
+    81,
+    198
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/einigung-erzielt-chatzialexiou-wird-sportvorstand-in-frankfurt-1267031/artikel",
    "title": "Einigung erzielt: Chatzialexiou wird Sportvorstand in Frankfurt",
    "link": "https://www.kicker.de/einigung-erzielt-chatzialexiou-wird-sportvorstand-in-frankfurt-1267031/artikel",
    "source": "kicker",
-   "published": "2026-10-31T09:07:10Z",
+   "published": "2026-10-31T09:33:03Z",
    "teaser": "Eintracht Frankfurt hat einen Nachfolger für Sportvorstand Markus Krösche gefunden: Joti Chatzialexiou kommt vom 1. FC Nürnberg - nach kicker-Informationen ist der Wechsel fix.",
    "clubs": [
     91
@@ -2410,120 +2511,6 @@
     91
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-frankfurt-steigert-sich-verdientes-0-0-zur-pause-in-dortmund-1264002/artikel",
-   "title": "LIVE! Frankfurt steigert sich: Verdientes 0:0 zur Pause in Dortmund",
-   "link": "https://www.kicker.de/live-frankfurt-steigert-sich-verdientes-0-0-zur-pause-in-dortmund-1264002/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T15:41:26Z",
-   "teaser": "Die letzten fünf Heimspiele gegen Frankfurt gewann Dortmund allesamt. Legt der BVB den sechsten Sieg in Serie nach?",
-   "clubs": [
-    7,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-guirassy-an-den-querbalken-bvb-erneut-im-lattenpech-1264002/artikel",
-   "title": "LIVE! Guirassy an den Querbalken: BVB erneut im Lattenpech",
-   "link": "https://www.kicker.de/live-guirassy-an-den-querbalken-bvb-erneut-im-lattenpech-1264002/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T15:41:26Z",
-   "teaser": "Die letzten fünf Heimspiele gegen Frankfurt gewann Dortmund allesamt. Legt der BVB den sechsten Sieg in Serie nach?",
-   "clubs": [
-    7,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/paderborn-gegen-hsv-2026-bundesliga-5226871/spielbericht",
-   "title": "Ausgerechnet Philippe versetzt Hamburg den K. o.",
-   "link": "https://www.kicker.de/paderborn-gegen-hsv-2026-bundesliga-5226871/spielbericht",
-   "source": "kicker",
-   "published": "2026-10-24T15:38:12Z",
-   "teaser": "Lange Zeit hielt der ersatzgeschwächte Hamburger SV beim SC Paderborn Stand, brachte offensiv aber kein Bein auf den Boden - und wurde kurz vor Schluss dann doch kalt erwischt. Ausgerechnet HSV-Leihgabe Rayan Philippe versetzte den …",
-   "clubs": [
-    100,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/schlimmer-zusammenprall-sorgen-um-gosens-und-el-faouzi-1264663/artikel",
-   "title": "Schlimmer Zusammenprall: Sorgen um Gosens und El-Faouzi",
-   "link": "https://www.kicker.de/schlimmer-zusammenprall-sorgen-um-gosens-und-el-faouzi-1264663/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T14:59:54Z",
-   "teaser": "Schalke sorgt sich um Robin Gosens und Soufiane El-Faouzi. Die Königsblauen verloren die beiden Akteure beim Gastspiel beim 1. FC Köln, als sie in der Luft mit den Köpfen zusammenprallten.",
-   "clubs": [
-    65,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-eberl-kompany-rueckkehr-auf-bank-erst-in-wochen-102.html",
-   "title": "Kompany-Rückkehr auf die Bank noch Wochen entfernt",
-   "link": "https://www.sportschau.de/regional/br/br-eberl-kompany-rueckkehr-auf-bank-erst-in-wochen-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-24T14:59:18Z",
-   "teaser": "Vincent Kompany befindet sich nach seinem Zusammenbruch in stabilem Zustand, muss aber weiter im Krankenhaus bleiben. Beim FC Bayern denkt niemand an eine schnelle Rückkehr: Sportvorstand Max Eberl rechnet mit einer Ausfallzeit von Wochen.",
-   "clubs": [
-    40
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/neuer-fehlt-den-bayern-in-freiburg-1264642/artikel",
-   "title": "Neuer fehlt den Bayern in Freiburg",
-   "link": "https://www.kicker.de/neuer-fehlt-den-bayern-in-freiburg-1264642/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T14:03:06Z",
-   "teaser": "Der FC Bayern tritt ohne seinen angeschlagenen Torhüter Manuel Neuer beim SC Freiburg an. Darüber informierten die Münchner am Samstagnachmittag.",
-   "clubs": [
-    40,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-werder-startet-mit-weiser-leipzig-wechselt-achtmal-1263993/artikel",
-   "title": "LIVE! Werder startet mit Weiser - Leipzig wechselt achtmal",
-   "link": "https://www.kicker.de/live-werder-startet-mit-weiser-leipzig-wechselt-achtmal-1263993/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T12:29:12Z",
-   "teaser": "Leipzig plant vor heimischer Kulisse gegen Elversberg den vierten Heimdreier. Mainz (gegen Bremen) will seine Großzügigkeit zuhause beenden, In Köln trifft sich beim Duell gegen Schalke viel Tradition.",
-   "clubs": [
-    1635,
-    81,
-    134,
-    65,
-    9,
-    198
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/live-fuellkrug-mit-elfmeter-doppelpack-hsv-und-fca-muessen-frueh-wechseln-union-nur-noch-zu-zehnt-1263993/artikel",
-   "title": "LIVE! Füllkrug mit Elfmeter-Doppelpack - HSV und FCA müssen früh wechseln - Union nur noch zu zehnt",
-   "link": "https://www.kicker.de/live-fuellkrug-mit-elfmeter-doppelpack-hsv-und-fca-muessen-frueh-wechseln-union-nur-noch-zu-zehnt-1263993/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T12:29:12Z",
-   "teaser": "Leipzig plant vor heimischer Kulisse gegen Elversberg den vierten Heimdreier. Mainz (gegen Bremen) will seine Großzügigkeit zuhause beenden, In Köln trifft sich beim Duell gegen Schalke viel Tradition.",
-   "clubs": [
-    1635,
-    81,
-    134,
-    95,
-    80,
-    65,
-    100,
-    9,
-    198
-   ],
-   "transfer": true
   }
  ]
 }
