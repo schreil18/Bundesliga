@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T11:09:21Z",
+ "updated": "2026-10-31T12:08:36Z",
  "sources": [
   {
    "name": "kicker",
@@ -104,12 +104,42 @@
    "transfer": false
   },
   {
-   "id": "https://www.kicker.de/fischer-schonungslos-muss-aufpassen-was-ich-sage-1267049/video",
-   "title": "Fischer schonungslos: \"Muss aufpassen, was ich sage\"",
-   "link": "https://www.kicker.de/fischer-schonungslos-muss-aufpassen-was-ich-sage-1267049/video",
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
+   "title": "Ab 18.30 Uhr live - Bundesliga-Topspiel in München",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-31T12:02:08Z",
+   "teaser": "In der Bundesliga kommt es zum absoluten Topspiel zwischen Bayern München und Borussia Dortmund. Beide Teams stehen punktgleich an der Tabellenspitze.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3909/",
+   "title": "Ab 15.30 Uhr live - Kellerduell in Mönchengladbach, Leverkusen empfängt Stuttgart",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3909/",
+   "source": "Sportschau",
+   "published": "2026-10-31T11:46:24Z",
+   "teaser": "In der Bundesliga-Konferenz empfängt Werder Bremen die TSG Hoffenheim. Paderborn trifft im Keller auf Mönchengladbach, das vergangene Woche gegen aus der Form geratene Stuttgarter ihren ersten Saisonsieg feierten.",
+   "clubs": [
+    6,
+    16,
+    175,
+    87,
+    134,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/das-nervt-mich-extremst-pinckert-aergert-trotz-4-1-die-elversberger-nachlaessigkeit-1267058/artikel",
+   "title": "\"Das nervt mich extremst\": Pinckert ärgert trotz 4:1 die Elversberger Nachlässigkeit",
+   "link": "https://www.kicker.de/das-nervt-mich-extremst-pinckert-aergert-trotz-4-1-die-elversberger-nachlaessigkeit-1267058/artikel",
    "source": "kicker",
-   "published": "2026-10-31T10:39:16Z",
-   "teaser": "Mainz-Trainer Urs Fischer kritisiert die Leistung seiner Mannschaft nach dem frühen 1:4 gegen Elversberg deutlich. Vor allem die Zweikampfführung und das Defensivverhalten seien nicht bundesligatauglich.",
+   "published": "2026-10-31T11:45:11Z",
+   "teaser": "Die SV Elversberg hat mit 4:1 gegen Mainz 05 gewonnen. Ein so deutlicher Sieg sollte für einen Aufsteiger eigentlich ein Grund zur Freude sein, doch bei den Saarländern sieht man noch Verbesserungspotenzial.",
    "clubs": [
     81,
     198
@@ -121,12 +151,37 @@
    "title": "Chatzialexiou wird Krösche-Nachfolger bei der Eintracht",
    "link": "https://www.sportschau.de/regional/hr/hr-chatzialexiou-wird-kroesche-nachfolger-bei-der-eintracht-100.html",
    "source": "Sportschau",
-   "published": "2026-10-31T10:21:28Z",
+   "published": "2026-10-31T11:19:05Z",
    "teaser": "Eintracht Frankfurt hat die Suche nach einem Krösche-Nachfolger schnell abschließen können. Joti Chatzialexiou wechselt vom 1. FC Nürnberg an den Main und wird für die Hessen zum Schnäppchen. Offen ist allein, wann der neue Kaderplaner …",
    "clubs": [
     91
    ],
    "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/chatzialexiou-wird-eintracht-sportvorstand-in-frankfurt-nuernberg-laesst-zeitpunkt-offen-1267031/artikel",
+   "title": "Chatzialexiou wird Eintracht-Sportvorstand in Frankfurt - Nürnberg lässt Zeitpunkt offen",
+   "link": "https://www.kicker.de/chatzialexiou-wird-eintracht-sportvorstand-in-frankfurt-nuernberg-laesst-zeitpunkt-offen-1267031/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T11:14:40Z",
+   "teaser": "Eintracht Frankfurt hat einen Nachfolger für Sportvorstand Markus Krösche gefunden: Joti Chatzialexiou kommt vom 1. FC Nürnberg. Über den Zeitpunkt haben sich beide Klubs geeinigt - aber womöglich noch nicht final.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fischer-schonungslos-muss-aufpassen-was-ich-sage-1267049/video",
+   "title": "Fischer schonungslos: \"Muss aufpassen, was ich sage\"",
+   "link": "https://www.kicker.de/fischer-schonungslos-muss-aufpassen-was-ich-sage-1267049/video",
+   "source": "kicker",
+   "published": "2026-10-31T10:39:16Z",
+   "teaser": "Mainz-Trainer Urs Fischer kritisiert die Leistung seiner Mannschaft nach dem frühen 1:4 gegen Elversberg deutlich. Vor allem die Zweikampfführung und das Defensivverhalten seien nicht bundesligatauglich.",
+   "clubs": [
+    81,
+    198
+   ],
+   "transfer": false
   },
   {
    "id": "https://www.kicker.de/wagner-rechnet-den-klassenerhalt-vor-hoehere-mathematik-1267035/video",
@@ -157,6 +212,16 @@
    "id": "https://www.kicker.de/fussball-mit-grusel-faktor-welche-partien-fans-auf-beiden-seiten-erschauern-liessen-1265774/artikel",
    "title": "Fußball mit Grusel-Faktor: Welche Partien Fans auf beiden Seiten erschauern ließen",
    "link": "https://www.kicker.de/fussball-mit-grusel-faktor-welche-partien-fans-auf-beiden-seiten-erschauern-liessen-1265774/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T08:10:52Z",
+   "teaser": "Anlässlich Halloween präsentieren wir die gruseligsten Partien der Bundesliga-Geschichte: die sechs Duelle, die im kicker die Spielnote 6 erhielten.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/die-sechs-gruseligsten-spiele-der-bundesliga-geschichte-1265774/artikel",
+   "title": "Die sechs gruseligsten Spiele der Bundesliga-Geschichte",
+   "link": "https://www.kicker.de/die-sechs-gruseligsten-spiele-der-bundesliga-geschichte-1265774/artikel",
    "source": "kicker",
    "published": "2026-10-31T08:10:52Z",
    "teaser": "Anlässlich Halloween präsentieren wir die gruseligsten Partien der Bundesliga-Geschichte: die sechs Duelle, die im kicker die Spielnote 6 erhielten.",
@@ -2446,68 +2511,6 @@
    "clubs": [
     81,
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/verletzungssorgen-ausgerechnet-philippe-und-eine-wohltuende-hsv-analyse-1264724/video",
-   "title": "Verletzungssorgen, \"ausgerechnet\" Philippe und eine wohltuende HSV-Analyse",
-   "link": "https://www.kicker.de/verletzungssorgen-ausgerechnet-philippe-und-eine-wohltuende-hsv-analyse-1264724/video",
-   "source": "kicker",
-   "published": "2026-10-24T17:05:37Z",
-   "teaser": "Der Nachmittag in Paderborn hätte für den HSV kaum bitterer Laufen können. Nicht nur setzte es eine späte Niederlage durch den Treffer von Rayan Philippe, es kamen auch noch weitere Verletzte dazu.",
-   "clubs": [
-    100,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/demichelis-ueber-das-risiko-der-rb-rotation-heute-spricht-die-ganze-welt-davon-1264718/video",
-   "title": "Demichelis über das Risiko der RB-Rotation: \"Heute spricht die ganze Welt davon\"",
-   "link": "https://www.kicker.de/demichelis-ueber-das-risiko-der-rb-rotation-heute-spricht-die-ganze-welt-davon-1264718/video",
-   "source": "kicker",
-   "published": "2026-10-24T16:54:28Z",
-   "teaser": "Im Vergleich zum Spiel gegen Real Madrid rutschten acht neue RB-Spieler in die Startformation. Coach Martin Demichelis erklärte die Beweggründe dahinter.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/elversberg-coach-wagner-solide-0-2-zu-verlieren-ist-nicht-unser-ding-1264719/video",
-   "title": "Elversberg-Coach Wagner: \"Solide 0:2 zu verlieren ist nicht unser Ding\"",
-   "link": "https://www.kicker.de/elversberg-coach-wagner-solide-0-2-zu-verlieren-ist-nicht-unser-ding-1264719/video",
-   "source": "kicker",
-   "published": "2026-10-24T16:54:28Z",
-   "teaser": "In der Schlussphase wurde die Auswärtspleite von Elversberg in Leipzig noch deutlich. Coach Vincent Wagner erklärte den risikoreichen Ansatz, der RB in die Karten spielte.",
-   "clubs": [
-    1635,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/sorgen-um-gosens-und-el-faouzi-el-mala-entschuldigt-sich-1264663/artikel",
-   "title": "Sorgen um Gosens und El-Faouzi - El Mala entschuldigt sich",
-   "link": "https://www.kicker.de/sorgen-um-gosens-und-el-faouzi-el-mala-entschuldigt-sich-1264663/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T15:59:00Z",
-   "teaser": "Schalke sorgt sich um Robin Gosens und Soufiane El-Faouzi. Die Königsblauen verloren die beiden Akteure beim Gastspiel beim 1. FC Köln, als sie in der Luft mit den Köpfen zusammenprallten.",
-   "clubs": [
-    65,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-bvb-nimmt-platz-1-ins-visier-sabitzer-beginnt-1264002/artikel",
-   "title": "LIVE! BVB nimmt Platz 1 ins Visier - Sabitzer beginnt",
-   "link": "https://www.kicker.de/live-bvb-nimmt-platz-1-ins-visier-sabitzer-beginnt-1264002/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T15:41:26Z",
-   "teaser": "Die letzten fünf Heimspiele gegen Frankfurt gewann Dortmund allesamt. Legt der BVB den sechsten Sieg in Serie nach?",
-   "clubs": [
-    7,
-    91
    ],
    "transfer": false
   }
