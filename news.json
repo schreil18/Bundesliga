@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:30:14Z",
+ "updated": "2026-10-31T08:20:12Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/fussball-mit-grusel-faktor-welche-partien-fans-auf-beiden-seiten-erschauern-liessen-1265774/artikel",
+   "title": "Fußball mit Grusel-Faktor: Welche Partien Fans auf beiden Seiten erschauern ließen",
+   "link": "https://www.kicker.de/fussball-mit-grusel-faktor-welche-partien-fans-auf-beiden-seiten-erschauern-liessen-1265774/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T08:10:52Z",
+   "teaser": "Anlässlich Halloween präsentieren wir die gruseligsten Partien der Bundesliga-Geschichte: die sechs Duelle, die im kicker die Spielnote 6 erhielten.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wagners-mahnruf-nach-sve-sieg-junge-nationalspieler-werden-durch-den-fleischwolf-gedreht-1266981/artikel",
    "title": "Wagners Mahnruf nach SVE-Sieg: Junge Nationalspieler werden \"durch den Fleischwolf gedreht\"",
@@ -2507,23 +2517,6 @@
    "id": "https://www.kicker.de/live-fuellkrug-mit-elfmeter-doppelpack-sorgen-um-gosens-und-el-faouzi-1263993/artikel",
    "title": "LIVE! Füllkrug mit Elfmeter-Doppelpack - Sorgen um Gosens und El-Faouzi",
    "link": "https://www.kicker.de/live-fuellkrug-mit-elfmeter-doppelpack-sorgen-um-gosens-und-el-faouzi-1263993/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T12:29:12Z",
-   "teaser": "Leipzig plant vor heimischer Kulisse gegen Elversberg den vierten Heimdreier. Mainz (gegen Bremen) will seine Großzügigkeit zuhause beenden, In Köln trifft sich beim Duell gegen Schalke viel Tradition.",
-   "clubs": [
-    1635,
-    81,
-    134,
-    65,
-    9,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-mainz-ist-sofort-wieder-da-romulo-durch-die-beine-von-kristof-1263993/artikel",
-   "title": "LIVE! Mainz ist sofort wieder da - Romulo durch die Beine von Kristof",
-   "link": "https://www.kicker.de/live-mainz-ist-sofort-wieder-da-romulo-durch-die-beine-von-kristof-1263993/artikel",
    "source": "kicker",
    "published": "2026-10-24T12:29:12Z",
    "teaser": "Leipzig plant vor heimischer Kulisse gegen Elversberg den vierten Heimdreier. Mainz (gegen Bremen) will seine Großzügigkeit zuhause beenden, In Köln trifft sich beim Duell gegen Schalke viel Tradition.",
