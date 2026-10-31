@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T18:45:44Z",
+ "updated": "2026-10-31T19:39:35Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,123 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
+   "title": "2:2! BVB belohnt sich für leidenschaftlichen Auftritt bei den Bayern",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-31T19:29:06Z",
+   "teaser": "Borussia Dortmund hat mit Glück und Leidenschaft im Topspiel beim FC Bayern gepunktet. Harry Kane verschoss dabei bei einem Handelfmeter.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kane-fehlschuss-und-verletzungspech-bayern-gibt-sieg-gegen-bvb-aus-der-hand-1266739/artikel",
+   "title": "Kane-Fehlschuss und Verletzungspech: Bayern gibt Sieg gegen BVB aus der Hand",
+   "link": "https://www.kicker.de/kane-fehlschuss-und-verletzungspech-bayern-gibt-sieg-gegen-bvb-aus-der-hand-1266739/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T19:29:05Z",
+   "teaser": "Kein Sieger im Klassiker: Der FC Bayern München und Borussia Dortmund haben sich im Bundesliga-Topspiel 2:2 getrennt. Wermutstropfen für den Rekordmeister: Kane verschoss einen Elfmeter, Saibari und Gnabry schieden verletzt aus.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
+   "title": "FC Bayern und Harry Kane feiern sich gegen den BVB zu früh",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T19:29:04Z",
+   "teaser": "Vor dem Anpfiff hatte es die Weltfußballer-Party für Harry Kane gegeben, kurz vor Schluss sah auch alles nach einem Sieg aus - doch dann schlug Borussia Dortmund durch Fabio Silva zu.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/demichelis-ueber-druck-bei-rb-dann-gehe-ich-von-selbst-1267218/video",
+   "title": "Demichelis über Druck bei RB: \"Dann gehe ich von selbst\"",
+   "link": "https://www.kicker.de/demichelis-ueber-druck-bei-rb-dann-gehe-ich-von-selbst-1267218/video",
+   "source": "kicker",
+   "published": "2026-10-31T19:09:39Z",
+   "teaser": "Nach dem Sieg gegen Schalke wurde Martin Demichelis mal wieder auf das Thema Druck bei RB Leipzig angesprochen. Er erklärte, was passieren würde, sollte er mit dem Team die gesteckten Ziele verpassen.",
+   "clubs": [
+    1635,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/paderborn-zu-harmlos-kettemann-am-besten-nicht-so-viel-darueber-reden-1267207/video",
+   "title": "Paderborn zu harmlos? Kettemann: \"Am besten nicht so viel darüber reden\"",
+   "link": "https://www.kicker.de/paderborn-zu-harmlos-kettemann-am-besten-nicht-so-viel-darueber-reden-1267207/video",
+   "source": "kicker",
+   "published": "2026-10-31T18:53:54Z",
+   "teaser": "SCP-Trainer Ralf Kettemann spricht auf der Pressekonferenz nach dem Spiel gegen Gladbach über die Torchancen der Paderborner und wie mit der geringen Torausbeute umgegangen wird.",
+   "clubs": [
+    87,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nur-die-ballon-d-or-frage-bringt-fuellkrug-aus-dem-konzept-1267169/artikel",
+   "title": "Nur die Ballon-d'Or-Frage bringt Füllkrug aus dem Konzept",
+   "link": "https://www.kicker.de/nur-die-ballon-d-or-frage-bringt-fuellkrug-aus-dem-konzept-1267169/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T18:53:52Z",
+   "teaser": "Als erster Bundesliga-Profi seit 1996 bekam Harry Kane am Montag den Ballon d'Or überreicht. Doch ein anderer Top-Stürmer stellt den Engländer aktuell in den Schatten: Niclas Füllkrug baute bei Bremens 2:0 gegen Hoffenheim nicht nur seine …",
+   "clubs": [
+    175,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/keine-strukturelle-verletzung-treu-koennte-am-donnerstag-zurueckkehren-1267189/artikel",
+   "title": "\"Keine strukturelle Verletzung\": Treu könnte am Donnerstag zurückkehren",
+   "link": "https://www.kicker.de/keine-strukturelle-verletzung-treu-koennte-am-donnerstag-zurueckkehren-1267189/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T18:48:39Z",
+   "teaser": "Philipp Treu dürfte zeitnah auf den Rasen zurückkehren. Zwar war der Rechtsverteidiger des SC Freiburg am Samstagnachmittag noch außen vor, als die Breisgauer 2:1 in Augsburg gewannen - am Donnerstag könnte er aber schon sein Comeback …",
+   "clubs": [
+    112,
+    95
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/blessin-zwar-zufrieden-aber-gladbach-weiter-auf-der-intensivstation-1267203/video",
+   "title": "Blessin zwar zufrieden, aber Gladbach \"weiter auf der Intensivstation\"",
+   "link": "https://www.kicker.de/blessin-zwar-zufrieden-aber-gladbach-weiter-auf-der-intensivstation-1267203/video",
+   "source": "kicker",
+   "published": "2026-10-31T18:47:29Z",
+   "teaser": "Mit einem 0:0 gegen Paderborn schloss Gladbach die englische Woche ab. Alexander Blessin ordnete den Punkt ein, betonte aber auch die angespannte Lage bei der Borussia.",
+   "clubs": [
+    87,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/undav-wir-wussten-dass-sie-mit-ekligen-zweikaempfen-nicht-klarkommen-1267164/artikel",
+   "title": "Undav: \"Wir wussten, dass sie mit ekligen Zweikämpfen nicht klarkommen\"",
+   "link": "https://www.kicker.de/undav-wir-wussten-dass-sie-mit-ekligen-zweikaempfen-nicht-klarkommen-1267164/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T18:46:37Z",
+   "teaser": "Der VfB Stuttgart, der vor der Partie in Leverkusen nur zwei von sieben Partien gewonnen hatte, fuhr am Samstag mit dem 4:2 bei der Werkself einen prestigeträchtigen Sieg ein - nicht zuletzt dank einer speziellen Taktik.",
+   "clubs": [
+    6,
+    16
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/bremen-auf-kurs-europa-wer-das-vorausgesagt-haette-1267198/video",
    "title": "Bremen auf Kurs Europa? \"Wer das vorausgesagt hätte ...\"",
@@ -79,19 +196,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
-   "title": "Jetzt live - Laimer nutzt BVB-Fehler und trifft für die Bayern",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-31T18:21:46Z",
-   "teaser": "Der FC Bayern hat einen Fehler im BVB-Aufbau zur Führung genutzt. Kurz zuvor lag der Ball im Tor der Münchner - zählte aber nicht.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
    "id": "https://www.kicker.de/live-topspiel-in-muenchen-kobel-rettet-gegen-saibari-bayern-stuermer-muss-verletzt-raus-1266739/artikel",
    "title": "LIVE! Topspiel in München: Kobel rettet gegen Saibari - Bayern-Stürmer muss verletzt raus",
    "link": "https://www.kicker.de/live-topspiel-in-muenchen-kobel-rettet-gegen-saibari-bayern-stuermer-muss-verletzt-raus-1266739/artikel",
@@ -136,7 +240,7 @@
    "link": "https://www.sportschau.de/fussball/bundesliga/werder-beendet-schwarze-serie-gegen-hoffenheim,spielbericht-werder-bremen-tsg-hoffenheim-106.html",
    "source": "Sportschau",
    "published": "2026-10-31T17:38:42Z",
-   "teaser": "Der SV Werder Bremen hat in der Fußball-Bundesliga einen Sieg gegen die TSG 1899 Hoffenheim eingefahren - den ersten seit 2014. Niclas Füllkrug stellte dabei einen Uralt-Rekord von Rudi Völler ein.",
+   "teaser": "Der SV Werder Bremen hat in der Fußball-Bundesliga einen Sieg gegen die TSG 1899 Hoffenheim eingefahren - den ersten seit 2014. Niclas Füllkrug brach dabei einen Uralt-Rekord von Rudi Völler.",
    "clubs": [
     175,
     134
@@ -2416,108 +2520,6 @@
    "teaser": "Der Sieg in Mainz, das Pokalspiel in Dortmund - und der nächste Sprung in der Bundesliga-Tabelle? Der SV Werder Bremen steht vor einer bedeutsamen Woche. Mit einem Niclas Füllkrug in Top-Form, der das DFB-Thema zwar selbst weiter von sich …",
    "clubs": [
     7,
-    81,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-volltreffer-als-schienenersatz-100.html",
-   "title": "Maxi Beier - Volltreffer als Schienenersatz",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-volltreffer-als-schienenersatz-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-25T09:58:37Z",
-   "teaser": "Wieder reicht Borussia Dortmund ein Tor von Maximilian Beier für drei Punkte in der Fußball-Bundesliga. Seine Flexibilität zahlt sich aus.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hlozeks-duell-mit-kumpel-schick-1264317/artikel",
-   "title": "Hlozeks Duell mit Kumpel Schick",
-   "link": "https://www.kicker.de/hlozeks-duell-mit-kumpel-schick-1264317/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T09:54:39Z",
-   "teaser": "Am Donnerstag gegen Lyon traf Adam Hlozek wieder ins Schwarze, nun geht es für Hoffenheims Rekordeinkauf gegen seinen Ex-Klub Leverkusen und seinen Nationalelfkollegen und Freund Patrick Schick. Und um einen historischen Treffer.",
-   "clubs": [
-    6,
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-worauf-kompany-vertreter-danks-gegen-freiburg-setzt-102.html",
-   "title": "Worauf Kompany-Vertreter Danks gegen Freiburg setzt",
-   "link": "https://www.sportschau.de/regional/br/br-worauf-kompany-vertreter-danks-gegen-freiburg-setzt-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-25T09:19:21Z",
-   "teaser": "Nach dem Ausfall von Cheftrainer Vincent Kompany führt Co-Trainer Aaron Danks den FC Bayern im Bundesliga-Spiel gegen den SC Freiburg. Die Rolle als Kompany-Vertretung kennt er schon und dafür hat er ein klares Erfolgsrezept.",
-   "clubs": [
-    40,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/karl-schockt-freiburg-bayerns-denkwuerdiges-last-minute-comeback-1264320/video",
-   "title": "Karl schockt Freiburg: Bayerns denkwürdiges Last-Minute-Comeback",
-   "link": "https://www.kicker.de/karl-schockt-freiburg-bayerns-denkwuerdiges-last-minute-comeback-1264320/video",
-   "source": "kicker",
-   "published": "2026-10-25T09:02:53Z",
-   "teaser": "Am 28. Spieltag der Saison 2025/26 feierte der FC Bayern in Freiburg ein beeindruckendes Comeback. Angeführt von Tom Bischof und Lennart Karl drehten die Gäste ein 0:2 noch zu einem Sieg. Die Highlights im Video.",
-   "clubs": [
-    40,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-leidenschaft-allein-wird-dem-1-fc-koeln-nicht-reichen-100.html",
-   "title": "Leidenschaft allein wird dem 1. FC Köln nicht reichen",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-leidenschaft-allein-wird-dem-1-fc-koeln-nicht-reichen-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-25T08:49:33Z",
-   "teaser": "Der 1. FC Köln bringt gegen Schalke 04 erneut viel Leidenschaft auf den Platz. Trotz positiver Ansätze reicht das aber nicht für Siege.",
-   "clubs": [
-    65,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kuriosum-an-der-bundesliga-tabellenspitze-das-hat-es-noch-nicht-gegeben-1263737/artikel",
-   "title": "Kuriosum an der Bundesliga-Tabellenspitze: Das hat es noch nicht gegeben",
-   "link": "https://www.kicker.de/kuriosum-an-der-bundesliga-tabellenspitze-das-hat-es-noch-nicht-gegeben-1263737/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T08:38:09Z",
-   "teaser": "Dass der FC Bayern von der Tabellenspitze grüßt, daran hat sich der geneigte Bundesliga-Fan schon seit vielen Jahren gewöhnt. In diesem Jahr ist aber einiges anders - historisch anders sogar.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/das-fuer-und-wider-des-elversberger-spielstils-1264860/artikel",
-   "title": "Das Für und Wider des Elversberger Spielstils",
-   "link": "https://www.kicker.de/das-fuer-und-wider-des-elversberger-spielstils-1264860/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T08:11:41Z",
-   "teaser": "Erstmals in dieser Saison ist die SV Elversberg in der Bundesliga richtig auf die Bretter geschickt worden. Trainer Vincent Wagner hat Rückschläge wie jenen am Samstag in Leipzig einkalkuliert und denkt gar nicht daran, an seinem für einen …",
-   "clubs": [
-    1635,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/thioune-erklaert-fuellkrugs-aerger-bei-der-auswechslung-1264840/video",
-   "title": "Thioune erklärt Füllkrugs Ärger bei der Auswechslung",
-   "link": "https://www.kicker.de/thioune-erklaert-fuellkrugs-aerger-bei-der-auswechslung-1264840/video",
-   "source": "kicker",
-   "published": "2026-10-25T07:40:47Z",
-   "teaser": "Werder-Trainer Daniel Thioune kommt bei Niclas Füllkrug ins Schwärmen - und erklärt, was wirklich hinter dessen Ärger bei der Auswechslung in Mainz steckte.",
-   "clubs": [
     81,
     134
    ],
