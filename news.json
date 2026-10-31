@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T18:05:18Z",
+ "updated": "2026-10-31T18:45:44Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,12 +16,75 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/bremen-auf-kurs-europa-wer-das-vorausgesagt-haette-1267198/video",
+   "title": "Bremen auf Kurs Europa? \"Wer das vorausgesagt hätte ...\"",
+   "link": "https://www.kicker.de/bremen-auf-kurs-europa-wer-das-vorausgesagt-haette-1267198/video",
+   "source": "kicker",
+   "published": "2026-10-31T18:37:49Z",
+   "teaser": "Niclas Füllkrug und Werder Bremen scheinen in der Bundesliga kaum zu stoppen zu sein. Auch gegen Hoffenheim wollte der Höhenflug nicht stoppen, der die Kicker von der Weser auf Tabellenplatz fünf gebracht hat.",
+   "clubs": [
+    175,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/schalke-schriftzug-wird-sichtbar-stimmung-droht-zu-kippen-1267196/video",
+   "title": "Schalke-Schriftzug wird sichtbar: \"Stimmung droht zu kippen\"",
+   "link": "https://www.kicker.de/schalke-schriftzug-wird-sichtbar-stimmung-droht-zu-kippen-1267196/video",
+   "source": "kicker",
+   "published": "2026-10-31T18:28:38Z",
+   "teaser": "Mal wieder hat Schalke ein Heimspiel verloren, mal wieder hat Königsblau kein Tor geschossen. Zwar steht der harte Kern der S04-Fans weiter hinter dem Team, einige Anhänger verließen die Arena aber bereits frühzeitig.",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-bayern-fuehrt-nach-laimers-energieleistung-und-beklagt-aus-von-saibari-und-gnabry-1266739/artikel",
+   "title": "LIVE! Bayern führt nach Laimers Energieleistung und beklagt Aus von Saibari und Gnabry",
+   "link": "https://www.kicker.de/live-bayern-fuehrt-nach-laimers-energieleistung-und-beklagt-aus-von-saibari-und-gnabry-1266739/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T18:25:07Z",
+   "teaser": "Es ist wieder Zeit für den Klassiker: Der FC Bayern München empfängt den punktgleichen BVB. Dem Sieger winkt die Bundesliga-Tabellenführung.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kane-mit-xxl-projektion-geehrt-und-von-den-bvb-fans-ausgepfiffen-1267176/artikel",
+   "title": "Kane mit XXL-Projektion geehrt - und von den BVB-Fans ausgepfiffen",
+   "link": "https://www.kicker.de/kane-mit-xxl-projektion-geehrt-und-von-den-bvb-fans-ausgepfiffen-1267176/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T18:23:58Z",
+   "teaser": "Harry Kane ist vor dem Bundesliga-Topspiel für den Gewinn des Ballon d'Or nicht nur auf dem Rasen der Allianz-Arena geehrt worden. Die Pfiffe aus dem Dortmunder Block ließ Bayerns Vorstandsboss Christian Dreesen nicht unkommentiert.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fc-bayern-drohen-weitere-ausfaelle-gnabry-und-saibari-verletzt-raus-1267184/artikel",
+   "title": "FC Bayern drohen weitere Ausfälle: Gnabry und Saibari verletzt raus",
+   "link": "https://www.kicker.de/fc-bayern-drohen-weitere-ausfaelle-gnabry-und-saibari-verletzt-raus-1267184/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T18:21:56Z",
+   "teaser": "Dem FC Bayern München drohen weitere Ausfälle im Offensivbereich: Im Topspiel gegen Borussia Dortmund mussten sowohl Ismael Saibari als auch Serge Gnabry früh ausgewechselt werden.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
-   "title": "Jetzt live - Saibari und Gnabry beim FC Bayern verletzt raus",
+   "title": "Jetzt live - Laimer nutzt BVB-Fehler und trifft für die Bayern",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
    "source": "Sportschau",
-   "published": "2026-10-31T18:03:37Z",
-   "teaser": "Der FC Bayern gibt im Topspiel gegen Borussia Dortmund den Ton an und hat auch schon einen Pfostentreffer vorzuweisen. Allerdings mussten die Münchner auch schon zweimal wechseln.",
+   "published": "2026-10-31T18:21:46Z",
+   "teaser": "Der FC Bayern hat einen Fehler im BVB-Aufbau zur Führung genutzt. Kurz zuvor lag der Ball im Tor der Münchner - zählte aber nicht.",
    "clubs": [
     40,
     7
@@ -69,11 +132,11 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/werder-beendet-schwarze-serie-gegen-hoffenheim,spielbericht-werder-bremen-tsg-hoffenheim-106.html",
-   "title": "Niclas Füllkrug trifft wie einst Rudi Völler",
+   "title": "Bremen schlägt Hoffenheim: Füllkrug trifft wie einst Völler",
    "link": "https://www.sportschau.de/fussball/bundesliga/werder-beendet-schwarze-serie-gegen-hoffenheim,spielbericht-werder-bremen-tsg-hoffenheim-106.html",
    "source": "Sportschau",
    "published": "2026-10-31T17:38:42Z",
-   "teaser": "Der SV Werder Bremen hat in der Bundesliga einen Sieg gegen Hoffenheim eingefahren - den ersten seit 2014. Niclas Füllkrug stellte dabei einen Uralt-Rekord von Rudi Völler ein.",
+   "teaser": "Der SV Werder Bremen hat in der Fußball-Bundesliga einen Sieg gegen die TSG 1899 Hoffenheim eingefahren - den ersten seit 2014. Niclas Füllkrug stellte dabei einen Uralt-Rekord von Rudi Völler ein.",
    "clubs": [
     175,
     134
@@ -171,6 +234,19 @@
    "transfer": false
   },
   {
+   "id": "https://www.sportschau.de/fussball/bundesliga/stuttgarts-effizienz-sticht-leverkusen-aus,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
+   "title": "Stuttgart siegt, Leverkusen fühlt sich benachteiligt",
+   "link": "https://www.sportschau.de/fussball/bundesliga/stuttgarts-effizienz-sticht-leverkusen-aus,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T16:26:24Z",
+   "teaser": "Der VfB Stuttgart hat sich bei Bayer Leverkusen aus der Krise geschossen. Die Gastgeber kritisierten die Leitung des Unparteiischen.",
+   "clubs": [
+    6,
+    16
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/leverkusen-gegen-stuttgart-2026-bundesliga-5226873/spielbericht",
    "title": "Demirovics Doppelpack bringt VfB in Leverkusen auf Siegkurs",
    "link": "https://www.kicker.de/leverkusen-gegen-stuttgart-2026-bundesliga-5226873/spielbericht",
@@ -185,7 +261,7 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/freiburg-macht-optimum-aus-einem-grusel-kick,spielbericht-fc-augsburg-sc-freiburg-112.html",
-   "title": "Freiburg macht das Beste aus einem Grusel-Kick",
+   "title": "Freiburg macht das Beste aus Grusel-Kick in Augsburg",
    "link": "https://www.sportschau.de/fussball/bundesliga/freiburg-macht-optimum-aus-einem-grusel-kick,spielbericht-fc-augsburg-sc-freiburg-112.html",
    "source": "Sportschau",
    "published": "2026-10-31T16:25:30Z",
@@ -2444,79 +2520,6 @@
    "clubs": [
     81,
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/klose-co-reagieren-auf-kompany-schock-wir-sind-alle-stur-1264849/artikel",
-   "title": "Klose & Co. reagieren auf Kompany-Schock: \"Wir sind alle stur\"",
-   "link": "https://www.kicker.de/klose-co-reagieren-auf-kompany-schock-wir-sind-alle-stur-1264849/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T07:05:06Z",
-   "teaser": "Der Zusammenbruch von Bayern-Trainer Vincent Kompany beschäftigt auch die Kollegen. Einige reagierten am Samstag mit nachdenklichen Worten - und dem Wunsch nach einer \"Coaching-Hygiene\".",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-bei-schalke-04-ist-kein-platz-fuer-offensive-freigeister-100.html",
-   "title": "Bei Schalke 04 ist kein Platz für offensive Freigeister",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-bei-schalke-04-ist-kein-platz-fuer-offensive-freigeister-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-25T07:00:00Z",
-   "teaser": "Der FC Schalke 04 zeigt sich in Köln zwar verbessert. Aber Tore zu schießen, bleibt für die Königsblauen ein Mysterium.",
-   "clubs": [
-    65,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wer-uebertraegt-sc-freiburg-gegen-bayern-muenchen-heute-live-im-tv-stream-1264282/artikel",
-   "title": "Wer überträgt SC Freiburg gegen Bayern München heute live im TV & Stream?",
-   "link": "https://www.kicker.de/wer-uebertraegt-sc-freiburg-gegen-bayern-muenchen-heute-live-im-tv-stream-1264282/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T05:00:00Z",
-   "teaser": "Der Tabellenführer aus München reist am Sonntag zum Spitzenspiel nach Freiburg. Wo ihr die Partie des FC Bayern beim Sport-Club heute live im TV und Stream verfolgen könnt, erfahrt ihr hier.",
-   "clubs": [
-    40,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/die-sportschau-am-samstag-in-voller-laenge,sportschau-am-samstag-re-live-2410-100.html",
-   "title": "Die Sportschau am Samstag in voller Länge",
-   "link": "https://www.sportschau.de/die-sportschau-am-samstag-in-voller-laenge,sportschau-am-samstag-re-live-2410-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-24T22:00:01Z",
-   "teaser": "Sehen Sie hier die Sportschau am Samstag in voller Länge. Mit den Zusammenfassungen der Bundesliga und 2. Bundesliga, sowie ausgewählten Highlights der 3. Liga und Premier League.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/polzin-schimpft-ueber-gegentor-es-ist-ein-klares-foulspiel-1264820/video",
-   "title": "Polzin schimpft über Gegentor: \"Es ist ein klares Foulspiel\"",
-   "link": "https://www.kicker.de/polzin-schimpft-ueber-gegentor-es-ist-ein-klares-foulspiel-1264820/video",
-   "source": "kicker",
-   "published": "2026-10-24T20:59:59Z",
-   "teaser": "Ein Zweikampf im Vorlauf des entscheidenden Treffers von Rayan Philippe ärgerte HSV-Coach Merlin Polzin. Er wollte die Entscheidung des Referees nicht akzeptieren und machte seinem Unmut Luft.",
-   "clubs": [
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/huetter-schwaermt-von-aseko-das-gefaellt-uns-trainern-1264807/video",
-   "title": "Hütter schwärmt von Aseko: \"Das gefällt uns Trainern\"",
-   "link": "https://www.kicker.de/huetter-schwaermt-von-aseko-das-gefaellt-uns-trainern-1264807/video",
-   "source": "kicker",
-   "published": "2026-10-24T20:22:26Z",
-   "teaser": "Noel Aseko war einer der auffälligsten Frankfurter im Spiel gegen Dortmund. Dass ihm am Ende ein wenig die Luft ausging, war für seinen Coach Adi Hütter kaum verwunderlich.",
-   "clubs": [
-    7,
-    91
    ],
    "transfer": false
   }
