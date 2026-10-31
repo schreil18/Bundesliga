@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T10:13:45Z",
+ "updated": "2026-10-31T11:09:21Z",
  "sources": [
   {
    "name": "kicker",
@@ -102,6 +102,31 @@
    "teaser": "Bundesliga live - alle Spiele am 31.10.2026 um 15:30 Uhr in der Konferenz.",
    "clubs": [],
    "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fischer-schonungslos-muss-aufpassen-was-ich-sage-1267049/video",
+   "title": "Fischer schonungslos: \"Muss aufpassen, was ich sage\"",
+   "link": "https://www.kicker.de/fischer-schonungslos-muss-aufpassen-was-ich-sage-1267049/video",
+   "source": "kicker",
+   "published": "2026-10-31T10:39:16Z",
+   "teaser": "Mainz-Trainer Urs Fischer kritisiert die Leistung seiner Mannschaft nach dem frühen 1:4 gegen Elversberg deutlich. Vor allem die Zweikampfführung und das Defensivverhalten seien nicht bundesligatauglich.",
+   "clubs": [
+    81,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-chatzialexiou-wird-kroesche-nachfolger-bei-der-eintracht-100.html",
+   "title": "Chatzialexiou wird Krösche-Nachfolger bei der Eintracht",
+   "link": "https://www.sportschau.de/regional/hr/hr-chatzialexiou-wird-kroesche-nachfolger-bei-der-eintracht-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T10:21:28Z",
+   "teaser": "Eintracht Frankfurt hat die Suche nach einem Krösche-Nachfolger schnell abschließen können. Joti Chatzialexiou wechselt vom 1. FC Nürnberg an den Main und wird für die Hessen zum Schnäppchen. Offen ist allein, wann der neue Kaderplaner …",
+   "clubs": [
+    91
+   ],
+   "transfer": true
   },
   {
    "id": "https://www.kicker.de/wagner-rechnet-den-klassenerhalt-vor-hoehere-mathematik-1267035/video",
@@ -2477,32 +2502,6 @@
    "id": "https://www.kicker.de/live-bvb-nimmt-platz-1-ins-visier-sabitzer-beginnt-1264002/artikel",
    "title": "LIVE! BVB nimmt Platz 1 ins Visier - Sabitzer beginnt",
    "link": "https://www.kicker.de/live-bvb-nimmt-platz-1-ins-visier-sabitzer-beginnt-1264002/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T15:41:26Z",
-   "teaser": "Die letzten fünf Heimspiele gegen Frankfurt gewann Dortmund allesamt. Legt der BVB den sechsten Sieg in Serie nach?",
-   "clubs": [
-    7,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-bvb-nimmt-platz-1-ins-visier-huetter-setzt-kosugi-auf-die-bank-1264002/artikel",
-   "title": "LIVE! BVB nimmt Platz 1 ins Visier - Hütter setzt Kosugi auf die Bank",
-   "link": "https://www.kicker.de/live-bvb-nimmt-platz-1-ins-visier-huetter-setzt-kosugi-auf-die-bank-1264002/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T15:41:26Z",
-   "teaser": "Die letzten fünf Heimspiele gegen Frankfurt gewann Dortmund allesamt. Legt der BVB den sechsten Sieg in Serie nach?",
-   "clubs": [
-    7,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-guirassy-scheitert-zweimal-an-atubolu-bvb-fordert-vergeblich-elfmeter-1264002/artikel",
-   "title": "LIVE! Guirassy scheitert zweimal an Atubolu - BVB fordert vergeblich Elfmeter",
-   "link": "https://www.kicker.de/live-guirassy-scheitert-zweimal-an-atubolu-bvb-fordert-vergeblich-elfmeter-1264002/artikel",
    "source": "kicker",
    "published": "2026-10-24T15:41:26Z",
    "teaser": "Die letzten fünf Heimspiele gegen Frankfurt gewann Dortmund allesamt. Legt der BVB den sechsten Sieg in Serie nach?",
