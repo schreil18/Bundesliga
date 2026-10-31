@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T12:08:36Z",
+ "updated": "2026-10-31T13:25:13Z",
  "sources": [
   {
    "name": "kicker",
@@ -104,6 +104,36 @@
    "transfer": false
   },
   {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3909/",
+   "title": "Ab 15.30 Uhr live - Kellerduell in Gladbach, Schalke gegen Leipzig",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3909/",
+   "source": "Sportschau",
+   "published": "2026-10-31T13:13:59Z",
+   "teaser": "In der Bundesliga empfängt Werder Bremen die TSG Hoffenheim. Paderborn trifft im Keller auf Mönchengladbach, das vergangene Woche gegen aus der Form geratene Stuttgarter ihren ersten Saisonsieg feierten.",
+   "clubs": [
+    1635,
+    16,
+    175,
+    87,
+    134,
+    9,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-chatzialexiou-wird-kroesche-nachfolger-bei-der-eintracht-100.html",
+   "title": "Chatzialexiou wird Krösche-Nachfolger bei der Eintracht",
+   "link": "https://www.sportschau.de/regional/hr/hr-chatzialexiou-wird-kroesche-nachfolger-bei-der-eintracht-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T13:02:39Z",
+   "teaser": "Eintracht Frankfurt hat die Suche nach einem Krösche-Nachfolger schnell abschließen können. Joti Chatzialexiou wechselt vom 1. FC Nürnberg an den Main und wird für die Hessen zum Schnäppchen. Offen ist allein, wann der neue Kaderplaner …",
+   "clubs": [
+    91
+   ],
+   "transfer": true
+  },
+  {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
    "title": "Ab 18.30 Uhr live - Bundesliga-Topspiel in München",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
@@ -113,23 +143,6 @@
    "clubs": [
     40,
     7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3909/",
-   "title": "Ab 15.30 Uhr live - Kellerduell in Mönchengladbach, Leverkusen empfängt Stuttgart",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3909/",
-   "source": "Sportschau",
-   "published": "2026-10-31T11:46:24Z",
-   "teaser": "In der Bundesliga-Konferenz empfängt Werder Bremen die TSG Hoffenheim. Paderborn trifft im Keller auf Mönchengladbach, das vergangene Woche gegen aus der Form geratene Stuttgarter ihren ersten Saisonsieg feierten.",
-   "clubs": [
-    6,
-    16,
-    175,
-    87,
-    134,
-    31
    ],
    "transfer": false
   },
@@ -145,18 +158,6 @@
     198
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-chatzialexiou-wird-kroesche-nachfolger-bei-der-eintracht-100.html",
-   "title": "Chatzialexiou wird Krösche-Nachfolger bei der Eintracht",
-   "link": "https://www.sportschau.de/regional/hr/hr-chatzialexiou-wird-kroesche-nachfolger-bei-der-eintracht-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T11:19:05Z",
-   "teaser": "Eintracht Frankfurt hat die Suche nach einem Krösche-Nachfolger schnell abschließen können. Joti Chatzialexiou wechselt vom 1. FC Nürnberg an den Main und wird für die Hessen zum Schnäppchen. Offen ist allein, wann der neue Kaderplaner …",
-   "clubs": [
-    91
-   ],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/chatzialexiou-wird-eintracht-sportvorstand-in-frankfurt-nuernberg-laesst-zeitpunkt-offen-1267031/artikel",
