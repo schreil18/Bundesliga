@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T15:08:54Z",
+ "updated": "2026-10-31T16:08:17Z",
  "sources": [
   {
    "name": "kicker",
@@ -30,19 +30,42 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3909/",
-   "title": "Jetzt live - Schon drei Tore in Leverkusen, Gladbach trifft",
+   "title": "Jetzt live - Füllkrug trifft schon wieder, Stuttgart hat Spaß",
    "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3909/",
    "source": "Sportschau",
-   "published": "2026-10-31T15:05:34Z",
-   "teaser": "Der VfB Stuttgart hat in Leverkusen den Anschlusstreffer kassiert. Der FC Augsburg führt gegen Freiburg. Und Gladbach hat im Kellerduell gegen Paderborn getroffen.",
+   "published": "2026-10-31T16:01:35Z",
+   "teaser": "Der VfB Stuttgart hat in Leverkusen schon das vierte Tor erzielt. Auch Leipzig führt. Und Niclas Füllkrug war schon wieder für Bremen erfolgreich.",
    "clubs": [
+    1635,
     6,
     16,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-demirovic-macht-s-deutlich-fuellkrug-baut-serie-aus-matanovic-wuchtig-zum-ausgleich-1266547/artikel",
+   "title": "LIVE! Demirovic macht's deutlich - Füllkrug baut Serie aus - Matanovic wuchtig zum Ausgleich",
+   "link": "https://www.kicker.de/live-demirovic-macht-s-deutlich-fuellkrug-baut-serie-aus-matanovic-wuchtig-zum-ausgleich-1266547/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T15:55:54Z",
+   "teaser": "Freiburg (in Augsburg) führt auf Platz 3 ein Verfolger-Quartett an, das am Samstagnachmittag zur gleichen Zeit am Ball ist. Gladbach hat nach dem ersten Sieg Lunte gerochen - gelingt gegen Paderborn der nächste Dreier?",
+   "clubs": [
     112,
     87,
     95,
     31
    ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/fans-vieler-vereine-mit-aktionen-fuer-501,50-plus-1-proteste-100.html",
+   "title": "Fans vieler Vereine mit Aktionen für 50+1",
+   "link": "https://www.sportschau.de/fussball/fans-vieler-vereine-mit-aktionen-fuer-501,50-plus-1-proteste-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T15:13:17Z",
+   "teaser": "Fans von zahlreichen Vereinen in Deutschland haben sich mit Aktionen für den Fortbestand und eine klare Durchsetzung der 50+1-Regel ausgesprochen.",
+   "clubs": [],
    "transfer": false
   },
   {
@@ -2491,32 +2514,6 @@
    "clubs": [
     7,
     91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/neuer-fehlt-den-bayern-in-freiburg-auch-pavlovic-faellt-wohl-aus-1264642/artikel",
-   "title": "Neuer fehlt den Bayern in Freiburg - Auch Pavlovic fällt wohl aus",
-   "link": "https://www.kicker.de/neuer-fehlt-den-bayern-in-freiburg-auch-pavlovic-faellt-wohl-aus-1264642/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T18:13:08Z",
-   "teaser": "Der FC Bayern tritt ohne seinen angeschlagenen Torhüter Manuel Neuer beim SC Freiburg an. Darüber informierten die Münchner am Samstagnachmittag. Auch Aleksandar Pavlovic soll nicht zur Verfügung stehen.",
-   "clubs": [
-    40,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/zuschauern-stockte-der-atem-zusammenprall-ueberschattet-schalke-remis-1264750/video",
-   "title": "\"Zuschauern stockte der Atem\": Zusammenprall überschattet Schalke-Remis",
-   "link": "https://www.kicker.de/zuschauern-stockte-der-atem-zusammenprall-ueberschattet-schalke-remis-1264750/video",
-   "source": "kicker",
-   "published": "2026-10-24T17:56:03Z",
-   "teaser": "Der negative Schockmoment des Remis der Schalker in Köln war der böse Zusammenprall von Robin Gosens und Soufiane El-Faouzi. Abgesehen davon wurde den Zuschauern sportlich nur wenig Sehenswertes geboten.",
-   "clubs": [
-    65,
-    9
    ],
    "transfer": false
   }
