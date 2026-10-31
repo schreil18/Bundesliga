@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T21:13:06Z",
+ "updated": "2026-10-31T22:08:18Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,12 +16,62 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/bvb-profis-schwaermen-von-kovacs-genialem-schachzug-1267271/artikel",
+   "title": "BVB-Profis schwärmen von Kovacs \"genialem Schachzug\"",
+   "link": "https://www.kicker.de/bvb-profis-schwaermen-von-kovacs-genialem-schachzug-1267271/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T21:52:59Z",
+   "teaser": "Borussia Dortmund überraschte beim FC Bayern mit einem taktischen Kniff, der Trainer Niko Kovac Lob seiner Führungsspieler einbrachte. Dabei war die Generalprobe noch schiefgegangen.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kovac-zu-kimmich-umarmung-geste-war-menschlich-1267276/video",
+   "title": "Kovac zu Kimmich-Umarmung: \"Geste war menschlich\"",
+   "link": "https://www.kicker.de/kovac-zu-kimmich-umarmung-geste-war-menschlich-1267276/video",
+   "source": "kicker",
+   "published": "2026-10-31T21:48:49Z",
+   "teaser": "Während des Spiels kam es zu einer emotionalen Szene, als Niko Kovac und Joshua Kimmich zu einer Umarmung ansetzten. Der BVB-Coach sprach nach dem Spiel über den Austausch.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/teures-unentschieden-fuer-bayern-und-was-dem-bvb-mut-macht-1267267/video",
+   "title": "\"Teures Unentschieden\" für Bayern - und was dem BVB Mut macht",
+   "link": "https://www.kicker.de/teures-unentschieden-fuer-bayern-und-was-dem-bvb-mut-macht-1267267/video",
+   "source": "kicker",
+   "published": "2026-10-31T21:26:07Z",
+   "teaser": "Durch das 2:2 bleibt das Rennen um die Tabellenspitze weiter sehr eng zwischen Bayern und Dortmund. Während in München die Sorgen durch die neuesten Verletzungen nicht kleiner werden, kann der BVB viel Positives aus diesem Auftritt ziehen.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/schlotterbeck-wir-werden-in-deutschland-immer-noch-unterschaetzt-1267234/artikel",
    "title": "Schlotterbeck: \"Wir werden in Deutschland immer noch unterschätzt\"",
    "link": "https://www.kicker.de/schlotterbeck-wir-werden-in-deutschland-immer-noch-unterschaetzt-1267234/artikel",
    "source": "kicker",
    "published": "2026-10-31T21:10:29Z",
-   "teaser": "Nico Schlotterbeck ist bekannt für klare Worte. Diese fand der Dortmunder Abwehrexperte auch nach dem Topspiel in München und den zwei Comebacks seiner Mannschaft. Auch Joshua Kimmich wollte das als Kampfansage sehen.",
+   "teaser": "Nico Schlotterbeck ist bekannt für klare Worte. Diese fand der Dortmunder Abwehrexperte auch nach dem Topspiel in München und den zwei Comebacks seiner Mannschaft. Joshua Kimmich wollte das als Kampfansage sehen.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/danks-ueber-saibari-knoechelverletzung-sieht-ziemlich-ernst-aus-1267263/video",
+   "title": "Danks über Saibari: \"Knöchelverletzung sieht ziemlich ernst aus\"",
+   "link": "https://www.kicker.de/danks-ueber-saibari-knoechelverletzung-sieht-ziemlich-ernst-aus-1267263/video",
+   "source": "kicker",
+   "published": "2026-10-31T21:09:17Z",
+   "teaser": "Bayerns Co-Trainer Aaron Danks spricht nach dem Spiel gegen Borussia Dortmund über die vielen Verletzten und begründet bestimmte Personalentscheidungen.",
    "clubs": [
     7
    ],
@@ -454,7 +504,7 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/stuttgarts-effizienz-sticht-leverkusen-aus,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
-   "title": "Stuttgart siegt, Leverkusen fühlt sich benachteiligt",
+   "title": "VfB Stuttgart siegt, Leverkusen fühlt sich benachteiligt",
    "link": "https://www.sportschau.de/fussball/bundesliga/stuttgarts-effizienz-sticht-leverkusen-aus,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
    "source": "Sportschau",
    "published": "2026-10-31T16:26:24Z",
@@ -480,7 +530,7 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/freiburg-macht-optimum-aus-einem-grusel-kick,spielbericht-fc-augsburg-sc-freiburg-112.html",
-   "title": "Freiburg macht das Beste aus Grusel-Kick in Augsburg",
+   "title": "SC Freiburg macht das Beste aus Grusel-Kick beim FC Augsburg",
    "link": "https://www.sportschau.de/fussball/bundesliga/freiburg-macht-optimum-aus-einem-grusel-kick,spielbericht-fc-augsburg-sc-freiburg-112.html",
    "source": "Sportschau",
    "published": "2026-10-31T16:25:30Z",
@@ -2472,56 +2522,6 @@
    "clubs": [
     6,
     175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-schiri-siebert-verletzt-vierter-offizieller-muss-ran-1264010/artikel",
-   "title": "LIVE! Schiri Siebert verletzt - Vierter Offizieller muss ran",
-   "link": "https://www.kicker.de/live-schiri-siebert-verletzt-vierter-offizieller-muss-ran-1264010/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T15:08:35Z",
-   "teaser": "Hoffenheim kommt in dieser Saison nur schwer aus den Startlöchern - im Gegensatz zu Leverkusen. Wer behält im direkten Duell die Oberhand?",
-   "clubs": [
-    6,
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-tella-und-asllani-lassen-fuehrung-liegen-1264010/artikel",
-   "title": "LIVE! Tella und Asllani lassen Führung liegen",
-   "link": "https://www.kicker.de/live-tella-und-asllani-lassen-fuehrung-liegen-1264010/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T14:45:39Z",
-   "teaser": "Hoffenheim kommt in dieser Saison nur schwer aus den Startlöchern - im Gegensatz zu Leverkusen. Wer behält im direkten Duell die Oberhand?",
-   "clubs": [
-    6,
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/der-bvb-zeigt-wieder-kovac-qualitaeten-auch-dessen-nummer-eins-ding-1264941/artikel",
-   "title": "Der BVB zeigt wieder Kovac-Qualitäten - auch dessen \"Nummer-eins-Ding\"",
-   "link": "https://www.kicker.de/der-bvb-zeigt-wieder-kovac-qualitaeten-auch-dessen-nummer-eins-ding-1264941/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T14:27:32Z",
-   "teaser": "Borussia Dortmund hat sich bei der Heim-Rückkehr nach drei intensiven Auswärtsspielen einen Sieg erkämpft. Die Formkurve zeigt nach oben, was vor allem daran liegt, dass gewohnte Stärken wieder zum Vorschein kommen.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gefestigt-aber-zu-harmlos-huetters-eintracht-sucht-nach-der-richtigen-balance-1264856/artikel",
-   "title": "Gefestigt, aber zu harmlos: Hütters Eintracht sucht nach der richtigen Balance",
-   "link": "https://www.kicker.de/gefestigt-aber-zu-harmlos-huetters-eintracht-sucht-nach-der-richtigen-balance-1264856/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T13:30:11Z",
-   "teaser": "Sportlich wähnt Eintracht-Trainer Adi Hütter seine Mannschaft trotz der Niederlage in Dortmund auf dem richtigen Weg. Indes rechnet Vorstandsboss Axel Hellmann mit einer schnellen Entscheidung, wer die Nachfolge von Markus Krösche antritt.",
-   "clubs": [
-    7
    ],
    "transfer": false
   }
