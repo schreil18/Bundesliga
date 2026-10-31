@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T20:36:38Z",
+ "updated": "2026-10-31T21:13:06Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,70 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/schlotterbeck-wir-werden-in-deutschland-immer-noch-unterschaetzt-1267234/artikel",
+   "title": "Schlotterbeck: \"Wir werden in Deutschland immer noch unterschätzt\"",
+   "link": "https://www.kicker.de/schlotterbeck-wir-werden-in-deutschland-immer-noch-unterschaetzt-1267234/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T21:10:29Z",
+   "teaser": "Nico Schlotterbeck ist bekannt für klare Worte. Diese fand der Dortmunder Abwehrexperte auch nach dem Topspiel in München und den zwei Comebacks seiner Mannschaft. Auch Joshua Kimmich wollte das als Kampfansage sehen.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/baum-und-die-brandrede-was-mir-mega-stinkt-1267230/artikel",
+   "title": "Baum und die Brandrede: \"Was mir mega stinkt …\"",
+   "link": "https://www.kicker.de/baum-und-die-brandrede-was-mir-mega-stinkt-1267230/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T20:57:51Z",
+   "teaser": "Der FC Augsburg befindet sich nach wie vor im Sinkflug. Das 1:2 gegen den SC Freiburg war bereits das sechste Spiel ohne Sieg. Und so schlug Trainer Manuel Baum am Samstagabend Alarm.",
+   "clubs": [
+    112,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kimmich-gerade-auf-dem-platz-muss-ich-an-meinen-vater-denken-1267250/artikel",
+   "title": "Kimmich: \"Gerade auf dem Platz muss ich an meinen Vater denken\"",
+   "link": "https://www.kicker.de/kimmich-gerade-auf-dem-platz-muss-ich-an-meinen-vater-denken-1267250/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T20:55:00Z",
+   "teaser": "Nach seiner Rückkehr hat Bayern-Kapitän Joshua Kimmich offen über den Tod seines Vaters gesprochen - und eine besondere Szene mit BVB-Trainer Niko Kovac.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bayern-bangt-um-saibari-und-gnabry-auch-olise-muss-runter-1267184/artikel",
+   "title": "Bayern bangt um Saibari und Gnabry - Auch Olise muss runter",
+   "link": "https://www.kicker.de/bayern-bangt-um-saibari-und-gnabry-auch-olise-muss-runter-1267184/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T20:38:13Z",
+   "teaser": "Dem FC Bayern München drohen weitere Ausfälle: Im Topspiel gegen Borussia Dortmund mussten sowohl Ismael Saibari als auch Serge Gnabry ausgewechselt werden. Bei beiden ist ein längerfristiger Ausfall zu befürchten - anders als bei Michael …",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
+   "title": "FC Bayern und Harry Kane feiern sich gegen den BVB zu früh",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T20:36:43Z",
+   "teaser": "Vor dem Anpfiff hatte es die Weltfußballer-Party für Harry Kane gegeben, kurz vor Schluss sah auch alles nach einem Sieg des FC Bayern aus - doch dann schlug Borussia Dortmund durch Fabio Silva zu.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/ilzer-trotz-pleite-gelassen-mir-ist-nicht-bange-um-mein-team-1267242/video",
    "title": "Ilzer trotz Pleite gelassen: \"Mir ist nicht bange um mein Team\"",
@@ -41,19 +105,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
-   "title": "FC Bayern und Harry Kane feiern sich gegen den BVB zu früh",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T19:42:50Z",
-   "teaser": "Vor dem Anpfiff hatte es die Weltfußballer-Party für Harry Kane gegeben, kurz vor Schluss sah auch alles nach einem Sieg des FC Bayern aus - doch dann schlug Borussia Dortmund durch Fabio Silva zu.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
    "id": "https://www.kicker.de/martinez-nimmt-es-locker-die-stimmung-kocht-manchmal-hoch-1267226/video",
    "title": "Martinez nimmt es locker: \"Die Stimmung kocht manchmal hoch\"",
    "link": "https://www.kicker.de/martinez-nimmt-es-locker-die-stimmung-kocht-manchmal-hoch-1267226/video",
@@ -63,19 +114,6 @@
    "clubs": [
     6,
     16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bayern-bangt-um-saibari-und-gnabry-auch-olise-muss-runter-1267184/artikel",
-   "title": "Bayern bangt um Saibari und Gnabry - Auch Olise muss runter",
-   "link": "https://www.kicker.de/bayern-bangt-um-saibari-und-gnabry-auch-olise-muss-runter-1267184/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T19:36:04Z",
-   "teaser": "Dem FC Bayern München drohen weitere Ausfälle im Offensivbereich: Im Topspiel gegen Borussia Dortmund mussten sowohl Ismael Saibari als auch Serge Gnabry früh ausgewechselt werden.",
-   "clubs": [
-    40,
-    7
    ],
    "transfer": false
   },
@@ -2484,44 +2522,6 @@
    "teaser": "Sportlich wähnt Eintracht-Trainer Adi Hütter seine Mannschaft trotz der Niederlage in Dortmund auf dem richtigen Weg. Indes rechnet Vorstandsboss Axel Hellmann mit einer schnellen Entscheidung, wer die Nachfolge von Markus Krösche antritt.",
    "clubs": [
     7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-asllani-zurueck-bei-der-tsg-beisst-sich-bayer-weiter-oben-fest-1264010/artikel",
-   "title": "LIVE! Asllani zurück bei der TSG - Beißt sich Bayer weiter oben fest?",
-   "link": "https://www.kicker.de/live-asllani-zurueck-bei-der-tsg-beisst-sich-bayer-weiter-oben-fest-1264010/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T13:28:53Z",
-   "teaser": "Hoffenheim kommt in dieser Saison nur schwer aus den Startlöchern - im Gegensatz zu Leverkusen. Wer behält im direkten Duell die Oberhand?",
-   "clubs": [
-    6,
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/spielt-schlager-gegen-den-bvb-wer-gegen-argentinien-und-spanien-im-tor-steht-1264957/artikel",
-   "title": "Spielt Schlager gegen den BVB? \"Wer gegen Argentinien und Spanien im Tor steht, …\"",
-   "link": "https://www.kicker.de/spielt-schlager-gegen-den-bvb-wer-gegen-argentinien-und-spanien-im-tor-steht-1264957/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T13:00:16Z",
-   "teaser": "Werder-Coach Daniel Thioune kündigt eine Rotation für die Pokalpartie in Dortmund an - und hält auch einen Einsatz der Nummer zwei, Alexander Schlager, für möglich.",
-   "clubs": [
-    7,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/es-gibt-ein-paar-vollidioten-weisers-besondere-rolle-bei-fuellkrugs-elfmetern-1264961/artikel",
-   "title": "\"Es gibt ein paar Vollidioten\": Weisers besondere Rolle bei Füllkrugs Elfmetern",
-   "link": "https://www.kicker.de/es-gibt-ein-paar-vollidioten-weisers-besondere-rolle-bei-fuellkrugs-elfmetern-1264961/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T12:55:36Z",
-   "teaser": "Niclas Füllkrug baute seine bemerkenswerte Elfmeter-Serie in Mainz aus - auch wegen Mitchell Weiser? Dessen Rolle passte zum Zoff des Tages.",
-   "clubs": [
-    81
    ],
    "transfer": false
   }
