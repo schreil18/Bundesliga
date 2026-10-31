@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T16:08:17Z",
+ "updated": "2026-10-31T17:10:07Z",
  "sources": [
   {
    "name": "kicker",
@@ -25,6 +25,125 @@
    "clubs": [
     40,
     7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
+   "title": "Ab 18.30 Uhr live - Bayern mit Kimmich gegen Dortmund",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
+   "source": "Sportschau",
+   "published": "2026-10-31T16:47:23Z",
+   "teaser": "Mit Joshua Kimmich nach dem Trauerfall in der Startelf geht der FC Bayern ins Topspiel der Bundesliga gegen Borussia Dortmund.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-ueberrascht-gegen-bvb-mit-kimmich-in-der-startelf,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
+   "title": "FC Bayern gegen BVB: Joshua Kimmich überraschend in der Startelf",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-ueberrascht-gegen-bvb-mit-kimmich-in-der-startelf,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T16:44:56Z",
+   "teaser": "Am Samstagabend steigt in München der \"Klassiker\" zwischen dem FC Bayern und Borussia Dortmund. Harry Kane gibt sein Debüt als Weltfußballer, auch Joshua Kimmich spielt.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/leipzig-siegt-klar-bei-schalke-steht-die-doppel-null,spielbericht-schalke-04-rb-leipzig-100.html",
+   "title": "RB Leipzig ohne Mühe - Bei Schalke 04 steht die Doppel-Null",
+   "link": "https://www.sportschau.de/fussball/bundesliga/leipzig-siegt-klar-bei-schalke-steht-die-doppel-null,spielbericht-schalke-04-rb-leipzig-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T16:34:14Z",
+   "teaser": "Schalke 04 präsentiert sich weiter abstiegsreif, vor allem in der Offensive. Gegen RB Leipzig gab es wieder keine Tore und erneut auch keine Punkte.",
+   "clubs": [
+    1635,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-bayern-mit-kimmich-bvb-mit-beier-die-aufstellungen-im-topspiel-1266739/artikel",
+   "title": "LIVE! Bayern mit Kimmich, BVB mit Beier: Die Aufstellungen im Topspiel",
+   "link": "https://www.kicker.de/live-bayern-mit-kimmich-bvb-mit-beier-die-aufstellungen-im-topspiel-1266739/artikel",
+   "source": "kicker",
+   "published": "2026-10-31T16:32:57Z",
+   "teaser": "Es ist wieder Zeit für den Klassiker: Ab 18.30 Uhr empfängt Bayern München den punktgleichen BVB. Dem Sieger winkt die Bundesliga-Tabellenführung.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/werder-beendet-schwarze-serie-gegen-hoffenheim,spielbericht-werder-bremen-tsg-hoffenheim-106.html",
+   "title": "Niclas Füllkrug trifft wie einst Rudi Völler",
+   "link": "https://www.sportschau.de/fussball/bundesliga/werder-beendet-schwarze-serie-gegen-hoffenheim,spielbericht-werder-bremen-tsg-hoffenheim-106.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T16:30:55Z",
+   "teaser": "Der SV Werder Bremen hat in der Bundesliga einen Sieg gegen Hoffenheim eingefahren - den ersten seit 2014. Niclas Füllkrug stellte dabei einen Uralt-Rekord von Rudi Völler ein.",
+   "clubs": [
+    175,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/stuttgart-beendet-in-leverkusen-die-ergebniskrise,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
+   "title": "Der VfB Stuttgart beendet bei Bayer Leverkusen seine Bundesliga-Krise",
+   "link": "https://www.sportschau.de/fussball/bundesliga/stuttgart-beendet-in-leverkusen-die-ergebniskrise,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T16:26:24Z",
+   "teaser": "Der VfB Stuttgart hat sich mit starker Chancenverwertung bei Bayer Leverkusen aus seiner Ergebniskrise in der Bundesliga geschossen.",
+   "clubs": [
+    6,
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/leverkusen-gegen-stuttgart-2026-bundesliga-5226873/spielbericht",
+   "title": "Demirovics Doppelpack bringt VfB in Leverkusen auf Siegkurs",
+   "link": "https://www.kicker.de/leverkusen-gegen-stuttgart-2026-bundesliga-5226873/spielbericht",
+   "source": "kicker",
+   "published": "2026-10-31T16:26:07Z",
+   "teaser": "Dank eines 4:2-Erfolgs bei Bayer Leverkusen klettert der VfB Stuttgart in der Tabelle wieder ins Mittelfeld. Die Schwaben brachten der Werkself dank größerer Effizienz die erste Heimniederlage der Saison bei.",
+   "clubs": [
+    6,
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/freiburg-macht-optimum-aus-einem-grusel-kick,spielbericht-fc-augsburg-sc-freiburg-112.html",
+   "title": "Freiburg macht das Beste aus einem Grusel-Kick",
+   "link": "https://www.sportschau.de/fussball/bundesliga/freiburg-macht-optimum-aus-einem-grusel-kick,spielbericht-fc-augsburg-sc-freiburg-112.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T16:25:30Z",
+   "teaser": "Der SC Freiburg entscheidet einen lange müden Kick beim FC Augsburg mit einem späten Siegtreffer und ist weiter härtester Verfolger der beiden Top-Teams Bayern und Dortmund.",
+   "clubs": [
+    40,
+    7,
+    112,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-gladbach-wartet-weiter-auf-den-ersten-heimdreier-100.html",
+   "title": "Gladbach wartet weiter auf den ersten Heimdreier",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-gladbach-wartet-weiter-auf-den-ersten-heimdreier-100.html",
+   "source": "Sportschau",
+   "published": "2026-10-31T16:20:00Z",
+   "teaser": "Borussia Mönchengladbach wartet weiter auf den ersten Heimsieg der Saison. Gegen Paderborn langte es nur zu einem torlosen Remis.",
+   "clubs": [
+    87,
+    31
    ],
    "transfer": false
   },
@@ -198,19 +317,6 @@
     91
    ],
    "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
-   "title": "Ab 18.30 Uhr live - Bundesliga-Topspiel in München",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-31T12:02:08Z",
-   "teaser": "In der Bundesliga kommt es zum absoluten Topspiel zwischen Bayern München und Borussia Dortmund. Beide Teams stehen punktgleich an der Tabellenspitze.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
   },
   {
    "id": "https://www.kicker.de/das-nervt-mich-extremst-pinckert-aergert-trotz-4-1-die-elversberger-nachlaessigkeit-1267058/artikel",
@@ -2408,109 +2514,6 @@
    "source": "kicker",
    "published": "2026-10-24T19:55:00Z",
    "teaser": "Vorlagengeber von der Bank, Torschütze von der Bank: Solch gelungene Händchen sind Niko Kovac schon einige Male in dieser Saison geglückt. Gegen Frankfurt eben gleich beides auf einen Schlag, was für den BVB-Trainer einen Umstand ganz klar …",
-   "clubs": [
-    7,
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/trotz-reisestrapazen-fitnessfanatiker-kovac-beweist-erneut-haendchen-1264796/video",
-   "title": "Trotz Reisestrapazen: \"Fitnessfanatiker\" Kovac beweist erneut Händchen",
-   "link": "https://www.kicker.de/trotz-reisestrapazen-fitnessfanatiker-kovac-beweist-erneut-haendchen-1264796/video",
-   "source": "kicker",
-   "published": "2026-10-24T19:54:43Z",
-   "teaser": "Niko Kovac bewies gegen seinen Ex-Klub Eintracht Frankfurt ein gutes Händchen und wechselte den Sieg ein. Die Joker Maximilian Beier und Jobe Bellingham sorgten mit ihrer Koproduktion für das spielentscheidende 1:0.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/leider-gottes-hat-es-ihn-zerlegt-wagner-bestaetigt-gyamerah-verletzung-1264788/artikel",
-   "title": "\"Leider Gottes hat es ihn zerlegt\": Wagner bestätigt Gyamerah-Verletzung",
-   "link": "https://www.kicker.de/leider-gottes-hat-es-ihn-zerlegt-wagner-bestaetigt-gyamerah-verletzung-1264788/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T19:39:02Z",
-   "teaser": "Es war nicht der Tag der SV Elversberg. Die Saarländer kassierten in Leipzig nicht nur eine 0:4-Packung, sie verloren auch Jan Gyamerah, dem nun ein längerer Ausfall droht.",
-   "clubs": [
-    1635,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wagner-zu-pfiffen-der-fans-erwartungshaltung-ist-riesig-1264778/video",
-   "title": "Wagner zu Pfiffen der Fans: \"Erwartungshaltung ist riesig\"",
-   "link": "https://www.kicker.de/wagner-zu-pfiffen-der-fans-erwartungshaltung-ist-riesig-1264778/video",
-   "source": "kicker",
-   "published": "2026-10-24T19:03:00Z",
-   "teaser": "Köln-Coach René Wagner zeigte Verständnis für die Pfiffe der Kölner Fans. Der Effzeh-Coach erklärte zudem, warum er Top-Talent Mikey Moore nach 68 Minuten auswechselte.",
-   "clubs": [
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/dortmund-gegen-frankfurt-2026-bundesliga-5226863/spielbericht",
-   "title": "Beier mit Auge: BVB bringt sich vor dem Bundesliga-Knaller in Stellung",
-   "link": "https://www.kicker.de/dortmund-gegen-frankfurt-2026-bundesliga-5226863/spielbericht",
-   "source": "kicker",
-   "published": "2026-10-24T18:41:14Z",
-   "teaser": "Nach zuletzt zwei Bundesliga-Remis in Folge meldete sich Borussia Dortmund an diesem 7. Spieltag wieder zurück mit einem Dreier - und das eine Woche vor dem großen Showdown. Die Szene des Abends ereignete sich dabei spät durch zwei von …",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wenn-ich-dafuer-eine-begruendung-haette-leipzig-luchst-bayern-einen-bundesliga-rekord-ab-1264720/artikel",
-   "title": "\"Wenn ich dafür eine Begründung hätte\" - Leipzig luchst Bayern einen Bundesliga-Rekord ab",
-   "link": "https://www.kicker.de/wenn-ich-dafuer-eine-begruendung-haette-leipzig-luchst-bayern-einen-bundesliga-rekord-ab-1264720/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T18:35:52Z",
-   "teaser": "Während Leipzig auswärts regelmäßig Niederlagen einstecken muss, klappte es gegen die SV Elversberg mit dem nächsten deutlichen Heimsieg. Dabei konnte RB dem FC Bayern sogar einen Bundesliga-Rekord abluchsen.",
-   "clubs": [
-    40,
-    1635,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/leipzig-luchst-bayern-einen-bundesliga-rekord-ab-1264720/artikel",
-   "title": "Leipzig luchst Bayern einen Bundesliga-Rekord ab",
-   "link": "https://www.kicker.de/leipzig-luchst-bayern-einen-bundesliga-rekord-ab-1264720/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T18:35:52Z",
-   "teaser": "Während Leipzig auswärts regelmäßig Niederlagen einstecken muss, klappte es gegen die SV Elversberg mit dem nächsten deutlichen Heimsieg. Dabei konnte RB dem FC Bayern sogar einen Bundesliga-Rekord abluchsen.",
-   "clubs": [
-    40,
-    1635,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/muslic-dankt-den-koeln-fans-applaus-zeugt-von-groesse-1264764/video",
-   "title": "Muslic dankt den Köln-Fans: \"Applaus zeugt von Größe\"",
-   "link": "https://www.kicker.de/muslic-dankt-den-koeln-fans-applaus-zeugt-von-groesse-1264764/video",
-   "source": "kicker",
-   "published": "2026-10-24T18:30:53Z",
-   "teaser": "Die Schalker mussten beim Spiel gegen Köln den Schock um den Zusammenprall von Robin Gosens und Soufiane El-Faouzi verkraften. Coach Miron Muslic dankte anschließend den Heimfans für den Beifall.",
-   "clubs": [
-    65,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/dank-joker-kombi-bvb-besiegt-frankfurt-und-ist-vorlaeufig-wieder-erster-1264002/artikel",
-   "title": "Dank Joker-Kombi: BVB besiegt Frankfurt und ist vorläufig wieder Erster",
-   "link": "https://www.kicker.de/dank-joker-kombi-bvb-besiegt-frankfurt-und-ist-vorlaeufig-wieder-erster-1264002/artikel",
-   "source": "kicker",
-   "published": "2026-10-24T18:22:06Z",
-   "teaser": "Borussia Dortmund hat das Topspiel gegen Eintracht Frankfurt am Samstagabend für sich entschieden. Letztlich besorgten zwei Joker den 1:0-Sieg.",
    "clubs": [
     7,
     91
