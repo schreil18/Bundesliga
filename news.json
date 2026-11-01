@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T08:49:24Z",
+ "updated": "2026-11-01T09:44:12Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,71 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/bayern-und-bvb-gleichauf-wer-wird-herbstmeister-1267320/artikel",
+   "title": "Bayern und BVB gleichauf: Wer wird Herbstmeister?",
+   "link": "https://www.kicker.de/bayern-und-bvb-gleichauf-wer-wird-herbstmeister-1267320/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T09:25:09Z",
+   "teaser": "Borussia Dortmund hält auch nach dem Topspiel mit dem FC Bayern Schritt. Wer wird nach der Hinrunde vorn liegen? Hier geht es zu unserer Umfrage.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bayerns-lehren-nach-dem-teuren-klassiker-1267322/artikel",
+   "title": "Bayerns Lehren nach dem teuren Klassiker",
+   "link": "https://www.kicker.de/bayerns-lehren-nach-dem-teuren-klassiker-1267322/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T09:20:28Z",
+   "teaser": "Sieg beim 2:2 gegen Borussia Dortmund verschenkt und mindestens zwei weitere Ausfälle: Der Samstagabend war für den FC Bayern ein gebrauchter. Interimstrainer Aaron Danks muss nun kreativ werden - und wiederkehrende Probleme abstellen.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/maza-teilt-gegen-schiedsrichter-brand-aus-das-war-bodenlos-1267343/artikel",
+   "title": "Maza teilt gegen Schiedsrichter Brand aus: \"Das war bodenlos\"",
+   "link": "https://www.kicker.de/maza-teilt-gegen-schiedsrichter-brand-aus-das-war-bodenlos-1267343/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T09:19:03Z",
+   "teaser": "Nach der Kartenflut gegen den VfB Stuttgart ging Leverkusens Torschütze Ibrahim Maza Schiedsrichter Benjamin Brand verbal hart an - auch wegen des persönlichen Umgangs.",
+   "clubs": [
+    6,
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-gladbach-fehlte-gegen-paderborn-der-mut-100.html",
+   "title": "Gladbach fehlte gegen Paderborn der Mut",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-gladbach-fehlte-gegen-paderborn-der-mut-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T09:05:46Z",
+   "teaser": "Borussia Mönchengladbach bleibt nach der Nullnummer gegen Aufsteiger SC Paderborn Liga-Letzter - weil Mut und Aktivität fehlten.",
+   "clubs": [
+    87,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-braucht-neue-taktik-revolution-100.html",
+   "title": "Schalke 04 braucht neue Taktik-Revolution",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-braucht-neue-taktik-revolution-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T09:01:01Z",
+   "teaser": "Der FC Schalke 04 hat auch gegen Leipzig nicht getroffen. Trainer Miron Muslic will sein Team auf den Kopf stellen.",
+   "clubs": [
+    1635,
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/eberls-spitze-gegen-ballack-wegen-karl-1267313/artikel",
    "title": "Eberls Spitze gegen Ballack wegen Karl",
@@ -37,6 +102,19 @@
    "clubs": [
     91,
     100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-bvb-plan-von-kova-geht-bei-bayern-muenchen-auf-100.html",
+   "title": "BVB-Plan von Kovač geht bei Bayern München auf",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-bvb-plan-von-kova-geht-bei-bayern-muenchen-auf-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T06:30:00Z",
+   "teaser": "Der BVB zeigt beim FC Bayern, dass es schwierig ist, ihn zu schlagen. Trainer Niko Kovac stellt um und sein Plan geht auf.",
+   "clubs": [
+    40,
+    7
    ],
    "transfer": false
   },
@@ -2442,84 +2520,6 @@
    "clubs": [
     40,
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-kane-koepft-freistehend-drueber-sc-findet-bisher-keine-loesung-1264014/artikel",
-   "title": "LIVE! Kane köpft freistehend drüber - SC findet bisher keine Lösung",
-   "link": "https://www.kicker.de/live-kane-koepft-freistehend-drueber-sc-findet-bisher-keine-loesung-1264014/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T17:43:13Z",
-   "teaser": "Seit 2015 ist Freiburg gegen den FC Bayern in der Liga sieglos, kassierte dabei 16 Niederlagen und sehnt das Ende der Pleitenserie herbei. Klappt es am Sonntagabend?",
-   "clubs": [
-    40,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/mehr-als-nur-philippe-wie-auch-goetze-und-co-das-paderborner-spiel-beleben-1264977/artikel",
-   "title": "Mehr als nur Philippe: Wie auch Götze und Co. das Paderborner Spiel beleben",
-   "link": "https://www.kicker.de/mehr-als-nur-philippe-wie-auch-goetze-und-co-das-paderborner-spiel-beleben-1264977/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T17:42:08Z",
-   "teaser": "Die Bank bringt den Sieg gegen den HSV; die Joker des SC Paderborn funktionieren. Darunter Felix Götze, der Kapitän, der gerne wieder mehr spielen würde. Der kicker analysiert die Breite im Kader des Aufsteigers.",
-   "clubs": [
-    100,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-gnabry-tunnelt-backhaus-upamecano-im-stile-eines-stuermers-1264014/artikel",
-   "title": "LIVE! Gnabry tunnelt Backhaus - Upamecano im Stile eines Stürmers",
-   "link": "https://www.kicker.de/live-gnabry-tunnelt-backhaus-upamecano-im-stile-eines-stuermers-1264014/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T17:05:38Z",
-   "teaser": "Seit 2015 ist Freiburg gegen den FC Bayern in der Liga sieglos, kassierte dabei 16 Niederlagen und sehnt das Ende der Pleitenserie herbei. Klappt es am Sonntagabend?",
-   "clubs": [
-    40,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-upamecano-kontert-wie-ein-stuermer-zur-fuehrung-1264014/artikel",
-   "title": "LIVE! Upamecano kontert wie ein Stürmer zur Führung",
-   "link": "https://www.kicker.de/live-upamecano-kontert-wie-ein-stuermer-zur-fuehrung-1264014/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T16:47:46Z",
-   "teaser": "Seit 2015 ist Freiburg gegen den FC Bayern in der Liga sieglos, kassierte dabei 16 Niederlagen und sehnt das Ende der Pleitenserie herbei. Klappt es am Sonntagabend?",
-   "clubs": [
-    40,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/1000-bl-tor-der-tsg-kramaric-leitet-3-0-sieg-ein-1264010/artikel",
-   "title": "1000. BL-Tor der TSG: Kramaric leitet 3:0-Sieg ein",
-   "link": "https://www.kicker.de/1000-bl-tor-der-tsg-kramaric-leitet-3-0-sieg-ein-1264010/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T16:29:23Z",
-   "teaser": "Die TSG Hoffenheim hat dank Joker Kramaric gegen Leverkusen drei Punkte eingefahren. In der Schlussphase erhöhte die TSG noch auf 3:0 - Torschütze Prass sah nach seinem Jubel die Ampelkarte.",
-   "clubs": [
-    6,
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-prass-kontert-zum-2-0-und-fliegt-vom-feld-1264010/artikel",
-   "title": "LIVE! Prass kontert zum 2:0 und fliegt vom Feld",
-   "link": "https://www.kicker.de/live-prass-kontert-zum-2-0-und-fliegt-vom-feld-1264010/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T16:11:29Z",
-   "teaser": "Hoffenheim kommt in dieser Saison nur schwer aus den Startlöchern - im Gegensatz zu Leverkusen. Wer behält im direkten Duell die Oberhand?",
-   "clubs": [
-    6,
-    175
    ],
    "transfer": false
   }
