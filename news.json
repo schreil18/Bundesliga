@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T11:36:45Z",
+ "updated": "2026-11-01T12:11:30Z",
  "sources": [
   {
    "name": "kicker",
@@ -38,6 +38,31 @@
    "clubs": [
     80,
     65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/saibari-schon-operiert-fc-bayern-gibt-diagnosen-bekannt-1267279/artikel",
+   "title": "Saibari schon operiert: FC Bayern gibt Diagnosen bekannt",
+   "link": "https://www.kicker.de/saibari-schon-operiert-fc-bayern-gibt-diagnosen-bekannt-1267279/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T11:48:29Z",
+   "teaser": "Am Tag nach dem verlustreichen Topspiel gegen den BVB hat der FC Bayern die Diagnosen für Ismael Saibari und Serge Gnabry bekannt gegeben. Michael Olise fällt offenbar nicht aus.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/thioune-in-niclas-schatten-fliegen-auch-andere-jungs-1267415/video",
+   "title": "Thioune: \"In Niclas' Schatten fliegen auch andere Jungs\"",
+   "link": "https://www.kicker.de/thioune-in-niclas-schatten-fliegen-auch-andere-jungs-1267415/video",
+   "source": "kicker",
+   "published": "2026-11-01T11:45:29Z",
+   "teaser": "Fußballdeutschland spricht über Niclas Füllkrug, aber hinter ihm befinde sich eine ganze Riege weiterer Neuzugänge, die bei Werder Bremen einschlägt, meint ein glücklicher Trainer Daniel Thioune.",
+   "clubs": [
+    134
    ],
    "transfer": false
   },
@@ -2493,32 +2518,6 @@
    "clubs": [
     40,
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kein-pfiff-nach-bades-schlimmem-zusammenprall-schiedsrichter-hartmann-erklaert-sich-1265175/artikel",
-   "title": "Kein Pfiff nach Badés schlimmem Zusammenprall: Schiedsrichter Hartmann erklärt sich",
-   "link": "https://www.kicker.de/kein-pfiff-nach-bades-schlimmem-zusammenprall-schiedsrichter-hartmann-erklaert-sich-1265175/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T20:08:05Z",
-   "teaser": "Bayer 04 Leverkusen hat nicht in Hoffenheim nicht nur das Spiel mit 0:3 verloren, auch Abwehrspieler Loic Badé erwischte es knüppeldick. Inzwischen gab es aber auch schon leichte Entwarnung. Schiedsrichter Robert Hartmann erklärte zudem …",
-   "clubs": [
-    6,
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ilzer-heute-duerfen-wir-uns-auf-die-schulter-klopfen-1265195/video",
-   "title": "Ilzer: \"Heute dürfen wir uns auf die Schulter klopfen\"",
-   "link": "https://www.kicker.de/ilzer-heute-duerfen-wir-uns-auf-die-schulter-klopfen-1265195/video",
-   "source": "kicker",
-   "published": "2026-10-25T20:05:14Z",
-   "teaser": "Christian Ilzer ist froh, dass man sich von Leverkusens Siegesserie nicht einlullen ließ. Nach drei Siegen in einer Woche darf sich das Team selbst auf die Schulter klopfen, so der Hoffenheim-Coach.",
-   "clubs": [
-    6,
-    175
    ],
    "transfer": false
   }
