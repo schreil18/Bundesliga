@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:45:55Z",
+ "updated": "2026-11-01T19:39:31Z",
  "sources": [
   {
    "name": "kicker",
@@ -20,8 +20,33 @@
    "title": "Wieder 3:1 - Frankfurt legt nach, HSV verpasst Revanche",
    "link": "https://www.sportschau.de/fussball/bundesliga/wieder-31-frankfurt-legt-nach-hsv-verpasst-revanche,spielbericht-eintracht-frankfurt-hamburger-sv-102.html",
    "source": "Sportschau",
-   "published": "2026-11-01T18:37:30Z",
+   "published": "2026-11-01T19:37:59Z",
    "teaser": "Nach dem Erfolg im DFB-Pokal hat Eintracht Frankfurt auch in der Fußball-Bundesliga einen Sieg gegen den Hamburger SV eingefahren. Das Ergebnis war eine Art Déjà-vu.",
+   "clubs": [
+    91,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ilicevic-zieht-mit-moukoko-gleich-die-juengsten-debuetanten-der-bundesliga-789848/slideshow",
+   "title": "Ilicevic zieht mit Moukoko gleich: Die jüngsten Debütanten der Bundesliga",
+   "link": "https://www.kicker.de/ilicevic-zieht-mit-moukoko-gleich-die-juengsten-debuetanten-der-bundesliga-789848/slideshow",
+   "source": "kicker",
+   "published": "2026-11-01T19:15:00Z",
+   "teaser": "Einen Tag nach seinem 16. Geburtstag durfte Frankfurts Niko Ilicevic in der Bundesliga debütieren. Der Einsatz bescherte dem Teenager einen Platz in den Geschichtsbüchern.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/frankfurt-gegen-hsv-2026-bundesliga-5226874/spielbericht",
+   "title": "Zweiter Sieg in fünf Tagen: Frankfurt besiegt den HSV auch in der Liga",
+   "link": "https://www.kicker.de/frankfurt-gegen-hsv-2026-bundesliga-5226874/spielbericht",
+   "source": "kicker",
+   "published": "2026-11-01T18:42:28Z",
+   "teaser": "Eintracht Frankfurt feiert gegen den Hamburger SV einen verdienten Heimsieg. Für den HSV ist es die zweite Niederlage innerhalb von fünf Tagen gegen die SGE, die damit die Gäste überholt und in der Tabelle von Platz 14 auf 8 klettert.",
    "clubs": [
     91,
     100
@@ -50,6 +75,18 @@
    "teaser": "Der 1. FC Köln enttäuschte beim Wiedersehen mit Union Berlin - bei seiner Premiere sorgte Malek El Mala, Bruder von Said, trotzdem noch für einen Punktgewinn.",
    "clubs": [
     80,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/angst-vor-fehlern-lustrinelli-wir-sind-keine-maschinen-1267574/video",
+   "title": "Angst vor Fehlern? Lustrinelli: \"Wir sind keine Maschinen\"",
+   "link": "https://www.kicker.de/angst-vor-fehlern-lustrinelli-wir-sind-keine-maschinen-1267574/video",
+   "source": "kicker",
+   "published": "2026-11-01T18:29:05Z",
+   "teaser": "Nach dem 1:1 gegen Köln haderte Mauro Lustrinelli mit Unions Passivität nach der Pause. Der Trainer erklärt den Einbruch mit der mentalen Angst vor Fehlern: Seine Profis seien eben keine Maschinen.",
+   "clubs": [
     65
    ],
    "transfer": false
@@ -2473,44 +2510,6 @@
    "teaser": "Der FC Augsburg hat seit dem Wochenende einen neuen Bundesliga-Rekordspieler. Aber wer hat bei den anderen 17 Bundesligisten die Nase vorn? Ein Überblick.",
    "clubs": [
     95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/vielleicht-hat-hoeness-undav-damit-keinen-gefallen-getan-1265328/artikel",
-   "title": "\"Vielleicht hat Hoeneß Undav damit keinen Gefallen getan\"",
-   "link": "https://www.kicker.de/vielleicht-hat-hoeness-undav-damit-keinen-gefallen-getan-1265328/artikel",
-   "source": "kicker",
-   "published": "2026-10-26T08:47:46Z",
-   "teaser": "Die Formkrise des VfB Stuttgart ist auch die Formkrise des Deniz Undav. Lothar Matthäus überlegt, ob es eine gute Entscheidung war, ihn zum Kapitän zu machen.",
-   "clubs": [
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gomis-auf-dem-besten-weg-zur-festen-groesse-1264934/artikel",
-   "title": "Gomis: Auf dem besten Weg zur festen Größe",
-   "link": "https://www.kicker.de/gomis-auf-dem-besten-weg-zur-festen-groesse-1264934/artikel",
-   "source": "kicker",
-   "published": "2026-10-26T08:09:17Z",
-   "teaser": "Sein Tor zum 1:0 war für RB Leipzig der Dosenöffner beim 4:0-Heimsieg gegen die SV Elversberg. Abseits dieses Treffers ist der junge Stürmer zuletzt insgesamt deutlich weitergekommen.",
-   "clubs": [
-    1635,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-300-ist-gouweleeuws-naechstes-ziel-1264926/artikel",
-   "title": "Die 300 ist Gouweleeuws nächstes Ziel",
-   "link": "https://www.kicker.de/die-300-ist-gouweleeuws-naechstes-ziel-1264926/artikel",
-   "source": "kicker",
-   "published": "2026-10-26T05:07:49Z",
-   "teaser": "Einen Grund zu feiern gab es für den FC Augsburg beim 1:1 gegen Union Berlin dann doch: Kapitän Jeff Gouweleeuw stieg mit seinem 275. Bundesligaspiel zum Rekordmann des Klubs auf.",
-   "clubs": [
-    95,
-    80
    ],
    "transfer": false
   }
