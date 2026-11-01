@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T07:58:04Z",
+ "updated": "2026-11-01T08:49:24Z",
  "sources": [
   {
    "name": "kicker",
@@ -101,6 +101,18 @@
     7
    ],
    "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/danks-erklaert-warum-er-karl-erst-so-spaet-einwechselte-1267263/video",
+   "title": "Danks erklärt, warum er Karl erst so spät einwechselte",
+   "link": "https://www.kicker.de/danks-erklaert-warum-er-karl-erst-so-spaet-einwechselte-1267263/video",
+   "source": "kicker",
+   "published": "2026-10-31T21:09:17Z",
+   "teaser": "Bayerns Co-Trainer Aaron Danks spricht nach dem Spiel gegen Borussia Dortmund über die vielen Verletzten und begründet bestimmte Personalentscheidungen.",
+   "clubs": [
+    7
+   ],
+   "transfer": true
   },
   {
    "id": "https://www.kicker.de/baum-und-die-brandrede-was-mir-mega-stinkt-1267230/artikel",
@@ -2508,19 +2520,6 @@
    "clubs": [
     6,
     175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-personalgeschwaechtes-bayern-mit-karl-und-gnabry-in-freiburg-1264014/artikel",
-   "title": "LIVE! Personalgeschwächtes Bayern mit Karl und Gnabry in Freiburg",
-   "link": "https://www.kicker.de/live-personalgeschwaechtes-bayern-mit-karl-und-gnabry-in-freiburg-1264014/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T16:06:48Z",
-   "teaser": "Seit 2015 ist Freiburg gegen den FC Bayern in der Liga sieglos, kassierte dabei 16 Niederlagen und sehnt das Ende der Pleitenserie herbei. Klappt es am Sonntagabend?",
-   "clubs": [
-    40,
-    112
    ],
    "transfer": false
   }
