@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T19:39:31Z",
+ "updated": "2026-11-01T20:36:59Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,43 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/er-will-mich-nur-besser-machen-uzun-sieht-huetter-kritik-gelassen-1267585/artikel",
+   "title": "\"Er will mich nur besser machen\": Uzun sieht Hütter-Kritik gelassen",
+   "link": "https://www.kicker.de/er-will-mich-nur-besser-machen-uzun-sieht-huetter-kritik-gelassen-1267585/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T20:09:47Z",
+   "teaser": "Nach der öffentlichen Kritik von Adi Hütter überzeugte Can Uzun beim zweiten Duell mit dem HSV in fünf Tagen als bester Mann auf dem Platz - und bekam danach ein Sonderlob von seinem Trainer.",
+   "clubs": [
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/die-nusa-hausse-endlich-auch-in-der-champions-league-1267350/artikel",
+   "title": "Die Nusa-Hausse - endlich auch in der Champions League?",
+   "link": "https://www.kicker.de/die-nusa-hausse-endlich-auch-in-der-champions-league-1267350/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T20:06:39Z",
+   "teaser": "Antonio Nusa ist drauf und dran, für RB Leipzig zum Unterschiedspieler zu werden. Doch jetzt geht es für den Norweger gegen Manchester City darum, seinen Wert auch auf der internationalen Bühne zu bestätigen.",
+   "clubs": [
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/er-hat-gezeigt-dass-er-den-riecher-hat-wagner-ueber-el-mala-treffer-1267597/video",
+   "title": "\"Er hat gezeigt, dass er den Riecher hat\": Wagner über El-Mala-Treffer",
+   "link": "https://www.kicker.de/er-hat-gezeigt-dass-er-den-riecher-hat-wagner-ueber-el-mala-treffer-1267597/video",
+   "source": "kicker",
+   "published": "2026-11-01T19:45:33Z",
+   "teaser": "Malek El Mala feierte einen perfekten Einstand bei Köln mit dem 1:1-Ausgleichstreffer gegen Union Berlin. Köln-Trainer René Wagner freute sich für den Mittelstürmer, denn der 21-Jährige habe hart dafür gearbeitet.",
+   "clubs": [
+    80,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/wieder-31-frankfurt-legt-nach-hsv-verpasst-revanche,spielbericht-eintracht-frankfurt-hamburger-sv-102.html",
    "title": "Wieder 3:1 - Frankfurt legt nach, HSV verpasst Revanche",
@@ -2472,44 +2509,6 @@
    "teaser": "Harry Kane hat große Hoffnungen, den Ballon d'Or in diesem Jahr zu gewinnen. Auch wenige Stunden vor der Verleihung gibt es noch keine Tendenzen, beim FC Bayern sind sie geteilter Meinung, wie gut die Chancen des Stürmers stehen.",
    "clubs": [
     40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/er-hat-keinen-einfachen-stand-tor-held-philippe-und-der-kritische-blick-seines-trainers-1264904/artikel",
-   "title": "\"Er hat keinen einfachen Stand\": Tor-Held Philippe und der kritische Blick seines Trainers",
-   "link": "https://www.kicker.de/er-hat-keinen-einfachen-stand-tor-held-philippe-und-der-kritische-blick-seines-trainers-1264904/artikel",
-   "source": "kicker",
-   "published": "2026-10-26T11:38:56Z",
-   "teaser": "Rayan Philippe entscheidet das Spiel gegen den Hamburger SV. Ausgerechnet! Startet der Leihstürmer des SC Paderborn nun in die Startelf durch? Trainer Ralf Kettemann reagiert nicht nur mit einer Lobeshymne.",
-   "clubs": [
-    100,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gosens-nimmt-el-mala-in-schutz-einfach-scheisse-gelaufen-1265391/artikel",
-   "title": "Gosens nimmt El Mala in Schutz: \"Einfach scheiße gelaufen\"",
-   "link": "https://www.kicker.de/gosens-nimmt-el-mala-in-schutz-einfach-scheisse-gelaufen-1265391/artikel",
-   "source": "kicker",
-   "published": "2026-10-26T11:32:13Z",
-   "teaser": "Ein heftiger Zusammenprall zwischen Robin Gosens und Soufiane El-Faouzi hatte im Spiel zwischen Köln und Schalke für einen Schockmoment gesorgt. Tags darauf gab es Diagnosen und einen Post von Gosens.",
-   "clubs": [
-    65,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gouweleeuw-loest-beim-fca-baier-ab-die-bundesliga-rekordspieler-der-18-erstligisten-1009243/slideshow",
-   "title": "Gouweleeuw löst beim FCA Baier ab: Die Bundesliga-Rekordspieler der 18 Erstligisten",
-   "link": "https://www.kicker.de/gouweleeuw-loest-beim-fca-baier-ab-die-bundesliga-rekordspieler-der-18-erstligisten-1009243/slideshow",
-   "source": "kicker",
-   "published": "2026-10-26T09:00:42Z",
-   "teaser": "Der FC Augsburg hat seit dem Wochenende einen neuen Bundesliga-Rekordspieler. Aber wer hat bei den anderen 17 Bundesligisten die Nase vorn? Ein Überblick.",
-   "clubs": [
-    95
    ],
    "transfer": false
   }
