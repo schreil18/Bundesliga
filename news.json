@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T17:10:11Z",
+ "updated": "2026-11-01T18:05:50Z",
  "sources": [
   {
    "name": "kicker",
@@ -17,14 +17,39 @@
  "items": [
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194446/eintracht-frankfurt_hamburger-sv/liveticker",
-   "title": "Jetzt live - 1:1! Führung der Eintracht hält nur vier Minuten",
+   "title": "Jetzt live - 3:1! Überlegene Eintracht erhöht gegen den HSV",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194446/eintracht-frankfurt_hamburger-sv/liveticker",
    "source": "Sportschau",
-   "published": "2026-11-01T16:45:51Z",
-   "teaser": "Die Punktausbeute stimmt noch nicht bei Eintracht Frankfurt. Gegen den Hamburger SV haben die Hessen nun den schnellen Ausgleich kassiert.",
+   "published": "2026-11-01T18:02:20Z",
+   "teaser": "Eintracht Frankfurt ist auf einem guten Weg, in der Tabelle einen großen Sprung nach vorne zu machen. Gegen den Hamburger SV führen die Hessen verdient.",
    "clubs": [
     91,
     100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Gwinn will Bayern-Zukunft bald klären - Pulisic verlängert in Mailand",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T17:50:37Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/dortmunds-viererkette-wird-zum-symbol-und-laesst-vor-allem-einen-auffallen-1267404/artikel",
+   "title": "Dortmunds Viererkette wird zum Symbol - und lässt vor allem einen auffallen",
+   "link": "https://www.kicker.de/dortmunds-viererkette-wird-zum-symbol-und-laesst-vor-allem-einen-auffallen-1267404/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T17:16:06Z",
+   "teaser": "Die Auftritte der vergangenen Wochen und das Remis in München machen Borussia Dortmund Lust auf mehr. Die Spieler werden besser, der Fußball auch. Gegen die Bayern demonstrierte vor allem einer seine positive Entwicklung.",
+   "clubs": [
+    40,
+    7
    ],
    "transfer": false
   },
@@ -45,6 +70,19 @@
    "id": "https://www.kicker.de/live-eintracht-erzwingt-eigentor-doch-hsv-hat-die-schnelle-antwort-parat-1266563/artikel",
    "title": "LIVE! Eintracht erzwingt Eigentor - doch HSV hat die schnelle Antwort parat",
    "link": "https://www.kicker.de/live-eintracht-erzwingt-eigentor-doch-hsv-hat-die-schnelle-antwort-parat-1266563/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T16:37:15Z",
+   "teaser": "Im DFB-Pokal konnte Eintracht Frankfurt unter der Woche den HSV mit 3:1 besiegen. Heute gibt es das Wiedersehen in der Liga - diesmal in Frankfurt. Wer setzt sich diesmal durch?",
+   "clubs": [
+    91,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-diesmal-zaehlt-s-ebnoutalib-nach-uzun-pass-zur-stelle-1266563/artikel",
+   "title": "LIVE! Diesmal zählt's: Ebnoutalib nach Uzun-Pass zur Stelle",
+   "link": "https://www.kicker.de/live-diesmal-zaehlt-s-ebnoutalib-nach-uzun-pass-zur-stelle-1266563/artikel",
    "source": "kicker",
    "published": "2026-11-01T16:37:15Z",
    "teaser": "Im DFB-Pokal konnte Eintracht Frankfurt unter der Woche den HSV mit 3:1 besiegen. Heute gibt es das Wiedersehen in der Liga - diesmal in Frankfurt. Wer setzt sich diesmal durch?",
@@ -2118,18 +2156,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Vuskovic-Verlängerung beim HSV wohl nur Formsache - Carrick darf bleiben",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-10-27T09:42:15Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [
-    100
-   ],
-   "transfer": true
-  },
-  {
    "id": "https://www.kicker.de/das-ist-einfach-das-traurige-baumgart-aeussert-sich-zum-union-aus-1265581/artikel",
    "title": "\"Das ist einfach das Traurige\": Baumgart äußert sich zum Union-Aus",
    "link": "https://www.kicker.de/das-ist-einfach-das-traurige-baumgart-aeussert-sich-zum-union-aus-1265581/artikel",
@@ -2487,33 +2513,6 @@
    "clubs": [
     7,
     91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
-   "title": "Leipzigs Halbzeit-Gala schickt Elversberg in die Auswärtskrise",
-   "link": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-25T23:00:37Z",
-   "teaser": "Bei Bayern München und Real Madrid hatte es Klatschen für RB Leipzig gegeben, doch die englische Woche endete mit einem 45-minütigen Feuerwerk. Die SV Elversberg enttäuschte wieder in der Fremde.",
-   "clubs": [
-    40,
-    1635,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
-   "title": "Paderborns Joker trifft: Rayan Philippe schockt Ex-Klub HSV",
-   "link": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-25T23:00:36Z",
-   "teaser": "Die Siegesserie des Hamburger SV endet beim SC Paderborn. Ausgerechnet der ehemalige Hamburger Rayan Philippe schoss das entscheidende Tor.",
-   "clubs": [
-    100,
-    31
    ],
    "transfer": false
   }
