@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T09:44:12Z",
+ "updated": "2026-11-01T10:40:18Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,71 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/eintracht-frankfurt-gegen-hamburger-sv,audiostream-eintracht-frankfurt-gegen-hamburger-sv-102.html",
+   "title": "Eintracht Frankfurt gegen Hamburger SV Live im Audiostream",
+   "link": "https://www.sportschau.de/fussball/bundesliga/eintracht-frankfurt-gegen-hamburger-sv,audiostream-eintracht-frankfurt-gegen-hamburger-sv-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T16:15:00Z",
+   "teaser": "8. Spieltag: Anpfiff des Spiels ist am 01.11.2026 um 17:30 Uhr. Hamburger SV spielt in Frankfurt am Main.",
+   "clubs": [
+    91,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/1-fc-union-berlin-gegen-1-fc-koeln,audiostream-1-fc-union-berlin-gegen-1-fc-koeln-106.html",
+   "title": "1. FC Union Berlin gegen 1. FC Köln Live im Audiostream",
+   "link": "https://www.sportschau.de/fussball/bundesliga/1-fc-union-berlin-gegen-1-fc-koeln,audiostream-1-fc-union-berlin-gegen-1-fc-koeln-106.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T14:15:00Z",
+   "teaser": "8. Spieltag: Anpfiff des Spiels ist am 01.11.2026 um 15:30 Uhr. 1. FC Köln spielt in Berlin.",
+   "clubs": [
+    80,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kam-sehr-aggressiv-auf-mich-zu-hwang-erklaert-seinen-schubser-1267358/artikel",
+   "title": "\"Kam sehr aggressiv auf mich zu\": Hwang erklärt seinen Schubser",
+   "link": "https://www.kicker.de/kam-sehr-aggressiv-auf-mich-zu-hwang-erklaert-seinen-schubser-1267358/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T10:09:15Z",
+   "teaser": "Hee-Chan Hwang sorgte zuletzt mit einer Szene abseits des Platzes für Gesprächsstoff. Seine Sicht auf den Schubser gegen den Vierten Offiziellen schilderte der Schalker Stürmer nach der Niederlage gegen Leipzig.",
+   "clubs": [
+    1635,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194458/1-fc-union-berlin_1-fc-koeln/liveticker",
+   "title": "Ab 15.30 Uhr live - Schnelles Wiedersehen zwischen Union und Köln",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194458/1-fc-union-berlin_1-fc-koeln/liveticker",
+   "source": "Sportschau",
+   "published": "2026-11-01T10:08:34Z",
+   "teaser": "In der Bundesliga ist Köln bei Union Berlin zu Gast. Die Köpenicker sind erst am Dienstag-Abend zum Pokal-Duell nach Köln gereist. Folgt nun die Revanche?",
+   "clubs": [
+    80,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-gladbach-fehlte-gegen-paderborn-der-mut-100.html",
+   "title": "Gladbach fehlte gegen Paderborn der Mut",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-gladbach-fehlte-gegen-paderborn-der-mut-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T09:55:00Z",
+   "teaser": "Borussia Mönchengladbach bleibt nach der Nullnummer gegen Aufsteiger SC Paderborn Liga-Letzter - weil Mut und Aktivität fehlten.",
+   "clubs": [
+    87,
+    31
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/bayern-und-bvb-gleichauf-wer-wird-herbstmeister-1267320/artikel",
    "title": "Bayern und BVB gleichauf: Wer wird Herbstmeister?",
@@ -55,19 +120,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-gladbach-fehlte-gegen-paderborn-der-mut-100.html",
-   "title": "Gladbach fehlte gegen Paderborn der Mut",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-gladbach-fehlte-gegen-paderborn-der-mut-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-01T09:05:46Z",
-   "teaser": "Borussia Mönchengladbach bleibt nach der Nullnummer gegen Aufsteiger SC Paderborn Liga-Letzter - weil Mut und Aktivität fehlten.",
-   "clubs": [
-    87,
-    31
-   ],
-   "transfer": false
-  },
-  {
    "id": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-braucht-neue-taktik-revolution-100.html",
    "title": "Schalke 04 braucht neue Taktik-Revolution",
    "link": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-braucht-neue-taktik-revolution-100.html",
@@ -77,6 +129,19 @@
    "clubs": [
     1635,
     9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-bvb-plan-von-kova-geht-bei-bayern-muenchen-auf-100.html",
+   "title": "BVB-Plan von Kovac geht bei Bayern München auf",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-bvb-plan-von-kova-geht-bei-bayern-muenchen-auf-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T08:25:00Z",
+   "teaser": "Der BVB zeigt beim FC Bayern, dass es schwierig ist, ihn zu schlagen. Trainer Niko Kovac stellt um und sein Plan geht auf.",
+   "clubs": [
+    40,
+    7
    ],
    "transfer": false
   },
@@ -102,19 +167,6 @@
    "clubs": [
     91,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-bvb-plan-von-kova-geht-bei-bayern-muenchen-auf-100.html",
-   "title": "BVB-Plan von Kovač geht bei Bayern München auf",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-bvb-plan-von-kova-geht-bei-bayern-muenchen-auf-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-01T06:30:00Z",
-   "teaser": "Der BVB zeigt beim FC Bayern, dass es schwierig ist, ihn zu schlagen. Trainer Niko Kovac stellt um und sein Plan geht auf.",
-   "clubs": [
-    40,
-    7
    ],
    "transfer": false
   },
@@ -2469,57 +2521,6 @@
    "clubs": [
     7,
     91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hoffenheims-perfekte-woche-das-kann-die-wende-sein-1265163/video",
-   "title": "Hoffenheims perfekte Woche: \"Das kann die Wende sein\"",
-   "link": "https://www.kicker.de/hoffenheims-perfekte-woche-das-kann-die-wende-sein-1265163/video",
-   "source": "kicker",
-   "published": "2026-10-25T18:44:58Z",
-   "teaser": "Der zweite 3:0-Sieg in Folge und der dritte Dreier in einer Woche: Für Hoffenheim könnte es zurzeit kaum besser laufen. kicker-Reporter Michael Pfeifer sieht darin die Wende in einer bislang komplizierten Saison für die TSG.",
-   "clubs": [
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/freiburg-gegen-bayern-2026-bundesliga-5226867/spielbericht",
-   "title": "Wilde Schlussphase: Erst rettet Urbig, dann begräbt Olise Freiburgs Hoffnungen",
-   "link": "https://www.kicker.de/freiburg-gegen-bayern-2026-bundesliga-5226867/spielbericht",
-   "source": "kicker",
-   "published": "2026-10-25T18:41:44Z",
-   "teaser": "Der FC Bayern trotzt allen Widerständen: Beim SC Freiburg siegten die Münchner auch ohne Vincent Kompany, setzten den Dreier in der Schlussphase aber noch einmal unnötig aufs Spiel. Upamecano leitete mit einem eindrucksvollen Sprint den …",
-   "clubs": [
-    40,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/rbb/rbb-union-berlin-nach-11-in-augsburg-lustrinelli-will-mehr-100.html",
-   "title": "Union Berlin nach 1:1 in Augsburg: Lustrinelli will mehr",
-   "link": "https://www.sportschau.de/regional/rbb/rbb-union-berlin-nach-11-in-augsburg-lustrinelli-will-mehr-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-25T18:34:34Z",
-   "teaser": "In Augsburg sieht Union Berlin früh Rot und tritt danach eine Zeitreise an. Nach dem Spiel ist klar, dass die Mannschaft wieder kann, was sie über Jahre auszeichnete. Spielerisch sollen nächste Schritte folgen.",
-   "clubs": [
-    95,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/upamecanos-stuermertor-leitet-bayerns-zittersieg-in-freiburg-ein-1264014/artikel",
-   "title": "Upamecanos Stürmertor leitet Bayerns Zittersieg in Freiburg ein",
-   "link": "https://www.kicker.de/upamecanos-stuermertor-leitet-bayerns-zittersieg-in-freiburg-ein-1264014/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T18:26:52Z",
-   "teaser": "Seit 2015 ist Freiburg gegen den FC Bayern in der Liga sieglos, kassierte dabei 16 Niederlagen und sehnt das Ende der Pleitenserie herbei. Klappt es am Sonntagabend?",
-   "clubs": [
-    40,
-    112
    ],
    "transfer": false
   }
