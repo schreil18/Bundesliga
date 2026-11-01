@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T10:40:18Z",
+ "updated": "2026-11-01T11:36:45Z",
  "sources": [
   {
    "name": "kicker",
@@ -38,6 +38,43 @@
    "clubs": [
     80,
     65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/infektion-international-wie-sich-bei-werder-alle-gegenseitig-anstecken-1267330/artikel",
+   "title": "Infektion international: Wie sich bei Werder alle gegenseitig anstecken",
+   "link": "https://www.kicker.de/infektion-international-wie-sich-bei-werder-alle-gegenseitig-anstecken-1267330/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T11:05:12Z",
+   "teaser": "Der SV Werder Bremen steuert nach rund einem Viertel der Saison auf Europa-Kurs - weil sich die Profis gegenseitig anstecken. \"Hochinfektiös\" ist vor allem einer.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/abraha-wandelt-bei-der-tsg-auf-sueles-spuren-1267337/artikel",
+   "title": "Abraha wandelt bei der TSG auf Süles Spuren",
+   "link": "https://www.kicker.de/abraha-wandelt-bei-der-tsg-auf-sueles-spuren-1267337/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T10:47:04Z",
+   "teaser": "Im Sommer 2025 war Juniorennationalspieler Natnael Abraha (18) aus dem Nachwuchs von Eintracht Frankfurt nach Hoffenheim gewechselt. Am Samstag feierte das Talent sein Bundesligadebüt und folgt damit dem Weg eines berühmten Vorgängers.",
+   "clubs": [
+    91,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/gladbacher-torwartfrage-batz-reicht-seine-bewerbung-ein-1267376/artikel",
+   "title": "Gladbacher Torwartfrage: Batz reicht seine Bewerbung ein",
+   "link": "https://www.kicker.de/gladbacher-torwartfrage-batz-reicht-seine-bewerbung-ein-1267376/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T10:42:39Z",
+   "teaser": "Borussias Nummer 2 bleibt zum zweiten Mal in Folge ohne Gegentor und überzeugt als sicherer Rückhalt. Muss Stammkeeper Moritz Nicolas jetzt zittern?",
+   "clubs": [
+    87
    ],
    "transfer": false
   },
@@ -124,7 +161,7 @@
    "title": "Schalke 04 braucht neue Taktik-Revolution",
    "link": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-braucht-neue-taktik-revolution-100.html",
    "source": "Sportschau",
-   "published": "2026-11-01T09:01:01Z",
+   "published": "2026-11-01T08:45:00Z",
    "teaser": "Der FC Schalke 04 hat auch gegen Leipzig nicht getroffen. Trainer Miron Muslic will sein Team auf den Kopf stellen.",
    "clubs": [
     1635,
@@ -2482,45 +2519,6 @@
    "clubs": [
     6,
     175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kompany-vertreter-danks-als-erstes-war-da-eine-whatsapp-von-vince-1265187/artikel",
-   "title": "Kompany-Vertreter Danks: \"Als Erstes war da eine WhatsApp von Vince\"",
-   "link": "https://www.kicker.de/kompany-vertreter-danks-als-erstes-war-da-eine-whatsapp-von-vince-1265187/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T19:50:08Z",
-   "teaser": "Allen Widerständen und Hiobsbotschaften der vergangenen Tage zum Trotz zeigte der FC Bayern in Freiburg Widerstandskraft und eine gute Leistung. Vincent Kompany war per WhatsApp der erste Gratulant, wird aber weiterhin fehlen.",
-   "clubs": [
-    40,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kramaric-nach-prass-jubel-ein-guter-spieler-aber-ein-bisschen-dumm-1265167/artikel",
-   "title": "Kramaric nach Prass-Jubel: \"Ein guter Spieler, aber ein bisschen dumm\"",
-   "link": "https://www.kicker.de/kramaric-nach-prass-jubel-ein-guter-spieler-aber-ein-bisschen-dumm-1265167/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T19:35:06Z",
-   "teaser": "Drittes Spiel, dritter Sieg in Serie: Die TSG Hoffenheim hat einen Lauf, doch beim 3:0 gegen Bayer 04 Leverkusen sorgte Alexander Prass für einen Wermutstropfen. Dafür gab's dann auch Schelte.",
-   "clubs": [
-    6,
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/warum-gadou-in-baku-und-gegen-frankfurt-auf-der-bank-sass-1265050/artikel",
-   "title": "Warum Gadou in Baku und gegen Frankfurt auf der Bank saß",
-   "link": "https://www.kicker.de/warum-gadou-in-baku-und-gegen-frankfurt-auf-der-bank-sass-1265050/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T19:12:31Z",
-   "teaser": "Die ersten neun Pflichtspiele für Borussia Dortmund bestritt Neuzugang Joane Gadou jeweils von Anfang an. Zuletzt verdrängte ihn Ramy Bensebaini zweimal auf die Bank. Niko Kovac verriet, wo der 19-Jährige noch Nachholbedarf hat.",
-   "clubs": [
-    7,
-    91
    ],
    "transfer": false
   }
