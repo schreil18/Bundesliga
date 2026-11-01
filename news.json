@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T22:10:02Z",
+ "updated": "2026-11-01T23:09:15Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,267 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-knackt-hoffenheim-und-voeller-rekord,video-bundesliga-werder-bremen-tsg-1899-hoffenheim-100.html",
+   "title": "Füllkrug knackt Hoffenheim und Völler-Rekord",
+   "link": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-knackt-hoffenheim-und-voeller-rekord,video-bundesliga-werder-bremen-tsg-1899-hoffenheim-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:00:50Z",
+   "teaser": "Werder Bremen gewinnt im Weserstadion gegen die TSG Hoffenheim - auch weil Torjäger Niclas Füllkrug weiter einfach nicht zu stoppen ist.",
+   "clubs": [
+    175,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/malek-el-malas-traumdebuet-rettet-fc,video-bundesliga-union-berlin-1-fc-koeln-100.html",
+   "title": "Malek El Malas Traumdebüt rettet den FC",
+   "link": "https://www.sportschau.de/fussball/bundesliga/malek-el-malas-traumdebuet-rettet-fc,video-bundesliga-union-berlin-1-fc-koeln-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:00:47Z",
+   "teaser": "Beim Remis bei Union Berlin kann sich der 1. FC Köln wieder auf El Mala verlassen. Allerdings auf Said, sondern auf seinen älteren Bruder.",
+   "clubs": [
+    80,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/gladbach-und-paderborn-treffen-tor-nicht,video-bundesliga-borussia-moenchengladbach-sc-paderborn-07-100.html",
+   "title": "Gladbach und Paderborn treffen das Tor nicht",
+   "link": "https://www.sportschau.de/fussball/bundesliga/gladbach-und-paderborn-treffen-tor-nicht,video-bundesliga-borussia-moenchengladbach-sc-paderborn-07-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:00:43Z",
+   "teaser": "Im Kellerduell zwischen Borussia Mönchengladbach und dem SC Paderborn sorgen vor allem die Torhüter dafür, dass es nichts zu jubeln gibt.",
+   "clubs": [
+    87,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/schalke-schlittert-gegen-leipzig-tiefer-in-die-krise,video-bundesliga-fc-schalke-04-rb-leipzig-100.html",
+   "title": "Schalke schlittert gegen Leipzig tiefer in die Krise",
+   "link": "https://www.sportschau.de/fussball/bundesliga/schalke-schlittert-gegen-leipzig-tiefer-in-die-krise,video-bundesliga-fc-schalke-04-rb-leipzig-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:00:38Z",
+   "teaser": "Der FC Schalke 04 verliert sein Heimspiel gegen RB Leipzig und wartet weiterhin auf das erste Tor vor heimischer Kulisse.",
+   "clubs": [
+    1635,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/joker-schiessen-freiburg-in-augsburg-zum-sieg,video-bundesliga-fc-augsburg-sc-freiburg-102.html",
+   "title": "Joker schießen Freiburg in Augsburg zum Sieg",
+   "link": "https://www.sportschau.de/fussball/bundesliga/joker-schiessen-freiburg-in-augsburg-zum-sieg,video-bundesliga-fc-augsburg-sc-freiburg-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:00:37Z",
+   "teaser": "Der SC Freiburg beißt sich in der Bundesliga-Spitzengruppe fest, auch weil sich Trainer Julian Schuster wie in Augsburg au seine Bank verlassen kann.",
+   "clubs": [
+    112,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/inklusive-traumtor-elversberg-kocht-mainz-ab,video-bundesliga-sv-elversberg-fsv-mainz-05-100.html",
+   "title": "Inklusive Traumtor: Elversberg kocht Mainz ab",
+   "link": "https://www.sportschau.de/fussball/bundesliga/inklusive-traumtor-elversberg-kocht-mainz-ab,video-bundesliga-sv-elversberg-fsv-mainz-05-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:00:35Z",
+   "teaser": "Nach zwei Spielen ohne Sieg schießt sich Bundesliga-Aufsteiger Elversberg den Frust von der Seele und gewinnt deutlich gegen über weite Strecken harmlose Mainzer.",
+   "clubs": [
+    81,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/stuttgart-gewinnt-hitziges-torfestival-in-leverkusen,video-bundesliga-bayer-04-leverkusen-vfb-stuttgart-100.html",
+   "title": "Stuttgart gewinnt hitziges Torfestival in Leverkusen",
+   "link": "https://www.sportschau.de/fussball/bundesliga/stuttgart-gewinnt-hitziges-torfestival-in-leverkusen,video-bundesliga-bayer-04-leverkusen-vfb-stuttgart-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:00:34Z",
+   "teaser": "Der VfB Stuttgart darf nach einer kleinen Krise in der Fußball-Bundesliga durchatmen. Beim Sieg in Leverkusen ging es vor den Toren und zwischen den Spielern hoch her.",
+   "clubs": [
+    6,
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/hamburg-verliert-erneut-gegen-die-eintracht,video-bundesliga-eintracht-frankfurt-hamburger-sv-100.html",
+   "title": "Hamburg verliert erneut gegen die Eintracht",
+   "link": "https://www.sportschau.de/fussball/bundesliga/hamburg-verliert-erneut-gegen-die-eintracht,video-bundesliga-eintracht-frankfurt-hamburger-sv-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:00:11Z",
+   "teaser": "Nach der Niederlage im Pokal gab es für den Hamburger SV auch in der Bundesliga gegen Eintracht Frankfurt nichts zu holen.",
+   "clubs": [
+    91,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/wieder-31-frankfurt-legt-nach-hsv-verpasst-revanche,spielbericht-eintracht-frankfurt-hamburger-sv-102.html",
+   "title": "Wieder 3:1 - Frankfurt legt nach, HSV verpasst Revanche",
+   "link": "https://www.sportschau.de/fussball/bundesliga/wieder-31-frankfurt-legt-nach-hsv-verpasst-revanche,spielbericht-eintracht-frankfurt-hamburger-sv-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:00:00Z",
+   "teaser": "Nach dem Erfolg im DFB-Pokal hat Eintracht Frankfurt auch in der Fußball-Bundesliga einen Sieg gegen den Hamburger SV eingefahren. Das Ergebnis war eine Art Déjà-vu.",
+   "clubs": [
+    91,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/el-mala-rettet-koeln-bei-union-aber-nicht-said,spielbericht-union-berlin-koeln-102.html",
+   "title": "El Mala rettet 1. FC Köln bei Union Berlin - aber nicht Said",
+   "link": "https://www.sportschau.de/fussball/bundesliga/el-mala-rettet-koeln-bei-union-aber-nicht-said,spielbericht-union-berlin-koeln-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:00:00Z",
+   "teaser": "Der 1. FC Köln enttäuschte beim Wiedersehen mit Union Berlin - bei seiner Premiere sorgte Malek El Mala, Bruder von Said, trotzdem noch für einen Punktgewinn.",
+   "clubs": [
+    80,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
+   "title": "FC Bayern und Harry Kane feiern sich gegen den BVB zu früh",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:00:00Z",
+   "teaser": "Vor dem Anpfiff hatte es die Weltfußballer-Party für Harry Kane gegeben, kurz vor Schluss sah auch alles nach einem Sieg des FC Bayern aus - doch dann schlug Borussia Dortmund durch Fabio Silva zu.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/werder-beendet-schwarze-serie-gegen-hoffenheim,spielbericht-werder-bremen-tsg-hoffenheim-106.html",
+   "title": "Bremen schlägt Hoffenheim: Füllkrug trifft wie einst Völler",
+   "link": "https://www.sportschau.de/fussball/bundesliga/werder-beendet-schwarze-serie-gegen-hoffenheim,spielbericht-werder-bremen-tsg-hoffenheim-106.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:00:00Z",
+   "teaser": "Der SV Werder Bremen hat in der Fußball-Bundesliga einen Sieg gegen die TSG 1899 Hoffenheim eingefahren - den ersten seit 2014. Niclas Füllkrug brach dabei einen Uralt-Rekord von Rudi Völler.",
+   "clubs": [
+    175,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-gladbach-wartet-weiter-auf-den-ersten-heimdreier-100.html",
+   "title": "Gladbach wartet weiter auf den ersten Heimdreier",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-gladbach-wartet-weiter-auf-den-ersten-heimdreier-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:00:00Z",
+   "teaser": "Borussia Mönchengladbach wartet weiter auf den ersten Heimsieg der Saison. Gegen Paderborn langte es nur zu einem torlosen Remis.",
+   "clubs": [
+    87,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/leipzig-siegt-klar-bei-schalke-steht-die-doppel-null,spielbericht-schalke-04-rb-leipzig-100.html",
+   "title": "RB Leipzig ohne Mühe - Bei Schalke 04 steht die Doppel-Null",
+   "link": "https://www.sportschau.de/fussball/bundesliga/leipzig-siegt-klar-bei-schalke-steht-die-doppel-null,spielbericht-schalke-04-rb-leipzig-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:00:00Z",
+   "teaser": "Schalke 04 präsentiert sich weiter abstiegsreif, vor allem in der Offensive. Gegen RB Leipzig gab es wieder keine Tore und erneut auch keine Punkte.",
+   "clubs": [
+    1635,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/stuttgarts-effizienz-sticht-leverkusen-aus,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
+   "title": "VfB Stuttgart siegt, Leverkusen fühlt sich benachteiligt",
+   "link": "https://www.sportschau.de/fussball/bundesliga/stuttgarts-effizienz-sticht-leverkusen-aus,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:00:00Z",
+   "teaser": "Der VfB Stuttgart hat sich bei Bayer Leverkusen aus der Krise geschossen. Die Gastgeber kritisierten die Leitung des Unparteiischen.",
+   "clubs": [
+    6,
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/freiburg-macht-optimum-aus-einem-grusel-kick,spielbericht-fc-augsburg-sc-freiburg-112.html",
+   "title": "SC Freiburg macht das Beste aus Grusel-Kick beim FC Augsburg",
+   "link": "https://www.sportschau.de/fussball/bundesliga/freiburg-macht-optimum-aus-einem-grusel-kick,spielbericht-fc-augsburg-sc-freiburg-112.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:00:00Z",
+   "teaser": "Der SC Freiburg entscheidet einen lange müden Kick beim FC Augsburg mit seinem späten Siegtreffer und ist weiter härtester Verfolger der beiden Top-Teams Bayern und Dortmund.",
+   "clubs": [
+    40,
+    7,
+    112,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/elversberg-ueberrumpelt-mainz,spielbericht-sv-elversberg-mainz-05-100.html",
+   "title": "Traumtor Campbell - Elversberg überrumpelt Mainz",
+   "link": "https://www.sportschau.de/fussball/bundesliga/elversberg-ueberrumpelt-mainz,spielbericht-sv-elversberg-mainz-05-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:00:00Z",
+   "teaser": "Aufsteiger SV Elversberg überrascht weiter in der Fußball-Bundesliga und nimmt den 1. FSV Mainz 05 schon in Hälfte eins auseinander. Der Höhepunkt aber kommt erst in der Nachspielzeit der Partie.",
+   "clubs": [
+    81,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bvb-schockt-die-bayern-kurz-vor-schluss,video-bundesliga-fc-bayern-muenchen-borussia-dortmund-100.html",
+   "title": "BVB schockt die Bayern kurz vor Schluss",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bvb-schockt-die-bayern-kurz-vor-schluss,video-bundesliga-fc-bayern-muenchen-borussia-dortmund-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:00:00Z",
+   "teaser": "Zwei Führungen, vier Aluminiumtreffer, darunter ein verschossener Elfmeter - und trotzdem kann Bayern München im Bundesliga-Klassiker Borussia Dortmund nicht bezwingen.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/weit-mehr-gezeigt-als-man-erwarten-kann-huetter-schwaermt-von-ilicevic-1267659/video",
+   "title": "\"Weit mehr gezeigt, als man erwarten kann\": Hütter schwärmt von Ilicevic",
+   "link": "https://www.kicker.de/weit-mehr-gezeigt-als-man-erwarten-kann-huetter-schwaermt-von-ilicevic-1267659/video",
+   "source": "kicker",
+   "published": "2026-11-01T22:33:34Z",
+   "teaser": "Einen Tag nach seinem 16. Geburtstag feierte Niko Ilicevic sein Debüt bei Eintracht Frankfurt und ist nun der jüngste Bundesliga-Spieler aller Zeiten. Trainer Adi Hütter will das SGE-Juwel behutsam schleifen.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/war-ich-aufgebracht-polzin-hadert-mit-schiri-entscheidung-1267655/video",
+   "title": "\"War ich aufgebracht?\": Polzin hadert mit Schiri-Entscheidung",
+   "link": "https://www.kicker.de/war-ich-aufgebracht-polzin-hadert-mit-schiri-entscheidung-1267655/video",
+   "source": "kicker",
+   "published": "2026-11-01T22:26:17Z",
+   "teaser": "Nach dem 1:3 in Frankfurt hadert Merlin Polzin mit der Entstehung eines SGE-Treffers. Eine erneute Schiri-Debatte will der HSV-Trainer aber nicht führen.",
+   "clubs": [
+    91,
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/stuttgarter-muenchner-und-leipziger-uebergewicht-die-kicker-elf-des-8-spieltags-1267610/slideshow",
    "title": "Stuttgarter, Münchner und Leipziger Übergewicht: Die kicker-Elf des 8. Spieltags",
@@ -68,19 +329,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/fussball/bundesliga/wieder-31-frankfurt-legt-nach-hsv-verpasst-revanche,spielbericht-eintracht-frankfurt-hamburger-sv-102.html",
-   "title": "Wieder 3:1 - Frankfurt legt nach, HSV verpasst Revanche",
-   "link": "https://www.sportschau.de/fussball/bundesliga/wieder-31-frankfurt-legt-nach-hsv-verpasst-revanche,spielbericht-eintracht-frankfurt-hamburger-sv-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-01T19:37:59Z",
-   "teaser": "Nach dem Erfolg im DFB-Pokal hat Eintracht Frankfurt auch in der Fußball-Bundesliga einen Sieg gegen den Hamburger SV eingefahren. Das Ergebnis war eine Art Déjà-vu.",
-   "clubs": [
-    91,
-    100
-   ],
-   "transfer": false
-  },
-  {
    "id": "https://www.kicker.de/ilicevic-zieht-mit-moukoko-gleich-die-juengsten-debuetanten-der-bundesliga-789848/slideshow",
    "title": "Ilicevic zieht mit Moukoko gleich: Die jüngsten Debütanten der Bundesliga",
    "link": "https://www.kicker.de/ilicevic-zieht-mit-moukoko-gleich-die-juengsten-debuetanten-der-bundesliga-789848/slideshow",
@@ -115,19 +363,6 @@
    "clubs": [
     91,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/el-mala-rettet-koeln-bei-union-aber-nicht-said,spielbericht-union-berlin-koeln-102.html",
-   "title": "El Mala rettet 1. FC Köln bei Union Berlin - aber nicht Said",
-   "link": "https://www.sportschau.de/fussball/bundesliga/el-mala-rettet-koeln-bei-union-aber-nicht-said,spielbericht-union-berlin-koeln-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-01T18:29:57Z",
-   "teaser": "Der 1. FC Köln enttäuschte beim Wiedersehen mit Union Berlin - bei seiner Premiere sorgte Malek El Mala, Bruder von Said, trotzdem noch für einen Punktgewinn.",
-   "clubs": [
-    80,
-    65
    ],
    "transfer": false
   },
@@ -676,19 +911,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
-   "title": "FC Bayern und Harry Kane feiern sich gegen den BVB zu früh",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T20:36:43Z",
-   "teaser": "Vor dem Anpfiff hatte es die Weltfußballer-Party für Harry Kane gegeben, kurz vor Schluss sah auch alles nach einem Sieg des FC Bayern aus - doch dann schlug Borussia Dortmund durch Fabio Silva zu.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
    "id": "https://www.kicker.de/ilzer-trotz-pleite-gelassen-mir-ist-nicht-bange-um-mein-team-1267242/video",
    "title": "Ilzer trotz Pleite gelassen: \"Mir ist nicht bange um mein Team\"",
    "link": "https://www.kicker.de/ilzer-trotz-pleite-gelassen-mir-ist-nicht-bange-um-mein-team-1267242/video",
@@ -946,19 +1168,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/fussball/bundesliga/werder-beendet-schwarze-serie-gegen-hoffenheim,spielbericht-werder-bremen-tsg-hoffenheim-106.html",
-   "title": "Bremen schlägt Hoffenheim: Füllkrug trifft wie einst Völler",
-   "link": "https://www.sportschau.de/fussball/bundesliga/werder-beendet-schwarze-serie-gegen-hoffenheim,spielbericht-werder-bremen-tsg-hoffenheim-106.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T17:38:42Z",
-   "teaser": "Der SV Werder Bremen hat in der Fußball-Bundesliga einen Sieg gegen die TSG 1899 Hoffenheim eingefahren - den ersten seit 2014. Niclas Füllkrug brach dabei einen Uralt-Rekord von Rudi Völler.",
-   "clubs": [
-    175,
-    134
-   ],
-   "transfer": false
-  },
-  {
    "id": "https://www.kicker.de/baumann-knackt-die-200-die-spieler-mit-den-meisten-bundesliga-niederlagen-1261758/slideshow",
    "title": "Baumann knackt die 200: Die Spieler mit den meisten Bundesliga-Niederlagen",
    "link": "https://www.kicker.de/baumann-knackt-die-200-die-spieler-mit-den-meisten-bundesliga-niederlagen-1261758/slideshow",
@@ -985,19 +1194,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-gladbach-wartet-weiter-auf-den-ersten-heimdreier-100.html",
-   "title": "Gladbach wartet weiter auf den ersten Heimdreier",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-gladbach-wartet-weiter-auf-den-ersten-heimdreier-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T17:13:00Z",
-   "teaser": "Borussia Mönchengladbach wartet weiter auf den ersten Heimsieg der Saison. Gegen Paderborn langte es nur zu einem torlosen Remis.",
-   "clubs": [
-    87,
-    31
-   ],
-   "transfer": false
-  },
-  {
    "id": "https://www.kicker.de/nach-kritik-an-karl-berater-ballack-kontert-eberl-und-hoeness-1267153/artikel",
    "title": "Nach Kritik an Karl: Berater Ballack kontert Eberl und Hoeneß",
    "link": "https://www.kicker.de/nach-kritik-an-karl-berater-ballack-kontert-eberl-und-hoeness-1267153/artikel",
@@ -1019,19 +1215,6 @@
    "clubs": [
     40,
     7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/leipzig-siegt-klar-bei-schalke-steht-die-doppel-null,spielbericht-schalke-04-rb-leipzig-100.html",
-   "title": "RB Leipzig ohne Mühe - Bei Schalke 04 steht die Doppel-Null",
-   "link": "https://www.sportschau.de/fussball/bundesliga/leipzig-siegt-klar-bei-schalke-steht-die-doppel-null,spielbericht-schalke-04-rb-leipzig-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T16:34:14Z",
-   "teaser": "Schalke 04 präsentiert sich weiter abstiegsreif, vor allem in der Offensive. Gegen RB Leipzig gab es wieder keine Tore und erneut auch keine Punkte.",
-   "clubs": [
-    1635,
-    9
    ],
    "transfer": false
   },
@@ -1062,19 +1245,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/fussball/bundesliga/stuttgarts-effizienz-sticht-leverkusen-aus,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
-   "title": "VfB Stuttgart siegt, Leverkusen fühlt sich benachteiligt",
-   "link": "https://www.sportschau.de/fussball/bundesliga/stuttgarts-effizienz-sticht-leverkusen-aus,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T16:26:24Z",
-   "teaser": "Der VfB Stuttgart hat sich bei Bayer Leverkusen aus der Krise geschossen. Die Gastgeber kritisierten die Leitung des Unparteiischen.",
-   "clubs": [
-    6,
-    16
-   ],
-   "transfer": false
-  },
-  {
    "id": "https://www.kicker.de/leverkusen-gegen-stuttgart-2026-bundesliga-5226873/spielbericht",
    "title": "Demirovics Doppelpack bringt VfB in Leverkusen auf Siegkurs",
    "link": "https://www.kicker.de/leverkusen-gegen-stuttgart-2026-bundesliga-5226873/spielbericht",
@@ -1084,21 +1254,6 @@
    "clubs": [
     6,
     16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/freiburg-macht-optimum-aus-einem-grusel-kick,spielbericht-fc-augsburg-sc-freiburg-112.html",
-   "title": "SC Freiburg macht das Beste aus Grusel-Kick beim FC Augsburg",
-   "link": "https://www.sportschau.de/fussball/bundesliga/freiburg-macht-optimum-aus-einem-grusel-kick,spielbericht-fc-augsburg-sc-freiburg-112.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T16:25:30Z",
-   "teaser": "Der SC Freiburg entscheidet einen lange müden Kick beim FC Augsburg mit seinem späten Siegtreffer und ist weiter härtester Verfolger der beiden Top-Teams Bayern und Dortmund.",
-   "clubs": [
-    40,
-    7,
-    112,
-    95
    ],
    "transfer": false
   },
@@ -1388,19 +1543,6 @@
    "teaser": "Das hatten sich die Mainzer anders vorgestellt: Nach einer aus ihrer Sicht katastrophalen englischen Woche stehen die Rheinhessen ziemlich blank da - und zugleich ratlos wie auch sauer.",
    "clubs": [
     81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/elversberg-ueberrumpelt-mainz,spielbericht-sv-elversberg-mainz-05-100.html",
-   "title": "Traumtor Campbell - Elversberg überrumpelt Mainz",
-   "link": "https://www.sportschau.de/fussball/bundesliga/elversberg-ueberrumpelt-mainz,spielbericht-sv-elversberg-mainz-05-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-30T21:37:30Z",
-   "teaser": "Aufsteiger SV Elversberg überrascht weiter in der Fußball-Bundesliga und nimmt den 1. FSV Mainz 05 schon in Hälfte eins auseinander. Der Höhepunkt aber kommt erst in der Nachspielzeit der Partie.",
-   "clubs": [
-    81,
-    198
    ],
    "transfer": false
   },
@@ -2380,138 +2522,6 @@
    "teaser": "Sein unnötiger Platzverweis gegen Leverkusen brachte Alexander Prass Kritik ein. Nun äußerte sich der Österreicher selbst dazu, zeigte Einsicht, gab überraschende Einblicke und verriet, warum die Gelb-Rote dennoch halb so wild war.",
    "clubs": [
     6
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kurz-vor-einer-massenpanik-enges-gedraenge-unter-fans-sorgt-fuer-pures-chaos-1265515/video",
-   "title": "\"Kurz vor einer Massenpanik\": Enges Gedränge unter Fans sorgt für \"pures Chaos\"",
-   "link": "https://www.kicker.de/kurz-vor-einer-massenpanik-enges-gedraenge-unter-fans-sorgt-fuer-pures-chaos-1265515/video",
-   "source": "kicker",
-   "published": "2026-10-26T19:28:42Z",
-   "teaser": "Kurz vor der offiziellen Ballon-d'Or-Verleihung ereigneten sich beunruhigende Szenen vor den Hallen des London Palladium Theatre. Aufgrund von feiernden Fans kam es wohl zu dichtem Gedränge, die Security musste eingreifen. Vor Ort …",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/franzoesisches-duo-verletzt-bade-und-diaby-fehlen-leverkusen-1265488/artikel",
-   "title": "Französisches Duo verletzt: Badé und Diaby fehlen Leverkusen",
-   "link": "https://www.kicker.de/franzoesisches-duo-verletzt-bade-und-diaby-fehlen-leverkusen-1265488/artikel",
-   "source": "kicker",
-   "published": "2026-10-26T17:15:38Z",
-   "teaser": "Nicht nur das Spiel in Hoffenheim hat Bayer 04 Leverkusen verloren, sondern auch zwei Spieler. Während die Ausfallzeit bei Loic Badé unklar ist, wagte die Werkself in der Personalie Moussa Diaby eine Prognose.",
-   "clubs": [
-    6,
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bei-union-nach-hinten-beordert-warum-auf-haberer-als-rechtsverteidiger-verlass-ist-1264962/artikel",
-   "title": "Bei Union nach hinten beordert: Warum auf Haberer als Rechtsverteidiger Verlass ist",
-   "link": "https://www.kicker.de/bei-union-nach-hinten-beordert-warum-auf-haberer-als-rechtsverteidiger-verlass-ist-1264962/artikel",
-   "source": "kicker",
-   "published": "2026-10-26T16:54:21Z",
-   "teaser": "Janik Haberer wurde bei den Eisernen weiter nach hinten beordert, macht als Vertreter von Josip Juranovic eine solide Figur.",
-   "clubs": [
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/schuster-ueber-trainergesundheit-selbstkritik-selbstpflege-und-kurze-amtszeiten-1265326/artikel",
-   "title": "Schuster über Trainergesundheit: Selbstkritik, Selbstpflege und kurze Amtszeiten",
-   "link": "https://www.kicker.de/schuster-ueber-trainergesundheit-selbstkritik-selbstpflege-und-kurze-amtszeiten-1265326/artikel",
-   "source": "kicker",
-   "published": "2026-10-26T15:27:32Z",
-   "teaser": "Julian Schuster hat Vincent Kompany mit Nachrichten verschont, dem Bayern-Tross nach dem direkten Duell aber eine Aufmerksamkeit für den von ihm sehr geschätzten FCB-Chefcoach mitgegeben. Danach äußerte Schuster anhand seines intensiven …",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/union-muss-zwei-spiele-auf-uduokhai-verzichten-1265467/artikel",
-   "title": "Union muss zwei Spiele auf Uduokhai verzichten",
-   "link": "https://www.kicker.de/union-muss-zwei-spiele-auf-uduokhai-verzichten-1265467/artikel",
-   "source": "kicker",
-   "published": "2026-10-26T15:15:46Z",
-   "teaser": "Felix Uduokhai erlebte einen gebrauchten Samstagnachmittag. Nun steht fest, wie lange Union Berlin auf den Innenverteidiger verzichten muss. Seine Fehlzeit könnte allerdings noch länger dauern.",
-   "clubs": [
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-grobem-foulspiel-bah-fuer-zwei-spiele-gesperrt-1265466/artikel",
-   "title": "Nach grobem Foulspiel: Bah für zwei Spiele gesperrt",
-   "link": "https://www.kicker.de/nach-grobem-foulspiel-bah-fuer-zwei-spiele-gesperrt-1265466/artikel",
-   "source": "kicker",
-   "published": "2026-10-26T15:12:41Z",
-   "teaser": "Aufgrund seiner Roten Karte gegen Union Berlin wurde Juma Bah für zwei Spiele gesperrt. In der Bundesliga fehlt der Verteidiger dem FC Augsburg somit, im DFB-Pokal allerdings darf er spielen.",
-   "clubs": [
-    95,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hsv-zwei-neue-schocks-und-pause-bei-poulsen-1265434/artikel",
-   "title": "HSV: Zwei neue Schocks und Pause bei Poulsen",
-   "link": "https://www.kicker.de/hsv-zwei-neue-schocks-und-pause-bei-poulsen-1265434/artikel",
-   "source": "kicker",
-   "published": "2026-10-26T14:10:56Z",
-   "teaser": "Das Improvisieren war für Merlin Polzin bereits in den zurückliegenden Wochen Programm, fortan ist Hamburgs Trainer auf diesem Gebiet noch mehr gefordert: Bilal Nadir und Fabio Vieira fallen langfristig aus, Yussuf Poulsen verlängert die …",
-   "clubs": [
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kompany-kimmich-co-so-geht-es-bei-den-bayern-in-dieser-woche-weiter-1265421/artikel",
-   "title": "Kompany, Kimmich & Co.: So geht es bei den Bayern in dieser Woche weiter",
-   "link": "https://www.kicker.de/kompany-kimmich-co-so-geht-es-bei-den-bayern-in-dieser-woche-weiter-1265421/artikel",
-   "source": "kicker",
-   "published": "2026-10-26T13:51:37Z",
-   "teaser": "Eine schlechte Nachricht jagte beim FC Bayern in der vergangenen Woche die nächste, der Spielplan kennt trotzdem keine Gnade. Immerhin: Mit dem ein oder anderen Rückkehrer ist bald zu rechnen.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-rassismus-gegen-bah-mit-einem-laecheln-in-der-kabine-1265424/artikel",
-   "title": "Nach Rassismus gegen Bah: \"Mit einem Lächeln in der Kabine\"",
-   "link": "https://www.kicker.de/nach-rassismus-gegen-bah-mit-einem-laecheln-in-der-kabine-1265424/artikel",
-   "source": "kicker",
-   "published": "2026-10-26T13:27:30Z",
-   "teaser": "Nach den rassistischen Beleidigungen gegen den Augsburger Juma Bah äußerte sich Coach Manuel Baum und zeigte sich beeindruckt von der Reaktion des Vereins - was auch Bah geholfen habe.",
-   "clubs": [
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-rassismus-gegen-bah-herausragend-wie-der-verein-sich-positioniert-1265424/artikel",
-   "title": "Nach Rassismus gegen Bah: \"Herausragend, wie der Verein sich positioniert\"",
-   "link": "https://www.kicker.de/nach-rassismus-gegen-bah-herausragend-wie-der-verein-sich-positioniert-1265424/artikel",
-   "source": "kicker",
-   "published": "2026-10-26T13:27:30Z",
-   "teaser": "Nach den rassistischen Beleidigungen gegen den Augsburger Juma Bah äußerte sich Coach Manuel Baum und zeigte sich beeindruckt von der Reaktion des Vereins - was auch Bah geholfen habe.",
-   "clubs": [
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kleiner-erfolg-im-grossen-aerger-koelns-defensive-stabilisiert-sich-immer-weiter-1265325/artikel",
-   "title": "Kleiner Erfolg im großen Ärger: Kölns Defensive stabilisiert sich immer weiter",
-   "link": "https://www.kicker.de/kleiner-erfolg-im-grossen-aerger-koelns-defensive-stabilisiert-sich-immer-weiter-1265325/artikel",
-   "source": "kicker",
-   "published": "2026-10-26T13:24:22Z",
-   "teaser": "Erstmals seit Januar kassierte der 1. FC Köln kein Gegentor. Das ist ein Fortschritt, doch der Ärger über die offensive Harmlosigkeit überwiegt.",
-   "clubs": [
-    65
    ],
    "transfer": false
   }
