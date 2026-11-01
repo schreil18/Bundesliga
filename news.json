@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T12:11:30Z",
+ "updated": "2026-11-01T13:26:14Z",
  "sources": [
   {
    "name": "kicker",
@@ -38,6 +38,31 @@
    "clubs": [
     80,
     65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/alarmstufe-rot-hoffenheims-personalnot-noch-schlimmer-1267410/artikel",
+   "title": "Alarmstufe Rot: Hoffenheims Personalnot noch schlimmer",
+   "link": "https://www.kicker.de/alarmstufe-rot-hoffenheims-personalnot-noch-schlimmer-1267410/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T13:08:26Z",
+   "teaser": "Es ist noch schlimmer als befürchtet. Die TSG Hoffenheim wird derzeit von einer Verletzungswelle überflutet. Nach kicker-Recherchen hat es besonders die Innenverteidigung getroffen, zudem schlimmer als bislang bekannt.",
+   "clubs": [
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194446/eintracht-frankfurt_hamburger-sv/liveticker",
+   "title": "Ab 17.30 Uhr live - Frankfurt braucht Punkte gegen den HSV",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194446/eintracht-frankfurt_hamburger-sv/liveticker",
+   "source": "Sportschau",
+   "published": "2026-11-01T12:46:50Z",
+   "teaser": "In der Bundesliga trifft Eintracht Frankfurt auf den HSV. Hamburg konnte sich in der Liga stabilisieren, während Frankfurt in der Tabelle zuletzt abrutschte.",
+   "clubs": [
+    91,
+    100
    ],
    "transfer": false
   },
@@ -2490,34 +2515,6 @@
     7,
     175,
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/starke-torjaeger-drei-muenchner-und-eine-gladbacher-eins-die-kicker-elf-des-7-spieltags-1265200/slideshow",
-   "title": "Starke Torjäger, drei Münchner und eine Gladbacher Eins: Die kicker-Elf des 7. Spieltags",
-   "link": "https://www.kicker.de/starke-torjaeger-drei-muenchner-und-eine-gladbacher-eins-die-kicker-elf-des-7-spieltags-1265200/slideshow",
-   "source": "kicker",
-   "published": "2026-10-25T21:10:00Z",
-   "teaser": "Eine Woche vor dem Kracher positionierten sich Meister Bayern München und Borussia Dortmund punktgleich an der Tabellenspitze. Ansonsten feierten Schlusslicht Gladbach und Hoffenheim wichtige Dreier. All das fand wie der abermals …",
-   "clubs": [
-    40,
-    7,
-    175,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/danks-zu-kompany-super-und-jetzt-ruh-dich-wieder-aus-1265196/video",
-   "title": "Danks zu Kompany: \"Super, und jetzt ruh dich wieder aus\"",
-   "link": "https://www.kicker.de/danks-zu-kompany-super-und-jetzt-ruh-dich-wieder-aus-1265196/video",
-   "source": "kicker",
-   "published": "2026-10-25T20:15:32Z",
-   "teaser": "Nach dem 3:1-Sieg des FC Bayern in Freiburg haben sich beide Trainer zu Vincent Kompany geäußert. Während dessen Co-Trainer Aaron Danks von gemeinsamen Chatnachrichten berichtet, hofft Freiburgs Coach Julian Schuster, dass sich Kompany …",
-   "clubs": [
-    40,
-    112
    ],
    "transfer": false
   }
