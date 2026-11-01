@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T05:45:57Z",
+ "updated": "2026-11-01T06:54:56Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/eberls-spitze-gegen-ballack-wegen-karl-1267313/artikel",
+   "title": "Eberls Spitze gegen Ballack wegen Karl",
+   "link": "https://www.kicker.de/eberls-spitze-gegen-ballack-wegen-karl-1267313/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T06:42:39Z",
+   "teaser": "Michael Ballack wundert sich darüber, wie kritisch die Bayern-Bosse Lennart Karl bewerten. Max Eberl erklärte seine Sicht - nicht ohne Spitze gegen den Berater.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wer-uebertraegt-eintracht-frankfurt-gegen-den-hsv-live-im-tv-und-stream-1266147/artikel",
+   "title": "Wer überträgt Eintracht Frankfurt gegen den HSV live im TV und Stream?",
+   "link": "https://www.kicker.de/wer-uebertraegt-eintracht-frankfurt-gegen-den-hsv-live-im-tv-und-stream-1266147/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T06:30:00Z",
+   "teaser": "Nach der DFB-Pokal-Partie duellieren sich Eintracht Frankfurt und der Hamburger SV nun in der Bundesliga. Wo ihr die Partie live verfolgen könnt, erfahrt ihr hier.",
+   "clubs": [
+    91,
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/bvb-profis-schwaermen-von-kovacs-genialem-schachzug-1267271/artikel",
    "title": "BVB-Profis schwärmen von Kovacs \"genialem Schachzug\"",
@@ -2496,32 +2521,6 @@
    "clubs": [
     40,
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/augsburgs-start-verblasst-erst-das-mittelmass-dann-die-abwehrnot-1264883/artikel",
-   "title": "Augsburgs Start verblasst: Erst das Mittelmaß, dann die Abwehrnot",
-   "link": "https://www.kicker.de/augsburgs-start-verblasst-erst-das-mittelmass-dann-die-abwehrnot-1264883/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T15:13:36Z",
-   "teaser": "Das fußballerisch armselige 1:1 gegen Union Berlin entspricht nicht mehr den Ansprüchen des FC Augsburg, der nach tollem Start im Mittelmaß angekommen ist und nun auch noch einen Personalnotstand in der Abwehr hat.",
-   "clubs": [
-    95,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-nach-fehlpass-im-mittelfeld-hlozek-ans-alu-diaby-verletzt-raus-1264010/artikel",
-   "title": "LIVE! Nach Fehlpass im Mittelfeld: Hlozek ans Alu - Diaby verletzt raus",
-   "link": "https://www.kicker.de/live-nach-fehlpass-im-mittelfeld-hlozek-ans-alu-diaby-verletzt-raus-1264010/artikel",
-   "source": "kicker",
-   "published": "2026-10-25T15:08:35Z",
-   "teaser": "Hoffenheim kommt in dieser Saison nur schwer aus den Startlöchern - im Gegensatz zu Leverkusen. Wer behält im direkten Duell die Oberhand?",
-   "clubs": [
-    6,
-    175
    ],
    "transfer": false
   }
