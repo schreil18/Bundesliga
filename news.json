@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T13:26:14Z",
+ "updated": "2026-11-01T14:14:45Z",
  "sources": [
   {
    "name": "kicker",
@@ -35,6 +35,45 @@
    "source": "Sportschau",
    "published": "2026-11-01T14:15:00Z",
    "teaser": "8. Spieltag: Anpfiff des Spiels ist am 01.11.2026 um 15:30 Uhr. 1. FC Köln spielt in Berlin.",
+   "clubs": [
+    80,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194458/1-fc-union-berlin_1-fc-koeln/liveticker",
+   "title": "Jetzt live - Schnelles Wiedersehen zwischen Union und Köln",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194458/1-fc-union-berlin_1-fc-koeln/liveticker",
+   "source": "Sportschau",
+   "published": "2026-11-01T14:11:25Z",
+   "teaser": "In der Bundesliga ist Köln bei Union Berlin zu Gast. Die Köpenicker sind erst am Dienstag-Abend zum Pokal-Duell nach Köln gereist. Folgt nun die Revanche?",
+   "clubs": [
+    80,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/undavs-ansage-an-maza-geh-mal-nach-paris-alter-1267452/artikel",
+   "title": "Undavs Ansage an Maza: \"Geh mal nach Paris, Alter!\"",
+   "link": "https://www.kicker.de/undavs-ansage-an-maza-geh-mal-nach-paris-alter-1267452/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T14:08:27Z",
+   "teaser": "Ibrahim Maza bekam nach Leverkusens 2:4 gegen den VfB Stuttgart gleich doppeltes Lob vom Gegner - und einen spaßigen Spruch von Deniz Undav.",
+   "clubs": [
+    6,
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-lustrinelli-ueberrascht-mit-friedrich-johannesson-startet-bei-koeln-1266561/artikel",
+   "title": "LIVE! Lustrinelli überrascht mit Friedrich - Johannesson startet bei Köln",
+   "link": "https://www.kicker.de/live-lustrinelli-ueberrascht-mit-friedrich-johannesson-startet-bei-koeln-1266561/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T13:39:56Z",
+   "teaser": "Unter der Woche schlug der 1. FC Köln die Berliner im DFB-Pokal deutlich mit 5:0. Kann sich Union im Ligaheimspiel nun rehabilitieren?",
    "clubs": [
     80,
     65
@@ -138,19 +177,6 @@
    "clubs": [
     1635,
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194458/1-fc-union-berlin_1-fc-koeln/liveticker",
-   "title": "Ab 15.30 Uhr live - Schnelles Wiedersehen zwischen Union und Köln",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194458/1-fc-union-berlin_1-fc-koeln/liveticker",
-   "source": "Sportschau",
-   "published": "2026-11-01T10:08:34Z",
-   "teaser": "In der Bundesliga ist Köln bei Union Berlin zu Gast. Die Köpenicker sind erst am Dienstag-Abend zum Pokal-Duell nach Köln gereist. Folgt nun die Revanche?",
-   "clubs": [
-    80,
-    65
    ],
    "transfer": false
   },
@@ -2487,34 +2513,6 @@
    "teaser": "Die Woche der drei Top-Spiele hat der SC Freiburg mit null Punkten abgeschlossen. Ernüchterung beim Sport-Club, der den Trend aber schnell wieder umdrehen kann, analysiert kicker-Reporter Carsten Schröter-Lorenz.",
    "clubs": [
     112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/mehr-wert-als-ein-sieg-bayern-mit-bester-medizin-nach-schwieriger-woche-1265224/video",
-   "title": "\"Mehr wert als ein Sieg\": Bayern mit \"bester Medizin\" nach schwieriger Woche",
-   "link": "https://www.kicker.de/mehr-wert-als-ein-sieg-bayern-mit-bester-medizin-nach-schwieriger-woche-1265224/video",
-   "source": "kicker",
-   "published": "2026-10-25T21:27:49Z",
-   "teaser": "An der Säbener Straße hatte man in der abgelaufenen Woche so einige Rückschläge verschiedenster Natur zu verzeichnen. Besonders im Gedächtnis blieb Vincent Kompanys Zusammenbruch, dem Sportvorstand Max Eberl mit dem 3:1-Sieg in Freiburg …",
-   "clubs": [
-    40,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bestnoten-fuer-fuellkrug-und-mohya-die-kicker-elf-des-7-spieltags-1265200/slideshow",
-   "title": "Bestnoten für Füllkrug und Mohya: Die kicker-Elf des 7. Spieltags",
-   "link": "https://www.kicker.de/bestnoten-fuer-fuellkrug-und-mohya-die-kicker-elf-des-7-spieltags-1265200/slideshow",
-   "source": "kicker",
-   "published": "2026-10-25T21:10:00Z",
-   "teaser": "Eine Woche vor dem Kracher positionierten sich Meister Bayern München und Borussia Dortmund punktgleich an der Tabellenspitze. Ansonsten feierten Schlusslicht Gladbach und Hoffenheim wichtige Dreier. All das fand wie der abermals …",
-   "clubs": [
-    40,
-    7,
-    175,
-    87
    ],
    "transfer": false
   }
