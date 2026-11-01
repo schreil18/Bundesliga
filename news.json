@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:05:50Z",
+ "updated": "2026-11-01T18:45:55Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,68 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/wieder-31-frankfurt-legt-nach-hsv-verpasst-revanche,spielbericht-eintracht-frankfurt-hamburger-sv-102.html",
+   "title": "Wieder 3:1 - Frankfurt legt nach, HSV verpasst Revanche",
+   "link": "https://www.sportschau.de/fussball/bundesliga/wieder-31-frankfurt-legt-nach-hsv-verpasst-revanche,spielbericht-eintracht-frankfurt-hamburger-sv-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T18:37:30Z",
+   "teaser": "Nach dem Erfolg im DFB-Pokal hat Eintracht Frankfurt auch in der Fußball-Bundesliga einen Sieg gegen den Hamburger SV eingefahren. Das Ergebnis war eine Art Déjà-vu.",
+   "clubs": [
+    91,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/pokal-revanche-misslungen-frankfurt-schlaegt-hsv-erneut-mit-3-1-1266563/artikel",
+   "title": "Pokal-Revanche misslungen: Frankfurt schlägt HSV erneut mit 3:1",
+   "link": "https://www.kicker.de/pokal-revanche-misslungen-frankfurt-schlaegt-hsv-erneut-mit-3-1-1266563/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T18:31:14Z",
+   "teaser": "Im DFB-Pokal konnte Eintracht Frankfurt unter der Woche den HSV mit 3:1 besiegen. Das selbe Ergebnis stand auch im Ligaduell auf der Anzeigetafel - wieder behielten die Hessen die Oberhand.",
+   "clubs": [
+    91,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/el-mala-rettet-koeln-bei-union-aber-nicht-said,spielbericht-union-berlin-koeln-102.html",
+   "title": "El Mala rettet 1. FC Köln bei Union Berlin - aber nicht Said",
+   "link": "https://www.sportschau.de/fussball/bundesliga/el-mala-rettet-koeln-bei-union-aber-nicht-said,spielbericht-union-berlin-koeln-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T18:29:57Z",
+   "teaser": "Der 1. FC Köln enttäuschte beim Wiedersehen mit Union Berlin - bei seiner Premiere sorgte Malek El Mala, Bruder von Said, trotzdem noch für einen Punktgewinn.",
+   "clubs": [
+    80,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/noch-mal-ein-bisschen-besser-malek-el-mala-uebertrumpft-seinen-kleinen-bruder-1267524/artikel",
+   "title": "\"Noch mal ein bisschen besser\": Malek El Mala übertrumpft seinen kleinen Bruder",
+   "link": "https://www.kicker.de/noch-mal-ein-bisschen-besser-malek-el-mala-uebertrumpft-seinen-kleinen-bruder-1267524/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T18:19:03Z",
+   "teaser": "Es war die Geschichte des Tages: Malek El Mala feiert sein Bundesliga-Debüt und trifft sofort. Sein kleiner Bruder Said empfand nichts als Freude - und verriet, was Malek noch schneller gelungen ist als ihm.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/eine-besserung-aber-trotzdem-auch-weit-weg-von-gut-1267572/video",
+   "title": "\"Eine Besserung, aber trotzdem auch weit weg von gut\"",
+   "link": "https://www.kicker.de/eine-besserung-aber-trotzdem-auch-weit-weg-von-gut-1267572/video",
+   "source": "kicker",
+   "published": "2026-11-01T18:06:43Z",
+   "teaser": "Nach dem 0:5 im DFB-Pokal spielte der 1. FC Union Berlin im zweiten Duell innerhalb von fünf Tagen 1:1-Unentschieden gegen den 1. FC Köln. Für Union ein Schritt in die richtige Richtung, wie kicker-Reporter Jannis Klimburg berichtet.",
+   "clubs": [
+    80,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194446/eintracht-frankfurt_hamburger-sv/liveticker",
    "title": "Jetzt live - 3:1! Überlegene Eintracht erhöht gegen den HSV",
@@ -50,19 +112,6 @@
    "clubs": [
     40,
     7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/el-mala-rettet-koeln-bei-union-aber-nicht-said,spielbericht-union-berlin-koeln-102.html",
-   "title": "El Mala rettet 1. FC Köln bei Union Berlin - aber nicht Said",
-   "link": "https://www.sportschau.de/fussball/bundesliga/el-mala-rettet-koeln-bei-union-aber-nicht-said,spielbericht-union-berlin-koeln-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-01T16:39:47Z",
-   "teaser": "Der 1. FC Köln enttäuschte beim Wiedersehen mit Union Berlin - bei seiner Premiere sorgte Malek El Mala, Bruder von Said, trotzdem noch für einen Punktgewinn.",
-   "clubs": [
-    80,
-    65
    ],
    "transfer": false
   },
@@ -2462,57 +2511,6 @@
    "clubs": [
     95,
     80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/historischer-kramaric-ilzer-hat-ein-vermaechtnis-geschaffen-1265258/video",
-   "title": "Historischer Kramaric? Ilzer: \"Hat ein Vermächtnis geschaffen\"",
-   "link": "https://www.kicker.de/historischer-kramaric-ilzer-hat-ein-vermaechtnis-geschaffen-1265258/video",
-   "source": "kicker",
-   "published": "2026-10-26T00:06:28Z",
-   "teaser": "Für Christian Ilzer war es kein Zufall, dass ausgerechnet Andrej Kramaric das 1000. Tor der TSG erzielte. Der 35-Jährige habe abermals seine Klasse gezeigt und den Verein über eine Dekade offensiv geprägt.",
-   "clubs": [
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-schwer-an-fussball-zu-denken-fcb-trotzt-seinen-sorgen-102.html",
-   "title": "\"Schwer, an Fußball zu denken\" - Bayern trotzt seinen Sorgen",
-   "link": "https://www.sportschau.de/regional/br/br-schwer-an-fussball-zu-denken-fcb-trotzt-seinen-sorgen-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-25T23:14:55Z",
-   "teaser": "Beim FC Bayern rückte der Fußball zuletzt in den Hintergrund. Nach den Sorgen um Vincent Kompany und einem Trauerfall in Joshua Kimmichs Familie setzte die Mannschaft in Freiburg ein Zeichen des Zusammenhalts.",
-   "clubs": [
-    40,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/danks-upamecano-fast-schon-harry-kane-maessig-1265251/video",
-   "title": "Danks: Upamecano \"fast schon Harry-Kane-mäßig\"",
-   "link": "https://www.kicker.de/danks-upamecano-fast-schon-harry-kane-maessig-1265251/video",
-   "source": "kicker",
-   "published": "2026-10-25T23:03:00Z",
-   "teaser": "Aaron Danks ist sehr glücklich, wie der FCB gegen Freiburg aufgetreten ist und hob vor allem den Zusammenhalt in einer schwierigen Woche hervor. Der 1:0-Treffer von Dayot Upamecano wäre ganz im Stile eines Harry Kane.",
-   "clubs": [
-    40,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
-   "title": "Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
-   "link": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
-   "source": "Sportschau",
-   "published": "2026-10-25T23:00:37Z",
-   "teaser": "Borussia Dortmund hat in der Bundesliga seine kurze Durststrecke überwunden. Vor dem Tor von Maximilian Beier sah es gegen Eintracht Frankfurt zunächst anders aus.",
-   "clubs": [
-    7,
-    91
    ],
    "transfer": false
   }
