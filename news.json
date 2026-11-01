@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T15:10:28Z",
+ "updated": "2026-11-01T16:09:51Z",
  "sources": [
   {
    "name": "kicker",
@@ -30,14 +30,40 @@
   },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194458/1-fc-union-berlin_1-fc-koeln/liveticker",
-   "title": "Jetzt live - Union Berlin kombiniert sich zur Führung gegen Köln",
+   "title": "Jetzt live - Union hat keine Probleme mit harmlosen Kölnern",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194458/1-fc-union-berlin_1-fc-koeln/liveticker",
    "source": "Sportschau",
-   "published": "2026-11-01T15:01:14Z",
-   "teaser": "Union Berlin hat zu Hause früh gegen den 1. FC Köln getroffen. Die Gäste tun sich dagegen schwer mit dem Spiel nach vorne.",
+   "published": "2026-11-01T16:06:58Z",
+   "teaser": "Union Berlin hat zu Hause früh gegen den 1. FC Köln getroffen. Seither ist vor beiden Toren nicht mehr allzu viel passiert.",
    "clubs": [
     80,
     65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nach-patzer-bei-wer-wird-millionaer-union-verschenkt-spassikowski-trikot-1267483/artikel",
+   "title": "Nach Patzer bei \"Wer wird Millionär\": Union verschenkt \"Spassikowski\"-Trikot",
+   "link": "https://www.kicker.de/nach-patzer-bei-wer-wird-millionaer-union-verschenkt-spassikowski-trikot-1267483/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T15:32:49Z",
+   "teaser": "Wie heißt der Trainer von Union Berlin? Bei der Quizshow \"Wer wird Millionär\" wurde diese Frage einem Kandidaten zum Verhängnis. Die Köpenicker reagierten vor dem Heimspiel gegen Köln mit einer humorvollen Aktion.",
+   "clubs": [
+    80,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-lemke-beginnt-beim-hsv-burkardt-auf-der-eintracht-bank-1266563/artikel",
+   "title": "LIVE! Lemke beginnt beim HSV - Burkardt auf der Eintracht-Bank",
+   "link": "https://www.kicker.de/live-lemke-beginnt-beim-hsv-burkardt-auf-der-eintracht-bank-1266563/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T15:00:00Z",
+   "teaser": "Im DFB-Pokal konnte Eintracht Frankfurt unter der Woche den HSV mit 3:1 besiegen. Heute gibt es das Wiedersehen in der Liga - diesmal in Frankfurt. Wer setzt sich diesmal durch?",
+   "clubs": [
+    91,
+    100
    ],
    "transfer": false
   },
@@ -96,6 +122,19 @@
    "id": "https://www.kicker.de/live-schwere-kost-in-koepenick-koeln-findet-kaum-mittel-1266561/artikel",
    "title": "LIVE! Schwere Kost in Köpenick: Köln findet kaum Mittel",
    "link": "https://www.kicker.de/live-schwere-kost-in-koepenick-koeln-findet-kaum-mittel-1266561/artikel",
+   "source": "kicker",
+   "published": "2026-11-01T13:39:56Z",
+   "teaser": "Unter der Woche schlug der 1. FC Köln die Berliner im DFB-Pokal deutlich mit 5:0. Kann sich Union im Ligaheimspiel nun rehabilitieren?",
+   "clubs": [
+    80,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-el-mala-hat-den-ausgleich-auf-dem-fuss-1266561/artikel",
+   "title": "LIVE! El Mala hat den Ausgleich auf dem Fuß",
+   "link": "https://www.kicker.de/live-el-mala-hat-den-ausgleich-auf-dem-fuss-1266561/artikel",
    "source": "kicker",
    "published": "2026-11-01T13:39:56Z",
    "teaser": "Unter der Woche schlug der 1. FC Köln die Berliner im DFB-Pokal deutlich mit 5:0. Kann sich Union im Ligaheimspiel nun rehabilitieren?",
@@ -2475,45 +2514,6 @@
    "clubs": [
     6,
     175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-blutiger-zusammenprall-bei-nullnummer-in-koeln-100.html",
-   "title": "Blutiger Zusammenprall bei Nullnummer in Köln",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-blutiger-zusammenprall-bei-nullnummer-in-koeln-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-25T23:00:22Z",
-   "teaser": "Keine Tore im Traditionsduell der West-Klubs: Der 1. FC Köln und Schalke 04 haben sich in einer heiß umkämpften Partie remis getrennt.",
-   "clubs": [
-    65,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
-   "title": "Trotz Personalsorgen: Bayern rückt mit Sieg in Freiburg an die Spitze",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
-   "source": "Sportschau",
-   "published": "2026-10-25T23:00:11Z",
-   "teaser": "Der FC Bayern hat sich nicht anmerken lassen, in welch schwieriger Personalsituation er aktuell steckt. 80 Minuten dominierte der Meister gegen den SC Freiburg. Am Ende wurde es noch mal brenzlig.",
-   "clubs": [
-    40,
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
-   "title": "Union holt ersten Auswärts-Punkt gegen hadernde Augsburger",
-   "link": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
-   "source": "Sportschau",
-   "published": "2026-10-25T23:00:06Z",
-   "teaser": "Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
-   "clubs": [
-    95,
-    80
    ],
    "transfer": false
   }
