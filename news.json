@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T21:14:08Z",
+ "updated": "2026-11-01T22:10:02Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,21 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/stuttgarter-muenchner-und-leipziger-uebergewicht-die-kicker-elf-des-8-spieltags-1267610/slideshow",
+   "title": "Stuttgarter, Münchner und Leipziger Übergewicht: Die kicker-Elf des 8. Spieltags",
+   "link": "https://www.kicker.de/stuttgarter-muenchner-und-leipziger-uebergewicht-die-kicker-elf-des-8-spieltags-1267610/slideshow",
+   "source": "kicker",
+   "published": "2026-11-01T21:47:27Z",
+   "teaser": "Das überstrahlende Thema am Wochenende war der spannende Klassiker zwischen Bayern München und Borussia Dortmund (2:2). Doch auch auf den anderen Plätzen spielten sich Akteure ins Rampenlicht. Die kicker-Elf des 8. Spieltags im Überblick.",
+   "clubs": [
+    40,
+    7,
+    1635,
+    16
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/er-will-mich-nur-besser-machen-uzun-sieht-huetter-kritik-gelassen-1267585/artikel",
    "title": "\"Er will mich nur besser machen\": Uzun sieht Hütter-Kritik gelassen",
@@ -2497,18 +2512,6 @@
    "teaser": "Erstmals seit Januar kassierte der 1. FC Köln kein Gegentor. Das ist ein Fortschritt, doch der Ärger über die offensive Harmlosigkeit überwiegt.",
    "clubs": [
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gibt-es-die-kroenung-fuer-kane-beim-fc-bayern-sind-sie-sich-nicht-sicher-1265418/video",
-   "title": "Gibt es die Krönung für Kane? \"Beim FC Bayern sind sie sich nicht sicher\"",
-   "link": "https://www.kicker.de/gibt-es-die-kroenung-fuer-kane-beim-fc-bayern-sind-sie-sich-nicht-sicher-1265418/video",
-   "source": "kicker",
-   "published": "2026-10-26T12:34:53Z",
-   "teaser": "Harry Kane hat große Hoffnungen, den Ballon d'Or in diesem Jahr zu gewinnen. Auch wenige Stunden vor der Verleihung gibt es noch keine Tendenzen, beim FC Bayern sind sie geteilter Meinung, wie gut die Chancen des Stürmers stehen.",
-   "clubs": [
-    40
    ],
    "transfer": false
   }
