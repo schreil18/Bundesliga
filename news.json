@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T04:33:34Z",
+ "updated": "2026-11-02T05:33:52Z",
  "sources": [
   {
    "name": "kicker",
@@ -34,7 +34,7 @@
    "link": "https://www.sportschau.de/fussball/bundesliga/malek-el-malas-traumdebuet-rettet-fc,video-bundesliga-union-berlin-1-fc-koeln-100.html",
    "source": "Sportschau",
    "published": "2026-11-01T23:00:47Z",
-   "teaser": "Beim Remis bei Union Berlin kann sich der 1. FC Köln wieder auf El Mala verlassen. Allerdings auf Said, sondern auf seinen älteren Bruder.",
+   "teaser": "Beim Remis bei Union Berlin kann sich der 1. FC Köln wieder auf El Mala verlassen. Allerdings nicht auf Said, sondern auf seinen älteren Bruder.",
    "clubs": [
     80,
     65
@@ -73,7 +73,7 @@
    "link": "https://www.sportschau.de/fussball/bundesliga/joker-schiessen-freiburg-in-augsburg-zum-sieg,video-bundesliga-fc-augsburg-sc-freiburg-102.html",
    "source": "Sportschau",
    "published": "2026-11-01T23:00:37Z",
-   "teaser": "Der SC Freiburg beißt sich in der Bundesliga-Spitzengruppe fest, auch weil sich Trainer Julian Schuster wie in Augsburg au seine Bank verlassen kann.",
+   "teaser": "Der SC Freiburg beißt sich in der Bundesliga-Spitzengruppe fest, auch weil sich Trainer Julian Schuster wie in Augsburg auf seine Bank verlassen kann.",
    "clubs": [
     112,
     95
@@ -82,7 +82,7 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/inklusive-traumtor-elversberg-kocht-mainz-ab,video-bundesliga-sv-elversberg-fsv-mainz-05-100.html",
-   "title": "Inklusive Traumtor: Elversberg kocht Mainz ab",
+   "title": "Inklusive Traumtor - Elversberg kocht Mainz ab",
    "link": "https://www.sportschau.de/fussball/bundesliga/inklusive-traumtor-elversberg-kocht-mainz-ab,video-bundesliga-sv-elversberg-fsv-mainz-05-100.html",
    "source": "Sportschau",
    "published": "2026-11-01T23:00:35Z",
