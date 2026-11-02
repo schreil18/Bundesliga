@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T05:33:52Z",
+ "updated": "2026-11-02T06:34:40Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/vfb-gegen-leverkusen-einfach-aber-erfolgreich,bundesliga-update-rueckblick-spieltag-sechsundzwanzig-106.html",
+   "title": "VfB gegen Leverkusen: Einfach aber erfolgreich",
+   "link": "https://www.sportschau.de/vfb-gegen-leverkusen-einfach-aber-erfolgreich,bundesliga-update-rueckblick-spieltag-sechsundzwanzig-106.html",
+   "source": "Sportschau",
+   "published": "2026-11-01T23:26:25Z",
+   "teaser": "Beim VfB Stuttgart der Sechser aktuell eine Probelmposition, gegen Leverkusen griff Trainer Hoeneß deswegen in die taktische Trickkiste.",
+   "clubs": [
+    6,
+    16
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-knackt-hoffenheim-und-voeller-rekord,video-bundesliga-werder-bremen-tsg-1899-hoffenheim-100.html",
    "title": "Füllkrug knackt Hoffenheim und Völler-Rekord",
@@ -2511,18 +2524,6 @@
    "published": "2026-10-26T21:05:24Z",
    "teaser": "Die deutschen EM-Sieger von 1996 kommen zusammen und feiern das 30-jährige Jubiläum. Berti Vogts erinnert sich zurück an das \"Golden Goal\" von Oliver Bierhoff, Jürgen Klinsmann freut sich, alte Kollegen wiederzusehen.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/halb-so-wild-prass-gibt-ueberraschende-einblicke-zu-seinem-platzverweis-1265502/artikel",
-   "title": "\"Halb so wild\": Prass gibt überraschende Einblicke zu seinem Platzverweis",
-   "link": "https://www.kicker.de/halb-so-wild-prass-gibt-ueberraschende-einblicke-zu-seinem-platzverweis-1265502/artikel",
-   "source": "kicker",
-   "published": "2026-10-26T19:31:28Z",
-   "teaser": "Sein unnötiger Platzverweis gegen Leverkusen brachte Alexander Prass Kritik ein. Nun äußerte sich der Österreicher selbst dazu, zeigte Einsicht, gab überraschende Einblicke und verriet, warum die Gelb-Rote dennoch halb so wild war.",
-   "clubs": [
-    6
-   ],
    "transfer": false
   }
  ]
