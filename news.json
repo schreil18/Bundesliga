@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T11:54:03Z",
+ "updated": "2026-11-02T13:04:05Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/rotwuerdiges-foul-gegen-el-mala-kamera-panne-verhindert-var-entscheidung-1267804/artikel",
+   "title": "Rotwürdiges Foul gegen El Mala? Kamera-Panne verhindert VAR-Entscheidung",
+   "link": "https://www.kicker.de/rotwuerdiges-foul-gegen-el-mala-kamera-panne-verhindert-var-entscheidung-1267804/artikel",
+   "source": "kicker",
+   "published": "2026-11-02T12:39:34Z",
+   "teaser": "Beim rabiaten Einsteigen von Union Berlins Verteidiger Zeno van den Bosch gegen Kölns Said El Mala blieb es am Sonntag bei einer Verwarnung. Dass der VAR nicht eingreifen konnte, hatte technische Gründe.",
+   "clubs": [
+    80,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/absolut-ueberzeugt-baumann-staerkt-muslic-den-ruecken-1267795/artikel",
+   "title": "\"Absolut überzeugt\": Baumann stärkt Muslic den Rücken",
+   "link": "https://www.kicker.de/absolut-ueberzeugt-baumann-staerkt-muslic-den-ruecken-1267795/artikel",
+   "source": "kicker",
+   "published": "2026-11-02T11:55:05Z",
+   "teaser": "Die Ergebniskrise bei Schalke 04 spitzt sich zu: Seit sechs Partien wartet der Aufsteiger inzwischen auf einen Sieg. Sportvorstand Frank Baumann stellt sich dennoch klar hinter Trainer Miron Muslic und macht deutlich, worum es in dieser …",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/auch-hranac-unterm-messer-hoffenheims-personalnot-noch-schlimmer-1267410/artikel",
    "title": "Auch Hranac unterm Messer: Hoffenheims Personalnot noch schlimmer",
@@ -62,23 +87,21 @@
   },
   {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "RWE kündigt Koschinat-Verhandlungen an - Gwinn will Bayern-Zukunft bald klären",
+   "title": "RWE kündigt Koschinat-Verhandlungen an - Deutscher Trainer muss in Den Haag gehen",
    "link": "https://www.kicker.de/transferticker-953155/artikel",
    "source": "kicker",
    "published": "2026-11-02T09:04:48Z",
    "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [
-    40
-   ],
+   "clubs": [],
    "transfer": true
   },
   {
    "id": "https://www.sportschau.de/vfb-gegen-leverkusen-einfach-aber-erfolgreich,bundesliga-update-rueckblick-spieltag-sechsundzwanzig-106.html",
-   "title": "VfB gegen Leverkusen: Einfach aber erfolgreich",
+   "title": "VfB gegen Leverkusen: Einfach, aber erfolgreich",
    "link": "https://www.sportschau.de/vfb-gegen-leverkusen-einfach-aber-erfolgreich,bundesliga-update-rueckblick-spieltag-sechsundzwanzig-106.html",
    "source": "Sportschau",
    "published": "2026-11-01T23:26:25Z",
-   "teaser": "Beim VfB Stuttgart der Sechser aktuell eine Probelmposition, gegen Leverkusen griff Trainer Hoeneß deswegen in die taktische Trickkiste.",
+   "teaser": "Beim VfB Stuttgart ist der Sechser aktuell eine Problemposition, gegen Leverkusen griff Trainer Hoeneß deswegen in die taktische Trickkiste.",
    "clubs": [
     6,
     16
@@ -2502,28 +2525,6 @@
    "teaser": "Steffen Baumgart hat die vergangenen Monate ohne Fußball verbracht, er tankt Kraft, genießt Zeit mit der Familie. Irgendwann will er wieder an der Seitenlinie stehen - über die Zahl der Angebote spricht er sehr offen.",
    "clubs": [
     80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kane-kann-es-nicht-glauben-ronaldo-verkuendet-den-ballon-d-or-sieger-1265585/video",
-   "title": "Kane kann es nicht glauben: Ronaldo verkündet den Ballon-d'Or-Sieger",
-   "link": "https://www.kicker.de/kane-kann-es-nicht-glauben-ronaldo-verkuendet-den-ballon-d-or-sieger-1265585/video",
-   "source": "kicker",
-   "published": "2026-10-27T07:05:55Z",
-   "teaser": "Ronaldo freute sich sichtlich, den Ballon-d'Or-Triumph von Harry Kane zu verkünden. Mit einem breiten Grinsen rief er seinen Namen in den Saal, es folgten Sprechchöre und Glückwünsche aus dem Publikum.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kane-dankt-olise-und-co-ermoeglichen-mir-der-spieler-zu-sein-der-ich-bin-1265573/video",
-   "title": "Kane dankt Olise und Co.: \"Ermöglichen mir, der Spieler zu sein, der ich bin\"",
-   "link": "https://www.kicker.de/kane-dankt-olise-und-co-ermoeglichen-mir-der-spieler-zu-sein-der-ich-bin-1265573/video",
-   "source": "kicker",
-   "published": "2026-10-27T06:25:20Z",
-   "teaser": "Angesprochen auf den Anteil seiner Mitspieler an seinem Ballon d'Or, setzte Harry Kane zu einer Lobeshymne auf seine Teamkollegen bei Bayern und der Nationalmannschaft an.",
-   "clubs": [
-    40
    ],
    "transfer": false
   }
