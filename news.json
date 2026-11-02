@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T11:00:29Z",
+ "updated": "2026-11-02T11:54:03Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,38 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/auch-hranac-unterm-messer-hoffenheims-personalnot-noch-schlimmer-1267410/artikel",
+   "title": "Auch Hranac unterm Messer: Hoffenheims Personalnot noch schlimmer",
+   "link": "https://www.kicker.de/auch-hranac-unterm-messer-hoffenheims-personalnot-noch-schlimmer-1267410/artikel",
+   "source": "kicker",
+   "published": "2026-11-02T11:41:03Z",
+   "teaser": "Es ist noch schlimmer als befürchtet. Die TSG Hoffenheim wird derzeit von einer Verletzungswelle überflutet. Besonders hat es die Innenverteidigung getroffen, zudem schlimmer als bislang bekannt.",
+   "clubs": [
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wie-die-eintracht-mit-dem-hype-um-ausnahmetalent-ilicevic-umgehen-will-1267710/artikel",
+   "title": "Wie die Eintracht mit dem Hype um Ausnahmetalent Ilicevic umgehen will",
+   "link": "https://www.kicker.de/wie-die-eintracht-mit-dem-hype-um-ausnahmetalent-ilicevic-umgehen-will-1267710/artikel",
+   "source": "kicker",
+   "published": "2026-11-02T11:36:49Z",
+   "teaser": "Nur einen Tag nach seinem 16. Geburtstag debütiert Niko Ilicevic in der Bundesliga und stellt damit einen Rekord ein. Wie geht die Eintracht mit dem Hype um das Ausnahmetalent um? Und was sagt der Tempodribbler selbst zu seinen ersten …",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wer-bei-der-kopa-trophaee-fuer-karl-stimmte-und-wie-messi-die-wahl-entschied-1267775/artikel",
+   "title": "Wer bei der Kopa-Trophäe für Karl stimmte - und wie Messi die Wahl entschied",
+   "link": "https://www.kicker.de/wer-bei-der-kopa-trophaee-fuer-karl-stimmte-und-wie-messi-die-wahl-entschied-1267775/artikel",
+   "source": "kicker",
+   "published": "2026-11-02T10:57:08Z",
+   "teaser": "Lamine Yamal hat die Titelverteidigung bei der Kopa-Trophäe auch Lionel Messi zu verdanken. Lennart Karl tauchte bei vier Juroren auf - darunter einem alten Bekannten.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/demirovics-symbolischer-jubel-ich-bin-froh-fuer-den-vfb-zu-spielen-1267411/artikel",
    "title": "Demirovics symbolischer Jubel: \"Ich bin froh, für den VfB zu spielen\"",
@@ -2490,40 +2522,6 @@
    "source": "kicker",
    "published": "2026-10-27T06:25:20Z",
    "teaser": "Angesprochen auf den Anteil seiner Mitspieler an seinem Ballon d'Or, setzte Harry Kane zu einer Lobeshymne auf seine Teamkollegen bei Bayern und der Nationalmannschaft an.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/der-ballon-d-or-fuer-die-bundesliga-kane-versetzt-london-in-ekstase-1265556/video",
-   "title": "\"Der Ballon d'Or für die Bundesliga\": Kane versetzt London in Ekstase",
-   "link": "https://www.kicker.de/der-ballon-d-or-fuer-die-bundesliga-kane-versetzt-london-in-ekstase-1265556/video",
-   "source": "kicker",
-   "published": "2026-10-27T00:44:31Z",
-   "teaser": "Erstmals seit 1996 gewinnt mit Harry Kane ein Spieler aus der Bundesliga den Ballon d'Or. Der Engländer feiert jetzt erstmal, richtet aber den Blick bereits auf weitere Titel und das Pokalspiel am Mittwoch gegen Magdeburg. Aus London …",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/du-bist-verdammt-nochmal-brillant-mueller-gratuliert-kane-zum-ballon-d-or-sieg-1265554/video",
-   "title": "\"Du bist verdammt nochmal brillant\": Müller gratuliert Kane zum Ballon-d'Or-Sieg",
-   "link": "https://www.kicker.de/du-bist-verdammt-nochmal-brillant-mueller-gratuliert-kane-zum-ballon-d-or-sieg-1265554/video",
-   "source": "kicker",
-   "published": "2026-10-26T23:57:07Z",
-   "teaser": "Knapp zwei Jahre haben Harry Kane und Thomas Müller beim FC Bayern zusammengespielt. Nun gratuliert der 37-Jährige seinem früheren Kollegen via Instagram zum Gewinn des Ballon d'Or.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/das-laecheln-eines-siegers-harry-kane-bei-der-ankunft-lautstark-umjubelt-1265526/video",
-   "title": "Das Lächeln eines Siegers? Harry Kane bei der Ankunft lautstark umjubelt",
-   "link": "https://www.kicker.de/das-laecheln-eines-siegers-harry-kane-bei-der-ankunft-lautstark-umjubelt-1265526/video",
-   "source": "kicker",
-   "published": "2026-10-26T21:42:49Z",
-   "teaser": "Bei seiner Rückkehr nach London für die Ballon-d'Or-Gala verteilt Harry Kane Autogramme und wird lautstark bejubelt. Auch die anderen Bayern-Spieler werden gebührend empfangen.",
    "clubs": [
     40
    ],
