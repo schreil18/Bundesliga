@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T13:04:05Z",
+ "updated": "2026-11-02T14:19:16Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/hsv-die-hoffnung-auf-rueckkehrer-1267802/artikel",
+   "title": "HSV: Die Hoffnung auf Rückkehrer",
+   "link": "https://www.kicker.de/hsv-die-hoffnung-auf-rueckkehrer-1267802/artikel",
+   "source": "kicker",
+   "published": "2026-11-02T13:04:10Z",
+   "teaser": "Der Hamburger SV steht am kommenden Freitagabend gegen Mönchengladbach vor einem richtungsweisenden Heimspiel. Aber mit welchem Personal? Ein Thema, das die Protagonisten nicht zu groß machen möchten, überlagert dieser Tage tatsächlich …",
+   "clubs": [
+    87,
+    100
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/rotwuerdiges-foul-gegen-el-mala-kamera-panne-verhindert-var-entscheidung-1267804/artikel",
    "title": "Rotwürdiges Foul gegen El Mala? Kamera-Panne verhindert VAR-Entscheidung",
@@ -2514,18 +2527,6 @@
    "published": "2026-10-27T11:22:01Z",
    "teaser": "Andrej Kramaric hat eine lange Leidenszeit hinter sich, war zwei Monate aufgrund einer Leisten-OP außer Gefecht. Jetzt aber ist der Kroate zurück - und wie.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/das-ist-einfach-das-traurige-baumgart-aeussert-sich-zum-union-aus-1265581/artikel",
-   "title": "\"Das ist einfach das Traurige\": Baumgart äußert sich zum Union-Aus",
-   "link": "https://www.kicker.de/das-ist-einfach-das-traurige-baumgart-aeussert-sich-zum-union-aus-1265581/artikel",
-   "source": "kicker",
-   "published": "2026-10-27T07:43:55Z",
-   "teaser": "Steffen Baumgart hat die vergangenen Monate ohne Fußball verbracht, er tankt Kraft, genießt Zeit mit der Familie. Irgendwann will er wieder an der Seitenlinie stehen - über die Zahl der Angebote spricht er sehr offen.",
-   "clubs": [
-    80
-   ],
    "transfer": false
   }
  ]
