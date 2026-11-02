@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T14:19:16Z",
+ "updated": "2026-11-02T15:28:38Z",
  "sources": [
   {
    "name": "kicker",
@@ -27,6 +27,19 @@
     100
    ],
    "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/hsv-ein-thema-ueberlagert-alles-1267802/artikel",
+   "title": "HSV: Ein Thema überlagert alles",
+   "link": "https://www.kicker.de/hsv-ein-thema-ueberlagert-alles-1267802/artikel",
+   "source": "kicker",
+   "published": "2026-11-02T13:04:10Z",
+   "teaser": "Der Hamburger SV steht am kommenden Freitagabend gegen Mönchengladbach vor einem richtungsweisenden Heimspiel. Aber mit welchem Personal? Ein Thema, das die Protagonisten nicht zu groß machen möchten, überlagert dieser Tage tatsächlich …",
+   "clubs": [
+    87,
+    100
+   ],
+   "transfer": false
   },
   {
    "id": "https://www.kicker.de/rotwuerdiges-foul-gegen-el-mala-kamera-panne-verhindert-var-entscheidung-1267804/artikel",
@@ -2517,16 +2530,6 @@
     6,
     112
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kramaric-in-zwei-spielen-sechs-scorerpunkte-zu-sammeln-ist-schon-krank-1265126/artikel",
-   "title": "Kramaric: \"In zwei Spielen sechs Scorerpunkte zu sammeln, ist schon krank\"",
-   "link": "https://www.kicker.de/kramaric-in-zwei-spielen-sechs-scorerpunkte-zu-sammeln-ist-schon-krank-1265126/artikel",
-   "source": "kicker",
-   "published": "2026-10-27T11:22:01Z",
-   "teaser": "Andrej Kramaric hat eine lange Leidenszeit hinter sich, war zwei Monate aufgrund einer Leisten-OP außer Gefecht. Jetzt aber ist der Kroate zurück - und wie.",
-   "clubs": [],
    "transfer": false
   }
  ]
