@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T09:01:56Z",
+ "updated": "2026-11-02T10:03:56Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/demirovics-symbolischer-jubel-ich-bin-froh-fuer-den-vfb-zu-spielen-1267411/artikel",
+   "title": "Demirovics symbolischer Jubel: \"Ich bin froh, für den VfB zu spielen\"",
+   "link": "https://www.kicker.de/demirovics-symbolischer-jubel-ich-bin-froh-fuer-den-vfb-zu-spielen-1267411/artikel",
+   "source": "kicker",
+   "published": "2026-11-02T09:12:31Z",
+   "teaser": "Die Unsicherheit, was in Leverkusen passiert, war greifbar. Am Ende griff ein starker VfB Stuttgart drei Zähler ab. Auch dank Ermedin Demirovic, der gewohnte Torjäger-Qualitäten zeigte - und sich jetzt auf ein besonderes Spiel freut.",
+   "clubs": [
+    6,
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "RWE kündigt Koschinat-Verhandlungen an - Gwinn will Bayern-Zukunft bald klären",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-02T09:04:48Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.sportschau.de/vfb-gegen-leverkusen-einfach-aber-erfolgreich,bundesliga-update-rueckblick-spieltag-sechsundzwanzig-106.html",
    "title": "VfB gegen Leverkusen: Einfach aber erfolgreich",
@@ -426,18 +451,6 @@
     100
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Gwinn will Bayern-Zukunft bald klären - Pulisic verlängert in Mailand",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T17:50:37Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [
-    40
-   ],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/dortmunds-viererkette-wird-zum-symbol-und-laesst-vor-allem-einen-auffallen-1267404/artikel",
@@ -2514,16 +2527,6 @@
    "clubs": [
     40
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-fans-hatten-uns-das-nicht-zugetraut-em-helden-von-96-feiern-jubilaeum-1265523/video",
-   "title": "\"Die Fans hatten uns das nicht zugetraut\": EM-Helden von 96 feiern Jubiläum",
-   "link": "https://www.kicker.de/die-fans-hatten-uns-das-nicht-zugetraut-em-helden-von-96-feiern-jubilaeum-1265523/video",
-   "source": "kicker",
-   "published": "2026-10-26T21:05:24Z",
-   "teaser": "Die deutschen EM-Sieger von 1996 kommen zusammen und feiern das 30-jährige Jubiläum. Berti Vogts erinnert sich zurück an das \"Golden Goal\" von Oliver Bierhoff, Jürgen Klinsmann freut sich, alte Kollegen wiederzusehen.",
-   "clubs": [],
    "transfer": false
   }
  ]
