@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T18:26:05Z",
+ "updated": "2026-11-02T19:29:25Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/der-heisse-advent-das-urteil-ueber-den-1-fc-koeln-faellt-erst-im-dezember-1267743/artikel",
+   "title": "Der heiße Advent: Das Urteil über den 1. FC Köln fällt erst im Dezember",
+   "link": "https://www.kicker.de/der-heisse-advent-das-urteil-ueber-den-1-fc-koeln-faellt-erst-im-dezember-1267743/artikel",
+   "source": "kicker",
+   "published": "2026-11-02T18:35:15Z",
+   "teaser": "Aus Berlin fährt der 1. FC Köln mit gemischten Gefühlen nach Hause: Agiert die Mannschaft sicher und stabil, oder harmlos und zaghaft? Die Antwort auf diese Frage wird erst wohl in einigen Wochen zu sehen sein.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/chefscout-schmadtke-vor-dem-aus-beim-fc-bayern-1267913/artikel",
    "title": "Chefscout Schmadtke vor dem Aus beim FC Bayern",
@@ -2517,16 +2529,6 @@
     80,
     65
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/auf-den-spuren-des-ballon-d-or-siegers-wo-fuer-kane-alles-begann-1265878/video",
-   "title": "Auf den Spuren des Ballon-d'Or-Siegers: Wo für Kane alles begann",
-   "link": "https://www.kicker.de/auf-den-spuren-des-ballon-d-or-siegers-wo-fuer-kane-alles-begann-1265878/video",
-   "source": "kicker",
-   "published": "2026-10-27T20:18:47Z",
-   "teaser": "Harry Kane hat den Ballon d'Or gewonnen und am Tag nach der Zeremonie hat sich kicker-Reporter Mario Krischel in London auf Spurensuche nach Kanes Anfängen begeben.",
-   "clubs": [],
    "transfer": false
   }
  ]
