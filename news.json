@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T20:19:35Z",
+ "updated": "2026-11-02T21:20:31Z",
  "sources": [
   {
    "name": "kicker",
@@ -20,12 +20,24 @@
    "title": "Zum 31. Januar 2027: Bayern trennt sich von Scouting-Chef Schmadtke",
    "link": "https://www.kicker.de/zum-31-januar-2027-bayern-trennt-sich-von-scouting-chef-schmadtke-1267913/artikel",
    "source": "kicker",
-   "published": "2026-11-02T19:35:00Z",
+   "published": "2026-11-02T20:56:28Z",
    "teaser": "Der FC Bayern wird sich in der Scouting-Abteilung neu aufstellen. Nils Schmadtke, aktueller Leiter dieser Sparte, muss den deutschen Rekordmeister zum 31. Januar 2027 verlassen. Das teilten die Münchner am Montagabend mit.",
    "clubs": [
     40
    ],
    "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/nicht-gerade-hilfreich-damit-kaempft-bayers-torlos-stuermer-moreira-1267754/artikel",
+   "title": "\"Nicht gerade hilfreich\": Damit kämpft Bayers Torlos-Stürmer Moreira",
+   "link": "https://www.kicker.de/nicht-gerade-hilfreich-damit-kaempft-bayers-torlos-stuermer-moreira-1267754/artikel",
+   "source": "kicker",
+   "published": "2026-11-02T20:44:30Z",
+   "teaser": "Er kam, um Leverkusens Angriff mehr Power zu verschaffen. Doch bislang kann Afonso Moreira für Bayer 04 nicht die erhofften Impulse in Form von Toren setzen. Der Portugiese wartet weiter auf seinen ersten Treffer - und setzt sich damit …",
+   "clubs": [
+    6
+   ],
+   "transfer": false
   },
   {
    "id": "https://www.kicker.de/der-heisse-advent-das-urteil-ueber-den-1-fc-koeln-faellt-erst-im-dezember-1267743/artikel",
@@ -2515,18 +2527,6 @@
    "clubs": [
     40,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-moenchengladbachs-sieg-teambuilding-in-unterzahl-100.html",
-   "title": "Mönchengladbachs Sieg im DFB-Pokal - Teambuilding in Unterzahl",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-moenchengladbachs-sieg-teambuilding-in-unterzahl-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-28T07:22:00Z",
-   "teaser": "Borussia Mönchengladbach macht den nächsten Schritt aus der Krise. Die Art des Erfolgs im DFB-Pokal macht ihn noch wertvoller.",
-   "clubs": [
-    87
    ],
    "transfer": false
   }
