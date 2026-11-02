@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T15:28:38Z",
+ "updated": "2026-11-02T16:35:50Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/erstes-individuelles-training-eichhorn-nach-stoffwechselstoerung-zurueck-1267843/artikel",
+   "title": "Erstes individuelles Training: Eichhorn nach Stoffwechselstörung zurück",
+   "link": "https://www.kicker.de/erstes-individuelles-training-eichhorn-nach-stoffwechselstoerung-zurueck-1267843/artikel",
+   "source": "kicker",
+   "published": "2026-11-02T15:27:49Z",
+   "teaser": "Leverkusens Top-Talent Kennet Eichhorn hat nach seiner Stoffwechselstörung den nächsten Schritt zu seinem Comeback gemacht. Am Montag absolvierte der 17-Jährige seine erste individuelle Einheit.",
+   "clubs": [
+    6
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/hsv-die-hoffnung-auf-rueckkehrer-1267802/artikel",
    "title": "HSV: Die Hoffnung auf Rückkehrer",
@@ -2515,20 +2527,6 @@
    "clubs": [
     40,
     7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/lehrreiche-tage-was-treu-ankotzt-und-freiburg-lernen-muss-1265508/artikel",
-   "title": "Lehrreiche Tage: Was Treu \"ankotzt\" und Freiburg lernen muss",
-   "link": "https://www.kicker.de/lehrreiche-tage-was-treu-ankotzt-und-freiburg-lernen-muss-1265508/artikel",
-   "source": "kicker",
-   "published": "2026-10-27T12:54:50Z",
-   "teaser": "Leverkusen, Monaco, Bayern: Binnen acht Tagen zeigten drei Top-Teams dem SC Freiburg nach dem perfekten Saisonstart die Grenzen auf. Doch trotz der null Punkte macht die Entwicklung Hoffnung. Nationalspieler Philipp Treu erklärt warum.",
-   "clubs": [
-    40,
-    6,
-    112
    ],
    "transfer": false
   }
