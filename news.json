@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T19:29:25Z",
+ "updated": "2026-11-02T20:19:35Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/zum-31-januar-2027-bayern-trennt-sich-von-scouting-chef-schmadtke-1267913/artikel",
+   "title": "Zum 31. Januar 2027: Bayern trennt sich von Scouting-Chef Schmadtke",
+   "link": "https://www.kicker.de/zum-31-januar-2027-bayern-trennt-sich-von-scouting-chef-schmadtke-1267913/artikel",
+   "source": "kicker",
+   "published": "2026-11-02T19:35:00Z",
+   "teaser": "Der FC Bayern wird sich in der Scouting-Abteilung neu aufstellen. Nils Schmadtke, aktueller Leiter dieser Sparte, muss den deutschen Rekordmeister zum 31. Januar 2027 verlassen. Das teilten die Münchner am Montagabend mit.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/der-heisse-advent-das-urteil-ueber-den-1-fc-koeln-faellt-erst-im-dezember-1267743/artikel",
    "title": "Der heiße Advent: Das Urteil über den 1. FC Köln fällt erst im Dezember",
@@ -2515,19 +2527,6 @@
    "teaser": "Borussia Mönchengladbach macht den nächsten Schritt aus der Krise. Die Art des Erfolgs im DFB-Pokal macht ihn noch wertvoller.",
    "clubs": [
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/rbb/rbb-unions-pokal-klatsche-in-koeln-systemversagen-100.html",
-   "title": "Unions Pokal-Klatsche in Köln: Systemversagen",
-   "link": "https://www.sportschau.de/regional/rbb/rbb-unions-pokal-klatsche-in-koeln-systemversagen-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-28T06:10:05Z",
-   "teaser": "Nach dem bitteren 0:5 im Kölner Regen steht der 1. FC Union Berlin vor einem Rätsel: War der chancenlose Pokal-Auftritt nur ein temporärer Rückschritt oder offenbart er grundlegende Probleme?",
-   "clubs": [
-    80,
-    65
    ],
    "transfer": false
   }
