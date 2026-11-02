@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T17:30:26Z",
+ "updated": "2026-11-02T18:26:05Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/chefscout-schmadtke-vor-dem-aus-beim-fc-bayern-1267913/artikel",
+   "title": "Chefscout Schmadtke vor dem Aus beim FC Bayern",
+   "link": "https://www.kicker.de/chefscout-schmadtke-vor-dem-aus-beim-fc-bayern-1267913/artikel",
+   "source": "kicker",
+   "published": "2026-11-02T17:43:43Z",
+   "teaser": "Der FC Bayern wird sich in der Scouting-Abteilung neu aufstellen. Nils Schmadtke, aktueller Leiter dieser Sparte, steht beim deutschen Rekordmeister vor dem Aus.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/erstes-individuelles-training-eichhorn-nach-stoffwechselstoerung-zurueck-1267843/artikel",
    "title": "Erstes individuelles Training: Eichhorn nach Stoffwechselstörung zurück",
@@ -2515,19 +2527,6 @@
    "published": "2026-10-27T20:18:47Z",
    "teaser": "Harry Kane hat den Ballon d'Or gewonnen und am Tag nach der Zeremonie hat sich kicker-Reporter Mario Krischel in London auf Spurensuche nach Kanes Anfängen begeben.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-kimmich-comeback-gegen-dortmund-danks-macht-hoffnung-102.html",
-   "title": "Joshua Kimmich steht vor Comeback gegen Dortmund",
-   "link": "https://www.sportschau.de/regional/br/br-kimmich-comeback-gegen-dortmund-danks-macht-hoffnung-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-27T17:24:50Z",
-   "teaser": "Der FC Bayern München muss seit zwei Pflichtspielen aufgrund eines Trauerfalls in der Familie auf Joshua Kimmich verzichten. Gegen Borussia Dortmund kann der deutsche Rekordmeister auf eine Rückkehr des Mittelfeldspielers hoffen.",
-   "clubs": [
-    40,
-    7
-   ],
    "transfer": false
   }
  ]
