@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T10:29:16Z",
+ "updated": "2026-11-03T11:26:37Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,44 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-niko-ilicevics-rekord-debuet-sofort-mittendrin-100.html",
+   "title": "Niko Ilicevics Rekord-Debüt: Sofort mittendrin",
+   "link": "https://www.sportschau.de/regional/hr/hr-niko-ilicevics-rekord-debuet-sofort-mittendrin-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-03T11:03:49Z",
+   "teaser": "Durch seine Einwechslung gegen den Hamburger SV ist Eintracht Frankfurts Niko Ilicevic nun der jüngste Bundesligaspieler aller Zeiten. Den Rekord teilt er sich allerdings mit einem Ex-Talent, dessen Story auch eine Warnung vor zu viel Hype …",
+   "clubs": [
+    91,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/rb/rb-nahezu-perfekt-wie-sich-pieper-fuer-werder-unverzichtbar-gemacht-hat-100.html",
+   "title": "Wie sich Pieper für Werder unverzichtbar gemacht hat",
+   "link": "https://www.sportschau.de/regional/rb/rb-nahezu-perfekt-wie-sich-pieper-fuer-werder-unverzichtbar-gemacht-hat-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-03T10:29:59Z",
+   "teaser": "Nicht Dortmunds Nico Schlotterbeck, nicht Bayerns Jonathan Tah: Werders Innenverteidiger Amos Pieper ist der zweikampfstärkste Stammspieler der Bundesliga.",
+   "clubs": [
+    7,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/championsleague/saibari-und-gnabry-fallen-monatelang-aus-olise-doch-dabei,video-moma-bayern-verletzungssorgen-100.html",
+   "title": "Saibari und Gnabry fallen monatelang aus, Olise doch dabei",
+   "link": "https://www.sportschau.de/fussball/championsleague/saibari-und-gnabry-fallen-monatelang-aus-olise-doch-dabei,video-moma-bayern-verletzungssorgen-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-03T07:18:41Z",
+   "teaser": "Am Dienstag-Abend treffen die Bayern in der Champions League auf Atletico Madrid. Den deutschen Rekordmeister plagen Verletzungssorgen um Saibari, Gnabry und Olise.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/zum-31-januar-2027-bayern-trennt-sich-von-scouting-chef-schmadtke-1267913/artikel",
    "title": "Zum 31. Januar 2027: Bayern trennt sich von Scouting-Chef Schmadtke",
@@ -2489,44 +2527,6 @@
    "teaser": "Ende März 2025 musste Marco Rose in Leipzig seinen Hut nehmen, seit dem vergangenen Sommer ist der Ex-RB-Coach für den AFC Bournemouth zuständig. Nun wirft er einen Blick zurück auf seine Zeit in Leipzig und auf die aktuelle Situation von …",
    "clubs": [
     1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/rb/rb-werder-ist-abhaengig-von-fuellkrug-wird-der-torjaeger-zum-risiko-100.html",
-   "title": "Wird Füllkrug für Werder zum Risiko?",
-   "link": "https://www.sportschau.de/regional/rb/rb-werder-ist-abhaengig-von-fuellkrug-wird-der-torjaeger-zum-risiko-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-28T12:11:00Z",
-   "teaser": "Werder funktioniert offenbar nur mit Füllkrug. Elf der 20 Bremer Tore gehen auf sein Konto. Doch die Dauerbelastung und die ungeklärte Zukunft könnten \"Lücke\" zum Risiko machen.",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/aufschwung-und-alternativen-gladbach-bereit-fuer-paderborn-1266035/artikel",
-   "title": "Aufschwung und Alternativen: Gladbach bereit für Paderborn",
-   "link": "https://www.kicker.de/aufschwung-und-alternativen-gladbach-bereit-fuer-paderborn-1266035/artikel",
-   "source": "kicker",
-   "published": "2026-10-28T10:23:55Z",
-   "teaser": "Zwei Siege in Folge. Das Lazarett lichtet sich. Bei der Borussia wächst vor dem wegweisenden Heimspiel der Optimismus.",
-   "clubs": [
-    87,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wie-sonst-nur-harry-kane-krauss-besondere-rolle-beim-1-fc-koeln-1265986/artikel",
-   "title": "Wie sonst nur Harry Kane: Krauß' besondere Rolle beim 1. FC Köln",
-   "link": "https://www.kicker.de/wie-sonst-nur-harry-kane-krauss-besondere-rolle-beim-1-fc-koeln-1265986/artikel",
-   "source": "kicker",
-   "published": "2026-10-28T10:21:17Z",
-   "teaser": "Beim 5:0-Triumph des 1. FC Köln im Pokal überragen nicht nur die Stürmer, sondern auch Mittelfeldspieler Tom Krauß. Der 25-Jährige nimmt dabei eine Sonderrolle ein, die sogar an den Bayern-Stürmer erinnert.",
-   "clubs": [
-    40,
-    65
    ],
    "transfer": false
   }
