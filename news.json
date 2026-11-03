@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T11:26:37Z",
+ "updated": "2026-11-03T12:24:26Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/schlechte-nachricht-weiser-fehlt-werder-erneut-1268094/artikel",
+   "title": "\"Schlechte Nachricht\": Weiser fehlt Werder erneut",
+   "link": "https://www.kicker.de/schlechte-nachricht-weiser-fehlt-werder-erneut-1268094/artikel",
+   "source": "kicker",
+   "published": "2026-11-03T11:08:06Z",
+   "teaser": "Zuletzt hatte Mitchell Weiser beim SV Werder Bremen für positive Schlagzeilen gesorgt nach seinem heiß ersehnten Comeback. Doch nun wird der erfahrene Mittelfeldspieler erneut von einer Verletzung ausgebremst.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/hr/hr-niko-ilicevics-rekord-debuet-sofort-mittendrin-100.html",
    "title": "Niko Ilicevics Rekord-Debüt: Sofort mittendrin",
@@ -2515,18 +2527,6 @@
    "clubs": [
     40,
     7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/daumen-schon-gesenkt-rose-springt-demichelis-zur-seite-1266068/artikel",
-   "title": "Daumen schon gesenkt? Rose springt Demichelis zur Seite",
-   "link": "https://www.kicker.de/daumen-schon-gesenkt-rose-springt-demichelis-zur-seite-1266068/artikel",
-   "source": "kicker",
-   "published": "2026-10-28T12:13:00Z",
-   "teaser": "Ende März 2025 musste Marco Rose in Leipzig seinen Hut nehmen, seit dem vergangenen Sommer ist der Ex-RB-Coach für den AFC Bournemouth zuständig. Nun wirft er einen Blick zurück auf seine Zeit in Leipzig und auf die aktuelle Situation von …",
-   "clubs": [
-    1635
    ],
    "transfer": false
   }
