@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T15:52:33Z",
+ "updated": "2026-11-03T16:55:56Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/rb/rb-werders-leistungstraeger-weiser-erneut-verletzt-102.html",
+   "title": "Werders Leistungsträger Mitchell Weiser erneut verletzt",
+   "link": "https://www.sportschau.de/regional/rb/rb-werders-leistungstraeger-weiser-erneut-verletzt-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-03T16:04:50Z",
+   "teaser": "Schlechte Nachricht für Werder: Mitchell Weiser kämpfte sich nach einem Kreuzbandriss nach 14 Monaten auf den Platz zurück. Nun fällt der Bremer schon wieder aus.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/kuehn-fehlt-gladbach-erneut-trio-koennte-in-hamburg-zurueckkehren-1268156/artikel",
    "title": "Kühn fehlt Gladbach erneut - Trio könnte in Hamburg zurückkehren",
@@ -2516,18 +2528,6 @@
    "published": "2026-10-28T20:32:57Z",
    "teaser": "Am Mittwoch sickerte durch, dass der frühere Eintracht-Kapitän Christoph Spycher nicht in neuer Funktion als Sportvorstand an den Main zurückkehren wird. Warum? Das wird der Sportchef des BSC Young Boys zeitnah öffentlich mitteilen.",
    "clubs": [],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/eberl-bestaetigt-kompany-nach-hirnhautreizung-aus-krankenhaus-entlassen-1266223/artikel",
-   "title": "Eberl bestätigt: Kompany nach Hirnhautreizung aus Krankenhaus entlassen",
-   "link": "https://www.kicker.de/eberl-bestaetigt-kompany-nach-hirnhautreizung-aus-krankenhaus-entlassen-1266223/artikel",
-   "source": "kicker",
-   "published": "2026-10-28T20:00:00Z",
-   "teaser": "Vincent Kompany ist an diesem Mittwoch aus dem Krankenhaus entlassen worden - Diagnose und Reha-Plan inklusive. Das hat im Zuge der DFB-Pokal-Partie gegen Magdeburg Bayern Münchens Sportvorstand Max Eberl verkündet.",
-   "clubs": [
-    40
-   ],
    "transfer": true
   }
  ]
