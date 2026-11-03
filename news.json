@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T12:24:26Z",
+ "updated": "2026-11-03T13:44:29Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/nur-eine-ergebniskrise-in-augsburg-oder-mehr-1268101/artikel",
+   "title": "Nur eine Ergebniskrise in Augsburg - oder mehr?",
+   "link": "https://www.kicker.de/nur-eine-ergebniskrise-in-augsburg-oder-mehr-1268101/artikel",
+   "source": "kicker",
+   "published": "2026-11-03T13:04:48Z",
+   "teaser": "Die Erinnerung an den tollen Saisonstart verblasst allmählich, seit sechs Spielen wartet der FC Augsburg in der Bundesliga auf einen Sieg. Das Problem: verspielte Vorsprünge durch späte Gegentore.",
+   "clubs": [
+    95
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/schlechte-nachricht-weiser-fehlt-werder-erneut-1268094/artikel",
    "title": "\"Schlechte Nachricht\": Weiser fehlt Werder erneut",
@@ -2514,19 +2526,6 @@
    "teaser": "Durch einen 3:1-Sieg beim HSV zieht die Eintracht ins DFB-Pokal-Achtelfinale ein. Can Uzun leitet zwei Tore ein, überzeugt seinen Trainer aber auch aus einem anderen Grund. Da Younes Ebnoutalib ebenfalls Eigenwerbung betreibt, bleibt die …",
    "clubs": [
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-sieberts-verletzung-stieler-soll-den-klassiker-pfeifen-1266070/artikel",
-   "title": "Nach Sieberts Verletzung: Stieler soll den Klassiker pfeifen",
-   "link": "https://www.kicker.de/nach-sieberts-verletzung-stieler-soll-den-klassiker-pfeifen-1266070/artikel",
-   "source": "kicker",
-   "published": "2026-10-28T12:48:43Z",
-   "teaser": "Bayern gegen Dortmund - der deutsche Topspiel-Klassiker hat auch für die Schiedsrichter eine große Bedeutung. Für das Duell am Samstag kam es zu einer Umbesetzung, von einem FIFA-Referee zum anderen.",
-   "clubs": [
-    40,
-    7
    ],
    "transfer": false
   }
