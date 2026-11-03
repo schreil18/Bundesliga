@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T14:56:43Z",
+ "updated": "2026-11-03T15:52:33Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/kuehn-fehlt-gladbach-erneut-trio-koennte-in-hamburg-zurueckkehren-1268156/artikel",
+   "title": "Kühn fehlt Gladbach erneut - Trio könnte in Hamburg zurückkehren",
+   "link": "https://www.kicker.de/kuehn-fehlt-gladbach-erneut-trio-koennte-in-hamburg-zurueckkehren-1268156/artikel",
+   "source": "kicker",
+   "published": "2026-11-03T15:27:25Z",
+   "teaser": "Am Freitag unternimmt Borussia Mönchengladbach beim Hamburger SV einen weiteren Versuch, den letzten Tabellenplatz der Bundesliga zu verlassen. Drei Tage zuvor gab Trainer Alexander Blessin ein Update zu definitiven Ausfällen und möglichen …",
+   "clubs": [
+    87,
+    100
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/nur-eine-ergebniskrise-in-augsburg-oder-mehr-1268101/artikel",
    "title": "Nur eine Ergebniskrise in Augsburg - oder mehr?",
@@ -2516,19 +2529,6 @@
     40
    ],
    "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/stadioneinweihung-in-nairobi-bayern-trifft-auf-ajax-1266151/artikel",
-   "title": "Stadioneinweihung in Nairobi: Bayern trifft auf Ajax",
-   "link": "https://www.kicker.de/stadioneinweihung-in-nairobi-bayern-trifft-auf-ajax-1266151/artikel",
-   "source": "kicker",
-   "published": "2026-10-28T15:44:02Z",
-   "teaser": "In der Bundesliga wartet auf den FC Bayern nach der Winterpause der Klassiker gegen Borussia Mönchengladbach. Zur Generalprobe gehen die Münchner auf Reisen und treffen Anfang des neuen Jahres in Nairobi auf Ajax Amsterdam.",
-   "clubs": [
-    40,
-    87
-   ],
-   "transfer": false
   }
  ]
 }
