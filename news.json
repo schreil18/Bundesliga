@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T13:44:29Z",
+ "updated": "2026-11-03T14:56:43Z",
  "sources": [
   {
    "name": "kicker",
@@ -74,6 +74,19 @@
    "teaser": "Am Dienstag-Abend treffen die Bayern in der Champions League auf Atletico Madrid. Den deutschen Rekordmeister plagen Verletzungssorgen um Saibari, Gnabry und Olise.",
    "clubs": [
     40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-talent-ilicevic-feiert-rekord-debuet--und-ist-sofort-mittendrin-100.html",
+   "title": "Eintracht-Talent Ilicevic feiert Rekord-Debüt – und ist sofort mittendrin",
+   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-talent-ilicevic-feiert-rekord-debuet--und-ist-sofort-mittendrin-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-03T06:30:34Z",
+   "teaser": "Durch seine Einwechslung gegen den Hamburger SV ist Eintracht Frankfurts Niko Ilicevic nun der jüngste Bundesligaspieler aller Zeiten. Den Rekord teilt er sich allerdings mit einem Ex-Talent, dessen Story auch eine Warnung vor zu viel Hype …",
+   "clubs": [
+    91,
+    100
    ],
    "transfer": false
   },
@@ -2514,18 +2527,6 @@
    "clubs": [
     40,
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/schon-die-trendwende-wie-ausnahmespieler-uzun-seinem-trainer-ein-kompliment-entlockt-1266031/artikel",
-   "title": "Schon die Trendwende? Wie \"Ausnahmespieler\" Uzun seinem Trainer ein Kompliment entlockt",
-   "link": "https://www.kicker.de/schon-die-trendwende-wie-ausnahmespieler-uzun-seinem-trainer-ein-kompliment-entlockt-1266031/artikel",
-   "source": "kicker",
-   "published": "2026-10-28T13:38:47Z",
-   "teaser": "Durch einen 3:1-Sieg beim HSV zieht die Eintracht ins DFB-Pokal-Achtelfinale ein. Can Uzun leitet zwei Tore ein, überzeugt seinen Trainer aber auch aus einem anderen Grund. Da Younes Ebnoutalib ebenfalls Eigenwerbung betreibt, bleibt die …",
-   "clubs": [
-    100
    ],
    "transfer": false
   }
