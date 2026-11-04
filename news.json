@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T11:56:52Z",
+ "updated": "2026-11-04T13:01:43Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,28 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Maza spricht über PSG - Fürstliche Entschädigung: Fonseca verlässt Lyon",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-04T12:44:56Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/wie-loest-huetter-das-luxusproblem-in-der-sge-offensive-1268476/video",
+   "title": "Wie löst Hütter das \"Luxusproblem\" in der SGE-Offensive?",
+   "link": "https://www.kicker.de/wie-loest-huetter-das-luxusproblem-in-der-sge-offensive-1268476/video",
+   "source": "kicker",
+   "published": "2026-11-04T12:08:40Z",
+   "teaser": "In der Offensive von Eintracht Frankfurt hat Adi Hütter im Moment die Qual der Wahl. kicker-Reporter Julian Franzke berichtet vom öffentlichen Training der SGE.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/angekommen-in-den-top-5-der-liga-pieper-als-teil-des-werder-aufschwungs-1268428/artikel",
    "title": "Angekommen in den Top 5 der Liga: Pieper als Teil des Werder-Aufschwungs",
@@ -282,16 +304,6 @@
     16
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Fürstliche Entschädigung: Fonseca verlässt Lyon - RWE kündigt Koschinat-Verhandlungen an",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-02T09:04:48Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
-   "transfer": true
   },
   {
    "id": "https://www.sportschau.de/vfb-gegen-leverkusen-einfach-aber-erfolgreich,bundesliga-update-rueckblick-spieltag-sechsundzwanzig-106.html",
@@ -2521,16 +2533,6 @@
     40
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kein-kroesche-nachfolger-spycher-bleibt-aus-privaten-gruenden-bei-young-boys-1266219/artikel",
-   "title": "Kein Krösche-Nachfolger: Spycher bleibt aus privaten Gründen bei Young Boys",
-   "link": "https://www.kicker.de/kein-kroesche-nachfolger-spycher-bleibt-aus-privaten-gruenden-bei-young-boys-1266219/artikel",
-   "source": "kicker",
-   "published": "2026-10-28T20:32:57Z",
-   "teaser": "Am Mittwoch sickerte durch, dass der frühere Eintracht-Kapitän Christoph Spycher nicht in neuer Funktion als Sportvorstand an den Main zurückkehren wird. Warum? Das wird der Sportchef des BSC Young Boys zeitnah öffentlich mitteilen.",
-   "clubs": [],
-   "transfer": true
   }
  ]
 }
