@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T16:27:41Z",
+ "updated": "2026-11-04T17:27:50Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/die-hsv-suche-nach-saeulen-bornauw-steht-wieder-1268586/artikel",
+   "title": "Die HSV-Suche nach Säulen: Bornauw steht wieder",
+   "link": "https://www.kicker.de/die-hsv-suche-nach-saeulen-bornauw-steht-wieder-1268586/artikel",
+   "source": "kicker",
+   "published": "2026-11-04T17:22:32Z",
+   "teaser": "Der Hamburger SV steht am Freitagabend gegen Mönchengladbach vor einem richtungsweisenden Heimspiel. Die letzten Partien haben gezeigt, dass der Vorjahres-Aufsteiger dringend wieder Qualitätszuwachs aus den eigenen Reihen benötigt, um für …",
+   "clubs": [
+    87,
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/swr/swr-hoffnungstraeger-nach-seuchenjahr-mainz-05-und-der-neue-anthony-caci-100.html",
    "title": "Mainz 05 und der \"neue\" Anthony Caci erwarten die Bayern",
@@ -2527,16 +2540,6 @@
     40,
     7
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kovac-lobt-kane-richtig-grossen-sprung-gemacht-1266529/video",
-   "title": "Kovac lobt Kane: \"Richtig großen Sprung gemacht\"",
-   "link": "https://www.kicker.de/kovac-lobt-kane-richtig-grossen-sprung-gemacht-1266529/video",
-   "source": "kicker",
-   "published": "2026-10-29T12:22:41Z",
-   "teaser": "Niko Kovac schwärmt vor dem Klassiker in München von Harry Kane. Der Ballon-d'Or-Gewinner habe nochmals einen Sprung gemacht und könne nur im Kollektiv gestoppt werden.",
-   "clubs": [],
    "transfer": false
   }
  ]
