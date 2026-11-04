@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T15:25:32Z",
+ "updated": "2026-11-04T16:27:41Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,46 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/swr/swr-hoffnungstraeger-nach-seuchenjahr-mainz-05-und-der-neue-anthony-caci-100.html",
+   "title": "Mainz 05 und der \"neue\" Anthony Caci erwarten die Bayern",
+   "link": "https://www.sportschau.de/regional/swr/swr-hoffnungstraeger-nach-seuchenjahr-mainz-05-und-der-neue-anthony-caci-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-04T16:22:28Z",
+   "teaser": "Bundesligist Mainz 05 durchlebt derzeit eine kleine Schwächephase. Anthony Caci hingegen zählt bei den Rheinhessen zu den Hoffnungsträgern. Ausgerechnet jetzt kommt der FC Bayern.",
+   "clubs": [
+    40,
+    81
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/der-mann-wird-ja-auch-alt-freude-auf-den-goetze-gipfel-in-paderborn-1268509/artikel",
+   "title": "\"Der Mann wird ja auch alt ...\": Freude auf den \"Götze-Gipfel\" in Paderborn",
+   "link": "https://www.kicker.de/der-mann-wird-ja-auch-alt-freude-auf-den-goetze-gipfel-in-paderborn-1268509/artikel",
+   "source": "kicker",
+   "published": "2026-11-04T15:44:33Z",
+   "teaser": "Beide schafften es in die Bundesliga, einer wurde sogar Weltmeister. Zum direkten Aufeinandertreffen der Brüder Mario und Felix Götze kam allerdings erst zweimal. Am Samstag gibt es beim Frankfurter Gastspiel in Paderborn die Gelegenheit …",
+   "clubs": [
+    91,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/friedrich-der-erste-schritt-in-richtung-eigener-anspruch-1268538/artikel",
+   "title": "Friedrich: Der erste Schritt in Richtung eigener Anspruch",
+   "link": "https://www.kicker.de/friedrich-der-erste-schritt-in-richtung-eigener-anspruch-1268538/artikel",
+   "source": "kicker",
+   "published": "2026-11-04T15:30:00Z",
+   "teaser": "Beim jüngsten 1:1 gegen Köln feierte Marvin Friedrich sein Comeback für Union Berlin. Der Rückkehrer aus Mönchengladbach muss aber um seinen Platz kämpfen.",
+   "clubs": [
+    87,
+    80,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/maskenmann-el-faouzi-voller-vorfreude-auf-mehr-offensivdrang-1268549/video",
    "title": "Maskenmann El-Faouzi voller Vorfreude auf \"mehr Offensivdrang\"",
@@ -39,6 +79,21 @@
     65
    ],
    "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-vor-wegweisenden-wochen-100.html",
+   "title": "Eintracht Frankfurt vor wegweisenden Wochen",
+   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-vor-wegweisenden-wochen-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-04T13:39:40Z",
+   "teaser": "Eintracht Frankfurt will an die Spiele gegen den Hamburger SV anknüpfen und mit Siegen gegen Paderborn und Hoffenheim oben andocken. Und auch zwischendrin, in der Länderspielpause, wird es interessant.",
+   "clubs": [
+    91,
+    175,
+    100,
+    31
+   ],
+   "transfer": false
   },
   {
    "id": "https://www.kicker.de/schmied-man-kann-mit-einem-breiteren-laecheln-aufstehen-1268516/video",
@@ -95,6 +150,18 @@
    "teaser": "Innenverteidiger Amos Pieper steht für Werders stabile Bremer Defensive. Während Niclas Füllkrug vorne trifft, überzeugt Pieper hinten mit Top-Zweikampfwerten und wachsender Konstanz.",
    "clubs": [
     134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-kann-edin-dzeko-die-schalker-hoffnungen-noch-erfuellen-100.html",
+   "title": "Kann Edin Dzeko die Schalker Hoffnungen noch erfüllen?",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-kann-edin-dzeko-die-schalker-hoffnungen-noch-erfuellen-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-03T19:13:00Z",
+   "teaser": "Edin Dzeko und Schalke 04: Eine Liaison wie im Märchen - eigentlich. Aber ist der 40-Jährige über seinem sportlichen Zenit?",
+   "clubs": [
+    9
    ],
    "transfer": false
   },
@@ -2470,68 +2537,6 @@
    "published": "2026-10-29T12:22:41Z",
    "teaser": "Niko Kovac schwärmt vor dem Klassiker in München von Harry Kane. Der Ballon-d'Or-Gewinner habe nochmals einen Sprung gemacht und könne nur im Kollektiv gestoppt werden.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/swr/swr-vfb-stuermer-dzenan-pejcinovic-und-der-25-millionen-euro-rucksack-100.html",
-   "title": "VfB-Stürmer Dzenan Pejcinovic und der 25-Millionen-Euro-Rucksack",
-   "link": "https://www.sportschau.de/regional/swr/swr-vfb-stuermer-dzenan-pejcinovic-und-der-25-millionen-euro-rucksack-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-29T12:12:49Z",
-   "teaser": "Dzenan Pejcinovic kam im Sommer als 25 Millionen Euro schwere Zukunftshoffnung zum VfB Stuttgart. Bislang gab er eine weitgehend unglückliche Figur ab. Es wirkt, als ob sich der Youngster zu viel Druck macht.",
-   "clubs": [
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kovac-endlich-mal-ein-spannendes-aufeinandertreffen-1266522/video",
-   "title": "Kovac: \"Endlich mal ein spannendes Aufeinandertreffen\"",
-   "link": "https://www.kicker.de/kovac-endlich-mal-ein-spannendes-aufeinandertreffen-1266522/video",
-   "source": "kicker",
-   "published": "2026-10-29T12:08:27Z",
-   "teaser": "Es ist das absolute Topspiel des achten Bundesligaspieltags, der Zweite gastiert beim Ersten: Bayern München empfängt Borussia Dortmund. BVB-Trainer Niko Kovac erklärt den Stellenwert dieser \"spannenden\" Partie.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/chatzialexiou-und-frankfurt-die-anzeichen-verdichten-sich-1266503/artikel",
-   "title": "Chatzialexiou und Frankfurt: Die Anzeichen verdichten sich",
-   "link": "https://www.kicker.de/chatzialexiou-und-frankfurt-die-anzeichen-verdichten-sich-1266503/artikel",
-   "source": "kicker",
-   "published": "2026-10-29T12:06:36Z",
-   "teaser": "Verlässt Joti Chatzialexiou Nürnberg in Richtung Frankfurt? Die Anzeichen verdichten sich - und womöglich gibt es gar nicht mehr allzu viel zu verhandeln.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/das-bundesliga-quiz-zum-8-spieltag-1266506/artikel",
-   "title": "Das Bundesliga-Quiz zum 8. Spieltag",
-   "link": "https://www.kicker.de/das-bundesliga-quiz-zum-8-spieltag-1266506/artikel",
-   "source": "kicker",
-   "published": "2026-10-29T12:03:49Z",
-   "teaser": "Das Wochenende steht ganz im Zeichen des Bundesliga-Schlagerspiels zwischen dem FC Bayern und Borussia Dortmund, die aktuell punktgleich sind. Wie gut bist du auf den 8. Spieltag vorbereitet?",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/schubser-gegen-eigenen-mannschaftsarzt-schalke-will-mit-hwang-sprechen-1266452/artikel",
-   "title": "Schubser gegen eigenen Mannschaftsarzt: Schalke will mit Hwang sprechen",
-   "link": "https://www.kicker.de/schubser-gegen-eigenen-mannschaftsarzt-schalke-will-mit-hwang-sprechen-1266452/artikel",
-   "source": "kicker",
-   "published": "2026-10-29T11:11:54Z",
-   "teaser": "Hee Chan Hwang versteckte im Gastspiel bei Dynamo Dresden seinen Ärger über einen ausbleibenden Pfiff nicht - im Gegenteil. Aus Sicht von Miron Muslic schlug er sogar über die Stränge.",
-   "clubs": [
-    9
-   ],
    "transfer": false
   }
  ]
