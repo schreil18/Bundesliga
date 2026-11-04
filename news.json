@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:34:57Z",
+ "updated": "2026-11-04T20:26:27Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,20 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/das-bundesliga-quiz-zum-9-spieltag-1268596/artikel",
+   "title": "Das Bundesliga-Quiz zum 9. Spieltag",
+   "link": "https://www.kicker.de/das-bundesliga-quiz-zum-9-spieltag-1268596/artikel",
+   "source": "kicker",
+   "published": "2026-11-04T20:15:38Z",
+   "teaser": "Rheinisches Nachbarschaftsduell, die Bayern in Mainz und prägende Erinnerungen auch auf Schalke sowie in Berlin-Köpenick. Wie gut bist du auf den 9. Spieltag vorbereitet?",
+   "clubs": [
+    40,
+    81,
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/das-ist-die-viel-zu-lange-schalker-maengelliste-1268593/artikel",
    "title": "Das ist die viel zu lange Schalker Mängelliste",
@@ -2526,18 +2540,6 @@
    "clubs": [
     6,
     16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fraktur-des-wadenbeins-naechster-schwerer-rueckschlag-fuer-hoffenheims-gendrey-1266533/artikel",
-   "title": "Fraktur des Wadenbeins: Nächster schwerer Rückschlag für Hoffenheims Gendrey",
-   "link": "https://www.kicker.de/fraktur-des-wadenbeins-naechster-schwerer-rueckschlag-fuer-hoffenheims-gendrey-1266533/artikel",
-   "source": "kicker",
-   "published": "2026-10-29T13:06:27Z",
-   "teaser": "Seit Donnerstag herrscht bittere Gewissheit für die TSG Hoffenheim: Valentin Gendrey hat sich beim Pokal-Aus in Kiel das Wadenbein gebrochen und fällt lange aus. Es ist die vierte schwere Verletzung des Franzosen in seinen knapp zwei …",
-   "clubs": [
-    175
    ],
    "transfer": false
   }
