@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T10:41:43Z",
+ "updated": "2026-11-04T11:56:52Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/angekommen-in-den-top-5-der-liga-pieper-als-teil-des-werder-aufschwungs-1268428/artikel",
+   "title": "Angekommen in den Top 5 der Liga: Pieper als Teil des Werder-Aufschwungs",
+   "link": "https://www.kicker.de/angekommen-in-den-top-5-der-liga-pieper-als-teil-des-werder-aufschwungs-1268428/artikel",
+   "source": "kicker",
+   "published": "2026-11-04T11:28:11Z",
+   "teaser": "Innenverteidiger Amos Pieper steht für Werders stabile Bremer Defensive. Während Niclas Füllkrug vorne trifft, überzeugt Pieper hinten mit Top-Zweikampfwerten und wachsender Konstanz.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/rb/rb-werders-leistungstraeger-weiser-erneut-verletzt-102.html",
    "title": "Werders Leistungsträger Mitchell Weiser erneut verletzt",
@@ -273,7 +285,7 @@
   },
   {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "RWE kündigt Koschinat-Verhandlungen an - Deutscher Trainer muss in Den Haag gehen",
+   "title": "Fürstliche Entschädigung: Fonseca verlässt Lyon - RWE kündigt Koschinat-Verhandlungen an",
    "link": "https://www.kicker.de/transferticker-953155/artikel",
    "source": "kicker",
    "published": "2026-11-02T09:04:48Z",
@@ -2514,16 +2526,6 @@
    "id": "https://www.kicker.de/kein-kroesche-nachfolger-spycher-bleibt-aus-privaten-gruenden-bei-young-boys-1266219/artikel",
    "title": "Kein Krösche-Nachfolger: Spycher bleibt aus privaten Gründen bei Young Boys",
    "link": "https://www.kicker.de/kein-kroesche-nachfolger-spycher-bleibt-aus-privaten-gruenden-bei-young-boys-1266219/artikel",
-   "source": "kicker",
-   "published": "2026-10-28T20:32:57Z",
-   "teaser": "Am Mittwoch sickerte durch, dass der frühere Eintracht-Kapitän Christoph Spycher nicht in neuer Funktion als Sportvorstand an den Main zurückkehren wird. Warum? Das wird der Sportchef des BSC Young Boys zeitnah öffentlich mitteilen.",
-   "clubs": [],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/kein-kroesche-nachfolger-spycher-bleibt-aus-privaten-gruenden-bei-den-young-boys-1266219/artikel",
-   "title": "Kein Krösche-Nachfolger: Spycher bleibt aus privaten Gründen bei den Young Boys",
-   "link": "https://www.kicker.de/kein-kroesche-nachfolger-spycher-bleibt-aus-privaten-gruenden-bei-den-young-boys-1266219/artikel",
    "source": "kicker",
    "published": "2026-10-28T20:32:57Z",
    "teaser": "Am Mittwoch sickerte durch, dass der frühere Eintracht-Kapitän Christoph Spycher nicht in neuer Funktion als Sportvorstand an den Main zurückkehren wird. Warum? Das wird der Sportchef des BSC Young Boys zeitnah öffentlich mitteilen.",
