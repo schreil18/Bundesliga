@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T13:01:43Z",
+ "updated": "2026-11-04T14:17:55Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,8 +16,32 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/schmied-man-kann-mit-einem-breiteren-laecheln-aufstehen-1268516/video",
+   "title": "Schmied: \"Man kann mit einem breiteren Lächeln aufstehen\"",
+   "link": "https://www.kicker.de/schmied-man-kann-mit-einem-breiteren-laecheln-aufstehen-1268516/video",
+   "source": "kicker",
+   "published": "2026-11-04T13:27:30Z",
+   "teaser": "Zuletzt kehrte Joel Schmied immer öfter in die Kölner Innenverteidigung zurück. Dass es bei ihm sportlich wieder besser läuft, hinterlässt auch beim Schweizer selbst Spuren.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/vorne-muss-auch-einer-treffen-wie-koeln-im-herbst-erfolgreich-sein-will-1268513/video",
+   "title": "\"Vorne muss auch einer treffen\": Wie Köln im Herbst erfolgreich sein will",
+   "link": "https://www.kicker.de/vorne-muss-auch-einer-treffen-wie-koeln-im-herbst-erfolgreich-sein-will-1268513/video",
+   "source": "kicker",
+   "published": "2026-11-04T13:20:38Z",
+   "teaser": "Äußerst unterschiedliche Ergebnisse haben zuletzt die Frage aufgeworfen, wo der 1. FC Köln in dieser Saison steht. Läuft es eher gut oder eher schlecht? kicker-Reporter Jim Decker berichtet vom Geißbockheim aus Köln und hat sich dabei auch …",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Maza spricht über PSG - Fürstliche Entschädigung: Fonseca verlässt Lyon",
+   "title": "Maza spricht über PSG - Toptalent Gabriel vor Wechsel zu Real",
    "link": "https://www.kicker.de/transferticker-953155/artikel",
    "source": "kicker",
    "published": "2026-11-04T12:44:56Z",
@@ -2507,30 +2531,6 @@
    "clubs": [
     91,
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/problemloeser-keitel-wird-gegen-den-ex-klub-wichtig-1266122/artikel",
-   "title": "Problemlöser Keitel wird gegen den Ex-Klub wichtig",
-   "link": "https://www.kicker.de/problemloeser-keitel-wird-gegen-den-ex-klub-wichtig-1266122/artikel",
-   "source": "kicker",
-   "published": "2026-10-29T06:57:59Z",
-   "teaser": "Auf diese Chance hat Yannik Keitel in dieser Saison warten müssen: Ausgerechnet gegen seinen Ex-Klub SC Freiburg soll der 26-Jährige die Defensive organisieren und für den ersten Dreier seit dem 2. Spieltag sorgen.",
-   "clubs": [
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bischof-habe-kennengelernt-was-bayern-bedeutet-1266283/artikel",
-   "title": "Bischof: \"Habe kennengelernt, was Bayern bedeutet\"",
-   "link": "https://www.kicker.de/bischof-habe-kennengelernt-was-bayern-bedeutet-1266283/artikel",
-   "source": "kicker",
-   "published": "2026-10-28T23:47:15Z",
-   "teaser": "Der FC Bayern hat turbulente Tage hinter sich. Nach dem 6:1-Erfolg in der 2. Pokalrunde über den 1. FC Magdeburg hat sich unter anderem Tom Bischof zu den vergangenen Tagen geäußert.",
-   "clubs": [
-    40
    ],
    "transfer": false
   }
