@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T14:17:55Z",
+ "updated": "2026-11-04T15:25:32Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/maskenmann-el-faouzi-voller-vorfreude-auf-mehr-offensivdrang-1268549/video",
+   "title": "Maskenmann El-Faouzi voller Vorfreude auf \"mehr Offensivdrang\"",
+   "link": "https://www.kicker.de/maskenmann-el-faouzi-voller-vorfreude-auf-mehr-offensivdrang-1268549/video",
+   "source": "kicker",
+   "published": "2026-11-04T15:02:45Z",
+   "teaser": "Soufiane El-Faouzi ist mit einer Maske zurück im Schalker Training. Die Umstellung im Spielsystem von Königsblau begrüßt er, wie kicker-Reporter Toni Lieto aus Gelsenkirchen berichtet.",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/trotz-trainingsrueckkehr-kofane-bade-und-ben-seghir-werden-bayers-not-kaum-lindern-1268439/artikel",
+   "title": "Trotz Trainingsrückkehr: Kofane, Badé und Ben Seghir werden Bayers Not kaum lindern",
+   "link": "https://www.kicker.de/trotz-trainingsrueckkehr-kofane-bade-und-ben-seghir-werden-bayers-not-kaum-lindern-1268439/artikel",
+   "source": "kicker",
+   "published": "2026-11-04T14:19:00Z",
+   "teaser": "Bei der 2:4-Niederlage gegen Stuttgart umfasste Bayers Ausfallliste acht Profis. Am Mittwoch standen drei davon beim Abschlusstraining vor dem Marseille-Spiel auf dem Platz. Doch selbst am Sonntag beim Derby in Köln werden Christian …",
+   "clubs": [
+    16,
+    65
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/schmied-man-kann-mit-einem-breiteren-laecheln-aufstehen-1268516/video",
    "title": "Schmied: \"Man kann mit einem breiteren Lächeln aufstehen\"",
@@ -2506,31 +2531,6 @@
    "teaser": "Hee Chan Hwang versteckte im Gastspiel bei Dynamo Dresden seinen Ärger über einen ausbleibenden Pfiff nicht - im Gegenteil. Aus Sicht von Miron Muslic schlug er sogar über die Stränge.",
    "clubs": [
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/sge-kandidat-spycher-verlaesst-bern-aber-erst-im-sommer-2027-1266446/artikel",
-   "title": "SGE-Kandidat Spycher verlässt Bern - aber erst im Sommer 2027",
-   "link": "https://www.kicker.de/sge-kandidat-spycher-verlaesst-bern-aber-erst-im-sommer-2027-1266446/artikel",
-   "source": "kicker",
-   "published": "2026-10-29T10:53:18Z",
-   "teaser": "Dass Christoph Spcher nicht als Nachfolger von Sportvorstand Markus Krösche zu Eintracht Frankfurt zurückkehren wird, hatte sich bereits abgezeichnet. Nun verkündete der Schweizer zwar seinen Abschied vom BSC Young Boys, allerdings erst im …",
-   "clubs": [
-    91
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/vom-bankdruecker-zum-hoffnungstraeger-chukwuemeka-deutet-seine-faehigkeiten-an-1266117/artikel",
-   "title": "Vom Bankdrücker zum Hoffnungsträger: Chukwuemeka deutet seine Fähigkeiten an",
-   "link": "https://www.kicker.de/vom-bankdruecker-zum-hoffnungstraeger-chukwuemeka-deutet-seine-faehigkeiten-an-1266117/artikel",
-   "source": "kicker",
-   "published": "2026-10-29T07:00:05Z",
-   "teaser": "Carney Chukwuemeka musste in der ersten Phase der Saison häufig von außen zuschauen. Vor einer Woche änderte sich sein Status jedoch. Nach ansprechenden Leistungen in Baku und gegen Frankfurt blitzten gegen Werder mehrmals seine …",
-   "clubs": [
-    91,
-    134
    ],
    "transfer": false
   }
