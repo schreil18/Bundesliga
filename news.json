@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T18:26:05Z",
+ "updated": "2026-11-04T19:34:57Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/das-ist-die-viel-zu-lange-schalker-maengelliste-1268593/artikel",
+   "title": "Das ist die viel zu lange Schalker Mängelliste",
+   "link": "https://www.kicker.de/das-ist-die-viel-zu-lange-schalker-maengelliste-1268593/artikel",
+   "source": "kicker",
+   "published": "2026-11-04T19:33:00Z",
+   "teaser": "Das offensichtlichste Problem liegt im Angriff: Mit nur vier Treffern stellt Schalke 04 aktuell das harmloseste Team der Liga. Es gibt jedoch zahlreiche weitere Mängel, die eher im Detail liegen. Der kicker nennt die Gravierendsten.",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/die-hsv-suche-nach-saeulen-bornauw-steht-wieder-1268586/artikel",
    "title": "Die HSV-Suche nach Säulen: Bornauw steht wieder",
@@ -2526,19 +2538,6 @@
    "teaser": "Seit Donnerstag herrscht bittere Gewissheit für die TSG Hoffenheim: Valentin Gendrey hat sich beim Pokal-Aus in Kiel das Wadenbein gebrochen und fällt lange aus. Es ist die vierte schwere Verletzung des Franzosen in seinen knapp zwei …",
    "clubs": [
     175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bvb-nah-dran-an-bayern-karetsas-entscheidung-am-freitag-1266524/artikel",
-   "title": "BVB \"nah dran\" an Bayern - Karetsas-Entscheidung am Freitag",
-   "link": "https://www.kicker.de/bvb-nah-dran-an-bayern-karetsas-entscheidung-am-freitag-1266524/artikel",
-   "source": "kicker",
-   "published": "2026-10-29T12:52:12Z",
-   "teaser": "Borussia Dortmund will am Samstagabend in München die Tabellenspitze erobern. Ob Konstantinos Karetsas bei diesem Unterfangen eine Rolle spielen kann, entscheidet sich am Freitag.",
-   "clubs": [
-    40,
-    7
    ],
    "transfer": false
   }
