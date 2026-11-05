@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T08:37:59Z",
+ "updated": "2026-11-05T10:01:49Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,52 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-blessin-sucht-die-richtige-dosis-fuer-mohya-100.html",
+   "title": "Blessin sucht die richtige Dosis für Mohya",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-blessin-sucht-die-richtige-dosis-fuer-mohya-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-05T09:50:07Z",
+   "teaser": "Mit 17 Jahren ist Wael Mohya der Hoffnungsträger in Mönchengladbach. Doch Trainer Alexander Blessin will ihn nicht überfordern.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/war-das-kanes-schoenstes-tor-fuer-bayern-1268814/video",
+   "title": "War das Kanes schönstes Tor für Bayern?",
+   "link": "https://www.kicker.de/war-das-kanes-schoenstes-tor-fuer-bayern-1268814/video",
+   "source": "kicker",
+   "published": "2026-11-05T09:36:14Z",
+   "teaser": "Harry Kane hat seinen Vertrag beim FC Bayern bis 2029 verlängert. Die Bundesliga kann sich also noch weitere Jahre auf Traumtore wie das gegen Darmstadt freuen.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bundesliga-spieltage-12-bis-18-angesetzt-mit-revierderby-und-zwei-free-tv-spielen-1267778/artikel",
+   "title": "Bundesliga-Spieltage 12 bis 18 angesetzt - mit Revierderby und zwei Free-TV-Spielen",
+   "link": "https://www.kicker.de/bundesliga-spieltage-12-bis-18-angesetzt-mit-revierderby-und-zwei-free-tv-spielen-1267778/artikel",
+   "source": "kicker",
+   "published": "2026-11-05T09:14:29Z",
+   "teaser": "Nach der Auslosung der DFB-Pokal-Achtelfinalspiele sind die nächsten Bundesliga-Spieltage zeitgenau terminiert worden. Dies betrifft die Runden 12 bis 18 - und damit auch die Rückkehr des Revierderbys.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-der-rekordmann-bleibt-harry-kane-verlaengert-beim-fc-bayern-102.html",
+   "title": "Bis 2029: Harry Kane verlängert beim FC Bayern",
+   "link": "https://www.sportschau.de/regional/br/br-der-rekordmann-bleibt-harry-kane-verlaengert-beim-fc-bayern-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-05T08:42:24Z",
+   "teaser": "Harry Kane verlängert seinen Vertrag beim FC Bayern um zwei Jahre bis 2029. Das hat der deutsche Rekordmeister heute bekannt gegeben. Damit geht die Rekordjagd des Engländers in München weiter.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/die-vertragslaufzeiten-der-bayern-profis-754838/slideshow",
    "title": "Die Vertragslaufzeiten der Bayern-Profis",
@@ -2487,58 +2533,6 @@
    "teaser": "Bis bei Eintracht Frankfurt die Suche nach einem neuen Sportvorstand abgeschlossen ist, rücken Timmo Hardung und der langjährige Kapitän Sebastian Rode verstärkt in den Fokus.",
    "clubs": [
     91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/blessin-warnt-wenn-wir-es-zu-schnell-spielerisch-loesen-wollen-1266624/video",
-   "title": "Blessin warnt: \"Wenn wir es zu schnell spielerisch lösen wollen\"",
-   "link": "https://www.kicker.de/blessin-warnt-wenn-wir-es-zu-schnell-spielerisch-loesen-wollen-1266624/video",
-   "source": "kicker",
-   "published": "2026-10-29T15:57:32Z",
-   "teaser": "Gladbach-Trainer Alexander Blessin spricht auf der Pressekonferenz vor dem Spiel gegen Paderborn über das Spielerische in Gladbachs Fußball und den Youngster Wael Mohya.",
-   "clubs": [
-    87,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/topspiel-auf-augenhoehe-damit-tue-ich-mich-schwer-1266599/video",
-   "title": "Topspiel auf Augenhöhe? \"Damit tue ich mich schwer\"",
-   "link": "https://www.kicker.de/topspiel-auf-augenhoehe-damit-tue-ich-mich-schwer-1266599/video",
-   "source": "kicker",
-   "published": "2026-10-29T15:11:07Z",
-   "teaser": "In unserer Vorschau auf den Klassiker zwischen dem FC Bayern und Borussia Dortmund besprechen wir mit Ex-Profi Thomas Helmer die Frage: Hat der BVB am Samstagabend in München eine Chance? Spoiler: Der ehemalige Bayern- und Dortmund-Akteur …",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ein-duell-auf-augenhoehe-die-show-zum-topspiel-fcb-vs-bvb-1266599/video",
-   "title": "Ein Duell auf Augenhöhe? Die Show zum Topspiel FCB vs. BVB",
-   "link": "https://www.kicker.de/ein-duell-auf-augenhoehe-die-show-zum-topspiel-fcb-vs-bvb-1266599/video",
-   "source": "kicker",
-   "published": "2026-10-29T15:11:07Z",
-   "teaser": "In unserer Vorschau auf den Klassiker zwischen dem FC Bayern und Borussia Dortmund besprechen wir mit Ex-Profi Thomas Helmer die Frage: Hat der BVB am Samstagabend in München eine Chance? Spoiler: Der ehemalige Bayern- und Dortmund-Akteur …",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-gegen-dortmund-mehr-topspiel-geht-nicht,vorschau-bundesliga-bayern-muenchen-borussia-dortmund-100.html",
-   "title": "TV, Stream, Aufstellung: Alle Infos zu Bayern gegen Dortmund",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-gegen-dortmund-mehr-topspiel-geht-nicht,vorschau-bundesliga-bayern-muenchen-borussia-dortmund-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-29T14:59:18Z",
-   "teaser": "Der FC Bayern München erwartet Borussia Dortmund am Samstag zum Bundesliga-Spitzenspiel. Alles, was man dazu wissen muss.",
-   "clubs": [
-    40,
-    7
    ],
    "transfer": false
   }
