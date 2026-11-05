@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T15:29:42Z",
+ "updated": "2026-11-05T16:38:15Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,67 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wer-in-england-besonders-ueber-kanes-unterschrift-jubelte-1268961/artikel",
+   "title": "Wer in England besonders über Kanes Unterschrift jubelte",
+   "link": "https://www.kicker.de/wer-in-england-besonders-ueber-kanes-unterschrift-jubelte-1268961/artikel",
+   "source": "kicker",
+   "published": "2026-11-05T16:06:30Z",
+   "teaser": "Harry Kane hat mit dem FC Bayern noch Großes vor - und opfert dafür wahrscheinlich den Premier-League-Torrekord. Das sorgte am Donnerstag für einen zufriedenen Lacher in England.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/kommt-mohyas-dfb-nominierung-zu-frueh,bundesliga-update-wael-mohya-100.html",
+   "title": "Bundesliga Update: Kommt Wael Mohyas DFB-Nominierung zu früh?",
+   "link": "https://www.sportschau.de/kommt-mohyas-dfb-nominierung-zu-frueh,bundesliga-update-wael-mohya-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-05T15:54:02Z",
+   "teaser": "Gladbachs Juwel Wael Mohya steht erstmals im Kader der deutschen A-Nationalmannschaft. Die Erwartungen an den 17-Jährigen werden dadurch nicht geringer. Kommt die Nominierung zu früh?",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bvb-fan-wagner-vor-dem-highlight-spiel-wird-der-neue-naehe-rekord-1268954/video",
+   "title": "BVB-Fan Wagner vor dem Highlight-Spiel: \"Wird der neue Nähe-Rekord\"",
+   "link": "https://www.kicker.de/bvb-fan-wagner-vor-dem-highlight-spiel-wird-der-neue-naehe-rekord-1268954/video",
+   "source": "kicker",
+   "published": "2026-11-05T15:36:18Z",
+   "teaser": "So nah wie noch nie in seinem Leben wird Vincent Wagner am Wochenende dem heiligen Rasen im Stadion seines Lieblingsvereins Borussia Dortmund kommen. Mit seiner SV Elversberg will er seinem Herzensklub diesmal aber wehtun.",
+   "clubs": [
+    7,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/huetter-von-ebnoutalib-beeindruckt-ueberrascht-von-der-entwicklung-1268946/video",
+   "title": "Hütter von Ebnoutalib beeindruckt: \"Überrascht von der Entwicklung\"",
+   "link": "https://www.kicker.de/huetter-von-ebnoutalib-beeindruckt-ueberrascht-von-der-entwicklung-1268946/video",
+   "source": "kicker",
+   "published": "2026-11-05T15:10:34Z",
+   "teaser": "Younes Ebnoutalib hat in dieser Spielzeit eine beeindruckende Entwicklung im Eintracht-Trikot hingelegt. Ob er damit nicht nur beim DFB, sondern auch bei der SGE Platzhirsch Jonathan Burkardt den Rang abgelaufen hat, ließ Coach Adi Hütter …",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bremst-huetter-den-ilicevic-hype-macht-doch-einfach-nur-freude-1268945/video",
+   "title": "Bremst Hütter den Ilicevic-Hype? \"Macht doch einfach nur Freude\"",
+   "link": "https://www.kicker.de/bremst-huetter-den-ilicevic-hype-macht-doch-einfach-nur-freude-1268945/video",
+   "source": "kicker",
+   "published": "2026-11-05T15:09:38Z",
+   "teaser": "Gegen den HSV debütierte Niko Ilicevic bei den Eintracht-Profis und wurde zum geteilten jüngsten Spieler der Bundesliga-Geschichte. Zwar könnte es in Zukunft auch zu Einsätzen in der U 21 kommen, zunächst soll er aber erst einmal bei den …",
+   "clubs": [
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/hoeness-schwaermt-von-fuellkrug-positive-erscheinung-in-der-bundesliga-1268928/video",
    "title": "Hoeneß schwärmt von Füllkrug: \"Positive Erscheinung in der Bundesliga\"",
@@ -2474,63 +2535,6 @@
    "clubs": [
     9
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/option-fuer-die-startelf-gendreys-pech-ist-abrahas-chance-1266777/artikel",
-   "title": "\"Option für die Startelf\": Gendreys Pech ist Abrahas Chance",
-   "link": "https://www.kicker.de/option-fuer-die-startelf-gendreys-pech-ist-abrahas-chance-1266777/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T12:29:24Z",
-   "teaser": "Bereits am heutigen Freitag wird Hoffenheims Valentin Gendrey nach seinem Wadenbeinbruch operiert. Sein Ausfall eröffnet Talent Natnael Abraha (18) die Chancen auf einen unverhofften Karrieresprung.",
-   "clubs": [
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wer-uebertraegt-fc-bayern-muenchen-gegen-den-bvb-live-im-tv-und-stream-1266088/artikel",
-   "title": "Wer überträgt FC Bayern München gegen den BVB live im TV und Stream?",
-   "link": "https://www.kicker.de/wer-uebertraegt-fc-bayern-muenchen-gegen-den-bvb-live-im-tv-und-stream-1266088/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T12:07:42Z",
-   "teaser": "Der FC Bayern München und Borussia Dortmund duellieren sich am 8. Spieltag um die Tabellenspitze. Wo ihr die Partie live verfolgen könnt, erfahrt ihr hier.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/erstmals-seit-neun-jahren-schalker-verbindlichkeiten-sinken-unter-100-millionen-euro-1266791/artikel",
-   "title": "Erstmals seit neun Jahren: Schalker Verbindlichkeiten sinken unter 100 Millionen Euro",
-   "link": "https://www.kicker.de/erstmals-seit-neun-jahren-schalker-verbindlichkeiten-sinken-unter-100-millionen-euro-1266791/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T11:40:24Z",
-   "teaser": "Der FC Schalke 04 zieht finanzielle Bilanz - und hat seine Situation leicht stabilisiert. Neben einem Erfolg bei den Nettofinanzverbindlichkeiten vermelden die Knappen gestiegene Umsätze in Vermarktung und Merchandising.",
-   "clubs": [
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wann-geht-es-wo-wieder-los-der-rahmenterminkalender-fuer-die-saison-2027-28-928963/artikel",
-   "title": "Wann geht es wo wieder los? Der Rahmenterminkalender für die Saison 2027/28",
-   "link": "https://www.kicker.de/wann-geht-es-wo-wieder-los-der-rahmenterminkalender-fuer-die-saison-2027-28-928963/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T11:28:24Z",
-   "teaser": "Die Saison 2027/28 wartet noch in der Ferne, doch seit Freitag steht der Rahmenterminkalender fest. Bundesliga, 2. Liga, Champions League & Co. - ein Überblick über die wichtigsten Eckdaten.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/501-fanszenen-stellen-forderungen,50-plus-1-proteste-forderungen-fanszenen-leverkusen-wolfsburg-leipzig-100.html",
-   "title": "50+1 - Fanszenen stellen Forderungen an die Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/501-fanszenen-stellen-forderungen,50-plus-1-proteste-forderungen-fanszenen-leverkusen-wolfsburg-leipzig-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-30T11:00:00Z",
-   "teaser": "Das Bündnis \"Fanszenen Deutschlands\" hat für die Neuregelung von 50+1 eine konsequente Beendigung der Ausnahmen gefordert.",
-   "clubs": [],
    "transfer": false
   }
  ]
