@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T11:57:45Z",
+ "updated": "2026-11-05T13:08:06Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,12 +16,71 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/dreesen-ueber-kane-wer-weiss-was-dann-in-2029-ist-1268840/artikel",
+   "title": "Dreesen über Kane: \"Wer weiß, was dann in 2029 ist …\"",
+   "link": "https://www.kicker.de/dreesen-ueber-kane-wer-weiss-was-dann-in-2029-ist-1268840/artikel",
+   "source": "kicker",
+   "published": "2026-11-05T12:54:09Z",
+   "teaser": "Harry Kane hat seinen Vertrag beim FC Bayern verlängert und noch viel vor. Am Donnerstag erklärte sich der Top-Stürmer in München.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wusste-dass-diese-frage-kommt-kane-scherzt-ueber-eigene-deutschkenntnisse-1268900/video",
+   "title": "\"Wusste, dass diese Frage kommt\": Kane scherzt über eigene Deutschkenntnisse",
+   "link": "https://www.kicker.de/wusste-dass-diese-frage-kommt-kane-scherzt-ueber-eigene-deutschkenntnisse-1268900/video",
+   "source": "kicker",
+   "published": "2026-11-05T12:53:47Z",
+   "teaser": "Angesprochen auf den aktuellen Stand seiner Deutschkenntnisse konnte sich Harry Kane ein Grinsen nicht verkneifen. Er gelobte, in den nächsten drei Jahren mehr draufzupacken als in den vergangenen.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-massives-ausrufezeichen-harry-kane-verlaengert-beim-fc-bayern-102.html",
+   "title": "Bis 2029: Harry Kane verlängert beim FC Bayern",
+   "link": "https://www.sportschau.de/regional/br/br-massives-ausrufezeichen-harry-kane-verlaengert-beim-fc-bayern-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-05T12:43:55Z",
+   "teaser": "Harry Kane verlängert seinen Vertrag beim FC Bayern um zwei Jahre bis 2029. Das hat der deutsche Rekordmeister heute bekanntgegeben. Damit geht die Rekordjagd des Engländers in München weiter.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/hoeness-erklaert-das-vfb-problem-am-beispiel-undav-1268820/artikel",
+   "title": "Hoeneß erklärt das VfB-Problem am Beispiel Undav",
+   "link": "https://www.kicker.de/hoeness-erklaert-das-vfb-problem-am-beispiel-undav-1268820/artikel",
+   "source": "kicker",
+   "published": "2026-11-05T11:58:05Z",
+   "teaser": "Die \"Mannschaft der Stunde\" kommt nach Stuttgart. Vor dem Duell mit Werder Bremen sprach Sebastian Hoeneß nicht nur über das Champions-League-Spiel in Istanbul, sondern auch über Deniz Undav.",
+   "clubs": [
+    16,
+    134
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/klopp-lobt-seinen-bayern-block-in-einer-wahnsinnig-schwierigen-phase-1268879/video",
    "title": "Klopp lobt seinen Bayern-Block in einer \"wahnsinnig schwierigen Phase\"",
    "link": "https://www.kicker.de/klopp-lobt-seinen-bayern-block-in-einer-wahnsinnig-schwierigen-phase-1268879/video",
    "source": "kicker",
    "published": "2026-11-05T11:41:12Z",
    "teaser": "Angesprochen auf die Nominierten des FC Bayern geriet Bundestrainer Jürgen Klopp ins Schwärmen. Er lobte den Umgang seiner Schützlinge mit der Verletztenmisere auf Klub-Ebene.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/klopp-schwaermt-von-superschlauen-bayern-1268879/video",
+   "title": "Klopp schwärmt von \"superschlauen\" Bayern",
+   "link": "https://www.kicker.de/klopp-schwaermt-von-superschlauen-bayern-1268879/video",
+   "source": "kicker",
+   "published": "2026-11-05T11:41:12Z",
+   "teaser": "Angesprochen auf die Nominierten vom FC Bayern geriet Bundestrainer Jürgen Klopp ins Schwärmen - nicht nur wegen der Leistung gegen Atletico Madrid.",
    "clubs": [
     40
    ],
@@ -84,18 +143,6 @@
    "teaser": "Nach der Auslosung der DFB-Pokal-Achtelfinalspiele sind die nächsten Bundesliga-Spieltage zeitgenau terminiert worden. Dies betrifft die Runden 12 bis 18 - und damit auch die Rückkehr des Revierderbys.",
    "clubs": [],
    "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-der-rekordmann-bleibt-harry-kane-verlaengert-beim-fc-bayern-102.html",
-   "title": "Bis 2029: Harry Kane verlängert beim FC Bayern",
-   "link": "https://www.sportschau.de/regional/br/br-der-rekordmann-bleibt-harry-kane-verlaengert-beim-fc-bayern-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-05T08:42:24Z",
-   "teaser": "Harry Kane verlängert seinen Vertrag beim FC Bayern um zwei Jahre bis 2029. Das hat der deutsche Rekordmeister heute bekannt gegeben. Damit geht die Rekordjagd des Engländers in München weiter.",
-   "clubs": [
-    40
-   ],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/die-vertragslaufzeiten-der-bayern-profis-754838/slideshow",
@@ -2480,56 +2527,6 @@
    "source": "kicker",
    "published": "2026-10-30T10:07:56Z",
    "teaser": "Trainer Vincent Kompany fehlt wie Kapitän Manuel Neuer auch gegen den BVB, Joshua Kimmich könnte dagegen zurückkehren. Kehrt beim Rekordmeister nach turbulenten Tagen damit ein Stück Normalität zurück?",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/muss-ein-bayern-trainer-deutsch-sprechen-danks-arbeite-hart-daran-1266762/video",
-   "title": "Muss ein Bayern-Trainer Deutsch sprechen? Danks: \"Arbeite hart daran\"",
-   "link": "https://www.kicker.de/muss-ein-bayern-trainer-deutsch-sprechen-danks-arbeite-hart-daran-1266762/video",
-   "source": "kicker",
-   "published": "2026-10-30T10:01:29Z",
-   "teaser": "Vor dem Klassiker gegen Dortmund wurde Bayerns Co-Trainer Aaron Danks auf seine Deutschkentnisse angesprochen. Er startete mit einer kleinen Kostprobe und erklärte dann seinen aktuellen Stand.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/eberl-zu-kimmich-unterstuetzung-wir-labern-das-nicht-nur-1266760/video",
-   "title": "Eberl zu Kimmich-Unterstützung: \"Wir labern das nicht nur\"",
-   "link": "https://www.kicker.de/eberl-zu-kimmich-unterstuetzung-wir-labern-das-nicht-nur-1266760/video",
-   "source": "kicker",
-   "published": "2026-10-30T09:57:04Z",
-   "teaser": "Max Eberl spricht auf der Pressekonferenz vor dem Spiel gegen Dortmund über Joshua Kimmich und die nötige Unterstützung, die der Kapitän vom Verein erhält.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/eberl-mit-emotionalen-worten-zu-kimmich-1266760/video",
-   "title": "Eberl mit emotionalen Worten zu Kimmich",
-   "link": "https://www.kicker.de/eberl-mit-emotionalen-worten-zu-kimmich-1266760/video",
-   "source": "kicker",
-   "published": "2026-10-30T09:57:04Z",
-   "teaser": "Max Eberl spricht auf der Pressekonferenz vor dem Spiel gegen Dortmund über Joshua Kimmich und die nötige Unterstützung, die der Kapitän vom Verein erhält.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kimmich-kehrt-wohl-zurueck-fuer-neuer-kommt-das-bvb-spiel-zu-frueh-1266728/artikel",
-   "title": "Kimmich kehrt wohl zurück - Für Neuer kommt das BVB-Spiel \"zu früh\"",
-   "link": "https://www.kicker.de/kimmich-kehrt-wohl-zurueck-fuer-neuer-kommt-das-bvb-spiel-zu-frueh-1266728/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T09:05:45Z",
-   "teaser": "Fürs Bundesliga-Schlagerspiel gegen Borussia Dortmund kann der FC Bayern wohl wieder auf Joshua Kimmich zurückgreifen. Manuel Neuer wird noch nicht wieder mitwirken können.",
    "clubs": [
     40,
     7
