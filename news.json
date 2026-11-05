@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T11:03:52Z",
+ "updated": "2026-11-05T11:57:45Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,18 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/klopp-lobt-seinen-bayern-block-in-einer-wahnsinnig-schwierigen-phase-1268879/video",
+   "title": "Klopp lobt seinen Bayern-Block in einer \"wahnsinnig schwierigen Phase\"",
+   "link": "https://www.kicker.de/klopp-lobt-seinen-bayern-block-in-einer-wahnsinnig-schwierigen-phase-1268879/video",
+   "source": "kicker",
+   "published": "2026-11-05T11:41:12Z",
+   "teaser": "Angesprochen auf die Nominierten des FC Bayern geriet Bundestrainer Jürgen Klopp ins Schwärmen. Er lobte den Umgang seiner Schützlinge mit der Verletztenmisere auf Klub-Ebene.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/bayern-macht-kane-zum-bestbezahlten-spieler-europas-zu-recht-1268834/artikel",
    "title": "Bayern macht Kane zum bestbezahlten Spieler Europas - zu Recht?",
    "link": "https://www.kicker.de/bayern-macht-kane-zum-bestbezahlten-spieler-europas-zu-recht-1268834/artikel",
@@ -31,6 +43,18 @@
    "id": "https://www.sportschau.de/regional/wdr/wdr-blessin-sucht-die-richtige-dosis-fuer-mohya-100.html",
    "title": "Blessin sucht die richtige Dosis für Mohya",
    "link": "https://www.sportschau.de/regional/wdr/wdr-blessin-sucht-die-richtige-dosis-fuer-mohya-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-05T10:23:00Z",
+   "teaser": "Mit 17 Jahren ist Wael Mohya der Hoffnungsträger in Mönchengladbach. Doch Trainer Alexander Blessin will ihn nicht überfordern.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-gladbachs-blessin-sucht-die-richtige-dosis-fuer-mohya-100.html",
+   "title": "Gladbachs Blessin sucht die richtige Dosis für Mohya",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-gladbachs-blessin-sucht-die-richtige-dosis-fuer-mohya-100.html",
    "source": "Sportschau",
    "published": "2026-11-05T10:23:00Z",
    "teaser": "Mit 17 Jahren ist Wael Mohya der Hoffnungsträger in Mönchengladbach. Doch Trainer Alexander Blessin will ihn nicht überfordern.",
@@ -2509,30 +2533,6 @@
    "clubs": [
     40,
     7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/wie-kovac-und-kompany-ihre-trainerteams-organisieren,bundesliga-update-rueckblick-spieltag-sechsundzwanzig-104.html",
-   "title": "Bundesliga Update Podcast: Wie arbeiten Trainer in der Bundesliga?",
-   "link": "https://www.sportschau.de/wie-kovac-und-kompany-ihre-trainerteams-organisieren,bundesliga-update-rueckblick-spieltag-sechsundzwanzig-104.html",
-   "source": "Sportschau",
-   "published": "2026-10-29T18:11:00Z",
-   "teaser": "Tiefe Einblicke gibt es nicht. Das Bundesliga Update Team spricht drüber: Wie teilen sich Bundesliga-Trainer ihre Arbeit auf?",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/rb/rb-fuellkrug-in-startelf-werder-will-horrorserie-gegen-hoffenheim-beenden-100.html",
-   "title": "Werder will Horrorserie gegen Hoffenheim beenden",
-   "link": "https://www.sportschau.de/regional/rb/rb-fuellkrug-in-startelf-werder-will-horrorserie-gegen-hoffenheim-beenden-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-29T17:45:24Z",
-   "teaser": "Nach der 2:3-Pokalpleite in Dortmund darf Niclas Füllkrug in der Liga wieder von Beginn an ran. Die Bremer warten seit zwölf Jahren auf einen Sieg gegen Hoffenheim.",
-   "clubs": [
-    7,
-    175,
-    134
    ],
    "transfer": false
   }
