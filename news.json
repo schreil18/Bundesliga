@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T19:53:43Z",
+ "updated": "2026-11-05T20:50:42Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wehrle-erhaelt-wirtschaftsmedaille-des-landes-baden-wuerttemberg-1269016/artikel",
+   "title": "Wehrle erhält Wirtschaftsmedaille des Landes Baden-Württemberg",
+   "link": "https://www.kicker.de/wehrle-erhaelt-wirtschaftsmedaille-des-landes-baden-wuerttemberg-1269016/artikel",
+   "source": "kicker",
+   "published": "2026-11-05T20:26:25Z",
+   "teaser": "Alexander Wehrle, Vorstandvorsitzender des VfB Stuttgart, ist am Donnerstagabend mit einer der höchsten Auszeichnungen Baden-Württembergs ausgezeichnet worden.",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/sehnsucht-nach-toren-die-gruende-fuer-die-schalker-flaute-1268976/video",
    "title": "Sehnsucht nach Toren: Die Gründe für die Schalker Flaute",
@@ -2514,19 +2526,6 @@
    "id": "https://www.kicker.de/wagner-von-steffen-baumgart-gibt-viele-goldene-ratschlaege-1266830/video",
    "title": "Wagner: \"Von Steffen Baumgart gibt viele goldene Ratschläge\"",
    "link": "https://www.kicker.de/wagner-von-steffen-baumgart-gibt-viele-goldene-ratschlaege-1266830/video",
-   "source": "kicker",
-   "published": "2026-10-30T13:47:12Z",
-   "teaser": "Köln-Trainer René Wagner spricht vor dem Bundesliga-Duell gegen Union Berlin über die Schlüsse aus dem deutlichen Pokal-Sieg und ein Gespräch mit dem ehemaligen Köln und Union-Trainer Stefffen Baumgart.",
-   "clubs": [
-    80,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wagner-von-steffen-baumgart-gibt-es-viele-goldene-ratschlaege-1266830/video",
-   "title": "Wagner: \"Von Steffen Baumgart gibt es viele goldene Ratschläge\"",
-   "link": "https://www.kicker.de/wagner-von-steffen-baumgart-gibt-es-viele-goldene-ratschlaege-1266830/video",
    "source": "kicker",
    "published": "2026-10-30T13:47:12Z",
    "teaser": "Köln-Trainer René Wagner spricht vor dem Bundesliga-Duell gegen Union Berlin über die Schlüsse aus dem deutlichen Pokal-Sieg und ein Gespräch mit dem ehemaligen Köln und Union-Trainer Stefffen Baumgart.",
