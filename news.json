@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T13:08:06Z",
+ "updated": "2026-11-05T14:33:42Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,67 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/hoeness-schwaermt-von-fuellkrug-positive-erscheinung-in-der-bundesliga-1268928/video",
+   "title": "Hoeneß schwärmt von Füllkrug: \"Positive Erscheinung in der Bundesliga\"",
+   "link": "https://www.kicker.de/hoeness-schwaermt-von-fuellkrug-positive-erscheinung-in-der-bundesliga-1268928/video",
+   "source": "kicker",
+   "published": "2026-11-05T14:14:48Z",
+   "teaser": "Stuttgart-Trainer Sebastian Hoeneß spricht auf der Pressekonferenz vor dem Spiel gegen Werder Bremen über die Form von Stürmer Niclas Füllkrug und was ihn ausmacht.",
+   "clubs": [
+    16,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bruderduell-faellt-fuer-goetze-wohl-flach-koch-wackelt-ebenfalls-1268905/artikel",
+   "title": "Bruderduell fällt für Götze wohl flach - Koch wackelt ebenfalls",
+   "link": "https://www.kicker.de/bruderduell-faellt-fuer-goetze-wohl-flach-koch-wackelt-ebenfalls-1268905/artikel",
+   "source": "kicker",
+   "published": "2026-11-05T13:43:36Z",
+   "teaser": "Zum dritten Mal könnten sich Mario Götze und sein jüngerer Bruder Felix gegenüberstehen. Daraus wird aber wohl nichts, eine Ohrenentzündung macht dem Weltmeister einen Strich durch die Rechnung. Ein Ausfall in Paderborn droht auch Kapitän …",
+   "clubs": [
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-massives-ausrufezeichen-harry-kane-verlaengert-beim-fc-bayern-102.html",
+   "title": "Bis 2029: Harry Kane verlängert beim FC Bayern",
+   "link": "https://www.sportschau.de/regional/br/br-massives-ausrufezeichen-harry-kane-verlaengert-beim-fc-bayern-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-05T13:37:07Z",
+   "teaser": "Harry Kane verlängert seinen Vertrag beim FC Bayern um zwei Jahre bis 2029. Das hat der deutsche Rekordmeister heute bekanntgegeben. Damit geht die Rekordjagd des Engländers in München weiter.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/bayern-sponsoren-sind-bei-dem-klub-bei-dem-der-weltfussballer-zu-hause-ist-1268912/video",
+   "title": "Bayern-Sponsoren sind \"bei dem Klub, bei dem der Weltfußballer zu Hause ist\"",
+   "link": "https://www.kicker.de/bayern-sponsoren-sind-bei-dem-klub-bei-dem-der-weltfussballer-zu-hause-ist-1268912/video",
+   "source": "kicker",
+   "published": "2026-11-05T13:25:53Z",
+   "teaser": "Jan-Christian Dreesen erklärte auf der PK zur Vertragsverlängerung von Harry Kane, welchen Mehrwert der FC Bayern auch in punkto Sponsoren aus dem Triumph beim Ballon d'Or ziehen kann.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/das-ist-eine-hausnummer-die-praesentiert-der-fc-bayern-gerne-1268908/video",
+   "title": "\"Das ist eine Hausnummer, die präsentiert der FC Bayern gerne\"",
+   "link": "https://www.kicker.de/das-ist-eine-hausnummer-die-praesentiert-der-fc-bayern-gerne-1268908/video",
+   "source": "kicker",
+   "published": "2026-11-05T13:14:57Z",
+   "teaser": "Harry Kane verlängerte am Donnerstag seinen Vertrag beim FC Bayern München. Aus München berichtet kicker-Reporter Mario Krischel.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/dreesen-ueber-kane-wer-weiss-was-dann-in-2029-ist-1268840/artikel",
    "title": "Dreesen über Kane: \"Wer weiß, was dann in 2029 ist …\"",
@@ -36,18 +97,6 @@
    "teaser": "Angesprochen auf den aktuellen Stand seiner Deutschkenntnisse konnte sich Harry Kane ein Grinsen nicht verkneifen. Er gelobte, in den nächsten drei Jahren mehr draufzupacken als in den vergangenen.",
    "clubs": [],
    "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-massives-ausrufezeichen-harry-kane-verlaengert-beim-fc-bayern-102.html",
-   "title": "Bis 2029: Harry Kane verlängert beim FC Bayern",
-   "link": "https://www.sportschau.de/regional/br/br-massives-ausrufezeichen-harry-kane-verlaengert-beim-fc-bayern-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-05T12:43:55Z",
-   "teaser": "Harry Kane verlängert seinen Vertrag beim FC Bayern um zwei Jahre bis 2029. Das hat der deutsche Rekordmeister heute bekanntgegeben. Damit geht die Rekordjagd des Engländers in München weiter.",
-   "clubs": [
-    40
-   ],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/hoeness-erklaert-das-vfb-problem-am-beispiel-undav-1268820/artikel",
@@ -2482,55 +2531,6 @@
    "published": "2026-10-30T11:00:00Z",
    "teaser": "Das Bündnis \"Fanszenen Deutschlands\" hat für die Neuregelung von 50+1 eine konsequente Beendigung der Ausnahmen gefordert.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kimmich-vor-comeback-alltag-nichts-sehnt-der-fc-bayern-mehr-herbei-1266780/video",
-   "title": "Kimmich vor Comeback: \"Alltag, nichts sehnt der FC Bayern mehr herbei\"",
-   "link": "https://www.kicker.de/kimmich-vor-comeback-alltag-nichts-sehnt-der-fc-bayern-mehr-herbei-1266780/video",
-   "source": "kicker",
-   "published": "2026-10-30T10:29:34Z",
-   "teaser": "Auf der PK vor dem Spiel gegen Dortmund gab Bayerns Co-Trainer Aaron Danks bekannt, dass Joshua Kimmich in den Kader zurückkehren könnte. Trainer Vincent Kompany wird dagegen noch nicht wieder vor Ort sein.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-bvb-nahe-dran-und-doch-so-weit-weg-100.html",
-   "title": "BVB \"nahe dran\" und doch so weit weg",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-bvb-nahe-dran-und-doch-so-weit-weg-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-30T10:25:00Z",
-   "teaser": "BVB-Trainer Niko Kovač sieht sein Team \"nahe dran\" am FC Bayern München. Ein Vergleich zeigt, dass die Münchner weit weg sind.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/danks-waehlt-tier-vergleich-wie-das-zebra-und-der-strauss-in-der-savanne-1266769/video",
-   "title": "Danks wählt Tier-Vergleich: \"Wie das Zebra und der Strauß in der Savanne\"",
-   "link": "https://www.kicker.de/danks-waehlt-tier-vergleich-wie-das-zebra-und-der-strauss-in-der-savanne-1266769/video",
-   "source": "kicker",
-   "published": "2026-10-30T10:15:41Z",
-   "teaser": "Angesprochen auf mögliche Unterschiede im Stil als Trainer zwischen ihm und Vincent Kompany wählte Aaron Danks einen ungewöhnlichen Vergleich.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-bayern-und-die-frage-wann-ist-alltag-1266745/artikel",
-   "title": "Die Bayern und die Frage: Wann ist Alltag?",
-   "link": "https://www.kicker.de/die-bayern-und-die-frage-wann-ist-alltag-1266745/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T10:07:56Z",
-   "teaser": "Trainer Vincent Kompany fehlt wie Kapitän Manuel Neuer auch gegen den BVB, Joshua Kimmich könnte dagegen zurückkehren. Kehrt beim Rekordmeister nach turbulenten Tagen damit ein Stück Normalität zurück?",
-   "clubs": [
-    40,
-    7
-   ],
    "transfer": false
   }
  ]
