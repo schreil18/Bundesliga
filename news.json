@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:16:20Z",
+ "updated": "2026-11-05T08:37:59Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,30 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/die-vertragslaufzeiten-der-bayern-profis-754838/slideshow",
+   "title": "Die Vertragslaufzeiten der Bayern-Profis",
+   "link": "https://www.kicker.de/die-vertragslaufzeiten-der-bayern-profis-754838/slideshow",
+   "source": "kicker",
+   "published": "2026-11-05T08:04:25Z",
+   "teaser": "Wie lange steht Michael Olise eigentlich noch beim FC Bayern unter Vertrag? Für wie viele Jahre haben Luis Diaz und Co. in München unterschrieben? Alle Vertragslaufzeiten der Bayern-Profis.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/er-loest-jedes-versprechen-ein-kane-verlaengert-bei-bayern-1242507/artikel",
+   "title": "\"Er löst jedes Versprechen ein\": Kane verlängert bei Bayern",
+   "link": "https://www.kicker.de/er-loest-jedes-versprechen-ein-kane-verlaengert-bei-bayern-1242507/artikel",
+   "source": "kicker",
+   "published": "2026-11-05T08:03:49Z",
+   "teaser": "Der FC Bayern hat eine der wichtigsten Personalien im Kader geklärt und den Vertrag mit Harry Kane vorzeitig verlängert. Der Gewinner des Ballon d'Or bekennt sich bis 2029 zum deutschen Rekordmeister.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/das-bundesliga-quiz-zum-9-spieltag-1268596/artikel",
    "title": "Das Bundesliga-Quiz zum 9. Spieltag",
@@ -38,6 +62,18 @@
    "teaser": "Das offensichtlichste Problem liegt im Angriff: Mit nur vier Treffern stellt Schalke 04 aktuell das harmloseste Team der Liga. Es gibt jedoch zahlreiche weitere Mängel, die eher im Detail liegen. Der kicker nennt die Gravierendsten.",
    "clubs": [
     9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-batz-ersetzt-nicolas-im-gladbach-tor-fuer-laenger-100.html",
+   "title": "Batz ersetzt Nicolas im Gladbach-Tor - für länger?",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-batz-ersetzt-nicolas-im-gladbach-tor-fuer-laenger-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-04T17:43:00Z",
+   "teaser": "In Gladbach halten die schlechten Nachrichten an. Auch Torwart Moritz Nicolas ist verletzt. Daniel Batz ersetzt ihn. Für länger?",
+   "clubs": [
+    87
    ],
    "transfer": false
   },
@@ -123,6 +159,21 @@
    "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-vor-wegweisenden-wochen-100.html",
    "title": "Eintracht Frankfurt vor wegweisenden Wochen",
    "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-vor-wegweisenden-wochen-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-04T13:39:40Z",
+   "teaser": "Eintracht Frankfurt will an die Spiele gegen den Hamburger SV anknüpfen und mit Siegen gegen Paderborn und Hoffenheim oben andocken. Und auch zwischendrin, in der Länderspielpause, wird es interessant.",
+   "clubs": [
+    91,
+    175,
+    100,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-vor-spiel-in-paderborn-eintracht-frankfurt-vor-wegweisenden-wochen-100.html",
+   "title": "Vor Spiel in Paderborn: Eintracht Frankfurt vor wegweisenden Wochen",
+   "link": "https://www.sportschau.de/regional/hr/hr-vor-spiel-in-paderborn-eintracht-frankfurt-vor-wegweisenden-wochen-100.html",
    "source": "Sportschau",
    "published": "2026-11-04T13:39:40Z",
    "teaser": "Eintracht Frankfurt will an die Spiele gegen den Hamburger SV anknüpfen und mit Siegen gegen Paderborn und Hoffenheim oben andocken. Und auch zwischendrin, in der Länderspielpause, wird es interessant.",
@@ -2488,58 +2539,6 @@
    "clubs": [
     40,
     7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wann-hat-borussia-dortmund-zuletzt-gegen-bayern-gewonnen-943519/artikel",
-   "title": "Wann hat Borussia Dortmund zuletzt gegen Bayern gewonnen?",
-   "link": "https://www.kicker.de/wann-hat-borussia-dortmund-zuletzt-gegen-bayern-gewonnen-943519/artikel",
-   "source": "kicker",
-   "published": "2026-10-29T14:00:00Z",
-   "teaser": "Jedes Jahr aufs Neue messen sich Borussia Dortmund und der FC Bayern München in der Bundesliga. Doch wann konnte der BVB zuletzt gegen den FCB gewinnen?",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/thioune-stellt-klar-ich-tue-mich-schwer-jetzt-nur-von-einem-torwartfehler-zu-sprechen-1266539/artikel",
-   "title": "Thioune stellt klar: \"Ich tue mich schwer, jetzt nur von einem Torwartfehler zu sprechen\"",
-   "link": "https://www.kicker.de/thioune-stellt-klar-ich-tue-mich-schwer-jetzt-nur-von-einem-torwartfehler-zu-sprechen-1266539/artikel",
-   "source": "kicker",
-   "published": "2026-10-29T13:50:00Z",
-   "teaser": "Daniel Thioune hat vor dem Bundesliga-Duell mit Hoffenheim klargestellt, dass das Positive beim DFB-Pokal-Aus in Dortmund eindeutig überwiegt. Apropos Übergewicht: Das Ordnungsamt hat den zuletzt gesperrten Block 53 im Weserstadion wieder …",
-   "clubs": [
-    7,
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gladbachs-lazarett-lichtet-sich-aber-blessin-bremst-bei-kleindienst-1266534/artikel",
-   "title": "Gladbachs Lazarett lichtet sich - aber Blessin bremst bei Kleindienst",
-   "link": "https://www.kicker.de/gladbachs-lazarett-lichtet-sich-aber-blessin-bremst-bei-kleindienst-1266534/artikel",
-   "source": "kicker",
-   "published": "2026-10-29T13:48:54Z",
-   "teaser": "Die lange Ausfall-Liste bei Borussia Mönchengladbach schrumpft allmählich. Gegen Paderborn wird dafür ein anderer Stammspieler fehlen - und der Kapitän wird auch noch länger auf seine Rückkehr warten müssen.",
-   "clubs": [
-    87,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/dauerbrenner-stiller-fehlt-stuttgart-in-leverkusen-1266531/artikel",
-   "title": "Dauerbrenner Stiller fehlt Stuttgart in Leverkusen",
-   "link": "https://www.kicker.de/dauerbrenner-stiller-fehlt-stuttgart-in-leverkusen-1266531/artikel",
-   "source": "kicker",
-   "published": "2026-10-29T13:15:43Z",
-   "teaser": "Er ist der Dauerbrenner beim VfB Stuttgart, beim Gastspiel der Schwaben bei Bayer Leverkusen wird Angelo Stiller aber fehlen. Auch Leo Sauer wird VfB-Coach Sebastian Hoeneß nicht zur Verfügung stehen.",
-   "clubs": [
-    6,
-    16
    ],
    "transfer": false
   }
