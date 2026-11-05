@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T16:38:15Z",
+ "updated": "2026-11-05T17:55:52Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,30 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/sehnsucht-nach-toren-die-gruende-fuer-die-schalker-flaute-1268976/video",
+   "title": "Sehnsucht nach Toren: Die Gründe für die Schalker Flaute",
+   "link": "https://www.kicker.de/sehnsucht-nach-toren-die-gruende-fuer-die-schalker-flaute-1268976/video",
+   "source": "kicker",
+   "published": "2026-11-05T16:59:56Z",
+   "teaser": "Vier Heimspiele und noch kein Tor für den FC Schalke 04. Die Aufstiegseuphorie aus dem Sommer droht zu versickern, Trainer Miron Muslic versucht nun, die derzeit schlechteste Offensive der Liga mit einer Systemumstellung auf Touren zu …",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hoeness-exklusiv-wir-haben-atletico-regelrecht-vorgefuehrt-1268889/artikel",
+   "title": "Hoeneß exklusiv: \"Wir haben Atletico regelrecht vorgeführt\"",
+   "link": "https://www.kicker.de/hoeness-exklusiv-wir-haben-atletico-regelrecht-vorgefuehrt-1268889/artikel",
+   "source": "kicker",
+   "published": "2026-11-05T16:49:55Z",
+   "teaser": "Stark ersatzgeschwächt gewann der FC Bayern souverän mit 2:0 bei Atletico Madrid. Ehrenpräsident Uli Hoeneß spricht exklusiv darüber, warum ihn das nachhaltig beeindruckte - und wie er Harry Kanes Verlängerung einschätzt.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wer-in-england-besonders-ueber-kanes-unterschrift-jubelte-1268961/artikel",
    "title": "Wer in England besonders über Kanes Unterschrift jubelte",
@@ -2509,31 +2533,6 @@
    "clubs": [
     80,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-218.html",
-   "title": "Eintracht Frankfurt: Supertalent Ilicevic winkt Bundesliga-Rekord – mit 16",
-   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-218.html",
-   "source": "Sportschau",
-   "published": "2026-10-30T13:09:57Z",
-   "teaser": "Am Samstag Geburtstag, am Sonntag Bundesliga-Premiere? Youngster Niko Ilicevic könnte im Heimspiel gegen den HSV erstmals für die Profis von Eintracht Frankfurt auflaufen und damit Geschichte schreiben. Der erste Schritt einer großen …",
-   "clubs": [
-    91,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/disziplin-appell-von-muslic-das-haben-wir-hee-chan-versucht-zu-erklaeren-1266781/artikel",
-   "title": "Disziplin-Appell von Muslic: \"Das haben wir Hee-Chan versucht zu erklären\"",
-   "link": "https://www.kicker.de/disziplin-appell-von-muslic-das-haben-wir-hee-chan-versucht-zu-erklaeren-1266781/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T12:54:46Z",
-   "teaser": "Kaum Punkte, keine Tore, nun das Aus im DFB-Pokal: Bei Schalke ist die Stimmung nach langer Zeit mal wieder angespannt. Miron Muslic fordert die Rückkehr zu alten Tugenden - und erklärte speziell Hee-Chan Hwang nochmal, wie sie lauten.",
-   "clubs": [
-    9
    ],
    "transfer": false
   }
