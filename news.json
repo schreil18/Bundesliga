@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T10:01:49Z",
+ "updated": "2026-11-05T11:03:52Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,11 +16,23 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/bayern-macht-kane-zum-bestbezahlten-spieler-europas-zu-recht-1268834/artikel",
+   "title": "Bayern macht Kane zum bestbezahlten Spieler Europas - zu Recht?",
+   "link": "https://www.kicker.de/bayern-macht-kane-zum-bestbezahlten-spieler-europas-zu-recht-1268834/artikel",
+   "source": "kicker",
+   "published": "2026-11-05T10:25:30Z",
+   "teaser": "Harry Kane bleibt dem FC Bayern treu - lässt sich das aber gut bezahlen. Was hältst du von der Vertragsverlängerung? Nimm hier an unserer Umfrage teil.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
+  {
    "id": "https://www.sportschau.de/regional/wdr/wdr-blessin-sucht-die-richtige-dosis-fuer-mohya-100.html",
    "title": "Blessin sucht die richtige Dosis für Mohya",
    "link": "https://www.sportschau.de/regional/wdr/wdr-blessin-sucht-die-richtige-dosis-fuer-mohya-100.html",
    "source": "Sportschau",
-   "published": "2026-11-05T09:50:07Z",
+   "published": "2026-11-05T10:23:00Z",
    "teaser": "Mit 17 Jahren ist Wael Mohya der Hoffnungsträger in Mönchengladbach. Doch Trainer Alexander Blessin will ihn nicht überfordern.",
    "clubs": [
     87
@@ -2521,18 +2533,6 @@
     7,
     175,
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/frankfurt-erweitert-hardungs-kompetenzen-und-bindet-rode-ein-1266630/artikel",
-   "title": "Frankfurt erweitert Hardungs Kompetenzen und bindet Rode ein",
-   "link": "https://www.kicker.de/frankfurt-erweitert-hardungs-kompetenzen-und-bindet-rode-ein-1266630/artikel",
-   "source": "kicker",
-   "published": "2026-10-29T16:55:30Z",
-   "teaser": "Bis bei Eintracht Frankfurt die Suche nach einem neuen Sportvorstand abgeschlossen ist, rücken Timmo Hardung und der langjährige Kapitän Sebastian Rode verstärkt in den Fokus.",
-   "clubs": [
-    91
    ],
    "transfer": false
   }
