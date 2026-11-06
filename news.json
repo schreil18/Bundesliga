@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T08:57:00Z",
+ "updated": "2026-11-06T10:01:53Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/barbarez-ueber-dzeko-jeder-wusste-dass-es-nicht-einfach-wird-1269127/video",
+   "title": "Barbarez über Dzeko: \"Jeder wusste, dass es nicht einfach wird\"",
+   "link": "https://www.kicker.de/barbarez-ueber-dzeko-jeder-wusste-dass-es-nicht-einfach-wird-1269127/video",
+   "source": "kicker",
+   "published": "2026-11-06T08:46:18Z",
+   "teaser": "Sergej Barbarez hat im Fußballmuseum in Dortmund sein neues Buch vorgestellt, dass er gemeinsam mit kicker-Reporter Sebastian Wolff geschrieben hat. Am Rande der Veranstaltung sprach der Ex-Stürmer über diverse Bundesliga-Themen.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/sehen-wir-kritisch-schalker-aerger-ueber-hohe-ticketpreise-in-hoffenheim-1269067/artikel",
    "title": "\"Sehen wir kritisch\": Schalker Ärger über hohe Ticketpreise in Hoffenheim",
@@ -2519,19 +2531,6 @@
    "clubs": [
     81,
     198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bvb-ohne-chance-das-sagen-die-zahlen-wenn-ein-spitzenreiter-auf-den-direkten-verfolger-trifft-1266620/artikel",
-   "title": "BVB ohne Chance? Das sagen die Zahlen, wenn ein Spitzenreiter auf den direkten Verfolger trifft",
-   "link": "https://www.kicker.de/bvb-ohne-chance-das-sagen-die-zahlen-wenn-ein-spitzenreiter-auf-den-direkten-verfolger-trifft-1266620/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T14:30:23Z",
-   "teaser": "21-mal standen sich Bayern und Dortmund im direkten Duell gegenüber, wenn sie auf den ersten beiden Plätzen lagen. Wir klären auf, welche Teams am häufigsten bei einem solchen Spitzenspiel dabei waren, wann Bayern zuletzt fehlte und warum …",
-   "clubs": [
-    40,
-    7
    ],
    "transfer": false
   }
