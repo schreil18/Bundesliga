@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T04:30:43Z",
+ "updated": "2026-11-06T05:32:05Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wer-uebertraegt-hsv-gegen-borussia-moenchengladbach-heute-live-im-tv-stream-1268921/artikel",
+   "title": "Wer überträgt HSV gegen Borussia Mönchengladbach heute live im TV & Stream?",
+   "link": "https://www.kicker.de/wer-uebertraegt-hsv-gegen-borussia-moenchengladbach-heute-live-im-tv-stream-1268921/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T05:00:00Z",
+   "teaser": "Das Schlusslicht der Bundesliga gastiert am 9. Spieltag beim Tabellen-15. in Hamburg. Wo ihr die Partie zwischen dem HSV und Borussia Mönchengladbach heute live im TV und Stream verfolgen könnt, erfahrt ihr hier.",
+   "clubs": [
+    87,
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wehrle-erhaelt-wirtschaftsmedaille-des-landes-baden-wuerttemberg-1269016/artikel",
    "title": "Wehrle erhält Wirtschaftsmedaille des Landes Baden-Württemberg",
@@ -2519,19 +2532,6 @@
    "clubs": [
     91,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wagner-von-steffen-baumgart-gibt-viele-goldene-ratschlaege-1266830/video",
-   "title": "Wagner: \"Von Steffen Baumgart gibt viele goldene Ratschläge\"",
-   "link": "https://www.kicker.de/wagner-von-steffen-baumgart-gibt-viele-goldene-ratschlaege-1266830/video",
-   "source": "kicker",
-   "published": "2026-10-30T13:47:12Z",
-   "teaser": "Köln-Trainer René Wagner spricht vor dem Bundesliga-Duell gegen Union Berlin über die Schlüsse aus dem deutlichen Pokal-Sieg und ein Gespräch mit dem ehemaligen Köln und Union-Trainer Stefffen Baumgart.",
-   "clubs": [
-    80,
-    65
    ],
    "transfer": false
   }
