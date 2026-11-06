@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T05:32:05Z",
+ "updated": "2026-11-06T06:34:14Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/sehen-wir-kritisch-schalker-aerger-ueber-hohe-ticketpreise-in-hoffenheim-1269067/artikel",
+   "title": "\"Sehen wir kritisch\": Schalker Ärger über hohe Ticketpreise in Hoffenheim",
+   "link": "https://www.kicker.de/sehen-wir-kritisch-schalker-aerger-ueber-hohe-ticketpreise-in-hoffenheim-1269067/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T05:39:45Z",
+   "teaser": "Auswärtsfans machen sich inzwischen einen Spaß daraus, bei Spielen der TSG Hoffenheim in Sinsheim weit mehr als den Gästeblock zu erobern. Das hat offensichtlich auch Folgen für die Preisgestaltung.",
+   "clubs": [
+    175,
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wer-uebertraegt-hsv-gegen-borussia-moenchengladbach-heute-live-im-tv-stream-1268921/artikel",
    "title": "Wer überträgt HSV gegen Borussia Mönchengladbach heute live im TV & Stream?",
@@ -2519,19 +2532,6 @@
    "clubs": [
     40,
     7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/torunarigha-lindert-hamburgs-abwehrsorgen-fragezeichen-bei-bornauw-1266825/artikel",
-   "title": "Torunarigha lindert Hamburgs Abwehrsorgen - Fragezeichen bei Bornauw",
-   "link": "https://www.kicker.de/torunarigha-lindert-hamburgs-abwehrsorgen-fragezeichen-bei-bornauw-1266825/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T14:00:33Z",
-   "teaser": "Die Hamburger Verletzungssorgen werden vor dem Bundesliga-Duell mit Frankfurt ein wenig kleiner. Jordan Torunarigha kehrt in den Kader zurück, bei Sebastiaan Bornauw steht dagegen noch ein Fragezeichen.",
-   "clubs": [
-    91,
-    100
    ],
    "transfer": false
   }
