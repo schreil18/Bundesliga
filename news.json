@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T11:01:44Z",
+ "updated": "2026-11-06T11:53:02Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,26 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/danks-hatte-einige-sehr-positive-telefonate-mit-kompany-1269193/video",
+   "title": "Danks: \"Hatte einige sehr positive Telefonate mit Kompany\"",
+   "link": "https://www.kicker.de/danks-hatte-einige-sehr-positive-telefonate-mit-kompany-1269193/video",
+   "source": "kicker",
+   "published": "2026-11-06T11:32:37Z",
+   "teaser": "Angesprochen auf den aktuellen Zustand von Cheftrainer Vincent Kompany schilderte Aaron Danks seine Eindrücke aus den Telefonaten mit dem Belgier. Er sprach auch darüber, wie das Trainerteam in dessen Abwesenheit Entscheidungen trifft.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/weniger-verletzte-mehr-festnahmen-und-mehr-pyro-in-deutschen-stadien-1269031/artikel",
+   "title": "Weniger Verletzte, mehr Festnahmen und mehr Pyro in deutschen Stadien",
+   "link": "https://www.kicker.de/weniger-verletzte-mehr-festnahmen-und-mehr-pyro-in-deutschen-stadien-1269031/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T11:10:11Z",
+   "teaser": "Die Zentrale Informationsstelle Sporteinsätze (ZIS) zur Sicherheit in deutschen Fußball-Stadien hat ihren alljährlichen Bericht veröffentlicht. Allzu signifikante Änderungen im Vergleich zum Vorjahr waren nicht zu verzeichnen.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/nach-bayern-aus-schmadtke-weist-vorwuerfe-zurueck-1269174/artikel",
    "title": "Nach Bayern-Aus: Schmadtke weist Vorwürfe zurück",
@@ -74,6 +94,18 @@
    "teaser": "Sergej Barbarez hat im Fußballmuseum in Dortmund sein neues Buch vorgestellt, dass er gemeinsam mit kicker-Reporter Sebastian Wolff geschrieben hat. Am Rande der Veranstaltung sprach der Ex-Stürmer über diverse Bundesliga-Themen.",
    "clubs": [
     7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/koennte-ein-problem-werden-bueskens-ueber-schalker-sturm-flaute-1269095/video",
+   "title": "\"Könnte ein Problem werden\": Büskens über Schalker Sturm-Flaute",
+   "link": "https://www.kicker.de/koennte-ein-problem-werden-bueskens-ueber-schalker-sturm-flaute-1269095/video",
+   "source": "kicker",
+   "published": "2026-11-06T07:30:12Z",
+   "teaser": "In der aktuellen Folge \"Was geht, Bundesliga?\" sprechen Moderator Luis Hanusch und Schalke-Legende Mike Büskens über die Schalker Torflaute. Büskens merkt dabei an, wie wichtig es sei, dass die Angreifer ihre Leichtigkeit wieder finden …",
+   "clubs": [
+    9
    ],
    "transfer": false
   },
@@ -2492,42 +2524,6 @@
     81,
     198
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-bandverletzung-karetsas-kehrt-gegen-den-fc-bayern-zurueck-1266901/artikel",
-   "title": "Nach Bandverletzung: Karetsas kehrt gegen den FC Bayern zurück",
-   "link": "https://www.kicker.de/nach-bandverletzung-karetsas-kehrt-gegen-den-fc-bayern-zurueck-1266901/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T18:23:49Z",
-   "teaser": "Pünktlich zum Gipfeltreffen mit dem FC Bayern München steht Konstantinos Karetsas Borussia Dortmund wieder zur Verfügung. Der 18 Jahre alte Grieche wird nach einer Mitte Oktober erlittenen Bandverletzung Teil des BVB-Kaders am Samstagabend …",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/schuster-ueber-gregoritsch-wahnsinnstyp-und-geradeheraus-1266898/artikel",
-   "title": "Schuster über Gregoritsch: \"Wahnsinnstyp und geradeheraus\"",
-   "link": "https://www.kicker.de/schuster-ueber-gregoritsch-wahnsinnstyp-und-geradeheraus-1266898/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T17:21:34Z",
-   "teaser": "Gleich drei Augsburger Spieler haben eine längere Freiburger Vergangenheit. SC-Coach Schuster freut sich aufs Wiedersehen.",
-   "clubs": [
-    112,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fanszenen-bestaerken-forderungen-zum-ende-von-501-ausnahmen-1266891/artikel",
-   "title": "Fanszenen bestärken Forderungen zum Ende von 50+1-Ausnahmen",
-   "link": "https://www.kicker.de/fanszenen-bestaerken-forderungen-zum-ende-von-501-ausnahmen-1266891/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T17:16:07Z",
-   "teaser": "Das Bundeskartellamt hat die Bundesliga im August zur einheitlichen Umsetzung der 50+1-Regel aufgefordert. Das Bündnis \"Fanszenen Deutschlands\" verlangt nun eine konsequente Umsetzung.",
-   "clubs": [],
    "transfer": false
   }
  ]
