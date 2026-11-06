@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T11:53:02Z",
+ "updated": "2026-11-06T13:00:09Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,41 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/el-mala-sprach-mit-klopp-auch-ueber-bruder-malek-1269203/artikel",
+   "title": "El Mala sprach mit Klopp auch über Bruder Malek",
+   "link": "https://www.kicker.de/el-mala-sprach-mit-klopp-auch-ueber-bruder-malek-1269203/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T12:23:16Z",
+   "teaser": "Said El Mala will bei der Nationalmannschaft \"wieder Gas geben\". Beim Telefonat mit Jürgen Klopp ging es auch um dessen Bruder - der seiner Mutter kurzzeitig die Stimme kostete.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kovac-mit-loblied-auf-bellingham-er-ist-ein-kompletter-fussball-freak-1269202/video",
+   "title": "Kovac mit Loblied auf Bellingham: \"Er ist ein kompletter Fußball-Freak\"",
+   "link": "https://www.kicker.de/kovac-mit-loblied-auf-bellingham-er-ist-ein-kompletter-fussball-freak-1269202/video",
+   "source": "kicker",
+   "published": "2026-11-06T12:11:18Z",
+   "teaser": "Nach Jobe Bellinghams erster Nominierung für die englische Nationalmannschaft geriet Niko Kovac ins Schwärmen. Der Trainer des BVB sprach über die Entwicklung des 21-Jährigen und dessen Arbeitseinstellung.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bvb-muss-auf-guirassy-verzichten-1269189/artikel",
+   "title": "BVB muss auf Guirassy verzichten",
+   "link": "https://www.kicker.de/bvb-muss-auf-guirassy-verzichten-1269189/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T11:50:49Z",
+   "teaser": "Borussia Dortmund muss wie befürchtet gegen die SV Elversberg ohne Torjäger Serhou Guirassy auskommen. Auch für die Tage danach gibt es schon einen Plan.",
+   "clubs": [
+    7,
+    198
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/danks-hatte-einige-sehr-positive-telefonate-mit-kompany-1269193/video",
    "title": "Danks: \"Hatte einige sehr positive Telefonate mit Kompany\"",
@@ -2481,45 +2516,6 @@
    "source": "Sportschau",
    "published": "2026-10-30T20:17:31Z",
    "teaser": "Die SV Elversberg trifft gegen Mainz 05 fast mit jedem Torschuss. Die Saarländer führen bereits mit 3:0 gegen die eigentlich auswärtsstarken Gäste.",
-   "clubs": [
-    81,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-keidel-trifft-klasse-per-direktem-freistoss-1266538/artikel",
-   "title": "LIVE! Keidel trifft klasse per direktem Freistoß",
-   "link": "https://www.kicker.de/live-keidel-trifft-klasse-per-direktem-freistoss-1266538/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T19:37:55Z",
-   "teaser": "Zum Auftakt des 8. Spieltags empfängt der Tabellen-Achte SV Elversberg am Freitagabend den punktgleichen Siebten aus Mainz. Kann der Aufsteiger die auswärts bislang noch ungeschlagenen 05er ärgern?",
-   "clubs": [
-    81,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/sv-07-elversberg-gegen-1-fsv-mainz-05,audiostream-sv-07-elversberg-gegen-1-fsv-mainz-05-104.html",
-   "title": "Live hören: SV 07 Elversberg gegen 1. FSV Mainz 05 - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/sv-07-elversberg-gegen-1-fsv-mainz-05,audiostream-sv-07-elversberg-gegen-1-fsv-mainz-05-104.html",
-   "source": "Sportschau",
-   "published": "2026-10-30T19:15:00Z",
-   "teaser": "8. Spieltag: Anpfiff des Spiels ist am 30.10.2026 um 20:30 Uhr. 1. FSV Mainz 05 spielt in Elversberg.",
-   "clubs": [
-    81,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-onyeka-zurueck-in-elversberger-startelf-zentner-huetet-mainzer-tor-1266538/artikel",
-   "title": "LIVE! Onyeka zurück in Elversberger Startelf - Zentner hütet Mainzer Tor",
-   "link": "https://www.kicker.de/live-onyeka-zurueck-in-elversberger-startelf-zentner-huetet-mainzer-tor-1266538/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T18:30:52Z",
-   "teaser": "Zum Auftakt des 8. Spieltags empfängt der Tabellen-Achte SV Elversberg am Freitagabend den punktgleichen Siebten aus Mainz. Kann der Aufsteiger die auswärts bislang noch ungeschlagenen 05er ärgern?",
    "clubs": [
     81,
     198
