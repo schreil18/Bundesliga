@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T13:00:09Z",
+ "updated": "2026-11-06T14:15:42Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,58 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193654/hamburger-sv_borussia-moenchengladbach/liveticker",
+   "title": "Ab 20.30 Uhr live - Krisenduell in Hamburg",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193654/hamburger-sv_borussia-moenchengladbach/liveticker",
+   "source": "Sportschau",
+   "published": "2026-11-06T14:02:25Z",
+   "teaser": "In der Bundesliga treffen am Freitagabend die Kellerkinder Hamburger SV und Borussia Mönchengladbach aufeinander. In er vergangenen Woche verlor der HSV zweimal gegen Eintracht Frankfurt - erst im Pokal, dann auch in der Liga.",
+   "clubs": [
+    91,
+    87,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-vom-perlentaucher-zum-bvb-sportdirektor-100.html",
+   "title": "Vom Perlentaucher zum BVB-Sportdirektor",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-vom-perlentaucher-zum-bvb-sportdirektor-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-06T13:36:00Z",
+   "teaser": "Samstag trifft BVB-Sportdirektor Ole Book mit Elversberg auf eine Mannschaft, die er über Jahre maßgeblich zusammengestellt hat.",
+   "clubs": [
+    7,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/normal-dass-man-nicht-direkt-reinrutscht-wagners-personal-update-vor-dem-duell-mit-leverkusen-1269205/artikel",
+   "title": "\"Normal, dass man nicht direkt reinrutscht\": Wagners Personal-Update vor dem Duell mit Leverkusen",
+   "link": "https://www.kicker.de/normal-dass-man-nicht-direkt-reinrutscht-wagners-personal-update-vor-dem-duell-mit-leverkusen-1269205/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T13:29:19Z",
+   "teaser": "Vor dem \"kleinen Derby\" gegen Bayer Leverkusen hat Kölns Trainer René Wagner wieder mehr personelle Optionen zur Verfügung. Das könnte gerade im Sturm Härtefälle bedeuten.",
+   "clubs": [
+    6,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/der-beschuetzer-warum-sich-mit-danks-bei-bayern-wenig-aenderte-1269177/artikel",
+   "title": "Der Beschützer: Warum sich mit Danks bei Bayern wenig änderte",
+   "link": "https://www.kicker.de/der-beschuetzer-warum-sich-mit-danks-bei-bayern-wenig-aenderte-1269177/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T13:17:08Z",
+   "teaser": "Für Aaron Danks nähert sich die Zeit als Interimscheftrainer dem Ende, vielleicht. Er hat sich beim FC Bayern empfohlen.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/el-mala-sprach-mit-klopp-auch-ueber-bruder-malek-1269203/artikel",
    "title": "El Mala sprach mit Klopp auch über Bruder Malek",
@@ -2469,57 +2521,6 @@
    "published": "2026-10-30T23:03:27Z",
    "teaser": "Sehen Sie hier die Sportschau am Freitag mit Zusammenfassungen der Bundesliga, 2. Bundesliga und dem DFB-Pokal der Frauen.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/zentner-wir-haben-uns-wie-eine-schulmannschaft-verkauft-1266987/artikel",
-   "title": "Zentner: \"Wir haben uns wie eine Schulmannschaft verkauft\"",
-   "link": "https://www.kicker.de/zentner-wir-haben-uns-wie-eine-schulmannschaft-verkauft-1266987/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T22:31:09Z",
-   "teaser": "Das hatten sich die Mainzer anders vorgestellt: Nach einer aus ihrer Sicht katastrophalen englischen Woche stehen die Rheinhessen ziemlich blank da - und zugleich ratlos wie auch sauer.",
-   "clubs": [
-    81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/traumtore-inklusive-elversberg-bezwingt-desolate-mainzer-1266538/artikel",
-   "title": "Traumtore inklusive: Elversberg bezwingt desolate Mainzer",
-   "link": "https://www.kicker.de/traumtore-inklusive-elversberg-bezwingt-desolate-mainzer-1266538/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T21:25:07Z",
-   "teaser": "Die SV Elversberg schwimmt weiter auf der Erfolgswelle und feierte gegen einen vor allem in der ersten Hälfte völlig desolaten FSV Mainz 05 einen 4:1-Sieg; direkt verwandelter Freistoß und toller Seitfallzieher inklusive. Einen späten …",
-   "clubs": [
-    81,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-mainz-desolat-elversberg-schon-zur-pause-3-0-in-fuehrung-1266538/artikel",
-   "title": "LIVE! Mainz desolat: Elversberg schon zur Pause 3:0 in Führung",
-   "link": "https://www.kicker.de/live-mainz-desolat-elversberg-schon-zur-pause-3-0-in-fuehrung-1266538/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T20:34:06Z",
-   "teaser": "Zum Auftakt des 8. Spieltags empfängt der Tabellen-Achte SV Elversberg am Freitagabend den punktgleichen Siebten aus Mainz. Kann der Aufsteiger die auswärts bislang noch ungeschlagenen 05er ärgern?",
-   "clubs": [
-    81,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194518/sv-07-elversberg_1-fsv-mainz-05/liveticker",
-   "title": "Jetzt live - Elversberg erwischt Sahnetag gegen Mainz 05",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194518/sv-07-elversberg_1-fsv-mainz-05/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-30T20:17:31Z",
-   "teaser": "Die SV Elversberg trifft gegen Mainz 05 fast mit jedem Torschuss. Die Saarländer führen bereits mit 3:0 gegen die eigentlich auswärtsstarken Gäste.",
-   "clubs": [
-    81,
-    198
-   ],
    "transfer": false
   }
  ]
