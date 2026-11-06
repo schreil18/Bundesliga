@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T10:01:53Z",
+ "updated": "2026-11-06T11:01:44Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,56 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/nach-bayern-aus-schmadtke-weist-vorwuerfe-zurueck-1269174/artikel",
+   "title": "Nach Bayern-Aus: Schmadtke weist Vorwürfe zurück",
+   "link": "https://www.kicker.de/nach-bayern-aus-schmadtke-weist-vorwuerfe-zurueck-1269174/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T10:47:54Z",
+   "teaser": "Ende Januar verlässt Nils Schmadtke den FC Bayern - nach einigen Störgeräuschen. Jetzt bezog der Leiter der Scouting-Abteilung Stellung und wehrte sich gegen mehrere Vorwürfe.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/warum-mainz-ein-echter-angstgegner-fuer-die-bayern-ist-1269160/video",
+   "title": "Warum Mainz \"ein echter Angstgegner\" für die Bayern ist",
+   "link": "https://www.kicker.de/warum-mainz-ein-echter-angstgegner-fuer-die-bayern-ist-1269160/video",
+   "source": "kicker",
+   "published": "2026-11-06T10:17:14Z",
+   "teaser": "Wenn es so etwas wie einen Angstgegner in der Bundesliga für den FC Bayern gibt, dann ist es der FSV Mainz 05. Vor dem direkten Duell muss Co-Trainer Aaron Danks eine Lösung für die linke Offensivseite finden.",
+   "clubs": [
+    40,
+    81
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/lenny-scheisst-sich-nichts-freund-lobt-karl-nach-unruhigen-wochen-1269157/video",
+   "title": "\"Lenny scheißt sich nichts\": Freund lobt Karl nach unruhigen Wochen",
+   "link": "https://www.kicker.de/lenny-scheisst-sich-nichts-freund-lobt-karl-nach-unruhigen-wochen-1269157/video",
+   "source": "kicker",
+   "published": "2026-11-06T10:11:59Z",
+   "teaser": "Nach einiger Kritik auch aus dem Verein bewies Lennart Karl am Dienstag in Madrid wieder seinen sportlichen Wert für den FCB. Sportdirektor Christoph Freund sprach am Freitag über Karls Entwicklung und dessen DFB-Nominierung.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/danks-kuendigt-pausen-an-wer-kann-bei-bayern-ueberhaupt-links-spielen-1269125/artikel",
+   "title": "Danks kündigt Pausen an - Wer kann bei Bayern überhaupt links spielen?",
+   "link": "https://www.kicker.de/danks-kuendigt-pausen-an-wer-kann-bei-bayern-ueberhaupt-links-spielen-1269125/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T10:00:42Z",
+   "teaser": "In Mainz tut sich der FC Bayern traditionell schwer, am Samstag sieht das Aufgebot immer noch dünn aus. Interimstrainer Aaron Danks will sich etwas überlegen.",
+   "clubs": [
+    40,
+    81
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/barbarez-ueber-dzeko-jeder-wusste-dass-es-nicht-einfach-wird-1269127/video",
    "title": "Barbarez über Dzeko: \"Jeder wusste, dass es nicht einfach wird\"",
    "link": "https://www.kicker.de/barbarez-ueber-dzeko-jeder-wusste-dass-es-nicht-einfach-wird-1269127/video",
@@ -25,6 +75,16 @@
    "clubs": [
     7
    ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/uefa-ranking-bundesliga-faellt-hinter-portugal-und-belgien-zurueck-1269080/artikel",
+   "title": "UEFA-Ranking: Bundesliga fällt hinter Portugal und Belgien zurück",
+   "link": "https://www.kicker.de/uefa-ranking-bundesliga-faellt-hinter-portugal-und-belgien-zurueck-1269080/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T06:53:32Z",
+   "teaser": "Nach einem durchwachsenen Europapokal-Spieltag ist die Bundesliga im UEFA-Ranking vorerst auf Rang 4 zurückgefallen - und liegt damit noch hinter Portugal sowie Belgien.",
+   "clubs": [],
    "transfer": false
   },
   {
@@ -2468,70 +2528,6 @@
    "published": "2026-10-30T17:16:07Z",
    "teaser": "Das Bundeskartellamt hat die Bundesliga im August zur einheitlichen Umsetzung der 50+1-Regel aufgefordert. Das Bündnis \"Fanszenen Deutschlands\" verlangt nun eine konsequente Umsetzung.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/andere-hausnummer-vor-60-000-zu-kicken-huetter-will-ilicevic-behutsam-aufbauen-1266893/video",
-   "title": "\"Andere Hausnummer, vor 60.000 zu kicken\": Hütter will Ilicevic behutsam aufbauen",
-   "link": "https://www.kicker.de/andere-hausnummer-vor-60-000-zu-kicken-huetter-will-ilicevic-behutsam-aufbauen-1266893/video",
-   "source": "kicker",
-   "published": "2026-10-30T16:59:48Z",
-   "teaser": "Mit Niko Ilicevic hat Eintracht Frankfurt ein echtes Juwel in den eigenen Reihen. Am Sonntag, einen Tag nach seinem 16. Geburtstag, wird er erstmals gegen den HSV im Profikader stehen. Trainer Adi Hütter möchte den Jungen behutsam aufbauen.",
-   "clubs": [
-    91,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bundesliga-rekord-winkt-eintracht-juwel-ilicevic-vor-debuet-1266870/artikel",
-   "title": "Bundesliga-Rekord winkt: Eintracht-Juwel Ilicevic vor Debüt",
-   "link": "https://www.kicker.de/bundesliga-rekord-winkt-eintracht-juwel-ilicevic-vor-debuet-1266870/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T16:41:23Z",
-   "teaser": "Einen Tag nach seinem 16. Geburtstag wird Niko Ilicevic erstmals zum Profikader von Eintracht Frankfurt gehören. SGE-Trainer Adi Hütter stellte dem Talent sogar sein Debüt in Aussicht - ausgerechnet gegen den HSV, bei dem einst sein Onkel …",
-   "clubs": [
-    91,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/demichelis-ueber-dzeko-wahnsinn-dass-er-immer-noch-spielt-1266887/video",
-   "title": "Demichelis über Dzeko: \"Wahnsinn, dass er immer noch spielt\"",
-   "link": "https://www.kicker.de/demichelis-ueber-dzeko-wahnsinn-dass-er-immer-noch-spielt-1266887/video",
-   "source": "kicker",
-   "published": "2026-10-30T16:33:20Z",
-   "teaser": "Martin Demichelis spricht vor dem Schalke-Duell über die Stärken des Gegners und die besondere Atmosphäre in Gelsenkirchen. Zudem freut er sich auf das Wiedersehen mit seinem ehemaligen Mitspieler Edin Dzeko.",
-   "clubs": [
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/dantes-tor-klau-kobels-bock-die-besten-duelle-zwischen-bayern-und-dem-bvb-1266884/video",
-   "title": "Dantes \"Tor-Klau\", Kobels Bock: Die besten Duelle zwischen Bayern und dem BVB",
-   "link": "https://www.kicker.de/dantes-tor-klau-kobels-bock-die-besten-duelle-zwischen-bayern-und-dem-bvb-1266884/video",
-   "source": "kicker",
-   "published": "2026-10-30T16:29:09Z",
-   "teaser": "Es ist das Topspiel schlechthin, wenn der FC Bayern und Borussia Dortmund aufeinandertreffen. Und das verspricht selten Langeweile: Pure Dramatik in Pokalfinals, Schützenfeste in der Liga und Auseinandersetzungen auf und neben dem Platz. …",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/sr/sr-sv-elversberg-trifft-am-abend-auf-auswaertsstarke-mainzer-108.html",
-   "title": "Elversberg sucht den Switch gegen auswärtsstarke Mainzer",
-   "link": "https://www.sportschau.de/regional/sr/sr-sv-elversberg-trifft-am-abend-auf-auswaertsstarke-mainzer-108.html",
-   "source": "Sportschau",
-   "published": "2026-10-30T16:08:59Z",
-   "teaser": "Nach ihrem Ausscheiden aus dem DFB-Pokal treffen Elversberg und Mainz heute in der Fußball-Bundesliga aufeinander.",
-   "clubs": [
-    81,
-    198
-   ],
    "transfer": false
   }
  ]
