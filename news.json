@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T14:15:42Z",
+ "updated": "2026-11-06T20:32:00Z",
  "sources": [
   {
    "name": "kicker",
@@ -17,17 +17,179 @@
  "items": [
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193654/hamburger-sv_borussia-moenchengladbach/liveticker",
-   "title": "Ab 20.30 Uhr live - Krisenduell in Hamburg",
+   "title": "Jetzt live - Gladbach hält dagegen und gleicht beim HSV aus",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193654/hamburger-sv_borussia-moenchengladbach/liveticker",
    "source": "Sportschau",
-   "published": "2026-11-06T14:02:25Z",
-   "teaser": "In der Bundesliga treffen am Freitagabend die Kellerkinder Hamburger SV und Borussia Mönchengladbach aufeinander. In er vergangenen Woche verlor der HSV zweimal gegen Eintracht Frankfurt - erst im Pokal, dann auch in der Liga.",
+   "published": "2026-11-06T20:24:24Z",
+   "teaser": "Im Spiel zwischen dem Hamburger SV und Borussia Mönchengladbach ist einiges los. Den Fohlen ist kurz vor der Pause der Ausgleich gelungen.",
    "clubs": [
-    91,
     87,
     100
    ],
    "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/aufatmen-in-hoffenheim-kramaric-sagt-laenderspiele-ab-1269306/artikel",
+   "title": "Aufatmen in Hoffenheim: Kramaric sagt Länderspiele ab",
+   "link": "https://www.kicker.de/aufatmen-in-hoffenheim-kramaric-sagt-laenderspiele-ab-1269306/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T20:00:20Z",
+   "teaser": "Die TSG Hoffenheim hat aktuell sehr mit Verletzungsproblemen zu kämpfen - und auch Stürmerstar Andrej Kramaric ist noch nicht im Vollbesitz seiner Kräfte. Jetzt sagte er die Teilnahme an den kommenden Länderspielen Kroatiens ab.",
+   "clubs": [
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/hamburger-sv-gegen-borussia-moenchengladbach,audiostream-hamburger-sv-gegen-borussia-moenchengladbach-104.html",
+   "title": "Hamburger SV gegen Borussia Mönchengladbach Live im Audiostream",
+   "link": "https://www.sportschau.de/fussball/bundesliga/hamburger-sv-gegen-borussia-moenchengladbach,audiostream-hamburger-sv-gegen-borussia-moenchengladbach-104.html",
+   "source": "Sportschau",
+   "published": "2026-11-06T19:15:00Z",
+   "teaser": "9. Spieltag: Anpfiff des Spiels ist am 06.11.2026 um 20:30 Uhr. Borussia Mönchengladbach spielt in Hamburg.",
+   "clubs": [
+    87,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-toller-schuss-von-muheim-scallys-schlenzer-sitzt-1268780/artikel",
+   "title": "LIVE! Toller Schuss von Muheim - Scallys Schlenzer sitzt",
+   "link": "https://www.kicker.de/live-toller-schuss-von-muheim-scallys-schlenzer-sitzt-1268780/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T18:35:49Z",
+   "teaser": "Mit dem Duell HSV gegen Schlusslicht Gladbach wird der 9. Spieltag eröffnet. Robbt sich die Borussia an die Nichtabstiegsplätze heran oder distanzieren die Hamburger den Konkurrenten noch klarer?",
+   "clubs": [
+    87,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/dann-haetten-wir-etwas-neues-fuer-die-bingo-karte-wagner-ueber-rolle-von-el-mala-1269294/video",
+   "title": "\"Dann hätten wir etwas Neues für die Bingo-Karte\": Wagner über Rolle von El Mala",
+   "link": "https://www.kicker.de/dann-haetten-wir-etwas-neues-fuer-die-bingo-karte-wagner-ueber-rolle-von-el-mala-1269294/video",
+   "source": "kicker",
+   "published": "2026-11-06T17:51:57Z",
+   "teaser": "Wie schon im September hat es Said El Mala erneut in den Kader von Jürgen Klopp für die anstehenden Nations-League-Spiele geschafft. Köln-Trainer René Wagner erklärt El Malas veränderte Rolle und freut sich über die Nominierung.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fischer-ueber-nicht-nominierung-von-amiri-ich-hoffe-er-war-enttaeuscht-1269285/video",
+   "title": "Fischer über Nicht-Nominierung von Amiri: \"Ich hoffe, er war enttäuscht\"",
+   "link": "https://www.kicker.de/fischer-ueber-nicht-nominierung-von-amiri-ich-hoffe-er-war-enttaeuscht-1269285/video",
+   "source": "kicker",
+   "published": "2026-11-06T17:06:47Z",
+   "teaser": "Der FSV Mainz 05 hat derzeit mit einer Ergebniskrise zu kämpfen: In den letzten fünf Pflichtspielen gab es vier Niederlagen. Am Wochenende ist nun der FC Bayern zu Gast. Kein Grund zur Sorge für Trainer Urs Fischer, der sich auch zur …",
+   "clubs": [
+    40,
+    81
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/die-wade-fragezeichen-hinter-nusa-1269271/artikel",
+   "title": "Die Wade: Fragezeichen hinter Nusa",
+   "link": "https://www.kicker.de/die-wade-fragezeichen-hinter-nusa-1269271/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T16:43:10Z",
+   "teaser": "Antonio Nusa ist in dieser Saison bislang einer der konstantesten Akteure bei RB Leipzig. Ob der 21 Jahre alte Linksaußen im Heimspiel gegen den FC Augsburg mitwirken kann, steht allerdings noch nicht fest.",
+   "clubs": [
+    1635,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fischer-ich-bin-halt-langweilig-1269268/artikel",
+   "title": "Fischer: \"Ich bin halt langweilig\"",
+   "link": "https://www.kicker.de/fischer-ich-bin-halt-langweilig-1269268/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T16:12:03Z",
+   "teaser": "Drei Niederlagen aus drei Spielen in der zurückliegenden englischen Woche. Dazu noch immer kein Heimsieg in dieser Saison und nun kommen die Bayern zu Besuch. 05-Trainer Urs Fischer setzt auf einen altbewährten Lösungsansatz.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nachbarduell-in-hamburg-die-top-11-der-ewigen-bundesliga-tabelle-780646/slideshow",
+   "title": "Nachbarduell in Hamburg: Die Top 11 der ewigen Bundesliga-Tabelle",
+   "link": "https://www.kicker.de/nachbarduell-in-hamburg-die-top-11-der-ewigen-bundesliga-tabelle-780646/slideshow",
+   "source": "kicker",
+   "published": "2026-11-06T15:44:26Z",
+   "teaser": "Wenn der HSV Gladbach empfängt, duellieren sich zwei Nachbarn aus den Top 10 der ewigen Bundesliga-Tabelle. Wer gehört dort noch dazu?",
+   "clubs": [
+    87,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nlz-paradebeispiel-nebel-verlaengert-in-mainz-1269261/artikel",
+   "title": "\"NLZ-Paradebeispiel\": Nebel verlängert in Mainz",
+   "link": "https://www.kicker.de/nlz-paradebeispiel-nebel-verlaengert-in-mainz-1269261/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T15:36:17Z",
+   "teaser": "Paul Nebel hat sich in den vergangenen Jahren beim 1. FSV Mainz 05 in der Bundesliga etabliert und soll auch künftig das Rot-Weiße Trikot tragen. Das Eigengewächs hat seinen Vertrag bei den 05ern am Freitag verlängert.",
+   "clubs": [
+    81
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/gosens-und-el-faouzi-zurueck-schluesselspieler-ljubicic-1269250/artikel",
+   "title": "Gosens und El Faouzi zurück - Schlüsselspieler Ljubicic?",
+   "link": "https://www.kicker.de/gosens-und-el-faouzi-zurueck-schluesselspieler-ljubicic-1269250/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T15:18:09Z",
+   "teaser": "Sechs Pflichtspiele ohne Sieg haben den Druck auf Schalke erhöht, Punkte müssen her. In Sinsheim sind Robin Gosens und Soufiane El-Faouzi wieder dabei - und Dejan Ljubicic etwa eine Art Taktgeber?",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Mainz bindet \"Paradebeispiel\" Nebel - Aston Villa arbeitet an Emery-Verlängerung",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T15:11:35Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [
+    81
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/auf-schalke-ist-niemand-vom-druck-gelaehmt-am-wenigsten-der-trainer-1269252/video",
+   "title": "\"Auf Schalke ist niemand vom Druck gelähmt - am wenigsten der Trainer\"",
+   "link": "https://www.kicker.de/auf-schalke-ist-niemand-vom-druck-gelaehmt-am-wenigsten-der-trainer-1269252/video",
+   "source": "kicker",
+   "published": "2026-11-06T14:41:07Z",
+   "teaser": "Obwohl seit einigen Wochen neben Punkten auch Stürmertore ausbleiben, gerät auf Schalke niemand in Panik. Gegen Hoffenheim soll die Systemumstellung zur Kehrtwende beitragen.",
+   "clubs": [
+    175,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nicht-zu-viel-erwarten-ilic-koennte-bei-union-zurueckkehren-1269244/artikel",
+   "title": "\"Nicht zu viel erwarten\": Ilic könnte bei Union zurückkehren",
+   "link": "https://www.kicker.de/nicht-zu-viel-erwarten-ilic-koennte-bei-union-zurueckkehren-1269244/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T14:31:32Z",
+   "teaser": "Wenn Union Berlin am Sonntag beim SC Freiburg antritt, könnte auch zum ersten Mal in der aktuellen Spielzeit Andrej Ilic wieder im Kader stehen. Trainer Mauro Lustrinelli zeigte sich vorsichtig optimistisch, muss aber dafür auf Aljoscha …",
+   "clubs": [
+    112,
+    80
+   ],
+   "transfer": true
   },
   {
    "id": "https://www.sportschau.de/regional/wdr/wdr-vom-perlentaucher-zum-bvb-sportdirektor-100.html",
@@ -169,6 +331,23 @@
    "clubs": [
     40,
     81
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/biergarten-stahlhelm-und-abstiegskampf-die-bundesliga-vorschau,video-buli-vorschau-100.html",
+   "title": "Biergarten, Stahlhelm und Abstiegskampf - die Bundesliga-Vorschau",
+   "link": "https://www.sportschau.de/fussball/bundesliga/biergarten-stahlhelm-und-abstiegskampf-die-bundesliga-vorschau,video-buli-vorschau-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-06T09:11:28Z",
+   "teaser": "Der neunte Bundesliga-Spieltag steht an und der hat es in sich: HSV und Gladbach treffen sich zum Abstiegskracher, Bayern und Dortmund kämpfen im Fernduell und der 1. FC Köln empfängt Leverkusen zum Derby.",
+   "clubs": [
+    40,
+    7,
+    6,
+    87,
+    65,
+    100
    ],
    "transfer": false
   },
@@ -700,16 +879,6 @@
     65
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Maza spricht über PSG - Toptalent Gabriel vor Wechsel zu Real",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-04T12:44:56Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/wie-loest-huetter-das-luxusproblem-in-der-sge-offensive-1268476/video",
@@ -2364,163 +2533,6 @@
     1635,
     9
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/borussia-moenchengladbach-gegen-sc-paderborn-07,audiostream-borussia-moenchengladbach-gegen-sc-paderborn-07-102.html",
-   "title": "Live hören: Borussia Mönchengladbach gegen SC Paderborn 07 - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/borussia-moenchengladbach-gegen-sc-paderborn-07,audiostream-borussia-moenchengladbach-gegen-sc-paderborn-07-102.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T14:15:00Z",
-   "teaser": "8. Spieltag: Anpfiff des Spiels ist am 31.10.2026 um 15:30 Uhr. SC Paderborn 07 spielt in Mönchengladbach.",
-   "clubs": [
-    87,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/8-spieltag-die-konferenz,audiostream-8-spieltag-die-konferenz-144.html",
-   "title": "Live hören: Die Konferenz - 8. Spieltag | Fußball Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/8-spieltag-die-konferenz,audiostream-8-spieltag-die-konferenz-144.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T14:10:00Z",
-   "teaser": "Bundesliga live - alle Spiele am 31.10.2026 um 15:30 Uhr in der Konferenz.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-bundesliga-debuet-fuer-tsg-talent-batz-im-borussia-tor-matanovic-auf-der-bank-1266547/artikel",
-   "title": "LIVE! Bundesliga-Debüt für TSG-Talent - Batz im Borussia-Tor - Matanovic auf der Bank",
-   "link": "https://www.kicker.de/live-bundesliga-debuet-fuer-tsg-talent-batz-im-borussia-tor-matanovic-auf-der-bank-1266547/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T13:32:32Z",
-   "teaser": "Freiburg (in Augsburg) führt auf Platz 3 ein Verfolger-Quartett an, das am Samstagnachmittag zur gleichen Zeit am Ball ist. Gladbach hat nach dem ersten Sieg Lunte gerochen - gelingt gegen Paderborn der nächste Dreier?",
-   "clubs": [
-    112,
-    175,
-    87,
-    95,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-chatzialexiou-wird-kroesche-nachfolger-bei-der-eintracht-100.html",
-   "title": "Chatzialexiou wird Krösche-Nachfolger bei der Eintracht",
-   "link": "https://www.sportschau.de/regional/hr/hr-chatzialexiou-wird-kroesche-nachfolger-bei-der-eintracht-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T13:02:39Z",
-   "teaser": "Eintracht Frankfurt hat die Suche nach einem Krösche-Nachfolger schnell abschließen können. Joti Chatzialexiou wechselt vom 1. FC Nürnberg an den Main und wird für die Hessen zum Schnäppchen. Offen ist allein, wann der neue Kaderplaner …",
-   "clubs": [
-    91
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/das-nervt-mich-extremst-pinckert-aergert-trotz-4-1-die-elversberger-nachlaessigkeit-1267058/artikel",
-   "title": "\"Das nervt mich extremst\": Pinckert ärgert trotz 4:1 die Elversberger Nachlässigkeit",
-   "link": "https://www.kicker.de/das-nervt-mich-extremst-pinckert-aergert-trotz-4-1-die-elversberger-nachlaessigkeit-1267058/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T11:45:11Z",
-   "teaser": "Die SV Elversberg hat mit 4:1 gegen Mainz 05 gewonnen. Ein so deutlicher Sieg sollte für einen Aufsteiger eigentlich ein Grund zur Freude sein, doch bei den Saarländern sieht man noch Verbesserungspotenzial.",
-   "clubs": [
-    81,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/chatzialexiou-wird-eintracht-sportvorstand-in-frankfurt-nuernberg-laesst-zeitpunkt-offen-1267031/artikel",
-   "title": "Chatzialexiou wird Eintracht-Sportvorstand in Frankfurt - Nürnberg lässt Zeitpunkt offen",
-   "link": "https://www.kicker.de/chatzialexiou-wird-eintracht-sportvorstand-in-frankfurt-nuernberg-laesst-zeitpunkt-offen-1267031/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T11:14:40Z",
-   "teaser": "Eintracht Frankfurt hat einen Nachfolger für Sportvorstand Markus Krösche gefunden: Joti Chatzialexiou kommt vom 1. FC Nürnberg. Über den Zeitpunkt haben sich beide Klubs geeinigt - aber womöglich noch nicht final.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fischer-schonungslos-muss-aufpassen-was-ich-sage-1267049/video",
-   "title": "Fischer schonungslos: \"Muss aufpassen, was ich sage\"",
-   "link": "https://www.kicker.de/fischer-schonungslos-muss-aufpassen-was-ich-sage-1267049/video",
-   "source": "kicker",
-   "published": "2026-10-31T10:39:16Z",
-   "teaser": "Mainz-Trainer Urs Fischer kritisiert die Leistung seiner Mannschaft nach dem frühen 1:4 gegen Elversberg deutlich. Vor allem die Zweikampfführung und das Defensivverhalten seien nicht bundesligatauglich.",
-   "clubs": [
-    81,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wagner-rechnet-den-klassenerhalt-vor-hoehere-mathematik-1267035/video",
-   "title": "Wagner rechnet den Klassenerhalt vor: \"Höhere Mathematik\"",
-   "link": "https://www.kicker.de/wagner-rechnet-den-klassenerhalt-vor-hoehere-mathematik-1267035/video",
-   "source": "kicker",
-   "published": "2026-10-31T09:56:38Z",
-   "teaser": "Elversberg-Trainer Vincent Wagner sprach nach dem 4:1-Sieg gegen Mainz über die Statistiken, die zuvor gegen sein Team gesprochen hatten. Der Aufsteiger steht mit 13 Punkten in der oberen Tabellenhälfte.",
-   "clubs": [
-    81,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/einigung-erzielt-chatzialexiou-wird-sportvorstand-in-frankfurt-1267031/artikel",
-   "title": "Einigung erzielt: Chatzialexiou wird Sportvorstand in Frankfurt",
-   "link": "https://www.kicker.de/einigung-erzielt-chatzialexiou-wird-sportvorstand-in-frankfurt-1267031/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T09:33:03Z",
-   "teaser": "Eintracht Frankfurt hat einen Nachfolger für Sportvorstand Markus Krösche gefunden: Joti Chatzialexiou kommt vom 1. FC Nürnberg - nach kicker-Informationen ist der Wechsel fix.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fussball-mit-grusel-faktor-welche-partien-fans-auf-beiden-seiten-erschauern-liessen-1265774/artikel",
-   "title": "Fußball mit Grusel-Faktor: Welche Partien Fans auf beiden Seiten erschauern ließen",
-   "link": "https://www.kicker.de/fussball-mit-grusel-faktor-welche-partien-fans-auf-beiden-seiten-erschauern-liessen-1265774/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T08:10:52Z",
-   "teaser": "Anlässlich Halloween präsentieren wir die gruseligsten Partien der Bundesliga-Geschichte: die sechs Duelle, die im kicker die Spielnote 6 erhielten.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-sechs-gruseligsten-spiele-der-bundesliga-geschichte-1265774/artikel",
-   "title": "Die sechs gruseligsten Spiele der Bundesliga-Geschichte",
-   "link": "https://www.kicker.de/die-sechs-gruseligsten-spiele-der-bundesliga-geschichte-1265774/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T08:10:52Z",
-   "teaser": "Anlässlich Halloween präsentieren wir die gruseligsten Partien der Bundesliga-Geschichte: die sechs Duelle, die im kicker die Spielnote 6 erhielten.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wagners-mahnruf-nach-sve-sieg-junge-nationalspieler-werden-durch-den-fleischwolf-gedreht-1266981/artikel",
-   "title": "Wagners Mahnruf nach SVE-Sieg: Junge Nationalspieler werden \"durch den Fleischwolf gedreht\"",
-   "link": "https://www.kicker.de/wagners-mahnruf-nach-sve-sieg-junge-nationalspieler-werden-durch-den-fleischwolf-gedreht-1266981/artikel",
-   "source": "kicker",
-   "published": "2026-10-30T23:24:36Z",
-   "teaser": "Die SV Elversberg hat den 8. Spieltag mit einem deutlichen Heimsieg gegen den 1. FSV Mainz 05 eröffnet. Vincent Wagner freute sich selbstredend, nutzte den Anlass aber auch für eine Generalkritik am vollen Terminkalender seiner …",
-   "clubs": [
-    81,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-freitag-re-live-3010-100.html",
-   "title": "Die Sportschau am Freitag in voller Länge",
-   "link": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-in-voller-laenge,sportschau-am-freitag-re-live-3010-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-30T23:03:27Z",
-   "teaser": "Sehen Sie hier die Sportschau am Freitag mit Zusammenfassungen der Bundesliga, 2. Bundesliga und dem DFB-Pokal der Frauen.",
-   "clubs": [],
    "transfer": false
   }
  ]
