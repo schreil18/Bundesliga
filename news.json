@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T06:31:30Z",
+ "updated": "2026-11-07T13:29:09Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,235 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/vfb-stuttgart-gegen-werder-bremen,audiostream-vfb-stuttgart-gegen-werder-bremen-108.html",
+   "title": "Live hören: VfB Stuttgart gegen Werder Bremen - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/vfb-stuttgart-gegen-werder-bremen,audiostream-vfb-stuttgart-gegen-werder-bremen-108.html",
+   "source": "Sportschau",
+   "published": "2026-11-07T17:15:00Z",
+   "teaser": "9. Spieltag: Anpfiff des Spiels ist am 07.11.2026 um 18:30 Uhr. Werder Bremen spielt in Stuttgart.",
+   "clubs": [
+    16,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-07-gegen-eintracht-frankfurt,audiostream-sc-paderborn-07-gegen-eintracht-frankfurt-100.html",
+   "title": "Live hören: SC Paderborn 07 gegen Eintracht Frankfurt - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-07-gegen-eintracht-frankfurt,audiostream-sc-paderborn-07-gegen-eintracht-frankfurt-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-07T14:15:00Z",
+   "teaser": "9. Spieltag: Anpfiff des Spiels ist am 07.11.2026 um 15:30 Uhr. Eintracht Frankfurt spielt in Paderborn.",
+   "clubs": [
+    91,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/1-fsv-mainz-05-gegen-bayern-muenchen,audiostream-1-fsv-mainz-05-gegen-bayern-muenchen-112.html",
+   "title": "Live hören: 1. FSV Mainz 05 gegen Bayern München - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/1-fsv-mainz-05-gegen-bayern-muenchen,audiostream-1-fsv-mainz-05-gegen-bayern-muenchen-112.html",
+   "source": "Sportschau",
+   "published": "2026-11-07T14:15:00Z",
+   "teaser": "9. Spieltag: Anpfiff des Spiels ist am 07.11.2026 um 15:30 Uhr. Bayern München spielt in Mainz.",
+   "clubs": [
+    40,
+    81
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/rb-leipzig-gegen-fc-augsburg,audiostream-rb-leipzig-gegen-fc-augsburg-108.html",
+   "title": "Live hören: RB Leipzig gegen FC Augsburg - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/rb-leipzig-gegen-fc-augsburg,audiostream-rb-leipzig-gegen-fc-augsburg-108.html",
+   "source": "Sportschau",
+   "published": "2026-11-07T14:15:00Z",
+   "teaser": "9. Spieltag: Anpfiff des Spiels ist am 07.11.2026 um 15:30 Uhr. FC Augsburg spielt in Leipzig.",
+   "clubs": [
+    1635,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/borussia-dortmund-gegen-sv-07-elversberg,audiostream-borussia-dortmund-gegen-sv-07-elversberg-100.html",
+   "title": "Live hören: Borussia Dortmund gegen SV 07 Elversberg - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/borussia-dortmund-gegen-sv-07-elversberg,audiostream-borussia-dortmund-gegen-sv-07-elversberg-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-07T14:15:00Z",
+   "teaser": "9. Spieltag: Anpfiff des Spiels ist am 07.11.2026 um 15:30 Uhr. SV 07 Elversberg spielt in Dortmund.",
+   "clubs": [
+    7,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/9-spieltag-die-konferenz,audiostream-9-spieltag-die-konferenz-144.html",
+   "title": "Live hören: Die Konferenz - 9. Spieltag | Fußball Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/9-spieltag-die-konferenz,audiostream-9-spieltag-die-konferenz-144.html",
+   "source": "Sportschau",
+   "published": "2026-11-07T14:10:00Z",
+   "teaser": "Bundesliga live - alle Spiele am 07.11.2026 um 15:30 Uhr in der Konferenz.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/200-und-50-ginter-eilt-von-jubilaeum-zu-jubilaeum-1269395/artikel",
+   "title": "200 und 50: Ginter eilt von Jubiläum zu Jubiläum",
+   "link": "https://www.kicker.de/200-und-50-ginter-eilt-von-jubilaeum-zu-jubilaeum-1269395/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T11:36:08Z",
+   "teaser": "Vor der Länderspielpause will der SC Freiburg noch mal alle Kräfte mobilisieren - und Matthias Ginter will ein erfolgreiches Jubiläumsspiel bestreiten. Doch gegen Union Berlin waren die Breisgauer in den letzten Jahren nicht gerade …",
+   "clubs": [
+    112,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/ndr/ein-hamburger-traum-hsv-talent-nandja-verzaubert-volksparkstadion,hsv-2380.html",
+   "title": "Ein Hamburger Traum: HSV-Talent Nandja verzaubert Volksparkstadion",
+   "link": "https://www.sportschau.de/regional/ndr/ein-hamburger-traum-hsv-talent-nandja-verzaubert-volksparkstadion,hsv-2380.html",
+   "source": "Sportschau",
+   "published": "2026-11-07T11:15:59Z",
+   "teaser": "Der 19 Jahre alte Verteidiger schießt gegen Gladbach sein erstes Profi-Tor und wird anschließend von den Fans und seinen Teamkameraden enthusiastisch gefeiert.",
+   "clubs": [
+    87,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/warum-die-bellingham-berufung-fuer-den-bvb-zum-trumpf-werden-kann-1269312/artikel",
+   "title": "Warum die Bellingham-Berufung für den BVB zum Trumpf werden kann",
+   "link": "https://www.kicker.de/warum-die-bellingham-berufung-fuer-den-bvb-zum-trumpf-werden-kann-1269312/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T11:02:17Z",
+   "teaser": "In England gilt die Bundesliga als zu schwach und zu weich. Dennoch wurde mit Dortmunds Jobe Bellingham ein Legionär erstmals in den Kader der Three Lions berufen. Das passiert nicht allzu oft - und könnte für den BVB in Zukunft noch zum …",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-moenchengladbach-zieht-die-falschen-schluesse-100.html",
+   "title": "Gladbach zieht gegen HSV die falschen Schlüsse",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-moenchengladbach-zieht-die-falschen-schluesse-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-07T09:56:00Z",
+   "teaser": "Borussia Mönchengladbach bleibt nach der Niederlage beim Hamburger SV Letzter - und zieht die falschen Schlüsse aus der Partie.",
+   "clubs": [
+    87,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kampf-ums-gladbach-tor-batz-uebt-maximaldruck-aus-1269373/artikel",
+   "title": "Kampf ums Gladbach-Tor: Batz übt Maximaldruck aus",
+   "link": "https://www.kicker.de/kampf-ums-gladbach-tor-batz-uebt-maximaldruck-aus-1269373/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T09:48:06Z",
+   "teaser": "Trotz der 1:3-Niederlage wusste Borussias Torhüter Daniel Batz auch in Hamburg wieder zu überzeugen. Nach der Länderspielpause muss Alexander Blessin eine schwierige Entscheidung treffen.",
+   "clubs": [
+    87,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fuer-mich-eine-szene-des-spiels-polzin-lobt-reaktion-auf-bornauws-fehler-1269382/video",
+   "title": "\"Für mich eine Szene des Spiels\": Polzin lobt Reaktion auf Bornauws Fehler",
+   "link": "https://www.kicker.de/fuer-mich-eine-szene-des-spiels-polzin-lobt-reaktion-auf-bornauws-fehler-1269382/video",
+   "source": "kicker",
+   "published": "2026-11-07T09:41:30Z",
+   "teaser": "Merlin Polzin ist nach dem 3:1 gegen Borussia Mönchengladbach stolz auf seine Mannschaft. Neben den Toren lobte er insbesondere eine Szene, in der Sebastian Bornauw einen Fehlpass spielte.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nur-kovacs-vita-macht-mut-endet-die-neulings-durststrecke-des-bvb-gegen-elversberg-1268809/artikel",
+   "title": "Nur Kovacs Vita macht Mut: Endet die Neulings-Durststrecke des BVB gegen Elversberg?",
+   "link": "https://www.kicker.de/nur-kovacs-vita-macht-mut-endet-die-neulings-durststrecke-des-bvb-gegen-elversberg-1268809/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T09:32:58Z",
+   "teaser": "Am Samstag trifft der BVB auf Bundesliga-Neuling Elversberg. Eine auffällige Statistik aus den Vorjahren spricht nicht gerade für die Dortmunder - wenn da nicht ihr Trainer wäre.",
+   "clubs": [
+    7,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/baerenstarker-notenschnitt-hoffenheims-prass-reitet-auf-der-erfolgswelle-1269370/artikel",
+   "title": "Bärenstarker Notenschnitt: Hoffenheims Prass reitet auf der Erfolgswelle",
+   "link": "https://www.kicker.de/baerenstarker-notenschnitt-hoffenheims-prass-reitet-auf-der-erfolgswelle-1269370/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T09:10:44Z",
+   "teaser": "Mit starken Leistungen und drei Toren in seinen jüngsten vier Spielen trumpft Alexander Prass derzeit in Hoffenheim groß auf. Der Nationalspieler spricht über seine bislang beste Phase bei der TSG Hoffenheim und die Gründe.",
+   "clubs": [
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Vertragsverlängerung nach Krebsdiagnose bei Müllers Teamkollege - Mainz bindet Nebel",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T08:35:47Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [
+    81
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/stolpergefahr-fuer-die-branchenriesen,stolpergefahr-fuer-bayern-und-bvb-100.html",
+   "title": "Bayern und BVB vor Stolpergefahr in der Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/stolpergefahr-fuer-die-branchenriesen,stolpergefahr-fuer-bayern-und-bvb-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-07T08:18:05Z",
+   "teaser": "Bayern München und Borussia Dortmund haben nach ihrem direkten Duell und ihren Champions-League-Siegen im Liga-Alltag unangenehme Pflichtaufgaben in Mainz und gegen Elversberg zu erledigen.",
+   "clubs": [
+    40,
+    7,
+    81,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hugo-almeidas-blitz-doppelpack-in-50-sekunden-1268520/video",
+   "title": "Hugo Almeidas Blitz-Doppelpack in 50 Sekunden",
+   "link": "https://www.kicker.de/hugo-almeidas-blitz-doppelpack-in-50-sekunden-1268520/video",
+   "source": "kicker",
+   "published": "2026-11-07T07:24:38Z",
+   "teaser": "Manchmal geht es im Fußball so schnell, dass selbst die TV-Regie nicht ganz hinterherkommt - von der Abwehr ganz zu schweigen. Bei Stuttgarts Gastspiel in Bremen im September 2007 gab es einen solchen Moment.",
+   "clubs": [
+    16,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/blessin-ueber-itakuras-platzverweis-dann-guckst-du-dumm-aus-der-waesche-1269351/video",
+   "title": "Blessin über Itakuras Platzverweis: \"Dann guckst du dumm aus der Wäsche\"",
+   "link": "https://www.kicker.de/blessin-ueber-itakuras-platzverweis-dann-guckst-du-dumm-aus-der-waesche-1269351/video",
+   "source": "kicker",
+   "published": "2026-11-07T07:21:51Z",
+   "teaser": "Gladbach-Coach Alexander Blessin räumt nach der 1:3-Niederlage beim Hamburger SV eine Teilschuld am Platzverweis für Ko Itakura ein. Er habe den Japaner schon eher vom Feld nehmen müssen.",
+   "clubs": [
+    87,
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wer-uebertraegt-vfb-stuttgart-gegen-werder-bremen-heute-live-im-tv-stream-1269183/artikel",
    "title": "Wer überträgt VfB Stuttgart gegen Werder Bremen heute live im TV & Stream?",
@@ -242,18 +471,6 @@
     9
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Mainz bindet \"Paradebeispiel\" Nebel - Aston Villa arbeitet an Emery-Verlängerung",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T15:11:35Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [
-    81
-   ],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/auf-schalke-ist-niemand-vom-druck-gelaehmt-am-wenigsten-der-trainer-1269252/video",
@@ -595,6 +812,19 @@
    "teaser": "Gegen den HSV debütierte Niko Ilicevic bei den Eintracht-Profis und wurde zum geteilten jüngsten Spieler der Bundesliga-Geschichte. Zwar könnte es in Zukunft auch zu Einsätzen in der U 21 kommen, zunächst soll er aber erst einmal bei den …",
    "clubs": [
     100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-sc-paderborn--eintracht-frankfurt-huetter-sieht-richtungsweisendes-spiel-100.html",
+   "title": "Hütter sieht gegen Paderborn \"richtungsweisendes Spiel\"",
+   "link": "https://www.sportschau.de/regional/hr/hr-sc-paderborn--eintracht-frankfurt-huetter-sieht-richtungsweisendes-spiel-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-05T14:43:29Z",
+   "teaser": "Eintracht Frankfurt könnte mit einem Sieg in Paderborn in der Tabelle wieder sachte nach oben blicken. Top-Talent Niko Ilicevic wird wieder im Kader stehen, dafür wackelt ausgerechnet der Kapitän.",
+   "clubs": [
+    91,
+    31
    ],
    "transfer": false
   },
@@ -2296,241 +2526,6 @@
    "teaser": "Mit einem 0:0 gegen Paderborn schloss Gladbach die englische Woche ab. Alexander Blessin ordnete den Punkt ein, betonte aber auch die angespannte Lage bei der Borussia.",
    "clubs": [
     87,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/undav-wir-wussten-dass-sie-mit-ekligen-zweikaempfen-nicht-klarkommen-1267164/artikel",
-   "title": "Undav: \"Wir wussten, dass sie mit ekligen Zweikämpfen nicht klarkommen\"",
-   "link": "https://www.kicker.de/undav-wir-wussten-dass-sie-mit-ekligen-zweikaempfen-nicht-klarkommen-1267164/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T18:46:37Z",
-   "teaser": "Der VfB Stuttgart, der vor der Partie in Leverkusen nur zwei von sieben Partien gewonnen hatte, fuhr am Samstag mit dem 4:2 bei der Werkself einen prestigeträchtigen Sieg ein - nicht zuletzt dank einer speziellen Taktik.",
-   "clubs": [
-    6,
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bremen-auf-kurs-europa-wer-das-vorausgesagt-haette-1267198/video",
-   "title": "Bremen auf Kurs Europa? \"Wer das vorausgesagt hätte ...\"",
-   "link": "https://www.kicker.de/bremen-auf-kurs-europa-wer-das-vorausgesagt-haette-1267198/video",
-   "source": "kicker",
-   "published": "2026-10-31T18:37:49Z",
-   "teaser": "Niclas Füllkrug und Werder Bremen scheinen in der Bundesliga kaum zu stoppen zu sein. Auch gegen Hoffenheim wollte der Höhenflug nicht stoppen, der die Kicker von der Weser auf Tabellenplatz fünf gebracht hat.",
-   "clubs": [
-    175,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/schalke-schriftzug-wird-sichtbar-stimmung-droht-zu-kippen-1267196/video",
-   "title": "Schalke-Schriftzug wird sichtbar: \"Stimmung droht zu kippen\"",
-   "link": "https://www.kicker.de/schalke-schriftzug-wird-sichtbar-stimmung-droht-zu-kippen-1267196/video",
-   "source": "kicker",
-   "published": "2026-10-31T18:28:38Z",
-   "teaser": "Mal wieder hat Schalke ein Heimspiel verloren, mal wieder hat Königsblau kein Tor geschossen. Zwar steht der harte Kern der S04-Fans weiter hinter dem Team, einige Anhänger verließen die Arena aber bereits frühzeitig.",
-   "clubs": [
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-bayern-fuehrt-nach-laimers-energieleistung-und-beklagt-aus-von-saibari-und-gnabry-1266739/artikel",
-   "title": "LIVE! Bayern führt nach Laimers Energieleistung und beklagt Aus von Saibari und Gnabry",
-   "link": "https://www.kicker.de/live-bayern-fuehrt-nach-laimers-energieleistung-und-beklagt-aus-von-saibari-und-gnabry-1266739/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T18:25:07Z",
-   "teaser": "Es ist wieder Zeit für den Klassiker: Der FC Bayern München empfängt den punktgleichen BVB. Dem Sieger winkt die Bundesliga-Tabellenführung.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kane-mit-xxl-projektion-geehrt-und-von-den-bvb-fans-ausgepfiffen-1267176/artikel",
-   "title": "Kane mit XXL-Projektion geehrt - und von den BVB-Fans ausgepfiffen",
-   "link": "https://www.kicker.de/kane-mit-xxl-projektion-geehrt-und-von-den-bvb-fans-ausgepfiffen-1267176/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T18:23:58Z",
-   "teaser": "Harry Kane ist vor dem Bundesliga-Topspiel für den Gewinn des Ballon d'Or nicht nur auf dem Rasen der Allianz-Arena geehrt worden. Die Pfiffe aus dem Dortmunder Block ließ Bayerns Vorstandsboss Christian Dreesen nicht unkommentiert.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fc-bayern-drohen-weitere-ausfaelle-gnabry-und-saibari-verletzt-raus-1267184/artikel",
-   "title": "FC Bayern drohen weitere Ausfälle: Gnabry und Saibari verletzt raus",
-   "link": "https://www.kicker.de/fc-bayern-drohen-weitere-ausfaelle-gnabry-und-saibari-verletzt-raus-1267184/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T18:21:56Z",
-   "teaser": "Dem FC Bayern München drohen weitere Ausfälle im Offensivbereich: Im Topspiel gegen Borussia Dortmund mussten sowohl Ismael Saibari als auch Serge Gnabry früh ausgewechselt werden.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-topspiel-in-muenchen-kobel-rettet-gegen-saibari-bayern-stuermer-muss-verletzt-raus-1266739/artikel",
-   "title": "LIVE! Topspiel in München: Kobel rettet gegen Saibari - Bayern-Stürmer muss verletzt raus",
-   "link": "https://www.kicker.de/live-topspiel-in-muenchen-kobel-rettet-gegen-saibari-bayern-stuermer-muss-verletzt-raus-1266739/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T17:56:28Z",
-   "teaser": "Es ist wieder Zeit für den Klassiker: Der FC Bayern München empfängt den punktgleichen BVB. Dem Sieger winkt die Bundesliga-Tabellenführung.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/eberl-kompany-ist-wirklich-abgeschottet-1267174/artikel",
-   "title": "Eberl: \"Kompany ist wirklich abgeschottet\"",
-   "link": "https://www.kicker.de/eberl-kompany-ist-wirklich-abgeschottet-1267174/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T17:45:24Z",
-   "teaser": "Bayern-Trainer Vincent Kompany verfolgt das Topspiel gegen den BVB abgeschottet als Zuschauer. Sportvorstand Max Eberl sprach vor dem Anpfiff über ein Telefonat - und über Joshua Kimmichs Rückkehr.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/es-ist-eine-scheisssituation-schalke-kaempft-mit-der-torflaute-1267154/artikel",
-   "title": "\"Es ist eine Scheißsituation\": Schalke kämpft mit der Torflaute",
-   "link": "https://www.kicker.de/es-ist-eine-scheisssituation-schalke-kaempft-mit-der-torflaute-1267154/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T17:43:01Z",
-   "teaser": "Schalke bleibt gegen Leipzig im vierten Pflichtspiel in Folge ohne Torerfolg. Da müsse man jetzt gemeinsam raus, findet Loris Karius. Der S04-Keeper und sein Trainer Miron Muslic waren sich nach dem Spiel bei der Bewertung der …",
-   "clubs": [
-    1635,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/baumann-knackt-die-200-die-spieler-mit-den-meisten-bundesliga-niederlagen-1261758/slideshow",
-   "title": "Baumann knackt die 200: Die Spieler mit den meisten Bundesliga-Niederlagen",
-   "link": "https://www.kicker.de/baumann-knackt-die-200-die-spieler-mit-den-meisten-bundesliga-niederlagen-1261758/slideshow",
-   "source": "kicker",
-   "published": "2026-10-31T17:27:55Z",
-   "teaser": "Die Niederlage der TSG Hoffenheim bei Werder Bremen war für Torwart Oliver Baumann seine persönlich 200. Pleite im deutschen Oberhaus. Eine Übersicht über die Spieler mit den meisten Bundesliga-Niederlagen.",
-   "clubs": [
-    175,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-muenchen-gegen-borussia-dortmund,audiostream-bayern-muenchen-gegen-borussia-dortmund-108.html",
-   "title": "Live hören: Bayern München gegen Borussia Dortmund - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-muenchen-gegen-borussia-dortmund,audiostream-bayern-muenchen-gegen-borussia-dortmund-108.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T17:15:00Z",
-   "teaser": "8. Spieltag: Anpfiff des Spiels ist am 31.10.2026 um 18:30 Uhr. Borussia Dortmund spielt in München.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-kritik-an-karl-berater-ballack-kontert-eberl-und-hoeness-1267153/artikel",
-   "title": "Nach Kritik an Karl: Berater Ballack kontert Eberl und Hoeneß",
-   "link": "https://www.kicker.de/nach-kritik-an-karl-berater-ballack-kontert-eberl-und-hoeness-1267153/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T17:09:12Z",
-   "teaser": "Nach Kritik von Uli Hoeneß und Max Eberl hat Michael Ballack Lennart Karl vehement verteidigt - und Vorwürfe gegen den FC Bayern erhoben.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-ueberrascht-gegen-bvb-mit-kimmich-in-der-startelf,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
-   "title": "FC Bayern gegen BVB: Joshua Kimmich überraschend in der Startelf",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-ueberrascht-gegen-bvb-mit-kimmich-in-der-startelf,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T16:44:56Z",
-   "teaser": "Am Samstagabend steigt in München der \"Klassiker\" zwischen dem FC Bayern und Borussia Dortmund. Harry Kane gibt sein Debüt als Weltfußballer, auch Joshua Kimmich spielt.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-bayern-mit-kimmich-bvb-mit-beier-die-aufstellungen-im-topspiel-1266739/artikel",
-   "title": "LIVE! Bayern mit Kimmich, BVB mit Beier: Die Aufstellungen im Topspiel",
-   "link": "https://www.kicker.de/live-bayern-mit-kimmich-bvb-mit-beier-die-aufstellungen-im-topspiel-1266739/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T16:32:57Z",
-   "teaser": "Es ist wieder Zeit für den Klassiker: Ab 18.30 Uhr empfängt Bayern München den punktgleichen BVB. Dem Sieger winkt die Bundesliga-Tabellenführung.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/stuttgart-beendet-in-leverkusen-die-ergebniskrise,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
-   "title": "Der VfB Stuttgart beendet bei Bayer Leverkusen seine Bundesliga-Krise",
-   "link": "https://www.sportschau.de/fussball/bundesliga/stuttgart-beendet-in-leverkusen-die-ergebniskrise,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T16:26:24Z",
-   "teaser": "Der VfB Stuttgart hat sich mit starker Chancenverwertung bei Bayer Leverkusen aus seiner Ergebniskrise in der Bundesliga geschossen.",
-   "clubs": [
-    6,
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/leverkusen-gegen-stuttgart-2026-bundesliga-5226873/spielbericht",
-   "title": "Demirovics Doppelpack bringt VfB in Leverkusen auf Siegkurs",
-   "link": "https://www.kicker.de/leverkusen-gegen-stuttgart-2026-bundesliga-5226873/spielbericht",
-   "source": "kicker",
-   "published": "2026-10-31T16:26:07Z",
-   "teaser": "Dank eines 4:2-Erfolgs bei Bayer Leverkusen klettert der VfB Stuttgart in der Tabelle wieder ins Mittelfeld. Die Schwaben brachten der Werkself dank größerer Effizienz die erste Heimniederlage der Saison bei.",
-   "clubs": [
-    6,
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3909/",
-   "title": "Jetzt live - Füllkrug trifft schon wieder, Stuttgart hat Spaß",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3909/",
-   "source": "Sportschau",
-   "published": "2026-10-31T16:01:35Z",
-   "teaser": "Der VfB Stuttgart hat in Leverkusen schon das vierte Tor erzielt. Auch Leipzig führt. Und Niclas Füllkrug war schon wieder für Bremen erfolgreich.",
-   "clubs": [
-    1635,
-    6,
-    16,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-demirovic-macht-s-deutlich-fuellkrug-baut-serie-aus-matanovic-wuchtig-zum-ausgleich-1266547/artikel",
-   "title": "LIVE! Demirovic macht's deutlich - Füllkrug baut Serie aus - Matanovic wuchtig zum Ausgleich",
-   "link": "https://www.kicker.de/live-demirovic-macht-s-deutlich-fuellkrug-baut-serie-aus-matanovic-wuchtig-zum-ausgleich-1266547/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T15:55:54Z",
-   "teaser": "Freiburg (in Augsburg) führt auf Platz 3 ein Verfolger-Quartett an, das am Samstagnachmittag zur gleichen Zeit am Ball ist. Gladbach hat nach dem ersten Sieg Lunte gerochen - gelingt gegen Paderborn der nächste Dreier?",
-   "clubs": [
-    112,
-    87,
-    95,
     31
    ],
    "transfer": false
