@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T13:29:09Z",
+ "updated": "2026-11-07T18:15:29Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,12 +16,211 @@
  ],
  "items": [
   {
+   "id": "https://www.sportschau.de/fussball/bundesliga/medizinischer-notfall-ueberschattet-remis-zwischen-paderborn-und-frankfurt,spielbericht-sc-paderborn-eintracht-frankfurt-100.html",
+   "title": "Medizinischer Notfall überschattet Remis zwischen Paderborn und Frankfurt",
+   "link": "https://www.sportschau.de/fussball/bundesliga/medizinischer-notfall-ueberschattet-remis-zwischen-paderborn-und-frankfurt,spielbericht-sc-paderborn-eintracht-frankfurt-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-07T18:05:41Z",
+   "teaser": "Eintracht Frankfurt hat dank eines Tores in der Nachspielzeit einen Punkt beim SC Paderborn gerettet. Überschattet wurde die Partie von einem medizinischen Notfall.",
+   "clubs": [
+    91,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/trotz-bayern-sieg-spieler-sassen-diskutierend-in-der-kabine-1269523/video",
+   "title": "Trotz Bayern-Sieg: \"Spieler saßen diskutierend in der Kabine\"",
+   "link": "https://www.kicker.de/trotz-bayern-sieg-spieler-sassen-diskutierend-in-der-kabine-1269523/video",
+   "source": "kicker",
+   "published": "2026-11-07T18:02:17Z",
+   "teaser": "Gegen den vermeintlichen Angstgegner löste der FC Bayern die Aufgabe einigermaßen souverän. Das hielt die Spieler aber nicht davon ab, im Anschluss an das Spiel in der Kabine zu diskutieren.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193606/vfb-stuttgart_werder-bremen/liveticker",
+   "title": "Jetzt live - Bremen wird mutiger, aber Stuttgart führt weiter",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193606/vfb-stuttgart_werder-bremen/liveticker",
+   "source": "Sportschau",
+   "published": "2026-11-07T18:00:28Z",
+   "teaser": "Nach der frühen Führung für den VFB Stuttgart kommt Bremen besser ins Spiel, kann am 0:1-Rückstand bislang aber noch nichts ändern. Füllkrug sieht Gelb.",
+   "clubs": [
+    16,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/punktgewinn-dank-hackentor-burkardt-lobt-atubolus-ueberragende-vorlage-1269499/artikel",
+   "title": "Punktgewinn dank Hackentor: Burkardt lobt Atubolus \"überragende\" Vorlage",
+   "link": "https://www.kicker.de/punktgewinn-dank-hackentor-burkardt-lobt-atubolus-ueberragende-vorlage-1269499/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T17:57:04Z",
+   "teaser": "Auf die Nichtnominierung von Jürgen Klopp reagierte Jonathan Burkardt mit einem Doppelpack in Paderborn. Den späten Treffer zum 2:2 erzielte der 26-Jährige per Hacke - auf Vorlage von Noah Atubolu. Ein medizinischer Notfall im …",
+   "clubs": [
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/referee-osmers-zur-svensson-szene-rot-im-bereich-des-moeglichen-1269510/artikel",
+   "title": "Referee Osmers zur Svensson-Szene: \"Rot im Bereich des Möglichen\"",
+   "link": "https://www.kicker.de/referee-osmers-zur-svensson-szene-rot-im-bereich-des-moeglichen-1269510/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T17:41:19Z",
+   "teaser": "Im Spiel zwischen Dortmund und Elversberg sorgte eine Szene für Gesprächsstoff: das Einsteigen von Daniel Svensson gegen Lukas Pinckert. Schiedsrichter Harm Osmers ordnete die Szene ein und gab zu, dass Rot durchaus im Bereich des …",
+   "clubs": [
+    7,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kimmich-hat-bei-neuer-kein-gutes-gefuehl-wenn-er-rausgeht-dann-ist-es-wahrscheinlich-etwas-ernsthaftes-1269459/artikel",
+   "title": "Kimmich hat bei Neuer kein gutes Gefühl: \"Wenn er rausgeht, dann ist es wahrscheinlich etwas Ernsthaftes\"",
+   "link": "https://www.kicker.de/kimmich-hat-bei-neuer-kein-gutes-gefuehl-wenn-er-rausgeht-dann-ist-es-wahrscheinlich-etwas-ernsthaftes-1269459/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T17:19:20Z",
+   "teaser": "Das Auswärtsspiel in Mainz sollte für Manuel Neuer ein besonderes werden. Doch schon vor der Pause musste der Keeper verletzt ausgewechselt werden. Eine genaue Diagnose steht noch aus, Joshua Kimmich hat aber kein gutes Gefühl.",
+   "clubs": [
+    81
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/vfb-stuttgart-gegen-werder-bremen,audiostream-vfb-stuttgart-gegen-werder-bremen-108.html",
    "title": "Live hören: VfB Stuttgart gegen Werder Bremen - Bundesliga",
    "link": "https://www.sportschau.de/fussball/bundesliga/vfb-stuttgart-gegen-werder-bremen,audiostream-vfb-stuttgart-gegen-werder-bremen-108.html",
    "source": "Sportschau",
    "published": "2026-11-07T17:15:00Z",
    "teaser": "9. Spieltag: Anpfiff des Spiels ist am 07.11.2026 um 18:30 Uhr. Werder Bremen spielt in Stuttgart.",
+   "clubs": [
+    16,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/kimmich-und-karl-fuehren-bayern-zu-arbeitssieg-in-mainz,spielbericht-mainz-05-bayern-muenchen-100.html",
+   "title": "FC Bayern schlägt Mainz - Neuer verletzt sich im Rekordspiel",
+   "link": "https://www.sportschau.de/fussball/bundesliga/kimmich-und-karl-fuehren-bayern-zu-arbeitssieg-in-mainz,spielbericht-mainz-05-bayern-muenchen-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-07T17:11:07Z",
+   "teaser": "Die Bayern marschieren weiter: Trotz eines unglücklichen Rekordspiels von Bayern-Torhüter Manuel Neuer haben die Münchner in Mainz die Tabellenführung behauptet.",
+   "clubs": [
+    40,
+    81
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/doppelpack-nmecha-dortmund-schlaegt-elversberg,spielbericht-borussia-dortmund-sv-elversberg-100.html",
+   "title": "Doppelpack Nmecha - Dortmund schlägt Elversberg",
+   "link": "https://www.sportschau.de/fussball/bundesliga/doppelpack-nmecha-dortmund-schlaegt-elversberg,spielbericht-borussia-dortmund-sv-elversberg-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-07T16:41:57Z",
+   "teaser": "Borussia Dortmund bleibt in der Bundesliga ungeschlagen. Der Sieg gegen Aufsteiger Elversberg war aber ein hartes Stück Arbeit. Matchwinner war Felix Nmecha.",
+   "clubs": [
+    7,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-werder-wird-nach-vfb-druckphase-wieder-forscher-1268803/artikel",
+   "title": "LIVE! Werder wird nach VfB-Druckphase wieder forscher",
+   "link": "https://www.kicker.de/live-werder-wird-nach-vfb-druckphase-wieder-forscher-1268803/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T16:30:42Z",
+   "teaser": "Noch nicht rund läuft es für den VfB in dieser Saison, bei Werder, in der Liga seit sieben Spielen ungeschlagen, dagegen schon. Ob der SVW die Schwaben wie so oft in den letzten Jahren, erneut ärgern kann?",
+   "clubs": [
+    16,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/leipzig-nimmt-augsburg-auseinander,spielbericht-rb-leipzig-fc-augsburg-104.html",
+   "title": "Überragender Gruda - Leipzig nimmt Augsburg auseinander",
+   "link": "https://www.sportschau.de/fussball/bundesliga/leipzig-nimmt-augsburg-auseinander,spielbericht-rb-leipzig-fc-augsburg-104.html",
+   "source": "Sportschau",
+   "published": "2026-11-07T16:29:22Z",
+   "teaser": "RB Leipzig spielt sich angeführt von einem überragenden Brajan Gruda gegen den FC Augsburg in einen kleinen Rausch. Die Augsburger geben erneut eine Führung aus der Hand und müssen sich erst einmal nach unten orientieren.",
+   "clubs": [
+    1635,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/medizinische-notfaelle-in-mainz-und-paderborn-fans-stellen-support-ein-1269474/artikel",
+   "title": "Medizinische Notfälle in Mainz und Paderborn: Fans stellen Support ein",
+   "link": "https://www.kicker.de/medizinische-notfaelle-in-mainz-und-paderborn-fans-stellen-support-ein-1269474/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T16:20:19Z",
+   "teaser": "Bei den Bundesliga-Spielen in Paderborn und Mainz haben die Fans zeitweise die Unterstützung eingestellt. Grund in beiden Fällen: ein medizinischer Notfall.",
+   "clubs": [
+    81,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/neuer-auf-platz-6-die-aeltesten-bundesliga-spieler-der-geschichte-978377/slideshow",
+   "title": "Neuer auf Platz 6: Die ältesten Bundesliga-Spieler der Geschichte",
+   "link": "https://www.kicker.de/neuer-auf-platz-6-die-aeltesten-bundesliga-spieler-der-geschichte-978377/slideshow",
+   "source": "kicker",
+   "published": "2026-11-07T15:09:44Z",
+   "teaser": "Erst zwölf Spieler haben mit mindestens 40 Jahren ein Bundesliga-Spiel bestritten, darunter sechs Torhüter. Der \"jüngste\" Neuzugang in diesem Ranking ist Manuel Neuer, der erst Ende März seinen 40. Geburtstag gefeiert hat.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/reise-zur-u-21-geplatzt-gladbachs-ullrich-erleidet-schluesselbeinbruch-1269451/artikel",
+   "title": "Reise zur U 21 geplatzt: Gladbachs Ullrich erleidet Schlüsselbeinbruch",
+   "link": "https://www.kicker.de/reise-zur-u-21-geplatzt-gladbachs-ullrich-erleidet-schluesselbeinbruch-1269451/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T15:09:30Z",
+   "teaser": "Lukas Ullrich musste am Freitag angeschlagen ausgewechselt werden. Am Samstag gab Borussia Mönchengladbach die Diagnose bekannt, die auch Auswirkungen auf die deutsche U 21 hat.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/eberl-contra-hamann-in-deutschland-muss-immer-jemand-in-die-suppe-spucken-1269447/artikel",
+   "title": "Eberl contra Hamann: \"In Deutschland muss immer jemand in die Suppe spucken\"",
+   "link": "https://www.kicker.de/eberl-contra-hamann-in-deutschland-muss-immer-jemand-in-die-suppe-spucken-1269447/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T15:08:27Z",
+   "teaser": "Die Vertragsverlängerung von Harry Kane war teuer - sehr teuer. Und rief offensichtlich nicht bei allen Beobachtern Lobeshymnen hervor. Besonders TV-Experte Dietmar Hamann gefiel der Schritt des FC Bayern nicht. Das brockte ihm nun Konter …",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/neuer-loest-dreher-ab-die-aeltesten-bayern-spieler-der-bundesliga-1118454/slideshow",
+   "title": "Neuer löst Dreher ab: Die ältesten Bayern-Spieler der Bundesliga",
+   "link": "https://www.kicker.de/neuer-loest-dreher-ab-die-aeltesten-bayern-spieler-der-bundesliga-1118454/slideshow",
+   "source": "kicker",
+   "published": "2026-11-07T14:41:55Z",
+   "teaser": "Seit diesem Samstag ist Manuel Neuer der älteste Bayern-Spieler in der Bundesliga-Geschichte. Die Top 10 zum Durchklicken ...",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wer-uebertraegt-vfb-stuttgart-gegen-werder-bremen-heute-live-im-tv-stream-1269183/artikel",
+   "title": "Wer überträgt VfB Stuttgart gegen Werder Bremen heute live im TV & Stream?",
+   "link": "https://www.kicker.de/wer-uebertraegt-vfb-stuttgart-gegen-werder-bremen-heute-live-im-tv-stream-1269183/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T14:29:17Z",
+   "teaser": "Nach neun Toren in den ersten acht Bundesliga-Spielen wurde Niclas Füllkrug wieder für die Nationalmannschaft nominiert. Vor der Länderspielpause ist er aber noch am 9. Spieltag mit Werder Bremen beim VfB Stuttgart zu Gast. Wo ihr die …",
    "clubs": [
     16,
     134
@@ -241,19 +440,6 @@
    "clubs": [
     87,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wer-uebertraegt-vfb-stuttgart-gegen-werder-bremen-heute-live-im-tv-stream-1269183/artikel",
-   "title": "Wer überträgt VfB Stuttgart gegen Werder Bremen heute live im TV & Stream?",
-   "link": "https://www.kicker.de/wer-uebertraegt-vfb-stuttgart-gegen-werder-bremen-heute-live-im-tv-stream-1269183/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T05:00:00Z",
-   "teaser": "Nach neun Toren in den ersten acht Bundesliga-Spielen wurde Niclas Füllkrug wieder für die Nationalmannschaft nominiert. Vor der Länderspielpause ist er aber noch am 9. Spieltag mit Werder Bremen beim VfB Stuttgart zu Gast. Wo ihr die …",
-   "clubs": [
-    16,
-    134
    ],
    "transfer": false
   },
@@ -2334,199 +2520,6 @@
    "teaser": "Bayerns Co-Trainer Aaron Danks spricht nach dem Spiel gegen Borussia Dortmund über die vielen Verletzten und begründet bestimmte Personalentscheidungen.",
    "clubs": [
     7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/danks-erklaert-warum-er-karl-erst-so-spaet-einwechselte-1267263/video",
-   "title": "Danks erklärt, warum er Karl erst so spät einwechselte",
-   "link": "https://www.kicker.de/danks-erklaert-warum-er-karl-erst-so-spaet-einwechselte-1267263/video",
-   "source": "kicker",
-   "published": "2026-10-31T21:09:17Z",
-   "teaser": "Bayerns Co-Trainer Aaron Danks spricht nach dem Spiel gegen Borussia Dortmund über die vielen Verletzten und begründet bestimmte Personalentscheidungen.",
-   "clubs": [
-    7
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/baum-und-die-brandrede-was-mir-mega-stinkt-1267230/artikel",
-   "title": "Baum und die Brandrede: \"Was mir mega stinkt …\"",
-   "link": "https://www.kicker.de/baum-und-die-brandrede-was-mir-mega-stinkt-1267230/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T20:57:51Z",
-   "teaser": "Der FC Augsburg befindet sich nach wie vor im Sinkflug. Das 1:2 gegen den SC Freiburg war bereits das sechste Spiel ohne Sieg. Und so schlug Trainer Manuel Baum am Samstagabend Alarm.",
-   "clubs": [
-    112,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kimmich-gerade-auf-dem-platz-muss-ich-an-meinen-vater-denken-1267250/artikel",
-   "title": "Kimmich: \"Gerade auf dem Platz muss ich an meinen Vater denken\"",
-   "link": "https://www.kicker.de/kimmich-gerade-auf-dem-platz-muss-ich-an-meinen-vater-denken-1267250/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T20:55:00Z",
-   "teaser": "Nach seiner Rückkehr hat Bayern-Kapitän Joshua Kimmich offen über den Tod seines Vaters gesprochen - und eine besondere Szene mit BVB-Trainer Niko Kovac.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bayern-bangt-um-saibari-und-gnabry-auch-olise-muss-runter-1267184/artikel",
-   "title": "Bayern bangt um Saibari und Gnabry - Auch Olise muss runter",
-   "link": "https://www.kicker.de/bayern-bangt-um-saibari-und-gnabry-auch-olise-muss-runter-1267184/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T20:38:13Z",
-   "teaser": "Dem FC Bayern München drohen weitere Ausfälle: Im Topspiel gegen Borussia Dortmund mussten sowohl Ismael Saibari als auch Serge Gnabry ausgewechselt werden. Bei beiden ist ein längerfristiger Ausfall zu befürchten - anders als bei Michael …",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ilzer-trotz-pleite-gelassen-mir-ist-nicht-bange-um-mein-team-1267242/video",
-   "title": "Ilzer trotz Pleite gelassen: \"Mir ist nicht bange um mein Team\"",
-   "link": "https://www.kicker.de/ilzer-trotz-pleite-gelassen-mir-ist-nicht-bange-um-mein-team-1267242/video",
-   "source": "kicker",
-   "published": "2026-10-31T20:17:57Z",
-   "teaser": "Trotz des Pokalaus und der Niederlage gegen Bremen bleibt Christian Ilzer positiv gestimmt. Zwar befinde sich der Verein in einer schwierigen Lage, Lösungen dafür seien aber auf dem Platz zu sehen, so der Coach.",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/muslic-nur-mit-gut-verteidigen-werden-wir-die-ziele-nicht-erreichen-1267236/video",
-   "title": "Muslic: \"Nur mit gut verteidigen werden wir die Ziele nicht erreichen\"",
-   "link": "https://www.kicker.de/muslic-nur-mit-gut-verteidigen-werden-wir-die-ziele-nicht-erreichen-1267236/video",
-   "source": "kicker",
-   "published": "2026-10-31T20:07:17Z",
-   "teaser": "Nach der 0:2-Niederlage gegen Leipzig spricht Schalke Trainer Miron Muslic über die gute Defensivarbeit, aber auch die geringe Torausbeute der Schalker.",
-   "clubs": [
-    1635,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/martinez-nimmt-es-locker-die-stimmung-kocht-manchmal-hoch-1267226/video",
-   "title": "Martinez nimmt es locker: \"Die Stimmung kocht manchmal hoch\"",
-   "link": "https://www.kicker.de/martinez-nimmt-es-locker-die-stimmung-kocht-manchmal-hoch-1267226/video",
-   "source": "kicker",
-   "published": "2026-10-31T19:37:30Z",
-   "teaser": "Leverkusen und Stuttgart liefern sich ein umkämpftes Duell. Nach der Niederlage von Bayer spricht Carles Martinez über die hitzigen Szenen zwischen beiden Mannschaften und den Trainern.",
-   "clubs": [
-    6,
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hoeness-stolz-nach-vfb-sieg-gefightet-wie-die-loewen-1267225/video",
-   "title": "Hoeneß stolz nach VfB-Sieg: \"Gefightet wie die Löwen\"",
-   "link": "https://www.kicker.de/hoeness-stolz-nach-vfb-sieg-gefightet-wie-die-loewen-1267225/video",
-   "source": "kicker",
-   "published": "2026-10-31T19:35:02Z",
-   "teaser": "Besonders der Kampfgeist seiner Mannschaft beeindruckte Sebastian Hoeneß. Beim 4:2-Sieg in Leverkusen warf der VfB alles in die Waagschale.",
-   "clubs": [
-    6,
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
-   "title": "2:2! BVB belohnt sich für leidenschaftlichen Auftritt bei den Bayern",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
-   "source": "Sportschau",
-   "published": "2026-10-31T19:29:06Z",
-   "teaser": "Borussia Dortmund hat mit Glück und Leidenschaft im Topspiel beim FC Bayern gepunktet. Harry Kane verschoss dabei bei einem Handelfmeter.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kane-fehlschuss-und-verletzungspech-bayern-gibt-sieg-gegen-bvb-aus-der-hand-1266739/artikel",
-   "title": "Kane-Fehlschuss und Verletzungspech: Bayern gibt Sieg gegen BVB aus der Hand",
-   "link": "https://www.kicker.de/kane-fehlschuss-und-verletzungspech-bayern-gibt-sieg-gegen-bvb-aus-der-hand-1266739/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T19:29:05Z",
-   "teaser": "Kein Sieger im Klassiker: Der FC Bayern München und Borussia Dortmund haben sich im Bundesliga-Topspiel 2:2 getrennt. Wermutstropfen für den Rekordmeister: Kane verschoss einen Elfmeter, Saibari und Gnabry schieden verletzt aus.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/demichelis-ueber-druck-bei-rb-dann-gehe-ich-von-selbst-1267218/video",
-   "title": "Demichelis über Druck bei RB: \"Dann gehe ich von selbst\"",
-   "link": "https://www.kicker.de/demichelis-ueber-druck-bei-rb-dann-gehe-ich-von-selbst-1267218/video",
-   "source": "kicker",
-   "published": "2026-10-31T19:09:39Z",
-   "teaser": "Nach dem Sieg gegen Schalke wurde Martin Demichelis mal wieder auf das Thema Druck bei RB Leipzig angesprochen. Er erklärte, was passieren würde, sollte er mit dem Team die gesteckten Ziele verpassen.",
-   "clubs": [
-    1635,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/paderborn-zu-harmlos-kettemann-am-besten-nicht-so-viel-darueber-reden-1267207/video",
-   "title": "Paderborn zu harmlos? Kettemann: \"Am besten nicht so viel darüber reden\"",
-   "link": "https://www.kicker.de/paderborn-zu-harmlos-kettemann-am-besten-nicht-so-viel-darueber-reden-1267207/video",
-   "source": "kicker",
-   "published": "2026-10-31T18:53:54Z",
-   "teaser": "SCP-Trainer Ralf Kettemann spricht auf der Pressekonferenz nach dem Spiel gegen Gladbach über die Torchancen der Paderborner und wie mit der geringen Torausbeute umgegangen wird.",
-   "clubs": [
-    87,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nur-die-ballon-d-or-frage-bringt-fuellkrug-aus-dem-konzept-1267169/artikel",
-   "title": "Nur die Ballon-d'Or-Frage bringt Füllkrug aus dem Konzept",
-   "link": "https://www.kicker.de/nur-die-ballon-d-or-frage-bringt-fuellkrug-aus-dem-konzept-1267169/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T18:53:52Z",
-   "teaser": "Als erster Bundesliga-Profi seit 1996 bekam Harry Kane am Montag den Ballon d'Or überreicht. Doch ein anderer Top-Stürmer stellt den Engländer aktuell in den Schatten: Niclas Füllkrug baute bei Bremens 2:0 gegen Hoffenheim nicht nur seine …",
-   "clubs": [
-    175,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/keine-strukturelle-verletzung-treu-koennte-am-donnerstag-zurueckkehren-1267189/artikel",
-   "title": "\"Keine strukturelle Verletzung\": Treu könnte am Donnerstag zurückkehren",
-   "link": "https://www.kicker.de/keine-strukturelle-verletzung-treu-koennte-am-donnerstag-zurueckkehren-1267189/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T18:48:39Z",
-   "teaser": "Philipp Treu dürfte zeitnah auf den Rasen zurückkehren. Zwar war der Rechtsverteidiger des SC Freiburg am Samstagnachmittag noch außen vor, als die Breisgauer 2:1 in Augsburg gewannen - am Donnerstag könnte er aber schon sein Comeback …",
-   "clubs": [
-    112,
-    95
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/blessin-zwar-zufrieden-aber-gladbach-weiter-auf-der-intensivstation-1267203/video",
-   "title": "Blessin zwar zufrieden, aber Gladbach \"weiter auf der Intensivstation\"",
-   "link": "https://www.kicker.de/blessin-zwar-zufrieden-aber-gladbach-weiter-auf-der-intensivstation-1267203/video",
-   "source": "kicker",
-   "published": "2026-10-31T18:47:29Z",
-   "teaser": "Mit einem 0:0 gegen Paderborn schloss Gladbach die englische Woche ab. Alexander Blessin ordnete den Punkt ein, betonte aber auch die angespannte Lage bei der Borussia.",
-   "clubs": [
-    87,
-    31
    ],
    "transfer": false
   }
