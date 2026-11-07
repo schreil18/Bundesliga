@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T18:15:29Z",
+ "updated": "2026-11-07T22:15:09Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,8 +16,195 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Ägypten trennt sich von Erfolgstrainer Hassan - Mainz bindet Nebel",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T21:55:00Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [
+    81
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/nach-boxkampf-mit-chabot-ball-saugnapf-fuellkrug-ist-stolz-auf-seine-geile-truppe-1269568/artikel",
+   "title": "Nach \"Boxkampf\" mit Chabot: Ball-Saugnapf Füllkrug ist stolz auf seine \"geile Truppe\"",
+   "link": "https://www.kicker.de/nach-boxkampf-mit-chabot-ball-saugnapf-fuellkrug-ist-stolz-auf-seine-geile-truppe-1269568/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T21:15:00Z",
+   "teaser": "Von \"Angsthasenfußball\" wollte Werder-Coach Daniel Thioune nichts wissen, erkannte aber Schwächen. Genauso wie Niclas Füllkrug, der selbst eine menschliche Wand in seinem Rücken wusste und daraus das Positive zog.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/stuttgarts-sieg-fuer-die-nerven-und-jetzt-die-beine-hoch-1269594/video",
+   "title": "Stuttgarts \"Sieg für die Nerven\" und jetzt \"die Beine hoch\"",
+   "link": "https://www.kicker.de/stuttgarts-sieg-fuer-die-nerven-und-jetzt-die-beine-hoch-1269594/video",
+   "source": "kicker",
+   "published": "2026-11-07T20:56:04Z",
+   "teaser": "Gegen Werder fuhr Stuttgart drei wichtige Punkte im Kampf um den Anschluss an das obere Tabellendrittel ein. Nun herrscht in der Länderspielpause eine deutlich größere Gelassenheit im Ländle.",
+   "clubs": [
+    16,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-tor-reicht-stuttgart-gegen-starke-bremer,spielbericht-vfb-stuttgart-werder-bremen-106.html",
+   "title": "Stuttgart zittert sich gegen Bremen zum Topspiel-Sieg",
+   "link": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-tor-reicht-stuttgart-gegen-starke-bremer,spielbericht-vfb-stuttgart-werder-bremen-106.html",
+   "source": "Sportschau",
+   "published": "2026-11-07T20:54:52Z",
+   "teaser": "Kein Füllkrug-Tor, keine Bremer Punkte: In Stuttgart haben die Werderaner erneut eine gute Leistung gezeigt, diesmal aber eine knappe Niederlage hinnehmen müssen.",
+   "clubs": [
+    16,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ich-musste-sofort-an-ihn-denken-kimmich-ueber-seinen-emotionalen-jubel-1269584/artikel",
+   "title": "\"Ich musste sofort an ihn denken\": Kimmich über seinen emotionalen Jubel",
+   "link": "https://www.kicker.de/ich-musste-sofort-an-ihn-denken-kimmich-ueber-seinen-emotionalen-jubel-1269584/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T20:51:29Z",
+   "teaser": "Joshua Kimmich hat persönlich eine sehr schwierige Zeit hinter sich. In Mainz war er es, der die Bayern auf die Siegerstraße führte - seine Gedanken drehten sich nach seinem Tor aber um etwas ganz anderes.",
+   "clubs": [
+    40,
+    81
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/trotz-aufwaertstrend-fischer-erinnert-an-verflixte-woche-1269578/video",
+   "title": "Trotz Aufwärtstrend: Fischer erinnert an \"verflixte Woche\"",
+   "link": "https://www.kicker.de/trotz-aufwaertstrend-fischer-erinnert-an-verflixte-woche-1269578/video",
+   "source": "kicker",
+   "published": "2026-11-07T20:15:18Z",
+   "teaser": "Gegen den FC Bayern kassierte Mainz eine knappe Pleite, doch die Mannschaft zeigte eine Leistungssteigerung. Diese erhob Coach Urs Fischer anschließend zum neuen Standard für die kommenden Wochen.",
+   "clubs": [
+    40,
+    81
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/huetter-zu-burkardt-klopp-wuerde-mir-nicht-vorschlagen-was-ich-zu-tun-habe-1269577/video",
+   "title": "Hütter zu Burkardt: Klopp \"würde mir nicht vorschlagen, was ich zu tun habe\"",
+   "link": "https://www.kicker.de/huetter-zu-burkardt-klopp-wuerde-mir-nicht-vorschlagen-was-ich-zu-tun-habe-1269577/video",
+   "source": "kicker",
+   "published": "2026-11-07T20:15:07Z",
+   "teaser": "Jonathan Burkardt reagierte auf die Nicht-Nominierung für den DFB mit einem Doppelpack im SGE-Trikot. Trainer Adi Hütter wollte danach aber keine kritischen Worte an den Bundestrainer richten.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fischer-irritiert-vom-referee-was-soll-ich-jetzt-sagen-1269573/video",
+   "title": "Fischer irritiert vom Referee: \"Was soll ich jetzt sagen?\"",
+   "link": "https://www.kicker.de/fischer-irritiert-vom-referee-was-soll-ich-jetzt-sagen-1269573/video",
+   "source": "kicker",
+   "published": "2026-11-07T20:05:03Z",
+   "teaser": "Mainz 05 wurde nach Eingriff des VAR der Treffer zum 1:1 aufgrund einer Abseitsstellung aberkannt. Trainer Urs Fischer verstand allerdings nicht, warum der Schiedsrichter nach dem Check zuerst auf Tor entschieden hatte.",
+   "clubs": [
+    81
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/karl-verdient-sich-danks-lob-zufrieden-mit-seiner-leistung-1269570/video",
+   "title": "Karl verdient sich Danks-Lob: \"Zufrieden mit seiner Leistung\"",
+   "link": "https://www.kicker.de/karl-verdient-sich-danks-lob-zufrieden-mit-seiner-leistung-1269570/video",
+   "source": "kicker",
+   "published": "2026-11-07T19:55:02Z",
+   "teaser": "Nach den Nebengeräuschen der letzten Wochen meldete sich Lennart Karl in den letzten Spielen auf dem Platz zurück. Aaron Danks fand lobende Worte für den Youngster.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/2-1-kraftakt-des-bvb-wiederkehrendes-muster-laesst-sich-nicht-wegignorieren-1269553/video",
+   "title": "2:1-Kraftakt des BVB: \"Wiederkehrendes Muster lässt sich nicht wegignorieren\"",
+   "link": "https://www.kicker.de/2-1-kraftakt-des-bvb-wiederkehrendes-muster-laesst-sich-nicht-wegignorieren-1269553/video",
+   "source": "kicker",
+   "published": "2026-11-07T18:52:57Z",
+   "teaser": "Mit einem Sieg gegen Elversberg verabschiedete sich der BVB in die Länderspielpause. Doch auch die drei Punkte können zwei Probleme, die die Dortmunder durch die gesamte bisherige Spielzeit begleiten, nicht kaschieren.",
+   "clubs": [
+    7,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/leipziger-heimwerker-liefern-glaube-in-demichelis-gestaerkt-1269541/video",
+   "title": "Leipziger Heimwerker liefern: \"Glaube in Demichelis gestärkt\"",
+   "link": "https://www.kicker.de/leipziger-heimwerker-liefern-glaube-in-demichelis-gestaerkt-1269541/video",
+   "source": "kicker",
+   "published": "2026-11-07T18:32:37Z",
+   "teaser": "Der deutliche Sieg gegen Augsburg sorgte in Leipzig für große Genugtuung. Es ist eine Bestätigung für den Weg, der im Sommer mit dem neuen Coach Martin Demichelis eingeschlagen wurde.",
+   "clubs": [
+    1635,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/gibt-nicht-viele-die-besser-sind-bvb-feiert-matchwinner-nmecha-1269520/artikel",
+   "title": "\"Gibt nicht viele, die besser sind\": BVB feiert Matchwinner Nmecha",
+   "link": "https://www.kicker.de/gibt-nicht-viele-die-besser-sind-bvb-feiert-matchwinner-nmecha-1269520/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T18:24:02Z",
+   "teaser": "Felix Nmecha war am Samstag Dortmunds Matchwinner gegen die SV Elversberg. Große Worte gab es für den Mittelfeldmann anschließend von Sportdirektor Ole Book.",
+   "clubs": [
+    7,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/tietz-nach-ueber-vierminuetigem-var-check-ganz-kurios-wie-das-abgelaufen-ist-1269518/artikel",
+   "title": "Tietz nach über vierminütigem VAR-Check: \"Ganz kurios, wie das abgelaufen ist\"",
+   "link": "https://www.kicker.de/tietz-nach-ueber-vierminuetigem-var-check-ganz-kurios-wie-das-abgelaufen-ist-1269518/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T18:19:48Z",
+   "teaser": "Die Trendwende blieb aus, das1:2 gegen Bayern war die vierte Mainzer Niederlage in Folge - und dennoch war man beim FSV nicht unzufrieden. Mit einer Ausnahme: das nicht gegebene Tor kurz vor der Halbzeit.",
+   "clubs": [
+    40,
+    81
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/elversberg-coach-wagner-zu-kovac-bleibt-so-lange-es-geht-oben-dran-1269533/video",
+   "title": "Elversberg-Coach Wagner zu Kovac: \"Bleibt so lange es geht oben dran\"",
+   "link": "https://www.kicker.de/elversberg-coach-wagner-zu-kovac-bleibt-so-lange-es-geht-oben-dran-1269533/video",
+   "source": "kicker",
+   "published": "2026-11-07T18:13:23Z",
+   "teaser": "Der bekennende BVB-Fan Vincent Wagner sprach nach dem Auftritt mit seinem Team in Dortmund über das offene Meisterschaftsrennen.",
+   "clubs": [
+    7,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kovac-zur-svensson-szene-haette-auch-anders-ausfallen-koennen-1269531/video",
+   "title": "Kovac zur Svensson-Szene: \"Hätte auch anders ausfallen können\"",
+   "link": "https://www.kicker.de/kovac-zur-svensson-szene-haette-auch-anders-ausfallen-koennen-1269531/video",
+   "source": "kicker",
+   "published": "2026-11-07T18:13:12Z",
+   "teaser": "Daniel Svensson traf Lukas Pinckert früh im Spiel in einer unglücklichen Szene hart am Knöchel. Anschließend räumte BVB-Coach Niko Kovac ein, in dieser Situation Glück gehabt zu haben.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/medizinischer-notfall-ueberschattet-remis-zwischen-paderborn-und-frankfurt,spielbericht-sc-paderborn-eintracht-frankfurt-100.html",
-   "title": "Medizinischer Notfall überschattet Remis zwischen Paderborn und Frankfurt",
+   "title": "Burkardt rettet Frankfurt in letzter Minute Punkt in Paderborn",
    "link": "https://www.sportschau.de/fussball/bundesliga/medizinischer-notfall-ueberschattet-remis-zwischen-paderborn-und-frankfurt,spielbericht-sc-paderborn-eintracht-frankfurt-100.html",
    "source": "Sportschau",
    "published": "2026-11-07T18:05:41Z",
@@ -105,11 +292,11 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/kimmich-und-karl-fuehren-bayern-zu-arbeitssieg-in-mainz,spielbericht-mainz-05-bayern-muenchen-100.html",
-   "title": "FC Bayern schlägt Mainz - Neuer verletzt sich im Rekordspiel",
+   "title": "Bayern schlägt Mainz - Neuer verletzt sich im Rekordspiel",
    "link": "https://www.sportschau.de/fussball/bundesliga/kimmich-und-karl-fuehren-bayern-zu-arbeitssieg-in-mainz,spielbericht-mainz-05-bayern-muenchen-100.html",
    "source": "Sportschau",
    "published": "2026-11-07T17:11:07Z",
-   "teaser": "Die Bayern marschieren weiter: Trotz eines unglücklichen Rekordspiels von Bayern-Torhüter Manuel Neuer haben die Münchner in Mainz die Tabellenführung behauptet.",
+   "teaser": "Der FC Bayern marschiert weiter: Trotz eines unglücklichen Rekordspiels von Bayern-Torhüter Manuel Neuer haben die Münchner in Mainz die Tabellenführung behauptet.",
    "clubs": [
     40,
     81
@@ -118,11 +305,11 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/doppelpack-nmecha-dortmund-schlaegt-elversberg,spielbericht-borussia-dortmund-sv-elversberg-100.html",
-   "title": "Doppelpack Nmecha - Dortmund schlägt Elversberg",
+   "title": "Doppelpack Nmecha - Borussia Dortmund schlägt Elversberg",
    "link": "https://www.sportschau.de/fussball/bundesliga/doppelpack-nmecha-dortmund-schlaegt-elversberg,spielbericht-borussia-dortmund-sv-elversberg-100.html",
    "source": "Sportschau",
    "published": "2026-11-07T16:41:57Z",
-   "teaser": "Borussia Dortmund bleibt in der Bundesliga ungeschlagen. Der Sieg gegen Aufsteiger Elversberg war aber ein hartes Stück Arbeit. Matchwinner war Felix Nmecha.",
+   "teaser": "Borussia Dortmund bleibt in der Fußball-Bundesliga ungeschlagen. Der Sieg gegen Aufsteiger SV Elversberg war aber ein hartes Stück Arbeit. Matchwinner war Felix Nmecha.",
    "clubs": [
     7,
     198
@@ -148,7 +335,7 @@
    "link": "https://www.sportschau.de/fussball/bundesliga/leipzig-nimmt-augsburg-auseinander,spielbericht-rb-leipzig-fc-augsburg-104.html",
    "source": "Sportschau",
    "published": "2026-11-07T16:29:22Z",
-   "teaser": "RB Leipzig spielt sich angeführt von einem überragenden Brajan Gruda gegen den FC Augsburg in einen kleinen Rausch. Die Augsburger geben erneut eine Führung aus der Hand und müssen sich erst einmal nach unten orientieren.",
+   "teaser": "RB Leipzig spielt sich, angeführt von einem überragenden Brajan Gruda, gegen den FC Augsburg in einen kleinen Rausch. Die Augsburger geben erneut eine Führung aus der Hand und müssen sich erst einmal nach unten orientieren.",
    "clubs": [
     1635,
     95
@@ -389,18 +576,6 @@
     175
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Vertragsverlängerung nach Krebsdiagnose bei Müllers Teamkollege - Mainz bindet Nebel",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T08:35:47Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [
-    81
-   ],
-   "transfer": true
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/stolpergefahr-fuer-die-branchenriesen,stolpergefahr-fuer-bayern-und-bvb-100.html",
@@ -2342,184 +2517,6 @@
    "teaser": "Borussias Nummer 2 bleibt zum zweiten Mal in Folge ohne Gegentor und überzeugt als sicherer Rückhalt. Muss Stammkeeper Moritz Nicolas jetzt zittern?",
    "clubs": [
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kam-sehr-aggressiv-auf-mich-zu-hwang-erklaert-seinen-schubser-1267358/artikel",
-   "title": "\"Kam sehr aggressiv auf mich zu\": Hwang erklärt seinen Schubser",
-   "link": "https://www.kicker.de/kam-sehr-aggressiv-auf-mich-zu-hwang-erklaert-seinen-schubser-1267358/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T10:09:15Z",
-   "teaser": "Hee-Chan Hwang sorgte zuletzt mit einer Szene abseits des Platzes für Gesprächsstoff. Seine Sicht auf den Schubser gegen den Vierten Offiziellen schilderte der Schalker Stürmer nach der Niederlage gegen Leipzig.",
-   "clubs": [
-    1635,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-gladbach-fehlte-gegen-paderborn-der-mut-100.html",
-   "title": "Gladbach fehlte gegen Paderborn der Mut",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-gladbach-fehlte-gegen-paderborn-der-mut-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-01T09:55:00Z",
-   "teaser": "Borussia Mönchengladbach bleibt nach der Nullnummer gegen Aufsteiger SC Paderborn Liga-Letzter - weil Mut und Aktivität fehlten.",
-   "clubs": [
-    87,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bayern-und-bvb-gleichauf-wer-wird-herbstmeister-1267320/artikel",
-   "title": "Bayern und BVB gleichauf: Wer wird Herbstmeister?",
-   "link": "https://www.kicker.de/bayern-und-bvb-gleichauf-wer-wird-herbstmeister-1267320/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T09:25:09Z",
-   "teaser": "Borussia Dortmund hält auch nach dem Topspiel mit dem FC Bayern Schritt. Wer wird nach der Hinrunde vorn liegen? Hier geht es zu unserer Umfrage.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bayerns-lehren-nach-dem-teuren-klassiker-1267322/artikel",
-   "title": "Bayerns Lehren nach dem teuren Klassiker",
-   "link": "https://www.kicker.de/bayerns-lehren-nach-dem-teuren-klassiker-1267322/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T09:20:28Z",
-   "teaser": "Sieg beim 2:2 gegen Borussia Dortmund verschenkt und mindestens zwei weitere Ausfälle: Der Samstagabend war für den FC Bayern ein gebrauchter. Interimstrainer Aaron Danks muss nun kreativ werden - und wiederkehrende Probleme abstellen.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/maza-teilt-gegen-schiedsrichter-brand-aus-das-war-bodenlos-1267343/artikel",
-   "title": "Maza teilt gegen Schiedsrichter Brand aus: \"Das war bodenlos\"",
-   "link": "https://www.kicker.de/maza-teilt-gegen-schiedsrichter-brand-aus-das-war-bodenlos-1267343/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T09:19:03Z",
-   "teaser": "Nach der Kartenflut gegen den VfB Stuttgart ging Leverkusens Torschütze Ibrahim Maza Schiedsrichter Benjamin Brand verbal hart an - auch wegen des persönlichen Umgangs.",
-   "clubs": [
-    6,
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-braucht-neue-taktik-revolution-100.html",
-   "title": "Schalke 04 braucht neue Taktik-Revolution",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-braucht-neue-taktik-revolution-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-01T08:45:00Z",
-   "teaser": "Der FC Schalke 04 hat auch gegen Leipzig nicht getroffen. Trainer Miron Muslic will sein Team auf den Kopf stellen.",
-   "clubs": [
-    1635,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-bvb-plan-von-kova-geht-bei-bayern-muenchen-auf-100.html",
-   "title": "BVB-Plan von Kovac geht bei Bayern München auf",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-bvb-plan-von-kova-geht-bei-bayern-muenchen-auf-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-01T08:25:00Z",
-   "teaser": "Der BVB zeigt beim FC Bayern, dass es schwierig ist, ihn zu schlagen. Trainer Niko Kovac stellt um und sein Plan geht auf.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/eberls-spitze-gegen-ballack-wegen-karl-1267313/artikel",
-   "title": "Eberls Spitze gegen Ballack wegen Karl",
-   "link": "https://www.kicker.de/eberls-spitze-gegen-ballack-wegen-karl-1267313/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T06:42:39Z",
-   "teaser": "Michael Ballack wundert sich darüber, wie kritisch die Bayern-Bosse Lennart Karl bewerten. Max Eberl erklärte seine Sicht - nicht ohne Spitze gegen den Berater.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wer-uebertraegt-eintracht-frankfurt-gegen-den-hsv-live-im-tv-und-stream-1266147/artikel",
-   "title": "Wer überträgt Eintracht Frankfurt gegen den HSV live im TV und Stream?",
-   "link": "https://www.kicker.de/wer-uebertraegt-eintracht-frankfurt-gegen-den-hsv-live-im-tv-und-stream-1266147/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T06:30:00Z",
-   "teaser": "Nach der DFB-Pokal-Partie duellieren sich Eintracht Frankfurt und der Hamburger SV nun in der Bundesliga. Wo ihr die Partie live verfolgen könnt, erfahrt ihr hier.",
-   "clubs": [
-    91,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bvb-profis-schwaermen-von-kovacs-genialem-schachzug-1267271/artikel",
-   "title": "BVB-Profis schwärmen von Kovacs \"genialem Schachzug\"",
-   "link": "https://www.kicker.de/bvb-profis-schwaermen-von-kovacs-genialem-schachzug-1267271/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T21:52:59Z",
-   "teaser": "Borussia Dortmund überraschte beim FC Bayern mit einem taktischen Kniff, der Trainer Niko Kovac Lob seiner Führungsspieler einbrachte. Dabei war die Generalprobe noch schiefgegangen.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kovac-zu-kimmich-umarmung-geste-war-menschlich-1267276/video",
-   "title": "Kovac zu Kimmich-Umarmung: \"Geste war menschlich\"",
-   "link": "https://www.kicker.de/kovac-zu-kimmich-umarmung-geste-war-menschlich-1267276/video",
-   "source": "kicker",
-   "published": "2026-10-31T21:48:49Z",
-   "teaser": "Während des Spiels kam es zu einer emotionalen Szene, als Niko Kovac und Joshua Kimmich zu einer Umarmung ansetzten. Der BVB-Coach sprach nach dem Spiel über den Austausch.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/teures-unentschieden-fuer-bayern-und-was-dem-bvb-mut-macht-1267267/video",
-   "title": "\"Teures Unentschieden\" für Bayern - und was dem BVB Mut macht",
-   "link": "https://www.kicker.de/teures-unentschieden-fuer-bayern-und-was-dem-bvb-mut-macht-1267267/video",
-   "source": "kicker",
-   "published": "2026-10-31T21:26:07Z",
-   "teaser": "Durch das 2:2 bleibt das Rennen um die Tabellenspitze weiter sehr eng zwischen Bayern und Dortmund. Während in München die Sorgen durch die neuesten Verletzungen nicht kleiner werden, kann der BVB viel Positives aus diesem Auftritt ziehen.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/schlotterbeck-wir-werden-in-deutschland-immer-noch-unterschaetzt-1267234/artikel",
-   "title": "Schlotterbeck: \"Wir werden in Deutschland immer noch unterschätzt\"",
-   "link": "https://www.kicker.de/schlotterbeck-wir-werden-in-deutschland-immer-noch-unterschaetzt-1267234/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T21:10:29Z",
-   "teaser": "Nico Schlotterbeck ist bekannt für klare Worte. Diese fand der Dortmunder Abwehrexperte auch nach dem Topspiel in München und den zwei Comebacks seiner Mannschaft. Joshua Kimmich wollte das als Kampfansage sehen.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/danks-ueber-saibari-knoechelverletzung-sieht-ziemlich-ernst-aus-1267263/video",
-   "title": "Danks über Saibari: \"Knöchelverletzung sieht ziemlich ernst aus\"",
-   "link": "https://www.kicker.de/danks-ueber-saibari-knoechelverletzung-sieht-ziemlich-ernst-aus-1267263/video",
-   "source": "kicker",
-   "published": "2026-10-31T21:09:17Z",
-   "teaser": "Bayerns Co-Trainer Aaron Danks spricht nach dem Spiel gegen Borussia Dortmund über die vielen Verletzten und begründet bestimmte Personalentscheidungen.",
-   "clubs": [
-    7
    ],
    "transfer": false
   }
