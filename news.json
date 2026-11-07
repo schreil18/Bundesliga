@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T00:16:49Z",
+ "updated": "2026-11-07T06:31:30Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wer-uebertraegt-vfb-stuttgart-gegen-werder-bremen-heute-live-im-tv-stream-1269183/artikel",
+   "title": "Wer überträgt VfB Stuttgart gegen Werder Bremen heute live im TV & Stream?",
+   "link": "https://www.kicker.de/wer-uebertraegt-vfb-stuttgart-gegen-werder-bremen-heute-live-im-tv-stream-1269183/artikel",
+   "source": "kicker",
+   "published": "2026-11-07T05:00:00Z",
+   "teaser": "Nach neun Toren in den ersten acht Bundesliga-Spielen wurde Niclas Füllkrug wieder für die Nationalmannschaft nominiert. Vor der Länderspielpause ist er aber noch am 9. Spieltag mit Werder Bremen beim VfB Stuttgart zu Gast. Wo ihr die …",
+   "clubs": [
+    16,
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/zweimal-1-5-beim-hsv-itakuras-tag-zum-vergessen-hamburg-gladbach-in-der-einzelkritik-1269282/artikel",
    "title": "Zweimal 1,5 beim HSV, Itakuras Tag zum Vergessen: Hamburg-Gladbach in der Einzelkritik",
@@ -55,7 +68,7 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
-   "title": "HSV schießt Gladbach zurück in die Krise",
+   "title": "Hamburger SV schießt Gladbach zurück in die Krise",
    "link": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
    "source": "Sportschau",
    "published": "2026-11-06T22:24:16Z",
@@ -2520,16 +2533,6 @@
     95,
     31
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/fans-vieler-vereine-mit-aktionen-fuer-501,50-plus-1-proteste-100.html",
-   "title": "Fans vieler Vereine mit Aktionen für 50+1",
-   "link": "https://www.sportschau.de/fussball/fans-vieler-vereine-mit-aktionen-fuer-501,50-plus-1-proteste-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T15:13:17Z",
-   "teaser": "Fans von zahlreichen Vereinen in Deutschland haben sich mit Aktionen für den Fortbestand und eine klare Durchsetzung der 50+1-Regel ausgesprochen.",
-   "clubs": [],
    "transfer": false
   }
  ]
