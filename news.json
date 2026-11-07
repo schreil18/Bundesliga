@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T20:32:00Z",
+ "updated": "2026-11-07T00:16:49Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,83 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/zweimal-1-5-beim-hsv-itakuras-tag-zum-vergessen-hamburg-gladbach-in-der-einzelkritik-1269282/artikel",
+   "title": "Zweimal 1,5 beim HSV, Itakuras Tag zum Vergessen: Hamburg-Gladbach in der Einzelkritik",
+   "link": "https://www.kicker.de/zweimal-1-5-beim-hsv-itakuras-tag-zum-vergessen-hamburg-gladbach-in-der-einzelkritik-1269282/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T22:56:25Z",
+   "teaser": "Mit drei traumhaften Toren hat sich der Hamburger SV gegen Borussia Mönchengladbach den Frust der jüngsten drei Pflichtspiel-Niederlagen von der Seele geschossen - und den 18. Platz der Fohlen zementiert. Das 3:1 in der Einzelkritik  …",
+   "clubs": [
+    87,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/marco-russ-leiser-abschied-fuer-einen-grossen-fussballer,video-historie-marco-russ-100.html",
+   "title": "Marco Russ - leiser Abschied für einen großen Fußballer",
+   "link": "https://www.sportschau.de/fussball/bundesliga/marco-russ-leiser-abschied-fuer-einen-grossen-fussballer,video-historie-marco-russ-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-06T22:42:17Z",
+   "teaser": "Marco Russ hat 280 Bundesliga-Spiele für Eintracht Frankfurt bestritten. Auch nach einer Krebsdiagnose im Jahr 2016 kämpfte er sich zurück. Einen großen Abschied gab es jedoch nicht.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/das-gefuehl-will-ich-jeden-tag-haben-nandja-nach-premieren-tor-den-traenen-nah-1269337/artikel",
+   "title": "\"Das Gefühl will ich jeden Tag haben\": Nandja nach Premieren-Tor den Tränen nah",
+   "link": "https://www.kicker.de/das-gefuehl-will-ich-jeden-tag-haben-nandja-nach-premieren-tor-den-traenen-nah-1269337/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T22:35:23Z",
+   "teaser": "Der HSV feierte im Kellerduell mit Gladbach einen wichtigen Heimsieg, im Mittelpunkt stand Shafiq Nandja. Das Eigengewächs trifft erstmals in der Bundesliga und erlebte im Volkspark einen Abend, den er nie vergessen wird.",
+   "clubs": [
+    87,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
+   "title": "HSV schießt Gladbach zurück in die Krise",
+   "link": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-06T22:24:16Z",
+   "teaser": "Der Hamburger SV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim.",
+   "clubs": [
+    87,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/aus-dem-nlz-in-die-torschuetzenliste-hsv-trotzt-den-sorgen-und-feiert-nandja-1269339/video",
+   "title": "\"Aus dem NLZ in die Torschützenliste\": HSV trotzt den Sorgen und feiert Nandja",
+   "link": "https://www.kicker.de/aus-dem-nlz-in-die-torschuetzenliste-hsv-trotzt-den-sorgen-und-feiert-nandja-1269339/video",
+   "source": "kicker",
+   "published": "2026-11-06T22:16:08Z",
+   "teaser": "Der HSV gewinnt mit 3:1 gegen Borussia Mönchengladbach und feiert vor der Länderspielpause einen wichtigen Sieg. Besonders im Fokus: Shafiq Nandja, der aus dem NLZ stammt und erstmals in der Bundesliga trifft. Aus Hamburg berichtet …",
+   "clubs": [
+    87,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/einfach-dumm-blessin-aergert-sich-ueber-itakuras-platzverweis-1269335/artikel",
+   "title": "\"Einfach dumm\": Blessin ärgert sich über Itakuras Platzverweis",
+   "link": "https://www.kicker.de/einfach-dumm-blessin-aergert-sich-ueber-itakuras-platzverweis-1269335/artikel",
+   "source": "kicker",
+   "published": "2026-11-06T21:58:51Z",
+   "teaser": "Gladbach war in Hamburg ordentlich im Spiel, doch dann flog Ko Itakura kurz nach der Pause vom Feld und die Fohlen-Niederlage nahm ihren Lauf. Borussias Sportchef Rouven Schröder und Trainer Alexander Blessin ärgerten sich über den …",
+   "clubs": [
+    87,
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193654/hamburger-sv_borussia-moenchengladbach/liveticker",
    "title": "Jetzt live - Gladbach hält dagegen und gleicht beim HSV aus",
@@ -2453,86 +2530,6 @@
    "published": "2026-10-31T15:13:17Z",
    "teaser": "Fans von zahlreichen Vereinen in Deutschland haben sich mit Aktionen für den Fortbestand und eine klare Durchsetzung der 50+1-Regel ausgesprochen.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-bayer-verkuerzt-nach-fehlstart-feiner-fuss-von-gregoritsch-fuellkrug-verpasst-weiser-verletzt-1266547/artikel",
-   "title": "LIVE! Bayer verkürzt nach Fehlstart - Feiner Fuß von Gregoritsch - Füllkrug verpasst, Weiser verletzt",
-   "link": "https://www.kicker.de/live-bayer-verkuerzt-nach-fehlstart-feiner-fuss-von-gregoritsch-fuellkrug-verpasst-weiser-verletzt-1266547/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T14:44:38Z",
-   "teaser": "Freiburg (in Augsburg) führt auf Platz 3 ein Verfolger-Quartett an, das am Samstagnachmittag zur gleichen Zeit am Ball ist. Gladbach hat nach dem ersten Sieg Lunte gerochen - gelingt gegen Paderborn der nächste Dreier?",
-   "clubs": [
-    112,
-    87,
-    95,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-elf-legendaersten-duelle-zwischen-dortmund-und-bayernelf-880817/artikel",
-   "title": "Die elf legendärsten Duelle zwischen Dortmund und Bayern",
-   "link": "https://www.kicker.de/die-elf-legendaersten-duelle-zwischen-dortmund-und-bayernelf-880817/artikel",
-   "source": "kicker",
-   "published": "2026-10-31T14:42:05Z",
-   "teaser": "Was waren die denkwürdigsten Duelle zwischen dem BVB und Bayern? Ein Ranking von kicker-Reporter Frank Linkesch - mit Demütigungen auf beiden Seiten und einem unvergessenen Karsamstag.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/werder-bremen-gegen-tsg-hoffenheim,audiostream-werder-bremen-gegen-tsg-hoffenheim-100.html",
-   "title": "Live hören: Werder Bremen gegen TSG Hoffenheim - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/werder-bremen-gegen-tsg-hoffenheim,audiostream-werder-bremen-gegen-tsg-hoffenheim-100.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T14:15:00Z",
-   "teaser": "8. Spieltag: Anpfiff des Spiels ist am 31.10.2026 um 15:30 Uhr. TSG Hoffenheim spielt in Bremen.",
-   "clubs": [
-    175,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/fc-augsburg-gegen-sc-freiburg,audiostream-fc-augsburg-gegen-sc-freiburg-108.html",
-   "title": "Live hören: FC Augsburg gegen SC Freiburg - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/fc-augsburg-gegen-sc-freiburg,audiostream-fc-augsburg-gegen-sc-freiburg-108.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T14:15:00Z",
-   "teaser": "8. Spieltag: Anpfiff des Spiels ist am 31.10.2026 um 15:30 Uhr. SC Freiburg spielt in Augsburg.",
-   "clubs": [
-    112,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bayer-leverkusen-gegen-vfb-stuttgart,audiostream-bayer-leverkusen-gegen-vfb-stuttgart-110.html",
-   "title": "Live hören: Bayer Leverkusen gegen VfB Stuttgart - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bayer-leverkusen-gegen-vfb-stuttgart,audiostream-bayer-leverkusen-gegen-vfb-stuttgart-110.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T14:15:00Z",
-   "teaser": "8. Spieltag: Anpfiff des Spiels ist am 31.10.2026 um 15:30 Uhr. VfB Stuttgart spielt in Leverkusen.",
-   "clubs": [
-    6,
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/fc-schalke-04-gegen-rb-leipzig,audiostream-fc-schalke-04-gegen-rb-leipzig-104.html",
-   "title": "Live hören: FC Schalke 04 gegen RB Leipzig - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/fc-schalke-04-gegen-rb-leipzig,audiostream-fc-schalke-04-gegen-rb-leipzig-104.html",
-   "source": "Sportschau",
-   "published": "2026-10-31T14:15:00Z",
-   "teaser": "8. Spieltag: Anpfiff des Spiels ist am 31.10.2026 um 15:30 Uhr. RB Leipzig spielt in Gelsenkirchen.",
-   "clubs": [
-    1635,
-    9
-   ],
    "transfer": false
   }
  ]
