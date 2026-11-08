@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T08:54:04Z",
+ "updated": "2026-11-08T15:55:03Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,272 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wenn-wir-meinen-fussballerisch-mithalten-zu-koennen-1269674/artikel",
+   "title": "\"Wenn wir meinen, fußballerisch mithalten zu können …\"",
+   "link": "https://www.kicker.de/wenn-wir-meinen-fussballerisch-mithalten-zu-koennen-1269674/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T15:48:54Z",
+   "teaser": "Nach dem 2:5 in Leipzig befindet sich der FC Augsburg doch wieder im Abstiegskampf - und muss dringend den Reset-Knopf finden.",
+   "clubs": [
+    1635,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193663/1-fc-koeln_bayer-leverkusen/liveticker",
+   "title": "Jetzt live - Findet Köln gegen Leverkusen zurück ins Spiel?",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193663/1-fc-koeln_bayer-leverkusen/liveticker",
+   "source": "Sportschau",
+   "published": "2026-11-08T15:39:11Z",
+   "teaser": "Bayer Leverkusen führt nach einem Freistoß von Garcia nach wie vor knapp mit 1:0. Die zweite Halbzeit beginnt bislang zerfahren, mit mehr Verwarnungen und Rudelbildungen als Torchancen.",
+   "clubs": [
+    6,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/als-die-koelner-bayers-titeltraeume-zerschossen-und-die-mannschaftskasse-verfeierten-1269229/video",
+   "title": "Als die Kölner Bayers Titelträume zerschossen - und die Mannschaftskasse verfeierten",
+   "link": "https://www.kicker.de/als-die-koelner-bayers-titeltraeume-zerschossen-und-die-mannschaftskasse-verfeierten-1269229/video",
+   "source": "kicker",
+   "published": "2026-11-08T15:35:41Z",
+   "teaser": "Wenn man einen so unerwarteten Kantersieg einfährt, dass man hinterher die Mannschaftskasse verfeiert. Genau das tat der 1. FC Köln am vorletzten Spieltag der Saison 1996/97 - und beendete damit die Titelträume von Bayer Leverkusen.",
+   "clubs": [
+    6,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-blitz-gelb-fuer-moore-und-rudelbildung-schick-prueft-schwaebe-1268812/artikel",
+   "title": "LIVE! Blitz-Gelb für Moore und Rudelbildung - Schick prüft Schwäbe",
+   "link": "https://www.kicker.de/live-blitz-gelb-fuer-moore-und-rudelbildung-schick-prueft-schwaebe-1268812/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T15:34:36Z",
+   "teaser": "Köln, in dieser Saison vor heimischer Kulisse noch unbesiegt, empfängt Besuch von Nachbar Leverkusen. Die Werkself gewann die letzten vier Duelle gegen den FC.",
+   "clubs": [
+    6,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-mit-treu-und-scherhant-gegen-union-bleibt-freiburg-oben-dran-1268816/artikel",
+   "title": "LIVE! Mit Treu und Scherhant gegen Union: Bleibt Freiburg oben dran?",
+   "link": "https://www.kicker.de/live-mit-treu-und-scherhant-gegen-union-bleibt-freiburg-oben-dran-1268816/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T15:27:54Z",
+   "teaser": "Der SC Freiburg empfängt Union Berlin - auf dem Papier eine klare Angelegenheit für die Breisgauer gegen bislang extrem auswärtsschwache Berliner (ein Punkt).",
+   "clubs": [
+    112,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-nmecha-verhalten-sorgt-beim-bvb-fuer-kritik-100.html",
+   "title": "BVB-Fanabteilung kritisiert Netzwerk hinter Nmechas Torjubel",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-nmecha-verhalten-sorgt-beim-bvb-fuer-kritik-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-08T15:14:00Z",
+   "teaser": "Felix Nmechas Unterstützung für die umstrittene \"The King's Return\"-Kampagne ist bekannt. Nun äußert sich die BVB-Fan- und Förderabteilung kritisch zu dem Netzwerk hinter der Kampagne.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/1-fc-koeln-gegen-bayer-leverkusen,audiostream-1-fc-koeln-gegen-bayer-leverkusen-106.html",
+   "title": "Live hören: 1. FC Köln gegen Bayer Leverkusen - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/1-fc-koeln-gegen-bayer-leverkusen,audiostream-1-fc-koeln-gegen-bayer-leverkusen-106.html",
+   "source": "Sportschau",
+   "published": "2026-11-08T14:15:00Z",
+   "teaser": "9. Spieltag: Anpfiff des Spiels ist am 08.11.2026 um 15:30 Uhr. Bayer Leverkusen spielt in Köln.",
+   "clubs": [
+    6,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/vaterfreuden-matchwinner-nationalmannschaft-mittelstaedt-auf-wolke-7-1269713/artikel",
+   "title": "Vaterfreuden, Matchwinner, Nationalmannschaft: Mittelstädt auf Wolke 7",
+   "link": "https://www.kicker.de/vaterfreuden-matchwinner-nationalmannschaft-mittelstaedt-auf-wolke-7-1269713/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T14:13:14Z",
+   "teaser": "Privat wird er Vater, beim VfB Stuttgart ist er Leistungsträger und bei der Nationalmannschaft wieder dabei. Bei Maximilian Mittelstädt läuft's aktuell - auch wenn das beim Jubeln zu Problemen führen kann.",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/glaube-rechtfertigt-keine-spaltung-fan-und-foerderabteilung-des-bvb-kritisiert-nmecha-1269689/artikel",
+   "title": "\"Glaube rechtfertigt keine Spaltung\": Fan- und Förderabteilung des BVB kritisiert Nmecha",
+   "link": "https://www.kicker.de/glaube-rechtfertigt-keine-spaltung-fan-und-foerderabteilung-des-bvb-kritisiert-nmecha-1269689/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T13:52:26Z",
+   "teaser": "Felix Nmecha sieht sich ungeachtet seines sportlichen Werts abermals mit Kritik konfrontiert, diesmal aus der Fan- und Förderabteilung. Hintergrund ist sein Engagement für \"Ballers in God\", das auch innerhalb des Klubs zuletzt für neue …",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/sehnenteilriss-im-fuss-neuer-fehlt-bayern-erneut-1269512/artikel",
+   "title": "Sehnenteilriss im Fuß: Neuer fehlt Bayern erneut",
+   "link": "https://www.kicker.de/sehnenteilriss-im-fuss-neuer-fehlt-bayern-erneut-1269512/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T12:41:58Z",
+   "teaser": "Der FC Bayern muss vorerst auf Manuel Neuer verzichten. Nach seiner Auswechslung in Mainz am Samstagnachmittag gab der Rekordmeister nun ein medizinisches Update zu seinem Stammkeeper.",
+   "clubs": [
+    40,
+    81
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/uli-hoeness-kritisiert-vfb-fuehrung-das-ist-einfach-falsch-1269733/artikel",
+   "title": "Uli Hoeneß kritisiert VfB-Führung: \"Das ist einfach falsch\"",
+   "link": "https://www.kicker.de/uli-hoeness-kritisiert-vfb-fuehrung-das-ist-einfach-falsch-1269733/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T12:19:41Z",
+   "teaser": "Uli Hoeneß bescheinigte dem VfB Stuttgart am Sonntag eine \"sensationelle Entwicklung\" - übte aber auch Kritik an den Verantwortlichen.",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-hoeness-kompany-comeback-in-zwei-drei-wochen-102.html",
+   "title": "Hoeneß kündigt Kompany-Comeback \"in zwei, drei Wochen\" an",
+   "link": "https://www.sportschau.de/regional/br/br-hoeness-kompany-comeback-in-zwei-drei-wochen-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-08T12:07:41Z",
+   "teaser": "Nach seiner Hirnhautreizung könnte Vincent Kompany schon bald wieder beim FC Bayern an der Seitenlinie stehen. Uli Hoeneß rechnet mit einer Rückkehr des Cheftrainers nach der Länderspielpause.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hoeness-nennt-zeitpunkt-fuer-kompany-rueckkehr-und-sieht-musiala-dilemma-1269720/artikel",
+   "title": "Hoeneß nennt Zeitpunkt für Kompany-Rückkehr - und sieht Musiala-Dilemma",
+   "link": "https://www.kicker.de/hoeness-nennt-zeitpunkt-fuer-kompany-rueckkehr-und-sieht-musiala-dilemma-1269720/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T11:52:03Z",
+   "teaser": "Uli Hoeneß hat am Sonntag ein Update zum Zustand von Vincent Kompany gegeben. Die Personalie Jamal Musiala sieht der Ehrenpräsident des FC Bayern deutlich problematischer.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193615/tsg-hoffenheim_fc-schalke-04/info",
+   "title": "Ab 19.30 Uhr live - Schalke kann Hoffenheim in den Keller ziehen",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193615/tsg-hoffenheim_fc-schalke-04/info",
+   "source": "Sportschau",
+   "published": "2026-11-08T11:18:30Z",
+   "teaser": "Zuletzt bot der FC Schalke 04 zähe Vorstellungen und rutschte in den Tabellenkeller ab. Gelingt in Sinsheim die Wende?",
+   "clubs": [
+    175,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193624/sc-freiburg_1-fc-union-berlin/liveticker",
+   "title": "Ab 17.30 Uhr live - Union Berlin in Freiburg unter Druck",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193624/sc-freiburg_1-fc-union-berlin/liveticker",
+   "source": "Sportschau",
+   "published": "2026-11-08T11:15:53Z",
+   "teaser": "Union Berlin braucht beim SC Freiburg einen Sieg, um den Abstiegs-Relegationsplatz zu verlassen. Die Freiburger waren in dieser Saison bislang weitestgehend souverän gegen Mannschaften aus dem Keller.",
+   "clubs": [
+    112,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-fan-nach-tribuenen-sturz-wieder-ansprechbar-100.html",
+   "title": "Frankfurt-Fan nach Tribünen-Sturz wieder ansprechbar",
+   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-fan-nach-tribuenen-sturz-wieder-ansprechbar-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-08T10:57:05Z",
+   "teaser": "Das Unentschieden von Eintracht Frankfurt beim SC Paderborn wurde von einem medizinischen Notfall im Gästeblock überschattet. Inzwischen gibt es zumindest leichte Entwarnung.",
+   "clubs": [
+    91,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/auswaertsfahrer-rekord-in-dortmund-fan-explosion-bei-der-sve-1269696/artikel",
+   "title": "Auswärtsfahrer-Rekord in Dortmund: Fan-Explosion bei der SVE",
+   "link": "https://www.kicker.de/auswaertsfahrer-rekord-in-dortmund-fan-explosion-bei-der-sve-1269696/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T10:31:24Z",
+   "teaser": "Die SV Elversberg hat nicht nur sportlichen einen steilen Aufstieg hingelegt. Auch die Fan-Zahlen sind in den vergangenen Jahren explodiert, was nun zu einem neuen Auswärtsfan-Rekord in Dortmund führte. Weniger positiv sind hingegen die …",
+   "clubs": [
+    7,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/obermairs-premiere-und-pieringers-showdown-mit-atubolu-1269649/artikel",
+   "title": "Obermairs Premiere und Pieringers Showdown mit Atubolu",
+   "link": "https://www.kicker.de/obermairs-premiere-und-pieringers-showdown-mit-atubolu-1269649/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T10:12:36Z",
+   "teaser": "Für zwei Spieler des Aufsteigers waren ihre Treffer am Samstag ein \"erstes Mal\" - wenn auch in unterschiedlicher Hinsicht. Am Ende reichten ihre Taten nicht für einen Sieg gegen Frankfurt, dennoch können beide dem 2:2 gegen die Eintracht …",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/neuer-sucht-spezialisten-auf-und-muss-sich-fragen-gefallen-lassen-1269677/artikel",
+   "title": "Neuer sucht Spezialisten auf - und muss sich Fragen gefallen lassen",
+   "link": "https://www.kicker.de/neuer-sucht-spezialisten-auf-und-muss-sich-fragen-gefallen-lassen-1269677/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T09:45:35Z",
+   "teaser": "Das Verletzungspech will bei Manuel Neuer nicht aufhören. Beim 2:1 in Mainz musste der Bayern-Kapitän noch vor der Halbzeit vom Platz. Eine Untersuchung beim Spezialisten soll nun eine genaue Diagnose liefern.",
+   "clubs": [
+    40,
+    81
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/das-dritte-wiedersehen-kabaks-besonderer-draht-zu-den-knappen-1269654/artikel",
+   "title": "Das dritte Wiedersehen: Kabaks besonderer Draht zu den Knappen",
+   "link": "https://www.kicker.de/das-dritte-wiedersehen-kabaks-besonderer-draht-zu-den-knappen-1269654/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T09:29:18Z",
+   "teaser": "Schalke 04 zahlte einst viel Geld für den nun in Hoffenheim verteidigenden Abwehrrecken Ozan Kabak. Am Sonntag trifft der Nationalspieler der Türkei erneut auf seinen Ex-Klub.",
+   "clubs": [
+    175,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/raum-muenzt-frust-um-ging-mir-auf-den-sack-1269664/artikel",
+   "title": "Raum münzt Frust um: \"Ging mir auf den Sack\"",
+   "link": "https://www.kicker.de/raum-muenzt-frust-um-ging-mir-auf-den-sack-1269664/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T09:05:29Z",
+   "teaser": "Erstmals seit drei Jahren fehlt David Raum im DFB-Kader - prompt traf er gegen Augsburg. Danach sprach der Leipziger Kapitän über seinen Trotz-Jubel und sein Telefonat mit Jürgen Klopp.",
+   "clubs": [
+    1635,
+    95
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/fuellkrug-bricht-interview-ab-nee-danke-ciao-1269639/artikel",
    "title": "Füllkrug bricht Interview ab: \"Nee. Danke. Ciao!\"",
@@ -2248,271 +2514,6 @@
     40,
     7,
     1635,
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/er-will-mich-nur-besser-machen-uzun-sieht-huetter-kritik-gelassen-1267585/artikel",
-   "title": "\"Er will mich nur besser machen\": Uzun sieht Hütter-Kritik gelassen",
-   "link": "https://www.kicker.de/er-will-mich-nur-besser-machen-uzun-sieht-huetter-kritik-gelassen-1267585/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T20:09:47Z",
-   "teaser": "Nach der öffentlichen Kritik von Adi Hütter überzeugte Can Uzun beim zweiten Duell mit dem HSV in fünf Tagen als bester Mann auf dem Platz - und bekam danach ein Sonderlob von seinem Trainer.",
-   "clubs": [
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-nusa-hausse-endlich-auch-in-der-champions-league-1267350/artikel",
-   "title": "Die Nusa-Hausse - endlich auch in der Champions League?",
-   "link": "https://www.kicker.de/die-nusa-hausse-endlich-auch-in-der-champions-league-1267350/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T20:06:39Z",
-   "teaser": "Antonio Nusa ist drauf und dran, für RB Leipzig zum Unterschiedspieler zu werden. Doch jetzt geht es für den Norweger gegen Manchester City darum, seinen Wert auch auf der internationalen Bühne zu bestätigen.",
-   "clubs": [
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/er-hat-gezeigt-dass-er-den-riecher-hat-wagner-ueber-el-mala-treffer-1267597/video",
-   "title": "\"Er hat gezeigt, dass er den Riecher hat\": Wagner über El-Mala-Treffer",
-   "link": "https://www.kicker.de/er-hat-gezeigt-dass-er-den-riecher-hat-wagner-ueber-el-mala-treffer-1267597/video",
-   "source": "kicker",
-   "published": "2026-11-01T19:45:33Z",
-   "teaser": "Malek El Mala feierte einen perfekten Einstand bei Köln mit dem 1:1-Ausgleichstreffer gegen Union Berlin. Köln-Trainer René Wagner freute sich für den Mittelstürmer, denn der 21-Jährige habe hart dafür gearbeitet.",
-   "clubs": [
-    80,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ilicevic-zieht-mit-moukoko-gleich-die-juengsten-debuetanten-der-bundesliga-789848/slideshow",
-   "title": "Ilicevic zieht mit Moukoko gleich: Die jüngsten Debütanten der Bundesliga",
-   "link": "https://www.kicker.de/ilicevic-zieht-mit-moukoko-gleich-die-juengsten-debuetanten-der-bundesliga-789848/slideshow",
-   "source": "kicker",
-   "published": "2026-11-01T19:15:00Z",
-   "teaser": "Einen Tag nach seinem 16. Geburtstag durfte Frankfurts Niko Ilicevic in der Bundesliga debütieren. Der Einsatz bescherte dem Teenager einen Platz in den Geschichtsbüchern.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/frankfurt-gegen-hsv-2026-bundesliga-5226874/spielbericht",
-   "title": "Zweiter Sieg in fünf Tagen: Frankfurt besiegt den HSV auch in der Liga",
-   "link": "https://www.kicker.de/frankfurt-gegen-hsv-2026-bundesliga-5226874/spielbericht",
-   "source": "kicker",
-   "published": "2026-11-01T18:42:28Z",
-   "teaser": "Eintracht Frankfurt feiert gegen den Hamburger SV einen verdienten Heimsieg. Für den HSV ist es die zweite Niederlage innerhalb von fünf Tagen gegen die SGE, die damit die Gäste überholt und in der Tabelle von Platz 14 auf 8 klettert.",
-   "clubs": [
-    91,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/pokal-revanche-misslungen-frankfurt-schlaegt-hsv-erneut-mit-3-1-1266563/artikel",
-   "title": "Pokal-Revanche misslungen: Frankfurt schlägt HSV erneut mit 3:1",
-   "link": "https://www.kicker.de/pokal-revanche-misslungen-frankfurt-schlaegt-hsv-erneut-mit-3-1-1266563/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T18:31:14Z",
-   "teaser": "Im DFB-Pokal konnte Eintracht Frankfurt unter der Woche den HSV mit 3:1 besiegen. Das selbe Ergebnis stand auch im Ligaduell auf der Anzeigetafel - wieder behielten die Hessen die Oberhand.",
-   "clubs": [
-    91,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/angst-vor-fehlern-lustrinelli-wir-sind-keine-maschinen-1267574/video",
-   "title": "Angst vor Fehlern? Lustrinelli: \"Wir sind keine Maschinen\"",
-   "link": "https://www.kicker.de/angst-vor-fehlern-lustrinelli-wir-sind-keine-maschinen-1267574/video",
-   "source": "kicker",
-   "published": "2026-11-01T18:29:05Z",
-   "teaser": "Nach dem 1:1 gegen Köln haderte Mauro Lustrinelli mit Unions Passivität nach der Pause. Der Trainer erklärt den Einbruch mit der mentalen Angst vor Fehlern: Seine Profis seien eben keine Maschinen.",
-   "clubs": [
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/noch-mal-ein-bisschen-besser-malek-el-mala-uebertrumpft-seinen-kleinen-bruder-1267524/artikel",
-   "title": "\"Noch mal ein bisschen besser\": Malek El Mala übertrumpft seinen kleinen Bruder",
-   "link": "https://www.kicker.de/noch-mal-ein-bisschen-besser-malek-el-mala-uebertrumpft-seinen-kleinen-bruder-1267524/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T18:19:03Z",
-   "teaser": "Es war die Geschichte des Tages: Malek El Mala feiert sein Bundesliga-Debüt und trifft sofort. Sein kleiner Bruder Said empfand nichts als Freude - und verriet, was Malek noch schneller gelungen ist als ihm.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/eine-besserung-aber-trotzdem-auch-weit-weg-von-gut-1267572/video",
-   "title": "\"Eine Besserung, aber trotzdem auch weit weg von gut\"",
-   "link": "https://www.kicker.de/eine-besserung-aber-trotzdem-auch-weit-weg-von-gut-1267572/video",
-   "source": "kicker",
-   "published": "2026-11-01T18:06:43Z",
-   "teaser": "Nach dem 0:5 im DFB-Pokal spielte der 1. FC Union Berlin im zweiten Duell innerhalb von fünf Tagen 1:1-Unentschieden gegen den 1. FC Köln. Für Union ein Schritt in die richtige Richtung, wie kicker-Reporter Jannis Klimburg berichtet.",
-   "clubs": [
-    80,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194446/eintracht-frankfurt_hamburger-sv/liveticker",
-   "title": "Jetzt live - 3:1! Überlegene Eintracht erhöht gegen den HSV",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194446/eintracht-frankfurt_hamburger-sv/liveticker",
-   "source": "Sportschau",
-   "published": "2026-11-01T18:02:20Z",
-   "teaser": "Eintracht Frankfurt ist auf einem guten Weg, in der Tabelle einen großen Sprung nach vorne zu machen. Gegen den Hamburger SV führen die Hessen verdient.",
-   "clubs": [
-    91,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/dortmunds-viererkette-wird-zum-symbol-und-laesst-vor-allem-einen-auffallen-1267404/artikel",
-   "title": "Dortmunds Viererkette wird zum Symbol - und lässt vor allem einen auffallen",
-   "link": "https://www.kicker.de/dortmunds-viererkette-wird-zum-symbol-und-laesst-vor-allem-einen-auffallen-1267404/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T17:16:06Z",
-   "teaser": "Die Auftritte der vergangenen Wochen und das Remis in München machen Borussia Dortmund Lust auf mehr. Die Spieler werden besser, der Fußball auch. Gegen die Bayern demonstrierte vor allem einer seine positive Entwicklung.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-eintracht-erzwingt-eigentor-doch-hsv-hat-die-schnelle-antwort-parat-1266563/artikel",
-   "title": "LIVE! Eintracht erzwingt Eigentor - doch HSV hat die schnelle Antwort parat",
-   "link": "https://www.kicker.de/live-eintracht-erzwingt-eigentor-doch-hsv-hat-die-schnelle-antwort-parat-1266563/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T16:37:15Z",
-   "teaser": "Im DFB-Pokal konnte Eintracht Frankfurt unter der Woche den HSV mit 3:1 besiegen. Heute gibt es das Wiedersehen in der Liga - diesmal in Frankfurt. Wer setzt sich diesmal durch?",
-   "clubs": [
-    91,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-diesmal-zaehlt-s-ebnoutalib-nach-uzun-pass-zur-stelle-1266563/artikel",
-   "title": "LIVE! Diesmal zählt's: Ebnoutalib nach Uzun-Pass zur Stelle",
-   "link": "https://www.kicker.de/live-diesmal-zaehlt-s-ebnoutalib-nach-uzun-pass-zur-stelle-1266563/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T16:37:15Z",
-   "teaser": "Im DFB-Pokal konnte Eintracht Frankfurt unter der Woche den HSV mit 3:1 besiegen. Heute gibt es das Wiedersehen in der Liga - diesmal in Frankfurt. Wer setzt sich diesmal durch?",
-   "clubs": [
-    91,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/union-gegen-koeln-2026-bundesliga-5226876/spielbericht",
-   "title": "Schwere Kost in Köpenick: Debütant Malek El Mala rettet Köln einen Punkt bei Union",
-   "link": "https://www.kicker.de/union-gegen-koeln-2026-bundesliga-5226876/spielbericht",
-   "source": "kicker",
-   "published": "2026-11-01T16:28:24Z",
-   "teaser": "Der 1. FC Union Berlin und der 1. FC Köln haben sich im zweiten Duell innerhalb von fünf Tagen unentschieden getrennt. Es war über weite Strecken ein absoluter Gruselkick, wobei Bundesliga-Debütant Malek El Mala den Hauptstädtern den Sieg …",
-   "clubs": [
-    80,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/eintracht-frankfurt-gegen-hamburger-sv,audiostream-eintracht-frankfurt-gegen-hamburger-sv-102.html",
-   "title": "Eintracht Frankfurt gegen Hamburger SV Live im Audiostream",
-   "link": "https://www.sportschau.de/fussball/bundesliga/eintracht-frankfurt-gegen-hamburger-sv,audiostream-eintracht-frankfurt-gegen-hamburger-sv-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-01T16:15:00Z",
-   "teaser": "8. Spieltag: Anpfiff des Spiels ist am 01.11.2026 um 17:30 Uhr. Hamburger SV spielt in Frankfurt am Main.",
-   "clubs": [
-    91,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194458/1-fc-union-berlin_1-fc-koeln/liveticker",
-   "title": "Jetzt live - Union hat keine Probleme mit harmlosen Kölnern",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194458/1-fc-union-berlin_1-fc-koeln/liveticker",
-   "source": "Sportschau",
-   "published": "2026-11-01T16:06:58Z",
-   "teaser": "Union Berlin hat zu Hause früh gegen den 1. FC Köln getroffen. Seither ist vor beiden Toren nicht mehr allzu viel passiert.",
-   "clubs": [
-    80,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-patzer-bei-wer-wird-millionaer-union-verschenkt-spassikowski-trikot-1267483/artikel",
-   "title": "Nach Patzer bei \"Wer wird Millionär\": Union verschenkt \"Spassikowski\"-Trikot",
-   "link": "https://www.kicker.de/nach-patzer-bei-wer-wird-millionaer-union-verschenkt-spassikowski-trikot-1267483/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T15:32:49Z",
-   "teaser": "Wie heißt der Trainer von Union Berlin? Bei der Quizshow \"Wer wird Millionär\" wurde diese Frage einem Kandidaten zum Verhängnis. Die Köpenicker reagierten vor dem Heimspiel gegen Köln mit einer humorvollen Aktion.",
-   "clubs": [
-    80,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-lemke-beginnt-beim-hsv-burkardt-auf-der-eintracht-bank-1266563/artikel",
-   "title": "LIVE! Lemke beginnt beim HSV - Burkardt auf der Eintracht-Bank",
-   "link": "https://www.kicker.de/live-lemke-beginnt-beim-hsv-burkardt-auf-der-eintracht-bank-1266563/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T15:00:00Z",
-   "teaser": "Im DFB-Pokal konnte Eintracht Frankfurt unter der Woche den HSV mit 3:1 besiegen. Heute gibt es das Wiedersehen in der Liga - diesmal in Frankfurt. Wer setzt sich diesmal durch?",
-   "clubs": [
-    91,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/laufwunder-baack-empfiehlt-sich-fuer-mehr-1267407/artikel",
-   "title": "Laufwunder Baack empfiehlt sich für mehr",
-   "link": "https://www.kicker.de/laufwunder-baack-empfiehlt-sich-fuer-mehr-1267407/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T14:25:37Z",
-   "teaser": "Dem Startelf-Debüt von Tom Baack im Pokal gegen Stuttgart folgte nun das erste Spiel von Beginn an in der Bundesliga. Und erneut zeigte der 27-jährige Neuzugang vom 1. FC Nürnberg, ein Gewinn für den Aufsteiger sein zu können.",
-   "clubs": [
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/1-fc-union-berlin-gegen-1-fc-koeln,audiostream-1-fc-union-berlin-gegen-1-fc-koeln-106.html",
-   "title": "1. FC Union Berlin gegen 1. FC Köln Live im Audiostream",
-   "link": "https://www.sportschau.de/fussball/bundesliga/1-fc-union-berlin-gegen-1-fc-koeln,audiostream-1-fc-union-berlin-gegen-1-fc-koeln-106.html",
-   "source": "Sportschau",
-   "published": "2026-11-01T14:15:00Z",
-   "teaser": "8. Spieltag: Anpfiff des Spiels ist am 01.11.2026 um 15:30 Uhr. 1. FC Köln spielt in Berlin.",
-   "clubs": [
-    80,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/undavs-ansage-an-maza-geh-mal-nach-paris-alter-1267452/artikel",
-   "title": "Undavs Ansage an Maza: \"Geh mal nach Paris, Alter!\"",
-   "link": "https://www.kicker.de/undavs-ansage-an-maza-geh-mal-nach-paris-alter-1267452/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T14:08:27Z",
-   "teaser": "Ibrahim Maza bekam nach Leverkusens 2:4 gegen den VfB Stuttgart gleich doppeltes Lob vom Gegner - und einen spaßigen Spruch von Deniz Undav.",
-   "clubs": [
-    6,
     16
    ],
    "transfer": false
