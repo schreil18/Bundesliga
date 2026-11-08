@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T22:15:09Z",
+ "updated": "2026-11-08T01:46:40Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,54 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/thioune-trotz-pleite-zufrieden-haben-uns-entwickelt-1269618/video",
+   "title": "Thioune trotz Pleite zufrieden: \"Haben uns entwickelt\"",
+   "link": "https://www.kicker.de/thioune-trotz-pleite-zufrieden-haben-uns-entwickelt-1269618/video",
+   "source": "kicker",
+   "published": "2026-11-07T23:05:31Z",
+   "teaser": "Trotz einer starken zweiten Halbzeit stand Werder Bremen nach 90 Minuten mit leeren Händen da. Trainer Daniel Thioune zeigte sich zufrieden mit der Leistung.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/die-sportschau-am-samstag-in-voller-laenge,sportschau-am-samstag-re-live-0711-100.html",
+   "title": "Die Sportschau am Samstag in voller Länge",
+   "link": "https://www.sportschau.de/fussball/die-sportschau-am-samstag-in-voller-laenge,sportschau-am-samstag-re-live-0711-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-07T23:00:05Z",
+   "teaser": "Sehen Sie hier die Sportschau am Samstag mit Zusammenfassungen der Bundesliga, 2. Bundesliga und der 3. Liga.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/vfb-coach-hoeness-beeindruckt-spieler-konnten-eigentlich-nicht-mehr-1269616/video",
+   "title": "VfB-Coach Hoeneß beeindruckt: \"Spieler konnten eigentlich nicht mehr\"",
+   "link": "https://www.kicker.de/vfb-coach-hoeness-beeindruckt-spieler-konnten-eigentlich-nicht-mehr-1269616/video",
+   "source": "kicker",
+   "published": "2026-11-07T22:45:19Z",
+   "teaser": "Nach kräftezehrenden Wochen sicherte sich der VfB Stuttgart im letzten Spiel vor der Länderspielpause drei Punkte gegen Werder. Dementsprechend erleichtert war anschließend auch Coach Sebastian Hoeneß.",
+   "clubs": [
+    16,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/was-fuer-ein-spieler-rb-coach-demichelis-von-gruda-begeistert-1269612/video",
+   "title": "\"Was für ein Spieler\": RB-Coach Demichelis von Gruda begeistert",
+   "link": "https://www.kicker.de/was-fuer-ein-spieler-rb-coach-demichelis-von-gruda-begeistert-1269612/video",
+   "source": "kicker",
+   "published": "2026-11-07T22:25:31Z",
+   "teaser": "RB Leipzig bestätigt den starken Auftritt aus der Champions League gegen Manchester City auch gegen den FC Augsburg und gewinnt mit 5:2. Nach der Partie lobt Trainer Martin Demichelis sein Team.",
+   "clubs": [
+    1635,
+    95
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
    "title": "Ägypten trennt sich von Erfolgstrainer Hassan - Mainz bindet Nebel",
@@ -2468,55 +2516,6 @@
    "clubs": [
     40,
     7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/thioune-in-niclas-schatten-fliegen-auch-andere-jungs-1267415/video",
-   "title": "Thioune: \"In Niclas' Schatten fliegen auch andere Jungs\"",
-   "link": "https://www.kicker.de/thioune-in-niclas-schatten-fliegen-auch-andere-jungs-1267415/video",
-   "source": "kicker",
-   "published": "2026-11-01T11:45:29Z",
-   "teaser": "Fußballdeutschland spricht über Niclas Füllkrug, aber hinter ihm befinde sich eine ganze Riege weiterer Neuzugänge, die bei Werder Bremen einschlägt, meint ein glücklicher Trainer Daniel Thioune.",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/infektion-international-wie-sich-bei-werder-alle-gegenseitig-anstecken-1267330/artikel",
-   "title": "Infektion international: Wie sich bei Werder alle gegenseitig anstecken",
-   "link": "https://www.kicker.de/infektion-international-wie-sich-bei-werder-alle-gegenseitig-anstecken-1267330/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T11:05:12Z",
-   "teaser": "Der SV Werder Bremen steuert nach rund einem Viertel der Saison auf Europa-Kurs - weil sich die Profis gegenseitig anstecken. \"Hochinfektiös\" ist vor allem einer.",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/abraha-wandelt-bei-der-tsg-auf-sueles-spuren-1267337/artikel",
-   "title": "Abraha wandelt bei der TSG auf Süles Spuren",
-   "link": "https://www.kicker.de/abraha-wandelt-bei-der-tsg-auf-sueles-spuren-1267337/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T10:47:04Z",
-   "teaser": "Im Sommer 2025 war Juniorennationalspieler Natnael Abraha (18) aus dem Nachwuchs von Eintracht Frankfurt nach Hoffenheim gewechselt. Am Samstag feierte das Talent sein Bundesligadebüt und folgt damit dem Weg eines berühmten Vorgängers.",
-   "clubs": [
-    91,
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gladbacher-torwartfrage-batz-reicht-seine-bewerbung-ein-1267376/artikel",
-   "title": "Gladbacher Torwartfrage: Batz reicht seine Bewerbung ein",
-   "link": "https://www.kicker.de/gladbacher-torwartfrage-batz-reicht-seine-bewerbung-ein-1267376/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T10:42:39Z",
-   "teaser": "Borussias Nummer 2 bleibt zum zweiten Mal in Folge ohne Gegentor und überzeugt als sicherer Rückhalt. Muss Stammkeeper Moritz Nicolas jetzt zittern?",
-   "clubs": [
-    87
    ],
    "transfer": false
   }
