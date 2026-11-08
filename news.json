@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T15:55:03Z",
+ "updated": "2026-11-08T20:24:55Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,158 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/bayers-existenziell-wichtiger-derbysieg-und-der-schmale-grat-beim-effzeh-1269922/video",
+   "title": "Bayers \"existenziell wichtiger\" Derbysieg und der \"schmale Grat\" beim Effzeh",
+   "link": "https://www.kicker.de/bayers-existenziell-wichtiger-derbysieg-und-der-schmale-grat-beim-effzeh-1269922/video",
+   "source": "kicker",
+   "published": "2026-11-08T20:02:54Z",
+   "teaser": "Bayer Leverkusen konnte das Rheinderby gegen den 1. FC Köln für sich entscheiden und feierte mit dem 2:1 einen wichtigen Erfolg in der Liga. Bei Köln gibt es weiterhin mehrere Probleme.",
+   "clubs": [
+    6,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/martinez-aleix-hat-heute-perfekt-gespielt-1269917/video",
+   "title": "Martinez: \"Aleix hat heute perfekt gespielt\"",
+   "link": "https://www.kicker.de/martinez-aleix-hat-heute-perfekt-gespielt-1269917/video",
+   "source": "kicker",
+   "published": "2026-11-08T19:49:34Z",
+   "teaser": "Nach schwierigen Wochen fuhr die Werkself im rheinischen Derby gegen Köln drei Punkte ein. Trainer Carles Martinez lobte im Anschluss Torschütze Aleix Garcia, der zuletzt im Mittelpunkt der Kritik stand.",
+   "clubs": [
+    6,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193615/tsg-hoffenheim_fc-schalke-04/liveticker",
+   "title": "Jetzt live - Hoffenheim führt, Gosens und Karius knallen zusammen",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193615/tsg-hoffenheim_fc-schalke-04/liveticker",
+   "source": "Sportschau",
+   "published": "2026-11-08T19:33:52Z",
+   "teaser": "Hoffenheim führt im Heimspiel gegen Schalke 04 mit 2:1. Robin Gosens und Loris Karius müssen nach einem Zusammenprall beide vom Platz.",
+   "clubs": [
+    175,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/zwayer-liegt-meist-richtig-bringt-aber-nicht-genug-ruhe-rein-1269877/artikel",
+   "title": "Zwayer liegt meist richtig, bringt aber nicht genug Ruhe rein",
+   "link": "https://www.kicker.de/zwayer-liegt-meist-richtig-bringt-aber-nicht-genug-ruhe-rein-1269877/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T19:12:59Z",
+   "teaser": "Beim hitzigen Derby zwischen dem 1. FC Köln und Bayer Leverkusen muss Referee Felix Zwayer eine knifflige Entscheidungen treffen.",
+   "clubs": [
+    6,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Ersetzt Kniat Walter in Kiel? - Orban und RB sprechen im Winter",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T18:42:25Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/null-torgefahr-union-bewirbt-sich-fuer-abstiegskampf,spielbericht-sc-freiburg-union-berlin-106.html",
+   "title": "Null Torgefahr: Union bewirbt sich gegen Freiburg für den Abstiegskampf",
+   "link": "https://www.sportschau.de/fussball/bundesliga/null-torgefahr-union-bewirbt-sich-fuer-abstiegskampf,spielbericht-sc-freiburg-union-berlin-106.html",
+   "source": "Sportschau",
+   "published": "2026-11-08T18:36:46Z",
+   "teaser": "Der SC Freiburg feierte einen ungefährdeten Heimsieg gegen erschreckend schwache Berliner. Allein Schlussmann Rönnow war es zu verdanken, dass die Niederlage nicht höher ausfiel.",
+   "clubs": [
+    112,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-adamu-staubt-ab-schalke-beendet-die-torflaute-1268819/artikel",
+   "title": "LIVE! Adamu staubt ab: Schalke beendet die Torflaute",
+   "link": "https://www.kicker.de/live-adamu-staubt-ab-schalke-beendet-die-torflaute-1268819/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T18:20:23Z",
+   "teaser": "Das inklusive Pokal seit sechs Partien sieglose Schalke lechzt nach Toren und Punkten. In Hoffenheim nehmen die Königsblauen hinsichtlich einer Trendwende einen neuen Anlauf.",
+   "clubs": [
+    175,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/derby-aerger-bei-el-mala-ein-bisschen-laecherlich-1269848/artikel",
+   "title": "Derby-Ärger bei El Mala: \"Ein bisschen lächerlich\"",
+   "link": "https://www.kicker.de/derby-aerger-bei-el-mala-ein-bisschen-laecherlich-1269848/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T18:19:14Z",
+   "teaser": "Nach der Derby-Niederlage gegen Leverkusen störte sich Kölns Torschütze Said El Mala an der Herangehensweise des Gegners - und wurde dabei deutlich.",
+   "clubs": [
+    6,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/tsg-hoffenheim-gegen-fc-schalke-04,audiostream-tsg-hoffenheim-gegen-fc-schalke-04-100.html",
+   "title": "Live hören: TSG Hoffenheim gegen FC Schalke 04 - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/tsg-hoffenheim-gegen-fc-schalke-04,audiostream-tsg-hoffenheim-gegen-fc-schalke-04-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-08T18:15:00Z",
+   "teaser": "9. Spieltag: Anpfiff des Spiels ist am 08.11.2026 um 19:30 Uhr. FC Schalke 04 spielt in Sinsheim.",
+   "clubs": [
+    175,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-1-fc-koeln-bittere-pleite-gegen-ungeliebten-nachbarn-100.html",
+   "title": "Bundesliga: Leverkusen stoppt Negativlauf mit Derby-Sieg in Köln",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-1-fc-koeln-bittere-pleite-gegen-ungeliebten-nachbarn-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-08T16:44:00Z",
+   "teaser": "Bayer Leverkusen hat in einem hitzigen Nachbarschaftsduell beim 1. FC Köln zurück in die Erfolgsspur gefunden. Der 1. FC Köln rutscht hingegen tiefer in die Abstiegszone.",
+   "clubs": [
+    6,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/olise-kane-und-co-als-joker-bayern-gewinnt-nach-0-3-rueckstand-1268598/video",
+   "title": "Olise, Kane und Co. als Joker: Bayern gewinnt nach 0:3-Rückstand",
+   "link": "https://www.kicker.de/olise-kane-und-co-als-joker-bayern-gewinnt-nach-0-3-rueckstand-1268598/video",
+   "source": "kicker",
+   "published": "2026-11-08T15:56:02Z",
+   "teaser": "Nachdem die Meisterschaft bereits feststand, rotierte Bayern-Coach Vincent Kompany im Saisonendspurt 25/26 kräftig durch. So mussten seine Super-Joker einen ordentlichen Rückstand zur Pause umbiegen.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/erster-sieg-nach-30-spielen-als-schalke-den-tasmania-rekord-abwendete-1268494/video",
+   "title": "Erster Sieg nach 30 Spielen: Als Schalke den Tasmania-Rekord abwendete",
+   "link": "https://www.kicker.de/erster-sieg-nach-30-spielen-als-schalke-den-tasmania-rekord-abwendete-1268494/video",
+   "source": "kicker",
+   "published": "2026-11-08T15:54:46Z",
+   "teaser": "Es ist Januar 2021, Schalke wartet seit fast einem ganzen Jahr auf einen Sieg. Gewinnt Königsblau auch gegen Hoffenheim nicht, ist Tasmanias Rekord von 31 Spielen ohne Sieg eingestellt. Doch Schalke hat eine Lösung parat und die heißt …",
+   "clubs": [
+    175,
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wenn-wir-meinen-fussballerisch-mithalten-zu-koennen-1269674/artikel",
    "title": "\"Wenn wir meinen, fußballerisch mithalten zu können …\"",
@@ -390,18 +542,6 @@
     95
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Ägypten trennt sich von Erfolgstrainer Hassan - Mainz bindet Nebel",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T21:55:00Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [
-    81
-   ],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/nach-boxkampf-mit-chabot-ball-saugnapf-fuellkrug-ist-stolz-auf-seine-geile-truppe-1269568/artikel",
@@ -2369,152 +2509,6 @@
    "clubs": [
     80,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
-   "title": "FC Bayern und Harry Kane feiern sich gegen den BVB zu früh",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
-   "source": "Sportschau",
-   "published": "2026-11-01T23:00:00Z",
-   "teaser": "Vor dem Anpfiff hatte es die Weltfußballer-Party für Harry Kane gegeben, kurz vor Schluss sah auch alles nach einem Sieg des FC Bayern aus - doch dann schlug Borussia Dortmund durch Fabio Silva zu.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/werder-beendet-schwarze-serie-gegen-hoffenheim,spielbericht-werder-bremen-tsg-hoffenheim-106.html",
-   "title": "Bremen schlägt Hoffenheim: Füllkrug trifft wie einst Völler",
-   "link": "https://www.sportschau.de/fussball/bundesliga/werder-beendet-schwarze-serie-gegen-hoffenheim,spielbericht-werder-bremen-tsg-hoffenheim-106.html",
-   "source": "Sportschau",
-   "published": "2026-11-01T23:00:00Z",
-   "teaser": "Der SV Werder Bremen hat in der Fußball-Bundesliga einen Sieg gegen die TSG 1899 Hoffenheim eingefahren - den ersten seit 2014. Niclas Füllkrug brach dabei einen Uralt-Rekord von Rudi Völler.",
-   "clubs": [
-    175,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-gladbach-wartet-weiter-auf-den-ersten-heimdreier-100.html",
-   "title": "Gladbach wartet weiter auf den ersten Heimdreier",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-gladbach-wartet-weiter-auf-den-ersten-heimdreier-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-01T23:00:00Z",
-   "teaser": "Borussia Mönchengladbach wartet weiter auf den ersten Heimsieg der Saison. Gegen Paderborn langte es nur zu einem torlosen Remis.",
-   "clubs": [
-    87,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/leipzig-siegt-klar-bei-schalke-steht-die-doppel-null,spielbericht-schalke-04-rb-leipzig-100.html",
-   "title": "RB Leipzig ohne Mühe - Bei Schalke 04 steht die Doppel-Null",
-   "link": "https://www.sportschau.de/fussball/bundesliga/leipzig-siegt-klar-bei-schalke-steht-die-doppel-null,spielbericht-schalke-04-rb-leipzig-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-01T23:00:00Z",
-   "teaser": "Schalke 04 präsentiert sich weiter abstiegsreif, vor allem in der Offensive. Gegen RB Leipzig gab es wieder keine Tore und erneut auch keine Punkte.",
-   "clubs": [
-    1635,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/stuttgarts-effizienz-sticht-leverkusen-aus,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
-   "title": "VfB Stuttgart siegt, Leverkusen fühlt sich benachteiligt",
-   "link": "https://www.sportschau.de/fussball/bundesliga/stuttgarts-effizienz-sticht-leverkusen-aus,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
-   "source": "Sportschau",
-   "published": "2026-11-01T23:00:00Z",
-   "teaser": "Der VfB Stuttgart hat sich bei Bayer Leverkusen aus der Krise geschossen. Die Gastgeber kritisierten die Leitung des Unparteiischen.",
-   "clubs": [
-    6,
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/freiburg-macht-optimum-aus-einem-grusel-kick,spielbericht-fc-augsburg-sc-freiburg-112.html",
-   "title": "SC Freiburg macht das Beste aus Grusel-Kick beim FC Augsburg",
-   "link": "https://www.sportschau.de/fussball/bundesliga/freiburg-macht-optimum-aus-einem-grusel-kick,spielbericht-fc-augsburg-sc-freiburg-112.html",
-   "source": "Sportschau",
-   "published": "2026-11-01T23:00:00Z",
-   "teaser": "Der SC Freiburg entscheidet einen lange müden Kick beim FC Augsburg mit seinem späten Siegtreffer und ist weiter härtester Verfolger der beiden Top-Teams Bayern und Dortmund.",
-   "clubs": [
-    40,
-    7,
-    112,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/elversberg-ueberrumpelt-mainz,spielbericht-sv-elversberg-mainz-05-100.html",
-   "title": "Traumtor Campbell - Elversberg überrumpelt Mainz",
-   "link": "https://www.sportschau.de/fussball/bundesliga/elversberg-ueberrumpelt-mainz,spielbericht-sv-elversberg-mainz-05-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-01T23:00:00Z",
-   "teaser": "Aufsteiger SV Elversberg überrascht weiter in der Fußball-Bundesliga und nimmt den 1. FSV Mainz 05 schon in Hälfte eins auseinander. Der Höhepunkt aber kommt erst in der Nachspielzeit der Partie.",
-   "clubs": [
-    81,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bvb-schockt-die-bayern-kurz-vor-schluss,video-bundesliga-fc-bayern-muenchen-borussia-dortmund-100.html",
-   "title": "BVB schockt die Bayern kurz vor Schluss",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bvb-schockt-die-bayern-kurz-vor-schluss,video-bundesliga-fc-bayern-muenchen-borussia-dortmund-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-01T23:00:00Z",
-   "teaser": "Zwei Führungen, vier Aluminiumtreffer, darunter ein verschossener Elfmeter - und trotzdem kann Bayern München im Bundesliga-Klassiker Borussia Dortmund nicht bezwingen.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/weit-mehr-gezeigt-als-man-erwarten-kann-huetter-schwaermt-von-ilicevic-1267659/video",
-   "title": "\"Weit mehr gezeigt, als man erwarten kann\": Hütter schwärmt von Ilicevic",
-   "link": "https://www.kicker.de/weit-mehr-gezeigt-als-man-erwarten-kann-huetter-schwaermt-von-ilicevic-1267659/video",
-   "source": "kicker",
-   "published": "2026-11-01T22:33:34Z",
-   "teaser": "Einen Tag nach seinem 16. Geburtstag feierte Niko Ilicevic sein Debüt bei Eintracht Frankfurt und ist nun der jüngste Bundesliga-Spieler aller Zeiten. Trainer Adi Hütter will das SGE-Juwel behutsam schleifen.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/war-ich-aufgebracht-polzin-hadert-mit-schiri-entscheidung-1267655/video",
-   "title": "\"War ich aufgebracht?\": Polzin hadert mit Schiri-Entscheidung",
-   "link": "https://www.kicker.de/war-ich-aufgebracht-polzin-hadert-mit-schiri-entscheidung-1267655/video",
-   "source": "kicker",
-   "published": "2026-11-01T22:26:17Z",
-   "teaser": "Nach dem 1:3 in Frankfurt hadert Merlin Polzin mit der Entstehung eines SGE-Treffers. Eine erneute Schiri-Debatte will der HSV-Trainer aber nicht führen.",
-   "clubs": [
-    91,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/stuttgarter-muenchner-und-leipziger-uebergewicht-die-kicker-elf-des-8-spieltags-1267610/slideshow",
-   "title": "Stuttgarter, Münchner und Leipziger Übergewicht: Die kicker-Elf des 8. Spieltags",
-   "link": "https://www.kicker.de/stuttgarter-muenchner-und-leipziger-uebergewicht-die-kicker-elf-des-8-spieltags-1267610/slideshow",
-   "source": "kicker",
-   "published": "2026-11-01T21:47:27Z",
-   "teaser": "Das überstrahlende Thema am Wochenende war der spannende Klassiker zwischen Bayern München und Borussia Dortmund (2:2). Doch auch auf den anderen Plätzen spielten sich Akteure ins Rampenlicht. Die kicker-Elf des 8. Spieltags im Überblick.",
-   "clubs": [
-    40,
-    7,
-    1635,
-    16
    ],
    "transfer": false
   }
