@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T01:46:40Z",
+ "updated": "2026-11-08T08:54:04Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,68 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/fuellkrug-bricht-interview-ab-nee-danke-ciao-1269639/artikel",
+   "title": "Füllkrug bricht Interview ab: \"Nee. Danke. Ciao!\"",
+   "link": "https://www.kicker.de/fuellkrug-bricht-interview-ab-nee-danke-ciao-1269639/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T08:27:02Z",
+   "teaser": "Nach über einem Jahr ist Niclas Füllkrug ab Montag wieder Teil der Nationalmannschaft. Doch nach der 0:1-Niederlage in Stuttgart hatte der Stürmer des SV Werder Bremen überhaupt kein Interesse daran, über seine DFB-Rückkehr zu sprechen.",
+   "clubs": [
+    16,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-dortmunds-nmecha-vom-pechvogel-zum-matchwinner-100.html",
+   "title": "Borussia Dortmunds Felix Nmecha - vom Pechvogel zum Matchwinner",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-dortmunds-nmecha-vom-pechvogel-zum-matchwinner-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-08T08:16:20Z",
+   "teaser": "Nach einer kurzen Schwächephase meldet sich Felix Nmecha mit einem Doppelpack gegen Elversberg zurück beim BVB.",
+   "clubs": [
+    7,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nutzt-el-mala-bayers-schwachstelle-letzte-fragen-und-antworten-vor-leverkusen-koeln-1268815/artikel",
+   "title": "Nutzt El Mala Bayers Schwachstelle? Letzte Fragen und Antworten vor Leverkusen-Köln",
+   "link": "https://www.kicker.de/nutzt-el-mala-bayers-schwachstelle-letzte-fragen-und-antworten-vor-leverkusen-koeln-1268815/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T07:47:51Z",
+   "teaser": "Vor dem Aufeinandertreffen zwischen dem 1. FC Köln und Bayer 04 Leverkusen stehen beide Teams unter Druck. Der kicker beantwortet die wichtigsten Fragen vor dem Prestigeduell.",
+   "clubs": [
+    6,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/diese-zehn-aktiven-spielten-100-mal-bundesliga-fuer-zwei-klubs-1268363/slideshow",
+   "title": "Diese zehn Aktiven spielten 100-mal Bundesliga für zwei Klubs",
+   "link": "https://www.kicker.de/diese-zehn-aktiven-spielten-100-mal-bundesliga-fuer-zwei-klubs-1268363/slideshow",
+   "source": "kicker",
+   "published": "2026-11-08T07:47:05Z",
+   "teaser": "Nur zehn aktive Spieler der Bundesliga haben für zwei Bundesliga-Klubs die 100-Spiele-Marke geknackt. Einer von ihnen trifft am Sonntag auf seinen langjährigen Ex-Verein. Die zehn Profis im Überblick.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wer-uebertraegt-1-fc-koeln-gegen-bayer-04-leverkusen-heute-live-im-tv-stream-1269152/artikel",
+   "title": "Wer überträgt 1. FC Köln gegen Bayer 04 Leverkusen heute live im TV & Stream?",
+   "link": "https://www.kicker.de/wer-uebertraegt-1-fc-koeln-gegen-bayer-04-leverkusen-heute-live-im-tv-stream-1269152/artikel",
+   "source": "kicker",
+   "published": "2026-11-08T05:00:00Z",
+   "teaser": "Derbystimmung am Rhein im Duell zwischen dem 1. FC Köln und Bayer 04 Leverkusen. Wo ihr die Partie heute live im TV und Stream verfolgen könnt, erfahrt ihr hier.",
+   "clubs": [
+    6,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/thioune-trotz-pleite-zufrieden-haben-uns-entwickelt-1269618/video",
    "title": "Thioune trotz Pleite zufrieden: \"Haben uns entwickelt\"",
@@ -102,7 +164,7 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-tor-reicht-stuttgart-gegen-starke-bremer,spielbericht-vfb-stuttgart-werder-bremen-106.html",
-   "title": "Stuttgart zittert sich gegen Bremen zum Topspiel-Sieg",
+   "title": "Stuttgart bezwingt starke Bremer - Füllkrugs Serie endet",
    "link": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-tor-reicht-stuttgart-gegen-starke-bremer,spielbericht-vfb-stuttgart-werder-bremen-106.html",
    "source": "Sportschau",
    "published": "2026-11-07T20:54:52Z",
@@ -2452,70 +2514,6 @@
    "clubs": [
     6,
     16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-lustrinelli-ueberrascht-mit-friedrich-johannesson-startet-bei-koeln-1266561/artikel",
-   "title": "LIVE! Lustrinelli überrascht mit Friedrich - Johannesson startet bei Köln",
-   "link": "https://www.kicker.de/live-lustrinelli-ueberrascht-mit-friedrich-johannesson-startet-bei-koeln-1266561/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T13:39:56Z",
-   "teaser": "Unter der Woche schlug der 1. FC Köln die Berliner im DFB-Pokal deutlich mit 5:0. Kann sich Union im Ligaheimspiel nun rehabilitieren?",
-   "clubs": [
-    80,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-schwere-kost-in-koepenick-koeln-findet-kaum-mittel-1266561/artikel",
-   "title": "LIVE! Schwere Kost in Köpenick: Köln findet kaum Mittel",
-   "link": "https://www.kicker.de/live-schwere-kost-in-koepenick-koeln-findet-kaum-mittel-1266561/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T13:39:56Z",
-   "teaser": "Unter der Woche schlug der 1. FC Köln die Berliner im DFB-Pokal deutlich mit 5:0. Kann sich Union im Ligaheimspiel nun rehabilitieren?",
-   "clubs": [
-    80,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-el-mala-hat-den-ausgleich-auf-dem-fuss-1266561/artikel",
-   "title": "LIVE! El Mala hat den Ausgleich auf dem Fuß",
-   "link": "https://www.kicker.de/live-el-mala-hat-den-ausgleich-auf-dem-fuss-1266561/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T13:39:56Z",
-   "teaser": "Unter der Woche schlug der 1. FC Köln die Berliner im DFB-Pokal deutlich mit 5:0. Kann sich Union im Ligaheimspiel nun rehabilitieren?",
-   "clubs": [
-    80,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/alarmstufe-rot-hoffenheims-personalnot-noch-schlimmer-1267410/artikel",
-   "title": "Alarmstufe Rot: Hoffenheims Personalnot noch schlimmer",
-   "link": "https://www.kicker.de/alarmstufe-rot-hoffenheims-personalnot-noch-schlimmer-1267410/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T13:08:26Z",
-   "teaser": "Es ist noch schlimmer als befürchtet. Die TSG Hoffenheim wird derzeit von einer Verletzungswelle überflutet. Nach kicker-Recherchen hat es besonders die Innenverteidigung getroffen, zudem schlimmer als bislang bekannt.",
-   "clubs": [
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/saibari-schon-operiert-fc-bayern-gibt-diagnosen-bekannt-1267279/artikel",
-   "title": "Saibari schon operiert: FC Bayern gibt Diagnosen bekannt",
-   "link": "https://www.kicker.de/saibari-schon-operiert-fc-bayern-gibt-diagnosen-bekannt-1267279/artikel",
-   "source": "kicker",
-   "published": "2026-11-01T11:48:29Z",
-   "teaser": "Am Tag nach dem verlustreichen Topspiel gegen den BVB hat der FC Bayern die Diagnosen für Ismael Saibari und Serge Gnabry bekannt gegeben. Michael Olise fällt offenbar nicht aus.",
-   "clubs": [
-    40,
-    7
    ],
    "transfer": false
   }
