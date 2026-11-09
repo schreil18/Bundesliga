@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T23:58:20Z",
+ "updated": "2026-11-09T06:06:26Z",
  "sources": [
   {
    "name": "kicker",
@@ -73,7 +73,7 @@
    "link": "https://www.sportschau.de/fussball/bundesliga/kaempferische-bayern-geben-sich-in-mainz-keine-bloesse,video-bundesliga-fsv-mainz-05-fc-bayern-muenchen-zusammenfassung-100.html",
    "source": "Sportschau",
    "published": "2026-11-08T23:00:29Z",
-   "teaser": "Auch in Abwesenheit von Cheftrainer Vincent Kompany gewinnen die Bayern ihr Auswärtsspiel in Mainz. Für den Rekordmeister sind Joshua Kommich und Lennart Karl erfolgreich.",
+   "teaser": "Auch in Abwesenheit von Cheftrainer Vincent Kompany gewinnen die Bayern ihr Auswärtsspiel in Mainz. Für den Rekordmeister sind Joshua Kimmich und Lennart Karl erfolgreich.",
    "clubs": [
     40,
     81
@@ -108,7 +108,7 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/schalke-verliert-trotz-aufbaeumen-gegen-hoffenheim,video-bundesliga-tsg-1899-hoffenheim-fc-schalke-04-zusammenfassung-100.html",
-   "title": "Schalke verliert trotz Aufbäumen gegen Hoffenheim",
+   "title": "Schalke verliert trotz Aufbäumens gegen Hoffenheim",
    "link": "https://www.sportschau.de/fussball/bundesliga/schalke-verliert-trotz-aufbaeumen-gegen-hoffenheim,video-bundesliga-tsg-1899-hoffenheim-fc-schalke-04-zusammenfassung-100.html",
    "source": "Sportschau",
    "published": "2026-11-08T23:00:25Z",
@@ -203,7 +203,7 @@
    "link": "https://www.sportschau.de/fussball/bundesliga/traumtore-und-platzverweis-beim-hamburger-heimsieg,video-bundesliga-hamburger-sv-borussia-moenchengladbach-zusammenfassung-104.html",
    "source": "Sportschau",
    "published": "2026-11-08T23:00:14Z",
-   "teaser": "Der Hamburger SV hat einen verdienten Sieg gegen Borussia Mönchengladbach eingefahren. In einer umkämpften Partie brachte Miro Muheim die Rothosen sehenswert in Führung.",
+   "teaser": "Der Hamburger SV hat einen verdienten Sieg gegen Borussia Mönchengladbach eingefahren. In einer umkämpften Partie brachte Miro Muheim die \"Rothosen\" sehenswert in Führung.",
    "clubs": [
     87,
     100
@@ -251,7 +251,7 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
-   "title": "Ein Tor, aber keine Punkte für den FC Schalke 04",
+   "title": "Ein Tor, aber keine Punkte für Schalke 04 gegen Hoffenheim",
    "link": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
    "source": "Sportschau",
    "published": "2026-11-08T23:00:00Z",
