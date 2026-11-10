@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T16:07:06Z",
+ "updated": "2026-11-10T00:13:57Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,63 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Carrick offenbar abermals vor dem Aus - Raul übernimmt Real Oviedo",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-09T22:10:44Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/nach-schmadtke-aus-der-uebergangsplan-im-bayern-scouting-1270217/artikel",
+   "title": "Nach Schmadtke-Aus: Der Übergangsplan im Bayern-Scouting",
+   "link": "https://www.kicker.de/nach-schmadtke-aus-der-uebergangsplan-im-bayern-scouting-1270217/artikel",
+   "source": "kicker",
+   "published": "2026-11-09T20:03:56Z",
+   "teaser": "Das Scouting des FC Bayern wird neu aufgestellt. Sportdirektor Christoph Freund und Campus-Chef Jochen Sauer treiben gerade in Abstimmung mit Sportvorstand Max Eberl eine neue Struktur voran.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/homeoffice-fuer-bvb-duo-kovac-hofft-auf-gehoer-bei-nationaltrainern-1269815/artikel",
+   "title": "Homeoffice für BVB-Duo - Kovac hofft auf Gehör bei Nationaltrainern",
+   "link": "https://www.kicker.de/homeoffice-fuer-bvb-duo-kovac-hofft-auf-gehoer-bei-nationaltrainern-1269815/artikel",
+   "source": "kicker",
+   "published": "2026-11-09T19:22:52Z",
+   "teaser": "Nach der vergangenen Länderspielpause benötigte Borussia Dortmund im Oktober einigen Anlauf, um wieder zu sich zu finden. Was hilft nun, da erneut fast der komplette Kader unterwegs ist?",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/knieverletzung-bei-gosens-schalke-gibt-vages-update-1269987/artikel",
+   "title": "Knieverletzung bei Gosens: Schalke gibt vages Update",
+   "link": "https://www.kicker.de/knieverletzung-bei-gosens-schalke-gibt-vages-update-1269987/artikel",
+   "source": "kicker",
+   "published": "2026-11-09T16:55:00Z",
+   "teaser": "Miron Muslic hatte schon kurz nach dem 1:2 bei der TSG Hoffenheim ein schlechtes Gefühl bezüglich Robin Gosens. Dieser Eindruck bestätigte sich nun, wenngleich der FC Schalke 04 noch keine genaue Diagnose nannte. Auch zu Loris Karius gab …",
+   "clubs": [
+    175,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/golden-boy-award-das-sind-cubarsis-vorgaenger-789831/slideshow",
+   "title": "\"Golden Boy\"-Award: Das sind Cubarsis Vorgänger",
+   "link": "https://www.kicker.de/golden-boy-award-das-sind-cubarsis-vorgaenger-789831/slideshow",
+   "source": "kicker",
+   "published": "2026-11-09T16:25:01Z",
+   "teaser": "Pau Cubarsi ist als \"Golden Boy\" 2026 ausgezeichnet worden. Zahlreiche Journalisten unter der Führung der Tuttosport wählten den Spanier zum besten und hoffnungsvollsten U-21-Spieler Europas. Das sind seine Vorgänger ...",
+   "clubs": [],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/knauff-experiment-und-neue-sorgen-defensive-aussenbahnen-bleiben-frankfurts-achillesferse-1269648/artikel",
    "title": "Knauff-Experiment und neue Sorgen: Defensive Außenbahnen bleiben Frankfurts Achillesferse",
    "link": "https://www.kicker.de/knauff-experiment-und-neue-sorgen-defensive-aussenbahnen-bleiben-frankfurts-achillesferse-1269648/artikel",
@@ -30,12 +87,15 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/von-wael-mohya-bis-niclas-fuellkrug-wie-die-bundesliga-lebt,zwischenbilanz-der-bundesliga-nach-neun-spieltagen-100.html",
-   "title": "Zwischenbilanz: Von Wael Mohya bis Niclas Füllkrug - Wie die Bundesliga lebt",
+   "title": "Füllkrug und Mohya Top, Gladbach und Schalke Flop",
    "link": "https://www.sportschau.de/fussball/bundesliga/von-wael-mohya-bis-niclas-fuellkrug-wie-die-bundesliga-lebt,zwischenbilanz-der-bundesliga-nach-neun-spieltagen-100.html",
    "source": "Sportschau",
    "published": "2026-11-09T15:16:02Z",
-   "teaser": "Der Meisterschaftskampf ist wieder offen, die Aufsteiger überraschen, zwei Traditionsvereine taumeln. Dazu kommen neue Hoffnungsträger und ein alter Torwart. Eine erste Zwischenbilanz nach neun Spieltagen.",
-   "clubs": [],
+   "teaser": "Niklas Füllkrug, Wael Mohya und die Aufsteiger überraschen, zwei Traditionsvereine taumeln und das Meisterrennen ist offen. Dazu kommen neue Hoffnungsträger und ein alter Torwart. Eine erste Zwischenbilanz nach neun Spieltagen.",
+   "clubs": [
+    87,
+    9
+   ],
    "transfer": false
   },
   {
@@ -551,16 +611,6 @@
     65
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Raul übernimmt Real Oviedo - Ersetzt Kniat Walter in Kiel?",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T18:42:25Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/live-adamu-staubt-ab-schalke-beendet-die-torflaute-1268819/artikel",
@@ -2469,55 +2519,6 @@
    "teaser": "Innenverteidiger Amos Pieper steht für Werders stabile Bremer Defensive. Während Niclas Füllkrug vorne trifft, überzeugt Pieper hinten mit Top-Zweikampfwerten und wachsender Konstanz.",
    "clubs": [
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-kann-edin-dzeko-die-schalker-hoffnungen-noch-erfuellen-100.html",
-   "title": "Kann Edin Dzeko die Schalker Hoffnungen noch erfüllen?",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-kann-edin-dzeko-die-schalker-hoffnungen-noch-erfuellen-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-03T19:13:00Z",
-   "teaser": "Edin Dzeko und Schalke 04: Eine Liaison wie im Märchen - eigentlich. Aber ist der 40-Jährige über seinem sportlichen Zenit?",
-   "clubs": [
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/rb/rb-werders-leistungstraeger-weiser-erneut-verletzt-102.html",
-   "title": "Werders Leistungsträger Mitchell Weiser erneut verletzt",
-   "link": "https://www.sportschau.de/regional/rb/rb-werders-leistungstraeger-weiser-erneut-verletzt-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-03T16:04:50Z",
-   "teaser": "Schlechte Nachricht für Werder: Mitchell Weiser kämpfte sich nach einem Kreuzbandriss nach 14 Monaten auf den Platz zurück. Nun fällt der Bremer schon wieder aus.",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kuehn-fehlt-gladbach-erneut-trio-koennte-in-hamburg-zurueckkehren-1268156/artikel",
-   "title": "Kühn fehlt Gladbach erneut - Trio könnte in Hamburg zurückkehren",
-   "link": "https://www.kicker.de/kuehn-fehlt-gladbach-erneut-trio-koennte-in-hamburg-zurueckkehren-1268156/artikel",
-   "source": "kicker",
-   "published": "2026-11-03T15:27:25Z",
-   "teaser": "Am Freitag unternimmt Borussia Mönchengladbach beim Hamburger SV einen weiteren Versuch, den letzten Tabellenplatz der Bundesliga zu verlassen. Drei Tage zuvor gab Trainer Alexander Blessin ein Update zu definitiven Ausfällen und möglichen …",
-   "clubs": [
-    87,
-    100
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/nur-eine-ergebniskrise-in-augsburg-oder-mehr-1268101/artikel",
-   "title": "Nur eine Ergebniskrise in Augsburg - oder mehr?",
-   "link": "https://www.kicker.de/nur-eine-ergebniskrise-in-augsburg-oder-mehr-1268101/artikel",
-   "source": "kicker",
-   "published": "2026-11-03T13:04:48Z",
-   "teaser": "Die Erinnerung an den tollen Saisonstart verblasst allmählich, seit sechs Spielen wartet der FC Augsburg in der Bundesliga auf einen Sieg. Das Problem: verspielte Vorsprünge durch späte Gegentore.",
-   "clubs": [
-    95
    ],
    "transfer": false
   }
