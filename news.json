@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T07:41:35Z",
+ "updated": "2026-11-10T16:22:48Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,86 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/mehr-als-ein-neues-gesicht-im-eintracht-aufsichtsrat-1270429/artikel",
+   "title": "Mehr als ein neues Gesicht im Eintracht-Aufsichtsrat?",
+   "link": "https://www.kicker.de/mehr-als-ein-neues-gesicht-im-eintracht-aufsichtsrat-1270429/artikel",
+   "source": "kicker",
+   "published": "2026-11-10T15:22:34Z",
+   "teaser": "Während die Eintracht in der Länderspielpause sportlich etwas durchschnaufen kann, stehen im Hintergrund wichtige Gespräche an. Neben dem aus der Ultraszene stammenden Vizepräsidenten Benjamin von Loefen könnte auch ein bekannter Ex-Profi …",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bayer-befasst-sich-konkret-mit-gladbachs-top-talent-mohya-1270414/artikel",
+   "title": "Bayer befasst sich konkret mit Gladbachs Top-Talent Mohya",
+   "link": "https://www.kicker.de/bayer-befasst-sich-konkret-mit-gladbachs-top-talent-mohya-1270414/artikel",
+   "source": "kicker",
+   "published": "2026-11-10T14:44:23Z",
+   "teaser": "Bayer 04 Leverkusen zeigt großes Interesse an Gladbachs 17-jährigem Top-Talent Wael Mohya. Der Europa-League-Teilnehmer befasst sich konkret mit einer möglichen Verpflichtung des angehenden deutschen Nationalspielers.",
+   "clubs": [
+    6,
+    87
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/kompany-ist-zurueck-an-der-saebener-strasse-1270379/artikel",
+   "title": "Kompany ist zurück an der Säbener Straße",
+   "link": "https://www.kicker.de/kompany-ist-zurueck-an-der-saebener-strasse-1270379/artikel",
+   "source": "kicker",
+   "published": "2026-11-10T13:20:00Z",
+   "teaser": "Am Sonntag hatte Ehrenpräsident Uli Hoeneß angedeutet, dass Vincent Kompany nach der Länderspielpause auf die Bank des FC Bayern München zurückkehren wird. Nun war der Belgier nach seiner Erkrankung wieder am Vereinsgelände.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/warum-die-eintracht-bis-weihnachten-im-nebel-stochern-muss-1270428/video",
+   "title": "Warum die Eintracht bis Weihnachten \"im Nebel stochern muss\"",
+   "link": "https://www.kicker.de/warum-die-eintracht-bis-weihnachten-im-nebel-stochern-muss-1270428/video",
+   "source": "kicker",
+   "published": "2026-11-10T12:58:48Z",
+   "teaser": "Nach neun Spieltagen ist klar, dass der Kader der Eintracht gerade in der Defensive noch einiges an Nachholbedarf hat. Doch bis das Transferfenster im Januar öffnet, muss sich die Eintracht noch ein wenig gedulden, sodass Coach Adi Hütter …",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/bleibt-dahmen-und-wer-kommt-wenn-nicht-1270391/artikel",
+   "title": "Bleibt Dahmen? Und wer kommt, wenn nicht?",
+   "link": "https://www.kicker.de/bleibt-dahmen-und-wer-kommt-wenn-nicht-1270391/artikel",
+   "source": "kicker",
+   "published": "2026-11-10T11:19:53Z",
+   "teaser": "Im Sommer 2023 wechselte Finn Dahmen ablösefrei vom 1. FSV Mainz 05 zum FC Augsburg und ist seitdem, mit Ausnahme der Hinrunde 2024/25, die Nummer 1. Nun läuft sein Vertrag zum Saisonende aus. Wie geht es weiter?",
+   "clubs": [
+    81,
+    95
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/so-geht-es-bei-bayerns-torhuetern-weiter-1270378/artikel",
+   "title": "So geht es bei Bayerns Torhütern weiter",
+   "link": "https://www.kicker.de/so-geht-es-bei-bayerns-torhuetern-weiter-1270378/artikel",
+   "source": "kicker",
+   "published": "2026-11-10T10:54:36Z",
+   "teaser": "Mit einem Sehnenanriss fällt Manuel Neuer in seiner höchstwahrscheinlich letzten Saison als Profi lange aus. Was bedeutet dies für die unmittelbare Zukunft im Bayern-Tor, aber auch ab der Saison 2027/28? Ein Update.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/der-unerschrockene-wie-sich-chabot-auf-seine-gegenspieler-vorbereitet-1270152/artikel",
+   "title": "Der Unerschrockene: Wie sich Chabot auf seine Gegenspieler vorbereitet",
+   "link": "https://www.kicker.de/der-unerschrockene-wie-sich-chabot-auf-seine-gegenspieler-vorbereitet-1270152/artikel",
+   "source": "kicker",
+   "published": "2026-11-10T09:09:35Z",
+   "teaser": "Jeff Chabot hat die relevanten U-Mannschaften des DFB durchlaufen. Er kennt die Schwächen der Top-Stürmer, bereitet sich akribisch auf seine Gegenspieler vor - und muss dennoch weiter auf seine erste Nominierung für die Nationalmannschaft …",
+   "clubs": [],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/sv-elversberg-zieht-positive-jahresbilanz-1270317/artikel",
    "title": "SV Elversberg zieht positive Jahresbilanz",
    "link": "https://www.kicker.de/sv-elversberg-zieht-positive-jahresbilanz-1270317/artikel",
@@ -25,6 +105,16 @@
    "clubs": [
     198
    ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/nmecha-weist-kritik-an-torjubel-zurueck,felix-nmecha-130.html",
+   "title": "Nähe zu evangelikalen Netzwerken? Nmecha weist Kritik zurück",
+   "link": "https://www.sportschau.de/fussball/nmecha-weist-kritik-an-torjubel-zurueck,felix-nmecha-130.html",
+   "source": "Sportschau",
+   "published": "2026-11-10T07:10:32Z",
+   "teaser": "Felix Nmecha hat seinen Torjubel verteidigt und erklärt, in seinem Glauben niemanden ausgrenzen zu wollen.",
+   "clubs": [],
    "transfer": false
   },
   {
@@ -2413,112 +2503,6 @@
    "clubs": [
     40,
     81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/der-mann-wird-ja-auch-alt-freude-auf-den-goetze-gipfel-in-paderborn-1268509/artikel",
-   "title": "\"Der Mann wird ja auch alt ...\": Freude auf den \"Götze-Gipfel\" in Paderborn",
-   "link": "https://www.kicker.de/der-mann-wird-ja-auch-alt-freude-auf-den-goetze-gipfel-in-paderborn-1268509/artikel",
-   "source": "kicker",
-   "published": "2026-11-04T15:44:33Z",
-   "teaser": "Beide schafften es in die Bundesliga, einer wurde sogar Weltmeister. Zum direkten Aufeinandertreffen der Brüder Mario und Felix Götze kam allerdings erst zweimal. Am Samstag gibt es beim Frankfurter Gastspiel in Paderborn die Gelegenheit …",
-   "clubs": [
-    91,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/friedrich-der-erste-schritt-in-richtung-eigener-anspruch-1268538/artikel",
-   "title": "Friedrich: Der erste Schritt in Richtung eigener Anspruch",
-   "link": "https://www.kicker.de/friedrich-der-erste-schritt-in-richtung-eigener-anspruch-1268538/artikel",
-   "source": "kicker",
-   "published": "2026-11-04T15:30:00Z",
-   "teaser": "Beim jüngsten 1:1 gegen Köln feierte Marvin Friedrich sein Comeback für Union Berlin. Der Rückkehrer aus Mönchengladbach muss aber um seinen Platz kämpfen.",
-   "clubs": [
-    87,
-    80,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/maskenmann-el-faouzi-voller-vorfreude-auf-mehr-offensivdrang-1268549/video",
-   "title": "Maskenmann El-Faouzi voller Vorfreude auf \"mehr Offensivdrang\"",
-   "link": "https://www.kicker.de/maskenmann-el-faouzi-voller-vorfreude-auf-mehr-offensivdrang-1268549/video",
-   "source": "kicker",
-   "published": "2026-11-04T15:02:45Z",
-   "teaser": "Soufiane El-Faouzi ist mit einer Maske zurück im Schalker Training. Die Umstellung im Spielsystem von Königsblau begrüßt er, wie kicker-Reporter Toni Lieto aus Gelsenkirchen berichtet.",
-   "clubs": [
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/trotz-trainingsrueckkehr-kofane-bade-und-ben-seghir-werden-bayers-not-kaum-lindern-1268439/artikel",
-   "title": "Trotz Trainingsrückkehr: Kofane, Badé und Ben Seghir werden Bayers Not kaum lindern",
-   "link": "https://www.kicker.de/trotz-trainingsrueckkehr-kofane-bade-und-ben-seghir-werden-bayers-not-kaum-lindern-1268439/artikel",
-   "source": "kicker",
-   "published": "2026-11-04T14:19:00Z",
-   "teaser": "Bei der 2:4-Niederlage gegen Stuttgart umfasste Bayers Ausfallliste acht Profis. Am Mittwoch standen drei davon beim Abschlusstraining vor dem Marseille-Spiel auf dem Platz. Doch selbst am Sonntag beim Derby in Köln werden Christian …",
-   "clubs": [
-    16,
-    65
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-vor-wegweisenden-wochen-100.html",
-   "title": "Eintracht Frankfurt vor wegweisenden Wochen",
-   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-vor-wegweisenden-wochen-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-04T13:39:40Z",
-   "teaser": "Eintracht Frankfurt will an die Spiele gegen den Hamburger SV anknüpfen und mit Siegen gegen Paderborn und Hoffenheim oben andocken. Und auch zwischendrin, in der Länderspielpause, wird es interessant.",
-   "clubs": [
-    91,
-    175,
-    100,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-vor-spiel-in-paderborn-eintracht-frankfurt-vor-wegweisenden-wochen-100.html",
-   "title": "Vor Spiel in Paderborn: Eintracht Frankfurt vor wegweisenden Wochen",
-   "link": "https://www.sportschau.de/regional/hr/hr-vor-spiel-in-paderborn-eintracht-frankfurt-vor-wegweisenden-wochen-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-04T13:39:40Z",
-   "teaser": "Eintracht Frankfurt will an die Spiele gegen den Hamburger SV anknüpfen und mit Siegen gegen Paderborn und Hoffenheim oben andocken. Und auch zwischendrin, in der Länderspielpause, wird es interessant.",
-   "clubs": [
-    91,
-    175,
-    100,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/schmied-man-kann-mit-einem-breiteren-laecheln-aufstehen-1268516/video",
-   "title": "Schmied: \"Man kann mit einem breiteren Lächeln aufstehen\"",
-   "link": "https://www.kicker.de/schmied-man-kann-mit-einem-breiteren-laecheln-aufstehen-1268516/video",
-   "source": "kicker",
-   "published": "2026-11-04T13:27:30Z",
-   "teaser": "Zuletzt kehrte Joel Schmied immer öfter in die Kölner Innenverteidigung zurück. Dass es bei ihm sportlich wieder besser läuft, hinterlässt auch beim Schweizer selbst Spuren.",
-   "clubs": [
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/vorne-muss-auch-einer-treffen-wie-koeln-im-herbst-erfolgreich-sein-will-1268513/video",
-   "title": "\"Vorne muss auch einer treffen\": Wie Köln im Herbst erfolgreich sein will",
-   "link": "https://www.kicker.de/vorne-muss-auch-einer-treffen-wie-koeln-im-herbst-erfolgreich-sein-will-1268513/video",
-   "source": "kicker",
-   "published": "2026-11-04T13:20:38Z",
-   "teaser": "Äußerst unterschiedliche Ergebnisse haben zuletzt die Frage aufgeworfen, wo der 1. FC Köln in dieser Saison steht. Läuft es eher gut oder eher schlecht? kicker-Reporter Jim Decker berichtet vom Geißbockheim aus Köln und hat sich dabei auch …",
-   "clubs": [
-    65
    ],
    "transfer": false
   }
