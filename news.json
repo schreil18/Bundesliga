@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T00:13:57Z",
+ "updated": "2026-11-10T07:41:35Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,30 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/sv-elversberg-zieht-positive-jahresbilanz-1270317/artikel",
+   "title": "SV Elversberg zieht positive Jahresbilanz",
+   "link": "https://www.kicker.de/sv-elversberg-zieht-positive-jahresbilanz-1270317/artikel",
+   "source": "kicker",
+   "published": "2026-11-10T07:20:49Z",
+   "teaser": "Bundesligist SV Elversberg hat am Montagabend auf seiner Mitgliederversammlung eine positive Jahresbilanz gezogen - und weist obendrauf ein Eigenkapitel in Höhe von über einer Million Euro aus.",
+   "clubs": [
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nmecha-ueber-seinen-torjubel-hat-zu-missverstaendnissen-gefuehrt-1270321/artikel",
+   "title": "Nmecha über seinen Torjubel: \"Hat zu Missverständnissen geführt\"",
+   "link": "https://www.kicker.de/nmecha-ueber-seinen-torjubel-hat-zu-missverstaendnissen-gefuehrt-1270321/artikel",
+   "source": "kicker",
+   "published": "2026-11-10T06:56:24Z",
+   "teaser": "Nach erneuter Kritik an seiner Jubelgeste hat der Dortmunder Nationalspieler Felix Nmecha nun selbst Stellung bezogen.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
    "title": "Carrick offenbar abermals vor dem Aus - Raul übernimmt Real Oviedo",
@@ -2495,30 +2519,6 @@
    "teaser": "Äußerst unterschiedliche Ergebnisse haben zuletzt die Frage aufgeworfen, wo der 1. FC Köln in dieser Saison steht. Läuft es eher gut oder eher schlecht? kicker-Reporter Jim Decker berichtet vom Geißbockheim aus Köln und hat sich dabei auch …",
    "clubs": [
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wie-loest-huetter-das-luxusproblem-in-der-sge-offensive-1268476/video",
-   "title": "Wie löst Hütter das \"Luxusproblem\" in der SGE-Offensive?",
-   "link": "https://www.kicker.de/wie-loest-huetter-das-luxusproblem-in-der-sge-offensive-1268476/video",
-   "source": "kicker",
-   "published": "2026-11-04T12:08:40Z",
-   "teaser": "In der Offensive von Eintracht Frankfurt hat Adi Hütter im Moment die Qual der Wahl. kicker-Reporter Julian Franzke berichtet vom öffentlichen Training der SGE.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/angekommen-in-den-top-5-der-liga-pieper-als-teil-des-werder-aufschwungs-1268428/artikel",
-   "title": "Angekommen in den Top 5 der Liga: Pieper als Teil des Werder-Aufschwungs",
-   "link": "https://www.kicker.de/angekommen-in-den-top-5-der-liga-pieper-als-teil-des-werder-aufschwungs-1268428/artikel",
-   "source": "kicker",
-   "published": "2026-11-04T11:28:11Z",
-   "teaser": "Innenverteidiger Amos Pieper steht für Werders stabile Bremer Defensive. Während Niclas Füllkrug vorne trifft, überzeugt Pieper hinten mit Top-Zweikampfwerten und wachsender Konstanz.",
-   "clubs": [
-    134
    ],
    "transfer": false
   }
