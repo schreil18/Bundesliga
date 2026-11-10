@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T16:22:48Z",
+ "updated": "2026-11-10T21:55:40Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Pochettino offenbar an Carrick-Nachfolge bei United interessiert",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-10T16:36:45Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/mehr-als-ein-neues-gesicht-im-eintracht-aufsichtsrat-1270429/artikel",
    "title": "Mehr als ein neues Gesicht im Eintracht-Aufsichtsrat?",
@@ -128,16 +138,6 @@
     7
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Carrick offenbar abermals vor dem Aus - Raul übernimmt Real Oviedo",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-09T22:10:44Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/nach-schmadtke-aus-der-uebergangsplan-im-bayern-scouting-1270217/artikel",
