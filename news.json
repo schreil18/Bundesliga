@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T17:24:37Z",
+ "updated": "2026-11-11T23:41:14Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,50 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/us-boy-castaneda-vor-nationalelf-debuet-da-gibt-s-gerade-ganz-viele-gefuehle-1270645/artikel",
+   "title": "US-Boy Castaneda vor Nationalelf-Debüt: \"Da gibt's gerade ganz viele Gefühle\"",
+   "link": "https://www.kicker.de/us-boy-castaneda-vor-nationalelf-debuet-da-gibt-s-gerade-ganz-viele-gefuehle-1270645/artikel",
+   "source": "kicker",
+   "published": "2026-11-11T22:24:27Z",
+   "teaser": "Dieser Mann lebt seinen Traum. Aufstieg in die Bundesliga, Vertragsverlängerung - und nun eine Einladung, die in mehrerlei Hinsicht Emotionen auslöste. Bisher lief das Jahr für Santiago Castaneda sportlich \"wahnsinnig\" positiv.",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "ManUnited: Vereinbarung mit Pochettino? - Milan hat Tresoldi auf dem Zettel",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-11T21:59:05Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/leipzigs-el-aynaoui-reist-vorzeitig-von-marokkos-nationalmannschaft-ab-1270842/artikel",
+   "title": "Leipzigs El Aynaoui reist vorzeitig von Marokkos Nationalmannschaft ab",
+   "link": "https://www.kicker.de/leipzigs-el-aynaoui-reist-vorzeitig-von-marokkos-nationalmannschaft-ab-1270842/artikel",
+   "source": "kicker",
+   "published": "2026-11-11T21:21:47Z",
+   "teaser": "Neil El Aynaoui ist vorzeitig von der marokkanischen Nationalmannschaft abgereist. Das teilte dessen Stammverein RB Leipzig am Mittwochabend mit.",
+   "clubs": [
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/trotz-schneller-karius-rueckkehr-schalke-auf-der-intensivstation-1270728/artikel",
+   "title": "Trotz schneller Karius-Rückkehr: Schalke auf der Intensivstation",
+   "link": "https://www.kicker.de/trotz-schneller-karius-rueckkehr-schalke-auf-der-intensivstation-1270728/artikel",
+   "source": "kicker",
+   "published": "2026-11-11T17:50:32Z",
+   "teaser": "Schalke 04 befindet sich im Herbst 2026 in sportlicher Hinsicht auf der Intensivstation, personell hängt der Vorletzte am Tropf. Loris Karius ist zwar schon wieder ins Mannschaftstraining zurückgekehrt, doch etliche weitere Kräfte fehlen …",
+   "clubs": [
+    9
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/angebrochene-rippen-oder-ausser-form-stuttgarts-probleme-rechts-hinten-1270656/artikel",
    "title": "Angebrochene Rippen oder außer Form: Stuttgarts Probleme rechts hinten",
@@ -110,16 +154,6 @@
     87
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Auch Milan hat Tresoldi auf dem Zettel - Wechselt Gündogan im Winter?",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-10T16:36:45Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/mehr-als-ein-neues-gesicht-im-eintracht-aufsichtsrat-1270429/artikel",
@@ -2467,42 +2501,6 @@
     40
    ],
    "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-blessin-sucht-die-richtige-dosis-fuer-mohya-100.html",
-   "title": "Blessin sucht die richtige Dosis für Mohya",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-blessin-sucht-die-richtige-dosis-fuer-mohya-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-05T10:23:00Z",
-   "teaser": "Mit 17 Jahren ist Wael Mohya der Hoffnungsträger in Mönchengladbach. Doch Trainer Alexander Blessin will ihn nicht überfordern.",
-   "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-gladbachs-blessin-sucht-die-richtige-dosis-fuer-mohya-100.html",
-   "title": "Gladbachs Blessin sucht die richtige Dosis für Mohya",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-gladbachs-blessin-sucht-die-richtige-dosis-fuer-mohya-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-05T10:23:00Z",
-   "teaser": "Mit 17 Jahren ist Wael Mohya der Hoffnungsträger in Mönchengladbach. Doch Trainer Alexander Blessin will ihn nicht überfordern.",
-   "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/war-das-kanes-schoenstes-tor-fuer-bayern-1268814/video",
-   "title": "War das Kanes schönstes Tor für Bayern?",
-   "link": "https://www.kicker.de/war-das-kanes-schoenstes-tor-fuer-bayern-1268814/video",
-   "source": "kicker",
-   "published": "2026-11-05T09:36:14Z",
-   "teaser": "Harry Kane hat seinen Vertrag beim FC Bayern bis 2029 verlängert. Die Bundesliga kann sich also noch weitere Jahre auf Traumtore wie das gegen Darmstadt freuen.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
   }
  ]
 }
