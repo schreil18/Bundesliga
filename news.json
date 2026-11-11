@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T09:14:47Z",
+ "updated": "2026-11-11T17:24:37Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,66 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/angebrochene-rippen-oder-ausser-form-stuttgarts-probleme-rechts-hinten-1270656/artikel",
+   "title": "Angebrochene Rippen oder außer Form: Stuttgarts Probleme rechts hinten",
+   "link": "https://www.kicker.de/angebrochene-rippen-oder-ausser-form-stuttgarts-probleme-rechts-hinten-1270656/artikel",
+   "source": "kicker",
+   "published": "2026-11-11T14:21:46Z",
+   "teaser": "Potenzielle Rechtsverteidiger hat der VfB Stuttgart genug. Doch entweder sind sie verletzt, nicht in Form oder nur Stellvertreter. Wie geht es nach der Länderspielpause weiter?",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/mainzer-fastnachtstrikot-im-schnorres-design-1270692/artikel",
+   "title": "Mainzer Fastnachtstrikot im Schnorres-Design",
+   "link": "https://www.kicker.de/mainzer-fastnachtstrikot-im-schnorres-design-1270692/artikel",
+   "source": "kicker",
+   "published": "2026-11-11T13:04:56Z",
+   "teaser": "Zum 100-jährigen Schwellköpp-Jubiläum orientiert sich der 1. FSV Mainz 05 bei seinem Fastnachtstrikot an einer der traditionsreichen Figuren: Schnorres ist der Pate des Sondertrikots, das in diesem Jahr auch eine Torwartedition erhält.",
+   "clubs": [
+    81
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/will-etwas-zurueckgeben-mainzer-aushaengeschild-nebel-setzt-ein-signal-1270492/artikel",
+   "title": "\"Will etwas zurückgeben\": Mainzer Aushängeschild Nebel setzt ein Signal",
+   "link": "https://www.kicker.de/will-etwas-zurueckgeben-mainzer-aushaengeschild-nebel-setzt-ein-signal-1270492/artikel",
+   "source": "kicker",
+   "published": "2026-11-11T10:50:30Z",
+   "teaser": "Ein ablösefreier Abschied stand als Schreckensszenario für Mainz im Raum. Doch Paul Nebel beweist: Profifußball funktioniert nach wie vor auch mit einem Schuss Romantik.",
+   "clubs": [
+    81
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/die-sind-doch-nicht-ganz-dicht-die-besten-koelner-karnevals-outfits-1270643/video",
+   "title": "\"Die sind doch nicht ganz dicht\": Die besten Kölner Karnevals-Outfits",
+   "link": "https://www.kicker.de/die-sind-doch-nicht-ganz-dicht-die-besten-koelner-karnevals-outfits-1270643/video",
+   "source": "kicker",
+   "published": "2026-11-11T10:11:56Z",
+   "teaser": "Traditionell feiert der 1. FC Köln kräftig beim Karneval mit. Da es in diesem Jahr kein kostümiertes Karnevalstraining am 11.11. gibt, zeigen wir euch die besten Outfits aus den letzten Jahren.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fc-bayern-trennt-sich-von-nachwuchs-chefscout-zahn-1270624/artikel",
+   "title": "FC Bayern trennt sich von Nachwuchs-Chefscout Zahn",
+   "link": "https://www.kicker.de/fc-bayern-trennt-sich-von-nachwuchs-chefscout-zahn-1270624/artikel",
+   "source": "kicker",
+   "published": "2026-11-11T09:45:14Z",
+   "teaser": "Es hatte sich angedeutet, nun ist es offiziell: Nach der Trennung von Scouting-Chef Nils Schmadtke beendet der FC Bayern auch die Zusammenarbeit mit Nachwuchs-Chefscout Florian Zahn.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/pelka-verlaesst-werder-fischer-trifft-wieder-auf-thioune-1270500/artikel",
    "title": "Pelka verlässt Werder - Fischer trifft wieder auf Thioune",
@@ -53,7 +113,7 @@
   },
   {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Pochettino offenbar an Carrick-Nachfolge bei United interessiert",
+   "title": "Auch Milan hat Tresoldi auf dem Zettel - Wechselt Gündogan im Winter?",
    "link": "https://www.kicker.de/transferticker-953155/artikel",
    "source": "kicker",
    "published": "2026-11-10T16:36:45Z",
@@ -2441,66 +2501,6 @@
    "teaser": "Harry Kane hat seinen Vertrag beim FC Bayern bis 2029 verlängert. Die Bundesliga kann sich also noch weitere Jahre auf Traumtore wie das gegen Darmstadt freuen.",
    "clubs": [
     40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bundesliga-spieltage-12-bis-18-angesetzt-mit-revierderby-und-zwei-free-tv-spielen-1267778/artikel",
-   "title": "Bundesliga-Spieltage 12 bis 18 angesetzt - mit Revierderby und zwei Free-TV-Spielen",
-   "link": "https://www.kicker.de/bundesliga-spieltage-12-bis-18-angesetzt-mit-revierderby-und-zwei-free-tv-spielen-1267778/artikel",
-   "source": "kicker",
-   "published": "2026-11-05T09:14:29Z",
-   "teaser": "Nach der Auslosung der DFB-Pokal-Achtelfinalspiele sind die nächsten Bundesliga-Spieltage zeitgenau terminiert worden. Dies betrifft die Runden 12 bis 18 - und damit auch die Rückkehr des Revierderbys.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-vertragslaufzeiten-der-bayern-profis-754838/slideshow",
-   "title": "Die Vertragslaufzeiten der Bayern-Profis",
-   "link": "https://www.kicker.de/die-vertragslaufzeiten-der-bayern-profis-754838/slideshow",
-   "source": "kicker",
-   "published": "2026-11-05T08:04:25Z",
-   "teaser": "Wie lange steht Michael Olise eigentlich noch beim FC Bayern unter Vertrag? Für wie viele Jahre haben Luis Diaz und Co. in München unterschrieben? Alle Vertragslaufzeiten der Bayern-Profis.",
-   "clubs": [
-    40
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/er-loest-jedes-versprechen-ein-kane-verlaengert-bei-bayern-1242507/artikel",
-   "title": "\"Er löst jedes Versprechen ein\": Kane verlängert bei Bayern",
-   "link": "https://www.kicker.de/er-loest-jedes-versprechen-ein-kane-verlaengert-bei-bayern-1242507/artikel",
-   "source": "kicker",
-   "published": "2026-11-05T08:03:49Z",
-   "teaser": "Der FC Bayern hat eine der wichtigsten Personalien im Kader geklärt und den Vertrag mit Harry Kane vorzeitig verlängert. Der Gewinner des Ballon d'Or bekennt sich bis 2029 zum deutschen Rekordmeister.",
-   "clubs": [
-    40
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/das-bundesliga-quiz-zum-9-spieltag-1268596/artikel",
-   "title": "Das Bundesliga-Quiz zum 9. Spieltag",
-   "link": "https://www.kicker.de/das-bundesliga-quiz-zum-9-spieltag-1268596/artikel",
-   "source": "kicker",
-   "published": "2026-11-04T20:15:38Z",
-   "teaser": "Rheinisches Nachbarschaftsduell, die Bayern in Mainz und prägende Erinnerungen auch auf Schalke sowie in Berlin-Köpenick. Wie gut bist du auf den 9. Spieltag vorbereitet?",
-   "clubs": [
-    40,
-    81,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/das-ist-die-viel-zu-lange-schalker-maengelliste-1268593/artikel",
-   "title": "Das ist die viel zu lange Schalker Mängelliste",
-   "link": "https://www.kicker.de/das-ist-die-viel-zu-lange-schalker-maengelliste-1268593/artikel",
-   "source": "kicker",
-   "published": "2026-11-04T19:33:00Z",
-   "teaser": "Das offensichtlichste Problem liegt im Angriff: Mit nur vier Treffern stellt Schalke 04 aktuell das harmloseste Team der Liga. Es gibt jedoch zahlreiche weitere Mängel, die eher im Detail liegen. Der kicker nennt die Gravierendsten.",
-   "clubs": [
-    9
    ],
    "transfer": false
   }
