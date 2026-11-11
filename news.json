@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:52:24Z",
+ "updated": "2026-11-11T09:14:47Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,42 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/pelka-verlaesst-werder-fischer-trifft-wieder-auf-thioune-1270500/artikel",
+   "title": "Pelka verlässt Werder - Fischer trifft wieder auf Thioune",
+   "link": "https://www.kicker.de/pelka-verlaesst-werder-fischer-trifft-wieder-auf-thioune-1270500/artikel",
+   "source": "kicker",
+   "published": "2026-11-11T09:10:56Z",
+   "teaser": "Die Personalrochaden bei Holstein Kiel gehen munter weiter, auch der SV Werder Bremen ist davon betroffen - und hat nun einen neuen Videoanalysten. Für Daniel Thioune kein Unbekannter.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-schalke-kann-sich-nur-an-tiefschlaegen-hochziehen-104.html",
+   "title": "Schalke kann sich nur an Tiefschlägen hochziehen",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-schalke-kann-sich-nur-an-tiefschlaegen-hochziehen-104.html",
+   "source": "Sportschau",
+   "published": "2026-11-11T09:00:23Z",
+   "teaser": "Auch Schalkes offensiv beste Saisonleistung reichte nur für eine Niederlage. Es ist zum Verweifeln, doch das ist nicht erlaubt.",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-gladbachs-muskeln-spielen-nicht-mehr-mit-100.html",
+   "title": "Gladbachs Muskeln spielen nicht mehr mit",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-gladbachs-muskeln-spielen-nicht-mehr-mit-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-11T09:00:04Z",
+   "teaser": "Borussia Mönchengladbach kämpft nicht nur gegen den Abstieg, sondern auch gegen eine auffällige Häufung von Muskelverletzungen.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
    "title": "Pochettino offenbar an Carrick-Nachfolge bei United interessiert",
@@ -2465,44 +2501,6 @@
    "teaser": "Das offensichtlichste Problem liegt im Angriff: Mit nur vier Treffern stellt Schalke 04 aktuell das harmloseste Team der Liga. Es gibt jedoch zahlreiche weitere Mängel, die eher im Detail liegen. Der kicker nennt die Gravierendsten.",
    "clubs": [
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-batz-ersetzt-nicolas-im-gladbach-tor-fuer-laenger-100.html",
-   "title": "Batz ersetzt Nicolas im Gladbach-Tor - für länger?",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-batz-ersetzt-nicolas-im-gladbach-tor-fuer-laenger-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-04T17:43:00Z",
-   "teaser": "In Gladbach halten die schlechten Nachrichten an. Auch Torwart Moritz Nicolas ist verletzt. Daniel Batz ersetzt ihn. Für länger?",
-   "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-hsv-suche-nach-saeulen-bornauw-steht-wieder-1268586/artikel",
-   "title": "Die HSV-Suche nach Säulen: Bornauw steht wieder",
-   "link": "https://www.kicker.de/die-hsv-suche-nach-saeulen-bornauw-steht-wieder-1268586/artikel",
-   "source": "kicker",
-   "published": "2026-11-04T17:22:32Z",
-   "teaser": "Der Hamburger SV steht am Freitagabend gegen Mönchengladbach vor einem richtungsweisenden Heimspiel. Die letzten Partien haben gezeigt, dass der Vorjahres-Aufsteiger dringend wieder Qualitätszuwachs aus den eigenen Reihen benötigt, um für …",
-   "clubs": [
-    87,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/swr/swr-hoffnungstraeger-nach-seuchenjahr-mainz-05-und-der-neue-anthony-caci-100.html",
-   "title": "Mainz 05 und der \"neue\" Anthony Caci erwarten die Bayern",
-   "link": "https://www.sportschau.de/regional/swr/swr-hoffnungstraeger-nach-seuchenjahr-mainz-05-und-der-neue-anthony-caci-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-04T16:22:28Z",
-   "teaser": "Bundesligist Mainz 05 durchlebt derzeit eine kleine Schwächephase. Anthony Caci hingegen zählt bei den Rheinhessen zu den Hoffnungsträgern. Ausgerechnet jetzt kommt der FC Bayern.",
-   "clubs": [
-    40,
-    81
    ],
    "transfer": false
   }
