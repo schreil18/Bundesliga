@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T15:55:47Z",
+ "updated": "2026-11-12T22:11:58Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,76 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Ismael findet neuen Job in Frankreich - Pochettino vor ManUnited-Engagement",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-12T21:01:27Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/bericht-rb-leipzig-plant-erneute-gruendung-eines-u-23-teams-1271105/artikel",
+   "title": "Bericht: RB Leipzig plant erneute Gründung eines U-23-Teams",
+   "link": "https://www.kicker.de/bericht-rb-leipzig-plant-erneute-gruendung-eines-u-23-teams-1271105/artikel",
+   "source": "kicker",
+   "published": "2026-11-12T19:40:27Z",
+   "teaser": "RB Leipzig strebt offenbar die erneute Gründung einer zweiten Mannschaft an. In welcher Liga diese starten könnte, ist aktuell noch offen.",
+   "clubs": [
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/top-torjaeger-bei-werders-erster-meisterschaft-matischak-ist-tot-1271076/artikel",
+   "title": "Top-Torjäger bei Werders erster Meisterschaft: Matischak ist tot",
+   "link": "https://www.kicker.de/top-torjaeger-bei-werders-erster-meisterschaft-matischak-ist-tot-1271076/artikel",
+   "source": "kicker",
+   "published": "2026-11-12T18:09:49Z",
+   "teaser": "Klaus Matischak ist tot. Der ehemalige Stürmer hatte 1965 entscheidenden Anteil an der ersten Deutschen Meisterschaft von Werder Bremen.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/das-fand-ich-schon-cool-sorgt-strobl-fuer-die-grosse-arnold-ueberraschung-1271064/artikel",
+   "title": "\"Das fand ich schon cool\": Sorgt Strobl für die große Arnold-Überraschung?",
+   "link": "https://www.kicker.de/das-fand-ich-schon-cool-sorgt-strobl-fuer-die-grosse-arnold-ueberraschung-1271064/artikel",
+   "source": "kicker",
+   "published": "2026-11-12T17:30:18Z",
+   "teaser": "Der VfL Wolfsburg gewann sein Testspiel gegen den erschreckend schwachen Erstligisten Union Berlin mit 2:0. Überraschung: Kapitän Maximilian Arnold agierte als linker Innenverteidiger - kann er das auch in der 2. Liga?",
+   "clubs": [
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/assist-gegen-luettich-gladbach-freut-sich-auf-rueckkehrer-kuehn-1271055/artikel",
+   "title": "Assist gegen Lüttich: Gladbach freut sich auf Rückkehrer Kühn",
+   "link": "https://www.kicker.de/assist-gegen-luettich-gladbach-freut-sich-auf-rueckkehrer-kuehn-1271055/artikel",
+   "source": "kicker",
+   "published": "2026-11-12T16:19:49Z",
+   "teaser": "Borussia Mönchengladbach hat ein Testspiel gegen Standard Lüttich 1:0 gewonnen. Das Siegtor bereitete mit Nicolas Kühn einer der Rückkehrer vor. So sah der Trainer das Comeback des Offensivspielers.",
+   "clubs": [
+    87
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/koeln-meldet-rekorde-bei-umsatz-und-mitgliedern-aber-weniger-gewinn-1270811/artikel",
+   "title": "Köln meldet Rekorde bei Umsatz und Mitgliedern, aber weniger Gewinn",
+   "link": "https://www.kicker.de/koeln-meldet-rekorde-bei-umsatz-und-mitgliedern-aber-weniger-gewinn-1270811/artikel",
+   "source": "kicker",
+   "published": "2026-11-12T16:00:00Z",
+   "teaser": "Das Geschäftsjahr 2025/26 beendet der 1. FC Köln erneut mit einem positiven Ergebnis. Doch die gestiegenen Investitionen in den sportlichen Bereich schlagen sich auch in der Bilanz nieder.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/irgendwann-ist-der-physische-tank-leer-wundenlecken-in-hoffenheim-1270747/artikel",
    "title": "\"Irgendwann ist der physische Tank leer\": Wundenlecken in Hoffenheim",
@@ -96,16 +166,6 @@
     100
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Pochettino vor ManUnited-Engagement - Nachfolgekandidat Guardiola?",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-12T07:48:57Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/us-boy-castaneda-vor-nationalelf-debuet-da-gibt-s-gerade-ganz-viele-gefuehle-1270645/artikel",
@@ -2438,68 +2498,6 @@
     100
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-sc-paderborn--eintracht-frankfurt-huetter-sieht-richtungsweisendes-spiel-100.html",
-   "title": "Hütter sieht gegen Paderborn \"richtungsweisendes Spiel\"",
-   "link": "https://www.sportschau.de/regional/hr/hr-sc-paderborn--eintracht-frankfurt-huetter-sieht-richtungsweisendes-spiel-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-05T14:43:29Z",
-   "teaser": "Eintracht Frankfurt könnte mit einem Sieg in Paderborn in der Tabelle wieder sachte nach oben blicken. Top-Talent Niko Ilicevic wird wieder im Kader stehen, dafür wackelt ausgerechnet der Kapitän.",
-   "clubs": [
-    91,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hoeness-schwaermt-von-fuellkrug-positive-erscheinung-in-der-bundesliga-1268928/video",
-   "title": "Hoeneß schwärmt von Füllkrug: \"Positive Erscheinung in der Bundesliga\"",
-   "link": "https://www.kicker.de/hoeness-schwaermt-von-fuellkrug-positive-erscheinung-in-der-bundesliga-1268928/video",
-   "source": "kicker",
-   "published": "2026-11-05T14:14:48Z",
-   "teaser": "Stuttgart-Trainer Sebastian Hoeneß spricht auf der Pressekonferenz vor dem Spiel gegen Werder Bremen über die Form von Stürmer Niclas Füllkrug und was ihn ausmacht.",
-   "clubs": [
-    16,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bruderduell-faellt-fuer-goetze-wohl-flach-koch-wackelt-ebenfalls-1268905/artikel",
-   "title": "Bruderduell fällt für Götze wohl flach - Koch wackelt ebenfalls",
-   "link": "https://www.kicker.de/bruderduell-faellt-fuer-goetze-wohl-flach-koch-wackelt-ebenfalls-1268905/artikel",
-   "source": "kicker",
-   "published": "2026-11-05T13:43:36Z",
-   "teaser": "Zum dritten Mal könnten sich Mario Götze und sein jüngerer Bruder Felix gegenüberstehen. Daraus wird aber wohl nichts, eine Ohrenentzündung macht dem Weltmeister einen Strich durch die Rechnung. Ein Ausfall in Paderborn droht auch Kapitän …",
-   "clubs": [
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-massives-ausrufezeichen-harry-kane-verlaengert-beim-fc-bayern-102.html",
-   "title": "Bis 2029: Harry Kane verlängert beim FC Bayern",
-   "link": "https://www.sportschau.de/regional/br/br-massives-ausrufezeichen-harry-kane-verlaengert-beim-fc-bayern-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-05T13:37:07Z",
-   "teaser": "Harry Kane verlängert seinen Vertrag beim FC Bayern um zwei Jahre bis 2029. Das hat der deutsche Rekordmeister heute bekannt gegeben. Damit geht die Rekordjagd des Engländers in München weiter.",
-   "clubs": [
-    40
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/bayern-sponsoren-sind-bei-dem-klub-bei-dem-der-weltfussballer-zu-hause-ist-1268912/video",
-   "title": "Bayern-Sponsoren sind \"bei dem Klub, bei dem der Weltfußballer zu Hause ist\"",
-   "link": "https://www.kicker.de/bayern-sponsoren-sind-bei-dem-klub-bei-dem-der-weltfussballer-zu-hause-ist-1268912/video",
-   "source": "kicker",
-   "published": "2026-11-05T13:25:53Z",
-   "teaser": "Jan-Christian Dreesen erklärte auf der PK zur Vertragsverlängerung von Harry Kane, welchen Mehrwert der FC Bayern auch in punkto Sponsoren aus dem Triumph beim Ballon d'Or ziehen kann.",
-   "clubs": [
-    40
-   ],
-   "transfer": true
   }
  ]
 }
