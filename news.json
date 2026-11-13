@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T10:50:21Z",
+ "updated": "2026-11-13T18:28:51Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,38 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/50plus-soll-grundvoraussetzung-in-der-bundesliga-werden,50-plus-1-abstimmung-100.html",
+   "title": "Abstimmung - Bundesliga soll 50+1 \"einheitlich umsetzen\"",
+   "link": "https://www.sportschau.de/fussball/50plus-soll-grundvoraussetzung-in-der-bundesliga-werden,50-plus-1-abstimmung-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-13T16:07:11Z",
+   "teaser": "Am 3. Dezember kommen die Klubs der Bundesliga und 2. Bundesliga zu einer Mitgliederversammlung zusammen. Dabei will das Präsidium des Ligaverbands eine Abstimmung zu 50+1 abhalten.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Japan und Moriyasu trennen sich vorzeitig - Bruno Fernandes lehnt Vertragsangebot ab",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-13T13:35:40Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/reaktion-auf-kritik-bvb-verlaengert-rheinmetall-vertrag-nicht-1269652/artikel",
+   "title": "Reaktion auf Kritik: BVB verlängert Rheinmetall-Vertrag nicht",
+   "link": "https://www.kicker.de/reaktion-auf-kritik-bvb-verlaengert-rheinmetall-vertrag-nicht-1269652/artikel",
+   "source": "kicker",
+   "published": "2026-11-13T12:53:57Z",
+   "teaser": "Borussia Dortmund wird den Sponsoringvertrag mit dem Rüstungskonzern Rheinmetall auslaufen lassen. Damit reagiert der Klub auch auf den Unmut, den viele Mitglieder über einen längeren Zeitraum kundgetan haben.",
+   "clubs": [
+    7
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/daumenverletzung-bei-backhaus-doch-keine-panik-in-freiburg-1271232/artikel",
    "title": "Daumenverletzung bei Backhaus - doch keine Panik in Freiburg",
@@ -68,16 +100,6 @@
     100
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Ismael findet neuen Job in Frankreich - Pochettino vor ManUnited-Engagement",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-12T21:01:27Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/bericht-rb-leipzig-plant-erneute-gruendung-eines-u-23-teams-1271105/artikel",
@@ -2465,30 +2487,6 @@
    "teaser": "Alexander Wehrle, Vorstandvorsitzender des VfB Stuttgart, ist am Donnerstagabend mit einer der höchsten Auszeichnungen Baden-Württembergs ausgezeichnet worden.",
    "clubs": [
     16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/sehnsucht-nach-toren-die-gruende-fuer-die-schalker-flaute-1268976/video",
-   "title": "Sehnsucht nach Toren: Die Gründe für die Schalker Flaute",
-   "link": "https://www.kicker.de/sehnsucht-nach-toren-die-gruende-fuer-die-schalker-flaute-1268976/video",
-   "source": "kicker",
-   "published": "2026-11-05T16:59:56Z",
-   "teaser": "Vier Heimspiele und noch kein Tor für den FC Schalke 04. Die Aufstiegseuphorie aus dem Sommer droht zu versickern, Trainer Miron Muslic versucht nun, die derzeit schlechteste Offensive der Liga mit einer Systemumstellung auf Touren zu …",
-   "clubs": [
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hoeness-exklusiv-wir-haben-atletico-regelrecht-vorgefuehrt-1268889/artikel",
-   "title": "Hoeneß exklusiv: \"Wir haben Atletico regelrecht vorgeführt\"",
-   "link": "https://www.kicker.de/hoeness-exklusiv-wir-haben-atletico-regelrecht-vorgefuehrt-1268889/artikel",
-   "source": "kicker",
-   "published": "2026-11-05T16:49:55Z",
-   "teaser": "Stark ersatzgeschwächt gewann der FC Bayern souverän mit 2:0 bei Atletico Madrid. Ehrenpräsident Uli Hoeneß spricht exklusiv darüber, warum ihn das nachhaltig beeindruckte - und wie er Harry Kanes Verlängerung einschätzt.",
-   "clubs": [
-    40
    ],
    "transfer": false
   }
