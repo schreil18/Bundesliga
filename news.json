@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T19:03:51Z",
+ "updated": "2026-11-14T22:56:11Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/ndr/trotz-bundesliga-abstieg-fc-st-pauli-macht-rekordgewinn,pauli-722.html",
+   "title": "FC St. Pauli macht Rekordgewinn und will Frauenfußball stärken",
+   "link": "https://www.sportschau.de/regional/ndr/trotz-bundesliga-abstieg-fc-st-pauli-macht-rekordgewinn,pauli-722.html",
+   "source": "Sportschau",
+   "published": "2026-11-14T20:08:18Z",
+   "teaser": "Der Fußball-Zweitligist hat das Geschäftsjahr 2025/26 mit einem Überschuss von 16,7 Millionen Euro abgeschlossen. Zudem wird der Club für den Frauenfußball eine eigene Tochtergesellschaft gründen.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/baumgart-hofft-auf-neue-chance-ich-koennte-wieder-1271586/artikel",
    "title": "Baumgart hofft auf neue Chance: \"Ich könnte wieder\"",
@@ -36,16 +46,6 @@
    "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
    "clubs": [],
    "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/regional/ndr/trotz-bundesliga-abstieg-fc-st-pauli-macht-rekordgewinn,pauli-722.html",
-   "title": "Trotz Bundesliga-Abstieg: FC St. Pauli macht Rekordgewinn",
-   "link": "https://www.sportschau.de/regional/ndr/trotz-bundesliga-abstieg-fc-st-pauli-macht-rekordgewinn,pauli-722.html",
-   "source": "Sportschau",
-   "published": "2026-11-14T13:04:50Z",
-   "teaser": "Der Fußball-Zweitligist hat das Geschäftsjahr 2025/26 mit einem Überschuss von 16,7 Millionen Euro abgeschlossen, vor allem dank der neugegründeten Genossenschaft.",
-   "clubs": [],
-   "transfer": false
   },
   {
    "id": "https://www.kicker.de/naechster-rueckschlag-poulsen-fehlt-dem-hsv-erneut-1271506/artikel",
