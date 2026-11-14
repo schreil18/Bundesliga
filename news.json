@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T13:45:36Z",
+ "updated": "2026-11-14T19:03:51Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,28 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/baumgart-hofft-auf-neue-chance-ich-koennte-wieder-1271586/artikel",
+   "title": "Baumgart hofft auf neue Chance: \"Ich könnte wieder\"",
+   "link": "https://www.kicker.de/baumgart-hofft-auf-neue-chance-ich-koennte-wieder-1271586/artikel",
+   "source": "kicker",
+   "published": "2026-11-14T18:33:23Z",
+   "teaser": "Steffen Baumgart sprach am Samstagabend auf der Matchplan-Konferenz in der Deutschen Sporthochschule Köln nicht nur über inhaltliche Themen, sondern auch über seine persönliche Situation.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Neuer-Entscheidung im Winter? - Ito dürfte gehen",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-14T14:58:47Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [],
+   "transfer": true
+  },
   {
    "id": "https://www.sportschau.de/regional/ndr/trotz-bundesliga-abstieg-fc-st-pauli-macht-rekordgewinn,pauli-722.html",
    "title": "Trotz Bundesliga-Abstieg: FC St. Pauli macht Rekordgewinn",
@@ -105,16 +127,6 @@
    "teaser": "Am 3. Dezember kommen die Klubs der Bundesliga und 2. Bundesliga zu einer Mitgliederversammlung zusammen. Dabei will das Präsidium des Ligaverbands eine Abstimmung zu 50+1 abhalten.",
    "clubs": [],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Japan und Moriyasu trennen sich vorzeitig - Bruno Fernandes lehnt Vertragsangebot ab",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-13T13:35:40Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/reaktion-auf-kritik-bvb-verlaengert-rheinmetall-vertrag-nicht-1269652/artikel",
@@ -2466,19 +2478,6 @@
    "teaser": "Nach einiger Kritik auch aus dem Verein bewies Lennart Karl am Dienstag in Madrid wieder seinen sportlichen Wert für den FCB. Sportdirektor Christoph Freund sprach am Freitag über Karls Entwicklung und dessen DFB-Nominierung.",
    "clubs": [
     40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/danks-kuendigt-pausen-an-wer-kann-bei-bayern-ueberhaupt-links-spielen-1269125/artikel",
-   "title": "Danks kündigt Pausen an - Wer kann bei Bayern überhaupt links spielen?",
-   "link": "https://www.kicker.de/danks-kuendigt-pausen-an-wer-kann-bei-bayern-ueberhaupt-links-spielen-1269125/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T10:00:42Z",
-   "teaser": "In Mainz tut sich der FC Bayern traditionell schwer, am Samstag sieht das Aufgebot immer noch dünn aus. Interimstrainer Aaron Danks will sich etwas überlegen.",
-   "clubs": [
-    40,
-    81
    ],
    "transfer": false
   }
