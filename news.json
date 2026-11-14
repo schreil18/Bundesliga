@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T06:07:50Z",
+ "updated": "2026-11-14T13:45:36Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,87 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/ndr/trotz-bundesliga-abstieg-fc-st-pauli-macht-rekordgewinn,pauli-722.html",
+   "title": "Trotz Bundesliga-Abstieg: FC St. Pauli macht Rekordgewinn",
+   "link": "https://www.sportschau.de/regional/ndr/trotz-bundesliga-abstieg-fc-st-pauli-macht-rekordgewinn,pauli-722.html",
+   "source": "Sportschau",
+   "published": "2026-11-14T13:04:50Z",
+   "teaser": "Der Fußball-Zweitligist hat das Geschäftsjahr 2025/26 mit einem Überschuss von 16,7 Millionen Euro abgeschlossen, vor allem dank der neugegründeten Genossenschaft.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/naechster-rueckschlag-poulsen-fehlt-dem-hsv-erneut-1271506/artikel",
+   "title": "Nächster Rückschlag: Poulsen fehlt dem HSV erneut",
+   "link": "https://www.kicker.de/naechster-rueckschlag-poulsen-fehlt-dem-hsv-erneut-1271506/artikel",
+   "source": "kicker",
+   "published": "2026-11-14T12:12:47Z",
+   "teaser": "Yussuf Poulsen fügt seiner Verletzungsmisere beim Hamburger SV ein weiteres Kapitel hinzu. Wie die Hanseaten auf ihrer Website mitteilten, hat sich der Routinier eine Wadenverletzung zugezogen.",
+   "clubs": [
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/ndr/schon-wieder-hsv-muss-vorerst-auf-poulsen-verzichten,hsv-2386.html",
+   "title": "Schon wieder verletzt: HSV muss \"vorerst\" auf Poulsen verzichten",
+   "link": "https://www.sportschau.de/regional/ndr/schon-wieder-hsv-muss-vorerst-auf-poulsen-verzichten,hsv-2386.html",
+   "source": "Sportschau",
+   "published": "2026-11-14T11:48:13Z",
+   "teaser": "Der Däne erlitt im Training eine Faszienverletzung in der Wade und steht Trainer Merlin Polzin im Nordderby in Bremen nicht zur Verfügung.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/streich-ueber-rueckkehr-in-profi-fussball-ich-will-nicht-mehr-1271502/artikel",
+   "title": "Streich über Rückkehr in Profi-Fußball: \"Ich will nicht mehr\"",
+   "link": "https://www.kicker.de/streich-ueber-rueckkehr-in-profi-fussball-ich-will-nicht-mehr-1271502/artikel",
+   "source": "kicker",
+   "published": "2026-11-14T11:45:00Z",
+   "teaser": "Christian Streich hat sich am Samstag zu einer möglichen Rückkehr in den Trainerberuf geäußert - und indirekt auch zur Kritik von Ex-Bundestrainer Joachim Löw an der deutschen Nachwuchsarbeit.",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-laenderspiel-comeback-geht-schief-sorgen-um-bayerns-davies-102.html",
+   "title": "Startelf-Comeback geht schief: Sorgen um Bayerns Davies",
+   "link": "https://www.sportschau.de/regional/br/br-laenderspiel-comeback-geht-schief-sorgen-um-bayerns-davies-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-14T11:24:58Z",
+   "teaser": "Das Verletzungspech bleibt Alphonso Davies treu: Der Profi des FC Bayern München musste bei seinem Startelf-Comeback für Kanada gegen Guatemala angeschlagen vom Platz. Eine Diagnose stand noch aus.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/muskulaerer-schaden-davies-verlaesst-kanada-und-fliegt-zurueck-nach-muenchen-1271491/artikel",
+   "title": "Muskulärer Schaden? Davies verlässt Kanada und fliegt zurück nach München",
+   "link": "https://www.kicker.de/muskulaerer-schaden-davies-verlaesst-kanada-und-fliegt-zurueck-nach-muenchen-1271491/artikel",
+   "source": "kicker",
+   "published": "2026-11-14T10:19:02Z",
+   "teaser": "Der FC Bayern bangt mal wieder um Alphonso Davies. Nach seiner Verletzung bei der kanadischen Nationalmannschaft reist der Linksverteidiger nach kicker-Informationen direkt zurück nach München.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/so-ist-der-stand-bei-konstantelias-wirklich-1270675/artikel",
+   "title": "So ist der Stand bei Konstantelias wirklich",
+   "link": "https://www.kicker.de/so-ist-der-stand-bei-konstantelias-wirklich-1270675/artikel",
+   "source": "kicker",
+   "published": "2026-11-14T09:00:18Z",
+   "teaser": "Giannis Konstantelias fehlt Borussia Dortmund derzeit mit einem Kreuzbandriss. Nun gibt es Meldungen, wonach der Grieche früher zurückkehren könnte als zunächst vermutet.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/50plus-soll-grundvoraussetzung-in-der-bundesliga-werden,50-plus-1-abstimmung-100.html",
    "title": "Abstimmung - Bundesliga soll 50+1 \"einheitlich umsetzen\"",
@@ -2398,95 +2479,6 @@
    "clubs": [
     40,
     81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/biergarten-stahlhelm-und-abstiegskampf-die-bundesliga-vorschau,video-buli-vorschau-100.html",
-   "title": "Biergarten, Stahlhelm und Abstiegskampf - die Bundesliga-Vorschau",
-   "link": "https://www.sportschau.de/fussball/bundesliga/biergarten-stahlhelm-und-abstiegskampf-die-bundesliga-vorschau,video-buli-vorschau-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-06T09:11:28Z",
-   "teaser": "Der neunte Bundesliga-Spieltag steht an und der hat es in sich: HSV und Gladbach treffen sich zum Abstiegskracher, Bayern und Dortmund kämpfen im Fernduell und der 1. FC Köln empfängt Leverkusen zum Derby.",
-   "clubs": [
-    40,
-    7,
-    6,
-    87,
-    65,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/barbarez-ueber-dzeko-jeder-wusste-dass-es-nicht-einfach-wird-1269127/video",
-   "title": "Barbarez über Dzeko: \"Jeder wusste, dass es nicht einfach wird\"",
-   "link": "https://www.kicker.de/barbarez-ueber-dzeko-jeder-wusste-dass-es-nicht-einfach-wird-1269127/video",
-   "source": "kicker",
-   "published": "2026-11-06T08:46:18Z",
-   "teaser": "Sergej Barbarez hat im Fußballmuseum in Dortmund sein neues Buch vorgestellt, dass er gemeinsam mit kicker-Reporter Sebastian Wolff geschrieben hat. Am Rande der Veranstaltung sprach der Ex-Stürmer über diverse Bundesliga-Themen.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/koennte-ein-problem-werden-bueskens-ueber-schalker-sturm-flaute-1269095/video",
-   "title": "\"Könnte ein Problem werden\": Büskens über Schalker Sturm-Flaute",
-   "link": "https://www.kicker.de/koennte-ein-problem-werden-bueskens-ueber-schalker-sturm-flaute-1269095/video",
-   "source": "kicker",
-   "published": "2026-11-06T07:30:12Z",
-   "teaser": "In der aktuellen Folge \"Was geht, Bundesliga?\" sprechen Moderator Luis Hanusch und Schalke-Legende Mike Büskens über die Schalker Torflaute. Büskens merkt dabei an, wie wichtig es sei, dass die Angreifer ihre Leichtigkeit wieder finden …",
-   "clubs": [
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/uefa-ranking-bundesliga-faellt-hinter-portugal-und-belgien-zurueck-1269080/artikel",
-   "title": "UEFA-Ranking: Bundesliga fällt hinter Portugal und Belgien zurück",
-   "link": "https://www.kicker.de/uefa-ranking-bundesliga-faellt-hinter-portugal-und-belgien-zurueck-1269080/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T06:53:32Z",
-   "teaser": "Nach einem durchwachsenen Europapokal-Spieltag ist die Bundesliga im UEFA-Ranking vorerst auf Rang 4 zurückgefallen - und liegt damit noch hinter Portugal sowie Belgien.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/sehen-wir-kritisch-schalker-aerger-ueber-hohe-ticketpreise-in-hoffenheim-1269067/artikel",
-   "title": "\"Sehen wir kritisch\": Schalker Ärger über hohe Ticketpreise in Hoffenheim",
-   "link": "https://www.kicker.de/sehen-wir-kritisch-schalker-aerger-ueber-hohe-ticketpreise-in-hoffenheim-1269067/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T05:39:45Z",
-   "teaser": "Auswärtsfans machen sich inzwischen einen Spaß daraus, bei Spielen der TSG Hoffenheim in Sinsheim weit mehr als den Gästeblock zu erobern. Das hat offensichtlich auch Folgen für die Preisgestaltung.",
-   "clubs": [
-    175,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wer-uebertraegt-hsv-gegen-borussia-moenchengladbach-heute-live-im-tv-stream-1268921/artikel",
-   "title": "Wer überträgt HSV gegen Borussia Mönchengladbach heute live im TV & Stream?",
-   "link": "https://www.kicker.de/wer-uebertraegt-hsv-gegen-borussia-moenchengladbach-heute-live-im-tv-stream-1268921/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T05:00:00Z",
-   "teaser": "Das Schlusslicht der Bundesliga gastiert am 9. Spieltag beim Tabellen-15. in Hamburg. Wo ihr die Partie zwischen dem HSV und Borussia Mönchengladbach heute live im TV und Stream verfolgen könnt, erfahrt ihr hier.",
-   "clubs": [
-    87,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wehrle-erhaelt-wirtschaftsmedaille-des-landes-baden-wuerttemberg-1269016/artikel",
-   "title": "Wehrle erhält Wirtschaftsmedaille des Landes Baden-Württemberg",
-   "link": "https://www.kicker.de/wehrle-erhaelt-wirtschaftsmedaille-des-landes-baden-wuerttemberg-1269016/artikel",
-   "source": "kicker",
-   "published": "2026-11-05T20:26:25Z",
-   "teaser": "Alexander Wehrle, Vorstandvorsitzender des VfB Stuttgart, ist am Donnerstagabend mit einer der höchsten Auszeichnungen Baden-Württembergs ausgezeichnet worden.",
-   "clubs": [
-    16
    ],
    "transfer": false
   }
