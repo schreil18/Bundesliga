@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T02:33:30Z",
+ "updated": "2026-11-15T09:51:43Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,30 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/neues-profil-im-rb-angriff-guiu-und-der-zweite-start-1271582/artikel",
+   "title": "Neues Profil im RB-Angriff: Guiu und der zweite Start",
+   "link": "https://www.kicker.de/neues-profil-im-rb-angriff-guiu-und-der-zweite-start-1271582/artikel",
+   "source": "kicker",
+   "published": "2026-11-15T09:45:06Z",
+   "teaser": "Eine schwere Verletzung aus heiterem Himmel bremst Mittelstürmer Marc Guiu (20) seit zwei Monaten in Leipzig aus. Jetzt ist der Neuzugang vom FC Chelsea zurück, bei RB setzt man große Hoffnungen in den Youngster.",
+   "clubs": [
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/vertragsgespraeche-angestossen-kann-paderborn-kettemann-halten-1271675/artikel",
+   "title": "Vertragsgespräche angestoßen: Kann Paderborn Kettemann halten?",
+   "link": "https://www.kicker.de/vertragsgespraeche-angestossen-kann-paderborn-kettemann-halten-1271675/artikel",
+   "source": "kicker",
+   "published": "2026-11-15T08:00:27Z",
+   "teaser": "Vor 17 Monaten begann die Arbeit beim SCP07 - und damit auch der persönliche Aufstieg. Der 40-Jährige ist ein begehrter Trainer. Das weiß natürlich auch sein jetziger Arbeitgeber - und handelt entsprechend.",
+   "clubs": [
+    31
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.sportschau.de/regional/ndr/trotz-bundesliga-abstieg-fc-st-pauli-macht-rekordgewinn,pauli-722.html",
    "title": "FC St. Pauli macht Rekordgewinn und will Frauenfußball stärken",
@@ -2451,31 +2475,6 @@
    "source": "kicker",
    "published": "2026-11-06T10:47:54Z",
    "teaser": "Ende Januar verlässt Nils Schmadtke den FC Bayern - nach einigen Störgeräuschen. Jetzt bezog der Leiter der Scouting-Abteilung Stellung und wehrte sich gegen mehrere Vorwürfe.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/warum-mainz-ein-echter-angstgegner-fuer-die-bayern-ist-1269160/video",
-   "title": "Warum Mainz \"ein echter Angstgegner\" für die Bayern ist",
-   "link": "https://www.kicker.de/warum-mainz-ein-echter-angstgegner-fuer-die-bayern-ist-1269160/video",
-   "source": "kicker",
-   "published": "2026-11-06T10:17:14Z",
-   "teaser": "Wenn es so etwas wie einen Angstgegner in der Bundesliga für den FC Bayern gibt, dann ist es der FSV Mainz 05. Vor dem direkten Duell muss Co-Trainer Aaron Danks eine Lösung für die linke Offensivseite finden.",
-   "clubs": [
-    40,
-    81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/lenny-scheisst-sich-nichts-freund-lobt-karl-nach-unruhigen-wochen-1269157/video",
-   "title": "\"Lenny scheißt sich nichts\": Freund lobt Karl nach unruhigen Wochen",
-   "link": "https://www.kicker.de/lenny-scheisst-sich-nichts-freund-lobt-karl-nach-unruhigen-wochen-1269157/video",
-   "source": "kicker",
-   "published": "2026-11-06T10:11:59Z",
-   "teaser": "Nach einiger Kritik auch aus dem Verein bewies Lennart Karl am Dienstag in Madrid wieder seinen sportlichen Wert für den FCB. Sportdirektor Christoph Freund sprach am Freitag über Karls Entwicklung und dessen DFB-Nominierung.",
    "clubs": [
     40
    ],
