@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T09:51:43Z",
+ "updated": "2026-11-15T16:59:27Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,140 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/vuskovic-richtet-sich-an-die-fans-das-wichtigste-ist-das-derby-zu-gewinnen-1271830/video",
+   "title": "Vuskovic richtet sich an die Fans: \"Das Wichtigste ist, das Derby zu gewinnen\"",
+   "link": "https://www.kicker.de/vuskovic-richtet-sich-an-die-fans-das-wichtigste-ist-das-derby-zu-gewinnen-1271830/video",
+   "source": "kicker",
+   "published": "2026-11-15T16:32:36Z",
+   "teaser": "Nach seinem umjubelten Comeback für den HSV richtete Mario Vuskovic noch ein paar Worte an die Fans.",
+   "clubs": [
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/vuskovic-comeback-ein-auftritt-der-lust-auf-mehr-gemacht-hat-1271826/video",
+   "title": "Vuskovic-Comeback: \"Ein Auftritt, der Lust auf mehr gemacht hat\"",
+   "link": "https://www.kicker.de/vuskovic-comeback-ein-auftritt-der-lust-auf-mehr-gemacht-hat-1271826/video",
+   "source": "kicker",
+   "published": "2026-11-15T16:16:21Z",
+   "teaser": "Mario Vuskovic durfte gegen Hajduk Split sein lang ersehntes Comeback für den HSV feiern. Wie das Spiel lief, berichtet kicker-Reporter Marc Wiese aus Hamburg.",
+   "clubs": [
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fritz-raeumt-fehler-ein-aber-hatte-nie-den-gedanken-wegzulaufen-1271803/artikel",
+   "title": "Fritz räumt Fehler ein, aber \"hatte nie den Gedanken, wegzulaufen\"",
+   "link": "https://www.kicker.de/fritz-raeumt-fehler-ein-aber-hatte-nie-den-gedanken-wegzulaufen-1271803/artikel",
+   "source": "kicker",
+   "published": "2026-11-15T15:30:11Z",
+   "teaser": "Werder Bremen stellt die Weichen neu: Philipp Mehrtens übernimmt das Präsidentenamt - und Clemens Fritz spricht offen über Fehler, Verantwortung und seine Zukunft beim SVW. Dazu gibt's ein besonderes Lob für Niclas Füllkrug.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nach-verlust-im-vorjahr-werder-bremen-erzielt-2-1-millionen-euro-gewinn-1271657/artikel",
+   "title": "Nach Verlust im Vorjahr: Werder Bremen erzielt 2,1 Millionen Euro Gewinn",
+   "link": "https://www.kicker.de/nach-verlust-im-vorjahr-werder-bremen-erzielt-2-1-millionen-euro-gewinn-1271657/artikel",
+   "source": "kicker",
+   "published": "2026-11-15T14:17:29Z",
+   "teaser": "Sportlich hat der SV Werder Bremen in der vergangenen Saison sein Ziel verfehlt, wirtschaftlich aber Kurs gehalten - und das Geschäftsjahr 2025/26 auch mit einem Gewinn abgeschlossen.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/gaensehaut-vor-anpfiff-luka-vuskovic-laesst-hsv-fans-marios-namen-skandieren-1271794/video",
+   "title": "Gänsehaut vor Anpfiff: Luka Vuskovic lässt HSV-Fans Marios Namen skandieren",
+   "link": "https://www.kicker.de/gaensehaut-vor-anpfiff-luka-vuskovic-laesst-hsv-fans-marios-namen-skandieren-1271794/video",
+   "source": "kicker",
+   "published": "2026-11-15T14:05:08Z",
+   "teaser": "Mario Vuskovic ist nach vierjähriger Dopingsperre im Testspiel des HSV gegen Hajduk Split auf den Platz zurückgekehrt. Vor dem Anpfiff wurde ein Video seines Bruders und ehemaligen Hamburgers Luka eingespielt, der Marios Namen für die Fans …",
+   "clubs": [
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nach-zwoelf-jahren-hess-grunewald-mehrtens-ist-neuer-werder-praesident-1271724/artikel",
+   "title": "Nach zwölf Jahren Hess-Grunewald: Mehrtens ist neuer Werder-Präsident",
+   "link": "https://www.kicker.de/nach-zwoelf-jahren-hess-grunewald-mehrtens-ist-neuer-werder-praesident-1271724/artikel",
+   "source": "kicker",
+   "published": "2026-11-15T13:54:55Z",
+   "teaser": "Der SV Werder Bremen hat nach zwölf Jahren mit Hubertus Hess-Grunewald im Amt einen neuen Präsidenten: Bei der Wahl am Sonntag wurde für Philipp Mehrtens gestimmt. Er hatte keine Gegenkandidaten.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/rolfes-bestaetigt-geplante-vertragsverlaengerung-mit-maza-1271623/artikel",
+   "title": "Rolfes bestätigt geplante Vertragsverlängerung mit Maza",
+   "link": "https://www.kicker.de/rolfes-bestaetigt-geplante-vertragsverlaengerung-mit-maza-1271623/artikel",
+   "source": "kicker",
+   "published": "2026-11-15T13:36:56Z",
+   "teaser": "Im Sommer 2025 kam Ibrahim Maza zu Bayer 04 Leverkusen und hat sich zum absoluten Leistungsträger und legitimen Wirtz-Nachfolger gemausert. Als Anerkennung dafür möchte der Klub mit dem Spielmacher vorzeitig verlängern. Manager Simon …",
+   "clubs": [
+    6
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/ist-stiller-ein-kandidat-fuer-die-modric-nachfolge-bei-milan-1271736/artikel",
+   "title": "Ist Stiller ein Kandidat für die Modric-Nachfolge bei Milan?",
+   "link": "https://www.kicker.de/ist-stiller-ein-kandidat-fuer-die-modric-nachfolge-bei-milan-1271736/artikel",
+   "source": "kicker",
+   "published": "2026-11-15T11:21:08Z",
+   "teaser": "Es gibt keine Jahreszeit, in der es keine Gerüchte über einen Wechsel von Angelo Stiller gibt. Jedoch bisher ohne Ergebnis. Aktuell wird der Stuttgarter mit der AC Mailand in Verbindung gebracht.",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/dunkle-phasen-aber-aufgeben-war-keine-option-vuskovic-feiert-sein-comeback-1271730/artikel",
+   "title": "\"Dunkle Phasen, aber aufgeben war keine Option\": Vuskovic feiert sein Comeback",
+   "link": "https://www.kicker.de/dunkle-phasen-aber-aufgeben-war-keine-option-vuskovic-feiert-sein-comeback-1271730/artikel",
+   "source": "kicker",
+   "published": "2026-11-15T11:20:27Z",
+   "teaser": "Ein lang ersehnter Tag beim Hamburger SV: Mario Vuskovic kehrt nach seiner Doping-Sperre endlich auf den Platz zurück. Der Kroate verrät, dass es während der langen Zwangspause nicht immer einfach war. Jetzt hofft er aber vor seinem …",
+   "clubs": [
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/rolfes-ueber-boniface-abschied-im-winter-auf-jeden-fall-eine-option-1271592/artikel",
+   "title": "Rolfes über Boniface-Abschied im Winter: \"Auf jeden Fall eine Option\"",
+   "link": "https://www.kicker.de/rolfes-ueber-boniface-abschied-im-winter-auf-jeden-fall-eine-option-1271592/artikel",
+   "source": "kicker",
+   "published": "2026-11-15T11:18:47Z",
+   "teaser": "Im Sommer unternahm Victor Boniface nach einem verlorenen Jahr bei Werder Bremen mit einer schweren Knieoperation und massivem Übergewicht einen neuen Anlauf bei Bayer 04. Doch trotz klarer Fortschritte spielt der Mittelstürmer unter …",
+   "clubs": [
+    6,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/matsima-ausfall-droht-mit-dem-personal-ging-die-augsburger-stabilitaet-floeten-1271713/artikel",
+   "title": "Matsima-Ausfall droht: Mit dem Personal ging die Augsburger Stabilität flöten",
+   "link": "https://www.kicker.de/matsima-ausfall-droht-mit-dem-personal-ging-die-augsburger-stabilitaet-floeten-1271713/artikel",
+   "source": "kicker",
+   "published": "2026-11-15T10:26:21Z",
+   "teaser": "Mit Chrislain Matsima ein neuer Verletzter, dafür die Rückkehr von mindestens einem Innenverteidiger. Die personellen Wechsel in der Dreierabwehrkette des FC Augsburg gehen auch gegen Mainz weiter.",
+   "clubs": [
+    81,
+    95
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/neues-profil-im-rb-angriff-guiu-und-der-zweite-start-1271582/artikel",
    "title": "Neues Profil im RB-Angriff: Guiu und der zweite Start",
@@ -2346,137 +2480,6 @@
    "teaser": "Sechs Pflichtspiele ohne Sieg haben den Druck auf Schalke erhöht, Punkte müssen her. In Sinsheim sind Robin Gosens und Soufiane El-Faouzi wieder dabei - und Dejan Ljubicic etwa eine Art Taktgeber?",
    "clubs": [
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/auf-schalke-ist-niemand-vom-druck-gelaehmt-am-wenigsten-der-trainer-1269252/video",
-   "title": "\"Auf Schalke ist niemand vom Druck gelähmt - am wenigsten der Trainer\"",
-   "link": "https://www.kicker.de/auf-schalke-ist-niemand-vom-druck-gelaehmt-am-wenigsten-der-trainer-1269252/video",
-   "source": "kicker",
-   "published": "2026-11-06T14:41:07Z",
-   "teaser": "Obwohl seit einigen Wochen neben Punkten auch Stürmertore ausbleiben, gerät auf Schalke niemand in Panik. Gegen Hoffenheim soll die Systemumstellung zur Kehrtwende beitragen.",
-   "clubs": [
-    175,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nicht-zu-viel-erwarten-ilic-koennte-bei-union-zurueckkehren-1269244/artikel",
-   "title": "\"Nicht zu viel erwarten\": Ilic könnte bei Union zurückkehren",
-   "link": "https://www.kicker.de/nicht-zu-viel-erwarten-ilic-koennte-bei-union-zurueckkehren-1269244/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T14:31:32Z",
-   "teaser": "Wenn Union Berlin am Sonntag beim SC Freiburg antritt, könnte auch zum ersten Mal in der aktuellen Spielzeit Andrej Ilic wieder im Kader stehen. Trainer Mauro Lustrinelli zeigte sich vorsichtig optimistisch, muss aber dafür auf Aljoscha …",
-   "clubs": [
-    112,
-    80
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-vom-perlentaucher-zum-bvb-sportdirektor-100.html",
-   "title": "Vom Perlentaucher zum BVB-Sportdirektor",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-vom-perlentaucher-zum-bvb-sportdirektor-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-06T13:36:00Z",
-   "teaser": "Samstag trifft BVB-Sportdirektor Ole Book mit Elversberg auf eine Mannschaft, die er über Jahre maßgeblich zusammengestellt hat.",
-   "clubs": [
-    7,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/normal-dass-man-nicht-direkt-reinrutscht-wagners-personal-update-vor-dem-duell-mit-leverkusen-1269205/artikel",
-   "title": "\"Normal, dass man nicht direkt reinrutscht\": Wagners Personal-Update vor dem Duell mit Leverkusen",
-   "link": "https://www.kicker.de/normal-dass-man-nicht-direkt-reinrutscht-wagners-personal-update-vor-dem-duell-mit-leverkusen-1269205/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T13:29:19Z",
-   "teaser": "Vor dem \"kleinen Derby\" gegen Bayer Leverkusen hat Kölns Trainer René Wagner wieder mehr personelle Optionen zur Verfügung. Das könnte gerade im Sturm Härtefälle bedeuten.",
-   "clubs": [
-    6,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/der-beschuetzer-warum-sich-mit-danks-bei-bayern-wenig-aenderte-1269177/artikel",
-   "title": "Der Beschützer: Warum sich mit Danks bei Bayern wenig änderte",
-   "link": "https://www.kicker.de/der-beschuetzer-warum-sich-mit-danks-bei-bayern-wenig-aenderte-1269177/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T13:17:08Z",
-   "teaser": "Für Aaron Danks nähert sich die Zeit als Interimscheftrainer dem Ende, vielleicht. Er hat sich beim FC Bayern empfohlen.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/el-mala-sprach-mit-klopp-auch-ueber-bruder-malek-1269203/artikel",
-   "title": "El Mala sprach mit Klopp auch über Bruder Malek",
-   "link": "https://www.kicker.de/el-mala-sprach-mit-klopp-auch-ueber-bruder-malek-1269203/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T12:23:16Z",
-   "teaser": "Said El Mala will bei der Nationalmannschaft \"wieder Gas geben\". Beim Telefonat mit Jürgen Klopp ging es auch um dessen Bruder - der seiner Mutter kurzzeitig die Stimme kostete.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kovac-mit-loblied-auf-bellingham-er-ist-ein-kompletter-fussball-freak-1269202/video",
-   "title": "Kovac mit Loblied auf Bellingham: \"Er ist ein kompletter Fußball-Freak\"",
-   "link": "https://www.kicker.de/kovac-mit-loblied-auf-bellingham-er-ist-ein-kompletter-fussball-freak-1269202/video",
-   "source": "kicker",
-   "published": "2026-11-06T12:11:18Z",
-   "teaser": "Nach Jobe Bellinghams erster Nominierung für die englische Nationalmannschaft geriet Niko Kovac ins Schwärmen. Der Trainer des BVB sprach über die Entwicklung des 21-Jährigen und dessen Arbeitseinstellung.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bvb-muss-auf-guirassy-verzichten-1269189/artikel",
-   "title": "BVB muss auf Guirassy verzichten",
-   "link": "https://www.kicker.de/bvb-muss-auf-guirassy-verzichten-1269189/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T11:50:49Z",
-   "teaser": "Borussia Dortmund muss wie befürchtet gegen die SV Elversberg ohne Torjäger Serhou Guirassy auskommen. Auch für die Tage danach gibt es schon einen Plan.",
-   "clubs": [
-    7,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/danks-hatte-einige-sehr-positive-telefonate-mit-kompany-1269193/video",
-   "title": "Danks: \"Hatte einige sehr positive Telefonate mit Kompany\"",
-   "link": "https://www.kicker.de/danks-hatte-einige-sehr-positive-telefonate-mit-kompany-1269193/video",
-   "source": "kicker",
-   "published": "2026-11-06T11:32:37Z",
-   "teaser": "Angesprochen auf den aktuellen Zustand von Cheftrainer Vincent Kompany schilderte Aaron Danks seine Eindrücke aus den Telefonaten mit dem Belgier. Er sprach auch darüber, wie das Trainerteam in dessen Abwesenheit Entscheidungen trifft.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/weniger-verletzte-mehr-festnahmen-und-mehr-pyro-in-deutschen-stadien-1269031/artikel",
-   "title": "Weniger Verletzte, mehr Festnahmen und mehr Pyro in deutschen Stadien",
-   "link": "https://www.kicker.de/weniger-verletzte-mehr-festnahmen-und-mehr-pyro-in-deutschen-stadien-1269031/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T11:10:11Z",
-   "teaser": "Die Zentrale Informationsstelle Sporteinsätze (ZIS) zur Sicherheit in deutschen Fußball-Stadien hat ihren alljährlichen Bericht veröffentlicht. Allzu signifikante Änderungen im Vergleich zum Vorjahr waren nicht zu verzeichnen.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-bayern-aus-schmadtke-weist-vorwuerfe-zurueck-1269174/artikel",
-   "title": "Nach Bayern-Aus: Schmadtke weist Vorwürfe zurück",
-   "link": "https://www.kicker.de/nach-bayern-aus-schmadtke-weist-vorwuerfe-zurueck-1269174/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T10:47:54Z",
-   "teaser": "Ende Januar verlässt Nils Schmadtke den FC Bayern - nach einigen Störgeräuschen. Jetzt bezog der Leiter der Scouting-Abteilung Stellung und wehrte sich gegen mehrere Vorwürfe.",
-   "clubs": [
-    40
    ],
    "transfer": false
   }
