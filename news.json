@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T16:59:27Z",
+ "updated": "2026-11-15T21:41:35Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,64 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/stars-wie-kane-und-olise-bleiben-im-stress-bayerns-kraftakt-bis-weihnachten-1271725/artikel",
+   "title": "Stars wie Kane und Olise bleiben im Stress: Bayerns Kraftakt bis Weihnachten",
+   "link": "https://www.kicker.de/stars-wie-kane-und-olise-bleiben-im-stress-bayerns-kraftakt-bis-weihnachten-1271725/artikel",
+   "source": "kicker",
+   "published": "2026-11-15T20:39:51Z",
+   "teaser": "Acht Pflichtspiele muss der FC Bayern noch bis Weihnachten bestreiten, ehe er etwas durchschnaufen kann. Beim Personal droht weiter Knappheit, die Gegner gehören jedoch alle zur Kategorie \"machbar\".",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/eichhorns-kleine-schritte-warum-der-weg-zurueck-fuer-das-top-talent-lang-ist-1271639/artikel",
+   "title": "Eichhorns kleine Schritte: Warum der Weg zurück für das Top-Talent lang ist",
+   "link": "https://www.kicker.de/eichhorns-kleine-schritte-warum-der-weg-zurueck-fuer-das-top-talent-lang-ist-1271639/artikel",
+   "source": "kicker",
+   "published": "2026-11-15T19:04:10Z",
+   "teaser": "Bayer 04 rechnet erst im Januar mit der Rückkehr von Kennet Eichhorn. Vorsicht ist geboten. Denn das Top-Talent muss nicht nur den Rückstand nach einer Stoffwechselstörung aufholen, sondern hat im ganzen Kalenderjahr erst sechs …",
+   "clubs": [
+    6
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/vuskovic-die-ganze-welt-weiss-dass-ich-unschuldig-bin-1271877/video",
+   "title": "Vuskovic: \"Die ganze Welt weiß, dass ich unschuldig bin\"",
+   "link": "https://www.kicker.de/vuskovic-die-ganze-welt-weiss-dass-ich-unschuldig-bin-1271877/video",
+   "source": "kicker",
+   "published": "2026-11-15T18:37:42Z",
+   "teaser": "Mario Vuskovic und Merlin Polzin sprachen im Interview nach dem Comeback des Kroaten über seine Dopingsperre, das Testspiel gegen Split und die Leistung des Verteidigers.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/gaensehaut-stimmung-und-jatta-ausgleich-vuskovics-comeback-im-video-1271869/video",
+   "title": "Gänsehaut-Stimmung und Jatta-Ausgleich: Vuskovics Comeback im Video",
+   "link": "https://www.kicker.de/gaensehaut-stimmung-und-jatta-ausgleich-vuskovics-comeback-im-video-1271869/video",
+   "source": "kicker",
+   "published": "2026-11-15T18:15:32Z",
+   "teaser": "Mario Vuskovic feierte gegen Hajduk Split sein Comeback für den HSV. Die Highlights der Partie gibt es hier im Video.",
+   "clubs": [
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/vuskovic-grosse-emotionen-kleine-naechste-schritte-1271840/artikel",
+   "title": "Vuskovic: Große Emotionen, kleine nächste Schritte",
+   "link": "https://www.kicker.de/vuskovic-grosse-emotionen-kleine-naechste-schritte-1271840/artikel",
+   "source": "kicker",
+   "published": "2026-11-15T17:16:16Z",
+   "teaser": "Rund eine Stunde spielte Mario Vuskovic bei seinem HSV-Comeback gegen Hajduk Split (1:1), danach bedankte er sich via Mikrofon bei den Fans. Ab jetzt geht es um behutsame nächste Schritte.",
+   "clubs": [
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/vuskovic-richtet-sich-an-die-fans-das-wichtigste-ist-das-derby-zu-gewinnen-1271830/video",
    "title": "Vuskovic richtet sich an die Fans: \"Das Wichtigste ist, das Derby zu gewinnen\"",
@@ -2418,68 +2476,6 @@
    "clubs": [
     40,
     81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-wade-fragezeichen-hinter-nusa-1269271/artikel",
-   "title": "Die Wade: Fragezeichen hinter Nusa",
-   "link": "https://www.kicker.de/die-wade-fragezeichen-hinter-nusa-1269271/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T16:43:10Z",
-   "teaser": "Antonio Nusa ist in dieser Saison bislang einer der konstantesten Akteure bei RB Leipzig. Ob der 21 Jahre alte Linksaußen im Heimspiel gegen den FC Augsburg mitwirken kann, steht allerdings noch nicht fest.",
-   "clubs": [
-    1635,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fischer-ich-bin-halt-langweilig-1269268/artikel",
-   "title": "Fischer: \"Ich bin halt langweilig\"",
-   "link": "https://www.kicker.de/fischer-ich-bin-halt-langweilig-1269268/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T16:12:03Z",
-   "teaser": "Drei Niederlagen aus drei Spielen in der zurückliegenden englischen Woche. Dazu noch immer kein Heimsieg in dieser Saison und nun kommen die Bayern zu Besuch. 05-Trainer Urs Fischer setzt auf einen altbewährten Lösungsansatz.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nachbarduell-in-hamburg-die-top-11-der-ewigen-bundesliga-tabelle-780646/slideshow",
-   "title": "Nachbarduell in Hamburg: Die Top 11 der ewigen Bundesliga-Tabelle",
-   "link": "https://www.kicker.de/nachbarduell-in-hamburg-die-top-11-der-ewigen-bundesliga-tabelle-780646/slideshow",
-   "source": "kicker",
-   "published": "2026-11-06T15:44:26Z",
-   "teaser": "Wenn der HSV Gladbach empfängt, duellieren sich zwei Nachbarn aus den Top 10 der ewigen Bundesliga-Tabelle. Wer gehört dort noch dazu?",
-   "clubs": [
-    87,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nlz-paradebeispiel-nebel-verlaengert-in-mainz-1269261/artikel",
-   "title": "\"NLZ-Paradebeispiel\": Nebel verlängert in Mainz",
-   "link": "https://www.kicker.de/nlz-paradebeispiel-nebel-verlaengert-in-mainz-1269261/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T15:36:17Z",
-   "teaser": "Paul Nebel hat sich in den vergangenen Jahren beim 1. FSV Mainz 05 in der Bundesliga etabliert und soll auch künftig das Rot-Weiße Trikot tragen. Das Eigengewächs hat seinen Vertrag bei den 05ern am Freitag verlängert.",
-   "clubs": [
-    81
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/gosens-und-el-faouzi-zurueck-schluesselspieler-ljubicic-1269250/artikel",
-   "title": "Gosens und El Faouzi zurück - Schlüsselspieler Ljubicic?",
-   "link": "https://www.kicker.de/gosens-und-el-faouzi-zurueck-schluesselspieler-ljubicic-1269250/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T15:18:09Z",
-   "teaser": "Sechs Pflichtspiele ohne Sieg haben den Druck auf Schalke erhöht, Punkte müssen her. In Sinsheim sind Robin Gosens und Soufiane El-Faouzi wieder dabei - und Dejan Ljubicic etwa eine Art Taktgeber?",
-   "clubs": [
-    9
    ],
    "transfer": false
   }
