@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T09:29:32Z",
+ "updated": "2026-11-16T19:48:45Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,136 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/polzin-gehen-die-optionen-aus-auch-sambi-lokonga-faellt-verletzt-aus-1272165/artikel",
+   "title": "Polzin gehen die Optionen aus: Auch Sambi Lokonga fällt verletzt aus",
+   "link": "https://www.kicker.de/polzin-gehen-die-optionen-aus-auch-sambi-lokonga-faellt-verletzt-aus-1272165/artikel",
+   "source": "kicker",
+   "published": "2026-11-16T17:03:52Z",
+   "teaser": "Das Verletzungspech klebt dem Hamburger SV weiter an den Hacken. Mit Albert Sambi Lokonga fällt nun der nächste Spieler aus - und Trainer Merlin Polzin gehen die Alternativen im Mittelfeld aus.",
+   "clubs": [
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-joti-chatzialexiou-kommt-schon-frueher-aus-nuernberg-100.html",
+   "title": "Einigung mit Nürnberg: Joti Chatzialexiou kommt schon früher nach Frankfurt",
+   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-joti-chatzialexiou-kommt-schon-frueher-aus-nuernberg-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-16T16:15:38Z",
+   "teaser": "Was schon lange vermutet wurde, ist nun offiziell: Joti Chatzialexiou hat sich mit dem 1. FC Nürnberg auf eine zeitige Vertragsauflösung geeinigt. Noch in diesem Jahr könnte der gebürtige Frankfurter seine Arbeit bei der Eintracht …",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Mario-Vuskovic-Hajduk-Split,hsv-2382.html",
+   "title": "Rückkehr von Mario Vuskovic beim HSV: \"Vier Jahre davon geträumt\"",
+   "link": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Mario-Vuskovic-Hajduk-Split,hsv-2382.html",
+   "source": "Sportschau",
+   "published": "2026-11-16T15:46:09Z",
+   "teaser": "Der Verteidiger der Hamburger bestritt am Sonntag gegen Hajduk Split das erste Spiel nach seiner Sperre. Unter Tränen bedankte er sich für die jahrelange Unterstützung.",
+   "clubs": [
+    100
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/kompany-leitet-erstmals-wieder-das-training-beim-fc-bayern-1272144/artikel",
+   "title": "Kompany leitet erstmals wieder das Training beim FC Bayern",
+   "link": "https://www.kicker.de/kompany-leitet-erstmals-wieder-das-training-beim-fc-bayern-1272144/artikel",
+   "source": "kicker",
+   "published": "2026-11-16T15:11:14Z",
+   "teaser": "Nach mehr als dreiwöchiger Zwangspause hat Vincent Kompany am Montag erstmals wieder eine Trainingseinheit beim FC Bayern geleitet.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/weg-nach-frankfurt-frei-chatzialexious-fcn-vertrag-endet-vorzeitig-1272132/artikel",
+   "title": "Weg nach Frankfurt frei: Chatzialexious FCN-Vertrag endet vorzeitig",
+   "link": "https://www.kicker.de/weg-nach-frankfurt-frei-chatzialexious-fcn-vertrag-endet-vorzeitig-1272132/artikel",
+   "source": "kicker",
+   "published": "2026-11-16T15:00:21Z",
+   "teaser": "Der Wechsel von Joti Chatzialexiou vom 1. FC Nürnberg zu Eintracht Frankfurt ist längst offiziell. Nun ist aber klar, dass der neue Sportvorstand bereits ab Dezember bei der SGE starten kann.",
+   "clubs": [
+    91
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/davies-erleidet-vierten-muskelfaserriss-in-zwei-jahren-1271935/artikel",
+   "title": "Davies erleidet vierten Muskelfaserriss in zwei Jahren",
+   "link": "https://www.kicker.de/davies-erleidet-vierten-muskelfaserriss-in-zwei-jahren-1271935/artikel",
+   "source": "kicker",
+   "published": "2026-11-16T11:59:03Z",
+   "teaser": "Die nächste ärgerliche Nachricht erreicht den FC Bayern: Nach seiner frühen Abreise aus dem Lager der kanadischen Nationalmannschaft wird Alphonso Davies den Münchnern \"vorerst\" fehlen.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/lemperles-grosse-sehnsucht-nach-frankfurt-1271714/artikel",
+   "title": "Lemperles große Sehnsucht nach Frankfurt",
+   "link": "https://www.kicker.de/lemperles-grosse-sehnsucht-nach-frankfurt-1271714/artikel",
+   "source": "kicker",
+   "published": "2026-11-16T11:37:25Z",
+   "teaser": "Rechtzeitig vor seinem emotionalen Kick hat Hoffenheims Tim Lemperle wieder getroffen. Nun hofft der 24-Jährige, endlich im Stadion seiner Kindheit auflaufen zu können. Im Vorjahr hatte er den Auftritt über Nacht krankheitsbedingt noch …",
+   "clubs": [
+    91,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/altersbeschraenkungen-in-top-ligen-ausnahmen-bestaetigen-die-regel-1271553/artikel",
+   "title": "Altersbeschränkungen in Top-Ligen: Ausnahmen bestätigen die Regel",
+   "link": "https://www.kicker.de/altersbeschraenkungen-in-top-ligen-ausnahmen-bestaetigen-die-regel-1271553/artikel",
+   "source": "kicker",
+   "published": "2026-11-16T10:06:22Z",
+   "teaser": "Egal, ob England, Spanien oder Italien: In den drei großen Top-Ligen Europas können Spieler auch schon im Alter von 15 Jahren eingesetzt werden. Die Details ...",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bojan-pato-arp-adu-top-talente-die-frueh-vergluehten-1271552/artikel",
+   "title": "Bojan, Pato, Arp, Adu: Top-Talente, die früh verglühten",
+   "link": "https://www.kicker.de/bojan-pato-arp-adu-top-talente-die-frueh-vergluehten-1271552/artikel",
+   "source": "kicker",
+   "published": "2026-11-16T10:05:36Z",
+   "teaser": "Wenig Fortune, kaum Durchsetzungsvermögen - oder Verletzungen: Über Top-Talente, die keine Top-Stars wurden. Eine kleine Auswahl, ohne den Anspruch auf Vollständigkeit.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/mohya-wirtz-und-zwei-dortmunder-die-juengsten-bundesliga-torschuetzen-1271293/video",
+   "title": "Mohya, Wirtz und zwei Dortmunder: Die jüngsten Bundesliga-Torschützen",
+   "link": "https://www.kicker.de/mohya-wirtz-und-zwei-dortmunder-die-juengsten-bundesliga-torschuetzen-1271293/video",
+   "source": "kicker",
+   "published": "2026-11-16T09:58:53Z",
+   "teaser": "Die Bundesliga wird insgesamt immer jünger. Hier kommt die Top 5 der jüngsten Bundesliga-Torschützen im Video.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/freiburgs-schoenspieler-suzuki-und-die-selbsterkenntnis-1270725/artikel",
+   "title": "Freiburgs \"Schönspieler\" Suzuki und die Selbsterkenntnis",
+   "link": "https://www.kicker.de/freiburgs-schoenspieler-suzuki-und-die-selbsterkenntnis-1270725/artikel",
+   "source": "kicker",
+   "published": "2026-11-16T09:29:42Z",
+   "teaser": "Nach starkem Start geriet Yuito Suzuki in Freiburg in die Kritik. Der jüngste Auftritt gegen Union soll einen nachhaltigen Wendepunkt markieren.",
+   "clubs": [
+    112,
+    80
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wehrle-kontert-uli-hoeness-kritik-am-vfb-1271991/artikel",
    "title": "Wehrle kontert Uli Hoeneß' Kritik am VfB",
@@ -2335,147 +2465,6 @@
     7,
     81,
     198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hugo-almeidas-blitz-doppelpack-in-50-sekunden-1268520/video",
-   "title": "Hugo Almeidas Blitz-Doppelpack in 50 Sekunden",
-   "link": "https://www.kicker.de/hugo-almeidas-blitz-doppelpack-in-50-sekunden-1268520/video",
-   "source": "kicker",
-   "published": "2026-11-07T07:24:38Z",
-   "teaser": "Manchmal geht es im Fußball so schnell, dass selbst die TV-Regie nicht ganz hinterherkommt - von der Abwehr ganz zu schweigen. Bei Stuttgarts Gastspiel in Bremen im September 2007 gab es einen solchen Moment.",
-   "clubs": [
-    16,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/blessin-ueber-itakuras-platzverweis-dann-guckst-du-dumm-aus-der-waesche-1269351/video",
-   "title": "Blessin über Itakuras Platzverweis: \"Dann guckst du dumm aus der Wäsche\"",
-   "link": "https://www.kicker.de/blessin-ueber-itakuras-platzverweis-dann-guckst-du-dumm-aus-der-waesche-1269351/video",
-   "source": "kicker",
-   "published": "2026-11-07T07:21:51Z",
-   "teaser": "Gladbach-Coach Alexander Blessin räumt nach der 1:3-Niederlage beim Hamburger SV eine Teilschuld am Platzverweis für Ko Itakura ein. Er habe den Japaner schon eher vom Feld nehmen müssen.",
-   "clubs": [
-    87,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/zweimal-1-5-beim-hsv-itakuras-tag-zum-vergessen-hamburg-gladbach-in-der-einzelkritik-1269282/artikel",
-   "title": "Zweimal 1,5 beim HSV, Itakuras Tag zum Vergessen: Hamburg-Gladbach in der Einzelkritik",
-   "link": "https://www.kicker.de/zweimal-1-5-beim-hsv-itakuras-tag-zum-vergessen-hamburg-gladbach-in-der-einzelkritik-1269282/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T22:56:25Z",
-   "teaser": "Mit drei traumhaften Toren hat sich der Hamburger SV gegen Borussia Mönchengladbach den Frust der jüngsten drei Pflichtspiel-Niederlagen von der Seele geschossen - und den 18. Platz der Fohlen zementiert. Das 3:1 in der Einzelkritik  …",
-   "clubs": [
-    87,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/marco-russ-leiser-abschied-fuer-einen-grossen-fussballer,video-historie-marco-russ-100.html",
-   "title": "Marco Russ - leiser Abschied für einen großen Fußballer",
-   "link": "https://www.sportschau.de/fussball/bundesliga/marco-russ-leiser-abschied-fuer-einen-grossen-fussballer,video-historie-marco-russ-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-06T22:42:17Z",
-   "teaser": "Marco Russ hat 280 Bundesliga-Spiele für Eintracht Frankfurt bestritten. Auch nach einer Krebsdiagnose im Jahr 2016 kämpfte er sich zurück. Einen großen Abschied gab es jedoch nicht.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/das-gefuehl-will-ich-jeden-tag-haben-nandja-nach-premieren-tor-den-traenen-nah-1269337/artikel",
-   "title": "\"Das Gefühl will ich jeden Tag haben\": Nandja nach Premieren-Tor den Tränen nah",
-   "link": "https://www.kicker.de/das-gefuehl-will-ich-jeden-tag-haben-nandja-nach-premieren-tor-den-traenen-nah-1269337/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T22:35:23Z",
-   "teaser": "Der HSV feierte im Kellerduell mit Gladbach einen wichtigen Heimsieg, im Mittelpunkt stand Shafiq Nandja. Das Eigengewächs trifft erstmals in der Bundesliga und erlebte im Volkspark einen Abend, den er nie vergessen wird.",
-   "clubs": [
-    87,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/aus-dem-nlz-in-die-torschuetzenliste-hsv-trotzt-den-sorgen-und-feiert-nandja-1269339/video",
-   "title": "\"Aus dem NLZ in die Torschützenliste\": HSV trotzt den Sorgen und feiert Nandja",
-   "link": "https://www.kicker.de/aus-dem-nlz-in-die-torschuetzenliste-hsv-trotzt-den-sorgen-und-feiert-nandja-1269339/video",
-   "source": "kicker",
-   "published": "2026-11-06T22:16:08Z",
-   "teaser": "Der HSV gewinnt mit 3:1 gegen Borussia Mönchengladbach und feiert vor der Länderspielpause einen wichtigen Sieg. Besonders im Fokus: Shafiq Nandja, der aus dem NLZ stammt und erstmals in der Bundesliga trifft. Aus Hamburg berichtet …",
-   "clubs": [
-    87,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/einfach-dumm-blessin-aergert-sich-ueber-itakuras-platzverweis-1269335/artikel",
-   "title": "\"Einfach dumm\": Blessin ärgert sich über Itakuras Platzverweis",
-   "link": "https://www.kicker.de/einfach-dumm-blessin-aergert-sich-ueber-itakuras-platzverweis-1269335/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T21:58:51Z",
-   "teaser": "Gladbach war in Hamburg ordentlich im Spiel, doch dann flog Ko Itakura kurz nach der Pause vom Feld und die Fohlen-Niederlage nahm ihren Lauf. Borussias Sportchef Rouven Schröder und Trainer Alexander Blessin ärgerten sich über den …",
-   "clubs": [
-    87,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193654/hamburger-sv_borussia-moenchengladbach/liveticker",
-   "title": "Jetzt live - Gladbach hält dagegen und gleicht beim HSV aus",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193654/hamburger-sv_borussia-moenchengladbach/liveticker",
-   "source": "Sportschau",
-   "published": "2026-11-06T20:24:24Z",
-   "teaser": "Im Spiel zwischen dem Hamburger SV und Borussia Mönchengladbach ist einiges los. Den Fohlen ist kurz vor der Pause der Ausgleich gelungen.",
-   "clubs": [
-    87,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/aufatmen-in-hoffenheim-kramaric-sagt-laenderspiele-ab-1269306/artikel",
-   "title": "Aufatmen in Hoffenheim: Kramaric sagt Länderspiele ab",
-   "link": "https://www.kicker.de/aufatmen-in-hoffenheim-kramaric-sagt-laenderspiele-ab-1269306/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T20:00:20Z",
-   "teaser": "Die TSG Hoffenheim hat aktuell sehr mit Verletzungsproblemen zu kämpfen - und auch Stürmerstar Andrej Kramaric ist noch nicht im Vollbesitz seiner Kräfte. Jetzt sagte er die Teilnahme an den kommenden Länderspielen Kroatiens ab.",
-   "clubs": [
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/hamburger-sv-gegen-borussia-moenchengladbach,audiostream-hamburger-sv-gegen-borussia-moenchengladbach-104.html",
-   "title": "Hamburger SV gegen Borussia Mönchengladbach Live im Audiostream",
-   "link": "https://www.sportschau.de/fussball/bundesliga/hamburger-sv-gegen-borussia-moenchengladbach,audiostream-hamburger-sv-gegen-borussia-moenchengladbach-104.html",
-   "source": "Sportschau",
-   "published": "2026-11-06T19:15:00Z",
-   "teaser": "9. Spieltag: Anpfiff des Spiels ist am 06.11.2026 um 20:30 Uhr. Borussia Mönchengladbach spielt in Hamburg.",
-   "clubs": [
-    87,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-toller-schuss-von-muheim-scallys-schlenzer-sitzt-1268780/artikel",
-   "title": "LIVE! Toller Schuss von Muheim - Scallys Schlenzer sitzt",
-   "link": "https://www.kicker.de/live-toller-schuss-von-muheim-scallys-schlenzer-sitzt-1268780/artikel",
-   "source": "kicker",
-   "published": "2026-11-06T18:35:49Z",
-   "teaser": "Mit dem Duell HSV gegen Schlusslicht Gladbach wird der 9. Spieltag eröffnet. Robbt sich die Borussia an die Nichtabstiegsplätze heran oder distanzieren die Hamburger den Konkurrenten noch klarer?",
-   "clubs": [
-    87,
-    100
    ],
    "transfer": false
   }
