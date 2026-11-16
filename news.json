@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T01:54:02Z",
+ "updated": "2026-11-16T09:29:32Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,31 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wehrle-kontert-uli-hoeness-kritik-am-vfb-1271991/artikel",
+   "title": "Wehrle kontert Uli Hoeneß' Kritik am VfB",
+   "link": "https://www.kicker.de/wehrle-kontert-uli-hoeness-kritik-am-vfb-1271991/artikel",
+   "source": "kicker",
+   "published": "2026-11-16T08:28:43Z",
+   "teaser": "Eine Woche nach Uli Hoeneß' öffentlicher Kritik an der Führung des VfB hat Alexander Wehrle der \"Manager-Legende\" erklärt, wie in Stuttgart zuletzt wirklich gewirtschaftet wurde.",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/zufall-system-libero-kristof-ist-elversbergs-elfter-feldspieler-1271775/artikel",
+   "title": "Zufall? System! \"Libero\" Kristof ist Elversbergs elfter Feldspieler",
+   "link": "https://www.kicker.de/zufall-system-libero-kristof-ist-elversbergs-elfter-feldspieler-1271775/artikel",
+   "source": "kicker",
+   "published": "2026-11-16T06:30:27Z",
+   "teaser": "Unter den Bundesliga-Torhütern hat nur Paderborns Nahuel Noll häufiger den Ball als Elversbergs Nicolas Kristof. Der vermeintliche Zufall hat beim 26-Jährigen aber System. Beim dem technisch versierten Keeper beginnt beim Aufsteiger das …",
+   "clubs": [
+    31,
+    198
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/stars-wie-kane-und-olise-bleiben-im-stress-bayerns-kraftakt-bis-weihnachten-1271725/artikel",
    "title": "Stars wie Kane und Olise bleiben im Stress: Bayerns Kraftakt bis Weihnachten",
@@ -2451,31 +2476,6 @@
    "clubs": [
     87,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/dann-haetten-wir-etwas-neues-fuer-die-bingo-karte-wagner-ueber-rolle-von-el-mala-1269294/video",
-   "title": "\"Dann hätten wir etwas Neues für die Bingo-Karte\": Wagner über Rolle von El Mala",
-   "link": "https://www.kicker.de/dann-haetten-wir-etwas-neues-fuer-die-bingo-karte-wagner-ueber-rolle-von-el-mala-1269294/video",
-   "source": "kicker",
-   "published": "2026-11-06T17:51:57Z",
-   "teaser": "Wie schon im September hat es Said El Mala erneut in den Kader von Jürgen Klopp für die anstehenden Nations-League-Spiele geschafft. Köln-Trainer René Wagner erklärt El Malas veränderte Rolle und freut sich über die Nominierung.",
-   "clubs": [
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fischer-ueber-nicht-nominierung-von-amiri-ich-hoffe-er-war-enttaeuscht-1269285/video",
-   "title": "Fischer über Nicht-Nominierung von Amiri: \"Ich hoffe, er war enttäuscht\"",
-   "link": "https://www.kicker.de/fischer-ueber-nicht-nominierung-von-amiri-ich-hoffe-er-war-enttaeuscht-1269285/video",
-   "source": "kicker",
-   "published": "2026-11-06T17:06:47Z",
-   "teaser": "Der FSV Mainz 05 hat derzeit mit einer Ergebniskrise zu kämpfen: In den letzten fünf Pflichtspielen gab es vier Niederlagen. Am Wochenende ist nun der FC Bayern zu Gast. Kein Grund zur Sorge für Trainer Urs Fischer, der sich auch zur …",
-   "clubs": [
-    40,
-    81
    ],
    "transfer": false
   }
