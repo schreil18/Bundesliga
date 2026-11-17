@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T02:53:01Z",
+ "updated": "2026-11-17T11:41:56Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,44 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/swr/swr-frueh-am-limit-der-vfb-stuttgart-und-die-schwierige-belastungssteuerung-100.html",
+   "title": "Der VfB Stuttgart und die schwierige Belastungssteuerung",
+   "link": "https://www.sportschau.de/regional/swr/swr-frueh-am-limit-der-vfb-stuttgart-und-die-schwierige-belastungssteuerung-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-17T11:03:04Z",
+   "teaser": "Der VfB Stuttgart wirkte vor der Länderspielpause platt. Eine Rotation wie in der abgelaufenen Saison war bislang nicht möglich. Die Schwaben dürfen aber optimistisch sein.",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/vor-dem-nordderby-bremens-innensenatorin-nimmt-dfl-in-die-pflicht-1272325/artikel",
+   "title": "Vor dem Nordderby: Bremens Innensenatorin nimmt DFL in die Pflicht",
+   "link": "https://www.kicker.de/vor-dem-nordderby-bremens-innensenatorin-nimmt-dfl-in-die-pflicht-1272325/artikel",
+   "source": "kicker",
+   "published": "2026-11-17T10:38:04Z",
+   "teaser": "Der Polizeikostenstreit zwischen dem Bundesland Bremen und der DFL hat den deutschen Fußball jahrelang beschäftigt. Nun kündigt die Politik vor dem Nordderby Bremen gegen HSV die nächste Rechnung an.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/ndr/Bundesliga-HSV-Verletzung-Albert-Sambi-Lokonga-Werder-Bremen,hsv-2404.html",
+   "title": "HSV gehen vor dem Nordderby die Spieler aus",
+   "link": "https://www.sportschau.de/regional/ndr/Bundesliga-HSV-Verletzung-Albert-Sambi-Lokonga-Werder-Bremen,hsv-2404.html",
+   "source": "Sportschau",
+   "published": "2026-11-17T08:50:58Z",
+   "teaser": "Vize-Kapitän Albert Sambi Lokonga wird den Hamburgern \"vorerst nicht zur Verfügung stehen\". Die Personalsorgen werden vor dem Spiel am Sonntag bei Werder Bremen immer größer.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/polzin-gehen-die-optionen-aus-auch-sambi-lokonga-faellt-verletzt-aus-1272165/artikel",
    "title": "Polzin gehen die Optionen aus: Auch Sambi Lokonga fällt verletzt aus",
@@ -74,6 +112,18 @@
     91
    ],
    "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-in-der-umkleide-ausgetickt-davies-frustriert-von-verletzung-102.html",
+   "title": "Bayern-Verteidiger Davies frustriert von Verletzung",
+   "link": "https://www.sportschau.de/regional/br/br-in-der-umkleide-ausgetickt-davies-frustriert-von-verletzung-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-16T14:48:07Z",
+   "teaser": "FC-Bayern-Spieler Alphonso Davies verletzt sich beim Länderspiel mit Kanada wohl etwas schwerer. Der Linksverteidiger spricht von seinem Frust über die Verletzung. Bei den Münchnern verschärft sich die Verletzungsmisere nun weiter.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
   },
   {
    "id": "https://www.kicker.de/davies-erleidet-vierten-muskelfaserriss-in-zwei-jahren-1271935/artikel",
@@ -2413,58 +2463,6 @@
    "clubs": [
     87,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fuer-mich-eine-szene-des-spiels-polzin-lobt-reaktion-auf-bornauws-fehler-1269382/video",
-   "title": "\"Für mich eine Szene des Spiels\": Polzin lobt Reaktion auf Bornauws Fehler",
-   "link": "https://www.kicker.de/fuer-mich-eine-szene-des-spiels-polzin-lobt-reaktion-auf-bornauws-fehler-1269382/video",
-   "source": "kicker",
-   "published": "2026-11-07T09:41:30Z",
-   "teaser": "Merlin Polzin ist nach dem 3:1 gegen Borussia Mönchengladbach stolz auf seine Mannschaft. Neben den Toren lobte er insbesondere eine Szene, in der Sebastian Bornauw einen Fehlpass spielte.",
-   "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nur-kovacs-vita-macht-mut-endet-die-neulings-durststrecke-des-bvb-gegen-elversberg-1268809/artikel",
-   "title": "Nur Kovacs Vita macht Mut: Endet die Neulings-Durststrecke des BVB gegen Elversberg?",
-   "link": "https://www.kicker.de/nur-kovacs-vita-macht-mut-endet-die-neulings-durststrecke-des-bvb-gegen-elversberg-1268809/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T09:32:58Z",
-   "teaser": "Am Samstag trifft der BVB auf Bundesliga-Neuling Elversberg. Eine auffällige Statistik aus den Vorjahren spricht nicht gerade für die Dortmunder - wenn da nicht ihr Trainer wäre.",
-   "clubs": [
-    7,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/baerenstarker-notenschnitt-hoffenheims-prass-reitet-auf-der-erfolgswelle-1269370/artikel",
-   "title": "Bärenstarker Notenschnitt: Hoffenheims Prass reitet auf der Erfolgswelle",
-   "link": "https://www.kicker.de/baerenstarker-notenschnitt-hoffenheims-prass-reitet-auf-der-erfolgswelle-1269370/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T09:10:44Z",
-   "teaser": "Mit starken Leistungen und drei Toren in seinen jüngsten vier Spielen trumpft Alexander Prass derzeit in Hoffenheim groß auf. Der Nationalspieler spricht über seine bislang beste Phase bei der TSG Hoffenheim und die Gründe.",
-   "clubs": [
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/stolpergefahr-fuer-die-branchenriesen,stolpergefahr-fuer-bayern-und-bvb-100.html",
-   "title": "Bayern und BVB vor Stolpergefahr in der Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/stolpergefahr-fuer-die-branchenriesen,stolpergefahr-fuer-bayern-und-bvb-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-07T08:18:05Z",
-   "teaser": "Bayern München und Borussia Dortmund haben nach ihrem direkten Duell und ihren Champions-League-Siegen im Liga-Alltag unangenehme Pflichtaufgaben in Mainz und gegen Elversberg zu erledigen.",
-   "clubs": [
-    40,
-    7,
-    81,
-    198
    ],
    "transfer": false
   }
