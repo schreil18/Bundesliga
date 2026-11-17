@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T11:41:56Z",
+ "updated": "2026-11-17T20:47:17Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,115 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/praesident-beck-entsendet-ex-profi-kraaz-und-einen-ultra-in-den-eintracht-aufsichtsrat-1272463/artikel",
+   "title": "Präsident Beck entsendet Ex-Profi Kraaz und einen Ultra in den Eintracht-Aufsichtsrat",
+   "link": "https://www.kicker.de/praesident-beck-entsendet-ex-profi-kraaz-und-einen-ultra-in-den-eintracht-aufsichtsrat-1272463/artikel",
+   "source": "kicker",
+   "published": "2026-11-17T18:45:00Z",
+   "teaser": "Der Aufsichtsrat der Eintracht Frankfurt Fußball AG erhält zwei neue Gesichter: Neben Benjamin von Loefen rückt auch der Frankfurter Ex-Profi Armin Kraaz in das Gremium. Damit bestätigt sich, was der kicker bereits in der vergangenen Woche …",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/union-sportchef-heldt-schwoert-ein-der-weg-der-geschlossenheit-wird-elementar-sein-1272442/artikel",
+   "title": "Union-Sportchef Heldt schwört ein: \"Der Weg der Geschlossenheit wird elementar sein\"",
+   "link": "https://www.kicker.de/union-sportchef-heldt-schwoert-ein-der-weg-der-geschlossenheit-wird-elementar-sein-1272442/artikel",
+   "source": "kicker",
+   "published": "2026-11-17T17:38:11Z",
+   "teaser": "Union Berlin steht sportlich mit dem Rücken zur Wand. Auf nahezu allen Ebenen müssen sie sich steigern, weshalb auch Sportchef Horst Heldt enorm unter Druck steht.",
+   "clubs": [
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/viel-zeit-hat-huetter-nicht-bei-der-eintracht-bleibt-es-spannend-1272465/video",
+   "title": "\"Viel Zeit hat Hütter nicht\": Bei der Eintracht bleibt es spannend",
+   "link": "https://www.kicker.de/viel-zeit-hat-huetter-nicht-bei-der-eintracht-bleibt-es-spannend-1272465/video",
+   "source": "kicker",
+   "published": "2026-11-17T17:31:40Z",
+   "teaser": "Julian Franzke berichtet aus Frankfurt vom Training der Eintracht und spricht über die Rückkehrer aus der Länderspielpause. Vor dem Duell mit Hoffenheim bleibt es spannend.",
+   "clubs": [
+    91,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/gladbach-ohne-ullrich-blessins-optionen-auf-der-linken-schiene-1272397/artikel",
+   "title": "Gladbach ohne Ullrich: Blessins Optionen auf der linken Schiene",
+   "link": "https://www.kicker.de/gladbach-ohne-ullrich-blessins-optionen-auf-der-linken-schiene-1272397/artikel",
+   "source": "kicker",
+   "published": "2026-11-17T16:46:49Z",
+   "teaser": "In den kommenden Wochen muss Alexander Blessin auf Lukas Ullrich verzichten. David Herold ist zwar nominell der Vertreter, doch Allrounder Jens Castrop bringt sich für sein Startelf-Comeback in Position.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kompany-musiala-diaz-so-steht-es-um-bayerns-rueckkehrer-1272417/video",
+   "title": "Kompany, Musiala, Diaz: So steht es um Bayerns Rückkehrer",
+   "link": "https://www.kicker.de/kompany-musiala-diaz-so-steht-es-um-bayerns-rueckkehrer-1272417/video",
+   "source": "kicker",
+   "published": "2026-11-17T14:39:56Z",
+   "teaser": "Beim Heimspiel gegen den 1. FC Köln soll Cheftrainer Vincent Kompany wieder an die Seitenlinie der Münchner zurückkehren, auch Jamal Musiala macht Fortschritte. Unser kicker-Reporter Mario Krischel mit einem Update.",
+   "clubs": [
+    65
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/guenstige-zeichen-bei-maza-bayer-mit-fuenf-rueckkehrern-gegen-paderborn-1272259/artikel",
+   "title": "Günstige Zeichen bei Maza: Bayer mit fünf Rückkehrern gegen Paderborn?",
+   "link": "https://www.kicker.de/guenstige-zeichen-bei-maza-bayer-mit-fuenf-rueckkehrern-gegen-paderborn-1272259/artikel",
+   "source": "kicker",
+   "published": "2026-11-17T14:15:05Z",
+   "teaser": "Vor dem Spiel gegen Paderborn kann Trainer Carles Martinez auf bis zu fünf Rückkehrer hoffen. Auch bei Spielmacher Ibrahim Maza, der vorzeitig von Algeriens Nationalmannschaft zurückkehrte, stehen die Zeichen für einen Einsatz günstig.",
+   "clubs": [
+    31
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/demichelis-jetzt-spuert-auch-gruda-wie-geil-das-ist-1272394/artikel",
+   "title": "Demichelis: \"Jetzt spürt auch Gruda, wie geil das ist\"",
+   "link": "https://www.kicker.de/demichelis-jetzt-spuert-auch-gruda-wie-geil-das-ist-1272394/artikel",
+   "source": "kicker",
+   "published": "2026-11-17T13:38:47Z",
+   "teaser": "Wie hat RB Leipzig zuletzt in die Spur gefunden? Trainer Martin Demichelis über überwundene Probleme, DFB-Shootingstar Brajan Gruda - und wahren Druck am Beispiel von Buenos Aires.",
+   "clubs": [
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kader-sportdirektor-nachwuchs-chatzialexiou-steht-vor-wichtigen-entscheidungen-1272297/artikel",
+   "title": "Kader, Sportdirektor, Nachwuchs: Chatzialexiou steht vor wichtigen Entscheidungen",
+   "link": "https://www.kicker.de/kader-sportdirektor-nachwuchs-chatzialexiou-steht-vor-wichtigen-entscheidungen-1272297/artikel",
+   "source": "kicker",
+   "published": "2026-11-17T12:22:51Z",
+   "teaser": "Nach seiner vorzeitigen Vertragsauflösung in Nürnberg kann Sportvorstand Joti Chatzialexiou seine Arbeit in Frankfurt schon im Dezember beginnen. Das ist ein Segen für die Eintracht, denn es wartet viel Arbeit.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/klausel-greift-bredlow-verlaengert-beim-vfb-1272361/artikel",
+   "title": "Klausel greift: Bredlow verlängert beim VfB",
+   "link": "https://www.kicker.de/klausel-greift-bredlow-verlaengert-beim-vfb-1272361/artikel",
+   "source": "kicker",
+   "published": "2026-11-17T11:55:43Z",
+   "teaser": "Fabian Bredlow wird auch über die laufende Saison hinaus beim VfB Stuttgart unter Vertrag stehen, wie der Verein am Dienstag mitteilte.",
+   "clubs": [
+    16
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.sportschau.de/regional/swr/swr-frueh-am-limit-der-vfb-stuttgart-und-die-schwierige-belastungssteuerung-100.html",
    "title": "Der VfB Stuttgart und die schwierige Belastungssteuerung",
@@ -2350,119 +2459,6 @@
    "clubs": [
     91,
     31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/1-fsv-mainz-05-gegen-bayern-muenchen,audiostream-1-fsv-mainz-05-gegen-bayern-muenchen-112.html",
-   "title": "Live hören: 1. FSV Mainz 05 gegen Bayern München - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/1-fsv-mainz-05-gegen-bayern-muenchen,audiostream-1-fsv-mainz-05-gegen-bayern-muenchen-112.html",
-   "source": "Sportschau",
-   "published": "2026-11-07T14:15:00Z",
-   "teaser": "9. Spieltag: Anpfiff des Spiels ist am 07.11.2026 um 15:30 Uhr. Bayern München spielt in Mainz.",
-   "clubs": [
-    40,
-    81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/rb-leipzig-gegen-fc-augsburg,audiostream-rb-leipzig-gegen-fc-augsburg-108.html",
-   "title": "Live hören: RB Leipzig gegen FC Augsburg - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/rb-leipzig-gegen-fc-augsburg,audiostream-rb-leipzig-gegen-fc-augsburg-108.html",
-   "source": "Sportschau",
-   "published": "2026-11-07T14:15:00Z",
-   "teaser": "9. Spieltag: Anpfiff des Spiels ist am 07.11.2026 um 15:30 Uhr. FC Augsburg spielt in Leipzig.",
-   "clubs": [
-    1635,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/borussia-dortmund-gegen-sv-07-elversberg,audiostream-borussia-dortmund-gegen-sv-07-elversberg-100.html",
-   "title": "Live hören: Borussia Dortmund gegen SV 07 Elversberg - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/borussia-dortmund-gegen-sv-07-elversberg,audiostream-borussia-dortmund-gegen-sv-07-elversberg-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-07T14:15:00Z",
-   "teaser": "9. Spieltag: Anpfiff des Spiels ist am 07.11.2026 um 15:30 Uhr. SV 07 Elversberg spielt in Dortmund.",
-   "clubs": [
-    7,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/9-spieltag-die-konferenz,audiostream-9-spieltag-die-konferenz-144.html",
-   "title": "Live hören: Die Konferenz - 9. Spieltag | Fußball Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/9-spieltag-die-konferenz,audiostream-9-spieltag-die-konferenz-144.html",
-   "source": "Sportschau",
-   "published": "2026-11-07T14:10:00Z",
-   "teaser": "Bundesliga live - alle Spiele am 07.11.2026 um 15:30 Uhr in der Konferenz.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/200-und-50-ginter-eilt-von-jubilaeum-zu-jubilaeum-1269395/artikel",
-   "title": "200 und 50: Ginter eilt von Jubiläum zu Jubiläum",
-   "link": "https://www.kicker.de/200-und-50-ginter-eilt-von-jubilaeum-zu-jubilaeum-1269395/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T11:36:08Z",
-   "teaser": "Vor der Länderspielpause will der SC Freiburg noch mal alle Kräfte mobilisieren - und Matthias Ginter will ein erfolgreiches Jubiläumsspiel bestreiten. Doch gegen Union Berlin waren die Breisgauer in den letzten Jahren nicht gerade …",
-   "clubs": [
-    112,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/ndr/ein-hamburger-traum-hsv-talent-nandja-verzaubert-volksparkstadion,hsv-2380.html",
-   "title": "Ein Hamburger Traum: HSV-Talent Nandja verzaubert Volksparkstadion",
-   "link": "https://www.sportschau.de/regional/ndr/ein-hamburger-traum-hsv-talent-nandja-verzaubert-volksparkstadion,hsv-2380.html",
-   "source": "Sportschau",
-   "published": "2026-11-07T11:15:59Z",
-   "teaser": "Der 19 Jahre alte Verteidiger schießt gegen Gladbach sein erstes Profi-Tor und wird anschließend von den Fans und seinen Teamkameraden enthusiastisch gefeiert.",
-   "clubs": [
-    87,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/warum-die-bellingham-berufung-fuer-den-bvb-zum-trumpf-werden-kann-1269312/artikel",
-   "title": "Warum die Bellingham-Berufung für den BVB zum Trumpf werden kann",
-   "link": "https://www.kicker.de/warum-die-bellingham-berufung-fuer-den-bvb-zum-trumpf-werden-kann-1269312/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T11:02:17Z",
-   "teaser": "In England gilt die Bundesliga als zu schwach und zu weich. Dennoch wurde mit Dortmunds Jobe Bellingham ein Legionär erstmals in den Kader der Three Lions berufen. Das passiert nicht allzu oft - und könnte für den BVB in Zukunft noch zum …",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-moenchengladbach-zieht-die-falschen-schluesse-100.html",
-   "title": "Gladbach zieht gegen HSV die falschen Schlüsse",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-moenchengladbach-zieht-die-falschen-schluesse-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-07T09:56:00Z",
-   "teaser": "Borussia Mönchengladbach bleibt nach der Niederlage beim Hamburger SV Letzter - und zieht die falschen Schlüsse aus der Partie.",
-   "clubs": [
-    87,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kampf-ums-gladbach-tor-batz-uebt-maximaldruck-aus-1269373/artikel",
-   "title": "Kampf ums Gladbach-Tor: Batz übt Maximaldruck aus",
-   "link": "https://www.kicker.de/kampf-ums-gladbach-tor-batz-uebt-maximaldruck-aus-1269373/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T09:48:06Z",
-   "teaser": "Trotz der 1:3-Niederlage wusste Borussias Torhüter Daniel Batz auch in Hamburg wieder zu überzeugen. Nach der Länderspielpause muss Alexander Blessin eine schwierige Entscheidung treffen.",
-   "clubs": [
-    87,
-    100
    ],
    "transfer": false
   }
