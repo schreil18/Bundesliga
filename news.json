@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T20:47:17Z",
+ "updated": "2026-11-18T02:50:37Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,16 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Di Salvo entscheidet sich erst nächstes Jahr - J. J. Gabriel verlässt ManUnited",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-17T22:32:43Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/praesident-beck-entsendet-ex-profi-kraaz-und-einen-ultra-in-den-eintracht-aufsichtsrat-1272463/artikel",
    "title": "Präsident Beck entsendet Ex-Profi Kraaz und einen Ultra in den Eintracht-Aufsichtsrat",
@@ -566,16 +576,6 @@
     65
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Neuer-Entscheidung im Winter? - Ito dürfte gehen",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-14T14:58:47Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/naechster-rueckschlag-poulsen-fehlt-dem-hsv-erneut-1271506/artikel",
