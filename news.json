@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T02:50:37Z",
+ "updated": "2026-11-18T11:29:25Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,14 +16,77 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/nach-rot-in-der-regionalliga-yilmaz-fehlt-freiburg-auch-bei-den-profis-1272610/artikel",
+   "title": "Nach Rot in der Regionalliga: Yilmaz fehlt Freiburg auch bei den Profis",
+   "link": "https://www.kicker.de/nach-rot-in-der-regionalliga-yilmaz-fehlt-freiburg-auch-bei-den-profis-1272610/artikel",
+   "source": "kicker",
+   "published": "2026-11-18T11:12:24Z",
+   "teaser": "Beim SC Freiburg spielt Neuzugang Berkay Yilmaz noch keine große Rolle, daran wird sich auch am kommenden Samstag beim Spiel der Breisgauer in Elversberg nichts ändern. Yilmaz fehlt nach einem Einsatz in der Regionalliga gesperrt.",
+   "clubs": [
+    112,
+    198
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Di Salvo entscheidet sich erst nächstes Jahr - J. J. Gabriel verlässt ManUnited",
+   "title": "Mata beendet Karriere - Di Salvo entscheidet sich erst nächstes Jahr",
    "link": "https://www.kicker.de/transferticker-953155/artikel",
    "source": "kicker",
-   "published": "2026-11-17T22:32:43Z",
+   "published": "2026-11-18T10:21:07Z",
    "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
    "clubs": [],
    "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/keine-trainerdiskussion-beim-fca-aber-ein-wegweisendes-programm-1272574/artikel",
+   "title": "Keine Trainerdiskussion beim FCA, aber ein wegweisendes Programm",
+   "link": "https://www.kicker.de/keine-trainerdiskussion-beim-fca-aber-ein-wegweisendes-programm-1272574/artikel",
+   "source": "kicker",
+   "published": "2026-11-18T09:41:48Z",
+   "teaser": "Der FC Augsburg braucht in der Bundesliga Ergebnisse. Immerhin stehen Manuel Baum wieder mehr Alternativen zur Verfügung.",
+   "clubs": [
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/vuskovic-und-co-machen-sich-fit-fuers-nordderby-1272477/video",
+   "title": "Vuskovic und Co. machen sich fit fürs Nordderby",
+   "link": "https://www.kicker.de/vuskovic-und-co-machen-sich-fit-fuers-nordderby-1272477/video",
+   "source": "kicker",
+   "published": "2026-11-18T08:38:44Z",
+   "teaser": "Mario Vuskovic und der Hamburger SV stecken in den Vorbereitungen auf der Nordderby am Sonntag gegen Werder Bremen. Bei kalten Temperaturen stimmte sich die Mannschaft auf das Duell ein.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wie-der-fc-bayern-seine-klubfuehrung-verjuengen-und-olise-halten-will-1272557/artikel",
+   "title": "Wie der FC Bayern seine Klubführung verjüngen - und Olise halten will",
+   "link": "https://www.kicker.de/wie-der-fc-bayern-seine-klubfuehrung-verjuengen-und-olise-halten-will-1272557/artikel",
+   "source": "kicker",
+   "published": "2026-11-18T08:21:28Z",
+   "teaser": "Mit Thomas Müller und Manuel Neuer? Präsident Herbert Hainer erklärt, wie der FC Bayern die Verjüngung der Klubführung vorantreibt - und wie er mit einem 300-Millionen-Euro-Angebot für Michael Olise umgehen würde.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/ndr/Bundesliga-HSV-Verletzung-Albert-Sambi-Lokonga-Werder-Bremen,hsv-2404.html",
+   "title": "HSV gehen vor dem Nordderby die Spieler aus",
+   "link": "https://www.sportschau.de/regional/ndr/Bundesliga-HSV-Verletzung-Albert-Sambi-Lokonga-Werder-Bremen,hsv-2404.html",
+   "source": "Sportschau",
+   "published": "2026-11-18T07:30:27Z",
+   "teaser": "Vize-Kapitän Albert Sambi Lokonga wird den Hamburgern \"vorerst nicht zur Verfügung stehen\". Die Personalsorgen werden vor dem Spiel am Sonntag bei Werder Bremen immer größer.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
   },
   {
    "id": "https://www.kicker.de/praesident-beck-entsendet-ex-profi-kraaz-und-einen-ultra-in-den-eintracht-aufsichtsrat-1272463/artikel",
@@ -153,19 +216,6 @@
    "source": "kicker",
    "published": "2026-11-17T10:38:04Z",
    "teaser": "Der Polizeikostenstreit zwischen dem Bundesland Bremen und der DFL hat den deutschen Fußball jahrelang beschäftigt. Nun kündigt die Politik vor dem Nordderby Bremen gegen HSV die nächste Rechnung an.",
-   "clubs": [
-    134,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/ndr/Bundesliga-HSV-Verletzung-Albert-Sambi-Lokonga-Werder-Bremen,hsv-2404.html",
-   "title": "HSV gehen vor dem Nordderby die Spieler aus",
-   "link": "https://www.sportschau.de/regional/ndr/Bundesliga-HSV-Verletzung-Albert-Sambi-Lokonga-Werder-Bremen,hsv-2404.html",
-   "source": "Sportschau",
-   "published": "2026-11-17T08:50:58Z",
-   "teaser": "Vize-Kapitän Albert Sambi Lokonga wird den Hamburgern \"vorerst nicht zur Verfügung stehen\". Die Personalsorgen werden vor dem Spiel am Sonntag bei Werder Bremen immer größer.",
    "clubs": [
     134,
     100
@@ -2409,56 +2459,6 @@
    "teaser": "Lukas Ullrich musste am Freitag angeschlagen ausgewechselt werden. Am Samstag gab Borussia Mönchengladbach die Diagnose bekannt, die auch Auswirkungen auf die deutsche U 21 hat.",
    "clubs": [
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/eberl-contra-hamann-in-deutschland-muss-immer-jemand-in-die-suppe-spucken-1269447/artikel",
-   "title": "Eberl contra Hamann: \"In Deutschland muss immer jemand in die Suppe spucken\"",
-   "link": "https://www.kicker.de/eberl-contra-hamann-in-deutschland-muss-immer-jemand-in-die-suppe-spucken-1269447/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T15:08:27Z",
-   "teaser": "Die Vertragsverlängerung von Harry Kane war teuer - sehr teuer. Und rief offensichtlich nicht bei allen Beobachtern Lobeshymnen hervor. Besonders TV-Experte Dietmar Hamann gefiel der Schritt des FC Bayern nicht. Das brockte ihm nun Konter …",
-   "clubs": [
-    40
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/neuer-loest-dreher-ab-die-aeltesten-bayern-spieler-der-bundesliga-1118454/slideshow",
-   "title": "Neuer löst Dreher ab: Die ältesten Bayern-Spieler der Bundesliga",
-   "link": "https://www.kicker.de/neuer-loest-dreher-ab-die-aeltesten-bayern-spieler-der-bundesliga-1118454/slideshow",
-   "source": "kicker",
-   "published": "2026-11-07T14:41:55Z",
-   "teaser": "Seit diesem Samstag ist Manuel Neuer der älteste Bayern-Spieler in der Bundesliga-Geschichte. Die Top 10 zum Durchklicken ...",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wer-uebertraegt-vfb-stuttgart-gegen-werder-bremen-heute-live-im-tv-stream-1269183/artikel",
-   "title": "Wer überträgt VfB Stuttgart gegen Werder Bremen heute live im TV & Stream?",
-   "link": "https://www.kicker.de/wer-uebertraegt-vfb-stuttgart-gegen-werder-bremen-heute-live-im-tv-stream-1269183/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T14:29:17Z",
-   "teaser": "Nach neun Toren in den ersten acht Bundesliga-Spielen wurde Niclas Füllkrug wieder für die Nationalmannschaft nominiert. Vor der Länderspielpause ist er aber noch am 9. Spieltag mit Werder Bremen beim VfB Stuttgart zu Gast. Wo ihr die …",
-   "clubs": [
-    16,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-07-gegen-eintracht-frankfurt,audiostream-sc-paderborn-07-gegen-eintracht-frankfurt-100.html",
-   "title": "Live hören: SC Paderborn 07 gegen Eintracht Frankfurt - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-07-gegen-eintracht-frankfurt,audiostream-sc-paderborn-07-gegen-eintracht-frankfurt-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-07T14:15:00Z",
-   "teaser": "9. Spieltag: Anpfiff des Spiels ist am 07.11.2026 um 15:30 Uhr. Eintracht Frankfurt spielt in Paderborn.",
-   "clubs": [
-    91,
-    31
    ],
    "transfer": false
   }
