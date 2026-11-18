@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T11:29:25Z",
+ "updated": "2026-11-18T19:32:49Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,132 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/comeback-gegen-koeln-kompany-sitzt-wieder-auf-der-bayern-bank-1272669/artikel",
+   "title": "Comeback gegen Köln: Kompany sitzt wieder auf der Bayern-Bank",
+   "link": "https://www.kicker.de/comeback-gegen-koeln-kompany-sitzt-wieder-auf-der-bayern-bank-1272669/artikel",
+   "source": "kicker",
+   "published": "2026-11-18T19:11:36Z",
+   "teaser": "Der FC Bayern und Vincent Kompany finden allmählich in den Alltag zurück. Am Donnerstag wird der Cheftrainer erstmals seit seinem Zusammenbruch wieder an einer Pressekonferenz teilnehmen - und am Freitag gegen Köln wieder auf der Bank …",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-fcb-nach-der-pause-kompany-vor-rueckkehr-auf-die-bank-102.html",
+   "title": "Bayern-Trainer Kompany gegen Köln wieder dabei",
+   "link": "https://www.sportschau.de/regional/br/br-fcb-nach-der-pause-kompany-vor-rueckkehr-auf-die-bank-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-18T19:03:30Z",
+   "teaser": "Trainer Vincent Kompany kehrt beim FC Bayern München nach seiner Hirnhautreizung an den Spielfeldrand zurück. Dies bestätigte Vorstandschef Jan-Christian Dreesen bei einer Veranstaltung der \"Abendzeitung München\".",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/mit-verteidiger-hybrid-dortmunds-neue-flexibilitaet-ganz-hinten-1272538/artikel",
+   "title": "Mit Verteidiger-Hybrid: Dortmunds neue Flexibilität ganz hinten",
+   "link": "https://www.kicker.de/mit-verteidiger-hybrid-dortmunds-neue-flexibilitaet-ganz-hinten-1272538/artikel",
+   "source": "kicker",
+   "published": "2026-11-18T18:58:50Z",
+   "teaser": "Drei oder vier? Borussia Dortmund hat für seine Abwehrkette inzwischen alle Optionen und wechselte zuletzt zwischen den beiden Grundordnungen. Das bringt Vorteile.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/huetter-und-graz-ilzers-spezielle-emotions-gipfel-1272720/artikel",
+   "title": "Hütter und Graz: Ilzers spezielle Emotions-Gipfel",
+   "link": "https://www.kicker.de/huetter-und-graz-ilzers-spezielle-emotions-gipfel-1272720/artikel",
+   "source": "kicker",
+   "published": "2026-11-18T16:34:01Z",
+   "teaser": "Kurz nacheinander stehen für Hoffenheims Trainer Christian Ilzer zwei ganz besondere Duelle an. Erst gegen seinen Freund und Mentor Adi Hütter, dann gegen Sturm Graz, wo der Österreicher einst das Double gewann und seinen endgültigen …",
+   "clubs": [
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hsv-mehrere-optionen-noch-mehr-fragezeichen-1272724/artikel",
+   "title": "HSV: Mehrere Optionen, noch mehr Fragezeichen",
+   "link": "https://www.kicker.de/hsv-mehrere-optionen-noch-mehr-fragezeichen-1272724/artikel",
+   "source": "kicker",
+   "published": "2026-11-18T16:33:12Z",
+   "teaser": "Am Sonntag geht es für den HSV zum Nord-Derby nach Bremen. Erstmals nach vier Jahren ist Mario Vuskovic wieder spielberechtigt. Dafür ist eine neue Problemzone entstanden.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/mainzer-neustart-oder-totalabsturz-auch-das-personal-fordert-fischer-heraus-1272493/artikel",
+   "title": "Mainzer Neustart oder Totalabsturz? Auch das Personal fordert Fischer heraus",
+   "link": "https://www.kicker.de/mainzer-neustart-oder-totalabsturz-auch-das-personal-fordert-fischer-heraus-1272493/artikel",
+   "source": "kicker",
+   "published": "2026-11-18T16:32:31Z",
+   "teaser": "Wende oder Abstiegskampf lautet die Mainzer Ausgangslage vor der Partie in Augsburg. Dem Trainer stehen dabei diverse Grundsatzentscheidungen ins Haus.",
+   "clubs": [
+    81,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/koeln-coach-wagner-zu-toppmoeller-geruechten-da-spuere-ich-gar-nichts-1272684/video",
+   "title": "Köln-Coach Wagner zu Toppmöller-Gerüchten: \"Da spüre ich gar nichts\"",
+   "link": "https://www.kicker.de/koeln-coach-wagner-zu-toppmoeller-geruechten-da-spuere-ich-gar-nichts-1272684/video",
+   "source": "kicker",
+   "published": "2026-11-18T13:41:14Z",
+   "teaser": "Köln-Trainer René Wagner spricht auf der Pressekonferenz vor dem Spiel gegen den FC Bayern München über die aktuellen Gerüchte rund um Dino Toppmöller und wie man auftreten muss, um gegen die Bayern etwas mitzunehmen.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/frankfurt-bestaetigt-chatzialexiou-beginnt-bereits-in-zwei-wochen-1268406/artikel",
+   "title": "Frankfurt bestätigt: Chatzialexiou beginnt bereits in zwei Wochen",
+   "link": "https://www.kicker.de/frankfurt-bestaetigt-chatzialexiou-beginnt-bereits-in-zwei-wochen-1268406/artikel",
+   "source": "kicker",
+   "published": "2026-11-18T12:42:11Z",
+   "teaser": "Anders als zunächst vorgesehen tritt Joti Chatizalexiou seinen neuen Posten als Sportvorstand in Frankfurt nun bereits zum 1. Dezember an. Am Mittwoch kam die Bestätigung der Eintracht.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-bestaetigt-joti-chatzialexiou-startet-schon-im-dezember-100.html",
+   "title": "Eintracht Frankfurt bestätigt: Joti Chatzialexiou startet schon im Dezember als Sportvorstand",
+   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-bestaetigt-joti-chatzialexiou-startet-schon-im-dezember-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-18T12:34:21Z",
+   "teaser": "Joti Chatzialexiou wird schon im Dezember seinen neuen Job als Sportvorstand bei Eintracht Frankfurt antreten – und damit zwei Monate früher als ursprünglich geplant. Damit kann sich der Krösche-Nachfolger schon um Wintertransfers kümmern.",
+   "clubs": [
+    91
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/torgefaehrlich-in-beide-richtungen-kann-le-joncour-pinckert-ersetzen-1272530/artikel",
+   "title": "Torgefährlich in beide Richtungen: Kann Le Joncour Pinckert ersetzen?",
+   "link": "https://www.kicker.de/torgefaehrlich-in-beide-richtungen-kann-le-joncour-pinckert-ersetzen-1272530/artikel",
+   "source": "kicker",
+   "published": "2026-11-18T11:38:48Z",
+   "teaser": "Drei von vier Heimspielen hat die SV Elversberg in der Bundesliga gewonnen. Am Samstag kommt mit Freiburg ein Spitzenteam ins Saarland - und der Kapitän fehlt beim frechen Aufsteiger.",
+   "clubs": [
+    112,
+    198
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/nach-rot-in-der-regionalliga-yilmaz-fehlt-freiburg-auch-bei-den-profis-1272610/artikel",
    "title": "Nach Rot in der Regionalliga: Yilmaz fehlt Freiburg auch bei den Profis",
@@ -2334,131 +2460,6 @@
    "clubs": [
     7,
     198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kovac-zur-svensson-szene-haette-auch-anders-ausfallen-koennen-1269531/video",
-   "title": "Kovac zur Svensson-Szene: \"Hätte auch anders ausfallen können\"",
-   "link": "https://www.kicker.de/kovac-zur-svensson-szene-haette-auch-anders-ausfallen-koennen-1269531/video",
-   "source": "kicker",
-   "published": "2026-11-07T18:13:12Z",
-   "teaser": "Daniel Svensson traf Lukas Pinckert früh im Spiel in einer unglücklichen Szene hart am Knöchel. Anschließend räumte BVB-Coach Niko Kovac ein, in dieser Situation Glück gehabt zu haben.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/trotz-bayern-sieg-spieler-sassen-diskutierend-in-der-kabine-1269523/video",
-   "title": "Trotz Bayern-Sieg: \"Spieler saßen diskutierend in der Kabine\"",
-   "link": "https://www.kicker.de/trotz-bayern-sieg-spieler-sassen-diskutierend-in-der-kabine-1269523/video",
-   "source": "kicker",
-   "published": "2026-11-07T18:02:17Z",
-   "teaser": "Gegen den vermeintlichen Angstgegner löste der FC Bayern die Aufgabe einigermaßen souverän. Das hielt die Spieler aber nicht davon ab, im Anschluss an das Spiel in der Kabine zu diskutieren.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193606/vfb-stuttgart_werder-bremen/liveticker",
-   "title": "Jetzt live - Bremen wird mutiger, aber Stuttgart führt weiter",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193606/vfb-stuttgart_werder-bremen/liveticker",
-   "source": "Sportschau",
-   "published": "2026-11-07T18:00:28Z",
-   "teaser": "Nach der frühen Führung für den VFB Stuttgart kommt Bremen besser ins Spiel, kann am 0:1-Rückstand bislang aber noch nichts ändern. Füllkrug sieht Gelb.",
-   "clubs": [
-    16,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/punktgewinn-dank-hackentor-burkardt-lobt-atubolus-ueberragende-vorlage-1269499/artikel",
-   "title": "Punktgewinn dank Hackentor: Burkardt lobt Atubolus \"überragende\" Vorlage",
-   "link": "https://www.kicker.de/punktgewinn-dank-hackentor-burkardt-lobt-atubolus-ueberragende-vorlage-1269499/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T17:57:04Z",
-   "teaser": "Auf die Nichtnominierung von Jürgen Klopp reagierte Jonathan Burkardt mit einem Doppelpack in Paderborn. Den späten Treffer zum 2:2 erzielte der 26-Jährige per Hacke - auf Vorlage von Noah Atubolu. Ein medizinischer Notfall im …",
-   "clubs": [
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/referee-osmers-zur-svensson-szene-rot-im-bereich-des-moeglichen-1269510/artikel",
-   "title": "Referee Osmers zur Svensson-Szene: \"Rot im Bereich des Möglichen\"",
-   "link": "https://www.kicker.de/referee-osmers-zur-svensson-szene-rot-im-bereich-des-moeglichen-1269510/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T17:41:19Z",
-   "teaser": "Im Spiel zwischen Dortmund und Elversberg sorgte eine Szene für Gesprächsstoff: das Einsteigen von Daniel Svensson gegen Lukas Pinckert. Schiedsrichter Harm Osmers ordnete die Szene ein und gab zu, dass Rot durchaus im Bereich des …",
-   "clubs": [
-    7,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kimmich-hat-bei-neuer-kein-gutes-gefuehl-wenn-er-rausgeht-dann-ist-es-wahrscheinlich-etwas-ernsthaftes-1269459/artikel",
-   "title": "Kimmich hat bei Neuer kein gutes Gefühl: \"Wenn er rausgeht, dann ist es wahrscheinlich etwas Ernsthaftes\"",
-   "link": "https://www.kicker.de/kimmich-hat-bei-neuer-kein-gutes-gefuehl-wenn-er-rausgeht-dann-ist-es-wahrscheinlich-etwas-ernsthaftes-1269459/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T17:19:20Z",
-   "teaser": "Das Auswärtsspiel in Mainz sollte für Manuel Neuer ein besonderes werden. Doch schon vor der Pause musste der Keeper verletzt ausgewechselt werden. Eine genaue Diagnose steht noch aus, Joshua Kimmich hat aber kein gutes Gefühl.",
-   "clubs": [
-    81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/vfb-stuttgart-gegen-werder-bremen,audiostream-vfb-stuttgart-gegen-werder-bremen-108.html",
-   "title": "Live hören: VfB Stuttgart gegen Werder Bremen - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/vfb-stuttgart-gegen-werder-bremen,audiostream-vfb-stuttgart-gegen-werder-bremen-108.html",
-   "source": "Sportschau",
-   "published": "2026-11-07T17:15:00Z",
-   "teaser": "9. Spieltag: Anpfiff des Spiels ist am 07.11.2026 um 18:30 Uhr. Werder Bremen spielt in Stuttgart.",
-   "clubs": [
-    16,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-werder-wird-nach-vfb-druckphase-wieder-forscher-1268803/artikel",
-   "title": "LIVE! Werder wird nach VfB-Druckphase wieder forscher",
-   "link": "https://www.kicker.de/live-werder-wird-nach-vfb-druckphase-wieder-forscher-1268803/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T16:30:42Z",
-   "teaser": "Noch nicht rund läuft es für den VfB in dieser Saison, bei Werder, in der Liga seit sieben Spielen ungeschlagen, dagegen schon. Ob der SVW die Schwaben wie so oft in den letzten Jahren, erneut ärgern kann?",
-   "clubs": [
-    16,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/medizinische-notfaelle-in-mainz-und-paderborn-fans-stellen-support-ein-1269474/artikel",
-   "title": "Medizinische Notfälle in Mainz und Paderborn: Fans stellen Support ein",
-   "link": "https://www.kicker.de/medizinische-notfaelle-in-mainz-und-paderborn-fans-stellen-support-ein-1269474/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T16:20:19Z",
-   "teaser": "Bei den Bundesliga-Spielen in Paderborn und Mainz haben die Fans zeitweise die Unterstützung eingestellt. Grund in beiden Fällen: ein medizinischer Notfall.",
-   "clubs": [
-    81,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/reise-zur-u-21-geplatzt-gladbachs-ullrich-erleidet-schluesselbeinbruch-1269451/artikel",
-   "title": "Reise zur U 21 geplatzt: Gladbachs Ullrich erleidet Schlüsselbeinbruch",
-   "link": "https://www.kicker.de/reise-zur-u-21-geplatzt-gladbachs-ullrich-erleidet-schluesselbeinbruch-1269451/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T15:09:30Z",
-   "teaser": "Lukas Ullrich musste am Freitag angeschlagen ausgewechselt werden. Am Samstag gab Borussia Mönchengladbach die Diagnose bekannt, die auch Auswirkungen auf die deutsche U 21 hat.",
-   "clubs": [
-    87
    ],
    "transfer": false
   }
