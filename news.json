@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T01:27:01Z",
+ "updated": "2026-11-19T09:26:22Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,54 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/im-live-ticker-kompanys-erste-bayern-pk-seit-seinem-zusammenbruch-1272888/artikel",
+   "title": "LIVE!-Ticker: Kompanys erste PK seit seinem Zusammenbruch - \"Bin sehr gesund\"",
+   "link": "https://www.kicker.de/im-live-ticker-kompanys-erste-bayern-pk-seit-seinem-zusammenbruch-1272888/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T08:54:01Z",
+   "teaser": "Bayern-Trainer Vincent Kompany wird für das Bundesliga-Spiel gegen Köln am Freitag an die Seitenlinie zurückkehren. Heute nimmt der Chefcoach erstmals seit seinem Zusammenbruch wieder an einer Pressekonferenz teil.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/heute-vor-zehn-jahren-als-risse-zum-derbyhelden-wurde-1162810/video",
+   "title": "Heute vor zehn Jahren: Als Risse zum Derbyhelden wurde",
+   "link": "https://www.kicker.de/heute-vor-zehn-jahren-als-risse-zum-derbyhelden-wurde-1162810/video",
+   "source": "kicker",
+   "published": "2026-11-19T07:54:58Z",
+   "teaser": "An den 19. November 2016 erinnern sich die Fans des 1. FC Köln gerne zurück. Es ist der Tag, an dem Marcel Risse zum Derbyhelden wurde. Sein legendäres Freistoßtor wurde später sogar zum \"Tor des Jahres 2016\".",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nun-trifft-er-auch-noch-scp-dauerbrenner-obermair-dreht-auf-1272594/artikel",
+   "title": "Nun trifft er auch noch: SCP-Dauerbrenner Obermair dreht auf",
+   "link": "https://www.kicker.de/nun-trifft-er-auch-noch-scp-dauerbrenner-obermair-dreht-auf-1272594/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T05:41:38Z",
+   "teaser": "In allen neun Punktspielen stand Raphael Obermair in der Startelf - in der Bundesliga, in die er immer wollte und beim SC Paderborn 07 gelangte. Mit dem Premierentor gegen Frankfurt setzte der 30-Jährige kürzlich eine weitere Anforderung …",
+   "clubs": [
+    91,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/neustart-nummer-3-kleindienst-benoetigt-weiter-geduld-1272693/artikel",
+   "title": "Neustart Nummer 3: Kleindienst benötigt weiter Geduld",
+   "link": "https://www.kicker.de/neustart-nummer-3-kleindienst-benoetigt-weiter-geduld-1272693/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T05:35:44Z",
+   "teaser": "Tim Kleindienst wollte nach seinem Seuchenjahr schon zu Beginn der Saison voll angreifen, das Vorhaben scheiterte jedoch. Seinem nächsten Anlauf nähert er sich weiter an, auch unter Alexander Blessin wartet eine zentrale Rolle - wenn es …",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/br/br-wird-am-freitag-spielen-bayern-boss-mit-musiala-update-102.html",
    "title": "\"Wird am Freitag spielen\": Dreesen kündigt Musiala-Rückkehr an",
@@ -133,7 +181,7 @@
    "title": "Eintracht Frankfurt bestätigt: Joti Chatzialexiou startet schon im Dezember als Sportvorstand",
    "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-bestaetigt-joti-chatzialexiou-startet-schon-im-dezember-100.html",
    "source": "Sportschau",
-   "published": "2026-11-18T12:34:21Z",
+   "published": "2026-11-18T12:25:07Z",
    "teaser": "Joti Chatzialexiou wird schon im Dezember seinen neuen Job als Sportvorstand bei Eintracht Frankfurt antreten – und damit zwei Monate früher als ursprünglich geplant. Damit kann sich der Krösche-Nachfolger schon um Wintertransfers kümmern.",
    "clubs": [
     91
@@ -2408,58 +2456,6 @@
    "published": "2026-11-07T19:55:02Z",
    "teaser": "Nach den Nebengeräuschen der letzten Wochen meldete sich Lennart Karl in den letzten Spielen auf dem Platz zurück. Aaron Danks fand lobende Worte für den Youngster.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/2-1-kraftakt-des-bvb-wiederkehrendes-muster-laesst-sich-nicht-wegignorieren-1269553/video",
-   "title": "2:1-Kraftakt des BVB: \"Wiederkehrendes Muster lässt sich nicht wegignorieren\"",
-   "link": "https://www.kicker.de/2-1-kraftakt-des-bvb-wiederkehrendes-muster-laesst-sich-nicht-wegignorieren-1269553/video",
-   "source": "kicker",
-   "published": "2026-11-07T18:52:57Z",
-   "teaser": "Mit einem Sieg gegen Elversberg verabschiedete sich der BVB in die Länderspielpause. Doch auch die drei Punkte können zwei Probleme, die die Dortmunder durch die gesamte bisherige Spielzeit begleiten, nicht kaschieren.",
-   "clubs": [
-    7,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/leipziger-heimwerker-liefern-glaube-in-demichelis-gestaerkt-1269541/video",
-   "title": "Leipziger Heimwerker liefern: \"Glaube in Demichelis gestärkt\"",
-   "link": "https://www.kicker.de/leipziger-heimwerker-liefern-glaube-in-demichelis-gestaerkt-1269541/video",
-   "source": "kicker",
-   "published": "2026-11-07T18:32:37Z",
-   "teaser": "Der deutliche Sieg gegen Augsburg sorgte in Leipzig für große Genugtuung. Es ist eine Bestätigung für den Weg, der im Sommer mit dem neuen Coach Martin Demichelis eingeschlagen wurde.",
-   "clubs": [
-    1635,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gibt-nicht-viele-die-besser-sind-bvb-feiert-matchwinner-nmecha-1269520/artikel",
-   "title": "\"Gibt nicht viele, die besser sind\": BVB feiert Matchwinner Nmecha",
-   "link": "https://www.kicker.de/gibt-nicht-viele-die-besser-sind-bvb-feiert-matchwinner-nmecha-1269520/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T18:24:02Z",
-   "teaser": "Felix Nmecha war am Samstag Dortmunds Matchwinner gegen die SV Elversberg. Große Worte gab es für den Mittelfeldmann anschließend von Sportdirektor Ole Book.",
-   "clubs": [
-    7,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/tietz-nach-ueber-vierminuetigem-var-check-ganz-kurios-wie-das-abgelaufen-ist-1269518/artikel",
-   "title": "Tietz nach über vierminütigem VAR-Check: \"Ganz kurios, wie das abgelaufen ist\"",
-   "link": "https://www.kicker.de/tietz-nach-ueber-vierminuetigem-var-check-ganz-kurios-wie-das-abgelaufen-ist-1269518/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T18:19:48Z",
-   "teaser": "Die Trendwende blieb aus, das1:2 gegen Bayern war die vierte Mainzer Niederlage in Folge - und dennoch war man beim FSV nicht unzufrieden. Mit einer Ausnahme: das nicht gegebene Tor kurz vor der Halbzeit.",
-   "clubs": [
-    40,
-    81
-   ],
    "transfer": false
   }
  ]
