@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T19:32:49Z",
+ "updated": "2026-11-19T01:27:01Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,18 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/br/br-wird-am-freitag-spielen-bayern-boss-mit-musiala-update-102.html",
+   "title": "\"Wird am Freitag spielen\": Dreesen kündigt Musiala-Rückkehr an",
+   "link": "https://www.sportschau.de/regional/br/br-wird-am-freitag-spielen-bayern-boss-mit-musiala-update-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-18T22:18:28Z",
+   "teaser": "Jan-Christian Dreesen, Vorstandsvorsitzender des FC Bayern München, stellt ein Comeback von Jamal Musiala bereits am Freitag in Aussicht und spricht über die Aussagen von Uli Hoeneß zum Dribbelkünstler.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
   {
    "id": "https://www.kicker.de/comeback-gegen-koeln-kompany-sitzt-wieder-auf-der-bayern-bank-1272669/artikel",
    "title": "Comeback gegen Köln: Kompany sitzt wieder auf der Bayern-Bank",
@@ -2447,19 +2459,6 @@
    "clubs": [
     40,
     81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/elversberg-coach-wagner-zu-kovac-bleibt-so-lange-es-geht-oben-dran-1269533/video",
-   "title": "Elversberg-Coach Wagner zu Kovac: \"Bleibt so lange es geht oben dran\"",
-   "link": "https://www.kicker.de/elversberg-coach-wagner-zu-kovac-bleibt-so-lange-es-geht-oben-dran-1269533/video",
-   "source": "kicker",
-   "published": "2026-11-07T18:13:23Z",
-   "teaser": "Der bekennende BVB-Fan Vincent Wagner sprach nach dem Auftritt mit seinem Team in Dortmund über das offene Meisterschaftsrennen.",
-   "clubs": [
-    7,
-    198
    ],
    "transfer": false
   }
