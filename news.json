@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T09:26:22Z",
+ "updated": "2026-11-19T18:36:57Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,344 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/die-grosse-nordderby-reportage-vorteil-werder-oder-vuskovic-boost-fuer-den-hsv-1273097/video",
+   "title": "Die große Nordderby-Reportage: Vorteil Werder oder Vuskovic-Boost für den HSV?",
+   "link": "https://www.kicker.de/die-grosse-nordderby-reportage-vorteil-werder-oder-vuskovic-boost-fuer-den-hsv-1273097/video",
+   "source": "kicker",
+   "published": "2026-11-19T17:59:10Z",
+   "teaser": "Das Nordderby zwischen Werder Bremen und dem Hamburger SV am 10. Spieltag der Bundesliga könnte so emotional werden wie lange nicht. In unserer Reportage vor dem Rivalenduell sprechen wir unter anderem mit einem, der für beide Vereine …",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/scherhant-und-treu-hochgelobte-sollen-am-boden-bleiben-1273088/artikel",
+   "title": "Scherhant und Treu: Hochgelobte sollen am Boden bleiben",
+   "link": "https://www.kicker.de/scherhant-und-treu-hochgelobte-sollen-am-boden-bleiben-1273088/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T17:56:15Z",
+   "teaser": "Als Tabellendritter reist der SC Freiburg zum stark gestarteten Aufsteiger Elversberg, und kann dabei nicht nur auf seine Nationalspieler setzen.",
+   "clubs": [
+    112,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/blessin-vergleicht-kleindienst-mit-fuellkrug-sehe-ihn-in-der-gleichen-position-1273089/video",
+   "title": "Blessin vergleicht Kleindienst mit Füllkrug: \"Sehe ihn in der gleichen Position\"",
+   "link": "https://www.kicker.de/blessin-vergleicht-kleindienst-mit-fuellkrug-sehe-ihn-in-der-gleichen-position-1273089/video",
+   "source": "kicker",
+   "published": "2026-11-19T17:20:40Z",
+   "teaser": "Gladbach-Coach Alexander Blessin spricht über Tim Kleindienst, der kurz vor seinem Comeback steht. Dabei zieht er einen Vergleich zur Situation von Niclas Füllkrug bei Werder Bremen.",
+   "clubs": [
+    87,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-empfaengt-hoffenheim-huetter-puzzelt-und-bangt-um-uzun-100.html",
+   "title": "Frankfurt empfängt Hoffenheim: Hütter puzzelt und bangt um Uzun",
+   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-empfaengt-hoffenheim-huetter-puzzelt-und-bangt-um-uzun-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-19T17:06:51Z",
+   "teaser": "Personell gibt es bei Eintracht Frankfurt vor dem Heimspiel gegen die TSG Hoffenheim einige Fragezeichen und Rätsel. An der Seitenlinie kommt es zum Duell Mentor gegen Lehrling.",
+   "clubs": [
+    91,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bundesliga-kommt-mit-vier-klassischen-duellen-zurueck,bundesliga-spieltag-zehn-202.html",
+   "title": "Bundesliga kommt mit vier Traditions-Duellen zurück",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bundesliga-kommt-mit-vier-klassischen-duellen-zurueck,bundesliga-spieltag-zehn-202.html",
+   "source": "Sportschau",
+   "published": "2026-11-19T17:02:03Z",
+   "teaser": "Die Bundesliga kommt aus der Länderspielpause zurück - und wie! Mit vier direkten Duellen aus den Top 10 der ewigen Bundesliga-Tabelle. Den Anfang machen am Freitag der FC Bayern München und der FC aus Köln.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/reis-vor-dem-derby-ueber-seine-form-hasskommentare-und-vuskovic-1273068/artikel",
+   "title": "Reis vor dem Derby über seine Form, Hasskommentare und Vuskovic",
+   "link": "https://www.kicker.de/reis-vor-dem-derby-ueber-seine-form-hasskommentare-und-vuskovic-1273068/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T16:53:31Z",
+   "teaser": "Auf Ludovit Reis wartet am Sonntag ein ganz besonderes Spiel: Nordderby mit Werder gegen Ex-Verein HSV. Um die Besonderheit des Duells machte der Mittelfeldmann keinen Hehl. Eine klare Botschaft hat er in Richtung der Kommentare einiger …",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/huetter-ueber-gemeinsame-vergangenheit-mit-ilzer-da-mochten-wir-uns-noch-nicht-so-1273076/video",
+   "title": "Hütter über gemeinsame Vergangenheit mit Ilzer: \"Da mochten wir uns noch nicht so\"",
+   "link": "https://www.kicker.de/huetter-ueber-gemeinsame-vergangenheit-mit-ilzer-da-mochten-wir-uns-noch-nicht-so-1273076/video",
+   "source": "kicker",
+   "published": "2026-11-19T16:28:51Z",
+   "teaser": "Vor dem Duell zwischen Eintracht Frankfurt und der TSG Hoffenheim spricht Eintracht-Coach Adi Hütter über die gemeinsame Vergangenheit zwischen ihm und TSG-Trainer Christian Ilzer.",
+   "clubs": [
+    91,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/unglaubliche-jahre-potulski-verlaengert-vorzeitig-in-mainz-1273047/artikel",
+   "title": "\"Unglaubliche\" Jahre: Potulski verlängert vorzeitig in Mainz",
+   "link": "https://www.kicker.de/unglaubliche-jahre-potulski-verlaengert-vorzeitig-in-mainz-1273047/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T16:04:50Z",
+   "teaser": "Kacper Potulski bleibt Mainz 05 langfristig erhalten. Der 19 Jahre alte Innenverteidiger hat seinen Vertrag vorzeitig verlängert und soll am Bruchweg weiter reifen.",
+   "clubs": [
+    81
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "\"Das ist nichts mehr für mich\": Banega beendet Karriere - Potulski bleibt in Mainz",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T16:00:00Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [
+    81
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Mario-Vuskovic-Analyse,hsv-2400.html",
+   "title": "\"Fehlen entscheidende Jahre\" - Kann Mario Vuskovic dem HSV wirklich helfen?",
+   "link": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Mario-Vuskovic-Analyse,hsv-2400.html",
+   "source": "Sportschau",
+   "published": "2026-11-19T15:56:43Z",
+   "teaser": "Die Dopingsperre hat die Karriere von Mario Vuskovic abrupt unterbrochen. Kann der HSV-Profi die verlorenen Jahre aufholen? Das sagen Sportmedizinier und Daten-Analysten.",
+   "clubs": [
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/klopp-team-als-vorbild-diese-eigenschaft-will-lustrinelli-union-verleihen-1273029/artikel",
+   "title": "Klopp-Team als Vorbild: Diese Eigenschaft will Lustrinelli Union verleihen",
+   "link": "https://www.kicker.de/klopp-team-als-vorbild-diese-eigenschaft-will-lustrinelli-union-verleihen-1273029/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T15:15:00Z",
+   "teaser": "Die sportliche Krise bei Union Berlin ist handfest - und das Problem liegt auf der Hand: Die Köpenicker sind offensiv zu zahnlos unterwegs. Dahingehend hat sich Trainer Mauro Lustrinelli inspirieren lassen.",
+   "clubs": [
+    80
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/kettemann-wird-wegen-michel-deutlich-nicht-gut-dass-er-das-nach-aussen-sagt-1273012/artikel",
+   "title": "Kettemann wird wegen Michel deutlich: \"Nicht gut, dass er das nach außen sagt\"",
+   "link": "https://www.kicker.de/kettemann-wird-wegen-michel-deutlich-nicht-gut-dass-er-das-nach-aussen-sagt-1273012/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T15:08:25Z",
+   "teaser": "Paderborns Sven Michel machte jüngst Unzufriedenheit über seine Reservistenrolle öffentlich. Vor dem Duell mit Bayer Leverkusen erklärte SCP-Coach Ralf Kettemann, warum ihn weniger die Kritik als der gewählte Weg störte.",
+   "clubs": [
+    6,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nicolas-oder-batz-blessin-pokert-im-gladbach-tor-1273014/artikel",
+   "title": "Nicolas oder Batz? Blessin pokert im Gladbach-Tor",
+   "link": "https://www.kicker.de/nicolas-oder-batz-blessin-pokert-im-gladbach-tor-1273014/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T14:53:50Z",
+   "teaser": "Die Hierarchie im Tor von Borussia Mönchengladbach schien klar zu sein, Alexander Blessin hatte sich in der Vergangenheit zu Moritz Nicolas als Nummer eins bekannt. Doch Vertreter Daniel Batz hinterließ mit seinem Bewerbungsschreiben …",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/stiller-in-aller-munde-nicht-nur-in-positivem-sinne-1273000/artikel",
+   "title": "Stiller in aller Munde - nicht nur in positivem Sinne",
+   "link": "https://www.kicker.de/stiller-in-aller-munde-nicht-nur-in-positivem-sinne-1273000/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T14:39:27Z",
+   "teaser": "Angelo Stiller ist zweifellos ein wichtiger Pfeiler des Stuttgarter Spiels und entsprechend immer ein Gesprächsthema. Zuletzt häufte sich aber die Kritik.",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hoeness-adelt-stiller-der-erfolg-ist-sehr-eng-mit-seinem-namen-verbunden-1273037/video",
+   "title": "Hoeneß adelt Stiller: \"Der Erfolg ist sehr eng mit seinem Namen verbunden\"",
+   "link": "https://www.kicker.de/hoeness-adelt-stiller-der-erfolg-ist-sehr-eng-mit-seinem-namen-verbunden-1273037/video",
+   "source": "kicker",
+   "published": "2026-11-19T14:38:10Z",
+   "teaser": "Nach seiner Verletzung im Adduktorenbereich ist Angelo Stiller nicht mehr weit weg von einem Einsatz. Der defensive Mittelfeldspieler ist für Sebastian Hoeneß eine sehr wichtige Figur, wie der VfB-Coach betont.",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-musiala-und-die-fcb-zweifel-kompany-kontert-hoeness-diplomatisch-102.html",
+   "title": "Musiala und die FCB-Zweifel: Kompany kontert Hoeneß diplomatisch",
+   "link": "https://www.sportschau.de/regional/br/br-musiala-und-die-fcb-zweifel-kompany-kontert-hoeness-diplomatisch-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-19T14:29:10Z",
+   "teaser": "Jamal Musiala steht weiter im Mittelpunkt der Debatte beim FC Bayern. Während die Führungsetage die Entwicklung des Nationalspielers vorsichtig bewertet, setzt Trainer Vincent Kompany auf Vertrauen, Geduld und seine Rückkehr zur Bestform.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/ndr/Bundesliga-Werder-Bremen-HSV-Nordderby-Reis,werder-710.html",
+   "title": "Bundesliga: Ex-HSV-Kapitän Reis vor erstem Nordderby als Werder-Profi",
+   "link": "https://www.sportschau.de/regional/ndr/Bundesliga-Werder-Bremen-HSV-Nordderby-Reis,werder-710.html",
+   "source": "Sportschau",
+   "published": "2026-11-19T14:04:30Z",
+   "teaser": "Vier Jahre spielte Ludovit Reis für den HSV, führte die Mannschaft beim Bundesliga-Aufstieg als Kapitän an. Am Sonntag steht sein erstes Nordderby im Bremer Trikot an.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/schlotterbeck-tah-thiaw-wer-soll-verteidigen,bundesliga-update-ausblick-laenderspiele-november-102.html",
+   "title": "Wie kommt Schalke möglichst bald aus der Krise?",
+   "link": "https://www.sportschau.de/schlotterbeck-tah-thiaw-wer-soll-verteidigen,bundesliga-update-ausblick-laenderspiele-november-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-19T13:53:11Z",
+   "teaser": "Mit Blick auf die Tabelle hat Schalke ein riesengroßes Problem. Platz 17 in der Bundesliga. Nur sechs Punkte und was vor allem schwer wiegt: Schalke hat in neun Spielen erst fünf Tore erzielt. Aber es gibt Hoffnung für Königsblau.",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/demichelis-mahnende-worte-an-gruda-1272986/artikel",
+   "title": "Demichelis' mahnende Worte an Gruda",
+   "link": "https://www.kicker.de/demichelis-mahnende-worte-an-gruda-1272986/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T13:45:36Z",
+   "teaser": "Nationalmannschafts-Durchstarter Brajan Gruda ist wieder zurück bei RB Leipzig, wo ihn Trainer Martin Demichelis nach dem Länderspiel-Debüt und vor dem Duell bei Union Berlin besonders in die Pflicht nimmt.",
+   "clubs": [
+    1635,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bei-zieler-deutet-sich-ein-verbleib-beim-1-fc-koeln-an-1272527/artikel",
+   "title": "Bei Zieler deutet sich ein Verbleib beim 1. FC Köln an",
+   "link": "https://www.kicker.de/bei-zieler-deutet-sich-ein-verbleib-beim-1-fc-koeln-an-1272527/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T13:11:02Z",
+   "teaser": "Seit anderthalb Jahren führt Ron-Robert Zieler die Aufgabe als Nummer 2 des 1. FC Köln vorbildlich durch. Gut möglich ist, dass es für den Weltmeister von 2014 deshalb in seiner Heimatstadt weitergeht.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/vor-borussen-duell-drei-fragezeichen-beim-bvb-1272969/artikel",
+   "title": "Vor Borussen-Duell: Drei Fragezeichen beim BVB",
+   "link": "https://www.kicker.de/vor-borussen-duell-drei-fragezeichen-beim-bvb-1272969/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T13:08:41Z",
+   "teaser": "Borussia Dortmund hatte sich mit einer Serie von sieben Partien ohne Niederlage in die Länderspielpause verabschiedet. Vor dem Duell mit Gladbach drohen Niko Kovac drei Ausfälle.",
+   "clubs": [
+    7,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/es-ist-deutlich-entspannter-bvb-vorfreude-auf-die-naechsten-acht-spiele-1272990/video",
+   "title": "\"Es ist deutlich entspannter\": BVB-Vorfreude auf die nächsten acht Spiele",
+   "link": "https://www.kicker.de/es-ist-deutlich-entspannter-bvb-vorfreude-auf-die-naechsten-acht-spiele-1272990/video",
+   "source": "kicker",
+   "published": "2026-11-19T12:54:45Z",
+   "teaser": "Nach der ersten Länderspielpause hat Borussia Dortmund dreimal in Folge nicht gewonnen. Niko Kovac will das diesmal verhindern. kicker-Reporter Patrick Kleinmann berichtet aus Dortmund.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kovac-ueber-gta-6-hoffe-nicht-dass-meine-jungs-bis-in-die-nacht-gespielt-haben-1272971/video",
+   "title": "Kovac über GTA 6: \"Hoffe nicht, dass meine Jungs bis in die Nacht gespielt haben\"",
+   "link": "https://www.kicker.de/kovac-ueber-gta-6-hoffe-nicht-dass-meine-jungs-bis-in-die-nacht-gespielt-haben-1272971/video",
+   "source": "kicker",
+   "published": "2026-11-19T12:21:32Z",
+   "teaser": "Zum Start des Videospiels GTA 6 erklärte Niko Kovac, dass er keine Konsole besitze. Der BVB-Trainer hofft, dass seine Spieler sich jetzt nicht die Nächte um die Ohren hauen.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/zu-teuer-fuer-die-bank-fuer-esteve-spricht-in-leipzig-die-zeit-1272651/artikel",
+   "title": "Zu teuer für die Bank: Für Esteve spricht in Leipzig die Zeit",
+   "link": "https://www.kicker.de/zu-teuer-fuer-die-bank-fuer-esteve-spricht-in-leipzig-die-zeit-1272651/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T12:04:23Z",
+   "teaser": "25 Millionen Euro gab RB Leipzig im Sommer für Innenverteidiger Maxime Esteve aus. Aktuell muss sich der Franzose noch hinten anstellen. Spätestens ab dem kommenden Sommer soll das anders sein.",
+   "clubs": [
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/das-bundesliga-quiz-zum-10-spieltag-1272942/artikel",
+   "title": "Das Bundesliga-Quiz zum 10. Spieltag",
+   "link": "https://www.kicker.de/das-bundesliga-quiz-zum-10-spieltag-1272942/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T11:45:32Z",
+   "teaser": "Das 111. Bundesliga-Nordderby steht an, Dortmund trifft auswärts im Borussenduell auf Gladbach und für Köln geht es nach einer 1:5-Niederlage in der Vorsaison um Wiedergutmachung gegen die Bayern. Wie gut bist du auf den 10. Spieltag …",
+   "clubs": [
+    40,
+    7,
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/sogar-der-kaiser-schimpfte-wieses-kung-fu-tritt-gegen-olic-1171557/video",
+   "title": "Sogar der Kaiser schimpfte: Wieses Kung-Fu-Tritt gegen Olic",
+   "link": "https://www.kicker.de/sogar-der-kaiser-schimpfte-wieses-kung-fu-tritt-gegen-olic-1171557/video",
+   "source": "kicker",
+   "published": "2026-11-19T11:31:50Z",
+   "teaser": "Werder-Keeper Tim Wiese lässt sich im Nord-Derby zu einer brutalen Aktion hinreißen. Kung-Fu-Tritt, Skandal-Foul, Körperverletzung: Bei diesen Beschreibungen bräuchte man die Szene nicht einmal zu sehen, um zu sagen: \"Das kann nur Rot …",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-trainer-wagner-spuert-keinen-druck-vom-fc-100.html",
+   "title": "Trainer Wagner spürt keinen Druck vom FC",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-trainer-wagner-spuert-keinen-druck-vom-fc-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-19T10:05:00Z",
+   "teaser": "Kölns Trainer fordert Mut und gibt seinen Spielern maximale Freiheit. Doch der FC muss langsam liefern – auch in München.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/im-live-ticker-kompanys-erste-bayern-pk-seit-seinem-zusammenbruch-1272888/artikel",
    "title": "LIVE!-Ticker: Kompanys erste PK seit seinem Zusammenbruch - \"Bin sehr gesund\"",
@@ -213,16 +551,6 @@
     198
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Mata beendet Karriere - Di Salvo entscheidet sich erst nächstes Jahr",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-18T10:21:07Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/keine-trainerdiskussion-beim-fca-aber-ein-wegweisendes-programm-1272574/artikel",
@@ -2134,328 +2462,6 @@
    "clubs": [
     16
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-hoeness-kompany-comeback-in-zwei-drei-wochen-102.html",
-   "title": "Hoeneß kündigt Kompany-Comeback \"in zwei, drei Wochen\" an",
-   "link": "https://www.sportschau.de/regional/br/br-hoeness-kompany-comeback-in-zwei-drei-wochen-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T12:07:41Z",
-   "teaser": "Nach seiner Hirnhautreizung könnte Vincent Kompany schon bald wieder beim FC Bayern an der Seitenlinie stehen. Uli Hoeneß rechnet mit einer Rückkehr des Cheftrainers nach der Länderspielpause.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hoeness-nennt-zeitpunkt-fuer-kompany-rueckkehr-und-sieht-musiala-dilemma-1269720/artikel",
-   "title": "Hoeneß nennt Zeitpunkt für Kompany-Rückkehr - und sieht Musiala-Dilemma",
-   "link": "https://www.kicker.de/hoeness-nennt-zeitpunkt-fuer-kompany-rueckkehr-und-sieht-musiala-dilemma-1269720/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T11:52:03Z",
-   "teaser": "Uli Hoeneß hat am Sonntag ein Update zum Zustand von Vincent Kompany gegeben. Die Personalie Jamal Musiala sieht der Ehrenpräsident des FC Bayern deutlich problematischer.",
-   "clubs": [
-    40
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193615/tsg-hoffenheim_fc-schalke-04/info",
-   "title": "Ab 19.30 Uhr live - Schalke kann Hoffenheim in den Keller ziehen",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193615/tsg-hoffenheim_fc-schalke-04/info",
-   "source": "Sportschau",
-   "published": "2026-11-08T11:18:30Z",
-   "teaser": "Zuletzt bot der FC Schalke 04 zähe Vorstellungen und rutschte in den Tabellenkeller ab. Gelingt in Sinsheim die Wende?",
-   "clubs": [
-    175,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193624/sc-freiburg_1-fc-union-berlin/liveticker",
-   "title": "Ab 17.30 Uhr live - Union Berlin in Freiburg unter Druck",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193624/sc-freiburg_1-fc-union-berlin/liveticker",
-   "source": "Sportschau",
-   "published": "2026-11-08T11:15:53Z",
-   "teaser": "Union Berlin braucht beim SC Freiburg einen Sieg, um den Abstiegs-Relegationsplatz zu verlassen. Die Freiburger waren in dieser Saison bislang weitestgehend souverän gegen Mannschaften aus dem Keller.",
-   "clubs": [
-    112,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-fan-nach-tribuenen-sturz-wieder-ansprechbar-100.html",
-   "title": "Frankfurt-Fan nach Tribünen-Sturz wieder ansprechbar",
-   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-fan-nach-tribuenen-sturz-wieder-ansprechbar-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T10:57:05Z",
-   "teaser": "Das Unentschieden von Eintracht Frankfurt beim SC Paderborn wurde von einem medizinischen Notfall im Gästeblock überschattet. Inzwischen gibt es zumindest leichte Entwarnung.",
-   "clubs": [
-    91,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/auswaertsfahrer-rekord-in-dortmund-fan-explosion-bei-der-sve-1269696/artikel",
-   "title": "Auswärtsfahrer-Rekord in Dortmund: Fan-Explosion bei der SVE",
-   "link": "https://www.kicker.de/auswaertsfahrer-rekord-in-dortmund-fan-explosion-bei-der-sve-1269696/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T10:31:24Z",
-   "teaser": "Die SV Elversberg hat nicht nur sportlichen einen steilen Aufstieg hingelegt. Auch die Fan-Zahlen sind in den vergangenen Jahren explodiert, was nun zu einem neuen Auswärtsfan-Rekord in Dortmund führte. Weniger positiv sind hingegen die …",
-   "clubs": [
-    7,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/obermairs-premiere-und-pieringers-showdown-mit-atubolu-1269649/artikel",
-   "title": "Obermairs Premiere und Pieringers Showdown mit Atubolu",
-   "link": "https://www.kicker.de/obermairs-premiere-und-pieringers-showdown-mit-atubolu-1269649/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T10:12:36Z",
-   "teaser": "Für zwei Spieler des Aufsteigers waren ihre Treffer am Samstag ein \"erstes Mal\" - wenn auch in unterschiedlicher Hinsicht. Am Ende reichten ihre Taten nicht für einen Sieg gegen Frankfurt, dennoch können beide dem 2:2 gegen die Eintracht …",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/neuer-sucht-spezialisten-auf-und-muss-sich-fragen-gefallen-lassen-1269677/artikel",
-   "title": "Neuer sucht Spezialisten auf - und muss sich Fragen gefallen lassen",
-   "link": "https://www.kicker.de/neuer-sucht-spezialisten-auf-und-muss-sich-fragen-gefallen-lassen-1269677/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T09:45:35Z",
-   "teaser": "Das Verletzungspech will bei Manuel Neuer nicht aufhören. Beim 2:1 in Mainz musste der Bayern-Kapitän noch vor der Halbzeit vom Platz. Eine Untersuchung beim Spezialisten soll nun eine genaue Diagnose liefern.",
-   "clubs": [
-    40,
-    81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/das-dritte-wiedersehen-kabaks-besonderer-draht-zu-den-knappen-1269654/artikel",
-   "title": "Das dritte Wiedersehen: Kabaks besonderer Draht zu den Knappen",
-   "link": "https://www.kicker.de/das-dritte-wiedersehen-kabaks-besonderer-draht-zu-den-knappen-1269654/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T09:29:18Z",
-   "teaser": "Schalke 04 zahlte einst viel Geld für den nun in Hoffenheim verteidigenden Abwehrrecken Ozan Kabak. Am Sonntag trifft der Nationalspieler der Türkei erneut auf seinen Ex-Klub.",
-   "clubs": [
-    175,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/raum-muenzt-frust-um-ging-mir-auf-den-sack-1269664/artikel",
-   "title": "Raum münzt Frust um: \"Ging mir auf den Sack\"",
-   "link": "https://www.kicker.de/raum-muenzt-frust-um-ging-mir-auf-den-sack-1269664/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T09:05:29Z",
-   "teaser": "Erstmals seit drei Jahren fehlt David Raum im DFB-Kader - prompt traf er gegen Augsburg. Danach sprach der Leipziger Kapitän über seinen Trotz-Jubel und sein Telefonat mit Jürgen Klopp.",
-   "clubs": [
-    1635,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fuellkrug-bricht-interview-ab-nee-danke-ciao-1269639/artikel",
-   "title": "Füllkrug bricht Interview ab: \"Nee. Danke. Ciao!\"",
-   "link": "https://www.kicker.de/fuellkrug-bricht-interview-ab-nee-danke-ciao-1269639/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T08:27:02Z",
-   "teaser": "Nach über einem Jahr ist Niclas Füllkrug ab Montag wieder Teil der Nationalmannschaft. Doch nach der 0:1-Niederlage in Stuttgart hatte der Stürmer des SV Werder Bremen überhaupt kein Interesse daran, über seine DFB-Rückkehr zu sprechen.",
-   "clubs": [
-    16,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-dortmunds-nmecha-vom-pechvogel-zum-matchwinner-100.html",
-   "title": "Borussia Dortmunds Felix Nmecha - vom Pechvogel zum Matchwinner",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-dortmunds-nmecha-vom-pechvogel-zum-matchwinner-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T08:16:20Z",
-   "teaser": "Nach einer kurzen Schwächephase meldet sich Felix Nmecha mit einem Doppelpack gegen Elversberg zurück beim BVB.",
-   "clubs": [
-    7,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nutzt-el-mala-bayers-schwachstelle-letzte-fragen-und-antworten-vor-leverkusen-koeln-1268815/artikel",
-   "title": "Nutzt El Mala Bayers Schwachstelle? Letzte Fragen und Antworten vor Leverkusen-Köln",
-   "link": "https://www.kicker.de/nutzt-el-mala-bayers-schwachstelle-letzte-fragen-und-antworten-vor-leverkusen-koeln-1268815/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T07:47:51Z",
-   "teaser": "Vor dem Aufeinandertreffen zwischen dem 1. FC Köln und Bayer 04 Leverkusen stehen beide Teams unter Druck. Der kicker beantwortet die wichtigsten Fragen vor dem Prestigeduell.",
-   "clubs": [
-    6,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/diese-zehn-aktiven-spielten-100-mal-bundesliga-fuer-zwei-klubs-1268363/slideshow",
-   "title": "Diese zehn Aktiven spielten 100-mal Bundesliga für zwei Klubs",
-   "link": "https://www.kicker.de/diese-zehn-aktiven-spielten-100-mal-bundesliga-fuer-zwei-klubs-1268363/slideshow",
-   "source": "kicker",
-   "published": "2026-11-08T07:47:05Z",
-   "teaser": "Nur zehn aktive Spieler der Bundesliga haben für zwei Bundesliga-Klubs die 100-Spiele-Marke geknackt. Einer von ihnen trifft am Sonntag auf seinen langjährigen Ex-Verein. Die zehn Profis im Überblick.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wer-uebertraegt-1-fc-koeln-gegen-bayer-04-leverkusen-heute-live-im-tv-stream-1269152/artikel",
-   "title": "Wer überträgt 1. FC Köln gegen Bayer 04 Leverkusen heute live im TV & Stream?",
-   "link": "https://www.kicker.de/wer-uebertraegt-1-fc-koeln-gegen-bayer-04-leverkusen-heute-live-im-tv-stream-1269152/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T05:00:00Z",
-   "teaser": "Derbystimmung am Rhein im Duell zwischen dem 1. FC Köln und Bayer 04 Leverkusen. Wo ihr die Partie heute live im TV und Stream verfolgen könnt, erfahrt ihr hier.",
-   "clubs": [
-    6,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/thioune-trotz-pleite-zufrieden-haben-uns-entwickelt-1269618/video",
-   "title": "Thioune trotz Pleite zufrieden: \"Haben uns entwickelt\"",
-   "link": "https://www.kicker.de/thioune-trotz-pleite-zufrieden-haben-uns-entwickelt-1269618/video",
-   "source": "kicker",
-   "published": "2026-11-07T23:05:31Z",
-   "teaser": "Trotz einer starken zweiten Halbzeit stand Werder Bremen nach 90 Minuten mit leeren Händen da. Trainer Daniel Thioune zeigte sich zufrieden mit der Leistung.",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/die-sportschau-am-samstag-in-voller-laenge,sportschau-am-samstag-re-live-0711-100.html",
-   "title": "Die Sportschau am Samstag in voller Länge",
-   "link": "https://www.sportschau.de/fussball/die-sportschau-am-samstag-in-voller-laenge,sportschau-am-samstag-re-live-0711-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-07T23:00:05Z",
-   "teaser": "Sehen Sie hier die Sportschau am Samstag mit Zusammenfassungen der Bundesliga, 2. Bundesliga und der 3. Liga.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/vfb-coach-hoeness-beeindruckt-spieler-konnten-eigentlich-nicht-mehr-1269616/video",
-   "title": "VfB-Coach Hoeneß beeindruckt: \"Spieler konnten eigentlich nicht mehr\"",
-   "link": "https://www.kicker.de/vfb-coach-hoeness-beeindruckt-spieler-konnten-eigentlich-nicht-mehr-1269616/video",
-   "source": "kicker",
-   "published": "2026-11-07T22:45:19Z",
-   "teaser": "Nach kräftezehrenden Wochen sicherte sich der VfB Stuttgart im letzten Spiel vor der Länderspielpause drei Punkte gegen Werder. Dementsprechend erleichtert war anschließend auch Coach Sebastian Hoeneß.",
-   "clubs": [
-    16,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/was-fuer-ein-spieler-rb-coach-demichelis-von-gruda-begeistert-1269612/video",
-   "title": "\"Was für ein Spieler\": RB-Coach Demichelis von Gruda begeistert",
-   "link": "https://www.kicker.de/was-fuer-ein-spieler-rb-coach-demichelis-von-gruda-begeistert-1269612/video",
-   "source": "kicker",
-   "published": "2026-11-07T22:25:31Z",
-   "teaser": "RB Leipzig bestätigt den starken Auftritt aus der Champions League gegen Manchester City auch gegen den FC Augsburg und gewinnt mit 5:2. Nach der Partie lobt Trainer Martin Demichelis sein Team.",
-   "clubs": [
-    1635,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-boxkampf-mit-chabot-ball-saugnapf-fuellkrug-ist-stolz-auf-seine-geile-truppe-1269568/artikel",
-   "title": "Nach \"Boxkampf\" mit Chabot: Ball-Saugnapf Füllkrug ist stolz auf seine \"geile Truppe\"",
-   "link": "https://www.kicker.de/nach-boxkampf-mit-chabot-ball-saugnapf-fuellkrug-ist-stolz-auf-seine-geile-truppe-1269568/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T21:15:00Z",
-   "teaser": "Von \"Angsthasenfußball\" wollte Werder-Coach Daniel Thioune nichts wissen, erkannte aber Schwächen. Genauso wie Niclas Füllkrug, der selbst eine menschliche Wand in seinem Rücken wusste und daraus das Positive zog.",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/stuttgarts-sieg-fuer-die-nerven-und-jetzt-die-beine-hoch-1269594/video",
-   "title": "Stuttgarts \"Sieg für die Nerven\" und jetzt \"die Beine hoch\"",
-   "link": "https://www.kicker.de/stuttgarts-sieg-fuer-die-nerven-und-jetzt-die-beine-hoch-1269594/video",
-   "source": "kicker",
-   "published": "2026-11-07T20:56:04Z",
-   "teaser": "Gegen Werder fuhr Stuttgart drei wichtige Punkte im Kampf um den Anschluss an das obere Tabellendrittel ein. Nun herrscht in der Länderspielpause eine deutlich größere Gelassenheit im Ländle.",
-   "clubs": [
-    16,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ich-musste-sofort-an-ihn-denken-kimmich-ueber-seinen-emotionalen-jubel-1269584/artikel",
-   "title": "\"Ich musste sofort an ihn denken\": Kimmich über seinen emotionalen Jubel",
-   "link": "https://www.kicker.de/ich-musste-sofort-an-ihn-denken-kimmich-ueber-seinen-emotionalen-jubel-1269584/artikel",
-   "source": "kicker",
-   "published": "2026-11-07T20:51:29Z",
-   "teaser": "Joshua Kimmich hat persönlich eine sehr schwierige Zeit hinter sich. In Mainz war er es, der die Bayern auf die Siegerstraße führte - seine Gedanken drehten sich nach seinem Tor aber um etwas ganz anderes.",
-   "clubs": [
-    40,
-    81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/trotz-aufwaertstrend-fischer-erinnert-an-verflixte-woche-1269578/video",
-   "title": "Trotz Aufwärtstrend: Fischer erinnert an \"verflixte Woche\"",
-   "link": "https://www.kicker.de/trotz-aufwaertstrend-fischer-erinnert-an-verflixte-woche-1269578/video",
-   "source": "kicker",
-   "published": "2026-11-07T20:15:18Z",
-   "teaser": "Gegen den FC Bayern kassierte Mainz eine knappe Pleite, doch die Mannschaft zeigte eine Leistungssteigerung. Diese erhob Coach Urs Fischer anschließend zum neuen Standard für die kommenden Wochen.",
-   "clubs": [
-    40,
-    81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/huetter-zu-burkardt-klopp-wuerde-mir-nicht-vorschlagen-was-ich-zu-tun-habe-1269577/video",
-   "title": "Hütter zu Burkardt: Klopp \"würde mir nicht vorschlagen, was ich zu tun habe\"",
-   "link": "https://www.kicker.de/huetter-zu-burkardt-klopp-wuerde-mir-nicht-vorschlagen-was-ich-zu-tun-habe-1269577/video",
-   "source": "kicker",
-   "published": "2026-11-07T20:15:07Z",
-   "teaser": "Jonathan Burkardt reagierte auf die Nicht-Nominierung für den DFB mit einem Doppelpack im SGE-Trikot. Trainer Adi Hütter wollte danach aber keine kritischen Worte an den Bundestrainer richten.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fischer-irritiert-vom-referee-was-soll-ich-jetzt-sagen-1269573/video",
-   "title": "Fischer irritiert vom Referee: \"Was soll ich jetzt sagen?\"",
-   "link": "https://www.kicker.de/fischer-irritiert-vom-referee-was-soll-ich-jetzt-sagen-1269573/video",
-   "source": "kicker",
-   "published": "2026-11-07T20:05:03Z",
-   "teaser": "Mainz 05 wurde nach Eingriff des VAR der Treffer zum 1:1 aufgrund einer Abseitsstellung aberkannt. Trainer Urs Fischer verstand allerdings nicht, warum der Schiedsrichter nach dem Check zuerst auf Tor entschieden hatte.",
-   "clubs": [
-    81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/karl-verdient-sich-danks-lob-zufrieden-mit-seiner-leistung-1269570/video",
-   "title": "Karl verdient sich Danks-Lob: \"Zufrieden mit seiner Leistung\"",
-   "link": "https://www.kicker.de/karl-verdient-sich-danks-lob-zufrieden-mit-seiner-leistung-1269570/video",
-   "source": "kicker",
-   "published": "2026-11-07T19:55:02Z",
-   "teaser": "Nach den Nebengeräuschen der letzten Wochen meldete sich Lennart Karl in den letzten Spielen auf dem Platz zurück. Aaron Danks fand lobende Worte für den Youngster.",
-   "clubs": [],
    "transfer": false
   }
  ]
