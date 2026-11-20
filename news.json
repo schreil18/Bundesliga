@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T08:25:15Z",
+ "updated": "2026-11-20T17:12:58Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,230 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-muenchen-gegen-1-fc-koeln,audiostream-bayern-muenchen-gegen-1-fc-koeln-106.html",
+   "title": "Live hören: Bayern München gegen 1. FC Köln - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-muenchen-gegen-1-fc-koeln,audiostream-bayern-muenchen-gegen-1-fc-koeln-106.html",
+   "source": "Sportschau",
+   "published": "2026-11-20T19:15:00Z",
+   "teaser": "10. Spieltag: Anpfiff des Spiels ist am 20.11.2026 um 20:30 Uhr. 1. FC Köln spielt in München.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/pyro-show-vor-dem-nordderby-fans-heizen-hsv-ein-1273295/video",
+   "title": "Pyro-Show vor dem Nordderby: Fans heizen HSV ein",
+   "link": "https://www.kicker.de/pyro-show-vor-dem-nordderby-fans-heizen-hsv-ein-1273295/video",
+   "source": "kicker",
+   "published": "2026-11-20T15:24:52Z",
+   "teaser": "Die HSV-Fans sind heiß auf das Nordderby gegen Werder Bremen. Das ließen sie auch Mannschaft und Trainerteam mit einer besonderen Aktion spüren.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/das-ist-auf-der-jhv-des-fc-bayern-zu-erwarten-1272987/artikel",
+   "title": "Das ist auf der JHV des FC Bayern zu erwarten",
+   "link": "https://www.kicker.de/das-ist-auf-der-jhv-des-fc-bayern-zu-erwarten-1272987/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T15:18:53Z",
+   "teaser": "Dem FC Bayern steht ein ereignisreiches Wochenende bevor - mit einer Jahreshauptversammlung am Samstag, die nicht ausufern dürfte.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/warum-neuer-gerade-in-brasilien-weilt-1273280/artikel",
+   "title": "Warum Neuer gerade in Brasilien weilt",
+   "link": "https://www.kicker.de/warum-neuer-gerade-in-brasilien-weilt-1273280/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T14:55:17Z",
+   "teaser": "Der FC Bayern muss derzeit noch auf Manuel Neuer verzichten. Der Kapitän setzt seine Reha derweil in Südamerika fort.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/geht-nicht-mehr-um-romantische-geschichte-kehrt-vuskovic-in-den-hsv-kader-zurueck-1273270/artikel",
+   "title": "\"Geht nicht mehr um romantische Geschichte\": Kehrt Vuskovic in den HSV-Kader zurück?",
+   "link": "https://www.kicker.de/geht-nicht-mehr-um-romantische-geschichte-kehrt-vuskovic-in-den-hsv-kader-zurueck-1273270/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T14:43:38Z",
+   "teaser": "Für Merlin Polzin ist das Duell mit Werder und Mentor Daniel Thioune eine besondere Angelegenheit. Der HSV-Coach setzt im Nordderby auf Selbstvertrauen, einen fitten Muheim und Rückkehrer Vieira. Und dann ist da noch die Vuskovic-Frage.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/mit-maza-gegen-paderborn-comeback-quintett-sorgt-fuer-haertefaelle-1273229/artikel",
+   "title": "Mit Maza gegen Paderborn: Comeback-Quintett sorgt für Härtefälle",
+   "link": "https://www.kicker.de/mit-maza-gegen-paderborn-comeback-quintett-sorgt-fuer-haertefaelle-1273229/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T14:39:22Z",
+   "teaser": "Gegen Paderborn kann Carles Martinez mit fünf länger verletzten Profis planen. Für den Trainer, der auch auf den angeschlagen von Marokkos Nationalteam zurückgekehrten Ibrahim Maza setzen kann, erhöhen sich damit die …",
+   "clubs": [
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/baum-klagt-nicht-ueber-ausfaelle-bringt-ein-paar-chancen-mit-sich-1273273/video",
+   "title": "Baum klagt nicht über Ausfälle: \"Bringt ein paar Chancen mit sich\"",
+   "link": "https://www.kicker.de/baum-klagt-nicht-ueber-ausfaelle-bringt-ein-paar-chancen-mit-sich-1273273/video",
+   "source": "kicker",
+   "published": "2026-11-20T14:27:06Z",
+   "teaser": "Vor dem Duell gegen 1. FSV Mainz 05 hat der FC Augsburg einige Personalsorgen - besonders in der Defensive. FCA-Trainer Manuel Baum sieht in der angespannten Situation aber auch Chancen.",
+   "clubs": [
+    81,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/blessin-setzt-nicolas-auf-die-bank-batz-beginnt-gegen-den-bvb-1273261/artikel",
+   "title": "Blessin setzt Nicolas auf die Bank: Batz beginnt gegen den BVB",
+   "link": "https://www.kicker.de/blessin-setzt-nicolas-auf-die-bank-batz-beginnt-gegen-den-bvb-1273261/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T14:27:02Z",
+   "teaser": "Daniel Batz hat seinem Trainer Alexander Blessin in der Abwesenheit von Moritz Nicolas genug Argumente geliefert, um die etatmäßige Nummer 1 auch gegen Dortmund zu verdrängen. Die wird sich mit der Backup-Rolle langfristig aber nicht …",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/thiounes-hintertuerchen-bei-weiser-und-gruell-und-moegliche-vertreter-im-nordderby-1273267/artikel",
+   "title": "Thiounes \"Hintertürchen\" bei Weiser und Grüll - und mögliche Vertreter im Nordderby",
+   "link": "https://www.kicker.de/thiounes-hintertuerchen-bei-weiser-und-gruell-und-moegliche-vertreter-im-nordderby-1273267/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T13:59:00Z",
+   "teaser": "Werder Bremen steht das womöglich heißeste Heimspiel der Saison bevor, ähnlich wie beim HSV plagen den SVW jedoch Personalsorgen. Trainer Daniel Thioune zeigte am Freitag auf, was für Mitchell Weiser und Marco Grüll im Nordderby möglich …",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-warum-gladbach-fuer-den-bvb-haerter-ist-als-bayern-100.html",
+   "title": "Warum Gladbach für den BVB härter ist als Bayern",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-warum-gladbach-fuer-den-bvb-haerter-ist-als-bayern-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-20T13:05:57Z",
+   "teaser": "Tabellenletzter gegen Titelanwärter: Für den BVB war Mönchengladbach zuletzt das schwierigere Auswärtspflaster als München.",
+   "clubs": [
+    40,
+    7,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/die-ganze-abwehr-stehen-gelassen-als-el-mala-den-bayern-davonlief-1272188/video",
+   "title": "Die ganze Abwehr stehen gelassen: Als El Mala den Bayern davonlief",
+   "link": "https://www.kicker.de/die-ganze-abwehr-stehen-gelassen-als-el-mala-den-bayern-davonlief-1272188/video",
+   "source": "kicker",
+   "published": "2026-11-20T12:53:17Z",
+   "teaser": "Gegen den schier übermächtigen FC Bayern hat Said El Mala für seine Kölner zumindest einen Nadelstich gesetzt - und was für einen. Am letzten Spieltag der Saison 25/26 tankte sich der Nationalspieler durch die komplette Hintermannschaft …",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fans-vor-dem-nordderby-fuellkrug-macht-pro-halbzeit-mindestens-eins-1273231/video",
+   "title": "Fans vor dem Nordderby: \"Füllkrug macht pro Halbzeit mindestens eins\"",
+   "link": "https://www.kicker.de/fans-vor-dem-nordderby-fuellkrug-macht-pro-halbzeit-mindestens-eins-1273231/video",
+   "source": "kicker",
+   "published": "2026-11-20T11:34:37Z",
+   "teaser": "Vor dem Nordderby war kicker-Moderator Marc Wiese in Bremen und Hamburg unterwegs, um sich die Prognosen der beiden Fanlager einzuholen.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/verletzung-bei-italiens-u-21-inacio-fehlt-dem-bvb-monatelang-1273202/artikel",
+   "title": "Verletzung bei Italiens U 21: Inacio fehlt dem BVB monatelang",
+   "link": "https://www.kicker.de/verletzung-bei-italiens-u-21-inacio-fehlt-dem-bvb-monatelang-1273202/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T10:27:30Z",
+   "teaser": "Ganz bittere Nachrichten für Borussia Dortmund: Sturm-Talent Samuele Inacio hat sich bei der italienischen U-21-Nationalmannschaft schwerer verletzt und wird nun monatelang fehlen.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kimmichs-traumtor-gegen-den-1-fc-koeln-1273195/video",
+   "title": "Kimmichs Traumtor gegen den 1. FC Köln",
+   "link": "https://www.kicker.de/kimmichs-traumtor-gegen-den-1-fc-koeln-1273195/video",
+   "source": "kicker",
+   "published": "2026-11-20T09:58:44Z",
+   "teaser": "Im Januar 2023 liegt der FC Bayern lange mit 0:1 gegen den 1. FC Köln zurück. Dann fasst sich Joshua Kimmich in der letzten Minute ein Herz aus der Distanz.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/rb/rb-sicherheit-beim-nordderby-das-sind-die-ansaetze-von-werder-und-polizei-100.html",
+   "title": "Sicherheit beim Nordderby: Das sind die Ansätze von Werder und Polizei",
+   "link": "https://www.sportschau.de/regional/rb/rb-sicherheit-beim-nordderby-das-sind-die-ansaetze-von-werder-und-polizei-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-20T09:58:17Z",
+   "teaser": "Beim letzten Spiel gegen den HSV im Weser-Stadion kam es zu Einsätzen von Pyrotechnik und Vandalismus in den Toiletten im Gästebereich. Daraus hat man Lehren gezogen.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Bei Müller ist \"alles offen\" - Real-Kapitän Fede Valverde vor Verlängerung",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T09:58:09Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-blessin-wechselt-im-abstiegskampf-den-torwart-100.html",
+   "title": "Blessin wechselt im Abstiegskampf den Torwart",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-blessin-wechselt-im-abstiegskampf-den-torwart-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-20T09:57:01Z",
+   "teaser": "Moritz Nicolas ist wieder fit, doch Daniel Batz bleibt nach WDR-Informationen im Tor. Blessin wechselt damit seine Nummer eins.",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/der-verflixte-10-spieltag-stuerzt-koeln-die-bayern-erneut-vom-thron-1271978/artikel",
+   "title": "Der verflixte 10. Spieltag: Stürzt Köln die Bayern erneut vom Thron?",
+   "link": "https://www.kicker.de/der-verflixte-10-spieltag-stuerzt-koeln-die-bayern-erneut-vom-thron-1271978/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T09:01:31Z",
+   "teaser": "Viermal musste der FC Bayern nach einer Niederlage gegen Köln die Tabellenführung abgeben, dreimal fand diese Partie am 10. Spieltag statt. Meister wurden die Münchner am Ende nie. Nun trifft der Ligaprimus erneut in dieser Runde auf den …",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/werder-setzt-auf-verbessertes-sicherheitskonzept,sicherheitskonzept-nordderby-100.html",
    "title": "Werder setzt auf verbessertes Sicherheitskonzept",
@@ -234,16 +458,6 @@
    "clubs": [
     81
    ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Bei Müller ist \"alles offen\" - Banega beendet Karriere",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T16:00:00Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
    "transfer": true
   },
   {
@@ -2233,224 +2447,6 @@
    "clubs": [
     112,
     80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
-   "title": "Ein Tor, aber keine Punkte für Schalke 04 gegen Hoffenheim",
-   "link": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T23:00:00Z",
-   "teaser": "Mal wieder ein Tor, aber kein Punkt: Der FC Schalke 04 hängt nach einer Niederlage bei der TSG Hoffenheim im Tabellenkeller der Fußball-Bundesliga fest und beklagt weitere Verletzte.",
-   "clubs": [
-    175,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/wann-laeuft-manuel-neuers-zeit-im-bayern-trikot-ab,bundesliga-update-wael-mohya-102.html",
-   "title": "Bundesliga Update: Wann läuft Manuel Neuers Zeit im Bayern-Trikot ab?",
-   "link": "https://www.sportschau.de/wann-laeuft-manuel-neuers-zeit-im-bayern-trikot-ab,bundesliga-update-wael-mohya-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T22:47:50Z",
-   "teaser": "Manuel Neuer ist bei Bayerns 2:1-Erfolg verletzt ausgewechselt worden. Mal wieder. Das befeuert die Debatte rund um den Weltmeister. Stehen wir vor einer Wachablösung im Tor der Bayern?",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/dauerbrenner-upamecano-und-acht-premieren-die-kicker-elf-des-9-spieltags-1269962/slideshow",
-   "title": "Dauerbrenner Upamecano und acht Premieren: Die kicker-Elf des 9. Spieltags",
-   "link": "https://www.kicker.de/dauerbrenner-upamecano-und-acht-premieren-die-kicker-elf-des-9-spieltags-1269962/slideshow",
-   "source": "kicker",
-   "published": "2026-11-08T22:04:45Z",
-   "teaser": "Der Hamburger SV besticht beim 3:1 gegen Gladbach und erobert zwei Plätze in der kicker-Elf des 9. Spieltags. Neben bekannten Gesichtern vom FC Bayern und Borussia Dortmund gibt es auch Premieren.",
-   "clubs": [
-    40,
-    7,
-    87,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/es-schaut-schlimm-aus-schalke-befuerchtet-schwere-gosens-verletzung-1269939/artikel",
-   "title": "\"Es schaut schlimm aus\": Schalke befürchtet schwere Gosens-Verletzung",
-   "link": "https://www.kicker.de/es-schaut-schlimm-aus-schalke-befuerchtet-schwere-gosens-verletzung-1269939/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T21:30:00Z",
-   "teaser": "Mit beachtlichem Widerstand trat der FC Schalke 04 bei der TSG Hoffenheim auf. Am Ende aber stand kein Punkt auf der Habenseite, stattdessen neue Personalsorgen.",
-   "clubs": [
-    175,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-der-pleite-von-freiburg-die-luft-in-koepenick-wird-duenner-1269936/artikel",
-   "title": "Nach der Pleite von Freiburg: Die Luft in Köpenick wird dünner",
-   "link": "https://www.kicker.de/nach-der-pleite-von-freiburg-die-luft-in-koepenick-wird-duenner-1269936/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T20:59:22Z",
-   "teaser": "Die Art und Weise, wie der 1. FC Union Berlin in Freiburg verloren hat, dürfte auch die Zweifel an Trainer Mauro Lustrinelli nähren. Immerhin gab Andrej Ilic sein Comeback.",
-   "clubs": [
-    112,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/neuer-auf-platz-6-die-aeltesten-bundesliga-spieler-der-geschichte-978377/slideshow",
-   "title": "Neuer auf Platz 6: Die ältesten Bundesliga-Spieler der Geschichte",
-   "link": "https://www.kicker.de/neuer-auf-platz-6-die-aeltesten-bundesliga-spieler-der-geschichte-978377/slideshow",
-   "source": "kicker",
-   "published": "2026-11-08T20:28:15Z",
-   "teaser": "Erst zwölf Spieler haben mit mindestens 40 Jahren ein Bundesliga-Spiel bestritten, darunter sechs Torhüter. Der \"jüngste\" Neuzugang in diesem Ranking ist Manuel Neuer, der erst Ende März seinen 40. Geburtstag gefeiert hat.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/freut-mich-fuer-die-beiden-wagner-lobt-el-mala-brueder-1269933/video",
-   "title": "\"Freut mich für die beiden\": Wagner lobt El-Mala-Brüder",
-   "link": "https://www.kicker.de/freut-mich-fuer-die-beiden-wagner-lobt-el-mala-brueder-1269933/video",
-   "source": "kicker",
-   "published": "2026-11-08T20:17:48Z",
-   "teaser": "Mit einer Kombination durch die Brüder Malek und Said El Mala gelang Köln gegen Leverkusen der späte Anschlusstreffer. Trainer René Wagner freut sich, auch wenn ihm ein Sieg lieber gewesen wäre.",
-   "clubs": [
-    6,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bayers-existenziell-wichtiger-derbysieg-und-der-schmale-grat-beim-effzeh-1269922/video",
-   "title": "Bayers \"existenziell wichtiger\" Derbysieg und der \"schmale Grat\" beim Effzeh",
-   "link": "https://www.kicker.de/bayers-existenziell-wichtiger-derbysieg-und-der-schmale-grat-beim-effzeh-1269922/video",
-   "source": "kicker",
-   "published": "2026-11-08T20:02:54Z",
-   "teaser": "Bayer Leverkusen konnte das Rheinderby gegen den 1. FC Köln für sich entscheiden und feierte mit dem 2:1 einen wichtigen Erfolg in der Liga. Bei Köln gibt es weiterhin mehrere Probleme.",
-   "clubs": [
-    6,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/martinez-aleix-hat-heute-perfekt-gespielt-1269917/video",
-   "title": "Martinez: \"Aleix hat heute perfekt gespielt\"",
-   "link": "https://www.kicker.de/martinez-aleix-hat-heute-perfekt-gespielt-1269917/video",
-   "source": "kicker",
-   "published": "2026-11-08T19:49:34Z",
-   "teaser": "Nach schwierigen Wochen fuhr die Werkself im rheinischen Derby gegen Köln drei Punkte ein. Trainer Carles Martinez lobte im Anschluss Torschütze Aleix Garcia, der zuletzt im Mittelpunkt der Kritik stand.",
-   "clubs": [
-    6,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193615/tsg-hoffenheim_fc-schalke-04/liveticker",
-   "title": "Jetzt live - Hoffenheim führt, Gosens und Karius knallen zusammen",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193615/tsg-hoffenheim_fc-schalke-04/liveticker",
-   "source": "Sportschau",
-   "published": "2026-11-08T19:33:52Z",
-   "teaser": "Hoffenheim führt im Heimspiel gegen Schalke 04 mit 2:1. Robin Gosens und Loris Karius müssen nach einem Zusammenprall beide vom Platz.",
-   "clubs": [
-    175,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/zwayer-liegt-meist-richtig-bringt-aber-nicht-genug-ruhe-rein-1269877/artikel",
-   "title": "Zwayer liegt meist richtig, bringt aber nicht genug Ruhe rein",
-   "link": "https://www.kicker.de/zwayer-liegt-meist-richtig-bringt-aber-nicht-genug-ruhe-rein-1269877/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T19:12:59Z",
-   "teaser": "Beim hitzigen Derby zwischen dem 1. FC Köln und Bayer Leverkusen muss Referee Felix Zwayer eine knifflige Entscheidungen treffen.",
-   "clubs": [
-    6,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-adamu-staubt-ab-schalke-beendet-die-torflaute-1268819/artikel",
-   "title": "LIVE! Adamu staubt ab: Schalke beendet die Torflaute",
-   "link": "https://www.kicker.de/live-adamu-staubt-ab-schalke-beendet-die-torflaute-1268819/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T18:20:23Z",
-   "teaser": "Das inklusive Pokal seit sechs Partien sieglose Schalke lechzt nach Toren und Punkten. In Hoffenheim nehmen die Königsblauen hinsichtlich einer Trendwende einen neuen Anlauf.",
-   "clubs": [
-    175,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/derby-aerger-bei-el-mala-ein-bisschen-laecherlich-1269848/artikel",
-   "title": "Derby-Ärger bei El Mala: \"Ein bisschen lächerlich\"",
-   "link": "https://www.kicker.de/derby-aerger-bei-el-mala-ein-bisschen-laecherlich-1269848/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T18:19:14Z",
-   "teaser": "Nach der Derby-Niederlage gegen Leverkusen störte sich Kölns Torschütze Said El Mala an der Herangehensweise des Gegners - und wurde dabei deutlich.",
-   "clubs": [
-    6,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/tsg-hoffenheim-gegen-fc-schalke-04,audiostream-tsg-hoffenheim-gegen-fc-schalke-04-100.html",
-   "title": "Live hören: TSG Hoffenheim gegen FC Schalke 04 - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/tsg-hoffenheim-gegen-fc-schalke-04,audiostream-tsg-hoffenheim-gegen-fc-schalke-04-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T18:15:00Z",
-   "teaser": "9. Spieltag: Anpfiff des Spiels ist am 08.11.2026 um 19:30 Uhr. FC Schalke 04 spielt in Sinsheim.",
-   "clubs": [
-    175,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/olise-kane-und-co-als-joker-bayern-gewinnt-nach-0-3-rueckstand-1268598/video",
-   "title": "Olise, Kane und Co. als Joker: Bayern gewinnt nach 0:3-Rückstand",
-   "link": "https://www.kicker.de/olise-kane-und-co-als-joker-bayern-gewinnt-nach-0-3-rueckstand-1268598/video",
-   "source": "kicker",
-   "published": "2026-11-08T15:56:02Z",
-   "teaser": "Nachdem die Meisterschaft bereits feststand, rotierte Bayern-Coach Vincent Kompany im Saisonendspurt 25/26 kräftig durch. So mussten seine Super-Joker einen ordentlichen Rückstand zur Pause umbiegen.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/erster-sieg-nach-30-spielen-als-schalke-den-tasmania-rekord-abwendete-1268494/video",
-   "title": "Erster Sieg nach 30 Spielen: Als Schalke den Tasmania-Rekord abwendete",
-   "link": "https://www.kicker.de/erster-sieg-nach-30-spielen-als-schalke-den-tasmania-rekord-abwendete-1268494/video",
-   "source": "kicker",
-   "published": "2026-11-08T15:54:46Z",
-   "teaser": "Es ist Januar 2021, Schalke wartet seit fast einem ganzen Jahr auf einen Sieg. Gewinnt Königsblau auch gegen Hoffenheim nicht, ist Tasmanias Rekord von 31 Spielen ohne Sieg eingestellt. Doch Schalke hat eine Lösung parat und die heißt …",
-   "clubs": [
-    175,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wenn-wir-meinen-fussballerisch-mithalten-zu-koennen-1269674/artikel",
-   "title": "\"Wenn wir meinen, fußballerisch mithalten zu können …\"",
-   "link": "https://www.kicker.de/wenn-wir-meinen-fussballerisch-mithalten-zu-koennen-1269674/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T15:48:54Z",
-   "teaser": "Nach dem 2:5 in Leipzig befindet sich der FC Augsburg doch wieder im Abstiegskampf - und muss dringend den Reset-Knopf finden.",
-   "clubs": [
-    1635,
-    95
    ],
    "transfer": false
   }
