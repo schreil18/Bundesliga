@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:54:19Z",
+ "updated": "2026-11-20T08:25:15Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,53 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/werder-setzt-auf-verbessertes-sicherheitskonzept,sicherheitskonzept-nordderby-100.html",
+   "title": "Werder setzt auf verbessertes Sicherheitskonzept",
+   "link": "https://www.sportschau.de/fussball/bundesliga/werder-setzt-auf-verbessertes-sicherheitskonzept,sicherheitskonzept-nordderby-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-20T07:15:52Z",
+   "teaser": "Nachdem es zuletzt zu mehreren Ausschreitungen und Vorfällen mit Pyrotechnik kam, soll das Nordderby in Bremen sicherer werden. Dabei helfen soll ein verbessertes Sicherheitskonzept.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wer-uebertraegt-fc-bayern-muenchen-gegen-1-fc-koeln-live-im-tv-und-stream-1271330/artikel",
+   "title": "Wer überträgt FC Bayern München gegen 1. FC Köln live im TV und Stream?",
+   "link": "https://www.kicker.de/wer-uebertraegt-fc-bayern-muenchen-gegen-1-fc-koeln-live-im-tv-und-stream-1271330/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T06:30:00Z",
+   "teaser": "Zum Auftakt des 10. Spieltags steht das Traditions-Duell zwischen dem FC Bayern München und dem 1. FC Köln an. Wo ihr die Partei live im TV und Stream verfolgen könnt, erfahrt ihr hier.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bundesliga-trio-dabei-die-effizientesten-torschuetzen-der-top-5-ligen-1272577/slideshow",
+   "title": "Bundesliga-Trio dabei: Die effizientesten Torschützen der Top-5-Ligen",
+   "link": "https://www.kicker.de/bundesliga-trio-dabei-die-effizientesten-torschuetzen-der-top-5-ligen-1272577/slideshow",
+   "source": "kicker",
+   "published": "2026-11-20T06:23:45Z",
+   "teaser": "Die zehn treffsichersten Torjäger der fünf europäischen Top-Ligen - bezogen auf das Verhältnis Torausbeute im Vergleich zu abgegebenen Torschüssen - spielen in Italien, Frankreich, Spanien und der deutschen Bundesliga. Drei …",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/aus-der-misere-ins-ueberangebot-gladbachs-konkurrenzkampf-in-der-offensive-1273040/artikel",
+   "title": "Aus der Misere ins Überangebot: Gladbachs Konkurrenzkampf in der Offensive",
+   "link": "https://www.kicker.de/aus-der-misere-ins-ueberangebot-gladbachs-konkurrenzkampf-in-der-offensive-1273040/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T06:06:24Z",
+   "teaser": "Das Gladbacher Lazarett lichtete sich, die Optionen für Alexander Blessin werden größer. Besonders auf den offensiven Halbpositionen führt das schon bald zu einem engen Kampf um Spielzeit.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/guardiola-so-seid-ihr-deutschen-schon-immer-gewesen-1272656/artikel",
    "title": "Guardiola: \"So seid ihr Deutschen schon immer gewesen\"",
@@ -165,6 +212,19 @@
    "transfer": false
   },
   {
+   "id": "https://www.kicker.de/huetter-ueber-vergangenheit-mit-ilzer-da-mochten-wir-uns-noch-nicht-so-1273076/video",
+   "title": "Hütter über Vergangenheit mit Ilzer: \"Da mochten wir uns noch nicht so\"",
+   "link": "https://www.kicker.de/huetter-ueber-vergangenheit-mit-ilzer-da-mochten-wir-uns-noch-nicht-so-1273076/video",
+   "source": "kicker",
+   "published": "2026-11-19T16:28:51Z",
+   "teaser": "Vor dem Duell zwischen Eintracht Frankfurt und der TSG Hoffenheim spricht Eintracht-Coach Adi Hütter über die gemeinsame Vergangenheit zwischen ihm und TSG-Trainer Christian Ilzer.",
+   "clubs": [
+    91,
+    175
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/unglaubliche-jahre-potulski-verlaengert-vorzeitig-in-mainz-1273047/artikel",
    "title": "\"Unglaubliche\" Jahre: Potulski verlängert vorzeitig in Mainz",
    "link": "https://www.kicker.de/unglaubliche-jahre-potulski-verlaengert-vorzeitig-in-mainz-1273047/artikel",
@@ -178,14 +238,12 @@
   },
   {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "\"Das ist nichts mehr für mich\": Banega beendet Karriere - Potulski bleibt in Mainz",
+   "title": "Bei Müller ist \"alles offen\" - Banega beendet Karriere",
    "link": "https://www.kicker.de/transferticker-953155/artikel",
    "source": "kicker",
    "published": "2026-11-19T16:00:00Z",
    "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [
-    81
-   ],
+   "clubs": [],
    "transfer": true
   },
   {
@@ -2393,70 +2451,6 @@
    "clubs": [
     1635,
     95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193663/1-fc-koeln_bayer-leverkusen/liveticker",
-   "title": "Jetzt live - Findet Köln gegen Leverkusen zurück ins Spiel?",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193663/1-fc-koeln_bayer-leverkusen/liveticker",
-   "source": "Sportschau",
-   "published": "2026-11-08T15:39:11Z",
-   "teaser": "Bayer Leverkusen führt nach einem Freistoß von Garcia nach wie vor knapp mit 1:0. Die zweite Halbzeit beginnt bislang zerfahren, mit mehr Verwarnungen und Rudelbildungen als Torchancen.",
-   "clubs": [
-    6,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/als-die-koelner-bayers-titeltraeume-zerschossen-und-die-mannschaftskasse-verfeierten-1269229/video",
-   "title": "Als die Kölner Bayers Titelträume zerschossen - und die Mannschaftskasse verfeierten",
-   "link": "https://www.kicker.de/als-die-koelner-bayers-titeltraeume-zerschossen-und-die-mannschaftskasse-verfeierten-1269229/video",
-   "source": "kicker",
-   "published": "2026-11-08T15:35:41Z",
-   "teaser": "Wenn man einen so unerwarteten Kantersieg einfährt, dass man hinterher die Mannschaftskasse verfeiert. Genau das tat der 1. FC Köln am vorletzten Spieltag der Saison 1996/97 - und beendete damit die Titelträume von Bayer Leverkusen.",
-   "clubs": [
-    6,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-blitz-gelb-fuer-moore-und-rudelbildung-schick-prueft-schwaebe-1268812/artikel",
-   "title": "LIVE! Blitz-Gelb für Moore und Rudelbildung - Schick prüft Schwäbe",
-   "link": "https://www.kicker.de/live-blitz-gelb-fuer-moore-und-rudelbildung-schick-prueft-schwaebe-1268812/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T15:34:36Z",
-   "teaser": "Köln, in dieser Saison vor heimischer Kulisse noch unbesiegt, empfängt Besuch von Nachbar Leverkusen. Die Werkself gewann die letzten vier Duelle gegen den FC.",
-   "clubs": [
-    6,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/live-mit-treu-und-scherhant-gegen-union-bleibt-freiburg-oben-dran-1268816/artikel",
-   "title": "LIVE! Mit Treu und Scherhant gegen Union: Bleibt Freiburg oben dran?",
-   "link": "https://www.kicker.de/live-mit-treu-und-scherhant-gegen-union-bleibt-freiburg-oben-dran-1268816/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T15:27:54Z",
-   "teaser": "Der SC Freiburg empfängt Union Berlin - auf dem Papier eine klare Angelegenheit für die Breisgauer gegen bislang extrem auswärtsschwache Berliner (ein Punkt).",
-   "clubs": [
-    112,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-nmecha-verhalten-sorgt-beim-bvb-fuer-kritik-100.html",
-   "title": "BVB-Fanabteilung kritisiert Netzwerk hinter Nmechas Torjubel",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-nmecha-verhalten-sorgt-beim-bvb-fuer-kritik-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T15:14:00Z",
-   "teaser": "Felix Nmechas Unterstützung für die umstrittene \"The King's Return\"-Kampagne ist bekannt. Nun äußert sich die BVB-Fan- und Förderabteilung kritisch zu dem Netzwerk hinter der Kampagne.",
-   "clubs": [
-    7
    ],
    "transfer": false
   }
