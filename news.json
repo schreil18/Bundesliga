@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:36:57Z",
+ "updated": "2026-11-20T00:54:19Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,64 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/guardiola-so-seid-ihr-deutschen-schon-immer-gewesen-1272656/artikel",
+   "title": "Guardiola: \"So seid ihr Deutschen schon immer gewesen\"",
+   "link": "https://www.kicker.de/guardiola-so-seid-ihr-deutschen-schon-immer-gewesen-1272656/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T22:45:13Z",
+   "teaser": "Beim FC Bayern hat Pep Guardiola einst seine erste Auslands-Erfahrung als Cheftrainer gemacht. Auf die Zeit in Deutschland blickt der Spanier gerne zurück.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/dortmunds-doppelt-auffaellige-werte-1272955/artikel",
+   "title": "Dortmunds doppelt auffällige Werte",
+   "link": "https://www.kicker.de/dortmunds-doppelt-auffaellige-werte-1272955/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T22:22:13Z",
+   "teaser": "Zwei Statistiken zeigen auf, wo Borussia Dortmund in der laufenden Bundesliga-Saison noch viel Luft nach oben hat. Das bestätigt auch Trainer Niko Kovac.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nur-einer-liess-mehr-liegen-kanes-ueberraschend-schwacher-xgoals-wert-1272876/slideshow",
+   "title": "Nur einer ließ mehr liegen: Kanes überraschend schwacher xGoals-Wert",
+   "link": "https://www.kicker.de/nur-einer-liess-mehr-liegen-kanes-ueberraschend-schwacher-xgoals-wert-1272876/slideshow",
+   "source": "kicker",
+   "published": "2026-11-19T21:42:06Z",
+   "teaser": "In neun Bundesliga-Spielen hat Harry Kane in dieser Saison erst vier Tore erzielt. An Torchancen mangelte es dem Ballon-d'Or-Sieger jedoch nicht. Zieht man seinen xGoals-Wert vom Ertrag ab, weist in Europas Top-5-Ligen aktuell nur ein …",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/schuster-ueber-lob-fuer-scherhant-und-treu-hilft-nicht-automatisch-1273111/video",
+   "title": "Schuster über Lob für Scherhant und Treu: \"Hilft nicht automatisch\"",
+   "link": "https://www.kicker.de/schuster-ueber-lob-fuer-scherhant-und-treu-hilft-nicht-automatisch-1273111/video",
+   "source": "kicker",
+   "published": "2026-11-19T19:34:44Z",
+   "teaser": "Derry Scherhant und Philipp Treu erhielten viel Lob für ihre Leistungen bei der deutschen Nationalmannschaft. Freiburg-Trainer Julian Schuster stellte klar, dass der Zuspruch nicht automatisch hilft, künftige Aufgaben zu bewältigen.",
+   "clubs": [
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/dzekos-besondere-rolle-rund-um-die-nervige-heimtor-flaute-1273091/artikel",
+   "title": "Dzekos besondere Rolle rund um die nervige Heimtor-Flaute",
+   "link": "https://www.kicker.de/dzekos-besondere-rolle-rund-um-die-nervige-heimtor-flaute-1273091/artikel",
+   "source": "kicker",
+   "published": "2026-11-19T19:09:02Z",
+   "teaser": "Edin Dzeko und Co. brennen auf Schalkes erstes Arena-Tor in dieser Saison. Der Stürmer-Star, der bald ältester Schütze der Bundesliga-Geschichte sein könnte, nimmt rund um das nervige Thema Heimtor-Flaute eine besondere Rolle ein.",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/die-grosse-nordderby-reportage-vorteil-werder-oder-vuskovic-boost-fuer-den-hsv-1273097/video",
    "title": "Die große Nordderby-Reportage: Vorteil Werder oder Vuskovic-Boost für den HSV?",
@@ -2399,68 +2457,6 @@
    "teaser": "Felix Nmechas Unterstützung für die umstrittene \"The King's Return\"-Kampagne ist bekannt. Nun äußert sich die BVB-Fan- und Förderabteilung kritisch zu dem Netzwerk hinter der Kampagne.",
    "clubs": [
     7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/1-fc-koeln-gegen-bayer-leverkusen,audiostream-1-fc-koeln-gegen-bayer-leverkusen-106.html",
-   "title": "Live hören: 1. FC Köln gegen Bayer Leverkusen - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/1-fc-koeln-gegen-bayer-leverkusen,audiostream-1-fc-koeln-gegen-bayer-leverkusen-106.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T14:15:00Z",
-   "teaser": "9. Spieltag: Anpfiff des Spiels ist am 08.11.2026 um 15:30 Uhr. Bayer Leverkusen spielt in Köln.",
-   "clubs": [
-    6,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/vaterfreuden-matchwinner-nationalmannschaft-mittelstaedt-auf-wolke-7-1269713/artikel",
-   "title": "Vaterfreuden, Matchwinner, Nationalmannschaft: Mittelstädt auf Wolke 7",
-   "link": "https://www.kicker.de/vaterfreuden-matchwinner-nationalmannschaft-mittelstaedt-auf-wolke-7-1269713/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T14:13:14Z",
-   "teaser": "Privat wird er Vater, beim VfB Stuttgart ist er Leistungsträger und bei der Nationalmannschaft wieder dabei. Bei Maximilian Mittelstädt läuft's aktuell - auch wenn das beim Jubeln zu Problemen führen kann.",
-   "clubs": [
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/glaube-rechtfertigt-keine-spaltung-fan-und-foerderabteilung-des-bvb-kritisiert-nmecha-1269689/artikel",
-   "title": "\"Glaube rechtfertigt keine Spaltung\": Fan- und Förderabteilung des BVB kritisiert Nmecha",
-   "link": "https://www.kicker.de/glaube-rechtfertigt-keine-spaltung-fan-und-foerderabteilung-des-bvb-kritisiert-nmecha-1269689/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T13:52:26Z",
-   "teaser": "Felix Nmecha sieht sich ungeachtet seines sportlichen Werts abermals mit Kritik konfrontiert, diesmal aus der Fan- und Förderabteilung. Hintergrund ist sein Engagement für \"Ballers in God\", das auch innerhalb des Klubs zuletzt für neue …",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/sehnenteilriss-im-fuss-neuer-fehlt-bayern-erneut-1269512/artikel",
-   "title": "Sehnenteilriss im Fuß: Neuer fehlt Bayern erneut",
-   "link": "https://www.kicker.de/sehnenteilriss-im-fuss-neuer-fehlt-bayern-erneut-1269512/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T12:41:58Z",
-   "teaser": "Der FC Bayern muss vorerst auf Manuel Neuer verzichten. Nach seiner Auswechslung in Mainz am Samstagnachmittag gab der Rekordmeister nun ein medizinisches Update zu seinem Stammkeeper.",
-   "clubs": [
-    40,
-    81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/uli-hoeness-kritisiert-vfb-fuehrung-das-ist-einfach-falsch-1269733/artikel",
-   "title": "Uli Hoeneß kritisiert VfB-Führung: \"Das ist einfach falsch\"",
-   "link": "https://www.kicker.de/uli-hoeness-kritisiert-vfb-fuehrung-das-ist-einfach-falsch-1269733/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T12:19:41Z",
-   "teaser": "Uli Hoeneß bescheinigte dem VfB Stuttgart am Sonntag eine \"sensationelle Entwicklung\" - übte aber auch Kritik an den Verantwortlichen.",
-   "clubs": [
-    16
    ],
    "transfer": false
   }
