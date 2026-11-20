@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T17:12:58Z",
+ "updated": "2026-11-20T23:18:58Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,123 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/el-mala-zwischen-den-welten-da-haettest-du-dich-feiern-lassen-koennen-1273379/artikel",
+   "title": "El Mala zwischen den Welten: \"Da hättest du dich feiern lassen können\"",
+   "link": "https://www.kicker.de/el-mala-zwischen-den-welten-da-haettest-du-dich-feiern-lassen-koennen-1273379/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T23:11:17Z",
+   "teaser": "Beim FC Bayern konnte sich der 1. FC Köln über einen Punkt freuen - oder eben auch ärgern. Said El Mala haderte nach dem Remis mit seiner vergebenen Großchance.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/die-sportschau-vom-freitag-mit-bayern-gegen-koeln,sportschau-am-freitag-re-live-2011-100.html",
+   "title": "Die Sportschau vom Freitag mit Bayern gegen Köln",
+   "link": "https://www.sportschau.de/fussball/die-sportschau-vom-freitag-mit-bayern-gegen-koeln,sportschau-am-freitag-re-live-2011-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-20T23:11:16Z",
+   "teaser": "Sehen Sie hier die Sportschau am Freitag mit den Highlights vom Spiel der Bayern gegen den 1. FC Köln, der 2. Bundesliga, der 3. Liga und der Frauen-Bundesliga.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fc-bayern-gibt-diagnose-fuer-olise-bekannt-1273377/artikel",
+   "title": "FC Bayern gibt Diagnose für Olise bekannt",
+   "link": "https://www.kicker.de/fc-bayern-gibt-diagnose-fuer-olise-bekannt-1273377/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T23:07:51Z",
+   "teaser": "Die verletzungsbedingten Auswechslungen von Harry Kane und Michael Olise haben für den FC Bayern das 1:1 gegen den 1. FC Köln überschattet. Nachdem sich die Befürchtungen bei Kane bewahrheitet haben, hat der deutsche Rekordmeister nun auch …",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kann-mir-nicht-vorstellen-dass-irgendein-verein-musiala-unter-diesen-voraussetzungen-kaufen-wird-1273374/artikel",
+   "title": "\"Kann mir nicht vorstellen, dass irgendein Verein Musiala unter diesen Voraussetzungen kaufen wird\"",
+   "link": "https://www.kicker.de/kann-mir-nicht-vorstellen-dass-irgendein-verein-musiala-unter-diesen-voraussetzungen-kaufen-wird-1273374/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T22:33:00Z",
+   "teaser": "Beim 1:1 des FC Bayern München gegen den 1. FC Köln feierte Jamal Musiala sein Comeback nach wochenlangem Ausfall. Nach dem Spiel trat Karl-Heinz Rummenigge, Aufsichtsratsmitglied beim Rekordmeister, ans Mikrofon und äußerte sich zur …",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/harry-kane-erleidet-syndesmoseriss,kane-verletzung-100.html",
+   "title": "Schock für FC Bayern: Harry Kane erleidet Syndesmoseriss",
+   "link": "https://www.sportschau.de/fussball/bundesliga/harry-kane-erleidet-syndesmoseriss,kane-verletzung-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-20T22:24:47Z",
+   "teaser": "Der FC Bayern München muss monatelang auf Starstürmer Harry Kane verzichten. Der Engländer zog sich beim Remis gegen den 1. FC Köln einen Riss des Syndesmosebandes zu.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/herber-rueckschlag-fuer-die-bayern-kane-erleidet-syndesmoseriss-1273380/artikel",
+   "title": "Herber Rückschlag für die Bayern: Kane erleidet Syndesmoseriss",
+   "link": "https://www.kicker.de/herber-rueckschlag-fuer-die-bayern-kane-erleidet-syndesmoseriss-1273380/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T22:09:32Z",
+   "teaser": "Der FC Bayern kam gegen Köln nicht nur nicht über ein 1:1 hinaus, er verlor auch Harry Kane und Michael Olise. Sportvorstand Max Eberl und Trainer Vincent Kompany bestätigten nach Abpfiff einen Riss der Syndesmose bei Kane.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/koeln-ueberrascht-in-muenchen-kane-und-olise-verletzt-ausgewechselt,spielbericht-bayern-muenchen-koeln-102.html",
+   "title": "Bei Remis gegen Köln: Kane und Olise verletzt ausgewechselt",
+   "link": "https://www.sportschau.de/fussball/bundesliga/koeln-ueberrascht-in-muenchen-kane-und-olise-verletzt-ausgewechselt,spielbericht-bayern-muenchen-koeln-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-20T22:08:33Z",
+   "teaser": "Dicke Überraschung am Freitagabend: Mit einer couragierten Leistung hat der 1. FC Köln beim FC Bayern ein Remis erkämpft. Bayerns Starspieler Kane und Olise mussten früh verletzt raus. Den Ballon d'Or-Gewinner traf es schwer.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/bayern-gegen-koeln-2026-bundesliga-5226890/spielbericht",
+   "title": "Köln bietet Bayern die Stirn - Kane schwer verletzt",
+   "link": "https://www.kicker.de/bayern-gegen-koeln-2026-bundesliga-5226890/spielbericht",
+   "source": "kicker",
+   "published": "2026-11-20T21:34:35Z",
+   "teaser": "Der 1. FC Köln hat dem FC Bayern München hochverdient einen Punkt abgerungen. Der Rekordmeister musste sich weniger über den ausgebliebenen Sieg ärgern, vielmehr schmerzten die Herausnahmen von zwei Schlüsselspielern.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/sorgen-in-der-offensive-werden-groesser-kane-und-olise-verletzt-raus-1273345/artikel",
+   "title": "Sorgen in der Offensive werden größer: Kane und Olise verletzt raus",
+   "link": "https://www.kicker.de/sorgen-in-der-offensive-werden-groesser-kane-und-olise-verletzt-raus-1273345/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T20:41:08Z",
+   "teaser": "Das Heimspiel gegen den 1. FC Köln begann aus Bayern-Sicht alles andere als gut. Erst gerieten die Münchner früh in Rückstand, dann verletzte sich Harry Kane. Und zur Pause musste dann auch noch Michael Olise raus.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/bayern-muenchen-gegen-1-fc-koeln,audiostream-bayern-muenchen-gegen-1-fc-koeln-106.html",
    "title": "Live hören: Bayern München gegen 1. FC Köln - Bundesliga",
    "link": "https://www.sportschau.de/fussball/bundesliga/bayern-muenchen-gegen-1-fc-koeln,audiostream-bayern-muenchen-gegen-1-fc-koeln-106.html",
@@ -25,6 +142,19 @@
    "clubs": [
     40,
     65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/polzin-trifft-auf-freund-thioune-fuer-uns-beide-etwas-besonderes-1273318/video",
+   "title": "Polzin trifft auf Freund Thioune: \"Für uns beide etwas Besonderes\"",
+   "link": "https://www.kicker.de/polzin-trifft-auf-freund-thioune-fuer-uns-beide-etwas-besonderes-1273318/video",
+   "source": "kicker",
+   "published": "2026-11-20T17:32:43Z",
+   "teaser": "Merlin Polzin trifft mit dem Hamburger SV auf seinen alten Weggefährten Daniel Thioune und den SV Werder Bremen. Bei der PK vor dem Spiel sprach er über die Besonderheit dieses Duells.",
+   "clubs": [
+    134,
+    100
    ],
    "transfer": false
   },
@@ -2317,136 +2447,6 @@
    "clubs": [
     175,
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-hammer-beschert-dem-vfb-drei-punkte,video-bundesliga-vfb-stuttgart-sv-werder-bremen-zusammenfassung-100.html",
-   "title": "Mittelstädt-Hammer beschert dem VfB drei Punkte",
-   "link": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-hammer-beschert-dem-vfb-drei-punkte,video-bundesliga-vfb-stuttgart-sv-werder-bremen-zusammenfassung-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T23:00:20Z",
-   "teaser": "Stuttgarts Nationalspieler Maximilian Mittelstädt ist der Matchwinner für den VfB beim Heimspiel gegen Werder Bremen am Samstagabend.",
-   "clubs": [
-    16,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
-   "title": "Hamburger SV schießt Gladbach zurück in die Krise",
-   "link": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T23:00:18Z",
-   "teaser": "Der Hamburger SV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim.",
-   "clubs": [
-    87,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-1-fc-koeln-bittere-pleite-gegen-ungeliebten-nachbarn-100.html",
-   "title": "Bundesliga: Leverkusen stoppt Negativlauf mit Derby-Sieg in Köln",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-1-fc-koeln-bittere-pleite-gegen-ungeliebten-nachbarn-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T23:00:17Z",
-   "teaser": "Bayer Leverkusen hat in einem hitzigen Nachbarschaftsduell beim 1. FC Köln zurück in die Erfolgsspur gefunden. Der 1. FC Köln rutscht hingegen tiefer in die Abstiegszone.",
-   "clubs": [
-    6,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-tor-reicht-stuttgart-gegen-starke-bremer,spielbericht-vfb-stuttgart-werder-bremen-106.html",
-   "title": "Stuttgart bezwingt starke Bremer - Füllkrugs Serie endet",
-   "link": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-tor-reicht-stuttgart-gegen-starke-bremer,spielbericht-vfb-stuttgart-werder-bremen-106.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T23:00:17Z",
-   "teaser": "Kein Füllkrug-Tor, keine Bremer Punkte: In Stuttgart haben die Werderaner erneut eine gute Leistung gezeigt, diesmal aber eine knappe Niederlage hinnehmen müssen.",
-   "clubs": [
-    16,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/medizinischer-notfall-ueberschattet-remis-zwischen-paderborn-und-frankfurt,spielbericht-sc-paderborn-eintracht-frankfurt-100.html",
-   "title": "Burkardt rettet Frankfurt in letzter Minute Punkt in Paderborn",
-   "link": "https://www.sportschau.de/fussball/bundesliga/medizinischer-notfall-ueberschattet-remis-zwischen-paderborn-und-frankfurt,spielbericht-sc-paderborn-eintracht-frankfurt-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T23:00:14Z",
-   "teaser": "Eintracht Frankfurt hat dank eines Tores in der Nachspielzeit einen Punkt beim SC Paderborn gerettet. Überschattet wurde die Partie von einem medizinischen Notfall.",
-   "clubs": [
-    91,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/doppelpack-nmecha-dortmund-schlaegt-elversberg,spielbericht-borussia-dortmund-sv-elversberg-100.html",
-   "title": "Doppelpack Nmecha - Borussia Dortmund schlägt Elversberg",
-   "link": "https://www.sportschau.de/fussball/bundesliga/doppelpack-nmecha-dortmund-schlaegt-elversberg,spielbericht-borussia-dortmund-sv-elversberg-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T23:00:14Z",
-   "teaser": "Borussia Dortmund bleibt in der Fußball-Bundesliga ungeschlagen. Der Sieg gegen Aufsteiger SV Elversberg war aber ein hartes Stück Arbeit. Matchwinner war Felix Nmecha.",
-   "clubs": [
-    7,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/traumtore-und-platzverweis-beim-hamburger-heimsieg,video-bundesliga-hamburger-sv-borussia-moenchengladbach-zusammenfassung-104.html",
-   "title": "Traumtore und Platzverweis beim Hamburger Heimsieg",
-   "link": "https://www.sportschau.de/fussball/bundesliga/traumtore-und-platzverweis-beim-hamburger-heimsieg,video-bundesliga-hamburger-sv-borussia-moenchengladbach-zusammenfassung-104.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T23:00:14Z",
-   "teaser": "Der Hamburger SV hat einen verdienten Sieg gegen Borussia Mönchengladbach eingefahren. In einer umkämpften Partie brachte Miro Muheim die \"Rothosen\" sehenswert in Führung.",
-   "clubs": [
-    87,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/leipzig-nimmt-augsburg-auseinander,spielbericht-rb-leipzig-fc-augsburg-104.html",
-   "title": "Überragender Gruda - Leipzig nimmt Augsburg auseinander",
-   "link": "https://www.sportschau.de/fussball/bundesliga/leipzig-nimmt-augsburg-auseinander,spielbericht-rb-leipzig-fc-augsburg-104.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T23:00:09Z",
-   "teaser": "RB Leipzig spielt sich, angeführt von einem überragenden Brajan Gruda, gegen den FC Augsburg in einen kleinen Rausch. Die Augsburger geben erneut eine Führung aus der Hand und müssen sich erst einmal nach unten orientieren.",
-   "clubs": [
-    1635,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/borussia-dortmund-zittert-sich-zu-drei-punkten,video-bundesliga-borussia-dortmund-sv-elversberg-zusammenfassung-100.html",
-   "title": "Borussia Dortmund zittert sich zu drei Punkten",
-   "link": "https://www.sportschau.de/fussball/bundesliga/borussia-dortmund-zittert-sich-zu-drei-punkten,video-bundesliga-borussia-dortmund-sv-elversberg-zusammenfassung-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T23:00:09Z",
-   "teaser": "Durch einen hart erkämpften Erfolg gegen den Aufsteiger aus Elversberg bleibt Borussia Dortmund punktgleich mit dem Spitzenreiter aus München.",
-   "clubs": [
-    7,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/null-torgefahr-union-bewirbt-sich-fuer-abstiegskampf,spielbericht-sc-freiburg-union-berlin-106.html",
-   "title": "Null Torgefahr: Union bewirbt sich gegen Freiburg für den Abstiegskampf",
-   "link": "https://www.sportschau.de/fussball/bundesliga/null-torgefahr-union-bewirbt-sich-fuer-abstiegskampf,spielbericht-sc-freiburg-union-berlin-106.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T23:00:00Z",
-   "teaser": "Der SC Freiburg feierte einen ungefährdeten Heimsieg gegen erschreckend schwache Berliner. Allein Schlussmann Rönnow war es zu verdanken, dass die Niederlage nicht höher ausfiel.",
-   "clubs": [
-    112,
-    80
    ],
    "transfer": false
   }
