@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T23:18:58Z",
+ "updated": "2026-11-21T04:14:12Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,58 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/nach-harter-rummenigge-kritik-kompany-stellt-sich-vor-musiala-1273405/video",
+   "title": "Nach harter Rummenigge-Kritik: Kompany stellt sich vor Musiala",
+   "link": "https://www.kicker.de/nach-harter-rummenigge-kritik-kompany-stellt-sich-vor-musiala-1273405/video",
+   "source": "kicker",
+   "published": "2026-11-20T23:32:10Z",
+   "teaser": "Vincent Kompany stärkte auf der Bayern-PK nach dem 1:1 gegen den 1. FC Köln Jamal Musiala den Rücken.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bayerns-schwarzer-freitag-die-hintergruende-zu-rummenigge-und-musiala-1273404/video",
+   "title": "Bayerns schwarzer Freitag: Die Hintergründe zu Rummenigge und Musiala",
+   "link": "https://www.kicker.de/bayerns-schwarzer-freitag-die-hintergruende-zu-rummenigge-und-musiala-1273404/video",
+   "source": "kicker",
+   "published": "2026-11-20T23:30:03Z",
+   "teaser": "Das Freitagspiel der Bundesliga zwischen dem FC Bayern München und dem 1. FC Köln lieferte noch weit mehr Gesprächsstoff als das 1:1-Ergebnis. Die kicker-Reporter Frank Linkesch und Mario Krischel berichten aus München.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kompany-haben-andere-jungs-die-die-mannschaft-jetzt-tragen-muessen-1273385/artikel",
+   "title": "Kompany: \"Haben andere Jungs, die die Mannschaft jetzt tragen müssen\"",
+   "link": "https://www.kicker.de/kompany-haben-andere-jungs-die-die-mannschaft-jetzt-tragen-muessen-1273385/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T23:22:17Z",
+   "teaser": "Der Freitagabend war für die Bayern einer zum Vergessen: Nur ein Remis gegen Köln und die schwere Verletzung von Harry Kane. Coach Vincent Kompany ordnet die schwere Lage ein und fordert nun, dass andere in die Bresche springen.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fc-bayern-atmet-auf-leichte-entwarnung-bei-olise-1273377/artikel",
+   "title": "FC Bayern atmet auf: Leichte Entwarnung bei Olise",
+   "link": "https://www.kicker.de/fc-bayern-atmet-auf-leichte-entwarnung-bei-olise-1273377/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T23:17:25Z",
+   "teaser": "Die verletzungsbedingten Auswechslungen von Harry Kane und Michael Olise haben für den FC Bayern das 1:1 gegen den 1. FC Köln überschattet. Nachdem sich die Befürchtungen bei Kane bewahrheitet haben, hat der deutsche Rekordmeister nun auch …",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/el-mala-zwischen-den-welten-da-haettest-du-dich-feiern-lassen-koennen-1273379/artikel",
    "title": "El Mala zwischen den Welten: \"Da hättest du dich feiern lassen können\"",
@@ -2395,58 +2447,6 @@
    "clubs": [
     91,
     31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/kaempferische-bayern-geben-sich-in-mainz-keine-bloesse,video-bundesliga-fsv-mainz-05-fc-bayern-muenchen-zusammenfassung-100.html",
-   "title": "Kämpferische Bayern geben sich in Mainz keine Blöße",
-   "link": "https://www.sportschau.de/fussball/bundesliga/kaempferische-bayern-geben-sich-in-mainz-keine-bloesse,video-bundesliga-fsv-mainz-05-fc-bayern-muenchen-zusammenfassung-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T23:00:29Z",
-   "teaser": "Auch in Abwesenheit von Cheftrainer Vincent Kompany gewinnen die Bayern ihr Auswärtsspiel in Mainz. Für den Rekordmeister sind Joshua Kimmich und Lennart Karl erfolgreich.",
-   "clubs": [
-    40,
-    81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/kimmich-und-karl-fuehren-bayern-zu-arbeitssieg-in-mainz,spielbericht-mainz-05-bayern-muenchen-100.html",
-   "title": "Bayern schlägt Mainz - Neuer verletzt sich im Rekordspiel",
-   "link": "https://www.sportschau.de/fussball/bundesliga/kimmich-und-karl-fuehren-bayern-zu-arbeitssieg-in-mainz,spielbericht-mainz-05-bayern-muenchen-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T23:00:28Z",
-   "teaser": "Der FC Bayern marschiert weiter: Trotz eines unglücklichen Rekordspiels von Bayern-Torhüter Manuel Neuer haben die Münchner in Mainz die Tabellenführung behauptet.",
-   "clubs": [
-    40,
-    81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/rb-antwortet-mit-gala-leistung-auf-fruehen-kade-schock,video-bundesliga-rb-leipzig-fc-augsburg-zusammenfassung-100.html",
-   "title": "RB antwortet mit Gala-Leistung auf frühen Kade-Schock",
-   "link": "https://www.sportschau.de/fussball/bundesliga/rb-antwortet-mit-gala-leistung-auf-fruehen-kade-schock,video-bundesliga-rb-leipzig-fc-augsburg-zusammenfassung-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T23:00:27Z",
-   "teaser": "RB Leipzig ist die Heim-Macht der Bundesliga. Gegen den FC Augsburg ließen sich die Sachsen auch von einem frühen Rückstand nicht beirren und feierten schlussendlich einen Kantersieg.",
-   "clubs": [
-    1635,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/schalke-verliert-trotz-aufbaeumen-gegen-hoffenheim,video-bundesliga-tsg-1899-hoffenheim-fc-schalke-04-zusammenfassung-100.html",
-   "title": "Schalke verliert trotz Aufbäumens gegen Hoffenheim",
-   "link": "https://www.sportschau.de/fussball/bundesliga/schalke-verliert-trotz-aufbaeumen-gegen-hoffenheim,video-bundesliga-tsg-1899-hoffenheim-fc-schalke-04-zusammenfassung-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T23:00:25Z",
-   "teaser": "Der FC Schalke 04 wartet weiter auf ein Erfolgserlebnis in der Bundesliga. Gegen die TSG Hoffenheim wachte das Team von Miron Muslic erst spät auf und muss eine weitere Niederlage verarbeiten.",
-   "clubs": [
-    175,
-    9
    ],
    "transfer": false
   }
