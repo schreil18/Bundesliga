@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T04:14:12Z",
+ "updated": "2026-11-21T12:57:23Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,257 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/fc-schalke-04-gegen-vfb-stuttgart,audiostream-fc-schalke-04-gegen-vfb-stuttgart-102.html",
+   "title": "Live hören: FC Schalke 04 gegen VfB Stuttgart - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/fc-schalke-04-gegen-vfb-stuttgart,audiostream-fc-schalke-04-gegen-vfb-stuttgart-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T17:15:00Z",
+   "teaser": "10. Spieltag: Anpfiff des Spiels ist am 21.11.2026 um 18:30 Uhr. VfB Stuttgart spielt in Gelsenkirchen.",
+   "clubs": [
+    16,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/borussia-moenchengladbach-gegen-borussia-dortmund,audiostream-borussia-moenchengladbach-gegen-borussia-dortmund-106.html",
+   "title": "Live hören: Borussia Mönchengladbach gegen Borussia Dortmund - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/borussia-moenchengladbach-gegen-borussia-dortmund,audiostream-borussia-moenchengladbach-gegen-borussia-dortmund-106.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T14:15:00Z",
+   "teaser": "10. Spieltag: Anpfiff des Spiels ist am 21.11.2026 um 15:30 Uhr. Borussia Dortmund spielt in Mönchengladbach.",
+   "clubs": [
+    7,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bayer-leverkusen-gegen-sc-paderborn-07,audiostream-bayer-leverkusen-gegen-sc-paderborn-07-102.html",
+   "title": "Live hören: Bayer Leverkusen gegen SC Paderborn 07 - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bayer-leverkusen-gegen-sc-paderborn-07,audiostream-bayer-leverkusen-gegen-sc-paderborn-07-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T14:15:00Z",
+   "teaser": "10. Spieltag: Anpfiff des Spiels ist am 21.11.2026 um 15:30 Uhr. SC Paderborn 07 spielt in Leverkusen.",
+   "clubs": [
+    6,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/sv-07-elversberg-gegen-sc-freiburg,audiostream-sv-07-elversberg-gegen-sc-freiburg-100.html",
+   "title": "Live hören: SV 07 Elversberg gegen SC Freiburg - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/sv-07-elversberg-gegen-sc-freiburg,audiostream-sv-07-elversberg-gegen-sc-freiburg-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T14:15:00Z",
+   "teaser": "10. Spieltag: Anpfiff des Spiels ist am 21.11.2026 um 15:30 Uhr. SC Freiburg spielt in Elversberg.",
+   "clubs": [
+    112,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/1-fc-union-berlin-gegen-rb-leipzig,audiostream-1-fc-union-berlin-gegen-rb-leipzig-108.html",
+   "title": "Live hören: 1. FC Union Berlin gegen RB Leipzig - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/1-fc-union-berlin-gegen-rb-leipzig,audiostream-1-fc-union-berlin-gegen-rb-leipzig-108.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T14:15:00Z",
+   "teaser": "10. Spieltag: Anpfiff des Spiels ist am 21.11.2026 um 15:30 Uhr. RB Leipzig spielt in Berlin.",
+   "clubs": [
+    1635,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/eintracht-frankfurt-gegen-tsg-hoffenheim,audiostream-eintracht-frankfurt-gegen-tsg-hoffenheim-100.html",
+   "title": "Live hören: Eintracht Frankfurt gegen TSG Hoffenheim - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/eintracht-frankfurt-gegen-tsg-hoffenheim,audiostream-eintracht-frankfurt-gegen-tsg-hoffenheim-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T14:15:00Z",
+   "teaser": "10. Spieltag: Anpfiff des Spiels ist am 21.11.2026 um 15:30 Uhr. TSG Hoffenheim spielt in Frankfurt am Main.",
+   "clubs": [
+    91,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/10-spieltag-die-konferenz,audiostream-10-spieltag-die-konferenz-138.html",
+   "title": "Live hören: Die Konferenz - 10. Spieltag | Fußball Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/10-spieltag-die-konferenz,audiostream-10-spieltag-die-konferenz-138.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T14:10:00Z",
+   "teaser": "Bundesliga live - alle Spiele am 21.11.2026 um 15:30 Uhr in der Konferenz.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bayern-vermeldet-500000-mitglieder-und-naehert-sich-magischer-umsatz-marke-1273453/artikel",
+   "title": "Bayern vermeldet 500.000 Mitglieder - und nähert sich \"magischer\" Umsatz-Marke",
+   "link": "https://www.kicker.de/bayern-vermeldet-500000-mitglieder-und-naehert-sich-magischer-umsatz-marke-1273453/artikel",
+   "source": "kicker",
+   "published": "2026-11-21T12:52:37Z",
+   "teaser": "Auf der Jahreshauptversammlung des FC Bayern präsentiert Herbert Hainer eine neue Mitglieder-Marke, CEO Jan-Christian Dreesen legt mit einem Umsatzrekord nach.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193804/fc-schalke-04_vfb-stuttgart/liveticker",
+   "title": "Ab 18.30 Uhr live - Schalke in der Krise gegen Stuttgart",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193804/fc-schalke-04_vfb-stuttgart/liveticker",
+   "source": "Sportschau",
+   "published": "2026-11-21T12:28:57Z",
+   "teaser": "In der Bundesliga ist Stuttgart auf Schalke zu Gast. In Gelsenkirchen scheint die Magie des Aufstiegs verpufft, Trainer Muslic und seine Mannschaft kämpfen gegen den Abstieg.",
+   "clubs": [
+    16,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3915/",
+   "title": "Ab 15.30 Uhr live - Frankfurt, Union und Gladbach in der Konferenz",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3915/",
+   "source": "Sportschau",
+   "published": "2026-11-21T12:28:02Z",
+   "teaser": "In der Bundesliga gastiert Borussia Dortmund in Mönchengladbach, Union empfängt Leipzig und Paderborn ist in Leverkusen zu Gast.",
+   "clubs": [
+    7,
+    1635,
+    6,
+    91,
+    87,
+    80,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/fc-bayern-muenchen-mehrere-monate-ohne-harry-kane,kane-verletzung-100.html",
+   "title": "Schock für FC Bayern: Harry Kane erleidet Syndesmoseriss",
+   "link": "https://www.sportschau.de/fussball/bundesliga/fc-bayern-muenchen-mehrere-monate-ohne-harry-kane,kane-verletzung-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T11:22:23Z",
+   "teaser": "Der FC Bayern München muss monatelang auf Starstürmer Harry Kane verzichten. Der Engländer zog sich einen Riss des Syndesmosebandes zu und ist schon operiert worden.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/rb/rb-werder-trainer-thioune-verlaengert-seinen-vertrag-vorzeitig-102.html",
+   "title": "Werder-Trainer Thioune verlängert seinen Vertrag vorzeitig",
+   "link": "https://www.sportschau.de/regional/rb/rb-werder-trainer-thioune-verlaengert-seinen-vertrag-vorzeitig-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T10:16:41Z",
+   "teaser": "Der Vertrag des 52-Jährigen wäre eigentlich im nächsten Sommer ausgelaufen. Jetzt bestätigte der Bremer Verein die Verlängerung, äußerte sich aber nicht zur Laufzeit.",
+   "clubs": [
+    134
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/video/hans-meyer-abschied-trotz-klassenerhalt,video-hans-meyer-100.html",
+   "title": "Hans Meyer - Abschied trotz Klassenerhalt",
+   "link": "https://www.sportschau.de/video/hans-meyer-abschied-trotz-klassenerhalt,video-hans-meyer-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T10:14:39Z",
+   "teaser": "Hans Meyer sichert im Jahr 2009 mit dem Aufsteiger Borussia Mönchengladbach am letzten Spieltag der Saison den Klassenerhalt. Kurz darauf tritt der damals 67-Jährige zurück.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/moore-besiegt-die-angst-und-zerstreut-alle-geruechte-1273429/artikel",
+   "title": "Moore besiegt die Angst und zerstreut alle Gerüchte",
+   "link": "https://www.kicker.de/moore-besiegt-die-angst-und-zerstreut-alle-geruechte-1273429/artikel",
+   "source": "kicker",
+   "published": "2026-11-21T09:59:32Z",
+   "teaser": "Mikey Moore stand beim 1. FC Köln zuletzt stark in der Kritik. Nun bewies der 19-Jährige beim 1:1 in München, weshalb er große Fantasien weckt. Kann Moore das wiederholen?",
+   "clubs": [
+    65
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/vertragsverlaengerung-vor-dem-derby-thioune-bleibt-in-bremen-1273445/artikel",
+   "title": "Vertragsverlängerung vor dem Derby: Thioune bleibt in Bremen",
+   "link": "https://www.kicker.de/vertragsverlaengerung-vor-dem-derby-thioune-bleibt-in-bremen-1273445/artikel",
+   "source": "kicker",
+   "published": "2026-11-21T09:32:56Z",
+   "teaser": "Der SV Werder Bremen und Cheftrainer Daniel Thioune haben sich auf eine Verlängerung des im Sommer auslaufenden Vertrags geeinigt.",
+   "clubs": [
+    134
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/inacios-verletzung-und-die-folgen-beim-bvb-auch-fuer-den-transfermarkt-1273240/artikel",
+   "title": "Inacios Verletzung und die Folgen beim BVB - auch für den Transfermarkt?",
+   "link": "https://www.kicker.de/inacios-verletzung-und-die-folgen-beim-bvb-auch-fuer-den-transfermarkt-1273240/artikel",
+   "source": "kicker",
+   "published": "2026-11-21T09:19:55Z",
+   "teaser": "Samuele Inacio wird dem BVB mehrere Monate fehlen. Was heißt das für die nächste Transferperiode? Wer nun besonders im Fokus steht - und wem sich eine neue Chance auftut.",
+   "clubs": [
+    7
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-auch-rummenigge-zweifelt-an-musiala-rueckkehr-auf-topniveau-102.html",
+   "title": "Auch Rummenigge zweifelt an Musiala-Rückkehr auf Topniveau",
+   "link": "https://www.sportschau.de/regional/br/br-auch-rummenigge-zweifelt-an-musiala-rueckkehr-auf-topniveau-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T08:57:11Z",
+   "teaser": "Karl-Heinz Rummenigge hat in der Diskussion um Jamal Musiala noch einmal nachgelegt. Das Aufsichtsratsmitglied der Münchner hegt Zweifel, ob der verletzungsgeplagte Musiala wieder sein altes Niveau erreichen könne. Sportvorstand Eberl …",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/pressestimmen-nach-dem-kane-aus-nacht-des-schreckens-1273427/artikel",
+   "title": "Pressestimmen nach dem Kane-Aus: \"Nacht des Schreckens\"",
+   "link": "https://www.kicker.de/pressestimmen-nach-dem-kane-aus-nacht-des-schreckens-1273427/artikel",
+   "source": "kicker",
+   "published": "2026-11-21T07:44:34Z",
+   "teaser": "Das 1:1 gegen den 1. FC Köln ist folgenreich: Der FC Bayern beklagt mit Harry Kane und Michael Olise zwei Verletzte. Gerade das Aus des Ballon-d'Or-Gewinners schlägt weit über Deutschland hinaus Wellen. Die internationalen Pressestimmen.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wer-uebertraegt-fc-schalke-04-gegen-vfb-stuttgart-live-im-tv-und-stream-1271331/artikel",
+   "title": "Wer überträgt FC Schalke 04 gegen VfB Stuttgart live im TV und Stream?",
+   "link": "https://www.kicker.de/wer-uebertraegt-fc-schalke-04-gegen-vfb-stuttgart-live-im-tv-und-stream-1271331/artikel",
+   "source": "kicker",
+   "published": "2026-11-21T06:30:00Z",
+   "teaser": "Der FC Schalke 04 hat im Topspiel den VfB Stuttgart zu Gast. Wo ihr die Partie live verfolgen könnt, erfahrt ihr hier.",
+   "clubs": [
+    16,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kompany-kaempferisch-mit-dem-messer-zwischen-den-zaehnen-1273415/video",
+   "title": "Kompany kämpferisch: \"Mit dem Messer zwischen den Zähnen\"",
+   "link": "https://www.kicker.de/kompany-kaempferisch-mit-dem-messer-zwischen-den-zaehnen-1273415/video",
+   "source": "kicker",
+   "published": "2026-11-21T00:21:27Z",
+   "teaser": "Bayern-Trainer Vincent Kompany gibt sich ob der Verletztensituation bei seiner Mannschaft kämpferisch. Man werde die Situation annehmen und in den nächsten Wochen das Beste aus der Misere machen.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/nach-harter-rummenigge-kritik-kompany-stellt-sich-vor-musiala-1273405/video",
    "title": "Nach harter Rummenigge-Kritik: Kompany stellt sich vor Musiala",
@@ -120,19 +371,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/fussball/bundesliga/harry-kane-erleidet-syndesmoseriss,kane-verletzung-100.html",
-   "title": "Schock für FC Bayern: Harry Kane erleidet Syndesmoseriss",
-   "link": "https://www.sportschau.de/fussball/bundesliga/harry-kane-erleidet-syndesmoseriss,kane-verletzung-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-20T22:24:47Z",
-   "teaser": "Der FC Bayern München muss monatelang auf Starstürmer Harry Kane verzichten. Der Engländer zog sich beim Remis gegen den 1. FC Köln einen Riss des Syndesmosebandes zu.",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
    "id": "https://www.kicker.de/herber-rueckschlag-fuer-die-bayern-kane-erleidet-syndesmoseriss-1273380/artikel",
    "title": "Herber Rückschlag für die Bayern: Kane erleidet Syndesmoseriss",
    "link": "https://www.kicker.de/herber-rueckschlag-fuer-die-bayern-kane-erleidet-syndesmoseriss-1273380/artikel",
@@ -146,8 +384,21 @@
    "transfer": false
   },
   {
+   "id": "https://www.kicker.de/torjaeger-bereits-operiert-kane-erleidet-syndesmoseriss-1273380/artikel",
+   "title": "Torjäger bereits operiert: Kane erleidet Syndesmoseriss",
+   "link": "https://www.kicker.de/torjaeger-bereits-operiert-kane-erleidet-syndesmoseriss-1273380/artikel",
+   "source": "kicker",
+   "published": "2026-11-20T22:09:32Z",
+   "teaser": "Der FC Bayern kam gegen Köln nicht nur nicht über ein 1:1 hinaus, er verlor auch Harry Kane und Michael Olise. Sportvorstand Max Eberl und Trainer Vincent Kompany bestätigten nach Abpfiff einen Riss der Syndesmose bei Kane.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/koeln-ueberrascht-in-muenchen-kane-und-olise-verletzt-ausgewechselt,spielbericht-bayern-muenchen-koeln-102.html",
-   "title": "Bei Remis gegen Köln: Kane und Olise verletzt ausgewechselt",
+   "title": "Bei Remis gegen Köln: Bayerns Kane und Olise verletzt ausgewechselt",
    "link": "https://www.sportschau.de/fussball/bundesliga/koeln-ueberrascht-in-muenchen-kane-und-olise-verletzt-ausgewechselt,spielbericht-bayern-muenchen-koeln-102.html",
    "source": "Sportschau",
    "published": "2026-11-20T22:08:33Z",
@@ -204,6 +455,19 @@
    "source": "kicker",
    "published": "2026-11-20T17:32:43Z",
    "teaser": "Merlin Polzin trifft mit dem Hamburger SV auf seinen alten Weggefährten Daniel Thioune und den SV Werder Bremen. Bei der PK vor dem Spiel sprach er über die Besonderheit dieses Duells.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/vor-der-nordtribuene-als-wiese-fuer-werder-zum-pokalhelden-wurde-1273305/video",
+   "title": "Vor der Nordtribüne: Als Wiese für Werder zum Pokalhelden wurde",
+   "link": "https://www.kicker.de/vor-der-nordtribuene-als-wiese-fuer-werder-zum-pokalhelden-wurde-1273305/video",
+   "source": "kicker",
+   "published": "2026-11-20T16:21:28Z",
+   "teaser": "Im April 2009 startete Werder mit dem DFB-Pokal-Halbfinale in Hamburg in die Derbywochen. Es wurde der erste große Auftritt von Tim Wiese, der Bremen ins Finale trug.",
    "clubs": [
     134,
     100
@@ -2183,270 +2447,6 @@
    "teaser": "Nach erneuter Kritik an seiner Jubelgeste hat der Dortmunder Nationalspieler Felix Nmecha nun selbst Stellung bezogen.",
    "clubs": [
     7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-schmadtke-aus-der-uebergangsplan-im-bayern-scouting-1270217/artikel",
-   "title": "Nach Schmadtke-Aus: Der Übergangsplan im Bayern-Scouting",
-   "link": "https://www.kicker.de/nach-schmadtke-aus-der-uebergangsplan-im-bayern-scouting-1270217/artikel",
-   "source": "kicker",
-   "published": "2026-11-09T20:03:56Z",
-   "teaser": "Das Scouting des FC Bayern wird neu aufgestellt. Sportdirektor Christoph Freund und Campus-Chef Jochen Sauer treiben gerade in Abstimmung mit Sportvorstand Max Eberl eine neue Struktur voran.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/homeoffice-fuer-bvb-duo-kovac-hofft-auf-gehoer-bei-nationaltrainern-1269815/artikel",
-   "title": "Homeoffice für BVB-Duo - Kovac hofft auf Gehör bei Nationaltrainern",
-   "link": "https://www.kicker.de/homeoffice-fuer-bvb-duo-kovac-hofft-auf-gehoer-bei-nationaltrainern-1269815/artikel",
-   "source": "kicker",
-   "published": "2026-11-09T19:22:52Z",
-   "teaser": "Nach der vergangenen Länderspielpause benötigte Borussia Dortmund im Oktober einigen Anlauf, um wieder zu sich zu finden. Was hilft nun, da erneut fast der komplette Kader unterwegs ist?",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/knieverletzung-bei-gosens-schalke-gibt-vages-update-1269987/artikel",
-   "title": "Knieverletzung bei Gosens: Schalke gibt vages Update",
-   "link": "https://www.kicker.de/knieverletzung-bei-gosens-schalke-gibt-vages-update-1269987/artikel",
-   "source": "kicker",
-   "published": "2026-11-09T16:55:00Z",
-   "teaser": "Miron Muslic hatte schon kurz nach dem 1:2 bei der TSG Hoffenheim ein schlechtes Gefühl bezüglich Robin Gosens. Dieser Eindruck bestätigte sich nun, wenngleich der FC Schalke 04 noch keine genaue Diagnose nannte. Auch zu Loris Karius gab …",
-   "clubs": [
-    175,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/golden-boy-award-das-sind-cubarsis-vorgaenger-789831/slideshow",
-   "title": "\"Golden Boy\"-Award: Das sind Cubarsis Vorgänger",
-   "link": "https://www.kicker.de/golden-boy-award-das-sind-cubarsis-vorgaenger-789831/slideshow",
-   "source": "kicker",
-   "published": "2026-11-09T16:25:01Z",
-   "teaser": "Pau Cubarsi ist als \"Golden Boy\" 2026 ausgezeichnet worden. Zahlreiche Journalisten unter der Führung der Tuttosport wählten den Spanier zum besten und hoffnungsvollsten U-21-Spieler Europas. Das sind seine Vorgänger ...",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/knauff-experiment-und-neue-sorgen-defensive-aussenbahnen-bleiben-frankfurts-achillesferse-1269648/artikel",
-   "title": "Knauff-Experiment und neue Sorgen: Defensive Außenbahnen bleiben Frankfurts Achillesferse",
-   "link": "https://www.kicker.de/knauff-experiment-und-neue-sorgen-defensive-aussenbahnen-bleiben-frankfurts-achillesferse-1269648/artikel",
-   "source": "kicker",
-   "published": "2026-11-09T15:25:12Z",
-   "teaser": "Im Winter-Transferfenster muss die Eintracht dringend in der Abwehr nachlegen. In Paderborn wurde einmal mehr deutlich, wo der Schuh drückt. Durch den Ausfall von Elias Baum stellt sich die Frage, ob Trainer Adi Hütter zur Dreierkette …",
-   "clubs": [
-    91,
-    31
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/von-wael-mohya-bis-niclas-fuellkrug-wie-die-bundesliga-lebt,zwischenbilanz-der-bundesliga-nach-neun-spieltagen-100.html",
-   "title": "Füllkrug und Mohya Top, Gladbach und Schalke Flop",
-   "link": "https://www.sportschau.de/fussball/bundesliga/von-wael-mohya-bis-niclas-fuellkrug-wie-die-bundesliga-lebt,zwischenbilanz-der-bundesliga-nach-neun-spieltagen-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-09T15:16:02Z",
-   "teaser": "Niklas Füllkrug, Wael Mohya und die Aufsteiger überraschen, zwei Traditionsvereine taumeln und das Meisterrennen ist offen. Dazu kommen neue Hoffnungsträger und ein alter Torwart. Eine erste Zwischenbilanz nach neun Spieltagen.",
-   "clubs": [
-    87,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kessler-erhoeht-den-druck-in-koeln-dann-muessen-wir-die-punkte-holen-1270139/artikel",
-   "title": "Kessler erhöht den Druck in Köln: \"Dann müssen wir die Punkte holen\"",
-   "link": "https://www.kicker.de/kessler-erhoeht-den-druck-in-koeln-dann-muessen-wir-die-punkte-holen-1270139/artikel",
-   "source": "kicker",
-   "published": "2026-11-09T12:48:55Z",
-   "teaser": "Nach dem 1:2 gegen Bayer Leverkusen monierte Sport-Geschäftsführer Thomas Kessler vor allem die Torausbeute des 1. FC Köln - und sendete eine unmissverständliche Botschaft für die Adventszeit.",
-   "clubs": [
-    6,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/rtl-uebertraegt-hsv-gegen-schalke-im-free-tv-1270121/artikel",
-   "title": "RTL überträgt HSV gegen Schalke im Free-TV",
-   "link": "https://www.kicker.de/rtl-uebertraegt-hsv-gegen-schalke-im-free-tv-1270121/artikel",
-   "source": "kicker",
-   "published": "2026-11-09T11:38:56Z",
-   "teaser": "Am 11. Dezember treffen der Hamburger SV und der FC Schalke 04 im Freitagabendspiel der Bundesliga aufeinander. RTL wird das Traditionsduell kostenlos im Free-TV übertragen.",
-   "clubs": [
-    100,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/mainzer-wendepunkt-die-hoffnung-heisst-abstiegskampf-1269657/artikel",
-   "title": "Mainzer Wendepunkt? Die Hoffnung heißt Abstiegskampf",
-   "link": "https://www.kicker.de/mainzer-wendepunkt-die-hoffnung-heisst-abstiegskampf-1269657/artikel",
-   "source": "kicker",
-   "published": "2026-11-09T09:36:06Z",
-   "teaser": "Auf dem Papier hat sich die Mainzer Krise verschärft, auf dem Rasen gibt es hoffnungsvolle Ansätze. Kann das 1:2 gegen Bayern einen Fortschritt markieren?",
-   "clubs": [
-    40,
-    81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-el-mala-allein-zu-zweit-zu-spaet-gegen-leverkusen-104.html",
-   "title": "1. FC Köln verliert gegen Leverkusen: El Mala - allein, zu zweit, zu spät",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-el-mala-allein-zu-zweit-zu-spaet-gegen-leverkusen-104.html",
-   "source": "Sportschau",
-   "published": "2026-11-09T07:45:00Z",
-   "teaser": "Said El Mala hatte ständig Begleitschutz, Köln kaum andere Wege nach vorne. Als der FC endlich mehr wagte, war die Zeit fast um.",
-   "clubs": [
-    6,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/rbb/rbb-nach-unions-niederlage-in-freiburg-roennow-und-die-einsamkeit-des-torhueters-100.html",
-   "title": "Rönnow und die Einsamkeit des Torhüters",
-   "link": "https://www.sportschau.de/regional/rbb/rbb-nach-unions-niederlage-in-freiburg-roennow-und-die-einsamkeit-des-torhueters-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-09T07:44:25Z",
-   "teaser": "Frederik Rönnow hält Union Berlin in Freiburg lange im Spiel. Doch seine Mitspieler lassen den Torhüter immer wieder im Stich. Nach der Niederlage schlägt der Däne Alarm.",
-   "clubs": [
-    112,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-verzweifelt-an-sich-selbst-100.html",
-   "title": "Schalke 04 verzweifelt an sich selbst",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-verzweifelt-an-sich-selbst-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-09T07:22:00Z",
-   "teaser": "Viel Leidenschaft, viele Chancen, sogar ein Tor - aber auch in Hoffenheim reichte es für Schalke 04 nicht für einen Punkt.",
-   "clubs": [
-    175,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/muslic-mit-abstand-die-beste-halbzeit-in-der-bundesliga-1269985/video",
-   "title": "Muslic: \"Mit Abstand die beste Halbzeit in der Bundesliga\"",
-   "link": "https://www.kicker.de/muslic-mit-abstand-die-beste-halbzeit-in-der-bundesliga-1269985/video",
-   "source": "kicker",
-   "published": "2026-11-09T07:00:58Z",
-   "teaser": "Schalke macht ein starkes Spiel gegen Hoffenheim, bleibt am Ende aber ohne Punkte und verliert darüber hinaus noch Loris Karius und Robin Gosens nach einem Zusammenprall. Trainer Miron Muslic über das Spiel voller Licht und Schatten.",
-   "clubs": [
-    175,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/ausgleichende-gerechtigkeit-und-asllanis-besonderes-geschenk-1270025/video",
-   "title": "\"Ausgleichende Gerechtigkeit\" und Asllanis besonderes Geschenk",
-   "link": "https://www.kicker.de/ausgleichende-gerechtigkeit-und-asllanis-besonderes-geschenk-1270025/video",
-   "source": "kicker",
-   "published": "2026-11-09T06:55:18Z",
-   "teaser": "Hoffenheim gewinnt trotz einer durchwachsenen Leistung gegen Schalke und kicker-Reporter Michael Pfeifer erklärt, warum die Verantwortlichen trotzdem zufrieden sind.",
-   "clubs": [
-    175,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/swr/swr-erst-gedulden-dann-belohnen-sc-freiburg-agiert-wie-ein-spitzenteam-100.html",
-   "title": "Erst gedulden, dann belohnen - SC Freiburg agiert wie ein Spitzenteam",
-   "link": "https://www.sportschau.de/regional/swr/swr-erst-gedulden-dann-belohnen-sc-freiburg-agiert-wie-ein-spitzenteam-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-09T06:47:21Z",
-   "teaser": "Der SC Freiburg ist voll da: Gegen Union Berlin gelingt der vierte Pflichtspielsieg in Folge. Die Breisgauer spielen mit einer beeindruckenden Reife.",
-   "clubs": [
-    112,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/asllanis-saisonpremiere-eine-schoenere-geschichte-kann-ich-nicht-schreiben-1269967/artikel",
-   "title": "Asllanis Saisonpremiere: \"Eine schönere Geschichte kann ich nicht schreiben\"",
-   "link": "https://www.kicker.de/asllanis-saisonpremiere-eine-schoenere-geschichte-kann-ich-nicht-schreiben-1269967/artikel",
-   "source": "kicker",
-   "published": "2026-11-09T06:42:37Z",
-   "teaser": "Sieben Spieltage Anlauf hat Fisnik Asllani gebraucht, um sein erstes Saisontor zu markieren. Das auf besondere Weise und mit für ihn besonderem Hintergrund.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-burkardt-und-ebnoutalib-betreiben-jobsharing-100.html",
-   "title": "Eintracht Frankfurts Sturmduo - Jobsharing im Angriff",
-   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-burkardt-und-ebnoutalib-betreiben-jobsharing-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-09T05:57:36Z",
-   "teaser": "Nationalmannschaftsnominierung oder Startelfnominierung in der Bundesliga – beides ist für Eintracht Frankfurts Stürmer Jonathan Burkardt und Younes Ebnoutalib aktuell eine Wundertüte. Das führt zu kuriosen Begebenheiten.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hsv-extraklasse-und-neue-qualitaet-1269806/artikel",
-   "title": "HSV: Extraklasse und neue Qualität",
-   "link": "https://www.kicker.de/hsv-extraklasse-und-neue-qualitaet-1269806/artikel",
-   "source": "kicker",
-   "published": "2026-11-08T23:16:54Z",
-   "teaser": "Der Hamburger SV profitierte beim 3:1 gegen Mönchengladbach von der Extraklasse seiner Ausnahmekönner Albert Grönbaek und Albert Sambi Lokonga. In den kommenden Tagen kommt beim HSV sogar noch mehr Qualität dazu.",
-   "clubs": [
-    87,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/leverkusen-behaelt-im-rhein-duell-die-nerven,video-bundesliga-1-fc-koeln-bayer-leverkusen-zusammenfassung-102.html",
-   "title": "Leverkusen behält im Rhein-Duell die Nerven",
-   "link": "https://www.sportschau.de/fussball/bundesliga/leverkusen-behaelt-im-rhein-duell-die-nerven,video-bundesliga-1-fc-koeln-bayer-leverkusen-zusammenfassung-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T23:00:45Z",
-   "teaser": "Bayer 04 Leverkusen hat das Rhein-Duell gegen den 1. FC Köln gewonnen. Eine Koproduktion der El-Mala-Brüder kam für die Kölner zu spät.",
-   "clubs": [
-    6,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/ueberlegene-freiburger-siegen-gegen-union,video-bundesliga-sc-freiburg-1-fc-union-berlin-zusammenfassung-100.html",
-   "title": "Überlegene Freiburger siegen gegen Union",
-   "link": "https://www.sportschau.de/fussball/bundesliga/ueberlegene-freiburger-siegen-gegen-union,video-bundesliga-sc-freiburg-1-fc-union-berlin-zusammenfassung-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T23:00:40Z",
-   "teaser": "Eine Halbzeit lang setzt der 1. FC Union Berlin keinen Torschuss ab, kassiert aber auch keinen Treffer. Doch nach der Pause knackt der SC Freiburg die \"Eisernen\" und gewinnt verdient.",
-   "clubs": [
-    112,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/burkardt-doppelpack-rettet-die-eintracht-in-unterzahl,video-bundesliga-sc-paderborn-eintracht-frankfurt-zusammenfassung-100.html",
-   "title": "Burkardt-Doppelpack rettet die Eintracht in Unterzahl",
-   "link": "https://www.sportschau.de/fussball/bundesliga/burkardt-doppelpack-rettet-die-eintracht-in-unterzahl,video-bundesliga-sc-paderborn-eintracht-frankfurt-zusammenfassung-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-08T23:00:30Z",
-   "teaser": "Dem SC Paderborn fehlen nur wenige Sekunden bis zum Heimsieg gegen Frankfurt. Doch dann trifft Jonathan Burkardt kurz vor Schluss und rettet einen Punkt.",
-   "clubs": [
-    91,
-    31
    ],
    "transfer": false
   }
