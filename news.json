@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T12:57:23Z",
+ "updated": "2026-11-21T20:01:54Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,250 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/borussen-duelle-der-gegensaetze-wenn-die-bayern-verwundbar-sind-dann-jetzt-1273656/video",
+   "title": "Borussen-Duelle der Gegensätze: \"Wenn die Bayern verwundbar sind, dann jetzt\"",
+   "link": "https://www.kicker.de/borussen-duelle-der-gegensaetze-wenn-die-bayern-verwundbar-sind-dann-jetzt-1273656/video",
+   "source": "kicker",
+   "published": "2026-11-21T19:51:50Z",
+   "teaser": "Der BVB setzte sich im Borussen-Duell aufgrund eines Patzers von Daniel Batz knapp durch. Somit waren die 90 Minuten sinnbildlich für den bisherigen Saisonverlauf der beiden Teams.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/schalke-gegen-stuttgart-2026-bundesliga-5226897/spielbericht",
+   "title": "Schalke belohnt sich nicht und bleibt daheim sieg- wie torlos",
+   "link": "https://www.kicker.de/schalke-gegen-stuttgart-2026-bundesliga-5226897/spielbericht",
+   "source": "kicker",
+   "published": "2026-11-21T19:30:00Z",
+   "teaser": "Schalke knüpfte zwar an den spielerischen Trend von zuletzt an, nutzte aber gegen Stuttgart zahlreiche Chancen nicht. Die Sieg- und Torlosigkeit in der heimischen Veltins-Arena ging damit weiter. Die Schwaben ließen derweil vor allem im …",
+   "clubs": [
+    16,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/famoser-atubolu-rettet-eintracht-jubilaeumssieg,spielbericht-eintracht-frankfurt-tsg-hoffenheim-106.html",
+   "title": "Atubolu rettet Frankfurt gegen Hoffenheim den Jubiläumssieg",
+   "link": "https://www.sportschau.de/fussball/bundesliga/famoser-atubolu-rettet-eintracht-jubilaeumssieg,spielbericht-eintracht-frankfurt-tsg-hoffenheim-106.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T19:27:27Z",
+   "teaser": "Eine hochklassige erste Halbzeit reichte Eintracht Frankfurt zu einem besonderen Sieg gegen die TSG Hoffenheim. Überragend war SGE-Torwart Noah Atubolu.",
+   "clubs": [
+    91,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/schalke-zementiert-die-null-im-eigenen-stadion,spielbericht-schalke-04-vfb-stuttgart-100.html",
+   "title": "Wie verhext: Schalke trifft auch gegen Stuttgart zuhause das Tor nicht",
+   "link": "https://www.sportschau.de/fussball/bundesliga/schalke-zementiert-die-null-im-eigenen-stadion,spielbericht-schalke-04-vfb-stuttgart-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T19:21:36Z",
+   "teaser": "Schalke 04 bleibt zuhause torlos und hat so nach einem eigentlich starken Auftritt gegen den Champions-League-Teilnehmer VfB Stuttgart einen Bundesliga-Negativrekord eingestellt.",
+   "clubs": [
+    16,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/blessin-nach-batz-patzer-habe-nicht-vor-etwas-zu-aendern-1273645/video",
+   "title": "Blessin nach Batz-Patzer: \"Habe nicht vor, etwas zu ändern\"",
+   "link": "https://www.kicker.de/blessin-nach-batz-patzer-habe-nicht-vor-etwas-zu-aendern-1273645/video",
+   "source": "kicker",
+   "published": "2026-11-21T19:01:22Z",
+   "teaser": "Aufgrund eines Bauchgefühls setzte Alexander Blessin im Gladbacher Tor auf Daniel Batz, der prompt gegen den BVB entscheidend patzte. Trotzdem plant der Coach keinen erneuten Wechsel.",
+   "clubs": [
+    7,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-nmecha-schliesst-kronen-jubel-nicht-aus-102.html",
+   "title": "Felix Nmecha schließt Kronen-Jubel nicht aus",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-nmecha-schliesst-kronen-jubel-nicht-aus-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T18:53:00Z",
+   "teaser": "Auch wenn er beim 1:0-Sieg in Gladbach anders jubelte: BVB-Profi Felix Nmecha schließt die umstrittene Kronen-Geste nicht aus.",
+   "clubs": [
+    7,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/keine-kampfansage-von-kovac-nichts-als-eine-momentaufnahme-1273638/video",
+   "title": "Keine Kampfansage von Kovac: \"Nichts als eine Momentaufnahme\"",
+   "link": "https://www.kicker.de/keine-kampfansage-von-kovac-nichts-als-eine-momentaufnahme-1273638/video",
+   "source": "kicker",
+   "published": "2026-11-21T18:41:40Z",
+   "teaser": "Die Verletzungssorgen in München sind groß, dazu hat der BVB nun auch noch die Tabellenspitze übernommen. Coach Niko Kovac will aber daraus aber noch nichts für die restliche Saison ableiten.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/donnernder-applaus-bayern-fan-kritisiert-bosse-wegen-musiala-1273629/video",
+   "title": "Donnernder Applaus: Bayern-Fan kritisiert Bosse wegen Musiala",
+   "link": "https://www.kicker.de/donnernder-applaus-bayern-fan-kritisiert-bosse-wegen-musiala-1273629/video",
+   "source": "kicker",
+   "published": "2026-11-21T18:24:17Z",
+   "teaser": "Auf der Jahreshauptversammlung des FC Bayern wählte ein Fan deutliche Worte und kritisierte einige Bosse für den Umgang mit Jamal Musiala in der Öffentlichkeit.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/keine-lautsprecher-kein-problem-frankfurt-fans-begeistern-a-cappella-1273526/artikel",
+   "title": "Keine Lautsprecher? Kein Problem! Frankfurt-Fans begeistern a cappella",
+   "link": "https://www.kicker.de/keine-lautsprecher-kein-problem-frankfurt-fans-begeistern-a-cappella-1273526/artikel",
+   "source": "kicker",
+   "published": "2026-11-21T18:22:48Z",
+   "teaser": "\"Wenn schon die Technik streikt, dann springen wir eben ein\", dachten sich wohl die Fans von Eintracht Frankfurt beim Heimspiel gegen die TSG Hoffenheim am Samstagnachmittag und sorgten so für ein Kuriosum im Deutsche-Bank-Park.",
+   "clubs": [
+    91,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/frustrierter-tillman-ueber-den-applaus-macht-nicht-mehr-viel-mit-mir-1273600/artikel",
+   "title": "Frustrierter Tillman über den Applaus: \"Macht nicht mehr viel mit mir\"",
+   "link": "https://www.kicker.de/frustrierter-tillman-ueber-den-applaus-macht-nicht-mehr-viel-mit-mir-1273600/artikel",
+   "source": "kicker",
+   "published": "2026-11-21T18:22:05Z",
+   "teaser": "Malik Tillman ist in Leverkusen bislang nicht glücklich geworden. Gegen Paderborn machte er beim 4:0 sein bestes Spiel für Bayer 04 in dieser Saison. Doch nach den Pfiffen in der Vergangenheit konnte sich der 24-Jährige über den Applaus …",
+   "clubs": [
+    6,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/schroeder-sagte-es-hartmann-persoenlich-eine-absolute-fehlentscheidung-1273583/artikel",
+   "title": "Schröder sagte es Hartmann persönlich: \"Eine absolute Fehlentscheidung\"",
+   "link": "https://www.kicker.de/schroeder-sagte-es-hartmann-persoenlich-eine-absolute-fehlentscheidung-1273583/artikel",
+   "source": "kicker",
+   "published": "2026-11-21T18:19:15Z",
+   "teaser": "Borussia Mönchengladbach grüßt weiter vom Tabellenende. Nach dem 0:1 gegen den neuen Spitzenreiter aus Dortmund erregte besonders eine Szene vor der Pause das Gemüt von Gladbach-Sportchef Rouven Schröder.",
+   "clubs": [
+    7,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nmecha-spricht-ueber-kritik-am-kronen-jubel-bedeutet-nicht-dass-ich-ihn-nie-wieder-mache-1273598/artikel",
+   "title": "Nmecha spricht über Kritik am Kronen-Jubel: \"Bedeutet nicht, dass ich ihn nie wieder mache\"",
+   "link": "https://www.kicker.de/nmecha-spricht-ueber-kritik-am-kronen-jubel-bedeutet-nicht-dass-ich-ihn-nie-wieder-mache-1273598/artikel",
+   "source": "kicker",
+   "published": "2026-11-21T18:14:27Z",
+   "teaser": "Mit seinem Treffer in der 80. Minute avancierte Felix Nmecha zum Matchwinner des BVB im Auswärtsspiel in Gladbach. Anschließend wurde der 26-Jährige zu seinem Kronen-Jubel befragt, der in den vergangenen Wochen Diskussionen ausgelöst hatte.",
+   "clubs": [
+    7,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/gruda-ueber-seinen-schuh-wurf-war-nicht-so-clever-1273580/artikel",
+   "title": "Gruda über seinen Schuh-Wurf: \"War nicht so clever\"",
+   "link": "https://www.kicker.de/gruda-ueber-seinen-schuh-wurf-war-nicht-so-clever-1273580/artikel",
+   "source": "kicker",
+   "published": "2026-11-21T18:14:06Z",
+   "teaser": "Deutlich mit 5:1 siegte RB Leipzig am Samstagnachmittag bei Union Berlin. Mittendrin war Nationalspieler Brajan Gruda, der zum offiziellen Matchwinner gekürt wurde, zuvor aber auch unglückliche Momente erlebt hatte.",
+   "clubs": [
+    1635,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/boxen-kaputt-fans-singen-a-cappella-besondere-atmosphaere-bei-der-eintracht-1273620/video",
+   "title": "Boxen kaputt, Fans singen a cappella: Besondere Atmosphäre bei der Eintracht",
+   "link": "https://www.kicker.de/boxen-kaputt-fans-singen-a-cappella-besondere-atmosphaere-bei-der-eintracht-1273620/video",
+   "source": "kicker",
+   "published": "2026-11-21T18:05:23Z",
+   "teaser": "In Frankfurt herrschte beim Heimspiel gegen Hoffenheim eine besondere Atmosphäre, in der Noah Atubolu mit starken Paraden zum gefeierten Mann wurde.",
+   "clubs": [
+    91,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-bvb-holt-sich-in-moenchengladbach-die-tabellenfuehrung-100.html",
+   "title": "BVB springt gegen Gladbach an die Spitze der Bundesliga-Tabelle",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-bvb-holt-sich-in-moenchengladbach-die-tabellenfuehrung-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T18:00:00Z",
+   "teaser": "Der BVB gewinnt 1:0 in Gladbach und übernimmt Platz eins. Dem starken Torhüter Daniel Batz unterläuft der entscheidende Fehler und Felix Nmecha trifft erneut.",
+   "clubs": [
+    7,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-bayer-leverkusen-schiesst-paderborn-ab-100.html",
+   "title": "Bayer Leverkusen schießt Paderborn ab",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-bayer-leverkusen-schiesst-paderborn-ab-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T17:59:00Z",
+   "teaser": "Bayer 04 Leverkusen hat gegen den SC Paderborn einen deutlichen Heimsieg in der Fußball-Bundesliga verbucht.",
+   "clubs": [
+    6,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bitteres-urteil-union-fehlen-die-fussballerischen-mittel-1273612/video",
+   "title": "Bitteres Urteil: \"Union fehlen die fußballerischen Mittel\"",
+   "link": "https://www.kicker.de/bitteres-urteil-union-fehlen-die-fussballerischen-mittel-1273612/video",
+   "source": "kicker",
+   "published": "2026-11-21T17:52:36Z",
+   "teaser": "Union Berlin hat gegen RB Leipzig den nächsten Rückschlag kassiert. Für Trainer Mauro Lustrinelli wird es nun noch schwerer, das Ruder herumzureißen.",
+   "clubs": [
+    1635,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/baumanns-generalkritik-viel-zu-viel-schauspiel-viel-zu-viel-manipulation-1273569/artikel",
+   "title": "Baumanns Generalkritik: \"Viel zu viel Schauspiel, viel zu viel Manipulation\"",
+   "link": "https://www.kicker.de/baumanns-generalkritik-viel-zu-viel-schauspiel-viel-zu-viel-manipulation-1273569/artikel",
+   "source": "kicker",
+   "published": "2026-11-21T17:45:00Z",
+   "teaser": "Bei Hoffenheims 0:1-Niederlage zeichnete sich Torhüter Oliver Baumann mit einem gehaltenen Elfmeter aus - genauso wie sein Gegenüber Noah Atubolu. Baumann aber kritisierte die Art und Weise des Zustandekommens der Elfmeter scharf.",
+   "clubs": [
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/depp-vom-dienst-batz-entschuldigt-sich-fuer-seinen-fehler-1273553/artikel",
+   "title": "\"Depp vom Dienst\": Batz entschuldigt sich für seinen Fehler",
+   "link": "https://www.kicker.de/depp-vom-dienst-batz-entschuldigt-sich-fuer-seinen-fehler-1273553/artikel",
+   "source": "kicker",
+   "published": "2026-11-21T17:18:36Z",
+   "teaser": "Gladbach hat gegen Dortmund knapp mit 0:1 verloren und steht erneut mit leeren Händen da. Aktien in der entscheidenden Szene hatte Keeper Daniel Batz, der nach dem Gegentor alle Schuld auf sich nahm.",
+   "clubs": [
+    7,
+    87
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/fc-schalke-04-gegen-vfb-stuttgart,audiostream-fc-schalke-04-gegen-vfb-stuttgart-102.html",
    "title": "Live hören: FC Schalke 04 gegen VfB Stuttgart - Bundesliga",
    "link": "https://www.sportschau.de/fussball/bundesliga/fc-schalke-04-gegen-vfb-stuttgart,audiostream-fc-schalke-04-gegen-vfb-stuttgart-102.html",
@@ -25,6 +269,114 @@
    "clubs": [
     16,
     9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fifpro-statement-zum-fall-musiala-spielergewerkschaft-zutiefst-besorgt-1273548/artikel",
+   "title": "FIFPRO-Statement zum Fall Musiala: Spielergewerkschaft \"zutiefst besorgt\"",
+   "link": "https://www.kicker.de/fifpro-statement-zum-fall-musiala-spielergewerkschaft-zutiefst-besorgt-1273548/artikel",
+   "source": "kicker",
+   "published": "2026-11-21T16:33:22Z",
+   "teaser": "Die Aussagen der Bayern-Bosse sorgen weiter für Wirbel - auch auf der Jahreshautversammlung des FCB und bei der Spielergewerkschaft. Die FIFPRO zeigt sich besorgt.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/thema-musiala-und-die-mitgliederversammlung-spannend-wurde-es-erst-danach-1273558/video",
+   "title": "Thema Musiala und die Mitgliederversammlung: \"Spannend wurde es erst danach\"",
+   "link": "https://www.kicker.de/thema-musiala-und-die-mitgliederversammlung-spannend-wurde-es-erst-danach-1273558/video",
+   "source": "kicker",
+   "published": "2026-11-21T16:33:00Z",
+   "teaser": "Das große Thema Jamal Musiala wurde auf der Mitgliedersammlung des FC Bayern kaum besprochen, erst in der Mixed Zone bezogen die anwesenden Funktionäre Stellung.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/leipzigs-offensive-rollt-auch-bei-union-berlin,spielbericht-union-berlin-rb-leipzig-104.html",
+   "title": "Leipzigs Offensive rollt auch bei Union Berlin",
+   "link": "https://www.sportschau.de/fussball/bundesliga/leipzigs-offensive-rollt-auch-bei-union-berlin,spielbericht-union-berlin-rb-leipzig-104.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T16:29:09Z",
+   "teaser": "RB Leipzig macht bei Union Berlin genauso weiter wie vor der Länderspielpause und fährt den nächsten hohen Sieg ein.",
+   "clubs": [
+    1635,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/druck-auf-musiala-dreesen-ordnet-rummenigge-aussagen-ein-1273555/video",
+   "title": "Druck auf Musiala: Dreesen ordnet Rummenigge-Aussagen ein",
+   "link": "https://www.kicker.de/druck-auf-musiala-dreesen-ordnet-rummenigge-aussagen-ein-1273555/video",
+   "source": "kicker",
+   "published": "2026-11-21T16:25:30Z",
+   "teaser": "In der Mixed Zone nach der Mitgliederversammlung sprach Bayern-CEO über Jamal Musiala und die Aussagen von Karl-Heinz Rummenigge.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/freiburg-siegt-in-elversberg-und-bleibt-oben-dran,spielbericht-sv-elversberg-sc-freiburg-100.html",
+   "title": "Freiburg siegt in Elversberg und bleibt oben dran",
+   "link": "https://www.sportschau.de/fussball/bundesliga/freiburg-siegt-in-elversberg-und-bleibt-oben-dran,spielbericht-sv-elversberg-sc-freiburg-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T16:21:24Z",
+   "teaser": "Der SC Freiburg hat in der Fußball-Bundesliga einen Sieg bei der SV Elversberg eingefahren und ist als Tabellendritter weiter oben mit dabei.",
+   "clubs": [
+    112,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/dreesen-mit-appell-an-die-bundesliga-brauchen-spieler-die-begeistern-1273543/video",
+   "title": "Dreesen mit Appell an die Bundesliga: \"Brauchen Spieler, die begeistern\"",
+   "link": "https://www.kicker.de/dreesen-mit-appell-an-die-bundesliga-brauchen-spieler-die-begeistern-1273543/video",
+   "source": "kicker",
+   "published": "2026-11-21T15:54:03Z",
+   "teaser": "Auf der Mitgliederversammlung sprach Jan-Christian Dreesen über die Vertragsverlängerung von Harry Kane und richtete sich anschließend an die anderen 17 Bundesligisten.",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/grosser-applaus-bei-hainer-verkuendung-bayern-knackt-die-500-000-mitglieder-1273542/video",
+   "title": "Großer Applaus bei Hainer-Verkündung: Bayern knackt die 500.000 Mitglieder",
+   "link": "https://www.kicker.de/grosser-applaus-bei-hainer-verkuendung-bayern-knackt-die-500-000-mitglieder-1273542/video",
+   "source": "kicker",
+   "published": "2026-11-21T15:53:52Z",
+   "teaser": "Der FC Bayern ist der erste Verein der Welt, der die Marke von 500.000 Mitgliedern knackt. Herbert Hainer zeigte sich sichtlich stolz auf der Mitgliederversammlung.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-auch-rummenigge-zweifelt-an-musiala-rueckkehr-auf-topniveau-102.html",
+   "title": "Auch Rummenigge zweifelt an Musiala - und erntet Kritik von FIFPRO",
+   "link": "https://www.sportschau.de/regional/br/br-auch-rummenigge-zweifelt-an-musiala-rueckkehr-auf-topniveau-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T15:45:03Z",
+   "teaser": "Die internationale Spielergewerkschaft FIFPRO wirft dem FC Bayern vor, Jamal Musiala vor möglichen Vertragsgesprächen gezielt öffentlich unter Druck zu setzen.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/lieber-michael-lass-dich-nicht-verbiegen-bleib-so-wie-du-bist-1273525/video",
+   "title": "\"Lieber Michael, lass dich nicht verbiegen - bleib so, wie du bist\"´",
+   "link": "https://www.kicker.de/lieber-michael-lass-dich-nicht-verbiegen-bleib-so-wie-du-bist-1273525/video",
+   "source": "kicker",
+   "published": "2026-11-21T14:58:28Z",
+   "teaser": "Herbert Hainer richtete auf der Jahrshautversammlung des FC Bayern persönliche Worte an Michael Olise.",
+   "clubs": [
+    40
    ],
    "transfer": false
   },
@@ -216,16 +568,6 @@
    "clubs": [
     7
    ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-auch-rummenigge-zweifelt-an-musiala-rueckkehr-auf-topniveau-102.html",
-   "title": "Auch Rummenigge zweifelt an Musiala-Rückkehr auf Topniveau",
-   "link": "https://www.sportschau.de/regional/br/br-auch-rummenigge-zweifelt-an-musiala-rueckkehr-auf-topniveau-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T08:57:11Z",
-   "teaser": "Karl-Heinz Rummenigge hat in der Diskussion um Jamal Musiala noch einmal nachgelegt. Das Aufsichtsratsmitglied der Münchner hegt Zweifel, ob der verletzungsgeplagte Musiala wieder sein altes Niveau erreichen könne. Sportvorstand Eberl …",
-   "clubs": [],
    "transfer": true
   },
   {
@@ -2133,320 +2475,6 @@
    "teaser": "Mit Ach und Krach und einem wichtigen Sieg rettete sich die angeschlagene TSG in die Ligapause. Die sollen die Spieler nutzen, um die Akkus geistig und körperlich aufzuladen. Derweil sorgt sich Geschäftsführer Schicker um die …",
    "clubs": [
     175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/luis-diaz-trainiert-mit-musiala-1271019/artikel",
-   "title": "Luis Diaz trainiert mit Musiala",
-   "link": "https://www.kicker.de/luis-diaz-trainiert-mit-musiala-1271019/artikel",
-   "source": "kicker",
-   "published": "2026-11-12T13:42:49Z",
-   "teaser": "Luis Diaz hat am Donnerstag einen weiteren Schritt in Richtung Comeback gemacht. Und er ist nicht der Einzige beim FC Bayern.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/watzke-appelliert-an-nmecha-wir-setzen-immer-eher-auf-einsicht-1271007/artikel",
-   "title": "Watzke appelliert an Nmecha: \"Wir setzen immer eher auf Einsicht\"",
-   "link": "https://www.kicker.de/watzke-appelliert-an-nmecha-wir-setzen-immer-eher-auf-einsicht-1271007/artikel",
-   "source": "kicker",
-   "published": "2026-11-12T13:29:30Z",
-   "teaser": "Die Causa Felix Nmecha beschäftigt den BVB weiterhin. Nun äußert sich Präsident Hans-Joachim Watzke und berichtet aus seinem Gespräch mit dem Spieler. Das ist der Stand.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/leipzig-gegen-mlada-boleslav-2026-vereine-freundschaftsspiele-5276469/spielbericht",
-   "title": "Hose gerissen: RB verliert Testspiel gegen Boleslav",
-   "link": "https://www.kicker.de/leipzig-gegen-mlada-boleslav-2026-vereine-freundschaftsspiele-5276469/spielbericht",
-   "source": "kicker",
-   "published": "2026-11-12T13:09:00Z",
-   "teaser": "RB Leipzig unterlag trotz prominent besetzter Mannschaft im Testspiel dem tschechischen Erstligisten Mlada Boleslav. 4:5 hieß es am Ende aus Sicht der Leipziger - und auch eine gerissene Hose spielte eine Rolle.",
-   "clubs": [
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/dauerstreit-zwischen-graefe-und-dem-dfb-urteil-im-dezember-oder-einigung-1270995/artikel",
-   "title": "Dauerstreit zwischen Gräfe und dem DFB: Urteil im Dezember oder Einigung?",
-   "link": "https://www.kicker.de/dauerstreit-zwischen-graefe-und-dem-dfb-urteil-im-dezember-oder-einigung-1270995/artikel",
-   "source": "kicker",
-   "published": "2026-11-12T12:45:00Z",
-   "teaser": "Der frühere FIFA-Referee Manuel Gräfe geht seit Jahren juristisch gegen den DFB vor, weil er einst nicht mehr Bundesliga pfeifen durfte. Nun haben sich die Parteien erstmals angenähert.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kade-koemuer-und-co-die-jugend-im-fca-kader-entwickelt-sich-international-1270963/artikel",
-   "title": "Kade, Kömür und Co.: Die Jugend im FCA-Kader entwickelt sich international",
-   "link": "https://www.kicker.de/kade-koemuer-und-co-die-jugend-im-fca-kader-entwickelt-sich-international-1270963/artikel",
-   "source": "kicker",
-   "published": "2026-11-12T11:42:16Z",
-   "teaser": "Sportlich ging es beim FC Augsburg mit sieben sieglosen Bundesligaspielen zuletzt abwärts, doch es gibt auch Positives: Sechs U-21-Nationalspieler im Kader des Bundesligisten zeigen dessen Entwicklungspotenzial.",
-   "clubs": [
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gegen-den-hsv-pantelic-und-das-meisterwerk-der-provokation-1270956/video",
-   "title": "Gegen den HSV: Pantelic und das Meisterwerk der Provokation",
-   "link": "https://www.kicker.de/gegen-den-hsv-pantelic-und-das-meisterwerk-der-provokation-1270956/video",
-   "source": "kicker",
-   "published": "2026-11-12T09:49:00Z",
-   "teaser": "Im August 2006 sorgte Marko Pantelic bei seiner Auswechslung im Gastspiel der Berliner in Hamburg für eine Szene, die beim Publikum das Blut zum Kochen brachte.",
-   "clubs": [
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/us-boy-castaneda-vor-nationalelf-debuet-da-gibt-s-gerade-ganz-viele-gefuehle-1270645/artikel",
-   "title": "US-Boy Castaneda vor Nationalelf-Debüt: \"Da gibt's gerade ganz viele Gefühle\"",
-   "link": "https://www.kicker.de/us-boy-castaneda-vor-nationalelf-debuet-da-gibt-s-gerade-ganz-viele-gefuehle-1270645/artikel",
-   "source": "kicker",
-   "published": "2026-11-11T22:24:27Z",
-   "teaser": "Dieser Mann lebt seinen Traum. Aufstieg in die Bundesliga, Vertragsverlängerung - und nun eine Einladung, die in mehrerlei Hinsicht Emotionen auslöste. Bisher lief das Jahr für Santiago Castaneda sportlich \"wahnsinnig\" positiv.",
-   "clubs": [],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/leipzigs-el-aynaoui-reist-vorzeitig-von-marokkos-nationalmannschaft-ab-1270842/artikel",
-   "title": "Leipzigs El Aynaoui reist vorzeitig von Marokkos Nationalmannschaft ab",
-   "link": "https://www.kicker.de/leipzigs-el-aynaoui-reist-vorzeitig-von-marokkos-nationalmannschaft-ab-1270842/artikel",
-   "source": "kicker",
-   "published": "2026-11-11T21:21:47Z",
-   "teaser": "Neil El Aynaoui ist vorzeitig von der marokkanischen Nationalmannschaft abgereist. Das teilte dessen Stammverein RB Leipzig am Mittwochabend mit.",
-   "clubs": [
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/trotz-schneller-karius-rueckkehr-schalke-auf-der-intensivstation-1270728/artikel",
-   "title": "Trotz schneller Karius-Rückkehr: Schalke auf der Intensivstation",
-   "link": "https://www.kicker.de/trotz-schneller-karius-rueckkehr-schalke-auf-der-intensivstation-1270728/artikel",
-   "source": "kicker",
-   "published": "2026-11-11T17:50:32Z",
-   "teaser": "Schalke 04 befindet sich im Herbst 2026 in sportlicher Hinsicht auf der Intensivstation, personell hängt der Vorletzte am Tropf. Loris Karius ist zwar schon wieder ins Mannschaftstraining zurückgekehrt, doch etliche weitere Kräfte fehlen …",
-   "clubs": [
-    9
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/angebrochene-rippen-oder-ausser-form-stuttgarts-probleme-rechts-hinten-1270656/artikel",
-   "title": "Angebrochene Rippen oder außer Form: Stuttgarts Probleme rechts hinten",
-   "link": "https://www.kicker.de/angebrochene-rippen-oder-ausser-form-stuttgarts-probleme-rechts-hinten-1270656/artikel",
-   "source": "kicker",
-   "published": "2026-11-11T14:21:46Z",
-   "teaser": "Potenzielle Rechtsverteidiger hat der VfB Stuttgart genug. Doch entweder sind sie verletzt, nicht in Form oder nur Stellvertreter. Wie geht es nach der Länderspielpause weiter?",
-   "clubs": [
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/mainzer-fastnachtstrikot-im-schnorres-design-1270692/artikel",
-   "title": "Mainzer Fastnachtstrikot im Schnorres-Design",
-   "link": "https://www.kicker.de/mainzer-fastnachtstrikot-im-schnorres-design-1270692/artikel",
-   "source": "kicker",
-   "published": "2026-11-11T13:04:56Z",
-   "teaser": "Zum 100-jährigen Schwellköpp-Jubiläum orientiert sich der 1. FSV Mainz 05 bei seinem Fastnachtstrikot an einer der traditionsreichen Figuren: Schnorres ist der Pate des Sondertrikots, das in diesem Jahr auch eine Torwartedition erhält.",
-   "clubs": [
-    81
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/will-etwas-zurueckgeben-mainzer-aushaengeschild-nebel-setzt-ein-signal-1270492/artikel",
-   "title": "\"Will etwas zurückgeben\": Mainzer Aushängeschild Nebel setzt ein Signal",
-   "link": "https://www.kicker.de/will-etwas-zurueckgeben-mainzer-aushaengeschild-nebel-setzt-ein-signal-1270492/artikel",
-   "source": "kicker",
-   "published": "2026-11-11T10:50:30Z",
-   "teaser": "Ein ablösefreier Abschied stand als Schreckensszenario für Mainz im Raum. Doch Paul Nebel beweist: Profifußball funktioniert nach wie vor auch mit einem Schuss Romantik.",
-   "clubs": [
-    81
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/die-sind-doch-nicht-ganz-dicht-die-besten-koelner-karnevals-outfits-1270643/video",
-   "title": "\"Die sind doch nicht ganz dicht\": Die besten Kölner Karnevals-Outfits",
-   "link": "https://www.kicker.de/die-sind-doch-nicht-ganz-dicht-die-besten-koelner-karnevals-outfits-1270643/video",
-   "source": "kicker",
-   "published": "2026-11-11T10:11:56Z",
-   "teaser": "Traditionell feiert der 1. FC Köln kräftig beim Karneval mit. Da es in diesem Jahr kein kostümiertes Karnevalstraining am 11.11. gibt, zeigen wir euch die besten Outfits aus den letzten Jahren.",
-   "clubs": [
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fc-bayern-trennt-sich-von-nachwuchs-chefscout-zahn-1270624/artikel",
-   "title": "FC Bayern trennt sich von Nachwuchs-Chefscout Zahn",
-   "link": "https://www.kicker.de/fc-bayern-trennt-sich-von-nachwuchs-chefscout-zahn-1270624/artikel",
-   "source": "kicker",
-   "published": "2026-11-11T09:45:14Z",
-   "teaser": "Es hatte sich angedeutet, nun ist es offiziell: Nach der Trennung von Scouting-Chef Nils Schmadtke beendet der FC Bayern auch die Zusammenarbeit mit Nachwuchs-Chefscout Florian Zahn.",
-   "clubs": [
-    40
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/pelka-verlaesst-werder-fischer-trifft-wieder-auf-thioune-1270500/artikel",
-   "title": "Pelka verlässt Werder - Fischer trifft wieder auf Thioune",
-   "link": "https://www.kicker.de/pelka-verlaesst-werder-fischer-trifft-wieder-auf-thioune-1270500/artikel",
-   "source": "kicker",
-   "published": "2026-11-11T09:10:56Z",
-   "teaser": "Die Personalrochaden bei Holstein Kiel gehen munter weiter, auch der SV Werder Bremen ist davon betroffen - und hat nun einen neuen Videoanalysten. Für Daniel Thioune kein Unbekannter.",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-schalke-kann-sich-nur-an-tiefschlaegen-hochziehen-104.html",
-   "title": "Schalke kann sich nur an Tiefschlägen hochziehen",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-schalke-kann-sich-nur-an-tiefschlaegen-hochziehen-104.html",
-   "source": "Sportschau",
-   "published": "2026-11-11T09:00:23Z",
-   "teaser": "Auch Schalkes offensiv beste Saisonleistung reichte nur für eine Niederlage. Es ist zum Verweifeln, doch das ist nicht erlaubt.",
-   "clubs": [
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-gladbachs-muskeln-spielen-nicht-mehr-mit-100.html",
-   "title": "Gladbachs Muskeln spielen nicht mehr mit",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-gladbachs-muskeln-spielen-nicht-mehr-mit-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-11T09:00:04Z",
-   "teaser": "Borussia Mönchengladbach kämpft nicht nur gegen den Abstieg, sondern auch gegen eine auffällige Häufung von Muskelverletzungen.",
-   "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/mehr-als-ein-neues-gesicht-im-eintracht-aufsichtsrat-1270429/artikel",
-   "title": "Mehr als ein neues Gesicht im Eintracht-Aufsichtsrat?",
-   "link": "https://www.kicker.de/mehr-als-ein-neues-gesicht-im-eintracht-aufsichtsrat-1270429/artikel",
-   "source": "kicker",
-   "published": "2026-11-10T15:22:34Z",
-   "teaser": "Während die Eintracht in der Länderspielpause sportlich etwas durchschnaufen kann, stehen im Hintergrund wichtige Gespräche an. Neben dem aus der Ultraszene stammenden Vizepräsidenten Benjamin von Loefen könnte auch ein bekannter Ex-Profi …",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bayer-befasst-sich-konkret-mit-gladbachs-top-talent-mohya-1270414/artikel",
-   "title": "Bayer befasst sich konkret mit Gladbachs Top-Talent Mohya",
-   "link": "https://www.kicker.de/bayer-befasst-sich-konkret-mit-gladbachs-top-talent-mohya-1270414/artikel",
-   "source": "kicker",
-   "published": "2026-11-10T14:44:23Z",
-   "teaser": "Bayer 04 Leverkusen zeigt großes Interesse an Gladbachs 17-jährigem Top-Talent Wael Mohya. Der Europa-League-Teilnehmer befasst sich konkret mit einer möglichen Verpflichtung des angehenden deutschen Nationalspielers.",
-   "clubs": [
-    6,
-    87
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/kompany-ist-zurueck-an-der-saebener-strasse-1270379/artikel",
-   "title": "Kompany ist zurück an der Säbener Straße",
-   "link": "https://www.kicker.de/kompany-ist-zurueck-an-der-saebener-strasse-1270379/artikel",
-   "source": "kicker",
-   "published": "2026-11-10T13:20:00Z",
-   "teaser": "Am Sonntag hatte Ehrenpräsident Uli Hoeneß angedeutet, dass Vincent Kompany nach der Länderspielpause auf die Bank des FC Bayern München zurückkehren wird. Nun war der Belgier nach seiner Erkrankung wieder am Vereinsgelände.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/warum-die-eintracht-bis-weihnachten-im-nebel-stochern-muss-1270428/video",
-   "title": "Warum die Eintracht bis Weihnachten \"im Nebel stochern muss\"",
-   "link": "https://www.kicker.de/warum-die-eintracht-bis-weihnachten-im-nebel-stochern-muss-1270428/video",
-   "source": "kicker",
-   "published": "2026-11-10T12:58:48Z",
-   "teaser": "Nach neun Spieltagen ist klar, dass der Kader der Eintracht gerade in der Defensive noch einiges an Nachholbedarf hat. Doch bis das Transferfenster im Januar öffnet, muss sich die Eintracht noch ein wenig gedulden, sodass Coach Adi Hütter …",
-   "clubs": [],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/bleibt-dahmen-und-wer-kommt-wenn-nicht-1270391/artikel",
-   "title": "Bleibt Dahmen? Und wer kommt, wenn nicht?",
-   "link": "https://www.kicker.de/bleibt-dahmen-und-wer-kommt-wenn-nicht-1270391/artikel",
-   "source": "kicker",
-   "published": "2026-11-10T11:19:53Z",
-   "teaser": "Im Sommer 2023 wechselte Finn Dahmen ablösefrei vom 1. FSV Mainz 05 zum FC Augsburg und ist seitdem, mit Ausnahme der Hinrunde 2024/25, die Nummer 1. Nun läuft sein Vertrag zum Saisonende aus. Wie geht es weiter?",
-   "clubs": [
-    81,
-    95
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/so-geht-es-bei-bayerns-torhuetern-weiter-1270378/artikel",
-   "title": "So geht es bei Bayerns Torhütern weiter",
-   "link": "https://www.kicker.de/so-geht-es-bei-bayerns-torhuetern-weiter-1270378/artikel",
-   "source": "kicker",
-   "published": "2026-11-10T10:54:36Z",
-   "teaser": "Mit einem Sehnenanriss fällt Manuel Neuer in seiner höchstwahrscheinlich letzten Saison als Profi lange aus. Was bedeutet dies für die unmittelbare Zukunft im Bayern-Tor, aber auch ab der Saison 2027/28? Ein Update.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/der-unerschrockene-wie-sich-chabot-auf-seine-gegenspieler-vorbereitet-1270152/artikel",
-   "title": "Der Unerschrockene: Wie sich Chabot auf seine Gegenspieler vorbereitet",
-   "link": "https://www.kicker.de/der-unerschrockene-wie-sich-chabot-auf-seine-gegenspieler-vorbereitet-1270152/artikel",
-   "source": "kicker",
-   "published": "2026-11-10T09:09:35Z",
-   "teaser": "Jeff Chabot hat die relevanten U-Mannschaften des DFB durchlaufen. Er kennt die Schwächen der Top-Stürmer, bereitet sich akribisch auf seine Gegenspieler vor - und muss dennoch weiter auf seine erste Nominierung für die Nationalmannschaft …",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/sv-elversberg-zieht-positive-jahresbilanz-1270317/artikel",
-   "title": "SV Elversberg zieht positive Jahresbilanz",
-   "link": "https://www.kicker.de/sv-elversberg-zieht-positive-jahresbilanz-1270317/artikel",
-   "source": "kicker",
-   "published": "2026-11-10T07:20:49Z",
-   "teaser": "Bundesligist SV Elversberg hat am Montagabend auf seiner Mitgliederversammlung eine positive Jahresbilanz gezogen - und weist obendrauf ein Eigenkapitel in Höhe von über einer Million Euro aus.",
-   "clubs": [
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/nmecha-weist-kritik-an-torjubel-zurueck,felix-nmecha-130.html",
-   "title": "Nähe zu evangelikalen Netzwerken? Nmecha weist Kritik zurück",
-   "link": "https://www.sportschau.de/fussball/nmecha-weist-kritik-an-torjubel-zurueck,felix-nmecha-130.html",
-   "source": "Sportschau",
-   "published": "2026-11-10T07:10:32Z",
-   "teaser": "Felix Nmecha hat seinen Torjubel verteidigt und erklärt, in seinem Glauben niemanden ausgrenzen zu wollen.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nmecha-ueber-seinen-torjubel-hat-zu-missverstaendnissen-gefuehrt-1270321/artikel",
-   "title": "Nmecha über seinen Torjubel: \"Hat zu Missverständnissen geführt\"",
-   "link": "https://www.kicker.de/nmecha-ueber-seinen-torjubel-hat-zu-missverstaendnissen-gefuehrt-1270321/artikel",
-   "source": "kicker",
-   "published": "2026-11-10T06:56:24Z",
-   "teaser": "Nach erneuter Kritik an seiner Jubelgeste hat der Dortmunder Nationalspieler Felix Nmecha nun selbst Stellung bezogen.",
-   "clubs": [
-    7
    ],
    "transfer": false
   }
