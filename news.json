@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:01:54Z",
+ "updated": "2026-11-22T00:16:38Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,9 +16,108 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/absage-nachvollziehbar-burkardt-spricht-ueber-klopps-anruf-1273715/artikel",
+   "title": "Absage \"nachvollziehbar\": Burkardt spricht über Klopps Anruf",
+   "link": "https://www.kicker.de/absage-nachvollziehbar-burkardt-spricht-ueber-klopps-anruf-1273715/artikel",
+   "source": "kicker",
+   "published": "2026-11-21T23:49:24Z",
+   "teaser": "Von Bundestrainer Jürgen Klopp wurde Jonathan Burkardt nicht für die November-Länderspiele eingeladen. Nun gab der Eintracht-Angreifer Einblicke in das Telefonat - und bezeichnete die Absage als \"nachvollziehbar\".",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/die-sportschau-am-samstag-in-voller-laenge,sportschau-am-samstag-re-live-2111-100.html",
+   "title": "Die Sportschau am Samstag in voller Länge",
+   "link": "https://www.sportschau.de/fussball/die-sportschau-am-samstag-in-voller-laenge,sportschau-am-samstag-re-live-2111-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T23:00:00Z",
+   "teaser": "Sehen Sie hier die Sportschau am Samstag mit den Highlights der Bundesliga, 2. Bundesliga, sowie von ausgewählten Spielen der 3. Liga, Frauen-Bundesliga und Premier League.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/gruda-als-man-of-the-match-demichelis-bin-nicht-dieser-meinung-1273685/video",
+   "title": "Gruda als Man of the Match? Demichelis: \"Bin nicht dieser Meinung\"",
+   "link": "https://www.kicker.de/gruda-als-man-of-the-match-demichelis-bin-nicht-dieser-meinung-1273685/video",
+   "source": "kicker",
+   "published": "2026-11-21T21:21:43Z",
+   "teaser": "Brajan Gruda ist aktuell einer der Stars von RB Leipzig. Martín Demichelis lobt ihn nach seinen guten Leistungen beim DFB und gegen Union Berlin, sieht ihn heute aber nicht als Man of the Match.",
+   "clubs": [
+    1635,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wetten-dass-der-schalker-torknoten-gegen-den-bvb-platzt-1273678/video",
+   "title": "\"Wetten, dass der Schalker Torknoten gegen den BVB platzt?\"",
+   "link": "https://www.kicker.de/wetten-dass-der-schalker-torknoten-gegen-den-bvb-platzt-1273678/video",
+   "source": "kicker",
+   "published": "2026-11-21T21:00:32Z",
+   "teaser": "Gegen Stuttgart holte Schalke zwar einen Punkt, verpasste aber erneut den ersten Treffer der Saison vor heimischer Kulisse. Die nächste Gelegenheit würde sich durchaus für die Premiere anbieten, immerhin wartet das Revierderby.",
+   "clubs": [
+    7,
+    16,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hoeness-nach-becker-handspiel-warum-sich-das-nicht-einmal-angeschaut-wird-1273663/artikel",
+   "title": "Hoeneß nach Becker-Handspiel: \"Warum sich das nicht einmal angeschaut wird ...\"",
+   "link": "https://www.kicker.de/hoeness-nach-becker-handspiel-warum-sich-das-nicht-einmal-angeschaut-wird-1273663/artikel",
+   "source": "kicker",
+   "published": "2026-11-21T21:00:16Z",
+   "teaser": "Der VfB Stuttgart hat den Kontakt nach oben etwas abreißen lassen durch das 0:0 auf Schalke. In diesem Zusammenhang störten sich Kapitän Deniz Undav und Trainer Sebastian Hoeneß noch an einer Szene.",
+   "clubs": [
+    16,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-bei-borussia-moenchengladbach-geht-aktuell-alles-schief-100.html",
+   "title": "Bei Borussia Mönchengladbach geht aktuell alles schief",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-bei-borussia-moenchengladbach-geht-aktuell-alles-schief-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T20:32:40Z",
+   "teaser": "Borussia Mönchengladbach verliert auch gegen den BVB und bleibt Tabellenletzter. Die Umstände dieser Niederlage sprechen Bände.",
+   "clubs": [
+    7,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/schalke-zementiert-die-null-im-eigenen-stadion,spielbericht-schalke-04-vfb-stuttgart-100.html",
+   "title": "Wie verhext: Schalke trifft auch gegen Stuttgart zuhause das Tor nicht",
+   "link": "https://www.sportschau.de/fussball/bundesliga/schalke-zementiert-die-null-im-eigenen-stadion,spielbericht-schalke-04-vfb-stuttgart-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-21T20:16:39Z",
+   "teaser": "Schalke 04 bleibt zuhause torlos und hat so nach einem eigentlich starken Auftritt gegen den Champions-League-Teilnehmer VfB Stuttgart einen Bundesliga-Negativrekord eingestellt.",
+   "clubs": [
+    16,
+    9
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/borussen-duelle-der-gegensaetze-wenn-die-bayern-verwundbar-sind-dann-jetzt-1273656/video",
    "title": "Borussen-Duelle der Gegensätze: \"Wenn die Bayern verwundbar sind, dann jetzt\"",
    "link": "https://www.kicker.de/borussen-duelle-der-gegensaetze-wenn-die-bayern-verwundbar-sind-dann-jetzt-1273656/video",
+   "source": "kicker",
+   "published": "2026-11-21T19:51:50Z",
+   "teaser": "Der BVB setzte sich im Borussen-Duell aufgrund eines Patzers von Daniel Batz knapp durch. Somit waren die 90 Minuten sinnbildlich für den bisherigen Saisonverlauf der beiden Teams.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/borussen-duell-der-gegensaetze-wenn-die-bayern-verwundbar-sind-dann-jetzt-1273656/video",
+   "title": "Borussen-Duell der Gegensätze: \"Wenn die Bayern verwundbar sind, dann jetzt\"",
+   "link": "https://www.kicker.de/borussen-duell-der-gegensaetze-wenn-die-bayern-verwundbar-sind-dann-jetzt-1273656/video",
    "source": "kicker",
    "published": "2026-11-21T19:51:50Z",
    "teaser": "Der BVB setzte sich im Borussen-Duell aufgrund eines Patzers von Daniel Batz knapp durch. Somit waren die 90 Minuten sinnbildlich für den bisherigen Saisonverlauf der beiden Teams.",
@@ -51,19 +150,6 @@
    "clubs": [
     91,
     175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/schalke-zementiert-die-null-im-eigenen-stadion,spielbericht-schalke-04-vfb-stuttgart-100.html",
-   "title": "Wie verhext: Schalke trifft auch gegen Stuttgart zuhause das Tor nicht",
-   "link": "https://www.sportschau.de/fussball/bundesliga/schalke-zementiert-die-null-im-eigenen-stadion,spielbericht-schalke-04-vfb-stuttgart-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T19:21:36Z",
-   "teaser": "Schalke 04 bleibt zuhause torlos und hat so nach einem eigentlich starken Auftritt gegen den Champions-League-Teilnehmer VfB Stuttgart einen Bundesliga-Negativrekord eingestellt.",
-   "clubs": [
-    16,
-    9
    ],
    "transfer": false
   },
@@ -2392,90 +2478,6 @@
    "published": "2026-11-13T07:57:00Z",
    "teaser": "Anfang Dezember tagen die Klubs aus Bundesliga und 2. Liga. Dabei geht es auch um 50+1. Der kicker kennt den Vorschlag zum Meinungsbild, den das Liga-Präsidium zur Disposition stellen möchte und bemerkenswert klar ist.",
    "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/im-test-gegen-split-vuskovic-feiert-nach-1467-tagen-hsv-comeback-vor-50-000-fans-1271159/artikel",
-   "title": "Im Test gegen Split: Vuskovic feiert nach 1467 Tagen HSV-Comeback vor 50.000 Fans",
-   "link": "https://www.kicker.de/im-test-gegen-split-vuskovic-feiert-nach-1467-tagen-hsv-comeback-vor-50-000-fans-1271159/artikel",
-   "source": "kicker",
-   "published": "2026-11-13T07:09:34Z",
-   "teaser": "Nach 1467 Tagen des Wartens darf sich Mario Vuskovic endlich wieder das Trikot des Hamburger SV überstreifen. Bereits vor dem emotionalen Comeback vor 50.000 Fans am Sonntag hatte Merlin Polzin angekündigt: \"Diese Woche ist für Mario da.\"",
-   "clubs": [
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bericht-rb-leipzig-plant-erneute-gruendung-eines-u-23-teams-1271105/artikel",
-   "title": "Bericht: RB Leipzig plant erneute Gründung eines U-23-Teams",
-   "link": "https://www.kicker.de/bericht-rb-leipzig-plant-erneute-gruendung-eines-u-23-teams-1271105/artikel",
-   "source": "kicker",
-   "published": "2026-11-12T19:40:27Z",
-   "teaser": "RB Leipzig strebt offenbar die erneute Gründung einer zweiten Mannschaft an. In welcher Liga diese starten könnte, ist aktuell noch offen.",
-   "clubs": [
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/top-torjaeger-bei-werders-erster-meisterschaft-matischak-ist-tot-1271076/artikel",
-   "title": "Top-Torjäger bei Werders erster Meisterschaft: Matischak ist tot",
-   "link": "https://www.kicker.de/top-torjaeger-bei-werders-erster-meisterschaft-matischak-ist-tot-1271076/artikel",
-   "source": "kicker",
-   "published": "2026-11-12T18:09:49Z",
-   "teaser": "Klaus Matischak ist tot. Der ehemalige Stürmer hatte 1965 entscheidenden Anteil an der ersten Deutschen Meisterschaft von Werder Bremen.",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/das-fand-ich-schon-cool-sorgt-strobl-fuer-die-grosse-arnold-ueberraschung-1271064/artikel",
-   "title": "\"Das fand ich schon cool\": Sorgt Strobl für die große Arnold-Überraschung?",
-   "link": "https://www.kicker.de/das-fand-ich-schon-cool-sorgt-strobl-fuer-die-grosse-arnold-ueberraschung-1271064/artikel",
-   "source": "kicker",
-   "published": "2026-11-12T17:30:18Z",
-   "teaser": "Der VfL Wolfsburg gewann sein Testspiel gegen den erschreckend schwachen Erstligisten Union Berlin mit 2:0. Überraschung: Kapitän Maximilian Arnold agierte als linker Innenverteidiger - kann er das auch in der 2. Liga?",
-   "clubs": [
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/assist-gegen-luettich-gladbach-freut-sich-auf-rueckkehrer-kuehn-1271055/artikel",
-   "title": "Assist gegen Lüttich: Gladbach freut sich auf Rückkehrer Kühn",
-   "link": "https://www.kicker.de/assist-gegen-luettich-gladbach-freut-sich-auf-rueckkehrer-kuehn-1271055/artikel",
-   "source": "kicker",
-   "published": "2026-11-12T16:19:49Z",
-   "teaser": "Borussia Mönchengladbach hat ein Testspiel gegen Standard Lüttich 1:0 gewonnen. Das Siegtor bereitete mit Nicolas Kühn einer der Rückkehrer vor. So sah der Trainer das Comeback des Offensivspielers.",
-   "clubs": [
-    87
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/koeln-meldet-rekorde-bei-umsatz-und-mitgliedern-aber-weniger-gewinn-1270811/artikel",
-   "title": "Köln meldet Rekorde bei Umsatz und Mitgliedern, aber weniger Gewinn",
-   "link": "https://www.kicker.de/koeln-meldet-rekorde-bei-umsatz-und-mitgliedern-aber-weniger-gewinn-1270811/artikel",
-   "source": "kicker",
-   "published": "2026-11-12T16:00:00Z",
-   "teaser": "Das Geschäftsjahr 2025/26 beendet der 1. FC Köln erneut mit einem positiven Ergebnis. Doch die gestiegenen Investitionen in den sportlichen Bereich schlagen sich auch in der Bilanz nieder.",
-   "clubs": [
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/irgendwann-ist-der-physische-tank-leer-wundenlecken-in-hoffenheim-1270747/artikel",
-   "title": "\"Irgendwann ist der physische Tank leer\": Wundenlecken in Hoffenheim",
-   "link": "https://www.kicker.de/irgendwann-ist-der-physische-tank-leer-wundenlecken-in-hoffenheim-1270747/artikel",
-   "source": "kicker",
-   "published": "2026-11-12T15:49:42Z",
-   "teaser": "Mit Ach und Krach und einem wichtigen Sieg rettete sich die angeschlagene TSG in die Ligapause. Die sollen die Spieler nutzen, um die Akkus geistig und körperlich aufzuladen. Derweil sorgt sich Geschäftsführer Schicker um die …",
-   "clubs": [
-    175
-   ],
    "transfer": false
   }
  ]
