@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:37:35Z",
+ "updated": "2026-11-22T21:41:45Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,6 +16,180 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/bayer-und-bremen-fuehren-die-riege-an-die-kicker-elf-des-10-spieltags-1274007/slideshow",
+   "title": "Bayer und Bremen führen die Riege an: Die kicker-Elf des 10. Spieltags",
+   "link": "https://www.kicker.de/bayer-und-bremen-fuehren-die-riege-an-die-kicker-elf-des-10-spieltags-1274007/slideshow",
+   "source": "kicker",
+   "published": "2026-11-22T21:01:01Z",
+   "teaser": "Gleich drei Bremer Derby-Sieger schafften es in die kicker-Elf des Tages, in der Bayer 04 Leverkusen sogar vier Spielern vertreten ist.",
+   "clubs": [
+    6,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Mohya \"im Winter unverkäuflich\" - Zukunft von Rösler in Bochum offen",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T20:56:58Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/werder-aerger-trotz-derby-coup-mit-dem-ball-einfach-schlecht-1274018/artikel",
+   "title": "Werder-Ärger trotz Derby-Coup: \"Mit dem Ball einfach schlecht\"",
+   "link": "https://www.kicker.de/werder-aerger-trotz-derby-coup-mit-dem-ball-einfach-schlecht-1274018/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T20:43:19Z",
+   "teaser": "Sonderlich gewöhnlich ist ein 4:0 im Nordderby nicht. Dem waren sich die Bremer Sieger bewusst - und dennoch nicht mit allem zufrieden.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/muheims-selbstanklage-das-haben-unsere-fans-nicht-verdient-1274033/artikel",
+   "title": "Muheims Selbstanklage: \"Das haben unsere Fans nicht verdient\"",
+   "link": "https://www.kicker.de/muheims-selbstanklage-das-haben-unsere-fans-nicht-verdient-1274033/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T20:28:40Z",
+   "teaser": "Der HSV muss eine empfindliche Derby-Pleite aufarbeiten, unmittelbar nach dem 0:4 von Bremen fingen Trainer Merlin Polzin und Routinier Miro Muheim damit an.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
+   "title": "Werder Bremen hämmert den HSV im Nordderby weg",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T20:07:14Z",
+   "teaser": "Werder Bremen bleibt die Bundesliga-Überraschung. Mit einem deutlichen Erfolg im Derby gegen den Hamburger SV halten die Grün-Weißen den Anschluss an die Spitzengruppe.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fischer-enttaeuscht-von-dem-war-nichts-zu-sehen-1274047/video",
+   "title": "Fischer enttäuscht: \"Von dem war nichts zu sehen\"",
+   "link": "https://www.kicker.de/fischer-enttaeuscht-von-dem-war-nichts-zu-sehen-1274047/video",
+   "source": "kicker",
+   "published": "2026-11-22T19:55:29Z",
+   "teaser": "Mainz-Trainer Urs Fischer wirkt nach der Pleite gegen den FC Augsburg konsterniert. Man habe sich nach der knappen Niederlage gegen den FC Bayern auf einem guten Weg gewähnt.",
+   "clubs": [
+    40,
+    81,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/frust-und-mut-in-gladbach-wir-sind-nicht-abgeschlagen-wir-sind-da-1273836/artikel",
+   "title": "Frust und Mut in Gladbach: \"Wir sind nicht abgeschlagen, wir sind da!\"",
+   "link": "https://www.kicker.de/frust-und-mut-in-gladbach-wir-sind-nicht-abgeschlagen-wir-sind-da-1273836/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T19:55:26Z",
+   "teaser": "Borussia Mönchengladbach hielt gegen den neuen Spitzenreiter aus Dortmund mit, kassierte aber dennoch die achte Niederlage im zehnten Spiel. Entsprechend groß war der Ärger, aber auch die Hoffnung, es in den nächsten Wochen noch etwas …",
+   "clubs": [
+    7,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/finde-ich-bisschen-komisch-baum-ordnet-rote-karte-ein-1274042/video",
+   "title": "\"Finde ich bisschen komisch\": Baum ordnet Rote Karte ein",
+   "link": "https://www.kicker.de/finde-ich-bisschen-komisch-baum-ordnet-rote-karte-ein-1274042/video",
+   "source": "kicker",
+   "published": "2026-11-22T19:41:12Z",
+   "teaser": "Nach dem Sieg über Mainz 05 spricht Augsburg-Trainer Manuel Baum über die Situation, nach der er vom Schiedsrichter auf die Tribüne geschickt wurde.",
+   "clubs": [
+    81,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/vier-krachende-ohrfeigen-der-hsv-steht-vor-riesigen-aufgaben-1274032/video",
+   "title": "\"Vier krachende Ohrfeigen\": Der HSV steht vor \"riesigen Aufgaben\"",
+   "link": "https://www.kicker.de/vier-krachende-ohrfeigen-der-hsv-steht-vor-riesigen-aufgaben-1274032/video",
+   "source": "kicker",
+   "published": "2026-11-22T19:21:17Z",
+   "teaser": "Der Hamburger SV verlor das Nordderby gegen den SV Werder Bremen deutlich mit 0:4 und steht jetzt vor großen Aufgaben. kicker-Reporter Sebastian Wolff berichtet aus Bremen.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/statement-gegen-investoren-fc-mitglieder-stimmen-satzungsreform-zu-1273837/artikel",
+   "title": "Statement gegen Investoren: FC-Mitglieder stimmen Satzungsreform zu",
+   "link": "https://www.kicker.de/statement-gegen-investoren-fc-mitglieder-stimmen-satzungsreform-zu-1273837/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T18:24:36Z",
+   "teaser": "Auf der Jahreshauptversammlung am Sonntag stimmten die Mitglieder des 1. FC Köln einer umfassenden Reform der Klubsatzung zu. Das soll den Klub zukunftssicher machen.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/rudelbildung-und-rot-kuriose-szenen-um-baum-auf-der-pressetribuene-1274003/video",
+   "title": "Rudelbildung und Rot: Kuriose Szenen um Baum auf der Pressetribüne",
+   "link": "https://www.kicker.de/rudelbildung-und-rot-kuriose-szenen-um-baum-auf-der-pressetribuene-1274003/video",
+   "source": "kicker",
+   "published": "2026-11-22T18:05:37Z",
+   "teaser": "Der FC Augsburg gewann gegen den 1. FSV Mainz 05 mit 3:1. Im Mittelpunkt stand dabei vor allem Trainer Manuel Baum, der für kuriose Szenen auf der Pressetribüne sorgte. Aus Augsburg berichtet kicker-Reporter Mario Krischel.",
+   "clubs": [
+    81,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/augsburger-befreiungsschlag-verschaerft-mainzer-krise,spielbericht-fc-augsburg-mainz-05-100.html",
+   "title": "FC Augsburgs Befreiungsschlag verschärft Krise von Mainz 05",
+   "link": "https://www.sportschau.de/fussball/bundesliga/augsburger-befreiungsschlag-verschaerft-mainzer-krise,spielbericht-fc-augsburg-mainz-05-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T17:38:34Z",
+   "teaser": "Der FC Augsburg hat in der Bundesliga trotz einer Roten Karte erstmals seit dem 2. Spieltag wieder gewonnen und damit die Krise des 1. FSV Mainz 05 weiter verschärft.",
+   "clubs": [
+    81,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bin-nicht-gluecklicher-geworden-kurucay-wartet-weiter-auf-einen-neuen-vertrag-1273961/artikel",
+   "title": "\"Bin nicht glücklicher geworden\": Kurucay wartet weiter auf einen neuen Vertrag",
+   "link": "https://www.kicker.de/bin-nicht-gluecklicher-geworden-kurucay-wartet-weiter-auf-einen-neuen-vertrag-1273961/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T17:09:20Z",
+   "teaser": "Der Vertrag von Hasan Kurucay läuft aus, Gespräche über eine Verlängerung haben immer noch nicht stattgefunden. Der Verteidiger versucht das auszublenden - doch ganz kalt lässt ihn die Thematik weiterhin nicht.",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/applaus-aus-dem-saal-watzke-schickt-genesungswuensche-an-kane-1273977/video",
+   "title": "Applaus aus dem Saal: Watzke schickt Genesungswünsche an Kane",
+   "link": "https://www.kicker.de/applaus-aus-dem-saal-watzke-schickt-genesungswuensche-an-kane-1273977/video",
+   "source": "kicker",
+   "published": "2026-11-22T17:07:02Z",
+   "teaser": "BVB-Präsident Hans-Joachim Watzke sprach bei der Mitgliederversammlung zu den Mitgliedern und schickte dabei auch Genesungswünsche nach München zum verletzten Harry Kane.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/fussball/bundesliga/werder-bremen-gegen-hamburger-sv,audiostream-werder-bremen-gegen-hamburger-sv-102.html",
    "title": "Live hören: Werder Bremen gegen Hamburger SV - Bundesliga",
    "link": "https://www.sportschau.de/fussball/bundesliga/werder-bremen-gegen-hamburger-sv,audiostream-werder-bremen-gegen-hamburger-sv-102.html",
@@ -29,6 +203,56 @@
    "transfer": false
   },
   {
+   "id": "https://www.kicker.de/bvb-zeigt-bei-nmecha-einigkeit-das-muss-eine-demokratische-organisation-aushalten-1273833/artikel",
+   "title": "BVB zeigt bei Nmecha Einigkeit: \"Das muss eine demokratische Organisation aushalten\"",
+   "link": "https://www.kicker.de/bvb-zeigt-bei-nmecha-einigkeit-das-muss-eine-demokratische-organisation-aushalten-1273833/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T16:12:40Z",
+   "teaser": "Trotz brisanter Themen im Vorfeld verläuft die Dortmunder Mitgliederversammlung harmonisch. Präsidium, Vorstand und Fanvertreter finden dennoch deutliche Worte.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/torjaegerkanone-und-titel-im-visier-schick-knackt-naechsten-rekord-1273772/artikel",
+   "title": "Torjägerkanone und Titel im Visier: Schick knackt nächsten Rekord",
+   "link": "https://www.kicker.de/torjaegerkanone-und-titel-im-visier-schick-knackt-naechsten-rekord-1273772/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T16:11:36Z",
+   "teaser": "Für Patrik Schick läuft es bei Bayer 04 weiterhin rund. Mit seinem neunten Saisontreffer stellte der Tscheche gegen Paderborn einen neuen Vereinsrekord auf. Trotzdem zeigte sich der Torjäger selbstkritisch.",
+   "clubs": [
+    6,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bei-der-mitgliederversammlung-standing-ovations-fuer-bvb-profis-1273930/video",
+   "title": "Bei der Mitgliederversammlung: Standing Ovations für BVB-Profis",
+   "link": "https://www.kicker.de/bei-der-mitgliederversammlung-standing-ovations-fuer-bvb-profis-1273930/video",
+   "source": "kicker",
+   "published": "2026-11-22T15:34:37Z",
+   "teaser": "Die Profis des BVB wurden bei der Mitgliederversammlung mit Standing Ovations begrüßt. Aktuell grüßen die Dortmunder von der Tabellenspitze.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/tut-uns-brutal-gut-gladbach-erhaelt-fan-versprechen-1273866/artikel",
+   "title": "\"Tut uns brutal gut\": Gladbach erhält Fan-Versprechen",
+   "link": "https://www.kicker.de/tut-uns-brutal-gut-gladbach-erhaelt-fan-versprechen-1273866/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T15:34:30Z",
+   "teaser": "Das Ergebnis war wieder einmal unbefriedigend, der Gladbacher Auftritt beim 0:1 gegen Dortmund machte jedoch Mut. Auch bei der aktiven Fanszene, deren Capo anschließend minutenlang zur Mannschaft sprach.",
+   "clubs": [
+    7,
+    87
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193744/fc-augsburg_1-fsv-mainz-05/liveticker",
    "title": "Jetzt live - Hitziges Spiel in Augsburg, Baum sieht Rot",
    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193744/fc-augsburg_1-fsv-mainz-05/liveticker",
@@ -37,6 +261,18 @@
    "teaser": "Wilde Szenen vor der Pause in Augsburg: Obwohl die Gastgeber souverän führen, eskaliert eine Situation am Spielfeldrand. Dafür sieht Trainer Manuel Baum die Rote Karte.",
    "clubs": [
     95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/muslic-die-jungs-haben-das-hervorragend-gemacht-1273914/video",
+   "title": "Muslic: \"Die Jungs haben das hervorragend gemacht\"",
+   "link": "https://www.kicker.de/muslic-die-jungs-haben-das-hervorragend-gemacht-1273914/video",
+   "source": "kicker",
+   "published": "2026-11-22T15:22:47Z",
+   "teaser": "Abermals blieb dem Schalker Publikum ein Torjubel verwehrt. Trainer Miron Muslic will dennoch positiv hervorheben, dass man mit der neuen Umstellung nach Umschaltphasen die meisten Torschüsse der Liga habe.",
+   "clubs": [
+    9
    ],
    "transfer": false
   },
@@ -1393,16 +1629,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Bei Müller ist \"alles offen\" - Real-Kapitän Fede Valverde vor Verlängerung",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T09:58:09Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
-   "transfer": true
-  },
-  {
    "id": "https://www.sportschau.de/regional/wdr/wdr-blessin-wechselt-im-abstiegskampf-den-torwart-100.html",
    "title": "Blessin wechselt im Abstiegskampf den Torwart",
    "link": "https://www.sportschau.de/regional/wdr/wdr-blessin-wechselt-im-abstiegskampf-den-torwart-100.html",
@@ -2287,219 +2513,6 @@
     100
    ],
    "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/kompany-leitet-erstmals-wieder-das-training-beim-fc-bayern-1272144/artikel",
-   "title": "Kompany leitet erstmals wieder das Training beim FC Bayern",
-   "link": "https://www.kicker.de/kompany-leitet-erstmals-wieder-das-training-beim-fc-bayern-1272144/artikel",
-   "source": "kicker",
-   "published": "2026-11-16T15:11:14Z",
-   "teaser": "Nach mehr als dreiwöchiger Zwangspause hat Vincent Kompany am Montag erstmals wieder eine Trainingseinheit beim FC Bayern geleitet.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/weg-nach-frankfurt-frei-chatzialexious-fcn-vertrag-endet-vorzeitig-1272132/artikel",
-   "title": "Weg nach Frankfurt frei: Chatzialexious FCN-Vertrag endet vorzeitig",
-   "link": "https://www.kicker.de/weg-nach-frankfurt-frei-chatzialexious-fcn-vertrag-endet-vorzeitig-1272132/artikel",
-   "source": "kicker",
-   "published": "2026-11-16T15:00:21Z",
-   "teaser": "Der Wechsel von Joti Chatzialexiou vom 1. FC Nürnberg zu Eintracht Frankfurt ist längst offiziell. Nun ist aber klar, dass der neue Sportvorstand bereits ab Dezember bei der SGE starten kann.",
-   "clubs": [
-    91
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-in-der-umkleide-ausgetickt-davies-frustriert-von-verletzung-102.html",
-   "title": "Bayern-Verteidiger Davies frustriert von Verletzung",
-   "link": "https://www.sportschau.de/regional/br/br-in-der-umkleide-ausgetickt-davies-frustriert-von-verletzung-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-16T14:48:07Z",
-   "teaser": "FC-Bayern-Spieler Alphonso Davies verletzt sich beim Länderspiel mit Kanada wohl etwas schwerer. Der Linksverteidiger spricht von seinem Frust über die Verletzung. Bei den Münchnern verschärft sich die Verletzungsmisere nun weiter.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/davies-erleidet-vierten-muskelfaserriss-in-zwei-jahren-1271935/artikel",
-   "title": "Davies erleidet vierten Muskelfaserriss in zwei Jahren",
-   "link": "https://www.kicker.de/davies-erleidet-vierten-muskelfaserriss-in-zwei-jahren-1271935/artikel",
-   "source": "kicker",
-   "published": "2026-11-16T11:59:03Z",
-   "teaser": "Die nächste ärgerliche Nachricht erreicht den FC Bayern: Nach seiner frühen Abreise aus dem Lager der kanadischen Nationalmannschaft wird Alphonso Davies den Münchnern \"vorerst\" fehlen.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/lemperles-grosse-sehnsucht-nach-frankfurt-1271714/artikel",
-   "title": "Lemperles große Sehnsucht nach Frankfurt",
-   "link": "https://www.kicker.de/lemperles-grosse-sehnsucht-nach-frankfurt-1271714/artikel",
-   "source": "kicker",
-   "published": "2026-11-16T11:37:25Z",
-   "teaser": "Rechtzeitig vor seinem emotionalen Kick hat Hoffenheims Tim Lemperle wieder getroffen. Nun hofft der 24-Jährige, endlich im Stadion seiner Kindheit auflaufen zu können. Im Vorjahr hatte er den Auftritt über Nacht krankheitsbedingt noch …",
-   "clubs": [
-    91,
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/altersbeschraenkungen-in-top-ligen-ausnahmen-bestaetigen-die-regel-1271553/artikel",
-   "title": "Altersbeschränkungen in Top-Ligen: Ausnahmen bestätigen die Regel",
-   "link": "https://www.kicker.de/altersbeschraenkungen-in-top-ligen-ausnahmen-bestaetigen-die-regel-1271553/artikel",
-   "source": "kicker",
-   "published": "2026-11-16T10:06:22Z",
-   "teaser": "Egal, ob England, Spanien oder Italien: In den drei großen Top-Ligen Europas können Spieler auch schon im Alter von 15 Jahren eingesetzt werden. Die Details ...",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bojan-pato-arp-adu-top-talente-die-frueh-vergluehten-1271552/artikel",
-   "title": "Bojan, Pato, Arp, Adu: Top-Talente, die früh verglühten",
-   "link": "https://www.kicker.de/bojan-pato-arp-adu-top-talente-die-frueh-vergluehten-1271552/artikel",
-   "source": "kicker",
-   "published": "2026-11-16T10:05:36Z",
-   "teaser": "Wenig Fortune, kaum Durchsetzungsvermögen - oder Verletzungen: Über Top-Talente, die keine Top-Stars wurden. Eine kleine Auswahl, ohne den Anspruch auf Vollständigkeit.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/mohya-wirtz-und-zwei-dortmunder-die-juengsten-bundesliga-torschuetzen-1271293/video",
-   "title": "Mohya, Wirtz und zwei Dortmunder: Die jüngsten Bundesliga-Torschützen",
-   "link": "https://www.kicker.de/mohya-wirtz-und-zwei-dortmunder-die-juengsten-bundesliga-torschuetzen-1271293/video",
-   "source": "kicker",
-   "published": "2026-11-16T09:58:53Z",
-   "teaser": "Die Bundesliga wird insgesamt immer jünger. Hier kommt die Top 5 der jüngsten Bundesliga-Torschützen im Video.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/freiburgs-schoenspieler-suzuki-und-die-selbsterkenntnis-1270725/artikel",
-   "title": "Freiburgs \"Schönspieler\" Suzuki und die Selbsterkenntnis",
-   "link": "https://www.kicker.de/freiburgs-schoenspieler-suzuki-und-die-selbsterkenntnis-1270725/artikel",
-   "source": "kicker",
-   "published": "2026-11-16T09:29:42Z",
-   "teaser": "Nach starkem Start geriet Yuito Suzuki in Freiburg in die Kritik. Der jüngste Auftritt gegen Union soll einen nachhaltigen Wendepunkt markieren.",
-   "clubs": [
-    112,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wehrle-kontert-uli-hoeness-kritik-am-vfb-1271991/artikel",
-   "title": "Wehrle kontert Uli Hoeneß' Kritik am VfB",
-   "link": "https://www.kicker.de/wehrle-kontert-uli-hoeness-kritik-am-vfb-1271991/artikel",
-   "source": "kicker",
-   "published": "2026-11-16T08:28:43Z",
-   "teaser": "Eine Woche nach Uli Hoeneß' öffentlicher Kritik an der Führung des VfB hat Alexander Wehrle der \"Manager-Legende\" erklärt, wie in Stuttgart zuletzt wirklich gewirtschaftet wurde.",
-   "clubs": [
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/zufall-system-libero-kristof-ist-elversbergs-elfter-feldspieler-1271775/artikel",
-   "title": "Zufall? System! \"Libero\" Kristof ist Elversbergs elfter Feldspieler",
-   "link": "https://www.kicker.de/zufall-system-libero-kristof-ist-elversbergs-elfter-feldspieler-1271775/artikel",
-   "source": "kicker",
-   "published": "2026-11-16T06:30:27Z",
-   "teaser": "Unter den Bundesliga-Torhütern hat nur Paderborns Nahuel Noll häufiger den Ball als Elversbergs Nicolas Kristof. Der vermeintliche Zufall hat beim 26-Jährigen aber System. Beim dem technisch versierten Keeper beginnt beim Aufsteiger das …",
-   "clubs": [
-    31,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/stars-wie-kane-und-olise-bleiben-im-stress-bayerns-kraftakt-bis-weihnachten-1271725/artikel",
-   "title": "Stars wie Kane und Olise bleiben im Stress: Bayerns Kraftakt bis Weihnachten",
-   "link": "https://www.kicker.de/stars-wie-kane-und-olise-bleiben-im-stress-bayerns-kraftakt-bis-weihnachten-1271725/artikel",
-   "source": "kicker",
-   "published": "2026-11-15T20:39:51Z",
-   "teaser": "Acht Pflichtspiele muss der FC Bayern noch bis Weihnachten bestreiten, ehe er etwas durchschnaufen kann. Beim Personal droht weiter Knappheit, die Gegner gehören jedoch alle zur Kategorie \"machbar\".",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/eichhorns-kleine-schritte-warum-der-weg-zurueck-fuer-das-top-talent-lang-ist-1271639/artikel",
-   "title": "Eichhorns kleine Schritte: Warum der Weg zurück für das Top-Talent lang ist",
-   "link": "https://www.kicker.de/eichhorns-kleine-schritte-warum-der-weg-zurueck-fuer-das-top-talent-lang-ist-1271639/artikel",
-   "source": "kicker",
-   "published": "2026-11-15T19:04:10Z",
-   "teaser": "Bayer 04 rechnet erst im Januar mit der Rückkehr von Kennet Eichhorn. Vorsicht ist geboten. Denn das Top-Talent muss nicht nur den Rückstand nach einer Stoffwechselstörung aufholen, sondern hat im ganzen Kalenderjahr erst sechs …",
-   "clubs": [
-    6
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/vuskovic-die-ganze-welt-weiss-dass-ich-unschuldig-bin-1271877/video",
-   "title": "Vuskovic: \"Die ganze Welt weiß, dass ich unschuldig bin\"",
-   "link": "https://www.kicker.de/vuskovic-die-ganze-welt-weiss-dass-ich-unschuldig-bin-1271877/video",
-   "source": "kicker",
-   "published": "2026-11-15T18:37:42Z",
-   "teaser": "Mario Vuskovic und Merlin Polzin sprachen im Interview nach dem Comeback des Kroaten über seine Dopingsperre, das Testspiel gegen Split und die Leistung des Verteidigers.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gaensehaut-stimmung-und-jatta-ausgleich-vuskovics-comeback-im-video-1271869/video",
-   "title": "Gänsehaut-Stimmung und Jatta-Ausgleich: Vuskovics Comeback im Video",
-   "link": "https://www.kicker.de/gaensehaut-stimmung-und-jatta-ausgleich-vuskovics-comeback-im-video-1271869/video",
-   "source": "kicker",
-   "published": "2026-11-15T18:15:32Z",
-   "teaser": "Mario Vuskovic feierte gegen Hajduk Split sein Comeback für den HSV. Die Highlights der Partie gibt es hier im Video.",
-   "clubs": [
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/vuskovic-grosse-emotionen-kleine-naechste-schritte-1271840/artikel",
-   "title": "Vuskovic: Große Emotionen, kleine nächste Schritte",
-   "link": "https://www.kicker.de/vuskovic-grosse-emotionen-kleine-naechste-schritte-1271840/artikel",
-   "source": "kicker",
-   "published": "2026-11-15T17:16:16Z",
-   "teaser": "Rund eine Stunde spielte Mario Vuskovic bei seinem HSV-Comeback gegen Hajduk Split (1:1), danach bedankte er sich via Mikrofon bei den Fans. Ab jetzt geht es um behutsame nächste Schritte.",
-   "clubs": [
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/vuskovic-richtet-sich-an-die-fans-das-wichtigste-ist-das-derby-zu-gewinnen-1271830/video",
-   "title": "Vuskovic richtet sich an die Fans: \"Das Wichtigste ist, das Derby zu gewinnen\"",
-   "link": "https://www.kicker.de/vuskovic-richtet-sich-an-die-fans-das-wichtigste-ist-das-derby-zu-gewinnen-1271830/video",
-   "source": "kicker",
-   "published": "2026-11-15T16:32:36Z",
-   "teaser": "Nach seinem umjubelten Comeback für den HSV richtete Mario Vuskovic noch ein paar Worte an die Fans.",
-   "clubs": [
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/vuskovic-comeback-ein-auftritt-der-lust-auf-mehr-gemacht-hat-1271826/video",
-   "title": "Vuskovic-Comeback: \"Ein Auftritt, der Lust auf mehr gemacht hat\"",
-   "link": "https://www.kicker.de/vuskovic-comeback-ein-auftritt-der-lust-auf-mehr-gemacht-hat-1271826/video",
-   "source": "kicker",
-   "published": "2026-11-15T16:16:21Z",
-   "teaser": "Mario Vuskovic durfte gegen Hajduk Split sein lang ersehntes Comeback für den HSV feiern. Wie das Spiel lief, berichtet kicker-Reporter Marc Wiese aus Hamburg.",
-   "clubs": [
-    100
-   ],
-   "transfer": false
   }
  ]
 }
