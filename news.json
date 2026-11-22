@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T07:22:44Z",
+ "updated": "2026-11-22T15:37:35Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,305 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/werder-bremen-gegen-hamburger-sv,audiostream-werder-bremen-gegen-hamburger-sv-102.html",
+   "title": "Live hören: Werder Bremen gegen Hamburger SV - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/werder-bremen-gegen-hamburger-sv,audiostream-werder-bremen-gegen-hamburger-sv-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T16:15:00Z",
+   "teaser": "10. Spieltag: Anpfiff des Spiels ist am 22.11.2026 um 17:30 Uhr. Hamburger SV spielt in Bremen.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193744/fc-augsburg_1-fsv-mainz-05/liveticker",
+   "title": "Jetzt live - Hitziges Spiel in Augsburg, Baum sieht Rot",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193744/fc-augsburg_1-fsv-mainz-05/liveticker",
+   "source": "Sportschau",
+   "published": "2026-11-22T15:31:53Z",
+   "teaser": "Wilde Szenen vor der Pause in Augsburg: Obwohl die Gastgeber souverän führen, eskaliert eine Situation am Spielfeldrand. Dafür sieht Trainer Manuel Baum die Rote Karte.",
+   "clubs": [
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/karius-reagiert-erstmals-auf-bayern-geruechte-1273884/artikel",
+   "title": "Karius reagiert erstmals auf Bayern-Gerüchte",
+   "link": "https://www.kicker.de/karius-reagiert-erstmals-auf-bayern-geruechte-1273884/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T14:19:44Z",
+   "teaser": "Läuft da was zwischen dem FC Bayern und Schalkes Torwart Loris Karius? Auf kicker-Nachfrage reagierte der Keeper nach dem 0:0 gegen den VfB Stuttgart erstmals auf das Gerücht.",
+   "clubs": [
+    40,
+    16,
+    9
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/fc-augsburg-gegen-1-fsv-mainz-05,audiostream-fc-augsburg-gegen-1-fsv-mainz-05-108.html",
+   "title": "Live hören: FC Augsburg gegen 1. FSV Mainz 05 - Bundesliga",
+   "link": "https://www.sportschau.de/fussball/bundesliga/fc-augsburg-gegen-1-fsv-mainz-05,audiostream-fc-augsburg-gegen-1-fsv-mainz-05-108.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T14:15:00Z",
+   "teaser": "10. Spieltag: Anpfiff des Spiels ist am 22.11.2026 um 15:30 Uhr. 1. FSV Mainz 05 spielt in Augsburg.",
+   "clubs": [
+    81,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hoeness-beklagt-ein-altbekanntes-vfb-problem-1273874/artikel",
+   "title": "Hoeneß beklagt ein altbekanntes VfB-Problem",
+   "link": "https://www.kicker.de/hoeness-beklagt-ein-altbekanntes-vfb-problem-1273874/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T14:04:32Z",
+   "teaser": "Mit dem 0:0 auf Schalke lässt Stuttgart den Kontakt zu den internationalen Plätzen wieder ein wenig abreißen - und zeigt ein bekanntes Bild.",
+   "clubs": [
+    16,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hoeness-unzufrieden-bei-aller-liebe-1273881/video",
+   "title": "Hoeneß unzufrieden: \"Bei aller Liebe ...\"",
+   "link": "https://www.kicker.de/hoeness-unzufrieden-bei-aller-liebe-1273881/video",
+   "source": "kicker",
+   "published": "2026-11-22T13:55:29Z",
+   "teaser": "Der VfB Stuttgart kam auf Schalke nicht über ein 0:0 hinaus und muss in der Tabelle abreißen lassen. Trainer Sebastian Hoeneß war entsprechend angefressen.",
+   "clubs": [
+    16,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/musiala-brach-am-montag-erneut-zusammen-1273875/artikel",
+   "title": "Musiala brach am Montag erneut zusammen",
+   "link": "https://www.kicker.de/musiala-brach-am-montag-erneut-zusammen-1273875/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T13:31:15Z",
+   "teaser": "Bei Jamal Musiala kam es am vergangenen Montag zu einer erneuten Absence. Sein Comeback hatte er gegen den 1. FC Köln dennoch feiern können.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-trainer-baum-sieht-rot-fellhauer-kommt-drum-herum-augsburg-nutzt-zwei-ecken-1272759/artikel",
+   "title": "LIVE! Trainer Baum sieht Rot, Fellhauer kommt drum herum - Augsburg nutzt zwei Ecken",
+   "link": "https://www.kicker.de/live-trainer-baum-sieht-rot-fellhauer-kommt-drum-herum-augsburg-nutzt-zwei-ecken-1272759/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T13:28:49Z",
+   "teaser": "Bei Augsburg und Mainz lief es zuletzt nicht rund. Beide Teams eröffnen den Bundesliga-Sonntag und planen die Kehrtwende einzuleiten.",
+   "clubs": [
+    81,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-wieder-absence-bei-musiala-starke-kritik-an-umgang-des-fcb-102.html",
+   "title": "Wieder Absence bei Musiala - starke Kritik an Umgang des FCB",
+   "link": "https://www.sportschau.de/regional/br/br-wieder-absence-bei-musiala-starke-kritik-an-umgang-des-fcb-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T13:16:54Z",
+   "teaser": "Der Umgang des FC Bayern mit Jamal Musialas gesundheitlichen Problemen sorgt für immer mehr Kritik. Neben internationalen Stars meldet sich auch die Spielergewerkschaft FIFPRO zu Wort.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/effenberg-attackiert-bayern-bosse-das-ist-unfassbar-1273850/artikel",
+   "title": "Effenberg attackiert Bayern-Bosse: \"Das ist unfassbar\"",
+   "link": "https://www.kicker.de/effenberg-attackiert-bayern-bosse-das-ist-unfassbar-1273850/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T12:20:57Z",
+   "teaser": "Die Bosse des FC Bayern stehen weiter schwer in der Kritik. Stefan Effenberg hält deren Verhalten im Fall Jamal Musiala für \"katastrophal\". Und auch international gibt es ein Echo.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-aus-schalke-04-wird-schalke-00-100.html",
+   "title": "Bundesliga: Schalkes Torblockade geht auch gegen Stuttgart weiter",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-aus-schalke-04-wird-schalke-00-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T11:56:25Z",
+   "teaser": "Schalkes Torblockade hat Bestand. Auch gegen Stuttgart gelingt das erste Heimtor nicht. Der Grund ist die große Abschlussschwäche.",
+   "clubs": [
+    16,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ilzer-ueber-kabak-platzverweis-da-ist-ihm-ein-bloedsinn-passiert-1273842/video",
+   "title": "Ilzer über Kabak-Platzverweis: \"Da ist ihm ein Blödsinn passiert\"",
+   "link": "https://www.kicker.de/ilzer-ueber-kabak-platzverweis-da-ist-ihm-ein-bloedsinn-passiert-1273842/video",
+   "source": "kicker",
+   "published": "2026-11-22T11:48:51Z",
+   "teaser": "Die TSG Hoffenheim verliert mit 0:1 gegen Eintracht Frankfurt. Für Christian Ilzer schmerzt die Rote Karte und die damit verbundene Sperre von Ozan Kabak fast genauso wie die Niederlage selbst.",
+   "clubs": [
+    91,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193789/werder-bremen_hamburger-sv/liveticker",
+   "title": "Ab 17.30 Uhr live - Nordderby zum Spieltags-Abschluss",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193789/werder-bremen_hamburger-sv/liveticker",
+   "source": "Sportschau",
+   "published": "2026-11-22T11:20:34Z",
+   "teaser": "In der Bundesliga steigt am späten Sonntagnachmittag das brisante Nordderby zwischen Werder Bremen und dem Hamburger SV.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/huetter-lobt-elferkiller-atubolu-schwer-beeindruckend-1273831/video",
+   "title": "Hütter lobt Elferkiller Atubolu: \"Schwer beeindruckend\"",
+   "link": "https://www.kicker.de/huetter-lobt-elferkiller-atubolu-schwer-beeindruckend-1273831/video",
+   "source": "kicker",
+   "published": "2026-11-22T11:03:03Z",
+   "teaser": "Noah Atubolu parierte gegen Andrej Kramaric den siebten von elf geschossenen Elfmetern, eine bisher unerreichte Quote in der Bundesliga. Doch Trainer Adi Hütter schätzt noch weitere Qualitäten des SGE-Keepers.",
+   "clubs": [
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/schlafmuetze-moreira-als-matchwinner-ein-so-gutes-gefuehl-1273599/artikel",
+   "title": "\"Schlafmütze\" Moreira als Matchwinner: \"Ein so gutes Gefühl\"",
+   "link": "https://www.kicker.de/schlafmuetze-moreira-als-matchwinner-ein-so-gutes-gefuehl-1273599/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T10:40:15Z",
+   "teaser": "In seinem zehnten Bundesliga-Spiel gelangen ihm seine ersten beiden Tore für die Leverkusener. Die Erleichterung bei Afonso Moreira war dementsprechend groß.",
+   "clubs": [
+    6
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kettemann-sieht-ein-kaninchen-vor-der-schlange-goetze-plan-geht-nicht-auf-1273806/artikel",
+   "title": "Kettemann sieht ein \"Kaninchen vor der Schlange\" - Götze-Plan geht nicht auf",
+   "link": "https://www.kicker.de/kettemann-sieht-ein-kaninchen-vor-der-schlange-goetze-plan-geht-nicht-auf-1273806/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T10:39:11Z",
+   "teaser": "Beim 0:4 in Leverkusen ist der SC Paderborn 07 erstmals in dieser Saison komplett unterlegen. Trainer Ralf Kettemann allerdings warnt trotz scharfer Kritik davor, nun alles schlechtzureden. Zumal ein richtungweisendes Spiel wartet.",
+   "clubs": [
+    6,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-analyse-eintracht-frankfurt-besteht-reifepruefung-gegen-hoffenheim-100.html",
+   "title": "Eintracht Frankfurt besteht die Reifeprüfung",
+   "link": "https://www.sportschau.de/regional/hr/hr-analyse-eintracht-frankfurt-besteht-reifepruefung-gegen-hoffenheim-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T10:34:57Z",
+   "teaser": "Gegen Hoffenheim bleibt Eintracht Frankfurt in den entscheidenden Momenten cool und fährt, auch dank Keeper Noah Atubolu, einen Heimsieg ein.",
+   "clubs": [
+    91,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/huetter-so-ein-spiel-haetten-wir-vor-zwei-monaten-nicht-auf-unsere-seite-gezogen-1273804/video",
+   "title": "Hütter: \"So ein Spiel hätten wir vor zwei Monaten nicht auf unsere Seite gezogen\"",
+   "link": "https://www.kicker.de/huetter-so-ein-spiel-haetten-wir-vor-zwei-monaten-nicht-auf-unsere-seite-gezogen-1273804/video",
+   "source": "kicker",
+   "published": "2026-11-22T09:45:11Z",
+   "teaser": "Adi Hütter zeigte sich nach dem 1:0 gegen Hoffenheim zufrieden. Der Eintracht-Trainer lobte den Charakter und die Mentalität seiner Mannschaft und sieht eine gute Entwicklung in den letzten Wochen.",
+   "clubs": [
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/olise-einfach-abgemeldet-sosa-glaenzt-mit-einer-100-prozent-quote-1273431/artikel",
+   "title": "Olise einfach abgemeldet: Sosa glänzt mit einer 100-Prozent-Quote",
+   "link": "https://www.kicker.de/olise-einfach-abgemeldet-sosa-glaenzt-mit-einer-100-prozent-quote-1273431/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T09:16:18Z",
+   "teaser": "Es war eine undankbare Aufgabe, die Borna Sosa am Freitagabend in München zu bewältigen hatte. Dass der 1. FC Köln einen Punkt gegen den FC Bayern ergattern konnte, lag aber auch an der Klasse-Leistung des Linksverteidigers.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/ndr/fussball-bundesliga-nordderby-werder-bremen-hsv-hamburg-analyse,nordderby-220.html",
+   "title": "Nordderby-Analyse: Warum Werder Bremen Favorit ist und der HSV Chancen hat",
+   "link": "https://www.sportschau.de/regional/ndr/fussball-bundesliga-nordderby-werder-bremen-hsv-hamburg-analyse,nordderby-220.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T09:04:00Z",
+   "teaser": "Der SVW spielt bislang eine starke Saison und wirkt deutlich gefestigter als der Nordrivale aus Hamburg. Wie die Analyse zeigt, sind aber auch die Bremer verwundbar.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ist-das-bayern-vorgehen-bei-musiala-richtig-1273782/artikel",
+   "title": "Ist das Bayern-Vorgehen bei Musiala richtig?",
+   "link": "https://www.kicker.de/ist-das-bayern-vorgehen-bei-musiala-richtig-1273782/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T08:57:23Z",
+   "teaser": "Die Bosse des FC Bayern haben eine Debatte um Jamal Musiala losgetreten. Wie bewertest du das Vorgehen? Hier geht es zu unserer Umfrage.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/man-unterschaetzt-das-schlotterbeck-erklaert-dortmunds-traege-erste-haelfte-1273570/artikel",
+   "title": "\"Man unterschätzt das\": Schlotterbeck erklärt Dortmunds träge erste Hälfte",
+   "link": "https://www.kicker.de/man-unterschaetzt-das-schlotterbeck-erklaert-dortmunds-traege-erste-haelfte-1273570/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T08:14:43Z",
+   "teaser": "Der BVB hat am Samstag einen knappen 1:0-Sieg in Mönchengladbach eingefahren. Warum es im ersten Durchgang nicht rund lief, erklärte nach der Begegnung Nico Schlotterbeck.",
+   "clubs": [
+    7,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/dreierpack-von-voronin-als-hertha-von-der-meisterschaft-traeumte-1272685/video",
+   "title": "Dreierpack von Voronin: Als Hertha von der Meisterschaft träumte",
+   "link": "https://www.kicker.de/dreierpack-von-voronin-als-hertha-von-der-meisterschaft-traeumte-1272685/video",
+   "source": "kicker",
+   "published": "2026-11-22T07:23:36Z",
+   "teaser": "Im März 2009 führte Andrey Voronin Hertha mit einem Dreierpack zum Sieg in Cottbus. Für einige Wochen konnten die Fans der Alten Dame tatsächlich vom Titel träumen.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/vuskovic-und-stage-traumhaft-alle-nordderby-tore-aus-der-saison-2025-26-1273239/video",
+   "title": "Vuskovic und Stage traumhaft: Alle Nordderby-Tore aus der Saison 2025/26",
+   "link": "https://www.kicker.de/vuskovic-und-stage-traumhaft-alle-nordderby-tore-aus-der-saison-2025-26-1273239/video",
+   "source": "kicker",
+   "published": "2026-11-22T07:22:30Z",
+   "teaser": "Die Nordderbys der Saison 2025/26 boten echtes Spektakel, besonders die Treffer von Luka Vuskovic im Hinspiel und Jens Stage im Rückspiel waren echte Highlights. Alle Tore gibt es hier im Video.",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wer-uebertraegt-werder-bremen-gegen-den-hsv-live-im-tv-und-stream-1272618/artikel",
    "title": "Wer überträgt Werder Bremen gegen den HSV live im TV und Stream?",
@@ -2200,287 +2499,6 @@
    "clubs": [
     100
    ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fritz-raeumt-fehler-ein-aber-hatte-nie-den-gedanken-wegzulaufen-1271803/artikel",
-   "title": "Fritz räumt Fehler ein, aber \"hatte nie den Gedanken, wegzulaufen\"",
-   "link": "https://www.kicker.de/fritz-raeumt-fehler-ein-aber-hatte-nie-den-gedanken-wegzulaufen-1271803/artikel",
-   "source": "kicker",
-   "published": "2026-11-15T15:30:11Z",
-   "teaser": "Werder Bremen stellt die Weichen neu: Philipp Mehrtens übernimmt das Präsidentenamt - und Clemens Fritz spricht offen über Fehler, Verantwortung und seine Zukunft beim SVW. Dazu gibt's ein besonderes Lob für Niclas Füllkrug.",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-verlust-im-vorjahr-werder-bremen-erzielt-2-1-millionen-euro-gewinn-1271657/artikel",
-   "title": "Nach Verlust im Vorjahr: Werder Bremen erzielt 2,1 Millionen Euro Gewinn",
-   "link": "https://www.kicker.de/nach-verlust-im-vorjahr-werder-bremen-erzielt-2-1-millionen-euro-gewinn-1271657/artikel",
-   "source": "kicker",
-   "published": "2026-11-15T14:17:29Z",
-   "teaser": "Sportlich hat der SV Werder Bremen in der vergangenen Saison sein Ziel verfehlt, wirtschaftlich aber Kurs gehalten - und das Geschäftsjahr 2025/26 auch mit einem Gewinn abgeschlossen.",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gaensehaut-vor-anpfiff-luka-vuskovic-laesst-hsv-fans-marios-namen-skandieren-1271794/video",
-   "title": "Gänsehaut vor Anpfiff: Luka Vuskovic lässt HSV-Fans Marios Namen skandieren",
-   "link": "https://www.kicker.de/gaensehaut-vor-anpfiff-luka-vuskovic-laesst-hsv-fans-marios-namen-skandieren-1271794/video",
-   "source": "kicker",
-   "published": "2026-11-15T14:05:08Z",
-   "teaser": "Mario Vuskovic ist nach vierjähriger Dopingsperre im Testspiel des HSV gegen Hajduk Split auf den Platz zurückgekehrt. Vor dem Anpfiff wurde ein Video seines Bruders und ehemaligen Hamburgers Luka eingespielt, der Marios Namen für die Fans …",
-   "clubs": [
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-zwoelf-jahren-hess-grunewald-mehrtens-ist-neuer-werder-praesident-1271724/artikel",
-   "title": "Nach zwölf Jahren Hess-Grunewald: Mehrtens ist neuer Werder-Präsident",
-   "link": "https://www.kicker.de/nach-zwoelf-jahren-hess-grunewald-mehrtens-ist-neuer-werder-praesident-1271724/artikel",
-   "source": "kicker",
-   "published": "2026-11-15T13:54:55Z",
-   "teaser": "Der SV Werder Bremen hat nach zwölf Jahren mit Hubertus Hess-Grunewald im Amt einen neuen Präsidenten: Bei der Wahl am Sonntag wurde für Philipp Mehrtens gestimmt. Er hatte keine Gegenkandidaten.",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/rolfes-bestaetigt-geplante-vertragsverlaengerung-mit-maza-1271623/artikel",
-   "title": "Rolfes bestätigt geplante Vertragsverlängerung mit Maza",
-   "link": "https://www.kicker.de/rolfes-bestaetigt-geplante-vertragsverlaengerung-mit-maza-1271623/artikel",
-   "source": "kicker",
-   "published": "2026-11-15T13:36:56Z",
-   "teaser": "Im Sommer 2025 kam Ibrahim Maza zu Bayer 04 Leverkusen und hat sich zum absoluten Leistungsträger und legitimen Wirtz-Nachfolger gemausert. Als Anerkennung dafür möchte der Klub mit dem Spielmacher vorzeitig verlängern. Manager Simon …",
-   "clubs": [
-    6
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/ist-stiller-ein-kandidat-fuer-die-modric-nachfolge-bei-milan-1271736/artikel",
-   "title": "Ist Stiller ein Kandidat für die Modric-Nachfolge bei Milan?",
-   "link": "https://www.kicker.de/ist-stiller-ein-kandidat-fuer-die-modric-nachfolge-bei-milan-1271736/artikel",
-   "source": "kicker",
-   "published": "2026-11-15T11:21:08Z",
-   "teaser": "Es gibt keine Jahreszeit, in der es keine Gerüchte über einen Wechsel von Angelo Stiller gibt. Jedoch bisher ohne Ergebnis. Aktuell wird der Stuttgarter mit der AC Mailand in Verbindung gebracht.",
-   "clubs": [
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/dunkle-phasen-aber-aufgeben-war-keine-option-vuskovic-feiert-sein-comeback-1271730/artikel",
-   "title": "\"Dunkle Phasen, aber aufgeben war keine Option\": Vuskovic feiert sein Comeback",
-   "link": "https://www.kicker.de/dunkle-phasen-aber-aufgeben-war-keine-option-vuskovic-feiert-sein-comeback-1271730/artikel",
-   "source": "kicker",
-   "published": "2026-11-15T11:20:27Z",
-   "teaser": "Ein lang ersehnter Tag beim Hamburger SV: Mario Vuskovic kehrt nach seiner Doping-Sperre endlich auf den Platz zurück. Der Kroate verrät, dass es während der langen Zwangspause nicht immer einfach war. Jetzt hofft er aber vor seinem …",
-   "clubs": [
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/rolfes-ueber-boniface-abschied-im-winter-auf-jeden-fall-eine-option-1271592/artikel",
-   "title": "Rolfes über Boniface-Abschied im Winter: \"Auf jeden Fall eine Option\"",
-   "link": "https://www.kicker.de/rolfes-ueber-boniface-abschied-im-winter-auf-jeden-fall-eine-option-1271592/artikel",
-   "source": "kicker",
-   "published": "2026-11-15T11:18:47Z",
-   "teaser": "Im Sommer unternahm Victor Boniface nach einem verlorenen Jahr bei Werder Bremen mit einer schweren Knieoperation und massivem Übergewicht einen neuen Anlauf bei Bayer 04. Doch trotz klarer Fortschritte spielt der Mittelstürmer unter …",
-   "clubs": [
-    6,
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/matsima-ausfall-droht-mit-dem-personal-ging-die-augsburger-stabilitaet-floeten-1271713/artikel",
-   "title": "Matsima-Ausfall droht: Mit dem Personal ging die Augsburger Stabilität flöten",
-   "link": "https://www.kicker.de/matsima-ausfall-droht-mit-dem-personal-ging-die-augsburger-stabilitaet-floeten-1271713/artikel",
-   "source": "kicker",
-   "published": "2026-11-15T10:26:21Z",
-   "teaser": "Mit Chrislain Matsima ein neuer Verletzter, dafür die Rückkehr von mindestens einem Innenverteidiger. Die personellen Wechsel in der Dreierabwehrkette des FC Augsburg gehen auch gegen Mainz weiter.",
-   "clubs": [
-    81,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/neues-profil-im-rb-angriff-guiu-und-der-zweite-start-1271582/artikel",
-   "title": "Neues Profil im RB-Angriff: Guiu und der zweite Start",
-   "link": "https://www.kicker.de/neues-profil-im-rb-angriff-guiu-und-der-zweite-start-1271582/artikel",
-   "source": "kicker",
-   "published": "2026-11-15T09:45:06Z",
-   "teaser": "Eine schwere Verletzung aus heiterem Himmel bremst Mittelstürmer Marc Guiu (20) seit zwei Monaten in Leipzig aus. Jetzt ist der Neuzugang vom FC Chelsea zurück, bei RB setzt man große Hoffnungen in den Youngster.",
-   "clubs": [
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/vertragsgespraeche-angestossen-kann-paderborn-kettemann-halten-1271675/artikel",
-   "title": "Vertragsgespräche angestoßen: Kann Paderborn Kettemann halten?",
-   "link": "https://www.kicker.de/vertragsgespraeche-angestossen-kann-paderborn-kettemann-halten-1271675/artikel",
-   "source": "kicker",
-   "published": "2026-11-15T08:00:27Z",
-   "teaser": "Vor 17 Monaten begann die Arbeit beim SCP07 - und damit auch der persönliche Aufstieg. Der 40-Jährige ist ein begehrter Trainer. Das weiß natürlich auch sein jetziger Arbeitgeber - und handelt entsprechend.",
-   "clubs": [
-    31
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/regional/ndr/trotz-bundesliga-abstieg-fc-st-pauli-macht-rekordgewinn,pauli-722.html",
-   "title": "FC St. Pauli macht Rekordgewinn und will Frauenfußball stärken",
-   "link": "https://www.sportschau.de/regional/ndr/trotz-bundesliga-abstieg-fc-st-pauli-macht-rekordgewinn,pauli-722.html",
-   "source": "Sportschau",
-   "published": "2026-11-14T20:08:18Z",
-   "teaser": "Der Fußball-Zweitligist hat das Geschäftsjahr 2025/26 mit einem Überschuss von 16,7 Millionen Euro abgeschlossen. Zudem wird der Club für den Frauenfußball eine eigene Tochtergesellschaft gründen.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/baumgart-hofft-auf-neue-chance-ich-koennte-wieder-1271586/artikel",
-   "title": "Baumgart hofft auf neue Chance: \"Ich könnte wieder\"",
-   "link": "https://www.kicker.de/baumgart-hofft-auf-neue-chance-ich-koennte-wieder-1271586/artikel",
-   "source": "kicker",
-   "published": "2026-11-14T18:33:23Z",
-   "teaser": "Steffen Baumgart sprach am Samstagabend auf der Matchplan-Konferenz in der Deutschen Sporthochschule Köln nicht nur über inhaltliche Themen, sondern auch über seine persönliche Situation.",
-   "clubs": [
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/naechster-rueckschlag-poulsen-fehlt-dem-hsv-erneut-1271506/artikel",
-   "title": "Nächster Rückschlag: Poulsen fehlt dem HSV erneut",
-   "link": "https://www.kicker.de/naechster-rueckschlag-poulsen-fehlt-dem-hsv-erneut-1271506/artikel",
-   "source": "kicker",
-   "published": "2026-11-14T12:12:47Z",
-   "teaser": "Yussuf Poulsen fügt seiner Verletzungsmisere beim Hamburger SV ein weiteres Kapitel hinzu. Wie die Hanseaten auf ihrer Website mitteilten, hat sich der Routinier eine Wadenverletzung zugezogen.",
-   "clubs": [
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/ndr/schon-wieder-hsv-muss-vorerst-auf-poulsen-verzichten,hsv-2386.html",
-   "title": "Schon wieder verletzt: HSV muss \"vorerst\" auf Poulsen verzichten",
-   "link": "https://www.sportschau.de/regional/ndr/schon-wieder-hsv-muss-vorerst-auf-poulsen-verzichten,hsv-2386.html",
-   "source": "Sportschau",
-   "published": "2026-11-14T11:48:13Z",
-   "teaser": "Der Däne erlitt im Training eine Faszienverletzung in der Wade und steht Trainer Merlin Polzin im Nordderby in Bremen nicht zur Verfügung.",
-   "clubs": [
-    134,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/streich-ueber-rueckkehr-in-profi-fussball-ich-will-nicht-mehr-1271502/artikel",
-   "title": "Streich über Rückkehr in Profi-Fußball: \"Ich will nicht mehr\"",
-   "link": "https://www.kicker.de/streich-ueber-rueckkehr-in-profi-fussball-ich-will-nicht-mehr-1271502/artikel",
-   "source": "kicker",
-   "published": "2026-11-14T11:45:00Z",
-   "teaser": "Christian Streich hat sich am Samstag zu einer möglichen Rückkehr in den Trainerberuf geäußert - und indirekt auch zur Kritik von Ex-Bundestrainer Joachim Löw an der deutschen Nachwuchsarbeit.",
-   "clubs": [],
-   "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-laenderspiel-comeback-geht-schief-sorgen-um-bayerns-davies-102.html",
-   "title": "Startelf-Comeback geht schief: Sorgen um Bayerns Davies",
-   "link": "https://www.sportschau.de/regional/br/br-laenderspiel-comeback-geht-schief-sorgen-um-bayerns-davies-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-14T11:24:58Z",
-   "teaser": "Das Verletzungspech bleibt Alphonso Davies treu: Der Profi des FC Bayern München musste bei seinem Startelf-Comeback für Kanada gegen Guatemala angeschlagen vom Platz. Eine Diagnose stand noch aus.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/muskulaerer-schaden-davies-verlaesst-kanada-und-fliegt-zurueck-nach-muenchen-1271491/artikel",
-   "title": "Muskulärer Schaden? Davies verlässt Kanada und fliegt zurück nach München",
-   "link": "https://www.kicker.de/muskulaerer-schaden-davies-verlaesst-kanada-und-fliegt-zurueck-nach-muenchen-1271491/artikel",
-   "source": "kicker",
-   "published": "2026-11-14T10:19:02Z",
-   "teaser": "Der FC Bayern bangt mal wieder um Alphonso Davies. Nach seiner Verletzung bei der kanadischen Nationalmannschaft reist der Linksverteidiger nach kicker-Informationen direkt zurück nach München.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/so-ist-der-stand-bei-konstantelias-wirklich-1270675/artikel",
-   "title": "So ist der Stand bei Konstantelias wirklich",
-   "link": "https://www.kicker.de/so-ist-der-stand-bei-konstantelias-wirklich-1270675/artikel",
-   "source": "kicker",
-   "published": "2026-11-14T09:00:18Z",
-   "teaser": "Giannis Konstantelias fehlt Borussia Dortmund derzeit mit einem Kreuzbandriss. Nun gibt es Meldungen, wonach der Grieche früher zurückkehren könnte als zunächst vermutet.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/50plus-soll-grundvoraussetzung-in-der-bundesliga-werden,50-plus-1-abstimmung-100.html",
-   "title": "Abstimmung - Bundesliga soll 50+1 \"einheitlich umsetzen\"",
-   "link": "https://www.sportschau.de/fussball/50plus-soll-grundvoraussetzung-in-der-bundesliga-werden,50-plus-1-abstimmung-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-13T16:07:11Z",
-   "teaser": "Am 3. Dezember kommen die Klubs der Bundesliga und 2. Bundesliga zu einer Mitgliederversammlung zusammen. Dabei will das Präsidium des Ligaverbands eine Abstimmung zu 50+1 abhalten.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/reaktion-auf-kritik-bvb-verlaengert-rheinmetall-vertrag-nicht-1269652/artikel",
-   "title": "Reaktion auf Kritik: BVB verlängert Rheinmetall-Vertrag nicht",
-   "link": "https://www.kicker.de/reaktion-auf-kritik-bvb-verlaengert-rheinmetall-vertrag-nicht-1269652/artikel",
-   "source": "kicker",
-   "published": "2026-11-13T12:53:57Z",
-   "teaser": "Borussia Dortmund wird den Sponsoringvertrag mit dem Rüstungskonzern Rheinmetall auslaufen lassen. Damit reagiert der Klub auch auf den Unmut, den viele Mitglieder über einen längeren Zeitraum kundgetan haben.",
-   "clubs": [
-    7
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/daumenverletzung-bei-backhaus-doch-keine-panik-in-freiburg-1271232/artikel",
-   "title": "Daumenverletzung bei Backhaus - doch keine Panik in Freiburg",
-   "link": "https://www.kicker.de/daumenverletzung-bei-backhaus-doch-keine-panik-in-freiburg-1271232/artikel",
-   "source": "kicker",
-   "published": "2026-11-13T10:26:13Z",
-   "teaser": "Stammtorhüter Mio Backhaus ist noch vor dem ersten Länderspiel mit der U 21 wieder zum SC Freiburg zurückgekehrt. Große Sorgen sind aber nicht angebracht.",
-   "clubs": [
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/jovic-spektakulaer-die-schoensten-bundesliga-tore-von-serben-1271004/video",
-   "title": "Jovic spektakulär: Die schönsten Bundesliga-Tore von Serben",
-   "link": "https://www.kicker.de/jovic-spektakulaer-die-schoensten-bundesliga-tore-von-serben-1271004/video",
-   "source": "kicker",
-   "published": "2026-11-13T08:47:08Z",
-   "teaser": "Schon einige Serben haben in der Bundesliga getroffen. Dabei gab es auch ein paar absolute Traumtore. Hier gibt es eine Top 5 der schönsten Treffer.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/upamecano-von-frankreichs-nationalmannschaft-abgereist-1271179/artikel",
-   "title": "Upamecano von Frankreichs Nationalmannschaft abgereist",
-   "link": "https://www.kicker.de/upamecano-von-frankreichs-nationalmannschaft-abgereist-1271179/artikel",
-   "source": "kicker",
-   "published": "2026-11-13T08:02:45Z",
-   "teaser": "Dayot Upamecano ist von der französischen Nationalmannschaft abgereist und nach München zurückgekehrt. Dies teilte der französische Verband mit.",
-   "clubs": [],
    "transfer": false
   }
  ]
