@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T00:16:38Z",
+ "updated": "2026-11-22T07:22:44Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,19 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wer-uebertraegt-werder-bremen-gegen-den-hsv-live-im-tv-und-stream-1272618/artikel",
+   "title": "Wer überträgt Werder Bremen gegen den HSV live im TV und Stream?",
+   "link": "https://www.kicker.de/wer-uebertraegt-werder-bremen-gegen-den-hsv-live-im-tv-und-stream-1272618/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T06:30:00Z",
+   "teaser": "Am Sonntag treffen Werder Bremen und der HSV im 111. Nordderby aufeinander. Wo ihr die spannungsgeladene Partie live verfolgen könnt, erfahrt ihr hier.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/absage-nachvollziehbar-burkardt-spricht-ueber-klopps-anruf-1273715/artikel",
    "title": "Absage \"nachvollziehbar\": Burkardt spricht über Klopps Anruf",
@@ -2467,16 +2480,6 @@
    "source": "kicker",
    "published": "2026-11-13T08:02:45Z",
    "teaser": "Dayot Upamecano ist von der französischen Nationalmannschaft abgereist und nach München zurückgekehrt. Dies teilte der französische Verband mit.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/liga-praesidium-moechte-ordnungspolitische-voraussetzung-verankern-1271114/artikel",
-   "title": "Liga-Präsidium möchte \"ordnungspolitische Voraussetzung\" verankern",
-   "link": "https://www.kicker.de/liga-praesidium-moechte-ordnungspolitische-voraussetzung-verankern-1271114/artikel",
-   "source": "kicker",
-   "published": "2026-11-13T07:57:00Z",
-   "teaser": "Anfang Dezember tagen die Klubs aus Bundesliga und 2. Liga. Dabei geht es auch um 50+1. Der kicker kennt den Vorschlag zum Meinungsbild, den das Liga-Präsidium zur Disposition stellen möchte und bemerkenswert klar ist.",
    "clubs": [],
    "transfer": false
   }
