@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:12:35Z",
+ "updated": "2026-11-23T22:53:09Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,189 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/rbb/rbb-union-berlin-im-tabellenkeller-fassade-des-zusammenhalts-broeckelt-100.html",
+   "title": "Union im Tabellenkeller - Die Fassade des Zusammenhalts bröckelt",
+   "link": "https://www.sportschau.de/regional/rbb/rbb-union-berlin-im-tabellenkeller-fassade-des-zusammenhalts-broeckelt-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-23T20:39:08Z",
+   "teaser": "Union Berlin steckt mittendrin im Tabellenkeller. Neben Manager Heldt wird auch über Trainer Lustrinelli diskutiert. Der übt nun harsche Kritik an seinen Spielern und befeuert Union-untypische Zustände.",
+   "clubs": [
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/darum-kann-bayer-alajbegovic-ab-2028-fuer-fuenf-jahre-binden-1272409/artikel",
+   "title": "Darum kann Bayer Alajbegovic ab 2028 für fünf Jahre binden",
+   "link": "https://www.kicker.de/darum-kann-bayer-alajbegovic-ab-2028-fuer-fuenf-jahre-binden-1272409/artikel",
+   "source": "kicker",
+   "published": "2026-11-23T19:28:50Z",
+   "teaser": "Bislang können Klubs ihre Nachwuchstalente maximal drei Jahre vertraglich an sie binden. Doch eine neue Regelung der FIFA, die ab Januar 2027 in Kraft tritt, ermöglicht Ausnahmen von dieser bisher eisernen Regel.",
+   "clubs": [
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/njinmah-im-flow-und-nach-dem-doppelpack-schnell-im-krankenhaus-1274406/artikel",
+   "title": "Njinmah \"im Flow\" - und nach dem Doppelpack schnell im Krankenhaus",
+   "link": "https://www.kicker.de/njinmah-im-flow-und-nach-dem-doppelpack-schnell-im-krankenhaus-1274406/artikel",
+   "source": "kicker",
+   "published": "2026-11-23T18:42:08Z",
+   "teaser": "Justin Njinmah gelingt beim 4:0 gegen den HSV ein Doppelpack - und wenige Stunden später wartet schon das nächste große Ereignis. Warum Trainer Daniel Thioune erst mit dem Derbyhelden haderte und dann schwärmte.",
+   "clubs": [
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/dfb-aeussert-sich-warum-gladbach-keinen-handelfmeter-bekam-1274311/artikel",
+   "title": "DFB äußert sich: Warum Gladbach keinen Handelfmeter bekam",
+   "link": "https://www.kicker.de/dfb-aeussert-sich-warum-gladbach-keinen-handelfmeter-bekam-1274311/artikel",
+   "source": "kicker",
+   "published": "2026-11-23T18:14:59Z",
+   "teaser": "Auch an diesem Wochenende kam es besonders in drei Stadien zu Diskussionen. Der kicker hat bei Alex Feuerherdt nachgehört. Der DFB-Schiedsrichtersprecher erklärt, warum es vertretbar war, nicht auf Handelfmeter für Gladbach zu entscheiden …",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-debatte-um-jamal-musiala-darf-der-fc-bayern-sein-gehalt-kuerzen-102.html",
+   "title": "Darf der FC Bayern Musialas Gehalt kürzen?",
+   "link": "https://www.sportschau.de/regional/br/br-debatte-um-jamal-musiala-darf-der-fc-bayern-sein-gehalt-kuerzen-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-23T17:30:07Z",
+   "teaser": "Jamal Musiala steht nach seiner Erkrankung im Zentrum einer hitzigen Debatte: Die FC-Bayern-Bosse sprechen über mögliche Gehaltskürzung. Aber wäre das überhaupt erlaubt?",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/rb/rb-werder-reif-fuer-europa-derby-helden-begeistern-bremen-100.html",
+   "title": "\"Gehören aktuell dahin\" - Werders Derby-Helden träumen von Europa",
+   "link": "https://www.sportschau.de/regional/rb/rb-werder-reif-fuer-europa-derby-helden-begeistern-bremen-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-23T17:10:27Z",
+   "teaser": "Werder Bremen ist das Team der Stunde der Fußball-Bundesliga. Der Derby-Sieg gibt einen weiteren Schub. Vor allem für einen Spieler ist es ein besonderer Tag.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/dreesen-kontert-kritik-im-fall-musiala-habe-mich-einfach-nur-gewundert-1274392/artikel",
+   "title": "Dreesen kontert Kritik im Fall Musiala: \"Habe mich einfach nur gewundert\"",
+   "link": "https://www.kicker.de/dreesen-kontert-kritik-im-fall-musiala-habe-mich-einfach-nur-gewundert-1274392/artikel",
+   "source": "kicker",
+   "published": "2026-11-23T16:06:49Z",
+   "teaser": "Wie hat er die Reaktionen im Fall Jamal Musiala wahrgenommen? Steht ein Gespräch mit dem Spieler an? Bayern-CEO Jan-Christian Dreesen bezieht noch einmal Stellung - und hält eine Diskussion für \"aufgesetzt\".",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wadenverletzung-muheim-steht-dem-hsv-vorerst-nicht-zur-verfuegung-1274385/artikel",
+   "title": "Wadenverletzung: Muheim steht dem HSV \"vorerst nicht zur Verfügung\"",
+   "link": "https://www.kicker.de/wadenverletzung-muheim-steht-dem-hsv-vorerst-nicht-zur-verfuegung-1274385/artikel",
+   "source": "kicker",
+   "published": "2026-11-23T16:05:25Z",
+   "teaser": "Für Miro Muheim war das Derby beim SV Werder am Sonntag nach 19 Minuten schon wieder vorbei. Am Montag gab der HSV bekannt, dass der Schweizer sich eine Wadenverletzung zugezogen hat.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/beim-thema-nmecha-cramer-kassiert-buh-rufe-1274387/video",
+   "title": "Beim Thema Nmecha: Cramer kassiert Buh-Rufe",
+   "link": "https://www.kicker.de/beim-thema-nmecha-cramer-kassiert-buh-rufe-1274387/video",
+   "source": "kicker",
+   "published": "2026-11-23T15:43:24Z",
+   "teaser": "BVB-Geschäftsführer Carsten Cramer stellte sich bei der Mitgliederversammlung vor Felix Nmecha und wurde dafür von einem Teil des Dortmunder Publikums ausgebuht.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Ex-Dortmunder Mor mit vorläufigem Karriereende - Mohya \"im Winter unverkäuflich\"",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-23T14:33:25Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [
+    7
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/ohne-neuer-und-kane-wer-fuehrt-diese-bayern-mannschaft-1273469/artikel",
+   "title": "Ohne Neuer und Kane: Wer führt diese Bayern-Mannschaft?",
+   "link": "https://www.kicker.de/ohne-neuer-und-kane-wer-fuehrt-diese-bayern-mannschaft-1273469/artikel",
+   "source": "kicker",
+   "published": "2026-11-23T14:30:45Z",
+   "teaser": "Es kommt knüppeldick für den FC Bayern, eine Schreckensbotschaft jagt in dieser Saison die nächste. Nach dem 1:1 gegen den 1. FC Köln und den jüngsten Ausfällen stellt sich zudem die Frage nach der Hierarchie.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/cramer-kann-man-aus-diesem-stadion-noch-mehr-machen-1274354/video",
+   "title": "Cramer: \"Kann man aus diesem Stadion noch mehr machen?\"",
+   "link": "https://www.kicker.de/cramer-kann-man-aus-diesem-stadion-noch-mehr-machen-1274354/video",
+   "source": "kicker",
+   "published": "2026-11-23T14:04:26Z",
+   "teaser": "Der BVB denkt über einen Ausbau des Satdions nach, wie Geschäftsführer Carsten Cramer am Montag verkündete.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/mutige-bvb-plaene-130-millionen-euro-mehr-umsatz-und-ein-groesseres-stadion-1274324/artikel",
+   "title": "Mutige BVB-Pläne: 130 Millionen Euro mehr Umsatz - und ein größeres Stadion?",
+   "link": "https://www.kicker.de/mutige-bvb-plaene-130-millionen-euro-mehr-umsatz-und-ein-groesseres-stadion-1274324/artikel",
+   "source": "kicker",
+   "published": "2026-11-23T13:53:56Z",
+   "teaser": "Borussia Dortmund richtet sich strategisch neu aus und präsentiert den Aktionären einen ambitionierten Wachstumsplan. Wie der auch ohne das lukrative Rheinmetall-Sponsoring aufgehen soll.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/uneitel-pragmatisch-erfolgreich-sinnbild-scherhant-und-freiburgs-plan-1273925/artikel",
+   "title": "Uneitel, pragmatisch, erfolgreich: Sinnbild Scherhant und Freiburgs Plan",
+   "link": "https://www.kicker.de/uneitel-pragmatisch-erfolgreich-sinnbild-scherhant-und-freiburgs-plan-1273925/artikel",
+   "source": "kicker",
+   "published": "2026-11-23T12:48:15Z",
+   "teaser": "Beim Nationalteam ein gefeierter Offensivheld beim 5:0 gegen die Niederlande, im SC-Trikot ein disziplinierter Arbeiter fürs Kollektiv: DFB-Senkrechtstarter Derry Scherhant steht beim Sieg in Elversberg sinnbildlich für die spezielle …",
+   "clubs": [
+    112,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nur-zwei-nicht-nach-england-die-top-10-der-bayer-verkaeufe-1271115/slideshow",
+   "title": "Nur zwei nicht nach England: Die Top 10 der Bayer-Verkäufe",
+   "link": "https://www.kicker.de/nur-zwei-nicht-nach-england-die-top-10-der-bayer-verkaeufe-1271115/slideshow",
+   "source": "kicker",
+   "published": "2026-11-23T12:35:26Z",
+   "teaser": "Bayer 04 Leverkusen hat schon den ein oder anderen aufstrebenden Spieler zu Geld gemacht. Aber wer stammt aus dem eigenen Nachwuchs? Einer hat es bereits zum deutschen Premier-League-Rekordtorschützen gebracht. Ein Überblick über die …",
+   "clubs": [
+    6
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/vfb-dresden-neu-dabei-vier-dfb-pokal-achtelfinals-im-free-tv-1274238/artikel",
    "title": "VfB-Dresden neu dabei: Vier DFB-Pokal-Achtelfinals im Free-TV",
@@ -424,16 +607,6 @@
     134
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Mohya \"im Winter unverkäuflich\" - Zukunft von Rösler in Bochum offen",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-22T20:56:58Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/werder-aerger-trotz-derby-coup-mit-dem-ball-einfach-schlecht-1274018/artikel",
@@ -2350,179 +2523,6 @@
     65
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/sogar-der-kaiser-schimpfte-wieses-kung-fu-tritt-gegen-olic-1171557/video",
-   "title": "Sogar der Kaiser schimpfte: Wieses Kung-Fu-Tritt gegen Olic",
-   "link": "https://www.kicker.de/sogar-der-kaiser-schimpfte-wieses-kung-fu-tritt-gegen-olic-1171557/video",
-   "source": "kicker",
-   "published": "2026-11-19T11:31:50Z",
-   "teaser": "Werder-Keeper Tim Wiese lässt sich im Nord-Derby zu einer brutalen Aktion hinreißen. Kung-Fu-Tritt, Skandal-Foul, Körperverletzung: Bei diesen Beschreibungen bräuchte man die Szene nicht einmal zu sehen, um zu sagen: \"Das kann nur Rot …",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-trainer-wagner-spuert-keinen-druck-vom-fc-100.html",
-   "title": "Trainer Wagner spürt keinen Druck vom FC",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-trainer-wagner-spuert-keinen-druck-vom-fc-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-19T10:05:00Z",
-   "teaser": "Kölns Trainer fordert Mut und gibt seinen Spielern maximale Freiheit. Doch der FC muss langsam liefern – auch in München.",
-   "clubs": [
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/im-live-ticker-kompanys-erste-bayern-pk-seit-seinem-zusammenbruch-1272888/artikel",
-   "title": "LIVE!-Ticker: Kompanys erste PK seit seinem Zusammenbruch - \"Bin sehr gesund\"",
-   "link": "https://www.kicker.de/im-live-ticker-kompanys-erste-bayern-pk-seit-seinem-zusammenbruch-1272888/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T08:54:01Z",
-   "teaser": "Bayern-Trainer Vincent Kompany wird für das Bundesliga-Spiel gegen Köln am Freitag an die Seitenlinie zurückkehren. Heute nimmt der Chefcoach erstmals seit seinem Zusammenbruch wieder an einer Pressekonferenz teil.",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/heute-vor-zehn-jahren-als-risse-zum-derbyhelden-wurde-1162810/video",
-   "title": "Heute vor zehn Jahren: Als Risse zum Derbyhelden wurde",
-   "link": "https://www.kicker.de/heute-vor-zehn-jahren-als-risse-zum-derbyhelden-wurde-1162810/video",
-   "source": "kicker",
-   "published": "2026-11-19T07:54:58Z",
-   "teaser": "An den 19. November 2016 erinnern sich die Fans des 1. FC Köln gerne zurück. Es ist der Tag, an dem Marcel Risse zum Derbyhelden wurde. Sein legendäres Freistoßtor wurde später sogar zum \"Tor des Jahres 2016\".",
-   "clubs": [
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nun-trifft-er-auch-noch-scp-dauerbrenner-obermair-dreht-auf-1272594/artikel",
-   "title": "Nun trifft er auch noch: SCP-Dauerbrenner Obermair dreht auf",
-   "link": "https://www.kicker.de/nun-trifft-er-auch-noch-scp-dauerbrenner-obermair-dreht-auf-1272594/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T05:41:38Z",
-   "teaser": "In allen neun Punktspielen stand Raphael Obermair in der Startelf - in der Bundesliga, in die er immer wollte und beim SC Paderborn 07 gelangte. Mit dem Premierentor gegen Frankfurt setzte der 30-Jährige kürzlich eine weitere Anforderung …",
-   "clubs": [
-    91,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/neustart-nummer-3-kleindienst-benoetigt-weiter-geduld-1272693/artikel",
-   "title": "Neustart Nummer 3: Kleindienst benötigt weiter Geduld",
-   "link": "https://www.kicker.de/neustart-nummer-3-kleindienst-benoetigt-weiter-geduld-1272693/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T05:35:44Z",
-   "teaser": "Tim Kleindienst wollte nach seinem Seuchenjahr schon zu Beginn der Saison voll angreifen, das Vorhaben scheiterte jedoch. Seinem nächsten Anlauf nähert er sich weiter an, auch unter Alexander Blessin wartet eine zentrale Rolle - wenn es …",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-wird-am-freitag-spielen-bayern-boss-mit-musiala-update-102.html",
-   "title": "\"Wird am Freitag spielen\": Dreesen kündigt Musiala-Rückkehr an",
-   "link": "https://www.sportschau.de/regional/br/br-wird-am-freitag-spielen-bayern-boss-mit-musiala-update-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-18T22:18:28Z",
-   "teaser": "Jan-Christian Dreesen, Vorstandsvorsitzender des FC Bayern München, stellt ein Comeback von Jamal Musiala bereits am Freitag in Aussicht und spricht über die Aussagen von Uli Hoeneß zum Dribbelkünstler.",
-   "clubs": [
-    40
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/comeback-gegen-koeln-kompany-sitzt-wieder-auf-der-bayern-bank-1272669/artikel",
-   "title": "Comeback gegen Köln: Kompany sitzt wieder auf der Bayern-Bank",
-   "link": "https://www.kicker.de/comeback-gegen-koeln-kompany-sitzt-wieder-auf-der-bayern-bank-1272669/artikel",
-   "source": "kicker",
-   "published": "2026-11-18T19:11:36Z",
-   "teaser": "Der FC Bayern und Vincent Kompany finden allmählich in den Alltag zurück. Am Donnerstag wird der Cheftrainer erstmals seit seinem Zusammenbruch wieder an einer Pressekonferenz teilnehmen - und am Freitag gegen Köln wieder auf der Bank …",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-fcb-nach-der-pause-kompany-vor-rueckkehr-auf-die-bank-102.html",
-   "title": "Bayern-Trainer Kompany gegen Köln wieder dabei",
-   "link": "https://www.sportschau.de/regional/br/br-fcb-nach-der-pause-kompany-vor-rueckkehr-auf-die-bank-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-18T19:03:30Z",
-   "teaser": "Trainer Vincent Kompany kehrt beim FC Bayern München nach seiner Hirnhautreizung an den Spielfeldrand zurück. Dies bestätigte Vorstandschef Jan-Christian Dreesen bei einer Veranstaltung der \"Abendzeitung München\".",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/mit-verteidiger-hybrid-dortmunds-neue-flexibilitaet-ganz-hinten-1272538/artikel",
-   "title": "Mit Verteidiger-Hybrid: Dortmunds neue Flexibilität ganz hinten",
-   "link": "https://www.kicker.de/mit-verteidiger-hybrid-dortmunds-neue-flexibilitaet-ganz-hinten-1272538/artikel",
-   "source": "kicker",
-   "published": "2026-11-18T18:58:50Z",
-   "teaser": "Drei oder vier? Borussia Dortmund hat für seine Abwehrkette inzwischen alle Optionen und wechselte zuletzt zwischen den beiden Grundordnungen. Das bringt Vorteile.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/huetter-und-graz-ilzers-spezielle-emotions-gipfel-1272720/artikel",
-   "title": "Hütter und Graz: Ilzers spezielle Emotions-Gipfel",
-   "link": "https://www.kicker.de/huetter-und-graz-ilzers-spezielle-emotions-gipfel-1272720/artikel",
-   "source": "kicker",
-   "published": "2026-11-18T16:34:01Z",
-   "teaser": "Kurz nacheinander stehen für Hoffenheims Trainer Christian Ilzer zwei ganz besondere Duelle an. Erst gegen seinen Freund und Mentor Adi Hütter, dann gegen Sturm Graz, wo der Österreicher einst das Double gewann und seinen endgültigen …",
-   "clubs": [
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hsv-mehrere-optionen-noch-mehr-fragezeichen-1272724/artikel",
-   "title": "HSV: Mehrere Optionen, noch mehr Fragezeichen",
-   "link": "https://www.kicker.de/hsv-mehrere-optionen-noch-mehr-fragezeichen-1272724/artikel",
-   "source": "kicker",
-   "published": "2026-11-18T16:33:12Z",
-   "teaser": "Am Sonntag geht es für den HSV zum Nord-Derby nach Bremen. Erstmals nach vier Jahren ist Mario Vuskovic wieder spielberechtigt. Dafür ist eine neue Problemzone entstanden.",
-   "clubs": [
-    134,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/mainzer-neustart-oder-totalabsturz-auch-das-personal-fordert-fischer-heraus-1272493/artikel",
-   "title": "Mainzer Neustart oder Totalabsturz? Auch das Personal fordert Fischer heraus",
-   "link": "https://www.kicker.de/mainzer-neustart-oder-totalabsturz-auch-das-personal-fordert-fischer-heraus-1272493/artikel",
-   "source": "kicker",
-   "published": "2026-11-18T16:32:31Z",
-   "teaser": "Wende oder Abstiegskampf lautet die Mainzer Ausgangslage vor der Partie in Augsburg. Dem Trainer stehen dabei diverse Grundsatzentscheidungen ins Haus.",
-   "clubs": [
-    81,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/koeln-coach-wagner-zu-toppmoeller-geruechten-da-spuere-ich-gar-nichts-1272684/video",
-   "title": "Köln-Coach Wagner zu Toppmöller-Gerüchten: \"Da spüre ich gar nichts\"",
-   "link": "https://www.kicker.de/koeln-coach-wagner-zu-toppmoeller-geruechten-da-spuere-ich-gar-nichts-1272684/video",
-   "source": "kicker",
-   "published": "2026-11-18T13:41:14Z",
-   "teaser": "Köln-Trainer René Wagner spricht auf der Pressekonferenz vor dem Spiel gegen den FC Bayern München über die aktuellen Gerüchte rund um Dino Toppmöller und wie man auftreten muss, um gegen die Bayern etwas mitzunehmen.",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": true
   }
  ]
 }
