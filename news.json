@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T02:33:59Z",
+ "updated": "2026-11-23T11:12:35Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,142 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/vfb-dresden-neu-dabei-vier-dfb-pokal-achtelfinals-im-free-tv-1274238/artikel",
+   "title": "VfB-Dresden neu dabei: Vier DFB-Pokal-Achtelfinals im Free-TV",
+   "link": "https://www.kicker.de/vfb-dresden-neu-dabei-vier-dfb-pokal-achtelfinals-im-free-tv-1274238/artikel",
+   "source": "kicker",
+   "published": "2026-11-23T10:48:50Z",
+   "teaser": "Die Hälfte der DFB-Pokal-Achtelfinals werden in der kommenden Woche im Free-TV übertragen. Auch Fans des VfB Stuttgart und von Dynamo Dresden profitieren.",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/brutale-qualitaet-leipzig-hat-die-beste-bank-der-liga-1273823/artikel",
+   "title": "\"Brutale Qualität\": Leipzig hat die beste Bank der Liga",
+   "link": "https://www.kicker.de/brutale-qualitaet-leipzig-hat-die-beste-bank-der-liga-1273823/artikel",
+   "source": "kicker",
+   "published": "2026-11-23T09:40:25Z",
+   "teaser": "Lange Zeit hielt Union Berlin die Partie gegen RB Leipzig offen, doch dann schlug die Stunde der Joker. In acht von zehn Bundesligaspielen kamen Leipzigs Einwechselspieler zu Scorerpunkten.",
+   "clubs": [
+    1635,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/thioune-schwaermt-von-reis-hat-sich-fuer-unsere-farben-zerrissen-1274198/artikel",
+   "title": "Thioune schwärmt von Reis: \"Hat sich für unsere Farben zerrissen\"",
+   "link": "https://www.kicker.de/thioune-schwaermt-von-reis-hat-sich-fuer-unsere-farben-zerrissen-1274198/artikel",
+   "source": "kicker",
+   "published": "2026-11-23T09:39:15Z",
+   "teaser": "Ludovit Reis zerlegte mit Werder Bremen seinen Ex-Klub HSV. Werder-Coach Daniel Thioune adelte den Neuzugang nach dem emotionalen Duell und starker Leistung mit deutlichen Worten.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/polzin-ueber-24-gegentore-jungs-sind-unzufrieden-mit-sich-1274200/video",
+   "title": "Polzin über 24 Gegentore: \"Jungs sind unzufrieden mit sich\"",
+   "link": "https://www.kicker.de/polzin-ueber-24-gegentore-jungs-sind-unzufrieden-mit-sich-1274200/video",
+   "source": "kicker",
+   "published": "2026-11-23T09:21:52Z",
+   "teaser": "Nach dem 0:4 in Bremen zeigte sich HSV-Coach Merlin Polzin enttäuscht. Besonders die defensiven Defizite machten dem Trainer der Rothosen zu schaffen.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ein-adjektiv-verringert-und-verkuerzt-var-einsaetze-in-der-bundesliga-deutlich-1274177/artikel",
+   "title": "Ein Adjektiv verringert und verkürzt VAR-Einsätze in der Bundesliga deutlich",
+   "link": "https://www.kicker.de/ein-adjektiv-verringert-und-verkuerzt-var-einsaetze-in-der-bundesliga-deutlich-1274177/artikel",
+   "source": "kicker",
+   "published": "2026-11-23T08:34:41Z",
+   "teaser": "Dass die Bundesliga in dieser Saison mit weniger und kürzeren VAR-Eingriffen auskommt, hat auch mit einem Detail zu tun. Schiedsrichter-Chef Knut Kircher erklärt die Hintergründe - und ein Ärgernis.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/thioune-fuellkrug-wollte-das-tor-beim-4-0-kaputt-schiessen-1274174/video",
+   "title": "Thioune: \"Füllkrug wollte das Tor beim 4:0 kaputt schießen\"",
+   "link": "https://www.kicker.de/thioune-fuellkrug-wollte-das-tor-beim-4-0-kaputt-schiessen-1274174/video",
+   "source": "kicker",
+   "published": "2026-11-23T08:03:30Z",
+   "teaser": "Im Nordderby fegte Werder den HSV mit 4:0 weg. Daniel Thioune sprach danach über seine Vertragsverlängerung und die steigenden Ansprüche bei den Bremern, die sich im Spiel in der zweiten Hälfte verdeutlichten.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/gregoritsch-und-der-fca-mit-rekorden-aus-der-krise-1273969/artikel",
+   "title": "Gregoritsch und der FCA: Mit Rekorden aus der Krise",
+   "link": "https://www.kicker.de/gregoritsch-und-der-fca-mit-rekorden-aus-der-krise-1273969/artikel",
+   "source": "kicker",
+   "published": "2026-11-23T07:42:03Z",
+   "teaser": "Sieben Spieltage lang blieb der FC Augsburg zuletzt ohne Sieg. Beim verdienten 3:1 gegen den FSV Mainz 05 zeigt sich die Defensive stabiler als zuletzt, Verlass war aber vor allem wieder auf die starke Offensive.",
+   "clubs": [
+    81,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/elversberger-ergebnisdelle-erneut-komplimente-aber-keine-punkte-1273845/artikel",
+   "title": "Elversberger Ergebnisdelle: Erneut Komplimente, aber keine Punkte",
+   "link": "https://www.kicker.de/elversberger-ergebnisdelle-erneut-komplimente-aber-keine-punkte-1273845/artikel",
+   "source": "kicker",
+   "published": "2026-11-23T07:30:00Z",
+   "teaser": "Viel Lob hatte Julian Schuster nach dem knappen Sieg seines SC Freiburg für die SV Elversberg übrig. Keine Neuheit für den Aufsteiger, der nun seine erste Ergebnisdelle verkraften muss. Einen Vorwurf wollte Trainer Vincent Wagner seiner …",
+   "clubs": [
+    112,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ulreich-scherzt-ueber-nachfolger-ob-sie-jemals-einen-wie-mich-finden-1273182/video",
+   "title": "Ulreich scherzt über Nachfolger: \"Ob sie jemals einen wie mich finden\"",
+   "link": "https://www.kicker.de/ulreich-scherzt-ueber-nachfolger-ob-sie-jemals-einen-wie-mich-finden-1273182/video",
+   "source": "kicker",
+   "published": "2026-11-23T06:39:48Z",
+   "teaser": "Im Gespräch mit Sven Ulreich kam die Frage auf, wer denn auf Sicht sein Nachfolger werden könnte. Die Antwort des FCB-Keepers sorgte für lautes Lachen.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/jahre-danach-nicht-erklaerbar-ulreich-ueber-seinen-patzer-gegen-real-1273183/video",
+   "title": "\"Jahre danach nicht erklärbar\": Ulreich über seinen Patzer gegen Real",
+   "link": "https://www.kicker.de/jahre-danach-nicht-erklaerbar-ulreich-ueber-seinen-patzer-gegen-real-1273183/video",
+   "source": "kicker",
+   "published": "2026-11-23T06:34:40Z",
+   "teaser": "2018 verpasste der FC Bayern den Einzug ins Finale der Champions League nur knapp. Die Münchner kamen in Madrid trotz früher Führung nicht über ein 2:2-Unentschieden hinaus. Auch, weil Sven Ulreich Sekunden nach Wiederanpfiff böse patzte. …",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/loyal-sollte-man-schon-sein-ulreich-und-die-rolle-hinter-neuer-1273186/video",
+   "title": "\"Loyal sollte man schon sein\": Ulreich und die Rolle hinter Neuer",
+   "link": "https://www.kicker.de/loyal-sollte-man-schon-sein-ulreich-und-die-rolle-hinter-neuer-1273186/video",
+   "source": "kicker",
+   "published": "2026-11-23T06:33:30Z",
+   "teaser": "Sven Ulreich hat viele Jahre als Ersatztorwart hinter Manuel Neuer beim FC Bayern verbracht. Im exklusiven Interview mit dem kicker, schildert der FCB-Keeper die Rolle des Ersatzkeepers.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/matanovic-trifft-mutige-elversberger-ins-herz,video-bundesliga-elversberg-freiburg-zusammenfassung-100.html",
    "title": "Matanovic trifft mutige Elversberger ins Herz",
@@ -173,7 +309,7 @@
   },
   {
    "id": "https://www.sportschau.de/fussball/bundesliga/augsburger-befreiungsschlag-verschaerft-mainzer-krise,spielbericht-fc-augsburg-mainz-05-100.html",
-   "title": "FC Augsburgs Befreiungsschlag verschärft Krise von Mainz 05",
+   "title": "Augsburger Befreiungsschlag verschärft Krise von Mainz 05",
    "link": "https://www.sportschau.de/fussball/bundesliga/augsburger-befreiungsschlag-verschaerft-mainzer-krise,spielbericht-fc-augsburg-mainz-05-100.html",
    "source": "Sportschau",
    "published": "2026-11-22T23:00:09Z",
@@ -264,7 +400,7 @@
   },
   {
    "id": "https://www.sportschau.de/kane-verletzt-wirbel-um-musiala-ist-dortmunds-chance,bundesliga-update-spieltag-10-100.html",
-   "title": "Das Meisterrennen der Bundesliga: Spanned wie lange nicht?",
+   "title": "Das Meisterrennen der Bundesliga: Spannend wie lange nicht?",
    "link": "https://www.sportschau.de/kane-verletzt-wirbel-um-musiala-ist-dortmunds-chance,bundesliga-update-spieltag-10-100.html",
    "source": "Sportschau",
    "published": "2026-11-22T22:09:02Z",
@@ -2387,143 +2523,6 @@
     65
    ],
    "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/frankfurt-bestaetigt-chatzialexiou-beginnt-bereits-in-zwei-wochen-1268406/artikel",
-   "title": "Frankfurt bestätigt: Chatzialexiou beginnt bereits in zwei Wochen",
-   "link": "https://www.kicker.de/frankfurt-bestaetigt-chatzialexiou-beginnt-bereits-in-zwei-wochen-1268406/artikel",
-   "source": "kicker",
-   "published": "2026-11-18T12:42:11Z",
-   "teaser": "Anders als zunächst vorgesehen tritt Joti Chatizalexiou seinen neuen Posten als Sportvorstand in Frankfurt nun bereits zum 1. Dezember an. Am Mittwoch kam die Bestätigung der Eintracht.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-bestaetigt-joti-chatzialexiou-startet-schon-im-dezember-100.html",
-   "title": "Eintracht Frankfurt bestätigt: Joti Chatzialexiou startet schon im Dezember als Sportvorstand",
-   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-bestaetigt-joti-chatzialexiou-startet-schon-im-dezember-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-18T12:25:07Z",
-   "teaser": "Joti Chatzialexiou wird schon im Dezember seinen neuen Job als Sportvorstand bei Eintracht Frankfurt antreten – und damit zwei Monate früher als ursprünglich geplant. Damit kann sich der Krösche-Nachfolger schon um Wintertransfers kümmern.",
-   "clubs": [
-    91
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/torgefaehrlich-in-beide-richtungen-kann-le-joncour-pinckert-ersetzen-1272530/artikel",
-   "title": "Torgefährlich in beide Richtungen: Kann Le Joncour Pinckert ersetzen?",
-   "link": "https://www.kicker.de/torgefaehrlich-in-beide-richtungen-kann-le-joncour-pinckert-ersetzen-1272530/artikel",
-   "source": "kicker",
-   "published": "2026-11-18T11:38:48Z",
-   "teaser": "Drei von vier Heimspielen hat die SV Elversberg in der Bundesliga gewonnen. Am Samstag kommt mit Freiburg ein Spitzenteam ins Saarland - und der Kapitän fehlt beim frechen Aufsteiger.",
-   "clubs": [
-    112,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-rot-in-der-regionalliga-yilmaz-fehlt-freiburg-auch-bei-den-profis-1272610/artikel",
-   "title": "Nach Rot in der Regionalliga: Yilmaz fehlt Freiburg auch bei den Profis",
-   "link": "https://www.kicker.de/nach-rot-in-der-regionalliga-yilmaz-fehlt-freiburg-auch-bei-den-profis-1272610/artikel",
-   "source": "kicker",
-   "published": "2026-11-18T11:12:24Z",
-   "teaser": "Beim SC Freiburg spielt Neuzugang Berkay Yilmaz noch keine große Rolle, daran wird sich auch am kommenden Samstag beim Spiel der Breisgauer in Elversberg nichts ändern. Yilmaz fehlt nach einem Einsatz in der Regionalliga gesperrt.",
-   "clubs": [
-    112,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/keine-trainerdiskussion-beim-fca-aber-ein-wegweisendes-programm-1272574/artikel",
-   "title": "Keine Trainerdiskussion beim FCA, aber ein wegweisendes Programm",
-   "link": "https://www.kicker.de/keine-trainerdiskussion-beim-fca-aber-ein-wegweisendes-programm-1272574/artikel",
-   "source": "kicker",
-   "published": "2026-11-18T09:41:48Z",
-   "teaser": "Der FC Augsburg braucht in der Bundesliga Ergebnisse. Immerhin stehen Manuel Baum wieder mehr Alternativen zur Verfügung.",
-   "clubs": [
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/vuskovic-und-co-machen-sich-fit-fuers-nordderby-1272477/video",
-   "title": "Vuskovic und Co. machen sich fit fürs Nordderby",
-   "link": "https://www.kicker.de/vuskovic-und-co-machen-sich-fit-fuers-nordderby-1272477/video",
-   "source": "kicker",
-   "published": "2026-11-18T08:38:44Z",
-   "teaser": "Mario Vuskovic und der Hamburger SV stecken in den Vorbereitungen auf der Nordderby am Sonntag gegen Werder Bremen. Bei kalten Temperaturen stimmte sich die Mannschaft auf das Duell ein.",
-   "clubs": [
-    134,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wie-der-fc-bayern-seine-klubfuehrung-verjuengen-und-olise-halten-will-1272557/artikel",
-   "title": "Wie der FC Bayern seine Klubführung verjüngen - und Olise halten will",
-   "link": "https://www.kicker.de/wie-der-fc-bayern-seine-klubfuehrung-verjuengen-und-olise-halten-will-1272557/artikel",
-   "source": "kicker",
-   "published": "2026-11-18T08:21:28Z",
-   "teaser": "Mit Thomas Müller und Manuel Neuer? Präsident Herbert Hainer erklärt, wie der FC Bayern die Verjüngung der Klubführung vorantreibt - und wie er mit einem 300-Millionen-Euro-Angebot für Michael Olise umgehen würde.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/ndr/Bundesliga-HSV-Verletzung-Albert-Sambi-Lokonga-Werder-Bremen,hsv-2404.html",
-   "title": "HSV gehen vor dem Nordderby die Spieler aus",
-   "link": "https://www.sportschau.de/regional/ndr/Bundesliga-HSV-Verletzung-Albert-Sambi-Lokonga-Werder-Bremen,hsv-2404.html",
-   "source": "Sportschau",
-   "published": "2026-11-18T07:30:27Z",
-   "teaser": "Vize-Kapitän Albert Sambi Lokonga wird den Hamburgern \"vorerst nicht zur Verfügung stehen\". Die Personalsorgen werden vor dem Spiel am Sonntag bei Werder Bremen immer größer.",
-   "clubs": [
-    134,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/praesident-beck-entsendet-ex-profi-kraaz-und-einen-ultra-in-den-eintracht-aufsichtsrat-1272463/artikel",
-   "title": "Präsident Beck entsendet Ex-Profi Kraaz und einen Ultra in den Eintracht-Aufsichtsrat",
-   "link": "https://www.kicker.de/praesident-beck-entsendet-ex-profi-kraaz-und-einen-ultra-in-den-eintracht-aufsichtsrat-1272463/artikel",
-   "source": "kicker",
-   "published": "2026-11-17T18:45:00Z",
-   "teaser": "Der Aufsichtsrat der Eintracht Frankfurt Fußball AG erhält zwei neue Gesichter: Neben Benjamin von Loefen rückt auch der Frankfurter Ex-Profi Armin Kraaz in das Gremium. Damit bestätigt sich, was der kicker bereits in der vergangenen Woche …",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/union-sportchef-heldt-schwoert-ein-der-weg-der-geschlossenheit-wird-elementar-sein-1272442/artikel",
-   "title": "Union-Sportchef Heldt schwört ein: \"Der Weg der Geschlossenheit wird elementar sein\"",
-   "link": "https://www.kicker.de/union-sportchef-heldt-schwoert-ein-der-weg-der-geschlossenheit-wird-elementar-sein-1272442/artikel",
-   "source": "kicker",
-   "published": "2026-11-17T17:38:11Z",
-   "teaser": "Union Berlin steht sportlich mit dem Rücken zur Wand. Auf nahezu allen Ebenen müssen sie sich steigern, weshalb auch Sportchef Horst Heldt enorm unter Druck steht.",
-   "clubs": [
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/viel-zeit-hat-huetter-nicht-bei-der-eintracht-bleibt-es-spannend-1272465/video",
-   "title": "\"Viel Zeit hat Hütter nicht\": Bei der Eintracht bleibt es spannend",
-   "link": "https://www.kicker.de/viel-zeit-hat-huetter-nicht-bei-der-eintracht-bleibt-es-spannend-1272465/video",
-   "source": "kicker",
-   "published": "2026-11-17T17:31:40Z",
-   "teaser": "Julian Franzke berichtet aus Frankfurt vom Training der Eintracht und spricht über die Rückkehrer aus der Länderspielpause. Vor dem Duell mit Hoffenheim bleibt es spannend.",
-   "clubs": [
-    91,
-    175
-   ],
-   "transfer": false
   }
  ]
 }
