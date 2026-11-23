@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T21:41:45Z",
+ "updated": "2026-11-23T02:33:59Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,12 +16,273 @@
  ],
  "items": [
   {
+   "id": "https://www.sportschau.de/fussball/bundesliga/matanovic-trifft-mutige-elversberger-ins-herz,video-bundesliga-elversberg-freiburg-zusammenfassung-100.html",
+   "title": "Matanovic trifft mutige Elversberger ins Herz",
+   "link": "https://www.sportschau.de/fussball/bundesliga/matanovic-trifft-mutige-elversberger-ins-herz,video-bundesliga-elversberg-freiburg-zusammenfassung-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T23:00:36Z",
+   "teaser": "Der SC Freiburg feiert einen knappen Auswärtssieg bei der SV Elversberg. In einer ausgeglichenen Partie reicht ein Moment der Unaufmerksamkeit in der Elversberger Defensive, den Torjäger Igor Matanovic eiskalt ausnutzt.",
+   "clubs": [
+    112,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/stuttgart-und-schalke-verpassen-die-entscheidung,video-bundesliga-schalke-stuttgart-zusammenfassung-100.html",
+   "title": "Stuttgart und Schalke verpassen die Entscheidung",
+   "link": "https://www.sportschau.de/fussball/bundesliga/stuttgart-und-schalke-verpassen-die-entscheidung,video-bundesliga-schalke-stuttgart-zusammenfassung-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T23:00:33Z",
+   "teaser": "Der FC Schalke 04 wartet in dieser Bundesliga-Saison weiter auf das erste Heimtor. Auch gegen den VfB Stuttgart bleibt S04 ohne Treffer. Allerdings kann auch der VfB seine Chancen nicht nutzen.",
+   "clubs": [
+    16,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bremen-fegt-ueber-hsv-im-nordderby,video-bundesliga-bremen-hamburg-zusammenfassung-100.html",
+   "title": "Bremen fegt über den HSV im Nordderby",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bremen-fegt-ueber-hsv-im-nordderby,video-bundesliga-bremen-hamburg-zusammenfassung-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T23:00:28Z",
+   "teaser": "Werder Bremen reitet weiter auf der Erfolgswelle. Auch der Erzrivale aus Hamburg kann die Bremer im Nordderby nicht aufhalten.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/gregoritsch-fuehrt-augsburg-zum-befreiungsschlag,video-bundesliga-augsburg-mainz-zusammenfassung-100.html",
+   "title": "Gregoritsch führt Augsburg zum Befreiungsschlag",
+   "link": "https://www.sportschau.de/fussball/bundesliga/gregoritsch-fuehrt-augsburg-zum-befreiungsschlag,video-bundesliga-augsburg-mainz-zusammenfassung-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T23:00:25Z",
+   "teaser": "Der FC Augsburg hat im Abstiegskampf der Fußball-Bundesliga dank Michael Gregoritsch einen wichtigen Heimsieg eingefahren. Die Gäste aus Mainz halfen dabei kräftig mit.",
+   "clubs": [
+    81,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/leverkusen-fertigt-ueberfordertes-paderborn-ab,video-bundesliga-leverkusen-paderborn-zusammenfassung-100.html",
+   "title": "Leverkusen fertigt überfordertes Paderborn ab",
+   "link": "https://www.sportschau.de/fussball/bundesliga/leverkusen-fertigt-ueberfordertes-paderborn-ab,video-bundesliga-leverkusen-paderborn-zusammenfassung-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T23:00:23Z",
+   "teaser": "Bayer 04 Leverkusen sichert sich drei Punkte gegen den SC Paderborn. Matchwinner Afonso Moreira eröffnete beim 4:0-Heimsieg den Torreigen mit seinem ersten Bundesliga-Tordebüt.",
+   "clubs": [
+    6,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/union-bricht-gegen-leipzig-nach-der-pause-ein,video-bundesliga-union-berlin-leipzig-zusammenfassung-100.html",
+   "title": "Union bricht gegen Leipzig nach der Pause ein",
+   "link": "https://www.sportschau.de/fussball/bundesliga/union-bricht-gegen-leipzig-nach-der-pause-ein,video-bundesliga-union-berlin-leipzig-zusammenfassung-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T23:00:20Z",
+   "teaser": "RB Leipzig feiert einen deutlichen 5:1-Erfolg gegen Union Berlin. Die Köpenicker halten zunächst gut dagegen, doch nach der Pause dreht Leipzig auf und erzielt vier weitere Treffer.",
+   "clubs": [
+    1635,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/koeln-feiert-ueberraschungspunkt-in-muenchen,video-bundesliga-bayern-muenchen-koeln-zusammenfassung-100.html",
+   "title": "Köln feiert Überraschungspunkt in München",
+   "link": "https://www.sportschau.de/fussball/bundesliga/koeln-feiert-ueberraschungspunkt-in-muenchen,video-bundesliga-bayern-muenchen-koeln-zusammenfassung-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T23:00:18Z",
+   "teaser": "Ein personell geschwächter FC Bayern strauchelt zu Hause und kommt gegen den 1. FC Köln nicht über ein 1:1 hinaus. Der Rekordmeister verliert nicht nur zwei Punkte, sondern auch weitere Leistungsträger.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-bayer-leverkusen-schiesst-paderborn-ab-100.html",
+   "title": "Bayer Leverkusen schießt Paderborn ab",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-bayer-leverkusen-schiesst-paderborn-ab-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T23:00:16Z",
+   "teaser": "Bayer 04 Leverkusen hat gegen den SC Paderborn einen deutlichen Heimsieg in der Fußball-Bundesliga verbucht.",
+   "clubs": [
+    6,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/freiburg-siegt-in-elversberg-und-bleibt-oben-dran,spielbericht-sv-elversberg-sc-freiburg-100.html",
+   "title": "Freiburg siegt in Elversberg und bleibt oben dran",
+   "link": "https://www.sportschau.de/fussball/bundesliga/freiburg-siegt-in-elversberg-und-bleibt-oben-dran,spielbericht-sv-elversberg-sc-freiburg-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T23:00:15Z",
+   "teaser": "Der SC Freiburg hat in der Fußball-Bundesliga einen Sieg bei der SV Elversberg eingefahren und ist als Tabellendritter weiter oben mit dabei.",
+   "clubs": [
+    112,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/leipzigs-offensive-rollt-auch-bei-union-berlin,spielbericht-union-berlin-rb-leipzig-104.html",
+   "title": "Leipzigs Offensive rollt auch bei Union Berlin",
+   "link": "https://www.sportschau.de/fussball/bundesliga/leipzigs-offensive-rollt-auch-bei-union-berlin,spielbericht-union-berlin-rb-leipzig-104.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T23:00:13Z",
+   "teaser": "RB Leipzig macht bei Union Berlin genauso weiter wie vor der Länderspielpause und fährt den nächsten hohen Sieg ein.",
+   "clubs": [
+    1635,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/famoser-atubolu-rettet-eintracht-jubilaeumssieg,spielbericht-eintracht-frankfurt-tsg-hoffenheim-106.html",
+   "title": "Atubolu rettet Frankfurt gegen Hoffenheim den Jubiläumssieg",
+   "link": "https://www.sportschau.de/fussball/bundesliga/famoser-atubolu-rettet-eintracht-jubilaeumssieg,spielbericht-eintracht-frankfurt-tsg-hoffenheim-106.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T23:00:12Z",
+   "teaser": "Eine hochklassige erste Halbzeit reichte Eintracht Frankfurt zu einem besonderen Sieg gegen die TSG Hoffenheim. Überragend war SGE-Torwart Noah Atubolu.",
+   "clubs": [
+    91,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/wie-verhext-schalke-trifft-zu-hause-tor-nicht,spielbericht-schalke-04-vfb-stuttgart-100.html",
+   "title": "Wie verhext: Schalke trifft auch gegen Stuttgart zu Hause das Tor nicht",
+   "link": "https://www.sportschau.de/fussball/bundesliga/wie-verhext-schalke-trifft-zu-hause-tor-nicht,spielbericht-schalke-04-vfb-stuttgart-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T23:00:11Z",
+   "teaser": "Schalke 04 bleibt zu Hause torlos und hat so nach einem eigentlich starken Auftritt gegen den Champions-League-Teilnehmer VfB Stuttgart einen Bundesliga-Negativrekord eingestellt.",
+   "clubs": [
+    16,
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/augsburger-befreiungsschlag-verschaerft-mainzer-krise,spielbericht-fc-augsburg-mainz-05-100.html",
+   "title": "FC Augsburgs Befreiungsschlag verschärft Krise von Mainz 05",
+   "link": "https://www.sportschau.de/fussball/bundesliga/augsburger-befreiungsschlag-verschaerft-mainzer-krise,spielbericht-fc-augsburg-mainz-05-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T23:00:09Z",
+   "teaser": "Der FC Augsburg hat in der Bundesliga trotz einer Roten Karte erstmals seit dem 2. Spieltag wieder gewonnen und damit die Krise des 1. FSV Mainz 05 weiter verschärft.",
+   "clubs": [
+    81,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-bvb-holt-sich-in-moenchengladbach-die-tabellenfuehrung-100.html",
+   "title": "BVB springt gegen Gladbach an die Spitze der Bundesliga-Tabelle",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-bvb-holt-sich-in-moenchengladbach-die-tabellenfuehrung-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T23:00:08Z",
+   "teaser": "Der BVB gewinnt 1:0 in Gladbach und übernimmt Platz eins. Dem starken Torhüter Daniel Batz unterläuft der entscheidende Fehler und Felix Nmecha trifft erneut.",
+   "clubs": [
+    7,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/koeln-ueberrascht-in-muenchen-kane-und-olise-verletzt-ausgewechselt,spielbericht-bayern-muenchen-koeln-102.html",
+   "title": "Bei Remis gegen Köln: Bayerns Kane und Olise verletzt ausgewechselt",
+   "link": "https://www.sportschau.de/fussball/bundesliga/koeln-ueberrascht-in-muenchen-kane-und-olise-verletzt-ausgewechselt,spielbericht-bayern-muenchen-koeln-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T23:00:07Z",
+   "teaser": "Dicke Überraschung am Freitagabend: Mit einer couragierten Leistung hat der 1. FC Köln beim FC Bayern ein Remis erkämpft. Bayerns Starspieler Kane und Olise mussten früh verletzt raus. Den Ballon d'Or-Gewinner traf es schwer.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
+   "title": "Werder Bremen hämmert den HSV im Nordderby weg",
+   "link": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T23:00:04Z",
+   "teaser": "Werder Bremen bleibt die Bundesliga-Überraschung. Mit einem deutlichen Erfolg im Derby gegen den Hamburger SV halten die Grün-Weißen den Anschluss an die Spitzengruppe.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/dortmund-nutzt-batz-und-bayerns-patzer,video-bundesliga-gladbach-dortmund-zusammenfassung-100.html",
+   "title": "Dortmund nutzt Batz' und Bayerns Patzer",
+   "link": "https://www.sportschau.de/fussball/bundesliga/dortmund-nutzt-batz-und-bayerns-patzer,video-bundesliga-gladbach-dortmund-zusammenfassung-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T23:00:02Z",
+   "teaser": "Borussia Dortmund setzt sich in der Bundesliga mit 1:0 bei Borussia Mönchengladbach durch. Ein harmlos wirkender Schuss sorgt für die Entscheidung und beschert dem BVB die Tabellenführung.",
+   "clubs": [
+    7,
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/frankfurt-siegt-dank-atubolu-gegen-hoffenheim,video-bundesliga-frankfurt-hoffenheim-zusammenfassung-100.html",
+   "title": "Frankfurt siegt dank Atubolu gegen Hoffenheim",
+   "link": "https://www.sportschau.de/fussball/bundesliga/frankfurt-siegt-dank-atubolu-gegen-hoffenheim,video-bundesliga-frankfurt-hoffenheim-zusammenfassung-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T23:00:00Z",
+   "teaser": "Eintracht Frankfurt und die TSG Hoffenheim liefern sich eine torschussreiche Partie bei der gleich zwei Elfmeter ungenutzt bleiben. Am Ende trifft nur Jonathan Burkardt und sichert den Frankfurtern einen knappen Sieg.",
+   "clubs": [
+    91,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/brennende-sitze-und-zerstoerte-sanitaeranlage-in-bremen-1274110/artikel",
+   "title": "Brennende Sitze und zerstörte Sanitäranlage in Bremen",
+   "link": "https://www.kicker.de/brennende-sitze-und-zerstoerte-sanitaeranlage-in-bremen-1274110/artikel",
+   "source": "kicker",
+   "published": "2026-11-22T22:55:00Z",
+   "teaser": "Im Zuge des Nordderbys zwischen Werder Bremen und dem Hamburger SV kam es auch zu mutwilligen Zerstörungen. So brannte es auf einem der Blöcke, während auch eine Sanitäreinrichtung gehörig ramponiert wurde.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/kane-verletzt-wirbel-um-musiala-ist-dortmunds-chance,bundesliga-update-spieltag-10-100.html",
+   "title": "Das Meisterrennen der Bundesliga: Spanned wie lange nicht?",
+   "link": "https://www.sportschau.de/kane-verletzt-wirbel-um-musiala-ist-dortmunds-chance,bundesliga-update-spieltag-10-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-22T22:09:02Z",
+   "teaser": "Harry Kane fällt monatelang aus, Borussia Dortmund hat die Tabellenführung übernommen. Dahinter lauern Leipzig und Freiburg. Steht uns die spannendste Bundesliga-Saison seit langem bevor?",
+   "clubs": [
+    7,
+    1635,
+    112
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/bayer-und-bremen-fuehren-die-riege-an-die-kicker-elf-des-10-spieltags-1274007/slideshow",
    "title": "Bayer und Bremen führen die Riege an: Die kicker-Elf des 10. Spieltags",
    "link": "https://www.kicker.de/bayer-und-bremen-fuehren-die-riege-an-die-kicker-elf-des-10-spieltags-1274007/slideshow",
    "source": "kicker",
    "published": "2026-11-22T21:01:01Z",
-   "teaser": "Gleich drei Bremer Derby-Sieger schafften es in die kicker-Elf des Tages, in der Bayer 04 Leverkusen sogar vier Spielern vertreten ist.",
+   "teaser": "Gleich drei Bremer Derby-Sieger schafften es in die kicker-Elf des Tages, in der von Bayer 04 Leverkusen sogar vier Spieler vertreten sind.",
    "clubs": [
     6,
     134
@@ -57,19 +318,6 @@
    "source": "kicker",
    "published": "2026-11-22T20:28:40Z",
    "teaser": "Der HSV muss eine empfindliche Derby-Pleite aufarbeiten, unmittelbar nach dem 0:4 von Bremen fingen Trainer Merlin Polzin und Routinier Miro Muheim damit an.",
-   "clubs": [
-    134,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
-   "title": "Werder Bremen hämmert den HSV im Nordderby weg",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
-   "source": "Sportschau",
-   "published": "2026-11-22T20:07:14Z",
-   "teaser": "Werder Bremen bleibt die Bundesliga-Überraschung. Mit einem deutlichen Erfolg im Derby gegen den Hamburger SV halten die Grün-Weißen den Anschluss an die Spitzengruppe.",
    "clubs": [
     134,
     100
@@ -148,19 +396,6 @@
    "source": "kicker",
    "published": "2026-11-22T18:05:37Z",
    "teaser": "Der FC Augsburg gewann gegen den 1. FSV Mainz 05 mit 3:1. Im Mittelpunkt stand dabei vor allem Trainer Manuel Baum, der für kuriose Szenen auf der Pressetribüne sorgte. Aus Augsburg berichtet kicker-Reporter Mario Krischel.",
-   "clubs": [
-    81,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/augsburger-befreiungsschlag-verschaerft-mainzer-krise,spielbericht-fc-augsburg-mainz-05-100.html",
-   "title": "FC Augsburgs Befreiungsschlag verschärft Krise von Mainz 05",
-   "link": "https://www.sportschau.de/fussball/bundesliga/augsburger-befreiungsschlag-verschaerft-mainzer-krise,spielbericht-fc-augsburg-mainz-05-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-22T17:38:34Z",
-   "teaser": "Der FC Augsburg hat in der Bundesliga trotz einer Roten Karte erstmals seit dem 2. Spieltag wieder gewonnen und damit die Krise des 1. FSV Mainz 05 weiter verschärft.",
    "clubs": [
     81,
     95
@@ -637,19 +872,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/fussball/bundesliga/schalke-zementiert-die-null-im-eigenen-stadion,spielbericht-schalke-04-vfb-stuttgart-100.html",
-   "title": "Wie verhext: Schalke trifft auch gegen Stuttgart zuhause das Tor nicht",
-   "link": "https://www.sportschau.de/fussball/bundesliga/schalke-zementiert-die-null-im-eigenen-stadion,spielbericht-schalke-04-vfb-stuttgart-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T20:16:39Z",
-   "teaser": "Schalke 04 bleibt zuhause torlos und hat so nach einem eigentlich starken Auftritt gegen den Champions-League-Teilnehmer VfB Stuttgart einen Bundesliga-Negativrekord eingestellt.",
-   "clubs": [
-    16,
-    9
-   ],
-   "transfer": false
-  },
-  {
    "id": "https://www.kicker.de/borussen-duelle-der-gegensaetze-wenn-die-bayern-verwundbar-sind-dann-jetzt-1273656/video",
    "title": "Borussen-Duelle der Gegensätze: \"Wenn die Bayern verwundbar sind, dann jetzt\"",
    "link": "https://www.kicker.de/borussen-duelle-der-gegensaetze-wenn-die-bayern-verwundbar-sind-dann-jetzt-1273656/video",
@@ -685,19 +907,6 @@
    "clubs": [
     16,
     9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/famoser-atubolu-rettet-eintracht-jubilaeumssieg,spielbericht-eintracht-frankfurt-tsg-hoffenheim-106.html",
-   "title": "Atubolu rettet Frankfurt gegen Hoffenheim den Jubiläumssieg",
-   "link": "https://www.sportschau.de/fussball/bundesliga/famoser-atubolu-rettet-eintracht-jubilaeumssieg,spielbericht-eintracht-frankfurt-tsg-hoffenheim-106.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T19:27:27Z",
-   "teaser": "Eine hochklassige erste Halbzeit reichte Eintracht Frankfurt zu einem besonderen Sieg gegen die TSG Hoffenheim. Überragend war SGE-Torwart Noah Atubolu.",
-   "clubs": [
-    91,
-    175
    ],
    "transfer": false
   },
@@ -830,32 +1039,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-bvb-holt-sich-in-moenchengladbach-die-tabellenfuehrung-100.html",
-   "title": "BVB springt gegen Gladbach an die Spitze der Bundesliga-Tabelle",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-bvb-holt-sich-in-moenchengladbach-die-tabellenfuehrung-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T18:00:00Z",
-   "teaser": "Der BVB gewinnt 1:0 in Gladbach und übernimmt Platz eins. Dem starken Torhüter Daniel Batz unterläuft der entscheidende Fehler und Felix Nmecha trifft erneut.",
-   "clubs": [
-    7,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-bayer-leverkusen-schiesst-paderborn-ab-100.html",
-   "title": "Bayer Leverkusen schießt Paderborn ab",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-bayer-leverkusen-schiesst-paderborn-ab-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T17:59:00Z",
-   "teaser": "Bayer 04 Leverkusen hat gegen den SC Paderborn einen deutlichen Heimsieg in der Fußball-Bundesliga verbucht.",
-   "clubs": [
-    6,
-    31
-   ],
-   "transfer": false
-  },
-  {
    "id": "https://www.kicker.de/bitteres-urteil-union-fehlen-die-fussballerischen-mittel-1273612/video",
    "title": "Bitteres Urteil: \"Union fehlen die fußballerischen Mittel\"",
    "link": "https://www.kicker.de/bitteres-urteil-union-fehlen-die-fussballerischen-mittel-1273612/video",
@@ -931,19 +1114,6 @@
    "transfer": false
   },
   {
-   "id": "https://www.sportschau.de/fussball/bundesliga/leipzigs-offensive-rollt-auch-bei-union-berlin,spielbericht-union-berlin-rb-leipzig-104.html",
-   "title": "Leipzigs Offensive rollt auch bei Union Berlin",
-   "link": "https://www.sportschau.de/fussball/bundesliga/leipzigs-offensive-rollt-auch-bei-union-berlin,spielbericht-union-berlin-rb-leipzig-104.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T16:29:09Z",
-   "teaser": "RB Leipzig macht bei Union Berlin genauso weiter wie vor der Länderspielpause und fährt den nächsten hohen Sieg ein.",
-   "clubs": [
-    1635,
-    80
-   ],
-   "transfer": false
-  },
-  {
    "id": "https://www.kicker.de/druck-auf-musiala-dreesen-ordnet-rummenigge-aussagen-ein-1273555/video",
    "title": "Druck auf Musiala: Dreesen ordnet Rummenigge-Aussagen ein",
    "link": "https://www.kicker.de/druck-auf-musiala-dreesen-ordnet-rummenigge-aussagen-ein-1273555/video",
@@ -952,19 +1122,6 @@
    "teaser": "In der Mixed Zone nach der Mitgliederversammlung sprach Bayern-CEO über Jamal Musiala und die Aussagen von Karl-Heinz Rummenigge.",
    "clubs": [
     40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/freiburg-siegt-in-elversberg-und-bleibt-oben-dran,spielbericht-sv-elversberg-sc-freiburg-100.html",
-   "title": "Freiburg siegt in Elversberg und bleibt oben dran",
-   "link": "https://www.sportschau.de/fussball/bundesliga/freiburg-siegt-in-elversberg-und-bleibt-oben-dran,spielbericht-sv-elversberg-sc-freiburg-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T16:21:24Z",
-   "teaser": "Der SC Freiburg hat in der Fußball-Bundesliga einen Sieg bei der SV Elversberg eingefahren und ist als Tabellendritter weiter oben mit dabei.",
-   "clubs": [
-    112,
-    198
    ],
    "transfer": false
   },
@@ -1371,19 +1528,6 @@
     65
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/koeln-ueberrascht-in-muenchen-kane-und-olise-verletzt-ausgewechselt,spielbericht-bayern-muenchen-koeln-102.html",
-   "title": "Bei Remis gegen Köln: Bayerns Kane und Olise verletzt ausgewechselt",
-   "link": "https://www.sportschau.de/fussball/bundesliga/koeln-ueberrascht-in-muenchen-kane-und-olise-verletzt-ausgewechselt,spielbericht-bayern-muenchen-koeln-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-20T22:08:33Z",
-   "teaser": "Dicke Überraschung am Freitagabend: Mit einer couragierten Leistung hat der 1. FC Köln beim FC Bayern ein Remis erkämpft. Bayerns Starspieler Kane und Olise mussten früh verletzt raus. Den Ballon d'Or-Gewinner traf es schwer.",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/bayern-gegen-koeln-2026-bundesliga-5226890/spielbericht",
@@ -2380,139 +2524,6 @@
     175
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gladbach-ohne-ullrich-blessins-optionen-auf-der-linken-schiene-1272397/artikel",
-   "title": "Gladbach ohne Ullrich: Blessins Optionen auf der linken Schiene",
-   "link": "https://www.kicker.de/gladbach-ohne-ullrich-blessins-optionen-auf-der-linken-schiene-1272397/artikel",
-   "source": "kicker",
-   "published": "2026-11-17T16:46:49Z",
-   "teaser": "In den kommenden Wochen muss Alexander Blessin auf Lukas Ullrich verzichten. David Herold ist zwar nominell der Vertreter, doch Allrounder Jens Castrop bringt sich für sein Startelf-Comeback in Position.",
-   "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kompany-musiala-diaz-so-steht-es-um-bayerns-rueckkehrer-1272417/video",
-   "title": "Kompany, Musiala, Diaz: So steht es um Bayerns Rückkehrer",
-   "link": "https://www.kicker.de/kompany-musiala-diaz-so-steht-es-um-bayerns-rueckkehrer-1272417/video",
-   "source": "kicker",
-   "published": "2026-11-17T14:39:56Z",
-   "teaser": "Beim Heimspiel gegen den 1. FC Köln soll Cheftrainer Vincent Kompany wieder an die Seitenlinie der Münchner zurückkehren, auch Jamal Musiala macht Fortschritte. Unser kicker-Reporter Mario Krischel mit einem Update.",
-   "clubs": [
-    65
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/guenstige-zeichen-bei-maza-bayer-mit-fuenf-rueckkehrern-gegen-paderborn-1272259/artikel",
-   "title": "Günstige Zeichen bei Maza: Bayer mit fünf Rückkehrern gegen Paderborn?",
-   "link": "https://www.kicker.de/guenstige-zeichen-bei-maza-bayer-mit-fuenf-rueckkehrern-gegen-paderborn-1272259/artikel",
-   "source": "kicker",
-   "published": "2026-11-17T14:15:05Z",
-   "teaser": "Vor dem Spiel gegen Paderborn kann Trainer Carles Martinez auf bis zu fünf Rückkehrer hoffen. Auch bei Spielmacher Ibrahim Maza, der vorzeitig von Algeriens Nationalmannschaft zurückkehrte, stehen die Zeichen für einen Einsatz günstig.",
-   "clubs": [
-    31
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/demichelis-jetzt-spuert-auch-gruda-wie-geil-das-ist-1272394/artikel",
-   "title": "Demichelis: \"Jetzt spürt auch Gruda, wie geil das ist\"",
-   "link": "https://www.kicker.de/demichelis-jetzt-spuert-auch-gruda-wie-geil-das-ist-1272394/artikel",
-   "source": "kicker",
-   "published": "2026-11-17T13:38:47Z",
-   "teaser": "Wie hat RB Leipzig zuletzt in die Spur gefunden? Trainer Martin Demichelis über überwundene Probleme, DFB-Shootingstar Brajan Gruda - und wahren Druck am Beispiel von Buenos Aires.",
-   "clubs": [
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kader-sportdirektor-nachwuchs-chatzialexiou-steht-vor-wichtigen-entscheidungen-1272297/artikel",
-   "title": "Kader, Sportdirektor, Nachwuchs: Chatzialexiou steht vor wichtigen Entscheidungen",
-   "link": "https://www.kicker.de/kader-sportdirektor-nachwuchs-chatzialexiou-steht-vor-wichtigen-entscheidungen-1272297/artikel",
-   "source": "kicker",
-   "published": "2026-11-17T12:22:51Z",
-   "teaser": "Nach seiner vorzeitigen Vertragsauflösung in Nürnberg kann Sportvorstand Joti Chatzialexiou seine Arbeit in Frankfurt schon im Dezember beginnen. Das ist ein Segen für die Eintracht, denn es wartet viel Arbeit.",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/klausel-greift-bredlow-verlaengert-beim-vfb-1272361/artikel",
-   "title": "Klausel greift: Bredlow verlängert beim VfB",
-   "link": "https://www.kicker.de/klausel-greift-bredlow-verlaengert-beim-vfb-1272361/artikel",
-   "source": "kicker",
-   "published": "2026-11-17T11:55:43Z",
-   "teaser": "Fabian Bredlow wird auch über die laufende Saison hinaus beim VfB Stuttgart unter Vertrag stehen, wie der Verein am Dienstag mitteilte.",
-   "clubs": [
-    16
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/regional/swr/swr-frueh-am-limit-der-vfb-stuttgart-und-die-schwierige-belastungssteuerung-100.html",
-   "title": "Der VfB Stuttgart und die schwierige Belastungssteuerung",
-   "link": "https://www.sportschau.de/regional/swr/swr-frueh-am-limit-der-vfb-stuttgart-und-die-schwierige-belastungssteuerung-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-17T11:03:04Z",
-   "teaser": "Der VfB Stuttgart wirkte vor der Länderspielpause platt. Eine Rotation wie in der abgelaufenen Saison war bislang nicht möglich. Die Schwaben dürfen aber optimistisch sein.",
-   "clubs": [
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/vor-dem-nordderby-bremens-innensenatorin-nimmt-dfl-in-die-pflicht-1272325/artikel",
-   "title": "Vor dem Nordderby: Bremens Innensenatorin nimmt DFL in die Pflicht",
-   "link": "https://www.kicker.de/vor-dem-nordderby-bremens-innensenatorin-nimmt-dfl-in-die-pflicht-1272325/artikel",
-   "source": "kicker",
-   "published": "2026-11-17T10:38:04Z",
-   "teaser": "Der Polizeikostenstreit zwischen dem Bundesland Bremen und der DFL hat den deutschen Fußball jahrelang beschäftigt. Nun kündigt die Politik vor dem Nordderby Bremen gegen HSV die nächste Rechnung an.",
-   "clubs": [
-    134,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/polzin-gehen-die-optionen-aus-auch-sambi-lokonga-faellt-verletzt-aus-1272165/artikel",
-   "title": "Polzin gehen die Optionen aus: Auch Sambi Lokonga fällt verletzt aus",
-   "link": "https://www.kicker.de/polzin-gehen-die-optionen-aus-auch-sambi-lokonga-faellt-verletzt-aus-1272165/artikel",
-   "source": "kicker",
-   "published": "2026-11-16T17:03:52Z",
-   "teaser": "Das Verletzungspech klebt dem Hamburger SV weiter an den Hacken. Mit Albert Sambi Lokonga fällt nun der nächste Spieler aus - und Trainer Merlin Polzin gehen die Alternativen im Mittelfeld aus.",
-   "clubs": [
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-joti-chatzialexiou-kommt-schon-frueher-aus-nuernberg-100.html",
-   "title": "Einigung mit Nürnberg: Joti Chatzialexiou kommt schon früher nach Frankfurt",
-   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-joti-chatzialexiou-kommt-schon-frueher-aus-nuernberg-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-16T16:15:38Z",
-   "teaser": "Was schon lange vermutet wurde, ist nun offiziell: Joti Chatzialexiou hat sich mit dem 1. FC Nürnberg auf eine zeitige Vertragsauflösung geeinigt. Noch in diesem Jahr könnte der gebürtige Frankfurter seine Arbeit bei der Eintracht …",
-   "clubs": [
-    91
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Mario-Vuskovic-Hajduk-Split,hsv-2382.html",
-   "title": "Rückkehr von Mario Vuskovic beim HSV: \"Vier Jahre davon geträumt\"",
-   "link": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Mario-Vuskovic-Hajduk-Split,hsv-2382.html",
-   "source": "Sportschau",
-   "published": "2026-11-16T15:46:09Z",
-   "teaser": "Der Verteidiger der Hamburger bestritt am Sonntag gegen Hajduk Split das erste Spiel nach seiner Sperre. Unter Tränen bedankte er sich für die jahrelange Unterstützung.",
-   "clubs": [
-    100
-   ],
-   "transfer": true
   }
  ]
 }
