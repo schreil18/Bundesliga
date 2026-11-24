@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:54:29Z",
+ "updated": "2026-11-24T18:49:56Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,14 +16,243 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/roessing-lelesiit-hamburgs-hoffnung-aus-dem-lazarett-1274650/artikel",
+   "title": "Rössing-Lelesiit: Hamburgs Hoffnung aus dem Lazarett",
+   "link": "https://www.kicker.de/roessing-lelesiit-hamburgs-hoffnung-aus-dem-lazarett-1274650/artikel",
+   "source": "kicker",
+   "published": "2026-11-24T17:05:57Z",
+   "teaser": "In Tagen, in denen sich die seit Wochen bestehende Verletzungsmisere beim Hamburger SV auf dramatische Weise zuspitzt, sind Lichtblicke rar. Einer kommt ausgerechnet selbst erst frisch aus dem Krankenstand: Alexander Rössing-Lelesiit.",
+   "clubs": [
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/gute-nachrichten-von-kleindienst-und-bolin-aber-sorgen-um-hack-1274665/artikel",
+   "title": "Gute Nachrichten von Kleindienst und Bolin, aber Sorgen um Hack",
+   "link": "https://www.kicker.de/gute-nachrichten-von-kleindienst-und-bolin-aber-sorgen-um-hack-1274665/artikel",
+   "source": "kicker",
+   "published": "2026-11-24T16:59:04Z",
+   "teaser": "Borussia Mönchengladbach steckt tief in einer Krise. Vor dem Gastspiel gibt es gute Nachrichten von der Verletztenfront, zugleich aber auch neue Sorgen.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kommt-eine-neue-anstosszeit-am-bundesliga-samstag-1274658/artikel",
+   "title": "Kommt eine neue Anstoßzeit am Bundesliga-Samstag?",
+   "link": "https://www.kicker.de/kommt-eine-neue-anstosszeit-am-bundesliga-samstag-1274658/artikel",
+   "source": "kicker",
+   "published": "2026-11-24T16:40:05Z",
+   "teaser": "Ab der Saison 2029/30 könnte der Bundesliga-Samstagabend ein neues Gesicht bekommen. Doch der Weg ist noch weit.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/mehr-als-eine-verlegenheitsloesung-knauff-ueberzeugt-auch-als-rechtsverteidiger-1274580/artikel",
+   "title": "Mehr als eine Verlegenheitslösung: Knauff überzeugt auch als Rechtsverteidiger",
+   "link": "https://www.kicker.de/mehr-als-eine-verlegenheitsloesung-knauff-ueberzeugt-auch-als-rechtsverteidiger-1274580/artikel",
+   "source": "kicker",
+   "published": "2026-11-24T16:25:40Z",
+   "teaser": "Beim 1:0-Heimsieg gegen Hoffenheim zählte Ansgar Knauff zu den stärksten Frankfurtern - als Rechtsverteidiger. Mindestens bis zur Winterpause könnte sich der gelernte Offensivspieler auf dieser Position festspielen.",
+   "clubs": [
+    91,
+    175
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.sportschau.de/regional/rbb/rbb-union-berlin-im-tabellenkeller-fassade-des-zusammenhalts-broeckelt-100.html",
    "title": "Union im Tabellenkeller - Die Fassade des Zusammenhalts bröckelt",
    "link": "https://www.sportschau.de/regional/rbb/rbb-union-berlin-im-tabellenkeller-fassade-des-zusammenhalts-broeckelt-100.html",
    "source": "Sportschau",
-   "published": "2026-11-23T20:39:08Z",
+   "published": "2026-11-24T15:57:52Z",
    "teaser": "Union Berlin steckt mittendrin im Tabellenkeller. Neben Manager Heldt wird auch über Trainer Lustrinelli diskutiert. Der übt nun harsche Kritik an seinen Spielern und befeuert Union-untypische Zustände.",
    "clubs": [
     80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/eberl-berichtet-von-gespraech-mit-musiala-konsens-gefunden-1274634/video",
+   "title": "Eberl berichtet von Gespräch mit Musiala: \"Konsens gefunden\"",
+   "link": "https://www.kicker.de/eberl-berichtet-von-gespraech-mit-musiala-konsens-gefunden-1274634/video",
+   "source": "kicker",
+   "published": "2026-11-24T15:07:05Z",
+   "teaser": "Max Eberl sprach vor dem Abflug nach Lille über Jamal Musiala. Dabei gewährte Bayerns Sportvorstand Einblicke in das Gespräch an der Säbener Straße am Mittwoch und stellte die Vermutung auf, dass der 23-Jährige noch stärker zurückkommen …",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/stuttgarts-leihspieler-catovic-verletzt-sich-im-barca-trikot-schwer-1274625/artikel",
+   "title": "Stuttgarts Leihspieler Catovic verletzt sich im Barca-Trikot schwer",
+   "link": "https://www.kicker.de/stuttgarts-leihspieler-catovic-verletzt-sich-im-barca-trikot-schwer-1274625/artikel",
+   "source": "kicker",
+   "published": "2026-11-24T14:54:41Z",
+   "teaser": "Mirza Catovic gelang im Sommer noch nicht der Sprung von der Drittliga-Reserve in die Bundesliga-Elf des VfB Stuttgart. Daher entschied sich der Sechser, im Unterbau des FC Barcelona Erfahrungen zu sammeln, doch damit ist es jetzt erst mal …",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/strahlendes-laecheln-musiala-laesst-sich-im-training-nichts-anmerken-1274615/video",
+   "title": "Strahlendes Lächeln: Musiala lässt sich im Training nichts anmerken",
+   "link": "https://www.kicker.de/strahlendes-laecheln-musiala-laesst-sich-im-training-nichts-anmerken-1274615/video",
+   "source": "kicker",
+   "published": "2026-11-24T13:51:31Z",
+   "teaser": "Jamal Musiala, der in mitten einer großen Debatte beim FC Bayern steht, lässt sich im Mannschaftstraining nichts anmerken und läuft strahlend über den Platz.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/okon-engstler-ueber-deutsch-kenntnisse-mein-opa-will-dass-ich-es-lerne-1274594/video",
+   "title": "Okon-Engstler über Deutsch-Kenntnisse: \"Mein Opa will, dass ich es lerne\"",
+   "link": "https://www.kicker.de/okon-engstler-ueber-deutsch-kenntnisse-mein-opa-will-dass-ich-es-lerne-1274594/video",
+   "source": "kicker",
+   "published": "2026-11-24T13:03:35Z",
+   "teaser": "Kölns australischer Mittelfeldspieler Paul Okon-Engstler spricht im Interview über seinen Spielstil und Position. Überrascht ist der 21-Jährige von der Frage nach seinem Deutsch.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nach-taetlichkeit-in-frankfurt-kabak-vom-dfb-fuer-vier-spiele-gesperrt-1274176/artikel",
+   "title": "Nach Tätlichkeit in Frankfurt: Kabak vom DFB für vier Spiele gesperrt",
+   "link": "https://www.kicker.de/nach-taetlichkeit-in-frankfurt-kabak-vom-dfb-fuer-vier-spiele-gesperrt-1274176/artikel",
+   "source": "kicker",
+   "published": "2026-11-24T12:22:15Z",
+   "teaser": "Ozan Kabak hat der TSG Hoffenheim beim Auswärtsspiel in Frankfurt einen Bärendienst erwiesen - und fehlt den Kraichgauern in der Bundesliga nun im restlichen Kalenderjahr.",
+   "clubs": [
+    91,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-debatte-um-jamal-musiala-darf-der-fc-bayern-sein-gehalt-kuerzen-102.html",
+   "title": "Darf der FC Bayern Musialas Gehalt kürzen?",
+   "link": "https://www.sportschau.de/regional/br/br-debatte-um-jamal-musiala-darf-der-fc-bayern-sein-gehalt-kuerzen-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-24T12:16:25Z",
+   "teaser": "Jamal Musiala steht nach seiner Erkrankung im Zentrum einer hitzigen Debatte: Die FC-Bayern-Bosse sprechen über mögliche Gehaltskürzung. Aber wäre das überhaupt erlaubt?",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ein-spiel-sperre-baum-fehlt-dem-fca-in-hoffenheim-1274557/artikel",
+   "title": "Ein Spiel Sperre: Baum fehlt dem FCA in Hoffenheim",
+   "link": "https://www.kicker.de/ein-spiel-sperre-baum-fehlt-dem-fca-in-hoffenheim-1274557/artikel",
+   "source": "kicker",
+   "published": "2026-11-24T11:06:06Z",
+   "teaser": "Das DFB-Sportgericht hat FCA-Coach Manuel Baum wegen der Vorkommnisse beim Heimauftritt der Augsburger gegen Mainz 05 mit einem Innenraumverbot von einem Spiel bestraft.",
+   "clubs": [
+    175,
+    81,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-dank-malocher-fussball-im-aufwind-100.html",
+   "title": "Eintracht Frankfurt dank Malocher-Fußball im Aufwind",
+   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-dank-malocher-fussball-im-aufwind-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-24T11:00:43Z",
+   "teaser": "Mit viel Energie, viel Qualität und ein wenig Glück schlägt Eintracht Frankfurt die TSG Hoffenheim und klopft oben an. Adi Hütter sieht teilweise Adi-Hütter-Fußball, die Entwicklung muss aber weitergehen.",
+   "clubs": [
+    91,
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fc-harmlos-04-einfach-pech-oder-doch-ein-klares-qualitaetsproblem-1273843/artikel",
+   "title": "FC Harmlos 04: Einfach Pech oder doch ein klares Qualitätsproblem?",
+   "link": "https://www.kicker.de/fc-harmlos-04-einfach-pech-oder-doch-ein-klares-qualitaetsproblem-1273843/artikel",
+   "source": "kicker",
+   "published": "2026-11-24T09:56:44Z",
+   "teaser": "Zehn Spiele, nur fünf Treffer, kein einziger davon gelang in der eigenen Arena: Der Tor-Fluch beim FC Harmlos 04 nimmt allmählich dramatische Züge an. Einfach Pech - oder doch ein Qualitätsproblem? Bei der Ursachenforschung scheiden sich …",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/matthaeus-sieht-bayern-zerreissprobe-und-korrigiert-sich-1274517/artikel",
+   "title": "Matthäus sieht Bayern-Zerreißprobe - und korrigiert sich",
+   "link": "https://www.kicker.de/matthaeus-sieht-bayern-zerreissprobe-und-korrigiert-sich-1274517/artikel",
+   "source": "kicker",
+   "published": "2026-11-24T09:48:50Z",
+   "teaser": "Lothar Matthäus sieht im Fall Jamal Musiala das größte Bayern-Problem seit langem - und stellt eine Aussage richtig.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/brisantes-detail-im-musiala-vertrag-veroeffentlicht-1274498/artikel",
+   "title": "Brisantes Detail im Musiala-Vertrag veröffentlicht",
+   "link": "https://www.kicker.de/brisantes-detail-im-musiala-vertrag-veroeffentlicht-1274498/artikel",
+   "source": "kicker",
+   "published": "2026-11-24T09:26:52Z",
+   "teaser": "Der Fall Jamal Musiala beschäftigt den FC Bayern. Nun berichtet der \"Stern\" über ein brisantes Detail aus dem Vertrag des 23-Jährigen - in Bezug auf die Lohnfortzahlung.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/von-der-jokerrolle-in-den-verletztenstatus-castro-montes-fehlt-koeln-erneut-1274501/artikel",
+   "title": "Von der Jokerrolle in den Verletztenstatus: Castro-Montes fehlt Köln erneut",
+   "link": "https://www.kicker.de/von-der-jokerrolle-in-den-verletztenstatus-castro-montes-fehlt-koeln-erneut-1274501/artikel",
+   "source": "kicker",
+   "published": "2026-11-24T08:46:29Z",
+   "teaser": "Erst Ende September musste Alessio Castro-Montes eine Zwangspause einlegen, nun steht der Abwehrspieler dem 1. FC Köln verletzungsbedingt erneut nicht zur Verfügung.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/werder-nennt-sachbeschaedigung-inakzeptabel-und-reicht-kosten-an-den-hsv-weiter-1274489/artikel",
+   "title": "Werder nennt Sachbeschädigung \"inakzeptabel\" - und reicht Kosten an den HSV weiter",
+   "link": "https://www.kicker.de/werder-nennt-sachbeschaedigung-inakzeptabel-und-reicht-kosten-an-den-hsv-weiter-1274489/artikel",
+   "source": "kicker",
+   "published": "2026-11-24T08:23:35Z",
+   "teaser": "Das hochemotionale Nordderby am vergangenen Sonntag schlug auch auf den Rängen hohe Wellen. Für die Sachbeschädigung im Gästeblock muss der HSV selbst aufkommen.",
+   "clubs": [
+    134,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ein-derbyheld-und-eine-erinnerung-an-zirkzee-fcb-novizen-unverhofft-im-rampenlicht-1274327/artikel",
+   "title": "Ein Derbyheld und eine Erinnerung an Zirkzee: FCB-Novizen unverhofft im Rampenlicht",
+   "link": "https://www.kicker.de/ein-derbyheld-und-eine-erinnerung-an-zirkzee-fcb-novizen-unverhofft-im-rampenlicht-1274327/artikel",
+   "source": "kicker",
+   "published": "2026-11-24T07:27:05Z",
+   "teaser": "Die Personalnot beim FC Bayern ist in der Offensive groß. Eine Chance für Talente. Gegen Köln durften Tim Binder und Noah Codjo-Evora erstmals in ihrer jungen Karriere Bundesliga-Luft schnuppern.",
+   "clubs": [
+    40,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-bayer-04-bekommt-zur-richtigen-zeit-die-kurve-100.html",
+   "title": "Bayer 04 bekommt zur richtigen Zeit die Kurve",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-bayer-04-bekommt-zur-richtigen-zeit-die-kurve-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-24T06:53:00Z",
+   "teaser": "Gerade rechtzeitig vor dem Jahresendspurt kommt Bayer 04 Leverkusen in Form. In der Europa League soll der nächste Sieg folgen.",
+   "clubs": [
+    6
    ],
    "transfer": false
   },
@@ -60,18 +289,6 @@
    "teaser": "Auch an diesem Wochenende kam es besonders in drei Stadien zu Diskussionen. Der kicker hat bei Alex Feuerherdt nachgehört. Der DFB-Schiedsrichtersprecher erklärt, warum es vertretbar war, nicht auf Handelfmeter für Gladbach zu entscheiden …",
    "clubs": [
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-debatte-um-jamal-musiala-darf-der-fc-bayern-sein-gehalt-kuerzen-102.html",
-   "title": "Darf der FC Bayern Musialas Gehalt kürzen?",
-   "link": "https://www.sportschau.de/regional/br/br-debatte-um-jamal-musiala-darf-der-fc-bayern-sein-gehalt-kuerzen-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-23T17:30:07Z",
-   "teaser": "Jamal Musiala steht nach seiner Erkrankung im Zentrum einer hitzigen Debatte: Die FC-Bayern-Bosse sprechen über mögliche Gehaltskürzung. Aber wäre das überhaupt erlaubt?",
-   "clubs": [
-    40
    ],
    "transfer": false
   },
@@ -2297,230 +2514,6 @@
    "clubs": [
     91,
     175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/huetter-ueber-vergangenheit-mit-ilzer-da-mochten-wir-uns-noch-nicht-so-1273076/video",
-   "title": "Hütter über Vergangenheit mit Ilzer: \"Da mochten wir uns noch nicht so\"",
-   "link": "https://www.kicker.de/huetter-ueber-vergangenheit-mit-ilzer-da-mochten-wir-uns-noch-nicht-so-1273076/video",
-   "source": "kicker",
-   "published": "2026-11-19T16:28:51Z",
-   "teaser": "Vor dem Duell zwischen Eintracht Frankfurt und der TSG Hoffenheim spricht Eintracht-Coach Adi Hütter über die gemeinsame Vergangenheit zwischen ihm und TSG-Trainer Christian Ilzer.",
-   "clubs": [
-    91,
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/unglaubliche-jahre-potulski-verlaengert-vorzeitig-in-mainz-1273047/artikel",
-   "title": "\"Unglaubliche\" Jahre: Potulski verlängert vorzeitig in Mainz",
-   "link": "https://www.kicker.de/unglaubliche-jahre-potulski-verlaengert-vorzeitig-in-mainz-1273047/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T16:04:50Z",
-   "teaser": "Kacper Potulski bleibt Mainz 05 langfristig erhalten. Der 19 Jahre alte Innenverteidiger hat seinen Vertrag vorzeitig verlängert und soll am Bruchweg weiter reifen.",
-   "clubs": [
-    81
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Mario-Vuskovic-Analyse,hsv-2400.html",
-   "title": "\"Fehlen entscheidende Jahre\" - Kann Mario Vuskovic dem HSV wirklich helfen?",
-   "link": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Mario-Vuskovic-Analyse,hsv-2400.html",
-   "source": "Sportschau",
-   "published": "2026-11-19T15:56:43Z",
-   "teaser": "Die Dopingsperre hat die Karriere von Mario Vuskovic abrupt unterbrochen. Kann der HSV-Profi die verlorenen Jahre aufholen? Das sagen Sportmedizinier und Daten-Analysten.",
-   "clubs": [
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/klopp-team-als-vorbild-diese-eigenschaft-will-lustrinelli-union-verleihen-1273029/artikel",
-   "title": "Klopp-Team als Vorbild: Diese Eigenschaft will Lustrinelli Union verleihen",
-   "link": "https://www.kicker.de/klopp-team-als-vorbild-diese-eigenschaft-will-lustrinelli-union-verleihen-1273029/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T15:15:00Z",
-   "teaser": "Die sportliche Krise bei Union Berlin ist handfest - und das Problem liegt auf der Hand: Die Köpenicker sind offensiv zu zahnlos unterwegs. Dahingehend hat sich Trainer Mauro Lustrinelli inspirieren lassen.",
-   "clubs": [
-    80
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/kettemann-wird-wegen-michel-deutlich-nicht-gut-dass-er-das-nach-aussen-sagt-1273012/artikel",
-   "title": "Kettemann wird wegen Michel deutlich: \"Nicht gut, dass er das nach außen sagt\"",
-   "link": "https://www.kicker.de/kettemann-wird-wegen-michel-deutlich-nicht-gut-dass-er-das-nach-aussen-sagt-1273012/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T15:08:25Z",
-   "teaser": "Paderborns Sven Michel machte jüngst Unzufriedenheit über seine Reservistenrolle öffentlich. Vor dem Duell mit Bayer Leverkusen erklärte SCP-Coach Ralf Kettemann, warum ihn weniger die Kritik als der gewählte Weg störte.",
-   "clubs": [
-    6,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nicolas-oder-batz-blessin-pokert-im-gladbach-tor-1273014/artikel",
-   "title": "Nicolas oder Batz? Blessin pokert im Gladbach-Tor",
-   "link": "https://www.kicker.de/nicolas-oder-batz-blessin-pokert-im-gladbach-tor-1273014/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T14:53:50Z",
-   "teaser": "Die Hierarchie im Tor von Borussia Mönchengladbach schien klar zu sein, Alexander Blessin hatte sich in der Vergangenheit zu Moritz Nicolas als Nummer eins bekannt. Doch Vertreter Daniel Batz hinterließ mit seinem Bewerbungsschreiben …",
-   "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/stiller-in-aller-munde-nicht-nur-in-positivem-sinne-1273000/artikel",
-   "title": "Stiller in aller Munde - nicht nur in positivem Sinne",
-   "link": "https://www.kicker.de/stiller-in-aller-munde-nicht-nur-in-positivem-sinne-1273000/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T14:39:27Z",
-   "teaser": "Angelo Stiller ist zweifellos ein wichtiger Pfeiler des Stuttgarter Spiels und entsprechend immer ein Gesprächsthema. Zuletzt häufte sich aber die Kritik.",
-   "clubs": [
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hoeness-adelt-stiller-der-erfolg-ist-sehr-eng-mit-seinem-namen-verbunden-1273037/video",
-   "title": "Hoeneß adelt Stiller: \"Der Erfolg ist sehr eng mit seinem Namen verbunden\"",
-   "link": "https://www.kicker.de/hoeness-adelt-stiller-der-erfolg-ist-sehr-eng-mit-seinem-namen-verbunden-1273037/video",
-   "source": "kicker",
-   "published": "2026-11-19T14:38:10Z",
-   "teaser": "Nach seiner Verletzung im Adduktorenbereich ist Angelo Stiller nicht mehr weit weg von einem Einsatz. Der defensive Mittelfeldspieler ist für Sebastian Hoeneß eine sehr wichtige Figur, wie der VfB-Coach betont.",
-   "clubs": [
-    16
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-musiala-und-die-fcb-zweifel-kompany-kontert-hoeness-diplomatisch-102.html",
-   "title": "Musiala und die FCB-Zweifel: Kompany kontert Hoeneß diplomatisch",
-   "link": "https://www.sportschau.de/regional/br/br-musiala-und-die-fcb-zweifel-kompany-kontert-hoeness-diplomatisch-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-19T14:29:10Z",
-   "teaser": "Jamal Musiala steht weiter im Mittelpunkt der Debatte beim FC Bayern. Während die Führungsetage die Entwicklung des Nationalspielers vorsichtig bewertet, setzt Trainer Vincent Kompany auf Vertrauen, Geduld und seine Rückkehr zur Bestform.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/ndr/Bundesliga-Werder-Bremen-HSV-Nordderby-Reis,werder-710.html",
-   "title": "Bundesliga: Ex-HSV-Kapitän Reis vor erstem Nordderby als Werder-Profi",
-   "link": "https://www.sportschau.de/regional/ndr/Bundesliga-Werder-Bremen-HSV-Nordderby-Reis,werder-710.html",
-   "source": "Sportschau",
-   "published": "2026-11-19T14:04:30Z",
-   "teaser": "Vier Jahre spielte Ludovit Reis für den HSV, führte die Mannschaft beim Bundesliga-Aufstieg als Kapitän an. Am Sonntag steht sein erstes Nordderby im Bremer Trikot an.",
-   "clubs": [
-    134,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/schlotterbeck-tah-thiaw-wer-soll-verteidigen,bundesliga-update-ausblick-laenderspiele-november-102.html",
-   "title": "Wie kommt Schalke möglichst bald aus der Krise?",
-   "link": "https://www.sportschau.de/schlotterbeck-tah-thiaw-wer-soll-verteidigen,bundesliga-update-ausblick-laenderspiele-november-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-19T13:53:11Z",
-   "teaser": "Mit Blick auf die Tabelle hat Schalke ein riesengroßes Problem. Platz 17 in der Bundesliga. Nur sechs Punkte und was vor allem schwer wiegt: Schalke hat in neun Spielen erst fünf Tore erzielt. Aber es gibt Hoffnung für Königsblau.",
-   "clubs": [
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/demichelis-mahnende-worte-an-gruda-1272986/artikel",
-   "title": "Demichelis' mahnende Worte an Gruda",
-   "link": "https://www.kicker.de/demichelis-mahnende-worte-an-gruda-1272986/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T13:45:36Z",
-   "teaser": "Nationalmannschafts-Durchstarter Brajan Gruda ist wieder zurück bei RB Leipzig, wo ihn Trainer Martin Demichelis nach dem Länderspiel-Debüt und vor dem Duell bei Union Berlin besonders in die Pflicht nimmt.",
-   "clubs": [
-    1635,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bei-zieler-deutet-sich-ein-verbleib-beim-1-fc-koeln-an-1272527/artikel",
-   "title": "Bei Zieler deutet sich ein Verbleib beim 1. FC Köln an",
-   "link": "https://www.kicker.de/bei-zieler-deutet-sich-ein-verbleib-beim-1-fc-koeln-an-1272527/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T13:11:02Z",
-   "teaser": "Seit anderthalb Jahren führt Ron-Robert Zieler die Aufgabe als Nummer 2 des 1. FC Köln vorbildlich durch. Gut möglich ist, dass es für den Weltmeister von 2014 deshalb in seiner Heimatstadt weitergeht.",
-   "clubs": [
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/vor-borussen-duell-drei-fragezeichen-beim-bvb-1272969/artikel",
-   "title": "Vor Borussen-Duell: Drei Fragezeichen beim BVB",
-   "link": "https://www.kicker.de/vor-borussen-duell-drei-fragezeichen-beim-bvb-1272969/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T13:08:41Z",
-   "teaser": "Borussia Dortmund hatte sich mit einer Serie von sieben Partien ohne Niederlage in die Länderspielpause verabschiedet. Vor dem Duell mit Gladbach drohen Niko Kovac drei Ausfälle.",
-   "clubs": [
-    7,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/es-ist-deutlich-entspannter-bvb-vorfreude-auf-die-naechsten-acht-spiele-1272990/video",
-   "title": "\"Es ist deutlich entspannter\": BVB-Vorfreude auf die nächsten acht Spiele",
-   "link": "https://www.kicker.de/es-ist-deutlich-entspannter-bvb-vorfreude-auf-die-naechsten-acht-spiele-1272990/video",
-   "source": "kicker",
-   "published": "2026-11-19T12:54:45Z",
-   "teaser": "Nach der ersten Länderspielpause hat Borussia Dortmund dreimal in Folge nicht gewonnen. Niko Kovac will das diesmal verhindern. kicker-Reporter Patrick Kleinmann berichtet aus Dortmund.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kovac-ueber-gta-6-hoffe-nicht-dass-meine-jungs-bis-in-die-nacht-gespielt-haben-1272971/video",
-   "title": "Kovac über GTA 6: \"Hoffe nicht, dass meine Jungs bis in die Nacht gespielt haben\"",
-   "link": "https://www.kicker.de/kovac-ueber-gta-6-hoffe-nicht-dass-meine-jungs-bis-in-die-nacht-gespielt-haben-1272971/video",
-   "source": "kicker",
-   "published": "2026-11-19T12:21:32Z",
-   "teaser": "Zum Start des Videospiels GTA 6 erklärte Niko Kovac, dass er keine Konsole besitze. Der BVB-Trainer hofft, dass seine Spieler sich jetzt nicht die Nächte um die Ohren hauen.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/zu-teuer-fuer-die-bank-fuer-esteve-spricht-in-leipzig-die-zeit-1272651/artikel",
-   "title": "Zu teuer für die Bank: Für Esteve spricht in Leipzig die Zeit",
-   "link": "https://www.kicker.de/zu-teuer-fuer-die-bank-fuer-esteve-spricht-in-leipzig-die-zeit-1272651/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T12:04:23Z",
-   "teaser": "25 Millionen Euro gab RB Leipzig im Sommer für Innenverteidiger Maxime Esteve aus. Aktuell muss sich der Franzose noch hinten anstellen. Spätestens ab dem kommenden Sommer soll das anders sein.",
-   "clubs": [
-    1635
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/das-bundesliga-quiz-zum-10-spieltag-1272942/artikel",
-   "title": "Das Bundesliga-Quiz zum 10. Spieltag",
-   "link": "https://www.kicker.de/das-bundesliga-quiz-zum-10-spieltag-1272942/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T11:45:32Z",
-   "teaser": "Das 111. Bundesliga-Nordderby steht an, Dortmund trifft auswärts im Borussenduell auf Gladbach und für Köln geht es nach einer 1:5-Niederlage in der Vorsaison um Wiedergutmachung gegen die Bayern. Wie gut bist du auf den 10. Spieltag …",
-   "clubs": [
-    40,
-    7,
-    87,
-    65
    ],
    "transfer": false
   }
