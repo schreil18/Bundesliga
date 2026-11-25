@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:39:26Z",
+ "updated": "2026-11-25T22:25:43Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,115 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/freund-bekraeftigt-bayern-planen-keine-transfers-im-winter-1275073/artikel",
+   "title": "Freund bekräftigt: Bayern planen keine Transfers im Winter",
+   "link": "https://www.kicker.de/freund-bekraeftigt-bayern-planen-keine-transfers-im-winter-1275073/artikel",
+   "source": "kicker",
+   "published": "2026-11-25T20:47:08Z",
+   "teaser": "Der FC Bayern ist aktuell schwer von Verletzungen gebeutelt. Im Winter nachbessern will der Rekordmeister trotzdem nicht, das bekräftigte Sportdirektor Christoph Freund am Mittwoch vor der Partie in Lille.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/ohne-denkverbote-das-sind-kruegers-aufgaben-rund-ums-wiedersehen-mit-bayern-1274994/artikel",
+   "title": "\"Ohne Denkverbote\": Das sind Krügers Aufgaben rund ums Wiedersehen mit Bayern",
+   "link": "https://www.kicker.de/ohne-denkverbote-das-sind-kruegers-aufgaben-rund-ums-wiedersehen-mit-bayern-1274994/artikel",
+   "source": "kicker",
+   "published": "2026-11-25T18:18:15Z",
+   "teaser": "23 Jahre war Kathleen Krüger inklusive ihrer Spielerkarriere beim FC Bayern. Am Samstag trifft sie als Sportvorständin mit dem HSV erstmals auf die Münchner - und befindet sich mit ihrem Verein mitten in herausfordernden Zeiten.",
+   "clubs": [
+    40,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/krueger-blickt-auf-bayern-duell-dann-ist-ganz-viel-moeglich-1275036/video",
+   "title": "Krüger blickt auf Bayern-Duell: \"Dann ist ganz viel möglich\"",
+   "link": "https://www.kicker.de/krueger-blickt-auf-bayern-duell-dann-ist-ganz-viel-moeglich-1275036/video",
+   "source": "kicker",
+   "published": "2026-11-25T18:07:13Z",
+   "teaser": "Kathleen Krüger, Vorständin Sport des Hamburger SV, sprach vor dem Duell mit dem FC Bayern München über den Einfluss ihres ehemaligen Arbeitgebers und die Chancen des HSV am Wochenende.",
+   "clubs": [
+    40,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ueberrascht-und-enttaeuscht-so-reagieren-die-fcb-fans-auf-die-causa-musiala-1275012/video",
+   "title": "\"Überrascht\" und \"enttäuscht\": So reagieren die FCB-Fans auf die Causa Musiala",
+   "link": "https://www.kicker.de/ueberrascht-und-enttaeuscht-so-reagieren-die-fcb-fans-auf-die-causa-musiala-1275012/video",
+   "source": "kicker",
+   "published": "2026-11-25T16:12:15Z",
+   "teaser": "Wie denken eigentlich die Bayern-Fans über die Causa Musiala beim FCB? kicker-Reporter Mario Krischel war in Lille auf Stimmenfang.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/luxussituation-fuer-thioune-normalerweise-wird-die-mannschaft-noch-besser-1274995/artikel",
+   "title": "Luxussituation für Thioune: \"Normalerweise wird die Mannschaft noch besser\"",
+   "link": "https://www.kicker.de/luxussituation-fuer-thioune-normalerweise-wird-die-mannschaft-noch-besser-1274995/artikel",
+   "source": "kicker",
+   "published": "2026-11-25T16:06:40Z",
+   "teaser": "Werder Bremen surft auf der Erfolgswelle - und Trainer Daniel Thioune hat wieder personelle Optionen. Justin Njinmah und Eren Dinkci machen Druck - und Stammkräfte kehren in den Kader zurück. Der Konkurrenzkampf wächst.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wer-mehr-von-schalkes-systemumstellung-profitiert-und-wer-weniger-1274819/artikel",
+   "title": "Wer mehr von Schalkes Systemumstellung profitiert und wer weniger",
+   "link": "https://www.kicker.de/wer-mehr-von-schalkes-systemumstellung-profitiert-und-wer-weniger-1274819/artikel",
+   "source": "kicker",
+   "published": "2026-11-25T16:00:10Z",
+   "teaser": "Bei Schalke 04 kommen im neuen System bei etlichen Profis Fähigkeiten deutlicher zum Tragen. Zur Wahrheit gehört aber auch, dass es Spieler gibt, die ihrer Stärken eher beraubt werden. Auf wen diese Erkenntnisse vor allem zutreffen.",
+   "clubs": [
+    9
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nach-kanes-verletzung-wer-holt-die-kanone-1274535/artikel",
+   "title": "Nach Kanes Verletzung: Wer holt die Kanone?",
+   "link": "https://www.kicker.de/nach-kanes-verletzung-wer-holt-die-kanone-1274535/artikel",
+   "source": "kicker",
+   "published": "2026-11-25T14:03:54Z",
+   "teaser": "Drei Jahre Bundesliga, dreimal Gewinner der kicker-Torjägerkanone. Doch nun fehlt Harry Kane monatelang verletzt, nachdem er in Sachen Tore in der Liga ohnehin langsam gestartet war. Die Chance für andere Torjäger.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wucht-und-risiko-fleiss-und-stabilitaet-koelns-stuermer-frage-vor-dem-elversberg-spiel-1274807/artikel",
+   "title": "Wucht und Risiko? Fleiß und Stabilität? Kölns Stürmer-Frage vor dem Elversberg-Spiel",
+   "link": "https://www.kicker.de/wucht-und-risiko-fleiss-und-stabilitaet-koelns-stuermer-frage-vor-dem-elversberg-spiel-1274807/artikel",
+   "source": "kicker",
+   "published": "2026-11-25T13:05:47Z",
+   "teaser": "In der Liga ist der 1. FC Köln seit fünf Spielen sieglos und erzielte nur drei Tore. Mit Ragnar Ache steht Trainer René Wagner eine verlässliche Alternative im Angriff zur Verfügung - doch die Rangordnung im Sturm ist längst nicht in Stein …",
+   "clubs": [
+    65,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/rolfes-verstaendnis-fuer-tillman-wenn-du-davor-ausgepfiffen-wirst-1274941/video",
+   "title": "Rolfes' Verständnis für Tillman: \"Wenn du davor ausgepfiffen wirst ...\"",
+   "link": "https://www.kicker.de/rolfes-verstaendnis-fuer-tillman-wenn-du-davor-ausgepfiffen-wirst-1274941/video",
+   "source": "kicker",
+   "published": "2026-11-25T12:56:28Z",
+   "teaser": "Bayer Leverkusens Sportdirektor Simon Rolfes sprach vor der Europa League über einige Personalien, unter anderem Kennet Eichhorn und seinen Weg zurück ins Team und Malik Tillman.",
+   "clubs": [
+    6
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/transferticker-953155/artikel",
    "title": "Ex-Dortmunder Mor mit vorläufigem Karriereende - Bühl-Entscheidung naht",
@@ -38,6 +147,30 @@
     16
    ],
    "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-wintertransfer-von-moritz-nicolas-rueckt-naeher-100.html",
+   "title": "Wintertransfer von Gladbachs Torwart Moritz Nicolas rückt näher",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-wintertransfer-von-moritz-nicolas-rueckt-naeher-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-25T11:13:00Z",
+   "teaser": "Mindestens bis Weihnachten soll Daniel Batz bei Borussia Mönchengladbach Nummer eins sein. Verlässt Moritz Nicolas jetzt den VfL?",
+   "clubs": [
+    87
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-fc-bayern-stellt-klar-musiala-symptome-nach-vertragsabschluss-102.html",
+   "title": "FC Bayern stellt klar: Musiala-Symptome nach Vertragsabschluss",
+   "link": "https://www.sportschau.de/regional/br/br-fc-bayern-stellt-klar-musiala-symptome-nach-vertragsabschluss-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-25T10:53:45Z",
+   "teaser": "Der FC Bayern hat Spekulationen über den Zeitpunkt der Erkrankung von Jamal Musiala zurückgewiesen. Demnach zeigten sich die Symptome erst Monate, nachdem Musiala seinen Vertrag verlängert hatte.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
   },
   {
    "id": "https://www.kicker.de/lob-von-ganz-oben-chiarodia-als-konstante-im-gladbacher-abwehrpuzzle-1274608/artikel",
@@ -72,6 +205,18 @@
    "teaser": "Beim FC Augsburg macht sich Tim Schnitzer gerade einen Namen, will aber noch nicht zu laut von der nächsten Chance träumen.",
    "clubs": [
     95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-eberl-beendet-gehaltsdebatte-werden-musiala-staerker-erleben-102.html",
+   "title": "\"Ruhe und Vertrauen\" - Eberl erklärt Musiala-Debatte für beendet",
+   "link": "https://www.sportschau.de/regional/br/br-eberl-beendet-gehaltsdebatte-werden-musiala-staerker-erleben-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-24T18:15:06Z",
+   "teaser": "Die Diskussion um mögliche Gehaltskürzungen bei Jamal Musiala beendete Max Eberl am Dienstag. Nach einem Gespräch des FC Bayern mit Beratern des 23-Jährigen spricht der Sportvorstand von einem \"Konsens\".",
+   "clubs": [
+    40
    ],
    "transfer": false
   },
@@ -2366,150 +2511,6 @@
    "clubs": [
     40,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/werder-setzt-auf-verbessertes-sicherheitskonzept,sicherheitskonzept-nordderby-100.html",
-   "title": "Werder setzt auf verbessertes Sicherheitskonzept",
-   "link": "https://www.sportschau.de/fussball/bundesliga/werder-setzt-auf-verbessertes-sicherheitskonzept,sicherheitskonzept-nordderby-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-20T07:15:52Z",
-   "teaser": "Nachdem es zuletzt zu mehreren Ausschreitungen und Vorfällen mit Pyrotechnik kam, soll das Nordderby in Bremen sicherer werden. Dabei helfen soll ein verbessertes Sicherheitskonzept.",
-   "clubs": [
-    134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wer-uebertraegt-fc-bayern-muenchen-gegen-1-fc-koeln-live-im-tv-und-stream-1271330/artikel",
-   "title": "Wer überträgt FC Bayern München gegen 1. FC Köln live im TV und Stream?",
-   "link": "https://www.kicker.de/wer-uebertraegt-fc-bayern-muenchen-gegen-1-fc-koeln-live-im-tv-und-stream-1271330/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T06:30:00Z",
-   "teaser": "Zum Auftakt des 10. Spieltags steht das Traditions-Duell zwischen dem FC Bayern München und dem 1. FC Köln an. Wo ihr die Partei live im TV und Stream verfolgen könnt, erfahrt ihr hier.",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bundesliga-trio-dabei-die-effizientesten-torschuetzen-der-top-5-ligen-1272577/slideshow",
-   "title": "Bundesliga-Trio dabei: Die effizientesten Torschützen der Top-5-Ligen",
-   "link": "https://www.kicker.de/bundesliga-trio-dabei-die-effizientesten-torschuetzen-der-top-5-ligen-1272577/slideshow",
-   "source": "kicker",
-   "published": "2026-11-20T06:23:45Z",
-   "teaser": "Die zehn treffsichersten Torjäger der fünf europäischen Top-Ligen - bezogen auf das Verhältnis Torausbeute im Vergleich zu abgegebenen Torschüssen - spielen in Italien, Frankreich, Spanien und der deutschen Bundesliga. Drei …",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/aus-der-misere-ins-ueberangebot-gladbachs-konkurrenzkampf-in-der-offensive-1273040/artikel",
-   "title": "Aus der Misere ins Überangebot: Gladbachs Konkurrenzkampf in der Offensive",
-   "link": "https://www.kicker.de/aus-der-misere-ins-ueberangebot-gladbachs-konkurrenzkampf-in-der-offensive-1273040/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T06:06:24Z",
-   "teaser": "Das Gladbacher Lazarett lichtete sich, die Optionen für Alexander Blessin werden größer. Besonders auf den offensiven Halbpositionen führt das schon bald zu einem engen Kampf um Spielzeit.",
-   "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/guardiola-so-seid-ihr-deutschen-schon-immer-gewesen-1272656/artikel",
-   "title": "Guardiola: \"So seid ihr Deutschen schon immer gewesen\"",
-   "link": "https://www.kicker.de/guardiola-so-seid-ihr-deutschen-schon-immer-gewesen-1272656/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T22:45:13Z",
-   "teaser": "Beim FC Bayern hat Pep Guardiola einst seine erste Auslands-Erfahrung als Cheftrainer gemacht. Auf die Zeit in Deutschland blickt der Spanier gerne zurück.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/dortmunds-doppelt-auffaellige-werte-1272955/artikel",
-   "title": "Dortmunds doppelt auffällige Werte",
-   "link": "https://www.kicker.de/dortmunds-doppelt-auffaellige-werte-1272955/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T22:22:13Z",
-   "teaser": "Zwei Statistiken zeigen auf, wo Borussia Dortmund in der laufenden Bundesliga-Saison noch viel Luft nach oben hat. Das bestätigt auch Trainer Niko Kovac.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nur-einer-liess-mehr-liegen-kanes-ueberraschend-schwacher-xgoals-wert-1272876/slideshow",
-   "title": "Nur einer ließ mehr liegen: Kanes überraschend schwacher xGoals-Wert",
-   "link": "https://www.kicker.de/nur-einer-liess-mehr-liegen-kanes-ueberraschend-schwacher-xgoals-wert-1272876/slideshow",
-   "source": "kicker",
-   "published": "2026-11-19T21:42:06Z",
-   "teaser": "In neun Bundesliga-Spielen hat Harry Kane in dieser Saison erst vier Tore erzielt. An Torchancen mangelte es dem Ballon-d'Or-Sieger jedoch nicht. Zieht man seinen xGoals-Wert vom Ertrag ab, weist in Europas Top-5-Ligen aktuell nur ein …",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/schuster-ueber-lob-fuer-scherhant-und-treu-hilft-nicht-automatisch-1273111/video",
-   "title": "Schuster über Lob für Scherhant und Treu: \"Hilft nicht automatisch\"",
-   "link": "https://www.kicker.de/schuster-ueber-lob-fuer-scherhant-und-treu-hilft-nicht-automatisch-1273111/video",
-   "source": "kicker",
-   "published": "2026-11-19T19:34:44Z",
-   "teaser": "Derry Scherhant und Philipp Treu erhielten viel Lob für ihre Leistungen bei der deutschen Nationalmannschaft. Freiburg-Trainer Julian Schuster stellte klar, dass der Zuspruch nicht automatisch hilft, künftige Aufgaben zu bewältigen.",
-   "clubs": [
-    112
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/dzekos-besondere-rolle-rund-um-die-nervige-heimtor-flaute-1273091/artikel",
-   "title": "Dzekos besondere Rolle rund um die nervige Heimtor-Flaute",
-   "link": "https://www.kicker.de/dzekos-besondere-rolle-rund-um-die-nervige-heimtor-flaute-1273091/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T19:09:02Z",
-   "teaser": "Edin Dzeko und Co. brennen auf Schalkes erstes Arena-Tor in dieser Saison. Der Stürmer-Star, der bald ältester Schütze der Bundesliga-Geschichte sein könnte, nimmt rund um das nervige Thema Heimtor-Flaute eine besondere Rolle ein.",
-   "clubs": [
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-grosse-nordderby-reportage-vorteil-werder-oder-vuskovic-boost-fuer-den-hsv-1273097/video",
-   "title": "Die große Nordderby-Reportage: Vorteil Werder oder Vuskovic-Boost für den HSV?",
-   "link": "https://www.kicker.de/die-grosse-nordderby-reportage-vorteil-werder-oder-vuskovic-boost-fuer-den-hsv-1273097/video",
-   "source": "kicker",
-   "published": "2026-11-19T17:59:10Z",
-   "teaser": "Das Nordderby zwischen Werder Bremen und dem Hamburger SV am 10. Spieltag der Bundesliga könnte so emotional werden wie lange nicht. In unserer Reportage vor dem Rivalenduell sprechen wir unter anderem mit einem, der für beide Vereine …",
-   "clubs": [
-    134,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/scherhant-und-treu-hochgelobte-sollen-am-boden-bleiben-1273088/artikel",
-   "title": "Scherhant und Treu: Hochgelobte sollen am Boden bleiben",
-   "link": "https://www.kicker.de/scherhant-und-treu-hochgelobte-sollen-am-boden-bleiben-1273088/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T17:56:15Z",
-   "teaser": "Als Tabellendritter reist der SC Freiburg zum stark gestarteten Aufsteiger Elversberg, und kann dabei nicht nur auf seine Nationalspieler setzen.",
-   "clubs": [
-    112,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/blessin-vergleicht-kleindienst-mit-fuellkrug-sehe-ihn-in-der-gleichen-position-1273089/video",
-   "title": "Blessin vergleicht Kleindienst mit Füllkrug: \"Sehe ihn in der gleichen Position\"",
-   "link": "https://www.kicker.de/blessin-vergleicht-kleindienst-mit-fuellkrug-sehe-ihn-in-der-gleichen-position-1273089/video",
-   "source": "kicker",
-   "published": "2026-11-19T17:20:40Z",
-   "teaser": "Gladbach-Coach Alexander Blessin spricht über Tim Kleindienst, der kurz vor seinem Comeback steht. Dabei zieht er einen Vergleich zur Situation von Niclas Füllkrug bei Werder Bremen.",
-   "clubs": [
-    87,
-    134
    ],
    "transfer": false
   }
