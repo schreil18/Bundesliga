@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T02:59:41Z",
+ "updated": "2026-11-25T12:39:26Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,66 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Ex-Dortmunder Mor mit vorläufigem Karriereende - Bühl-Entscheidung naht",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-25T11:33:09Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [
+    7
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/drei-jahre-nach-eintracht-krawallen-gegen-stuttgart-82-urteile-und-zahlreiche-freiheitsstrafen-1274880/artikel",
+   "title": "Drei Jahre nach Eintracht-Krawallen gegen Stuttgart: 82 Urteile und zahlreiche Freiheitsstrafen",
+   "link": "https://www.kicker.de/drei-jahre-nach-eintracht-krawallen-gegen-stuttgart-82-urteile-und-zahlreiche-freiheitsstrafen-1274880/artikel",
+   "source": "kicker",
+   "published": "2026-11-25T11:31:28Z",
+   "teaser": "Drei Jahre nach den Krawallen am Block 40 summieren sich die verhängten Freiheitsstrafen auf fast 50 Jahre. Auch mögliche Übergriffe durch Polizisten wurden untersucht.",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/lob-von-ganz-oben-chiarodia-als-konstante-im-gladbacher-abwehrpuzzle-1274608/artikel",
+   "title": "Lob von ganz oben: Chiarodia als Konstante im Gladbacher Abwehrpuzzle",
+   "link": "https://www.kicker.de/lob-von-ganz-oben-chiarodia-als-konstante-im-gladbacher-abwehrpuzzle-1274608/artikel",
+   "source": "kicker",
+   "published": "2026-11-25T10:11:21Z",
+   "teaser": "Im Sommer war Fabio Chiarodia im Kader von Borussia Mönchengladbach noch klar hintendran. Inzwischen zeigt die Entwicklung des Deutsch-Italieners aber eindeutig nach oben.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bayern-statement-zu-musiala-erste-symptome-im-april-2025-1274838/artikel",
+   "title": "Bayern-Statement zu Musiala: Erste Symptome im April 2025",
+   "link": "https://www.kicker.de/bayern-statement-zu-musiala-erste-symptome-im-april-2025-1274838/artikel",
+   "source": "kicker",
+   "published": "2026-11-25T09:32:19Z",
+   "teaser": "Der FC Bayern hat am Mittwochvormittag ein Treffen mit dem Management von Jamal Musiala bestätigt - und auch die erstmalige Untersuchung Absence-artiger Symptome im April 2025.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/der-eiswuerfel-pinkler-der-baum-die-entscheidungen-erschwert-1274484/artikel",
+   "title": "Der Eiswürfel-Pinkler, der Baum die Entscheidungen erschwert",
+   "link": "https://www.kicker.de/der-eiswuerfel-pinkler-der-baum-die-entscheidungen-erschwert-1274484/artikel",
+   "source": "kicker",
+   "published": "2026-11-25T05:23:57Z",
+   "teaser": "Beim FC Augsburg macht sich Tim Schnitzer gerade einen Namen, will aber noch nicht zu laut von der nächsten Chance träumen.",
+   "clubs": [
+    95
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/roessing-lelesiit-hamburgs-hoffnung-aus-dem-lazarett-1274650/artikel",
    "title": "Rössing-Lelesiit: Hamburgs Hoffnung aus dem Lazarett",
@@ -340,18 +400,6 @@
     7
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Ex-Dortmunder Mor mit vorläufigem Karriereende - Mohya \"im Winter unverkäuflich\"",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-23T14:33:25Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [
-    7
-   ],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/ohne-neuer-und-kane-wer-fuehrt-diese-bayern-mannschaft-1273469/artikel",
@@ -2462,58 +2510,6 @@
    "clubs": [
     87,
     134
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-empfaengt-hoffenheim-huetter-puzzelt-und-bangt-um-uzun-100.html",
-   "title": "Frankfurt empfängt Hoffenheim: Hütter puzzelt und bangt um Uzun",
-   "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-empfaengt-hoffenheim-huetter-puzzelt-und-bangt-um-uzun-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-19T17:06:51Z",
-   "teaser": "Personell gibt es bei Eintracht Frankfurt vor dem Heimspiel gegen die TSG Hoffenheim einige Fragezeichen und Rätsel. An der Seitenlinie kommt es zum Duell Mentor gegen Lehrling.",
-   "clubs": [
-    91,
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bundesliga-kommt-mit-vier-klassischen-duellen-zurueck,bundesliga-spieltag-zehn-202.html",
-   "title": "Bundesliga kommt mit vier Traditions-Duellen zurück",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bundesliga-kommt-mit-vier-klassischen-duellen-zurueck,bundesliga-spieltag-zehn-202.html",
-   "source": "Sportschau",
-   "published": "2026-11-19T17:02:03Z",
-   "teaser": "Die Bundesliga kommt aus der Länderspielpause zurück - und wie! Mit vier direkten Duellen aus den Top 10 der ewigen Bundesliga-Tabelle. Den Anfang machen am Freitag der FC Bayern München und der FC aus Köln.",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/reis-vor-dem-derby-ueber-seine-form-hasskommentare-und-vuskovic-1273068/artikel",
-   "title": "Reis vor dem Derby über seine Form, Hasskommentare und Vuskovic",
-   "link": "https://www.kicker.de/reis-vor-dem-derby-ueber-seine-form-hasskommentare-und-vuskovic-1273068/artikel",
-   "source": "kicker",
-   "published": "2026-11-19T16:53:31Z",
-   "teaser": "Auf Ludovit Reis wartet am Sonntag ein ganz besonderes Spiel: Nordderby mit Werder gegen Ex-Verein HSV. Um die Besonderheit des Duells machte der Mittelfeldmann keinen Hehl. Eine klare Botschaft hat er in Richtung der Kommentare einiger …",
-   "clubs": [
-    134,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/huetter-ueber-gemeinsame-vergangenheit-mit-ilzer-da-mochten-wir-uns-noch-nicht-so-1273076/video",
-   "title": "Hütter über gemeinsame Vergangenheit mit Ilzer: \"Da mochten wir uns noch nicht so\"",
-   "link": "https://www.kicker.de/huetter-ueber-gemeinsame-vergangenheit-mit-ilzer-da-mochten-wir-uns-noch-nicht-so-1273076/video",
-   "source": "kicker",
-   "published": "2026-11-19T16:28:51Z",
-   "teaser": "Vor dem Duell zwischen Eintracht Frankfurt und der TSG Hoffenheim spricht Eintracht-Coach Adi Hütter über die gemeinsame Vergangenheit zwischen ihm und TSG-Trainer Christian Ilzer.",
-   "clubs": [
-    91,
-    175
    ],
    "transfer": false
   }
