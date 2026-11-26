@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:19:36Z",
+ "updated": "2026-11-26T14:20:29Z",
  "sources": [
   {
    "name": "kicker",
@@ -16,12 +16,170 @@
  ],
  "items": [
   {
+   "id": "https://www.kicker.de/als-turm-kleindienst-vor-comeback-1275343/artikel",
+   "title": "\"Als Turm\": Kleindienst vor Comeback",
+   "link": "https://www.kicker.de/als-turm-kleindienst-vor-comeback-1275343/artikel",
+   "source": "kicker",
+   "published": "2026-11-26T14:08:46Z",
+   "teaser": "Beim Tabellenschlusslicht der Bundesliga verringern sich die Verletzungssorgen. Zwei Offensivspieler könnten in Bremen ihr Comeback geben. Es gibt aber wohl auch einen neuen Ausfall.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/kane-verletzt-wirbel-um-musiala-ist-dortmunds-chance,bundesliga-update-spieltag-11-100.html",
+   "title": "Bekommt die Bundesliga einen Überraschungsmeister?",
+   "link": "https://www.sportschau.de/kane-verletzt-wirbel-um-musiala-ist-dortmunds-chance,bundesliga-update-spieltag-11-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-26T13:39:17Z",
+   "teaser": "Aktuell ist das Meisterrennen der Bundesliga so spannend wie lange nicht mehr. Oben an der Tabelle ist es eng. Ein anderer Meister als Bayern München ist nicht mehr unrealistisch.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/br/br-planlos-gegen-lille-muss-der-fcb-im-winter-neue-spieler-holen-102.html",
+   "title": "Muss der FC Bayern im Winter neue Spieler holen?",
+   "link": "https://www.sportschau.de/regional/br/br-planlos-gegen-lille-muss-der-fcb-im-winter-neue-spieler-holen-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-26T13:32:40Z",
+   "teaser": "Bei der Niederlage in Lille wird die Lücke, die Harry Kane hinterlässt, offensichtlich. Damit wächst der Druck – und auch die Dringlichkeit eines möglichen Wintertransfers.",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/verlaengert-er-kettemann-noch-zurueckhaltend-nach-ersten-sondierungsgespraechen-1275173/artikel",
+   "title": "Verlängert er? Kettemann noch zurückhaltend nach ersten Sondierungsgesprächen",
+   "link": "https://www.kicker.de/verlaengert-er-kettemann-noch-zurueckhaltend-nach-ersten-sondierungsgespraechen-1275173/artikel",
+   "source": "kicker",
+   "published": "2026-11-26T13:11:39Z",
+   "teaser": "Vor seinem 50. Pflichtspiel ist Paderborns Trainer Ralf Kettemann um Positivität bemüht. Am Samstag geht es daheim darum, den guten Gesamteindruck der bisherigen Saison zu bestätigen. Zudem gibt der 40-Jährige einen kleinen Einblick in die …",
+   "clubs": [
+    31
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/rueckenprobleme-koeln-bangt-um-torhueter-und-kapitaen-schwaebe-1275308/artikel",
+   "title": "Rückenprobleme: Köln bangt um Torhüter und Kapitän Schwäbe",
+   "link": "https://www.kicker.de/rueckenprobleme-koeln-bangt-um-torhueter-und-kapitaen-schwaebe-1275308/artikel",
+   "source": "kicker",
+   "published": "2026-11-26T12:52:46Z",
+   "teaser": "Schlussmann Marvin Schwäbe ist beim 1. FC Köln eine verlässliche Konstante. Nun droht der 31-Jährige beim Heimspiel gegen die SV Elversberg auszufallen.",
+   "clubs": [
+    65,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/championsleague/mia-san-kimmich,musiala-bayern-kimmich-kommentar-100.html",
+   "title": "Mia san Kimmich - Kommentar zum Fall Musiala beim FC Bayern München",
+   "link": "https://www.sportschau.de/fussball/championsleague/mia-san-kimmich,musiala-bayern-kimmich-kommentar-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-26T12:18:19Z",
+   "teaser": "Was Joshua Kimmich am Mittwochabend getan hat, ist im Profifußball und beim FC Bayern München ein Tabubruch - und letztendlich ein Segen.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/gladbach-beurlaubt-geschaeftsfuehrer-stegemann-mit-sofortiger-wirkung-1273821/artikel",
+   "title": "Gladbach beurlaubt Geschäftsführer Stegemann mit sofortiger Wirkung",
+   "link": "https://www.kicker.de/gladbach-beurlaubt-geschaeftsfuehrer-stegemann-mit-sofortiger-wirkung-1273821/artikel",
+   "source": "kicker",
+   "published": "2026-11-26T11:57:07Z",
+   "teaser": "Das Bundesliga-Schlusslicht Borussia Mönchengladbach kommt nicht zur Ruhe. Am Donnerstag vermeldete der Klub die Trennung von Geschäftsführer Dr. Stefan Stegemann.",
+   "clubs": [
+    87
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bellingham-lobt-hadert-und-stichelt-so-lief-seine-england-rueckkehr-1275171/artikel",
+   "title": "Bellingham lobt, hadert und stichelt: So lief seine England-Rückkehr",
+   "link": "https://www.kicker.de/bellingham-lobt-hadert-und-stichelt-so-lief-seine-england-rueckkehr-1275171/artikel",
+   "source": "kicker",
+   "published": "2026-11-26T11:47:18Z",
+   "teaser": "Jobe Bellingham stand beim Gastspiel von Borussia Dortmund beim FC Arsenal besonders im Fokus. Worüber sich der Engländer ärgerte und warum er auch neben dem Platz eine gute Figur abgab.",
+   "clubs": [
+    7
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/regional/hr/hr-interesse-der-bayern-wirbel-um-ebnoutalib-geruechte-bei-der-eintracht-102.html",
+   "title": "Eintracht ist trotz Ebnoutalib-Gerüchten um Ruhe bemüht",
+   "link": "https://www.sportschau.de/regional/hr/hr-interesse-der-bayern-wirbel-um-ebnoutalib-geruechte-bei-der-eintracht-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-26T10:01:12Z",
+   "teaser": "Younes Ebnoutalib ist bekannt dafür, Unruhe in gegnerischen Abwehrreihen zu verursachen. Aktuell sorgen aber eher Gerüchte um einen Abschied von Eintracht Frankfurt für Aufsehen. Der Versuch einer Einordnung.",
+   "clubs": [
+    91
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/so-soll-vuskovic-zum-problemloeser-des-hsv-werden-1275128/artikel",
+   "title": "So soll Vuskovic zum Problemlöser des HSV werden",
+   "link": "https://www.kicker.de/so-soll-vuskovic-zum-problemloeser-des-hsv-werden-1275128/artikel",
+   "source": "kicker",
+   "published": "2026-11-26T09:02:34Z",
+   "teaser": "Der HSV hat ohne etliche Stammspieler ein Führungsvakuum. Mario Vuskovic könnte mit seiner Ausstrahlung helfen, eine Verschiebung möglich machen - und wie sein Bruder Luka gegen den FC Bayern sein Bundesliga-Debüt feiern.",
+   "clubs": [
+    40,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/die-luft-wird-langsam-duenner-beim-fc-bayern-1275125/video",
+   "title": "\"Die Luft wird langsam dünner beim FC Bayern\"",
+   "link": "https://www.kicker.de/die-luft-wird-langsam-duenner-beim-fc-bayern-1275125/video",
+   "source": "kicker",
+   "published": "2026-11-26T00:09:21Z",
+   "teaser": "Der FC Bayern München muss nach der Niederlage in Lille so langsam um die Top 8 in der Champions League zittern. Aus Lille berichtet kicker-Reporter Mario Krischel.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/championsleague/kimmich-greift-bayern-bosse-an,musiala-bayern-kimmich-100.html",
+   "title": "Debatte um Musiala: Kimmich greift Bayern-Bosse an",
+   "link": "https://www.sportschau.de/fussball/championsleague/kimmich-greift-bayern-bosse-an,musiala-bayern-kimmich-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-25T23:55:22Z",
+   "teaser": "Die Spitze des FC Bayern hat eine Debatte über Jamal Musiala losgetreten, Joshua Kimmich äußerte darüber nun Unverständnis.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
    "id": "https://www.kicker.de/voellig-unverstaendlich-kimmich-kritisiert-bayern-bosse-wegen-musiala-1275108/artikel",
    "title": "\"Völlig unverständlich\": Kimmich kritisiert Bayern-Bosse wegen Musiala",
    "link": "https://www.kicker.de/voellig-unverstaendlich-kimmich-kritisiert-bayern-bosse-wegen-musiala-1275108/artikel",
    "source": "kicker",
    "published": "2026-11-25T23:35:51Z",
    "teaser": "Um Jamal Musiala gab es in den letzten Tagen reichlich Wirbel. Schuld daran waren die Bayern-Granden. Joshua Kimmich sprach nun Klartext und stärkte seinen Mitspieler.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kompany-kennt-diese-momente-und-zieht-psg-vergleich-1275106/artikel",
+   "title": "Kompany kennt \"diese Momente\" - und zieht PSG-Vergleich",
+   "link": "https://www.kicker.de/kompany-kennt-diese-momente-und-zieht-psg-vergleich-1275106/artikel",
+   "source": "kicker",
+   "published": "2026-11-25T23:24:13Z",
+   "teaser": "Nach der ersten Saison-Niederlage sprach Bayern-Trainer Vincent Kompany weniger über das, was geschehen war, sondern vielmehr über das, was jetzt kommen muss.",
    "clubs": [
     40
    ],
@@ -2346,171 +2504,6 @@
    "clubs": [
     134,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/pyro-show-vor-dem-nordderby-fans-heizen-hsv-ein-1273295/video",
-   "title": "Pyro-Show vor dem Nordderby: Fans heizen HSV ein",
-   "link": "https://www.kicker.de/pyro-show-vor-dem-nordderby-fans-heizen-hsv-ein-1273295/video",
-   "source": "kicker",
-   "published": "2026-11-20T15:24:52Z",
-   "teaser": "Die HSV-Fans sind heiß auf das Nordderby gegen Werder Bremen. Das ließen sie auch Mannschaft und Trainerteam mit einer besonderen Aktion spüren.",
-   "clubs": [
-    134,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/das-ist-auf-der-jhv-des-fc-bayern-zu-erwarten-1272987/artikel",
-   "title": "Das ist auf der JHV des FC Bayern zu erwarten",
-   "link": "https://www.kicker.de/das-ist-auf-der-jhv-des-fc-bayern-zu-erwarten-1272987/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T15:18:53Z",
-   "teaser": "Dem FC Bayern steht ein ereignisreiches Wochenende bevor - mit einer Jahreshauptversammlung am Samstag, die nicht ausufern dürfte.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/warum-neuer-gerade-in-brasilien-weilt-1273280/artikel",
-   "title": "Warum Neuer gerade in Brasilien weilt",
-   "link": "https://www.kicker.de/warum-neuer-gerade-in-brasilien-weilt-1273280/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T14:55:17Z",
-   "teaser": "Der FC Bayern muss derzeit noch auf Manuel Neuer verzichten. Der Kapitän setzt seine Reha derweil in Südamerika fort.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/geht-nicht-mehr-um-romantische-geschichte-kehrt-vuskovic-in-den-hsv-kader-zurueck-1273270/artikel",
-   "title": "\"Geht nicht mehr um romantische Geschichte\": Kehrt Vuskovic in den HSV-Kader zurück?",
-   "link": "https://www.kicker.de/geht-nicht-mehr-um-romantische-geschichte-kehrt-vuskovic-in-den-hsv-kader-zurueck-1273270/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T14:43:38Z",
-   "teaser": "Für Merlin Polzin ist das Duell mit Werder und Mentor Daniel Thioune eine besondere Angelegenheit. Der HSV-Coach setzt im Nordderby auf Selbstvertrauen, einen fitten Muheim und Rückkehrer Vieira. Und dann ist da noch die Vuskovic-Frage.",
-   "clubs": [
-    134,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/mit-maza-gegen-paderborn-comeback-quintett-sorgt-fuer-haertefaelle-1273229/artikel",
-   "title": "Mit Maza gegen Paderborn: Comeback-Quintett sorgt für Härtefälle",
-   "link": "https://www.kicker.de/mit-maza-gegen-paderborn-comeback-quintett-sorgt-fuer-haertefaelle-1273229/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T14:39:22Z",
-   "teaser": "Gegen Paderborn kann Carles Martinez mit fünf länger verletzten Profis planen. Für den Trainer, der auch auf den angeschlagen von Marokkos Nationalteam zurückgekehrten Ibrahim Maza setzen kann, erhöhen sich damit die …",
-   "clubs": [
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/baum-klagt-nicht-ueber-ausfaelle-bringt-ein-paar-chancen-mit-sich-1273273/video",
-   "title": "Baum klagt nicht über Ausfälle: \"Bringt ein paar Chancen mit sich\"",
-   "link": "https://www.kicker.de/baum-klagt-nicht-ueber-ausfaelle-bringt-ein-paar-chancen-mit-sich-1273273/video",
-   "source": "kicker",
-   "published": "2026-11-20T14:27:06Z",
-   "teaser": "Vor dem Duell gegen 1. FSV Mainz 05 hat der FC Augsburg einige Personalsorgen - besonders in der Defensive. FCA-Trainer Manuel Baum sieht in der angespannten Situation aber auch Chancen.",
-   "clubs": [
-    81,
-    95
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/blessin-setzt-nicolas-auf-die-bank-batz-beginnt-gegen-den-bvb-1273261/artikel",
-   "title": "Blessin setzt Nicolas auf die Bank: Batz beginnt gegen den BVB",
-   "link": "https://www.kicker.de/blessin-setzt-nicolas-auf-die-bank-batz-beginnt-gegen-den-bvb-1273261/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T14:27:02Z",
-   "teaser": "Daniel Batz hat seinem Trainer Alexander Blessin in der Abwesenheit von Moritz Nicolas genug Argumente geliefert, um die etatmäßige Nummer 1 auch gegen Dortmund zu verdrängen. Die wird sich mit der Backup-Rolle langfristig aber nicht …",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/thiounes-hintertuerchen-bei-weiser-und-gruell-und-moegliche-vertreter-im-nordderby-1273267/artikel",
-   "title": "Thiounes \"Hintertürchen\" bei Weiser und Grüll - und mögliche Vertreter im Nordderby",
-   "link": "https://www.kicker.de/thiounes-hintertuerchen-bei-weiser-und-gruell-und-moegliche-vertreter-im-nordderby-1273267/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T13:59:00Z",
-   "teaser": "Werder Bremen steht das womöglich heißeste Heimspiel der Saison bevor, ähnlich wie beim HSV plagen den SVW jedoch Personalsorgen. Trainer Daniel Thioune zeigte am Freitag auf, was für Mitchell Weiser und Marco Grüll im Nordderby möglich …",
-   "clubs": [
-    134,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-warum-gladbach-fuer-den-bvb-haerter-ist-als-bayern-100.html",
-   "title": "Warum Gladbach für den BVB härter ist als Bayern",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-warum-gladbach-fuer-den-bvb-haerter-ist-als-bayern-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-20T13:05:57Z",
-   "teaser": "Tabellenletzter gegen Titelanwärter: Für den BVB war Mönchengladbach zuletzt das schwierigere Auswärtspflaster als München.",
-   "clubs": [
-    40,
-    7,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/die-ganze-abwehr-stehen-gelassen-als-el-mala-den-bayern-davonlief-1272188/video",
-   "title": "Die ganze Abwehr stehen gelassen: Als El Mala den Bayern davonlief",
-   "link": "https://www.kicker.de/die-ganze-abwehr-stehen-gelassen-als-el-mala-den-bayern-davonlief-1272188/video",
-   "source": "kicker",
-   "published": "2026-11-20T12:53:17Z",
-   "teaser": "Gegen den schier übermächtigen FC Bayern hat Said El Mala für seine Kölner zumindest einen Nadelstich gesetzt - und was für einen. Am letzten Spieltag der Saison 25/26 tankte sich der Nationalspieler durch die komplette Hintermannschaft …",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fans-vor-dem-nordderby-fuellkrug-macht-pro-halbzeit-mindestens-eins-1273231/video",
-   "title": "Fans vor dem Nordderby: \"Füllkrug macht pro Halbzeit mindestens eins\"",
-   "link": "https://www.kicker.de/fans-vor-dem-nordderby-fuellkrug-macht-pro-halbzeit-mindestens-eins-1273231/video",
-   "source": "kicker",
-   "published": "2026-11-20T11:34:37Z",
-   "teaser": "Vor dem Nordderby war kicker-Moderator Marc Wiese in Bremen und Hamburg unterwegs, um sich die Prognosen der beiden Fanlager einzuholen.",
-   "clubs": [
-    134,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/verletzung-bei-italiens-u-21-inacio-fehlt-dem-bvb-monatelang-1273202/artikel",
-   "title": "Verletzung bei Italiens U 21: Inacio fehlt dem BVB monatelang",
-   "link": "https://www.kicker.de/verletzung-bei-italiens-u-21-inacio-fehlt-dem-bvb-monatelang-1273202/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T10:27:30Z",
-   "teaser": "Ganz bittere Nachrichten für Borussia Dortmund: Sturm-Talent Samuele Inacio hat sich bei der italienischen U-21-Nationalmannschaft schwerer verletzt und wird nun monatelang fehlen.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kimmichs-traumtor-gegen-den-1-fc-koeln-1273195/video",
-   "title": "Kimmichs Traumtor gegen den 1. FC Köln",
-   "link": "https://www.kicker.de/kimmichs-traumtor-gegen-den-1-fc-koeln-1273195/video",
-   "source": "kicker",
-   "published": "2026-11-20T09:58:44Z",
-   "teaser": "Im Januar 2023 liegt der FC Bayern lange mit 0:1 gegen den 1. FC Köln zurück. Dann fasst sich Joshua Kimmich in der letzten Minute ein Herz aus der Distanz.",
-   "clubs": [
-    40,
-    65
    ],
    "transfer": false
   }
