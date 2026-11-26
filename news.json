@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:25:43Z",
+ "updated": "2026-11-26T04:19:36Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,42 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/voellig-unverstaendlich-kimmich-kritisiert-bayern-bosse-wegen-musiala-1275108/artikel",
+   "title": "\"Völlig unverständlich\": Kimmich kritisiert Bayern-Bosse wegen Musiala",
+   "link": "https://www.kicker.de/voellig-unverstaendlich-kimmich-kritisiert-bayern-bosse-wegen-musiala-1275108/artikel",
+   "source": "kicker",
+   "published": "2026-11-25T23:35:51Z",
+   "teaser": "Um Jamal Musiala gab es in den letzten Tagen reichlich Wirbel. Schuld daran waren die Bayern-Granden. Joshua Kimmich sprach nun Klartext und stärkte seinen Mitspieler.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/absolutes-no-go-kimmichs-statement-richtung-bayern-fuehrung-im-video-1275116/video",
+   "title": "\"Absolutes No-Go\": Kimmichs Statement Richtung Bayern-Führung im Video",
+   "link": "https://www.kicker.de/absolutes-no-go-kimmichs-statement-richtung-bayern-fuehrung-im-video-1275116/video",
+   "source": "kicker",
+   "published": "2026-11-25T23:00:48Z",
+   "teaser": "Joshua Kimmich wurde in der Mixed Zone nach dem Champions-League-Spiel in Lille deutlich und kritisierte Karl-Heinz Rummenigge und Uli Hoeneß für deren Aussagen in der Situation rund um Jamal Musiala.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ein-kleiner-hoffnungsschimmer-fuer-unions-harmloses-offensivspiel-1274951/artikel",
+   "title": "Ein kleiner Hoffnungsschimmer für Unions harmloses Offensivspiel",
+   "link": "https://www.kicker.de/ein-kleiner-hoffnungsschimmer-fuer-unions-harmloses-offensivspiel-1274951/artikel",
+   "source": "kicker",
+   "published": "2026-11-25T22:33:04Z",
+   "teaser": "Andrej Ilic soll bei Union Berlin für die nötigen Tore sorgen. Aber ganz alleine kann der 26-Jährige die Wende bestimmt nicht herbeiführen.",
+   "clubs": [
+    80
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/freund-bekraeftigt-bayern-planen-keine-transfers-im-winter-1275073/artikel",
    "title": "Freund bekräftigt: Bayern planen keine Transfers im Winter",
@@ -2472,42 +2508,6 @@
    "source": "kicker",
    "published": "2026-11-20T09:58:44Z",
    "teaser": "Im Januar 2023 liegt der FC Bayern lange mit 0:1 gegen den 1. FC Köln zurück. Dann fasst sich Joshua Kimmich in der letzten Minute ein Herz aus der Distanz.",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/rb/rb-sicherheit-beim-nordderby-das-sind-die-ansaetze-von-werder-und-polizei-100.html",
-   "title": "Sicherheit beim Nordderby: Das sind die Ansätze von Werder und Polizei",
-   "link": "https://www.sportschau.de/regional/rb/rb-sicherheit-beim-nordderby-das-sind-die-ansaetze-von-werder-und-polizei-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-20T09:58:17Z",
-   "teaser": "Beim letzten Spiel gegen den HSV im Weser-Stadion kam es zu Einsätzen von Pyrotechnik und Vandalismus in den Toiletten im Gästebereich. Daraus hat man Lehren gezogen.",
-   "clubs": [
-    134,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-blessin-wechselt-im-abstiegskampf-den-torwart-100.html",
-   "title": "Blessin wechselt im Abstiegskampf den Torwart",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-blessin-wechselt-im-abstiegskampf-den-torwart-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-20T09:57:01Z",
-   "teaser": "Moritz Nicolas ist wieder fit, doch Daniel Batz bleibt nach WDR-Informationen im Tor. Blessin wechselt damit seine Nummer eins.",
-   "clubs": [],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/der-verflixte-10-spieltag-stuerzt-koeln-die-bayern-erneut-vom-thron-1271978/artikel",
-   "title": "Der verflixte 10. Spieltag: Stürzt Köln die Bayern erneut vom Thron?",
-   "link": "https://www.kicker.de/der-verflixte-10-spieltag-stuerzt-koeln-die-bayern-erneut-vom-thron-1271978/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T09:01:31Z",
-   "teaser": "Viermal musste der FC Bayern nach einer Niederlage gegen Köln die Tabellenführung abgeben, dreimal fand diese Partie am 10. Spieltag statt. Meister wurden die Münchner am Ende nie. Nun trifft der Ligaprimus erneut in dieser Runde auf den …",
    "clubs": [
     40,
     65
