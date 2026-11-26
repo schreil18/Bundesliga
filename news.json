@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:20:29Z",
+ "updated": "2026-11-26T23:15:07Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,174 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/zwei-geile-spiele-andrich-freut-sich-auf-bvb-und-leipzig-1275464/video",
+   "title": "\"Zwei geile Spiele\": Andrich freut sich auf BVB und Leipzig",
+   "link": "https://www.kicker.de/zwei-geile-spiele-andrich-freut-sich-auf-bvb-und-leipzig-1275464/video",
+   "source": "kicker",
+   "published": "2026-11-26T20:30:01Z",
+   "teaser": "Robert Andrich freut sich auf den Bundesliga-Kracher gegen den BVB und das Pokalspiel gegen RB Leipzig.",
+   "clubs": [
+    7,
+    1635
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/rbb/rbb-union-in-mainz-lustrinellis-schicksalsspiel-bei-urs-fischer-100.html",
+   "title": "Lustrinellis Schicksalsspiel bei Urs Fischer",
+   "link": "https://www.sportschau.de/regional/rbb/rbb-union-in-mainz-lustrinellis-schicksalsspiel-bei-urs-fischer-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-26T19:37:13Z",
+   "teaser": "Union Berlin am Samstag ist am Samstag zu Gast bei Mainz 05. Es ist das erste Schicksaalsspiel für den viel diskutierten Trainer Mauro Lustrinelli - ausgerechnet gegen seinen Landsmann und ehemaligen Chef: Union-Legende Urs Fischer.",
+   "clubs": [
+    81,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/vier-verspielte-vorspruenge-und-zu-viele-gegentore-1275295/artikel",
+   "title": "Vier verspielte Vorsprünge und zu viele Gegentore",
+   "link": "https://www.kicker.de/vier-verspielte-vorspruenge-und-zu-viele-gegentore-1275295/artikel",
+   "source": "kicker",
+   "published": "2026-11-26T18:42:34Z",
+   "teaser": "Es passierte schon wieder: Bei der ersten Pflichtspielniederlage in dieser Saison, dem 1:2 in Lille, gab der FC Bayern nicht zum ersten Mal in dieser Saison eine Führung aus der Hand, weil er schlecht verteidigte.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-vor-erstem-endspiel-beim-sc-paderborn-100.html",
+   "title": "Schalke 04 vor erstem Endspiel beim SC Paderborn",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-vor-erstem-endspiel-beim-sc-paderborn-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-26T17:35:00Z",
+   "teaser": "Der FC Schalke 04 muss bei Mitaufsteiger SC Paderborn antreten. Der Druck auf die Königsblauen ist groß, mal wieder einen Sieg einzufahren.",
+   "clubs": [
+    9,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/leih-abbruch-beim-ksc-fuer-ben-farhat-noch-nichts-entschieden-1275385/artikel",
+   "title": "Leih-Abbruch beim KSC für Ben Farhat? \"Noch nichts entschieden\"",
+   "link": "https://www.kicker.de/leih-abbruch-beim-ksc-fuer-ben-farhat-noch-nichts-entschieden-1275385/artikel",
+   "source": "kicker",
+   "published": "2026-11-26T16:40:21Z",
+   "teaser": "Nach einer Aussage von KSC-Trainer Maximilian Senft im kicker-Interview über Louey Ben Farhat wurde über einen beschlossenen Leih-Abbruch seitens des SC Freiburg spekuliert. Dem ist nicht so, sagt SC-Sportdirektor Klemens Hartenbach - und …",
+   "clubs": [
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/dreesen-ruft-bei-musiala-neues-motto-aus-kuemmern-kuemmern-und-nicht-reden-1275400/video",
+   "title": "Dreesen ruft bei Musiala neues Motto aus: \"Kümmern, kümmern und nicht reden\"",
+   "link": "https://www.kicker.de/dreesen-ruft-bei-musiala-neues-motto-aus-kuemmern-kuemmern-und-nicht-reden-1275400/video",
+   "source": "kicker",
+   "published": "2026-11-26T16:21:40Z",
+   "teaser": "Jan-Christian Dreesen sprach bei einem Pressegespräch zum Sportpark Unterhaching auch über Joshua Kimmichs Interview in Lille und das Thema Jamal Musiala.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/dreesen-ueber-kimmich-und-musiala-intern-klaeren-1275389/artikel",
+   "title": "Dreesen über Kimmich und Musiala: \"Intern klären\"",
+   "link": "https://www.kicker.de/dreesen-ueber-kimmich-und-musiala-intern-klaeren-1275389/artikel",
+   "source": "kicker",
+   "published": "2026-11-26T16:20:06Z",
+   "teaser": "Bayerns Vorstandschef Jan-Christian Dreesen hat gelassen auf die Attacke von Vizekapitän Joshua Kimmich auf die Vereinsspitze in der Causa Jamal Musiala reagiert.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/musiala-zwischen-den-fronten-wie-das-thema-den-fc-bayern-spaltet-1275390/video",
+   "title": "Musiala \"zwischen den Fronten\": Wie das Thema den FC Bayern spaltet",
+   "link": "https://www.kicker.de/musiala-zwischen-den-fronten-wie-das-thema-den-fc-bayern-spaltet-1275390/video",
+   "source": "kicker",
+   "published": "2026-11-26T16:17:53Z",
+   "teaser": "Beim FC Bayern herrscht nicht nur wegen der Niederlage in der Champions League gegen Lille schlechte Stimmung. Die Situation rund um Jamal Musiala bringt zusätzlich Unruhe rein. Unruhe, die der Rekordmeister gerade absolut nicht brauchen …",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-tabellenfuehrung-wird-fuer-den-bvb-zur-kopfsache-100.html",
+   "title": "Bundesliga: Tabellenführung wird für Borussia Dortmund zur Kopfsache",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-tabellenfuehrung-wird-fuer-den-bvb-zur-kopfsache-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-26T15:53:16Z",
+   "teaser": "Die Bayern-Krise ist die Chance für Borussia Dortmund. Doch die Tabellenführung wird für den BVB zur mentalen Herausforderung.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/muslic-ohne-endspiel-rhetorik-und-mit-rueckhalt-fuer-karaman-1275363/artikel",
+   "title": "Muslic ohne \"Endspiel-Rhetorik\" und mit Rückhalt für Karaman",
+   "link": "https://www.kicker.de/muslic-ohne-endspiel-rhetorik-und-mit-rueckhalt-fuer-karaman-1275363/artikel",
+   "source": "kicker",
+   "published": "2026-11-26T15:51:08Z",
+   "teaser": "Der FC Schalke reist am Samstag zum Aufsteigerduell zum SC Paderborn. Keine Frage, ein sehr wichtiges Spiel für den Drittletzten gegen den Tabellennachbarn. Personelle Überraschungen inklusive? Miron Muslic ließ sich nicht in die Karten …",
+   "clubs": [
+    9,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/polzin-geht-nicht-darum-den-bus-zu-parken-1275381/video",
+   "title": "Polzin: \"Geht nicht darum, den Bus zu parken\"",
+   "link": "https://www.kicker.de/polzin-geht-nicht-darum-den-bus-zu-parken-1275381/video",
+   "source": "kicker",
+   "published": "2026-11-26T15:36:13Z",
+   "teaser": "Vor dem Spiel gegen den FC Bayern zeigt HSV-Trainer Merlin Polzin Möglichkeiten auf, gegen den Rekordmeister zu bestehen.",
+   "clubs": [
+    40,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/huetter-ueber-uzun-es-ist-immer-platz-1275367/video",
+   "title": "Hütter über Uzun: \"Es ist immer Platz\"",
+   "link": "https://www.kicker.de/huetter-ueber-uzun-es-ist-immer-platz-1275367/video",
+   "source": "kicker",
+   "published": "2026-11-26T14:57:43Z",
+   "teaser": "Eintracht-Coach Adi Hütter gibt vor dem Spiel in Stuttgart ein Update zu Can Uzun und erklärt, wie er sich zwischen einem oder zwei Stürmern entscheidet.",
+   "clubs": [
+    16
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/das-bundesliga-quiz-zum-11-spieltag-1275358/artikel",
+   "title": "Das Bundesliga-Quiz zum 11. Spieltag",
+   "link": "https://www.kicker.de/das-bundesliga-quiz-zum-11-spieltag-1275358/artikel",
+   "source": "kicker",
+   "published": "2026-11-26T14:30:00Z",
+   "teaser": "Wie gut bist du auf den 11. Spieltag vorbereitet?",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/aktuell-sehe-ich-es-sehr-kritisch-derbyheld-njinmah-wackelt-1275342/artikel",
+   "title": "\"Aktuell sehe ich es sehr kritisch\": Derbyheld Njinmah wackelt",
+   "link": "https://www.kicker.de/aktuell-sehe-ich-es-sehr-kritisch-derbyheld-njinmah-wackelt-1275342/artikel",
+   "source": "kicker",
+   "published": "2026-11-26T14:20:55Z",
+   "teaser": "Die Stimmung ist positiv, die Tore fallen - und doch steht Werder-Coach Daniel Thioune in seiner Offensivabteilung schon wieder vor einem Umbau.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/als-turm-kleindienst-vor-comeback-1275343/artikel",
    "title": "\"Als Turm\": Kleindienst vor Comeback",
@@ -155,7 +323,7 @@
    "link": "https://www.sportschau.de/fussball/championsleague/kimmich-greift-bayern-bosse-an,musiala-bayern-kimmich-100.html",
    "source": "Sportschau",
    "published": "2026-11-25T23:55:22Z",
-   "teaser": "Die Spitze des FC Bayern hat eine Debatte über Jamal Musiala losgetreten, Joshua Kimmich äußerte darüber nun Unverständnis.",
+   "teaser": "Joshua Kimmich hat das Vorgehen der Bayern-Bosse in der Debatte um Jamal Musiala deutlich kritisiert. Vorstandschef Christian Dreesen möchte derweil \"nicht weiter darüber reden.\"",
    "clubs": [
     40
    ],
@@ -183,6 +351,16 @@
    "clubs": [
     40
    ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/heute-vor-21-jahren-sahin-wird-zum-juengsten-bundesliga-torschuetzen-1274373/video",
+   "title": "Heute vor 21 Jahren: Sahin wird zum jüngsten Bundesliga-Torschützen",
+   "link": "https://www.kicker.de/heute-vor-21-jahren-sahin-wird-zum-juengsten-bundesliga-torschuetzen-1274373/video",
+   "source": "kicker",
+   "published": "2026-11-25T23:01:00Z",
+   "teaser": "Nuri Sahin hatte am 26. November 2005 gegen Nürnberg einen großen Grund zur Freude. Durch seinen Treffer zum 2:0 wurde er zum jüngsten Torschützen der Bundesliga-Geschichte. Mittlerweile hält den Rekord Youssoufa Moukoko.",
+   "clubs": [],
    "transfer": false
   },
   {
@@ -2309,201 +2487,6 @@
    "teaser": "Bayern-Trainer Vincent Kompany gibt sich ob der Verletztensituation bei seiner Mannschaft kämpferisch. Man werde die Situation annehmen und in den nächsten Wochen das Beste aus der Misere machen.",
    "clubs": [
     40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nach-harter-rummenigge-kritik-kompany-stellt-sich-vor-musiala-1273405/video",
-   "title": "Nach harter Rummenigge-Kritik: Kompany stellt sich vor Musiala",
-   "link": "https://www.kicker.de/nach-harter-rummenigge-kritik-kompany-stellt-sich-vor-musiala-1273405/video",
-   "source": "kicker",
-   "published": "2026-11-20T23:32:10Z",
-   "teaser": "Vincent Kompany stärkte auf der Bayern-PK nach dem 1:1 gegen den 1. FC Köln Jamal Musiala den Rücken.",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bayerns-schwarzer-freitag-die-hintergruende-zu-rummenigge-und-musiala-1273404/video",
-   "title": "Bayerns schwarzer Freitag: Die Hintergründe zu Rummenigge und Musiala",
-   "link": "https://www.kicker.de/bayerns-schwarzer-freitag-die-hintergruende-zu-rummenigge-und-musiala-1273404/video",
-   "source": "kicker",
-   "published": "2026-11-20T23:30:03Z",
-   "teaser": "Das Freitagspiel der Bundesliga zwischen dem FC Bayern München und dem 1. FC Köln lieferte noch weit mehr Gesprächsstoff als das 1:1-Ergebnis. Die kicker-Reporter Frank Linkesch und Mario Krischel berichten aus München.",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kompany-haben-andere-jungs-die-die-mannschaft-jetzt-tragen-muessen-1273385/artikel",
-   "title": "Kompany: \"Haben andere Jungs, die die Mannschaft jetzt tragen müssen\"",
-   "link": "https://www.kicker.de/kompany-haben-andere-jungs-die-die-mannschaft-jetzt-tragen-muessen-1273385/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T23:22:17Z",
-   "teaser": "Der Freitagabend war für die Bayern einer zum Vergessen: Nur ein Remis gegen Köln und die schwere Verletzung von Harry Kane. Coach Vincent Kompany ordnet die schwere Lage ein und fordert nun, dass andere in die Bresche springen.",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fc-bayern-atmet-auf-leichte-entwarnung-bei-olise-1273377/artikel",
-   "title": "FC Bayern atmet auf: Leichte Entwarnung bei Olise",
-   "link": "https://www.kicker.de/fc-bayern-atmet-auf-leichte-entwarnung-bei-olise-1273377/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T23:17:25Z",
-   "teaser": "Die verletzungsbedingten Auswechslungen von Harry Kane und Michael Olise haben für den FC Bayern das 1:1 gegen den 1. FC Köln überschattet. Nachdem sich die Befürchtungen bei Kane bewahrheitet haben, hat der deutsche Rekordmeister nun auch …",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/el-mala-zwischen-den-welten-da-haettest-du-dich-feiern-lassen-koennen-1273379/artikel",
-   "title": "El Mala zwischen den Welten: \"Da hättest du dich feiern lassen können\"",
-   "link": "https://www.kicker.de/el-mala-zwischen-den-welten-da-haettest-du-dich-feiern-lassen-koennen-1273379/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T23:11:17Z",
-   "teaser": "Beim FC Bayern konnte sich der 1. FC Köln über einen Punkt freuen - oder eben auch ärgern. Said El Mala haderte nach dem Remis mit seiner vergebenen Großchance.",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/die-sportschau-vom-freitag-mit-bayern-gegen-koeln,sportschau-am-freitag-re-live-2011-100.html",
-   "title": "Die Sportschau vom Freitag mit Bayern gegen Köln",
-   "link": "https://www.sportschau.de/fussball/die-sportschau-vom-freitag-mit-bayern-gegen-koeln,sportschau-am-freitag-re-live-2011-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-20T23:11:16Z",
-   "teaser": "Sehen Sie hier die Sportschau am Freitag mit den Highlights vom Spiel der Bayern gegen den 1. FC Köln, der 2. Bundesliga, der 3. Liga und der Frauen-Bundesliga.",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fc-bayern-gibt-diagnose-fuer-olise-bekannt-1273377/artikel",
-   "title": "FC Bayern gibt Diagnose für Olise bekannt",
-   "link": "https://www.kicker.de/fc-bayern-gibt-diagnose-fuer-olise-bekannt-1273377/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T23:07:51Z",
-   "teaser": "Die verletzungsbedingten Auswechslungen von Harry Kane und Michael Olise haben für den FC Bayern das 1:1 gegen den 1. FC Köln überschattet. Nachdem sich die Befürchtungen bei Kane bewahrheitet haben, hat der deutsche Rekordmeister nun auch …",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kann-mir-nicht-vorstellen-dass-irgendein-verein-musiala-unter-diesen-voraussetzungen-kaufen-wird-1273374/artikel",
-   "title": "\"Kann mir nicht vorstellen, dass irgendein Verein Musiala unter diesen Voraussetzungen kaufen wird\"",
-   "link": "https://www.kicker.de/kann-mir-nicht-vorstellen-dass-irgendein-verein-musiala-unter-diesen-voraussetzungen-kaufen-wird-1273374/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T22:33:00Z",
-   "teaser": "Beim 1:1 des FC Bayern München gegen den 1. FC Köln feierte Jamal Musiala sein Comeback nach wochenlangem Ausfall. Nach dem Spiel trat Karl-Heinz Rummenigge, Aufsichtsratsmitglied beim Rekordmeister, ans Mikrofon und äußerte sich zur …",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/herber-rueckschlag-fuer-die-bayern-kane-erleidet-syndesmoseriss-1273380/artikel",
-   "title": "Herber Rückschlag für die Bayern: Kane erleidet Syndesmoseriss",
-   "link": "https://www.kicker.de/herber-rueckschlag-fuer-die-bayern-kane-erleidet-syndesmoseriss-1273380/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T22:09:32Z",
-   "teaser": "Der FC Bayern kam gegen Köln nicht nur nicht über ein 1:1 hinaus, er verlor auch Harry Kane und Michael Olise. Sportvorstand Max Eberl und Trainer Vincent Kompany bestätigten nach Abpfiff einen Riss der Syndesmose bei Kane.",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/torjaeger-bereits-operiert-kane-erleidet-syndesmoseriss-1273380/artikel",
-   "title": "Torjäger bereits operiert: Kane erleidet Syndesmoseriss",
-   "link": "https://www.kicker.de/torjaeger-bereits-operiert-kane-erleidet-syndesmoseriss-1273380/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T22:09:32Z",
-   "teaser": "Der FC Bayern kam gegen Köln nicht nur nicht über ein 1:1 hinaus, er verlor auch Harry Kane und Michael Olise. Sportvorstand Max Eberl und Trainer Vincent Kompany bestätigten nach Abpfiff einen Riss der Syndesmose bei Kane.",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bayern-gegen-koeln-2026-bundesliga-5226890/spielbericht",
-   "title": "Köln bietet Bayern die Stirn - Kane schwer verletzt",
-   "link": "https://www.kicker.de/bayern-gegen-koeln-2026-bundesliga-5226890/spielbericht",
-   "source": "kicker",
-   "published": "2026-11-20T21:34:35Z",
-   "teaser": "Der 1. FC Köln hat dem FC Bayern München hochverdient einen Punkt abgerungen. Der Rekordmeister musste sich weniger über den ausgebliebenen Sieg ärgern, vielmehr schmerzten die Herausnahmen von zwei Schlüsselspielern.",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/sorgen-in-der-offensive-werden-groesser-kane-und-olise-verletzt-raus-1273345/artikel",
-   "title": "Sorgen in der Offensive werden größer: Kane und Olise verletzt raus",
-   "link": "https://www.kicker.de/sorgen-in-der-offensive-werden-groesser-kane-und-olise-verletzt-raus-1273345/artikel",
-   "source": "kicker",
-   "published": "2026-11-20T20:41:08Z",
-   "teaser": "Das Heimspiel gegen den 1. FC Köln begann aus Bayern-Sicht alles andere als gut. Erst gerieten die Münchner früh in Rückstand, dann verletzte sich Harry Kane. Und zur Pause musste dann auch noch Michael Olise raus.",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bayern-muenchen-gegen-1-fc-koeln,audiostream-bayern-muenchen-gegen-1-fc-koeln-106.html",
-   "title": "Live hören: Bayern München gegen 1. FC Köln - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bayern-muenchen-gegen-1-fc-koeln,audiostream-bayern-muenchen-gegen-1-fc-koeln-106.html",
-   "source": "Sportschau",
-   "published": "2026-11-20T19:15:00Z",
-   "teaser": "10. Spieltag: Anpfiff des Spiels ist am 20.11.2026 um 20:30 Uhr. 1. FC Köln spielt in München.",
-   "clubs": [
-    40,
-    65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/polzin-trifft-auf-freund-thioune-fuer-uns-beide-etwas-besonderes-1273318/video",
-   "title": "Polzin trifft auf Freund Thioune: \"Für uns beide etwas Besonderes\"",
-   "link": "https://www.kicker.de/polzin-trifft-auf-freund-thioune-fuer-uns-beide-etwas-besonderes-1273318/video",
-   "source": "kicker",
-   "published": "2026-11-20T17:32:43Z",
-   "teaser": "Merlin Polzin trifft mit dem Hamburger SV auf seinen alten Weggefährten Daniel Thioune und den SV Werder Bremen. Bei der PK vor dem Spiel sprach er über die Besonderheit dieses Duells.",
-   "clubs": [
-    134,
-    100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/vor-der-nordtribuene-als-wiese-fuer-werder-zum-pokalhelden-wurde-1273305/video",
-   "title": "Vor der Nordtribüne: Als Wiese für Werder zum Pokalhelden wurde",
-   "link": "https://www.kicker.de/vor-der-nordtribuene-als-wiese-fuer-werder-zum-pokalhelden-wurde-1273305/video",
-   "source": "kicker",
-   "published": "2026-11-20T16:21:28Z",
-   "teaser": "Im April 2009 startete Werder mit dem DFB-Pokal-Halbfinale in Hamburg in die Derbywochen. Es wurde der erste große Auftritt von Tim Wiese, der Bremen ins Finale trug.",
-   "clubs": [
-    134,
-    100
    ],
    "transfer": false
   }
