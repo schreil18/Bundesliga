@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T23:15:07Z",
+ "updated": "2026-11-27T05:18:19Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,29 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/wer-uebertraegt-werder-bremen-gegen-borussia-moenchengladbach-live-im-tv-und-stream-1275051/artikel",
+   "title": "Wer überträgt Werder Bremen gegen Borussia Mönchengladbach live im TV und Stream?",
+   "link": "https://www.kicker.de/wer-uebertraegt-werder-bremen-gegen-borussia-moenchengladbach-live-im-tv-und-stream-1275051/artikel",
+   "source": "kicker",
+   "published": "2026-11-27T05:00:00Z",
+   "teaser": "Nach dem erfolgreichen Nordderby steht für Werder Bremen gegen Borussia Mönchengladbach das nächste Heimspiel an. Wo ihr die Partei live im TV und Stream verfolgen könnt, erfahrt ihr hier.",
+   "clubs": [
+    87,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/im-schatten-der-musiala-debatte-bayerns-fehler-die-nicht-passieren-duerfen-1275494/artikel",
+   "title": "Im Schatten der Musiala-Debatte: Bayerns \"Fehler, die nicht passieren dürfen\"",
+   "link": "https://www.kicker.de/im-schatten-der-musiala-debatte-bayerns-fehler-die-nicht-passieren-duerfen-1275494/artikel",
+   "source": "kicker",
+   "published": "2026-11-27T03:00:00Z",
+   "teaser": "Die neue Folge kicker Daily!",
+   "clubs": [],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/zwei-geile-spiele-andrich-freut-sich-auf-bvb-und-leipzig-1275464/video",
    "title": "\"Zwei geile Spiele\": Andrich freut sich auf BVB und Leipzig",
@@ -2462,31 +2485,6 @@
    "clubs": [
     40,
     65
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wer-uebertraegt-fc-schalke-04-gegen-vfb-stuttgart-live-im-tv-und-stream-1271331/artikel",
-   "title": "Wer überträgt FC Schalke 04 gegen VfB Stuttgart live im TV und Stream?",
-   "link": "https://www.kicker.de/wer-uebertraegt-fc-schalke-04-gegen-vfb-stuttgart-live-im-tv-und-stream-1271331/artikel",
-   "source": "kicker",
-   "published": "2026-11-21T06:30:00Z",
-   "teaser": "Der FC Schalke 04 hat im Topspiel den VfB Stuttgart zu Gast. Wo ihr die Partie live verfolgen könnt, erfahrt ihr hier.",
-   "clubs": [
-    16,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/kompany-kaempferisch-mit-dem-messer-zwischen-den-zaehnen-1273415/video",
-   "title": "Kompany kämpferisch: \"Mit dem Messer zwischen den Zähnen\"",
-   "link": "https://www.kicker.de/kompany-kaempferisch-mit-dem-messer-zwischen-den-zaehnen-1273415/video",
-   "source": "kicker",
-   "published": "2026-11-21T00:21:27Z",
-   "teaser": "Bayern-Trainer Vincent Kompany gibt sich ob der Verletztensituation bei seiner Mannschaft kämpferisch. Man werde die Situation annehmen und in den nächsten Wochen das Beste aus der Misere machen.",
-   "clubs": [
-    40
    ],
    "transfer": false
   }
