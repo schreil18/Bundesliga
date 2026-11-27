@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:31:20Z",
+ "updated": "2026-11-27T23:42:04Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,159 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/die-sportschau-vom-freitag-mit-bayern-gegen-koeln,sportschau-am-freitag-re-live-2711-100.html",
+   "title": "Die Sportschau vom Freitag mit Bremen gegen Mönchengladbach",
+   "link": "https://www.sportschau.de/fussball/die-sportschau-vom-freitag-mit-bayern-gegen-koeln,sportschau-am-freitag-re-live-2711-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-27T23:05:23Z",
+   "teaser": "Sehen Sie hier die Sportschau am Freitag mit den Highlights vom Spiel Werder Bremen gegen Borussia Mönchengladbach, der 2. Bundesliga, der 3. Liga und der Frauen-Bundesliga.",
+   "clubs": [
+    87,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/mohya-kritisiert-nachlaessigkeiten-und-sieht-total-aergerliches-remis-1275760/artikel",
+   "title": "Mohya kritisiert \"Nachlässigkeiten\" - und sieht \"total ärgerliches\" Remis",
+   "link": "https://www.kicker.de/mohya-kritisiert-nachlaessigkeiten-und-sieht-total-aergerliches-remis-1275760/artikel",
+   "source": "kicker",
+   "published": "2026-11-27T22:57:14Z",
+   "teaser": "Gladbach war in Bremen lange das bessere Team und führte schon mit 3:1, ehe die Fohlen den Sieg noch aus der Hand gaben. Wieder einmal wurden späte Gegentore zum Problem. Im Abstiegskampf wird das zur gefährlichen Hypothek für die Borussia.",
+   "clubs": [
+    87,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fuellkrug-jetzt-kam-es-so-dass-ich-durchspielen-durfte-toll-1275757/artikel",
+   "title": "Füllkrug: \"Jetzt kam es so, dass ich durchspielen durfte - toll!\"",
+   "link": "https://www.kicker.de/fuellkrug-jetzt-kam-es-so-dass-ich-durchspielen-durfte-toll-1275757/artikel",
+   "source": "kicker",
+   "published": "2026-11-27T22:44:27Z",
+   "teaser": "Werder Bremen kam gegen Schlusslicht Gladbach nicht über ein Remis hinaus, war ob des Spielverlaufs am Ende aber froh über das 3:3. Niclas Füllkrug freute sich sogar über mehr als das Unentschieden.",
+   "clubs": [
+    87,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/gladbach-und-bremen-mit-spektakulaerem-remis,spielbericht-werder-bremen-borussia-moenchengladbach-114.html",
+   "title": "Natürlich Füllkrug - Gladbach verspielt Sieg in Bremen",
+   "link": "https://www.sportschau.de/fussball/bundesliga/gladbach-und-bremen-mit-spektakulaerem-remis,spielbericht-werder-bremen-borussia-moenchengladbach-114.html",
+   "source": "Sportschau",
+   "published": "2026-11-27T22:37:07Z",
+   "teaser": "Werder Bremen und Borussia Mönchengladbach liefern sich ein rasantes und hoch emotionales Bundesligaspiel, in dem die Fohlen eine Zwei-Tore-Führung verspielen.",
+   "clubs": [
+    87,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bonhof-bestaetigt-gespraech-mit-der-fanszene-ein-ehrlicher-schlagabtausch-1275725/artikel",
+   "title": "Bonhof bestätigt Gespräch mit der Fanszene: \"Ein ehrlicher Schlagabtausch\"",
+   "link": "https://www.kicker.de/bonhof-bestaetigt-gespraech-mit-der-fanszene-ein-ehrlicher-schlagabtausch-1275725/artikel",
+   "source": "kicker",
+   "published": "2026-11-27T20:18:08Z",
+   "teaser": "Sportlich steckt Gladbach in einer großen Krise - und auch abseits des Rasens geht es turbulent zu. So schlug die Beurlaubung von CEO Dr. Stefan Stegemann am Donnerstag große Wellen. Vor dem Bundesligaspiel in Bremen sprach nun Präsident …",
+   "clubs": [
+    87,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/video/als-vincent-kompany-die-raute-trug,video-vincent-kompany-100.html",
+   "title": "Als Vincent Kompany die Raute trug",
+   "link": "https://www.sportschau.de/video/als-vincent-kompany-die-raute-trug,video-vincent-kompany-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-27T18:14:15Z",
+   "teaser": "Vincent Kompany wird zum bis dahin teuersten Transfer der Vereinsgeschichte des HSV. Als er 2008 zu Manchester City wechselt, hinterlässt er bei den Rothosen einen bleibenden Eindruck.",
+   "clubs": [
+    100
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/es-ist-kompliziert-ben-seghirs-chancen-in-leverkusen-schwinden-1275684/artikel",
+   "title": "\"Es ist kompliziert\": Ben Seghirs Chancen in Leverkusen schwinden",
+   "link": "https://www.kicker.de/es-ist-kompliziert-ben-seghirs-chancen-in-leverkusen-schwinden-1275684/artikel",
+   "source": "kicker",
+   "published": "2026-11-27T16:39:47Z",
+   "teaser": "Auch in Zagreb musste Eliesse Ben Seghir am Donnerstagabend 90 Minuten zuschauen. Die Konkurrenz ist groß, die Chancen auf Minuten bleiben gering. Eine Leihe im Winter könnte die logische Konsequenz sein. Die soll es bei Montrell Culbreath …",
+   "clubs": [
+    6
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fischers-rat-an-lustrinelli-er-muss-lernen-damit-umzugehen-1275692/artikel",
+   "title": "Fischers Rat an Lustrinelli: \"Er muss lernen, damit umzugehen\"",
+   "link": "https://www.kicker.de/fischers-rat-an-lustrinelli-er-muss-lernen-damit-umzugehen-1275692/artikel",
+   "source": "kicker",
+   "published": "2026-11-27T16:35:09Z",
+   "teaser": "In Mainz trifft am Samstag das heimschwächste auf das auswärtsschwächste Team der Bundesliga. Urs Fischer gedenkt dabei, von seiner etablierten Stammformation abzuweichen. Einem Youngster winkt das Startelfdebüt gegen Union Berlin.",
+   "clubs": [
+    81,
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/hsv-und-bayern-im-duell-der-extreme-die-laufleistung-der-18-bundesligisten-1275414/slideshow",
+   "title": "HSV und Bayern im Duell der Extreme: Die Laufleistung der 18 Bundesligisten",
+   "link": "https://www.kicker.de/hsv-und-bayern-im-duell-der-extreme-die-laufleistung-der-18-bundesligisten-1275414/slideshow",
+   "source": "kicker",
+   "published": "2026-11-27T16:30:53Z",
+   "teaser": "Wenn der Hamburger SV am Samstagnachmittag den FC Bayern empfängt, wartet ein Duell der Extreme - in Bezug auf die Laufleistung beider Teams. Wir blicken auf die Werte der 18 Bundesligisten nach zehn Spieltagen.",
+   "clubs": [
+    40,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/sperre-bis-zur-winterpause-hoffenheim-kaempft-um-kabak-1275671/artikel",
+   "title": "Sperre bis zur Winterpause: Hoffenheim kämpft um Kabak",
+   "link": "https://www.kicker.de/sperre-bis-zur-winterpause-hoffenheim-kaempft-um-kabak-1275671/artikel",
+   "source": "kicker",
+   "published": "2026-11-27T16:05:17Z",
+   "teaser": "Gegen den FC Augsburg wird Verteidiger Ozan Kabak nach dessen Platzverweis in Frankfurt erstmals der TSG Hoffenheim rotgesperrt fehlen. Der Verein hat aber Einspruch gegen das Strafmaß eingelegt. Nächsten Freitag wird der Fall verhandelt. …",
+   "clubs": [
+    91,
+    175,
+    95
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/ryerson-viele-flanken-wenig-ertrag-und-woran-es-liegt-1275559/artikel",
+   "title": "Ryerson: Viele Flanken, wenig Ertrag und woran es liegt",
+   "link": "https://www.kicker.de/ryerson-viele-flanken-wenig-ertrag-und-woran-es-liegt-1275559/artikel",
+   "source": "kicker",
+   "published": "2026-11-27T15:45:55Z",
+   "teaser": "Nach seiner Fabel-Halbserie in der vergangenen Saison bringen die Flanken von Julian Ryerson Borussia Dortmund in dieser Spielzeit noch nicht den erhofften Ertrag. Sein Trainer Niko Kovac weiß warum.",
+   "clubs": [
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/lacher-im-interview-was-ist-jetzt-besser-ja-oder-nein-zu-sagen-1275686/video",
+   "title": "Lacher im Interview: \"Was ist jetzt besser - 'ja' oder 'nein' zu sagen?\"",
+   "link": "https://www.kicker.de/lacher-im-interview-was-ist-jetzt-besser-ja-oder-nein-zu-sagen-1275686/video",
+   "source": "kicker",
+   "published": "2026-11-27T15:43:56Z",
+   "teaser": "Seit dieser Saison trägt Said El Mala das Trikot mit der Nummer zehn. Der Köln-Star erklärt im Interview mit dem kicker, dass ihn das nicht belastet.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/regional/br/br-naechster-rueckschlag-fuer-die-bayern-musiala-faellt-verletzt-aus-102.html",
    "title": "Nächster Rückschlag: Bayerns Musiala erneut verletzt",
@@ -2328,154 +2481,6 @@
    "clubs": [
     7,
     87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/nmecha-spricht-ueber-kritik-am-kronen-jubel-bedeutet-nicht-dass-ich-ihn-nie-wieder-mache-1273598/artikel",
-   "title": "Nmecha spricht über Kritik am Kronen-Jubel: \"Bedeutet nicht, dass ich ihn nie wieder mache\"",
-   "link": "https://www.kicker.de/nmecha-spricht-ueber-kritik-am-kronen-jubel-bedeutet-nicht-dass-ich-ihn-nie-wieder-mache-1273598/artikel",
-   "source": "kicker",
-   "published": "2026-11-21T18:14:27Z",
-   "teaser": "Mit seinem Treffer in der 80. Minute avancierte Felix Nmecha zum Matchwinner des BVB im Auswärtsspiel in Gladbach. Anschließend wurde der 26-Jährige zu seinem Kronen-Jubel befragt, der in den vergangenen Wochen Diskussionen ausgelöst hatte.",
-   "clubs": [
-    7,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gruda-ueber-seinen-schuh-wurf-war-nicht-so-clever-1273580/artikel",
-   "title": "Gruda über seinen Schuh-Wurf: \"War nicht so clever\"",
-   "link": "https://www.kicker.de/gruda-ueber-seinen-schuh-wurf-war-nicht-so-clever-1273580/artikel",
-   "source": "kicker",
-   "published": "2026-11-21T18:14:06Z",
-   "teaser": "Deutlich mit 5:1 siegte RB Leipzig am Samstagnachmittag bei Union Berlin. Mittendrin war Nationalspieler Brajan Gruda, der zum offiziellen Matchwinner gekürt wurde, zuvor aber auch unglückliche Momente erlebt hatte.",
-   "clubs": [
-    1635,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/boxen-kaputt-fans-singen-a-cappella-besondere-atmosphaere-bei-der-eintracht-1273620/video",
-   "title": "Boxen kaputt, Fans singen a cappella: Besondere Atmosphäre bei der Eintracht",
-   "link": "https://www.kicker.de/boxen-kaputt-fans-singen-a-cappella-besondere-atmosphaere-bei-der-eintracht-1273620/video",
-   "source": "kicker",
-   "published": "2026-11-21T18:05:23Z",
-   "teaser": "In Frankfurt herrschte beim Heimspiel gegen Hoffenheim eine besondere Atmosphäre, in der Noah Atubolu mit starken Paraden zum gefeierten Mann wurde.",
-   "clubs": [
-    91,
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bitteres-urteil-union-fehlen-die-fussballerischen-mittel-1273612/video",
-   "title": "Bitteres Urteil: \"Union fehlen die fußballerischen Mittel\"",
-   "link": "https://www.kicker.de/bitteres-urteil-union-fehlen-die-fussballerischen-mittel-1273612/video",
-   "source": "kicker",
-   "published": "2026-11-21T17:52:36Z",
-   "teaser": "Union Berlin hat gegen RB Leipzig den nächsten Rückschlag kassiert. Für Trainer Mauro Lustrinelli wird es nun noch schwerer, das Ruder herumzureißen.",
-   "clubs": [
-    1635,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/baumanns-generalkritik-viel-zu-viel-schauspiel-viel-zu-viel-manipulation-1273569/artikel",
-   "title": "Baumanns Generalkritik: \"Viel zu viel Schauspiel, viel zu viel Manipulation\"",
-   "link": "https://www.kicker.de/baumanns-generalkritik-viel-zu-viel-schauspiel-viel-zu-viel-manipulation-1273569/artikel",
-   "source": "kicker",
-   "published": "2026-11-21T17:45:00Z",
-   "teaser": "Bei Hoffenheims 0:1-Niederlage zeichnete sich Torhüter Oliver Baumann mit einem gehaltenen Elfmeter aus - genauso wie sein Gegenüber Noah Atubolu. Baumann aber kritisierte die Art und Weise des Zustandekommens der Elfmeter scharf.",
-   "clubs": [
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/depp-vom-dienst-batz-entschuldigt-sich-fuer-seinen-fehler-1273553/artikel",
-   "title": "\"Depp vom Dienst\": Batz entschuldigt sich für seinen Fehler",
-   "link": "https://www.kicker.de/depp-vom-dienst-batz-entschuldigt-sich-fuer-seinen-fehler-1273553/artikel",
-   "source": "kicker",
-   "published": "2026-11-21T17:18:36Z",
-   "teaser": "Gladbach hat gegen Dortmund knapp mit 0:1 verloren und steht erneut mit leeren Händen da. Aktien in der entscheidenden Szene hatte Keeper Daniel Batz, der nach dem Gegentor alle Schuld auf sich nahm.",
-   "clubs": [
-    7,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/fc-schalke-04-gegen-vfb-stuttgart,audiostream-fc-schalke-04-gegen-vfb-stuttgart-102.html",
-   "title": "Live hören: FC Schalke 04 gegen VfB Stuttgart - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/fc-schalke-04-gegen-vfb-stuttgart,audiostream-fc-schalke-04-gegen-vfb-stuttgart-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T17:15:00Z",
-   "teaser": "10. Spieltag: Anpfiff des Spiels ist am 21.11.2026 um 18:30 Uhr. VfB Stuttgart spielt in Gelsenkirchen.",
-   "clubs": [
-    16,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/fifpro-statement-zum-fall-musiala-spielergewerkschaft-zutiefst-besorgt-1273548/artikel",
-   "title": "FIFPRO-Statement zum Fall Musiala: Spielergewerkschaft \"zutiefst besorgt\"",
-   "link": "https://www.kicker.de/fifpro-statement-zum-fall-musiala-spielergewerkschaft-zutiefst-besorgt-1273548/artikel",
-   "source": "kicker",
-   "published": "2026-11-21T16:33:22Z",
-   "teaser": "Die Aussagen der Bayern-Bosse sorgen weiter für Wirbel - auch auf der Jahreshautversammlung des FCB und bei der Spielergewerkschaft. Die FIFPRO zeigt sich besorgt.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/thema-musiala-und-die-mitgliederversammlung-spannend-wurde-es-erst-danach-1273558/video",
-   "title": "Thema Musiala und die Mitgliederversammlung: \"Spannend wurde es erst danach\"",
-   "link": "https://www.kicker.de/thema-musiala-und-die-mitgliederversammlung-spannend-wurde-es-erst-danach-1273558/video",
-   "source": "kicker",
-   "published": "2026-11-21T16:33:00Z",
-   "teaser": "Das große Thema Jamal Musiala wurde auf der Mitgliedersammlung des FC Bayern kaum besprochen, erst in der Mixed Zone bezogen die anwesenden Funktionäre Stellung.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/druck-auf-musiala-dreesen-ordnet-rummenigge-aussagen-ein-1273555/video",
-   "title": "Druck auf Musiala: Dreesen ordnet Rummenigge-Aussagen ein",
-   "link": "https://www.kicker.de/druck-auf-musiala-dreesen-ordnet-rummenigge-aussagen-ein-1273555/video",
-   "source": "kicker",
-   "published": "2026-11-21T16:25:30Z",
-   "teaser": "In der Mixed Zone nach der Mitgliederversammlung sprach Bayern-CEO über Jamal Musiala und die Aussagen von Karl-Heinz Rummenigge.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/dreesen-mit-appell-an-die-bundesliga-brauchen-spieler-die-begeistern-1273543/video",
-   "title": "Dreesen mit Appell an die Bundesliga: \"Brauchen Spieler, die begeistern\"",
-   "link": "https://www.kicker.de/dreesen-mit-appell-an-die-bundesliga-brauchen-spieler-die-begeistern-1273543/video",
-   "source": "kicker",
-   "published": "2026-11-21T15:54:03Z",
-   "teaser": "Auf der Mitgliederversammlung sprach Jan-Christian Dreesen über die Vertragsverlängerung von Harry Kane und richtete sich anschließend an die anderen 17 Bundesligisten.",
-   "clubs": [],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/grosser-applaus-bei-hainer-verkuendung-bayern-knackt-die-500-000-mitglieder-1273542/video",
-   "title": "Großer Applaus bei Hainer-Verkündung: Bayern knackt die 500.000 Mitglieder",
-   "link": "https://www.kicker.de/grosser-applaus-bei-hainer-verkuendung-bayern-knackt-die-500-000-mitglieder-1273542/video",
-   "source": "kicker",
-   "published": "2026-11-21T15:53:52Z",
-   "teaser": "Der FC Bayern ist der erste Verein der Welt, der die Marke von 500.000 Mitgliedern knackt. Herbert Hainer zeigte sich sichtlich stolz auf der Mitgliederversammlung.",
-   "clubs": [
-    40
    ],
    "transfer": false
   }
