@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:18:19Z",
+ "updated": "2026-11-27T15:31:20Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,249 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/regional/br/br-naechster-rueckschlag-fuer-die-bayern-musiala-faellt-verletzt-aus-102.html",
+   "title": "Nächster Rückschlag: Bayerns Musiala erneut verletzt",
+   "link": "https://www.sportschau.de/regional/br/br-naechster-rueckschlag-fuer-die-bayern-musiala-faellt-verletzt-aus-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-27T15:10:44Z",
+   "teaser": "Jamal Musiala hat einen weiteren Rückschlag kassiert. Der deutsche Nationalspieler hat sich einen Muskelfaserriss zugezogen und wird dem FC Bayern München somit im Auswärtsspiel beim Hamburger SV am Samstag fehlen.",
+   "clubs": [
+    40,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wieder-muskelfaserriss-musiala-faellt-erneut-aus-1275659/artikel",
+   "title": "Wieder Muskelfaserriss: Musiala fällt erneut aus",
+   "link": "https://www.kicker.de/wieder-muskelfaserriss-musiala-faellt-erneut-aus-1275659/artikel",
+   "source": "kicker",
+   "published": "2026-11-27T14:06:51Z",
+   "teaser": "Bei Jamal Musiala mag es derzeit einfach nicht laufen. Nach seinen jüngsten Kurzeinsätzen wird er dem FC Bayern erneut fehlen. Gute Nachrichten gibt es derweil von einem verletzten Duo.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bvb-vor-reifepruefung-standortbestimmung-fuer-titelambitionen-1275654/video",
+   "title": "BVB vor Reifeprüfung: \"Standortbestimmung für Titelambitionen\"",
+   "link": "https://www.kicker.de/bvb-vor-reifepruefung-standortbestimmung-fuer-titelambitionen-1275654/video",
+   "source": "kicker",
+   "published": "2026-11-27T13:44:40Z",
+   "teaser": "Vor dem Spiel gegen Leverkusen wollte Niko Kovac den Blick nicht zu weit in die Zukunft richten, sondern sich auf die kommende Aufgabe fokussieren. Eine klare Marschroute für die kommenden Wochen gab er aber dennoch vor.",
+   "clubs": [
+    7,
+    6
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/keine-gruende-fuer-kritik-el-mala-staerkt-koelns-trainer-wagner-1275615/artikel",
+   "title": "\"Keine Gründe für Kritik\": El Mala stärkt Kölns Trainer Wagner",
+   "link": "https://www.kicker.de/keine-gruende-fuer-kritik-el-mala-staerkt-koelns-trainer-wagner-1275615/artikel",
+   "source": "kicker",
+   "published": "2026-11-27T13:00:53Z",
+   "teaser": "Mit zehn Punkten nach zehn Spieltagen absolviert der 1. FC Köln bislang eine durchwachsene Saison. Doch Nationalspieler Said El Mala sieht keinerlei Gründe, Trainer René Wagner infrage zu stellen.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/el-mala-moore-und-ich-koennen-uns-noch-viel-mehr-finden-auf-dem-platz-1275625/video",
+   "title": "El Mala: \"Moore und ich können uns noch viel mehr finden auf dem Platz\"",
+   "link": "https://www.kicker.de/el-mala-moore-und-ich-koennen-uns-noch-viel-mehr-finden-auf-dem-platz-1275625/video",
+   "source": "kicker",
+   "published": "2026-11-27T12:15:33Z",
+   "teaser": "Said El Mala stellt klar, dass das Verhältnis mit Mikey Moore absolut top ist. Der Kölner räumt aber ein, dass auf dem Platz noch Luft nach oben sei.",
+   "clubs": [
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/guter-trick-aber-ich-bin-schon-laenger-in-diesem-geschaeft-1275624/video",
+   "title": "\"Guter Trick, aber ich bin schon länger in diesem Geschäft\"",
+   "link": "https://www.kicker.de/guter-trick-aber-ich-bin-schon-laenger-in-diesem-geschaeft-1275624/video",
+   "source": "kicker",
+   "published": "2026-11-27T12:14:33Z",
+   "teaser": "Der FC Bayern hat in den letzten Tagen einige Schlagzeilen produziert. BVB-Trainer Niko Kovac erklärt, ob das im Titelkampf für Dortmund nützlich sein könnte.",
+   "clubs": [
+    40,
+    7
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/el-mala-mit-emotionalen-worten-ueber-seinen-rauswurf-bei-gladbach-1275623/video",
+   "title": "El Mala mit emotionalen Worten über seinen Rauswurf bei Gladbach",
+   "link": "https://www.kicker.de/el-mala-mit-emotionalen-worten-ueber-seinen-rauswurf-bei-gladbach-1275623/video",
+   "source": "kicker",
+   "published": "2026-11-27T12:06:15Z",
+   "teaser": "Mit 14 schien der Traum vom Profifußball für Said El Mala bereits geplatzt zu sein. Der Star des 1. FC Köln spricht im kicker-Interview bemerkenswert offen über sein Ende im Nachwuchsbereich von Borussia Mönchengladbach.",
+   "clubs": [
+    87,
+    65
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/transferticker-953155/artikel",
+   "title": "Brahim Diaz verlängert bei Real - ManUnited zieht Option bei Bruno Fernandes",
+   "link": "https://www.kicker.de/transferticker-953155/artikel",
+   "source": "kicker",
+   "published": "2026-11-27T11:59:21Z",
+   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "clubs": [],
+   "transfer": true
+  },
+  {
+   "id": "https://www.kicker.de/burger-fehlt-wohl-laenger-ilzer-bricht-die-naechste-saeule-weg-1275560/artikel",
+   "title": "Burger fehlt wohl länger: Ilzer bricht die nächste Säule weg",
+   "link": "https://www.kicker.de/burger-fehlt-wohl-laenger-ilzer-bricht-die-naechste-saeule-weg-1275560/artikel",
+   "source": "kicker",
+   "published": "2026-11-27T10:30:32Z",
+   "teaser": "Mit dem vierten Heimsieg nacheinander ist die TSG Hoffenheim auch in der Europa League wieder im Geschäft. Doch in der Abwehr verschärft sich nach dem Ausfall von Wouter Burger der Personalengpass zusätzlich.",
+   "clubs": [
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/freund-zu-neuer-nicht-ganz-einfache-phase-in-seinem-leben-1275581/video",
+   "title": "Freund zu Neuer: \"Nicht ganz einfache Phase in seinem Leben\"",
+   "link": "https://www.kicker.de/freund-zu-neuer-nicht-ganz-einfache-phase-in-seinem-leben-1275581/video",
+   "source": "kicker",
+   "published": "2026-11-27T10:26:00Z",
+   "teaser": "Manuel Neuer weilte nach seiner Fußverletzung für Reha-Maßnahmen in Brasilien. Der richtige Schritt, findet Bayerns Sportdirektor Christoph Freund.",
+   "clubs": [],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kompanys-leise-drohung-1275563/artikel",
+   "title": "Kompanys leise Drohung",
+   "link": "https://www.kicker.de/kompanys-leise-drohung-1275563/artikel",
+   "source": "kicker",
+   "published": "2026-11-27T10:11:46Z",
+   "teaser": "Der FC Bayern tritt beim Hamburger SV an. Ohne Michael Olise, aber mit dem gleichen Anspruch.",
+   "clubs": [
+    40,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/geldstrafe-fuer-kimmich-freund-es-war-nie-ein-thema-1275575/video",
+   "title": "Geldstrafe für Kimmich? Freund: \"Es war nie ein Thema\"",
+   "link": "https://www.kicker.de/geldstrafe-fuer-kimmich-freund-es-war-nie-ein-thema-1275575/video",
+   "source": "kicker",
+   "published": "2026-11-27T09:59:54Z",
+   "teaser": "Joshua Kimmich kritisierte die Bayern-Bosse für ihren öffentlichen Umgang mit Jamal Musiala. Sportdirektor Christoph Freund schloss eine Geldstrafe aus.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/fast-16-jahre-bei-dzeko-diese-bundesliga-spieler-warten-am-laengsten-auf-ihr-naechstes-tor-1275419/slideshow",
+   "title": "Fast 16 Jahre bei Dzeko: Diese Bundesliga-Spieler warten am längsten auf ihr nächstes Tor",
+   "link": "https://www.kicker.de/fast-16-jahre-bei-dzeko-diese-bundesliga-spieler-warten-am-laengsten-auf-ihr-naechstes-tor-1275419/slideshow",
+   "source": "kicker",
+   "published": "2026-11-27T09:47:41Z",
+   "teaser": "Mit Edin Dzeko und Felix Götze treffen am Samstag in Paderborn die beiden aktuellen Bundesliga-Spieler aufeinander, bei denen das letzte Tor im deutschen Oberhaus am längsten zurückliegt. Die Top 10 in der Übersicht.",
+   "clubs": [
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kompany-koennten-heute-340-themen-besprechen-1275566/video",
+   "title": "Kompany: \"Könnten heute 340 Themen besprechen\"",
+   "link": "https://www.kicker.de/kompany-koennten-heute-340-themen-besprechen-1275566/video",
+   "source": "kicker",
+   "published": "2026-11-27T09:46:02Z",
+   "teaser": "Beim FC Bayern überschlagen sich gerade die Themen. Trainer Vincent Kompany hat eine klare Meinung dazu.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/bayern-auch-in-hamburg-ohne-olise-1275514/artikel",
+   "title": "Bayern auch in Hamburg ohne Olise",
+   "link": "https://www.kicker.de/bayern-auch-in-hamburg-ohne-olise-1275514/artikel",
+   "source": "kicker",
+   "published": "2026-11-27T09:15:13Z",
+   "teaser": "In Hamburg muss der FC Bayern erneut auf Michael Olise verzichten. Da auch bei Jamal Musiala die alte Muskelverletzung wieder aufbrach, rückt nun alleinig Luis Diaz als Offensiv-Hoffnung in den Fokus.",
+   "clubs": [
+    40,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/kahn-und-matthaeus-loben-kimmich-sollte-die-bosse-wachruetteln-1275546/artikel",
+   "title": "Kahn und Matthäus loben Kimmich: \"Sollte die Bosse wachrütteln\"",
+   "link": "https://www.kicker.de/kahn-und-matthaeus-loben-kimmich-sollte-die-bosse-wachruetteln-1275546/artikel",
+   "source": "kicker",
+   "published": "2026-11-27T09:13:34Z",
+   "teaser": "Joshua Kimmich sprach am Mittwoch Klartext und stellte sich hinter Mitspieler Jamal Musiala, zudem kritisierte er die Bayern-Bosse. Lob gab es für das Interview nun unter anderem von Oliver Kahn und Lothar Matthäus.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/nach-diskriminierungsvorfaellen-haertel-zurueck-bei-union-1275548/artikel",
+   "title": "Nach Diskriminierungsvorfällen: Härtel zurück bei Union",
+   "link": "https://www.kicker.de/nach-diskriminierungsvorfaellen-haertel-zurueck-bei-union-1275548/artikel",
+   "source": "kicker",
+   "published": "2026-11-27T09:11:14Z",
+   "teaser": "In einem anonymen Schreiben wurde Union-Nachwuchstrainer Jens Härtel Diskriminierung vorgeworfen, der 57-Jährige war daraufhin bei Union zurückgetreten. Die Köpenicker geben ihm nun eine zweite Chance, wenn auch zunächst in anderer …",
+   "clubs": [
+    80
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wintertransfers-bei-bayern-ich-teile-die-meinung-der-verantwortlichen-nicht-1275551/video",
+   "title": "Wintertransfers bei Bayern? \"Ich teile die Meinung der Verantwortlichen nicht\"",
+   "link": "https://www.kicker.de/wintertransfers-bei-bayern-ich-teile-die-meinung-der-verantwortlichen-nicht-1275551/video",
+   "source": "kicker",
+   "published": "2026-11-27T09:04:58Z",
+   "teaser": "Die erste Niederlage der Saison in Lille, Verletzungen, ein dünner Kader. Der FC Bayern schlittert in den Winter und es stellt sich die Frage: Müssen die Verantwortlichen auf dem Transfermarkt nachlegen?",
+   "clubs": [
+    40
+   ],
+   "transfer": true
+  },
+  {
+   "id": "https://www.sportschau.de/regional/rb/rb-werder-in-der-analyse-warum-stehen-die-bremer-so-gut-da-100.html",
+   "title": "Werder Bremen: Aus Fragezeichen formt Thioune Ausrufezeichen",
+   "link": "https://www.sportschau.de/regional/rb/rb-werder-in-der-analyse-warum-stehen-die-bremer-so-gut-da-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-27T07:56:00Z",
+   "teaser": "Die Bremer galten zu Saisonbeginn als Abstiegskandidat, mischen aktuell aber die Bundesliga auf. Nach Startschwierigkeiten drückt Coach Daniel Thioune Werder seinen Stempel auf.",
+   "clubs": [
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-vor-erstem-endspiel-beim-sc-paderborn-100.html",
+   "title": "Schalke 04 vor erstem Endspiel beim SC Paderborn",
+   "link": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-vor-erstem-endspiel-beim-sc-paderborn-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-27T07:52:00Z",
+   "teaser": "Schalke muss bei Mitaufsteiger Paderborn antreten. Der Druck auf die Königsblauen ist groß, mal wieder einen Sieg einzufahren.",
+   "clubs": [
+    9,
+    31
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/wer-uebertraegt-werder-bremen-gegen-borussia-moenchengladbach-live-im-tv-und-stream-1275051/artikel",
    "title": "Wer überträgt Werder Bremen gegen Borussia Mönchengladbach live im TV und Stream?",
@@ -73,19 +316,6 @@
    "teaser": "Es passierte schon wieder: Bei der ersten Pflichtspielniederlage in dieser Saison, dem 1:2 in Lille, gab der FC Bayern nicht zum ersten Mal in dieser Saison eine Führung aus der Hand, weil er schlecht verteidigte.",
    "clubs": [
     40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-vor-erstem-endspiel-beim-sc-paderborn-100.html",
-   "title": "Schalke 04 vor erstem Endspiel beim SC Paderborn",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-vor-erstem-endspiel-beim-sc-paderborn-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-26T17:35:00Z",
-   "teaser": "Der FC Schalke 04 muss bei Mitaufsteiger SC Paderborn antreten. Der Druck auf die Königsblauen ist groß, mal wieder einen Sieg einzufahren.",
-   "clubs": [
-    9,
-    31
    ],
    "transfer": false
   },
@@ -518,18 +748,6 @@
     6
    ],
    "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/transferticker-953155/artikel",
-   "title": "Ex-Dortmunder Mor mit vorläufigem Karriereende - Bühl-Entscheidung naht",
-   "link": "https://www.kicker.de/transferticker-953155/artikel",
-   "source": "kicker",
-   "published": "2026-11-25T11:33:09Z",
-   "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "clubs": [
-    7
-   ],
-   "transfer": true
   },
   {
    "id": "https://www.kicker.de/drei-jahre-nach-eintracht-krawallen-gegen-stuttgart-82-urteile-und-zahlreiche-freiheitsstrafen-1274880/artikel",
@@ -2258,233 +2476,6 @@
    "teaser": "Der FC Bayern ist der erste Verein der Welt, der die Marke von 500.000 Mitgliedern knackt. Herbert Hainer zeigte sich sichtlich stolz auf der Mitgliederversammlung.",
    "clubs": [
     40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/br/br-auch-rummenigge-zweifelt-an-musiala-rueckkehr-auf-topniveau-102.html",
-   "title": "Auch Rummenigge zweifelt an Musiala - und erntet Kritik von FIFPRO",
-   "link": "https://www.sportschau.de/regional/br/br-auch-rummenigge-zweifelt-an-musiala-rueckkehr-auf-topniveau-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T15:45:03Z",
-   "teaser": "Die internationale Spielergewerkschaft FIFPRO wirft dem FC Bayern vor, Jamal Musiala vor möglichen Vertragsgesprächen gezielt öffentlich unter Druck zu setzen.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/lieber-michael-lass-dich-nicht-verbiegen-bleib-so-wie-du-bist-1273525/video",
-   "title": "\"Lieber Michael, lass dich nicht verbiegen - bleib so, wie du bist\"´",
-   "link": "https://www.kicker.de/lieber-michael-lass-dich-nicht-verbiegen-bleib-so-wie-du-bist-1273525/video",
-   "source": "kicker",
-   "published": "2026-11-21T14:58:28Z",
-   "teaser": "Herbert Hainer richtete auf der Jahrshautversammlung des FC Bayern persönliche Worte an Michael Olise.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/borussia-moenchengladbach-gegen-borussia-dortmund,audiostream-borussia-moenchengladbach-gegen-borussia-dortmund-106.html",
-   "title": "Live hören: Borussia Mönchengladbach gegen Borussia Dortmund - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/borussia-moenchengladbach-gegen-borussia-dortmund,audiostream-borussia-moenchengladbach-gegen-borussia-dortmund-106.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T14:15:00Z",
-   "teaser": "10. Spieltag: Anpfiff des Spiels ist am 21.11.2026 um 15:30 Uhr. Borussia Dortmund spielt in Mönchengladbach.",
-   "clubs": [
-    7,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/bayer-leverkusen-gegen-sc-paderborn-07,audiostream-bayer-leverkusen-gegen-sc-paderborn-07-102.html",
-   "title": "Live hören: Bayer Leverkusen gegen SC Paderborn 07 - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/bayer-leverkusen-gegen-sc-paderborn-07,audiostream-bayer-leverkusen-gegen-sc-paderborn-07-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T14:15:00Z",
-   "teaser": "10. Spieltag: Anpfiff des Spiels ist am 21.11.2026 um 15:30 Uhr. SC Paderborn 07 spielt in Leverkusen.",
-   "clubs": [
-    6,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/sv-07-elversberg-gegen-sc-freiburg,audiostream-sv-07-elversberg-gegen-sc-freiburg-100.html",
-   "title": "Live hören: SV 07 Elversberg gegen SC Freiburg - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/sv-07-elversberg-gegen-sc-freiburg,audiostream-sv-07-elversberg-gegen-sc-freiburg-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T14:15:00Z",
-   "teaser": "10. Spieltag: Anpfiff des Spiels ist am 21.11.2026 um 15:30 Uhr. SC Freiburg spielt in Elversberg.",
-   "clubs": [
-    112,
-    198
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/1-fc-union-berlin-gegen-rb-leipzig,audiostream-1-fc-union-berlin-gegen-rb-leipzig-108.html",
-   "title": "Live hören: 1. FC Union Berlin gegen RB Leipzig - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/1-fc-union-berlin-gegen-rb-leipzig,audiostream-1-fc-union-berlin-gegen-rb-leipzig-108.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T14:15:00Z",
-   "teaser": "10. Spieltag: Anpfiff des Spiels ist am 21.11.2026 um 15:30 Uhr. RB Leipzig spielt in Berlin.",
-   "clubs": [
-    1635,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/eintracht-frankfurt-gegen-tsg-hoffenheim,audiostream-eintracht-frankfurt-gegen-tsg-hoffenheim-100.html",
-   "title": "Live hören: Eintracht Frankfurt gegen TSG Hoffenheim - Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/eintracht-frankfurt-gegen-tsg-hoffenheim,audiostream-eintracht-frankfurt-gegen-tsg-hoffenheim-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T14:15:00Z",
-   "teaser": "10. Spieltag: Anpfiff des Spiels ist am 21.11.2026 um 15:30 Uhr. TSG Hoffenheim spielt in Frankfurt am Main.",
-   "clubs": [
-    91,
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/10-spieltag-die-konferenz,audiostream-10-spieltag-die-konferenz-138.html",
-   "title": "Live hören: Die Konferenz - 10. Spieltag | Fußball Bundesliga",
-   "link": "https://www.sportschau.de/fussball/bundesliga/10-spieltag-die-konferenz,audiostream-10-spieltag-die-konferenz-138.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T14:10:00Z",
-   "teaser": "Bundesliga live - alle Spiele am 21.11.2026 um 15:30 Uhr in der Konferenz.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/bayern-vermeldet-500000-mitglieder-und-naehert-sich-magischer-umsatz-marke-1273453/artikel",
-   "title": "Bayern vermeldet 500.000 Mitglieder - und nähert sich \"magischer\" Umsatz-Marke",
-   "link": "https://www.kicker.de/bayern-vermeldet-500000-mitglieder-und-naehert-sich-magischer-umsatz-marke-1273453/artikel",
-   "source": "kicker",
-   "published": "2026-11-21T12:52:37Z",
-   "teaser": "Auf der Jahreshauptversammlung des FC Bayern präsentiert Herbert Hainer eine neue Mitglieder-Marke, CEO Jan-Christian Dreesen legt mit einem Umsatzrekord nach.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193804/fc-schalke-04_vfb-stuttgart/liveticker",
-   "title": "Ab 18.30 Uhr live - Schalke in der Krise gegen Stuttgart",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193804/fc-schalke-04_vfb-stuttgart/liveticker",
-   "source": "Sportschau",
-   "published": "2026-11-21T12:28:57Z",
-   "teaser": "In der Bundesliga ist Stuttgart auf Schalke zu Gast. In Gelsenkirchen scheint die Magie des Aufstiegs verpufft, Trainer Muslic und seine Mannschaft kämpfen gegen den Abstieg.",
-   "clubs": [
-    16,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3915/",
-   "title": "Ab 15.30 Uhr live - Frankfurt, Union und Gladbach in der Konferenz",
-   "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3915/",
-   "source": "Sportschau",
-   "published": "2026-11-21T12:28:02Z",
-   "teaser": "In der Bundesliga gastiert Borussia Dortmund in Mönchengladbach, Union empfängt Leipzig und Paderborn ist in Leverkusen zu Gast.",
-   "clubs": [
-    7,
-    1635,
-    6,
-    91,
-    87,
-    80,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/bundesliga/fc-bayern-muenchen-mehrere-monate-ohne-harry-kane,kane-verletzung-100.html",
-   "title": "Schock für FC Bayern: Harry Kane erleidet Syndesmoseriss",
-   "link": "https://www.sportschau.de/fussball/bundesliga/fc-bayern-muenchen-mehrere-monate-ohne-harry-kane,kane-verletzung-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T11:22:23Z",
-   "teaser": "Der FC Bayern München muss monatelang auf Starstürmer Harry Kane verzichten. Der Engländer zog sich einen Riss des Syndesmosebandes zu und ist schon operiert worden.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/rb/rb-werder-trainer-thioune-verlaengert-seinen-vertrag-vorzeitig-102.html",
-   "title": "Werder-Trainer Thioune verlängert seinen Vertrag vorzeitig",
-   "link": "https://www.sportschau.de/regional/rb/rb-werder-trainer-thioune-verlaengert-seinen-vertrag-vorzeitig-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T10:16:41Z",
-   "teaser": "Der Vertrag des 52-Jährigen wäre eigentlich im nächsten Sommer ausgelaufen. Jetzt bestätigte der Bremer Verein die Verlängerung, äußerte sich aber nicht zur Laufzeit.",
-   "clubs": [
-    134
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.sportschau.de/video/hans-meyer-abschied-trotz-klassenerhalt,video-hans-meyer-100.html",
-   "title": "Hans Meyer - Abschied trotz Klassenerhalt",
-   "link": "https://www.sportschau.de/video/hans-meyer-abschied-trotz-klassenerhalt,video-hans-meyer-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T10:14:39Z",
-   "teaser": "Hans Meyer sichert im Jahr 2009 mit dem Aufsteiger Borussia Mönchengladbach am letzten Spieltag der Saison den Klassenerhalt. Kurz darauf tritt der damals 67-Jährige zurück.",
-   "clubs": [
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/moore-besiegt-die-angst-und-zerstreut-alle-geruechte-1273429/artikel",
-   "title": "Moore besiegt die Angst und zerstreut alle Gerüchte",
-   "link": "https://www.kicker.de/moore-besiegt-die-angst-und-zerstreut-alle-geruechte-1273429/artikel",
-   "source": "kicker",
-   "published": "2026-11-21T09:59:32Z",
-   "teaser": "Mikey Moore stand beim 1. FC Köln zuletzt stark in der Kritik. Nun bewies der 19-Jährige beim 1:1 in München, weshalb er große Fantasien weckt. Kann Moore das wiederholen?",
-   "clubs": [
-    65
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/vertragsverlaengerung-vor-dem-derby-thioune-bleibt-in-bremen-1273445/artikel",
-   "title": "Vertragsverlängerung vor dem Derby: Thioune bleibt in Bremen",
-   "link": "https://www.kicker.de/vertragsverlaengerung-vor-dem-derby-thioune-bleibt-in-bremen-1273445/artikel",
-   "source": "kicker",
-   "published": "2026-11-21T09:32:56Z",
-   "teaser": "Der SV Werder Bremen und Cheftrainer Daniel Thioune haben sich auf eine Verlängerung des im Sommer auslaufenden Vertrags geeinigt.",
-   "clubs": [
-    134
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/inacios-verletzung-und-die-folgen-beim-bvb-auch-fuer-den-transfermarkt-1273240/artikel",
-   "title": "Inacios Verletzung und die Folgen beim BVB - auch für den Transfermarkt?",
-   "link": "https://www.kicker.de/inacios-verletzung-und-die-folgen-beim-bvb-auch-fuer-den-transfermarkt-1273240/artikel",
-   "source": "kicker",
-   "published": "2026-11-21T09:19:55Z",
-   "teaser": "Samuele Inacio wird dem BVB mehrere Monate fehlen. Was heißt das für die nächste Transferperiode? Wer nun besonders im Fokus steht - und wem sich eine neue Chance auftut.",
-   "clubs": [
-    7
-   ],
-   "transfer": true
-  },
-  {
-   "id": "https://www.kicker.de/pressestimmen-nach-dem-kane-aus-nacht-des-schreckens-1273427/artikel",
-   "title": "Pressestimmen nach dem Kane-Aus: \"Nacht des Schreckens\"",
-   "link": "https://www.kicker.de/pressestimmen-nach-dem-kane-aus-nacht-des-schreckens-1273427/artikel",
-   "source": "kicker",
-   "published": "2026-11-21T07:44:34Z",
-   "teaser": "Das 1:1 gegen den 1. FC Köln ist folgenreich: Der FC Bayern beklagt mit Harry Kane und Michael Olise zwei Verletzte. Gerade das Aus des Ballon-d'Or-Gewinners schlägt weit über Deutschland hinaus Wellen. Die internationalen Pressestimmen.",
-   "clubs": [
-    40,
-    65
    ],
    "transfer": false
   }
