@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:42:04Z",
+ "updated": "2026-11-28T07:35:38Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,58 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.kicker.de/zwei-aufsteiger-vorn-welche-bundesliga-keeper-mehr-halten-als-erwartet-1275567/slideshow",
+   "title": "Zwei Aufsteiger vorn: Welche Bundesliga-Keeper mehr halten als erwartet",
+   "link": "https://www.kicker.de/zwei-aufsteiger-vorn-welche-bundesliga-keeper-mehr-halten-als-erwartet-1275567/slideshow",
+   "source": "kicker",
+   "published": "2026-11-28T07:29:07Z",
+   "teaser": "Am Samstag kommt es zum Aufsteiger-Duell zwischen Paderborn und Schalke, die beide auf einen sicheren Rückhalt vertrauen können. Grundlage ist der Vergleich zwischen den Gegentoren, die nach der Qualität der Schüsse aufs Tor zu erwarten …",
+   "clubs": [
+    9,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/wer-uebertraegt-vfb-stuttgart-gegen-eintracht-frankfurt-heute-live-im-tv-stream-1275578/artikel",
+   "title": "Wer überträgt VfB Stuttgart gegen Eintracht Frankfurt heute live im TV & Stream?",
+   "link": "https://www.kicker.de/wer-uebertraegt-vfb-stuttgart-gegen-eintracht-frankfurt-heute-live-im-tv-stream-1275578/artikel",
+   "source": "kicker",
+   "published": "2026-11-28T05:00:00Z",
+   "teaser": "Das Samstagabendspiel am 11. Spieltag der Bundesliga steigt in Stuttgart: Der VfB empfängt Tabellennachbar Eintracht Frankfurt. Wo du die Partie heute live im TV und Stream sehen kannst, erfährst du hier.",
+   "clubs": [
+    16,
+    91
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/thioune-ordnet-ein-wahrheit-liegt-ein-bisschen-dazwischen-1275777/video",
+   "title": "Thioune ordnet ein: \"Wahrheit liegt ein bisschen dazwischen\"",
+   "link": "https://www.kicker.de/thioune-ordnet-ein-wahrheit-liegt-ein-bisschen-dazwischen-1275777/video",
+   "source": "kicker",
+   "published": "2026-11-28T00:05:17Z",
+   "teaser": "Werder-Trainer Daniel Thioune analysiert das 3:3 gegen Gladbach und erklärt, warum die Bremer Probleme mit der spielerischen Qualität und dem Spielaufbau der Borussia hatten.",
+   "clubs": [
+    87,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/blessin-will-bremen-schon-gratulieren-fuehlt-sich-wie-eine-niederlage-an-1275776/video",
+   "title": "Blessin will Bremen schon gratulieren: \"Fühlt sich wie eine Niederlage an\"",
+   "link": "https://www.kicker.de/blessin-will-bremen-schon-gratulieren-fuehlt-sich-wie-eine-niederlage-an-1275776/video",
+   "source": "kicker",
+   "published": "2026-11-27T23:39:45Z",
+   "teaser": "Gladbach-Trainer Alexander Blessin zeigt sich nach dem 3:3 gegen Werder Bremen enttäuscht. Trotz einer starken Leistung und einer zwischenzeitlichen 3:1-Führung fühlt sich der Punkt für den Trainer wie eine Pleite an.",
+   "clubs": [
+    87,
+    134
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.sportschau.de/fussball/die-sportschau-vom-freitag-mit-bayern-gegen-koeln,sportschau-am-freitag-re-live-2711-100.html",
    "title": "Die Sportschau vom Freitag mit Bremen gegen Mönchengladbach",
@@ -61,6 +113,19 @@
    "source": "Sportschau",
    "published": "2026-11-27T22:37:07Z",
    "teaser": "Werder Bremen und Borussia Mönchengladbach liefern sich ein rasantes und hoch emotionales Bundesligaspiel, in dem die Fohlen eine Zwei-Tore-Führung verspielen.",
+   "clubs": [
+    87,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/natuerlich-fuellkrug-gladbach-verspielt-sieg-in-bremen,spielbericht-werder-bremen-borussia-moenchengladbach-114.html",
+   "title": "Natürlich Füllkrug - Mönchengladbach verspielt Sieg in Bremen",
+   "link": "https://www.sportschau.de/fussball/bundesliga/natuerlich-fuellkrug-gladbach-verspielt-sieg-in-bremen,spielbericht-werder-bremen-borussia-moenchengladbach-114.html",
+   "source": "Sportschau",
+   "published": "2026-11-27T22:37:07Z",
+   "teaser": "Werder Bremen und Borussia Mönchengladbach liefern sich in der Fußball-Bundesliga ein rasantes und hoch emotionales Spiel, in dem die Fohlen eine Zwei-Tore-Führung verspielen.",
    "clubs": [
     87,
     134
@@ -2415,69 +2480,6 @@
    "source": "Sportschau",
    "published": "2026-11-21T18:53:00Z",
    "teaser": "Auch wenn er beim 1:0-Sieg in Gladbach anders jubelte: BVB-Profi Felix Nmecha schließt die umstrittene Kronen-Geste nicht aus.",
-   "clubs": [
-    7,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/keine-kampfansage-von-kovac-nichts-als-eine-momentaufnahme-1273638/video",
-   "title": "Keine Kampfansage von Kovac: \"Nichts als eine Momentaufnahme\"",
-   "link": "https://www.kicker.de/keine-kampfansage-von-kovac-nichts-als-eine-momentaufnahme-1273638/video",
-   "source": "kicker",
-   "published": "2026-11-21T18:41:40Z",
-   "teaser": "Die Verletzungssorgen in München sind groß, dazu hat der BVB nun auch noch die Tabellenspitze übernommen. Coach Niko Kovac will aber daraus aber noch nichts für die restliche Saison ableiten.",
-   "clubs": [
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/donnernder-applaus-bayern-fan-kritisiert-bosse-wegen-musiala-1273629/video",
-   "title": "Donnernder Applaus: Bayern-Fan kritisiert Bosse wegen Musiala",
-   "link": "https://www.kicker.de/donnernder-applaus-bayern-fan-kritisiert-bosse-wegen-musiala-1273629/video",
-   "source": "kicker",
-   "published": "2026-11-21T18:24:17Z",
-   "teaser": "Auf der Jahreshauptversammlung des FC Bayern wählte ein Fan deutliche Worte und kritisierte einige Bosse für den Umgang mit Jamal Musiala in der Öffentlichkeit.",
-   "clubs": [
-    40
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/keine-lautsprecher-kein-problem-frankfurt-fans-begeistern-a-cappella-1273526/artikel",
-   "title": "Keine Lautsprecher? Kein Problem! Frankfurt-Fans begeistern a cappella",
-   "link": "https://www.kicker.de/keine-lautsprecher-kein-problem-frankfurt-fans-begeistern-a-cappella-1273526/artikel",
-   "source": "kicker",
-   "published": "2026-11-21T18:22:48Z",
-   "teaser": "\"Wenn schon die Technik streikt, dann springen wir eben ein\", dachten sich wohl die Fans von Eintracht Frankfurt beim Heimspiel gegen die TSG Hoffenheim am Samstagnachmittag und sorgten so für ein Kuriosum im Deutsche-Bank-Park.",
-   "clubs": [
-    91,
-    175
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/frustrierter-tillman-ueber-den-applaus-macht-nicht-mehr-viel-mit-mir-1273600/artikel",
-   "title": "Frustrierter Tillman über den Applaus: \"Macht nicht mehr viel mit mir\"",
-   "link": "https://www.kicker.de/frustrierter-tillman-ueber-den-applaus-macht-nicht-mehr-viel-mit-mir-1273600/artikel",
-   "source": "kicker",
-   "published": "2026-11-21T18:22:05Z",
-   "teaser": "Malik Tillman ist in Leverkusen bislang nicht glücklich geworden. Gegen Paderborn machte er beim 4:0 sein bestes Spiel für Bayer 04 in dieser Saison. Doch nach den Pfiffen in der Vergangenheit konnte sich der 24-Jährige über den Applaus …",
-   "clubs": [
-    6,
-    31
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/schroeder-sagte-es-hartmann-persoenlich-eine-absolute-fehlentscheidung-1273583/artikel",
-   "title": "Schröder sagte es Hartmann persönlich: \"Eine absolute Fehlentscheidung\"",
-   "link": "https://www.kicker.de/schroeder-sagte-es-hartmann-persoenlich-eine-absolute-fehlentscheidung-1273583/artikel",
-   "source": "kicker",
-   "published": "2026-11-21T18:19:15Z",
-   "teaser": "Borussia Mönchengladbach grüßt weiter vom Tabellenende. Nach dem 0:1 gegen den neuen Spitzenreiter aus Dortmund erregte besonders eine Szene vor der Pause das Gemüt von Gladbach-Sportchef Rouven Schröder.",
    "clubs": [
     7,
     87
