@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T07:35:38Z",
+ "updated": "2026-11-28T16:23:11Z",
  "sources": [
   {
    "name": "kicker",
@@ -15,6 +15,156 @@
   "Sportschau"
  ],
  "items": [
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/kimmich-verliert-die-nerven-bayern-wichtige-punkte,spielbericht-hamburger-sv-bayern-muenchen-102.html",
+   "title": "Kimmich verliert die Nerven, Bayern wichtige Punkte",
+   "link": "https://www.sportschau.de/fussball/bundesliga/kimmich-verliert-die-nerven-bayern-wichtige-punkte,spielbericht-hamburger-sv-bayern-muenchen-102.html",
+   "source": "Sportschau",
+   "published": "2026-11-28T16:22:38Z",
+   "teaser": "Joshua Kimmich verliert die Nerven und sieht die Rote Karte, der FC Bayern verliert im Spiel beim Hamburger SV wichtige Punkte im Meisterkampf der Fußball-Bundesliga.",
+   "clubs": [
+    40,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/fussball/bundesliga/entfesselte-koelner-feiern-tor-party-gegen-elversberg,spielbericht-koeln-sv-elversberg-100.html",
+   "title": "Bundesliga: Köln feiert Tor-Party gegen Elversberg",
+   "link": "https://www.sportschau.de/fussball/bundesliga/entfesselte-koelner-feiern-tor-party-gegen-elversberg,spielbericht-koeln-sv-elversberg-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-28T16:20:59Z",
+   "teaser": "Der 1. FC Köln wie im Rausch: Dank einer furiosen Offensivleistung haben die Kölner klar gegen Aufsteiger SV Elversberg gewonnen.",
+   "clubs": [
+    65,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/jetzt-auch-kimmich-bayerns-personaldecke-wird-noch-duenner-1275891/artikel",
+   "title": "Jetzt auch Kimmich: Bayerns Personaldecke wird noch dünner",
+   "link": "https://www.kicker.de/jetzt-auch-kimmich-bayerns-personaldecke-wird-noch-duenner-1275891/artikel",
+   "source": "kicker",
+   "published": "2026-11-28T16:01:08Z",
+   "teaser": "Als wäre die Lage beim FC Bayern aktuell noch nicht kompliziert genug, kommt mit Joshua Kimmich ein weiterer Ausfall hinzu.",
+   "clubs": [
+    40
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3918/",
+   "title": "Jetzt live - Schalke geht in Paderborn unter, Köln macht fünf Tore",
+   "link": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3918/",
+   "source": "Sportschau",
+   "published": "2026-11-28T15:57:45Z",
+   "teaser": "In der Bundesliga muss der verletzungsgeplagte FC Bayern nach Hamburg, für Schalke steht ein wichtiges Spiel beim SC Paderborn an und der 1. FC Köln trifft auf Elversberg.",
+   "clubs": [
+    40,
+    65,
+    100,
+    9,
+    31,
+    198
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/eberl-ueber-musialas-rueckschlag-es-ist-eine-menschliche-tragoedie-1275866/artikel",
+   "title": "Eberl über Musialas Rückschlag: \"Es ist eine menschliche Tragödie\"",
+   "link": "https://www.kicker.de/eberl-ueber-musialas-rueckschlag-es-ist-eine-menschliche-tragoedie-1275866/artikel",
+   "source": "kicker",
+   "published": "2026-11-28T14:24:15Z",
+   "teaser": "Jamal Musiala fehlt dem FC Bayern erneut wochenlang. Vor dem Spiel beim Hamburger SV äußerte sich Sportvorstand Max Eberl unter anderem über den 23-Jährigen.",
+   "clubs": [
+    40,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/live-nachspielzeit-in-hamburg-s04-kassiert-in-paderborn-das-1-7-joker-tietz-gleicht-aus-1275262/artikel",
+   "title": "LIVE! Nachspielzeit in Hamburg - S04 kassiert in Paderborn das 1:7 - Joker Tietz gleicht aus",
+   "link": "https://www.kicker.de/live-nachspielzeit-in-hamburg-s04-kassiert-in-paderborn-das-1-7-joker-tietz-gleicht-aus-1275262/artikel",
+   "source": "kicker",
+   "published": "2026-11-28T13:28:29Z",
+   "teaser": "Im Nord-Süd-Klassiker gastiert der FC Bayern im Volksparkstadion beim HSV. Beim Aufeinandertreffen der Krisenklubs empfängt Mainz Union Berlin, im Aufsteigerduell Paderborn den FC Schalke.",
+   "clubs": [
+    40,
+    81,
+    80,
+    100,
+    9,
+    31
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/batz-spricht-ueber-nicolas-und-die-gladbacher-torwartfrage-1275825/artikel",
+   "title": "Batz spricht über Nicolas und die Gladbacher Torwartfrage",
+   "link": "https://www.kicker.de/batz-spricht-ueber-nicolas-und-die-gladbacher-torwartfrage-1275825/artikel",
+   "source": "kicker",
+   "published": "2026-11-28T11:18:06Z",
+   "teaser": "Daniel Batz zeigte beim 3:3 in Bremen die gewünschte Reaktion auf seinen Dortmund-Patzer. Nach dem Spiel äußerte sich der Routinier zur komplizierten Situation seines Konkurrenten im Duell ums Gladbacher Tor.",
+   "clubs": [
+    7,
+    87,
+    134
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/assomo-und-cardozo-gegen-den-hsv-im-bayern-kader-1275829/artikel",
+   "title": "Assomo und Cardozo gegen den HSV im Bayern-Kader",
+   "link": "https://www.kicker.de/assomo-und-cardozo-gegen-den-hsv-im-bayern-kader-1275829/artikel",
+   "source": "kicker",
+   "published": "2026-11-28T11:02:36Z",
+   "teaser": "Die lange Verletztenliste in der Offensive lässt Bayern-Trainer Vincent Kompany gar keine andere Wahl. Er muss experimentieren und Talente testen. Daher steht der 16-jährige Stürmer Bastian Assomo am Samstagnachmittag im Kader.",
+   "clubs": [
+    40,
+    100
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/im-zweiten-anlauf-zur-stammkraft-sonderlob-fuer-tsg-joker-moerstedt-1275801/artikel",
+   "title": "Im zweiten Anlauf zur Stammkraft? Sonderlob für TSG-Joker Moerstedt",
+   "link": "https://www.kicker.de/im-zweiten-anlauf-zur-stammkraft-sonderlob-fuer-tsg-joker-moerstedt-1275801/artikel",
+   "source": "kicker",
+   "published": "2026-11-28T09:51:55Z",
+   "teaser": "Die TSG Hoffenheim hat zwar 13 verschiedene Torschützen, aber derzeit keinen Knipser. Womöglich die Chance für Eigengewächs Max Moerstedt.",
+   "clubs": [
+    175
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.sportschau.de/regional/swr/swr-der-sc-freiburg-ein-spitzenteam-nur-eine-sache-fehlt-noch-100.html",
+   "title": "Der SC Freiburg ein Spitzenteam? Nur eine Sache fehlt noch",
+   "link": "https://www.sportschau.de/regional/swr/swr-der-sc-freiburg-ein-spitzenteam-nur-eine-sache-fehlt-noch-100.html",
+   "source": "Sportschau",
+   "published": "2026-11-28T09:19:38Z",
+   "teaser": "Der SC Freiburg hat sich in der Bundesliga oben festgesetzt. Nur in den Top-Spielen setzte es bislang Niederlagen. In der Partie gegen RB Leipzig soll nun der erste Big Win her. Und die Chancen stehen gut.",
+   "clubs": [
+    1635,
+    112
+   ],
+   "transfer": false
+  },
+  {
+   "id": "https://www.kicker.de/andrich-vor-dem-topspiel-dortmund-kann-sich-gerne-als-spitzenreiter-fuehlen-1275556/artikel",
+   "title": "Andrich vor dem Topspiel: \"Dortmund kann sich gerne als Spitzenreiter fühlen\"",
+   "link": "https://www.kicker.de/andrich-vor-dem-topspiel-dortmund-kann-sich-gerne-als-spitzenreiter-fuehlen-1275556/artikel",
+   "source": "kicker",
+   "published": "2026-11-28T07:47:05Z",
+   "teaser": "Bei Spitzenreiter Dortmund steht Bayer 04 vor einem Schlüsselspiel. Routinier Robert Andrich zeigt sich angriffslustig, doch Torhüter Mark Flekken bringt auch ein gesundes Maß an Skepsis mit. Trifft doch die in ihren Leistungen oft …",
+   "clubs": [
+    7,
+    6
+   ],
+   "transfer": false
+  },
   {
    "id": "https://www.kicker.de/zwei-aufsteiger-vorn-welche-bundesliga-keeper-mehr-halten-als-erwartet-1275567/slideshow",
    "title": "Zwei Aufsteiger vorn: Welche Bundesliga-Keeper mehr halten als erwartet",
@@ -2345,144 +2495,6 @@
    "clubs": [
     134,
     100
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/absage-nachvollziehbar-burkardt-spricht-ueber-klopps-anruf-1273715/artikel",
-   "title": "Absage \"nachvollziehbar\": Burkardt spricht über Klopps Anruf",
-   "link": "https://www.kicker.de/absage-nachvollziehbar-burkardt-spricht-ueber-klopps-anruf-1273715/artikel",
-   "source": "kicker",
-   "published": "2026-11-21T23:49:24Z",
-   "teaser": "Von Bundestrainer Jürgen Klopp wurde Jonathan Burkardt nicht für die November-Länderspiele eingeladen. Nun gab der Eintracht-Angreifer Einblicke in das Telefonat - und bezeichnete die Absage als \"nachvollziehbar\".",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/fussball/die-sportschau-am-samstag-in-voller-laenge,sportschau-am-samstag-re-live-2111-100.html",
-   "title": "Die Sportschau am Samstag in voller Länge",
-   "link": "https://www.sportschau.de/fussball/die-sportschau-am-samstag-in-voller-laenge,sportschau-am-samstag-re-live-2111-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T23:00:00Z",
-   "teaser": "Sehen Sie hier die Sportschau am Samstag mit den Highlights der Bundesliga, 2. Bundesliga, sowie von ausgewählten Spielen der 3. Liga, Frauen-Bundesliga und Premier League.",
-   "clubs": [],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/gruda-als-man-of-the-match-demichelis-bin-nicht-dieser-meinung-1273685/video",
-   "title": "Gruda als Man of the Match? Demichelis: \"Bin nicht dieser Meinung\"",
-   "link": "https://www.kicker.de/gruda-als-man-of-the-match-demichelis-bin-nicht-dieser-meinung-1273685/video",
-   "source": "kicker",
-   "published": "2026-11-21T21:21:43Z",
-   "teaser": "Brajan Gruda ist aktuell einer der Stars von RB Leipzig. Martín Demichelis lobt ihn nach seinen guten Leistungen beim DFB und gegen Union Berlin, sieht ihn heute aber nicht als Man of the Match.",
-   "clubs": [
-    1635,
-    80
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/wetten-dass-der-schalker-torknoten-gegen-den-bvb-platzt-1273678/video",
-   "title": "\"Wetten, dass der Schalker Torknoten gegen den BVB platzt?\"",
-   "link": "https://www.kicker.de/wetten-dass-der-schalker-torknoten-gegen-den-bvb-platzt-1273678/video",
-   "source": "kicker",
-   "published": "2026-11-21T21:00:32Z",
-   "teaser": "Gegen Stuttgart holte Schalke zwar einen Punkt, verpasste aber erneut den ersten Treffer der Saison vor heimischer Kulisse. Die nächste Gelegenheit würde sich durchaus für die Premiere anbieten, immerhin wartet das Revierderby.",
-   "clubs": [
-    7,
-    16,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/hoeness-nach-becker-handspiel-warum-sich-das-nicht-einmal-angeschaut-wird-1273663/artikel",
-   "title": "Hoeneß nach Becker-Handspiel: \"Warum sich das nicht einmal angeschaut wird ...\"",
-   "link": "https://www.kicker.de/hoeness-nach-becker-handspiel-warum-sich-das-nicht-einmal-angeschaut-wird-1273663/artikel",
-   "source": "kicker",
-   "published": "2026-11-21T21:00:16Z",
-   "teaser": "Der VfB Stuttgart hat den Kontakt nach oben etwas abreißen lassen durch das 0:0 auf Schalke. In diesem Zusammenhang störten sich Kapitän Deniz Undav und Trainer Sebastian Hoeneß noch an einer Szene.",
-   "clubs": [
-    16,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-bei-borussia-moenchengladbach-geht-aktuell-alles-schief-100.html",
-   "title": "Bei Borussia Mönchengladbach geht aktuell alles schief",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-bei-borussia-moenchengladbach-geht-aktuell-alles-schief-100.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T20:32:40Z",
-   "teaser": "Borussia Mönchengladbach verliert auch gegen den BVB und bleibt Tabellenletzter. Die Umstände dieser Niederlage sprechen Bände.",
-   "clubs": [
-    7,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/borussen-duelle-der-gegensaetze-wenn-die-bayern-verwundbar-sind-dann-jetzt-1273656/video",
-   "title": "Borussen-Duelle der Gegensätze: \"Wenn die Bayern verwundbar sind, dann jetzt\"",
-   "link": "https://www.kicker.de/borussen-duelle-der-gegensaetze-wenn-die-bayern-verwundbar-sind-dann-jetzt-1273656/video",
-   "source": "kicker",
-   "published": "2026-11-21T19:51:50Z",
-   "teaser": "Der BVB setzte sich im Borussen-Duell aufgrund eines Patzers von Daniel Batz knapp durch. Somit waren die 90 Minuten sinnbildlich für den bisherigen Saisonverlauf der beiden Teams.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/borussen-duell-der-gegensaetze-wenn-die-bayern-verwundbar-sind-dann-jetzt-1273656/video",
-   "title": "Borussen-Duell der Gegensätze: \"Wenn die Bayern verwundbar sind, dann jetzt\"",
-   "link": "https://www.kicker.de/borussen-duell-der-gegensaetze-wenn-die-bayern-verwundbar-sind-dann-jetzt-1273656/video",
-   "source": "kicker",
-   "published": "2026-11-21T19:51:50Z",
-   "teaser": "Der BVB setzte sich im Borussen-Duell aufgrund eines Patzers von Daniel Batz knapp durch. Somit waren die 90 Minuten sinnbildlich für den bisherigen Saisonverlauf der beiden Teams.",
-   "clubs": [
-    40,
-    7
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/schalke-gegen-stuttgart-2026-bundesliga-5226897/spielbericht",
-   "title": "Schalke belohnt sich nicht und bleibt daheim sieg- wie torlos",
-   "link": "https://www.kicker.de/schalke-gegen-stuttgart-2026-bundesliga-5226897/spielbericht",
-   "source": "kicker",
-   "published": "2026-11-21T19:30:00Z",
-   "teaser": "Schalke knüpfte zwar an den spielerischen Trend von zuletzt an, nutzte aber gegen Stuttgart zahlreiche Chancen nicht. Die Sieg- und Torlosigkeit in der heimischen Veltins-Arena ging damit weiter. Die Schwaben ließen derweil vor allem im …",
-   "clubs": [
-    16,
-    9
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.kicker.de/blessin-nach-batz-patzer-habe-nicht-vor-etwas-zu-aendern-1273645/video",
-   "title": "Blessin nach Batz-Patzer: \"Habe nicht vor, etwas zu ändern\"",
-   "link": "https://www.kicker.de/blessin-nach-batz-patzer-habe-nicht-vor-etwas-zu-aendern-1273645/video",
-   "source": "kicker",
-   "published": "2026-11-21T19:01:22Z",
-   "teaser": "Aufgrund eines Bauchgefühls setzte Alexander Blessin im Gladbacher Tor auf Daniel Batz, der prompt gegen den BVB entscheidend patzte. Trotzdem plant der Coach keinen erneuten Wechsel.",
-   "clubs": [
-    7,
-    87
-   ],
-   "transfer": false
-  },
-  {
-   "id": "https://www.sportschau.de/regional/wdr/wdr-nmecha-schliesst-kronen-jubel-nicht-aus-102.html",
-   "title": "Felix Nmecha schließt Kronen-Jubel nicht aus",
-   "link": "https://www.sportschau.de/regional/wdr/wdr-nmecha-schliesst-kronen-jubel-nicht-aus-102.html",
-   "source": "Sportschau",
-   "published": "2026-11-21T18:53:00Z",
-   "teaser": "Auch wenn er beim 1:0-Sieg in Gladbach anders jubelte: BVB-Profi Felix Nmecha schließt die umstrittene Kronen-Geste nicht aus.",
-   "clubs": [
-    7,
-    87
    ],
    "transfer": false
   }
